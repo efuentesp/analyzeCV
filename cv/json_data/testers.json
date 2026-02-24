@@ -1,0 +1,372 @@
+[
+  {
+    "nombre": "David Barrera Muñoz",
+    "rol_propuesto": "Tester",
+    "resumen_profesional": "Especialista en aseguramiento de la calidad con experiencia en planeación y ejecución de pruebas.\nPlanificar y ejecutar estrategias de pruebas funcionales, integrales, de regresión y UAT.\nDefinir y gestionar matrices de prueba, planes de pruebas y criterios de salida.\nIdentificar, priorizar y gestionar defectos en coordinación con equipos de desarrollo y negocio.\n\nGenerar métricas de avance y efectividad para la toma de decisiones y mejora continua.\nMonitorear herramientas de gestión de pruebas y automatización, y controlar datos de prueba.\nCoordinar y capacitar equipos de QA para alinear prácticas con estándares del cliente.\nReportar el estado del proyecto a stakeholders y garantizar entregas con criterios de calidad.",
+    "experiencia_laboral": [
+      {
+        "empresa": "(CitiBanamex)Softtek",
+        "puesto": "QA Coordinador, Líder QA",
+        "fecha_inicio": "junio de 2022",
+        "fecha_fin": "Actual",
+        "actividades_principales": [
+          "Monitorear y controlar las herramientas de gestión de pruebas",
+          "Monitorear y controlar las herramientas de gestión de proyectos",
+          "Realizar seguimiento a herramientas de automatización",
+          "Generar métricas de pruebas y reportes de avance",
+          "Identificar y gestionar riesgos del proyecto",
+          "Planificar tiempos y actividades de pruebas",
+          "Gestionar y controlar defectos",
+          "Gestionar y dar coaching al equipo de pruebas",
+          "Generar y actualizar el plan de pruebas",
+          "Analizar, diseñar, implementar y ejecutar pruebas"
+        ]
+      }
+    ],
+    "ajuste_puesto_liderazgo": {
+      "empresa": "(Bancomer)-Softtek",
+      "puesto": "Ing. de pruebas",
+      "fecha_inicio": "enero de 2018",
+      "fecha_fin": "junio de 2018",
+      "actividades_principales": [
+        "Definir estrategia y planificación de pruebas",
+        "Diseñar pruebas funcionales y testware ágil",
+        "Ejecutar pruebas ágiles, regresión y pruebas antes de impacto",
+        "Generar y ajustar datos de prueba para UAT",
+        "Levantar y dar seguimiento a hallazgos"
+      ]
+    },
+    "periodo_resumen_laboral": "La experiencia abarca desde diciembre de 2009 hasta mayo de 2022",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Líder de Pruebas, Ingeniero de Pruebas y QA Manager, enfocadas en la planificación y coordinación de actividades de aseguramiento de la calidad. Se gestionaron equipos, se definieron planes de pruebas y procesos de calidad, y se aplicaron auditorías internas. Las responsabilidades incluyeron conducción de pruebas funcionales e integrales, seguimiento de incidencias y conciliación de hallazgos con clientes, así como capacitación y despliegue de métodos y flujos para mejorar la calidad de productos y procesos.",
+    "estudios": {
+      "carrera": "Licenciatura en Ingeniería de Sistemas Computacionales",
+      "lugar": "México",
+      "periodo": "2007"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "ISTQB",
+        "anio": "2013"
+      },
+      {
+        "nombre": "Certificación RPA starter",
+        "anio": "2019"
+      },
+      {
+        "nombre": "Certificación SCRUM Fundamentals",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Curso Academia de QA",
+        "anio": ""
+      }
+    ]
+  },
+  {
+    "nombre": "David Romero Muñoz",
+    "rol_propuesto": "Tester",
+    "resumen_profesional": "Ingeniero de pruebas funcionales senior con experiencia en planificación y ejecución de pruebas en entornos AMS. Especializado en pruebas funcionales, generación de artefactos de prueba y administración de configuración.\nCapacidad para diseñar y ejecutar pruebas alineadas a procesos corporativos y gestionar incidencias. Orientado a garantizar la conformidad de las soluciones con los requerimientos y expectativas del cliente.\n\nExperiencia en verificación de requerimientos y elaboración de reportes de avance para stakeholders. Liderar y coordinar actividades de prueba dentro de torres de Carteras y Cadena de Suministro. Aplicar metodologías de pruebas y controles de calidad durante todo el ciclo de pruebas. Fomentar trabajo en equipo y coaching para el cumplimiento de objetivos de calidad.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Coppel - Softtek",
+        "puesto": "Ingeniero de pruebas funcionales",
+        "fecha_inicio": "Abril 2023",
+        "fecha_fin": "Actual",
+        "actividades_principales": [
+          "Realizar pruebas funcionales en las torres de Carteras y Cadena de Suministro dentro de la práctica AMS.",
+          "Generar artefactos de prueba alineados a los procesos establecidos por Coppel.",
+          "Ejecutar pruebas funcionales sobre incidencias atendidas en las torres de Carteras y Cadena de Suministro.",
+          "Administrar la configuración alineada a los procesos establecidos por Coppel.",
+          "Verificar y garantizar que la solución implementada para las incidencias sea solucionada de raíz.",
+          "Garantizar que las soluciones cumplan con las expectativas del cliente.",
+          "Alinear los artefactos y las pruebas con los procesos y estándares de Coppel.",
+          "Soportar la práctica de AMS en actividades de pruebas funcionales para las torres asignadas.",
+          "Documentar artefactos de prueba según los procesos establecidos por Coppel.",
+          "Utilizar herramientas corporativas (M365 Copilot, Coppel GENius, SQLServer, PosgreSQL, LibreOffice, Microsoft Office, Microsoft Teams) para apoyar las actividades de pruebas."
+        ]
+      }
+    ],
+    "ajuste_puesto_liderazgo": {
+      "empresa": "",
+      "puesto": "",
+      "fecha_inicio": "",
+      "fecha_fin": "",
+      "actividades_principales": []
+    },
+    "periodo_resumen_laboral": "La experiencia abarca desde julio de 2011 hasta diciembre de 2022",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Ingeniero de pruebas funcionales y Líder de pruebas funcionales. Las responsabilidades incluyeron planificación y ejecución de pruebas, generación de artefactos de prueba, gestión de incidencias y administración de recursos de prueba. Se trabajó en la coordinación con stakeholders y en la elaboración de reportes de avance y cierre. Las funciones reflejan evolución hacia roles de liderazgo en procesos de aseguramiento de la calidad.",
+    "estudios": {
+      "carrera": "Licenciatura en Informática Administrativa",
+      "lugar": "Cuautitlán Izcalli, Estado de México",
+      "periodo": "2001-2004"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "Certificación en ISO 27001 Foundation",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified (SFC)",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Certificación en ISTQB Foundation Level",
+        "anio": "2016"
+      }
+    ]
+  },
+  {
+    "nombre": "Dulce Janet Hernández Delgado",
+    "rol_propuesto": "Tester",
+    "resumen_profesional": "Planear y ejecutar pruebas para verificar el cumplimiento de requisitos funcionales.\nValidar resultados contra matrices de pruebas y criterios de aceptación definidos.\nIdentificar y documentar defectos, y dar seguimiento hasta su resolución.\nGenerar evidencia y reportes de estatus para soporte a decisiones de calidad.\n\nCoordinar la creación y mantenimiento de matrices RDP y casos de prueba.\nRealizar pruebas funcionales, de integración, regresión y UAT en ambientes controlados.\nComunicar hallazgos al equipo de desarrollo y negocio para la priorización de incidencias.\nContribuir a la mejora continua de procesos y documentación de pruebas.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Banorte – Softtek",
+        "puesto": "Ingeniero de Pruebas",
+        "fecha_inicio": "Septiembre 2024",
+        "fecha_fin": "Actual",
+        "actividades_principales": [
+          "Planear, analizar, diseñar y estimar pruebas con metodologías Scrum y cascada.",
+          "Analizar requerimientos e historias de usuario y revisar/refinar criterios de aceptación (CTHU y AT).",
+          "Diseñar matrices y casos de prueba aplicando técnicas de diseño de casos de prueba.",
+          "Ejecutar y dar seguimiento a pruebas manuales dinámicas (unitarias, funcionales, integrales, sistema, UAT y regresión) en ambiente QA.",
+          "Registrar y dar seguimiento a defectos y evidencias en Jira, Mantis y Service Now.",
+          "Elaborar plan de pruebas, reporte de ambigüedades, registro de riesgos y documentación de evidencias."
+        ]
+      },
+      {
+        "empresa": "IFT – Softtek",
+        "puesto": "Ingeniero de Pruebas",
+        "fecha_inicio": "Marzo 2023",
+        "fecha_fin": "Septiembre 2024",
+        "actividades_principales": [
+          "Elaborar pruebas estáticas y realizar revisiones guiadas, formales e informales.",
+          "Elaborar plan de pruebas, reporte de ambigüedades y registro de riesgos.",
+          "Planear, analizar, diseñar, ejecutar y estimar pruebas.",
+          "Diseñar matrices de prueba y crear casos de prueba aplicando técnicas de diseño.",
+          "Ejecutar y dar seguimiento a pruebas manuales dinámicas en ambiente QA.",
+          "Documentar evidencias de ejecución y dar seguimiento a defectos con el equipo de desarrollo."
+        ]
+      }
+    ],
+    "ajuste_puesto_liderazgo": {
+      "empresa": "",
+      "puesto": "",
+      "fecha_inicio": "",
+      "fecha_fin": "",
+      "actividades_principales": []
+    },
+    "periodo_resumen_laboral": "La experiencia abarca desde enero de 2017 hasta enero de 2023",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Ingeniero de Pruebas y Analista de Negocio. Se asumieron responsabilidades centradas en la verificación de requerimientos, la planeación y ejecución de pruebas, la elaboración y revisión de casos y matrices de prueba, y el registro y seguimiento de incidencias. Además se participó en la documentación técnica y en la coordinación con equipos de desarrollo y negocio para validar resultados. Las funciones incluyeron apoyo a usuarios en pruebas y contribución a la mejora de procesos y entregables.",
+    "estudios": {
+      "carrera": "Ingeniería en Tecnologías de la información y comunicaciones (ITIC´S)",
+      "lugar": "Tlalnepantla de Baz, Estado de México",
+      "periodo": "2012-2016"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "ISTQB – Certified Tester, Foundation Level",
+        "anio": "2020"
+      },
+      {
+        "nombre": "SAFe for Teams Course (5.0)",
+        "anio": "2021"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified",
+        "anio": "2022"
+      },
+      {
+        "nombre": "ISO/IEC 27001:2013 Foundation – I27001F",
+        "anio": "2022"
+      }
+    ]
+  },
+  {
+    "nombre": "Giovanni Barragán García",
+    "rol_propuesto": "Tester",
+    "resumen_profesional": "Planificación y ejecución de pruebas para validar cumplimiento de requerimientos funcionales.\nUso de matrices de trazabilidad para asegurar la cobertura de pruebas.\nGestión y priorización de defectos durante ciclos de prueba.\nCoordinación con usuarios para validar resultados y evidencia de pruebas.\n\nEvaluación de la calidad del software mediante pruebas funcionales y de regresión.\nElaboración de planes y estrategias de prueba con criterios de salida.\nGeneración de evidencias y reportes para la toma de decisiones.\nAseguramiento de la calidad mediante revisiones y control de entregables.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek – IFT",
+        "puesto": "Líder de pruebas",
+        "fecha_inicio": "Septiembre 2024",
+        "fecha_fin": "Actualmente",
+        "actividades_principales": [
+          "Crear plan de pruebas y estrategia para IFT",
+          "Implementar template para carga de casos de prueba a teatlink",
+          "Analizar documentación para generar matrices de casos de prueba",
+          "Diseñar casos de prueba en Testlink",
+          "Realizar seguimiento y control de pruebas manuales y de regresión",
+          "Registrar y hacer seguimiento de defectos en Mantis",
+          "Crear FMEA para identificación y mitigación de riesgos"
+        ]
+      },
+      {
+        "empresa": "Softtek – Digital office",
+        "puesto": "Líder de pruebas",
+        "fecha_inicio": "Agosto 2022",
+        "fecha_fin": "Agosto 2024",
+        "actividades_principales": [
+          "Analizar y diseñar documentación para generación de matrices de casos de prueba",
+          "Generar casos de prueba aplicando técnicas de diseño de casos de prueba",
+          "Realizar seguimiento y control de pruebas manuales y de regresión",
+          "Crear scripts para consulta de datos en BDD",
+          "Generar peer review para garantizar calidad de entregables de diseño",
+          "Generar matrices de datos y trazabilidad",
+          "Planear y organizar pruebas desde etapa de análisis hasta el cierre"
+        ]
+      }
+    ],
+    "ajuste_puesto_liderazgo": {
+      "empresa": "ILCE",
+      "puesto": "Tester Sr.",
+      "fecha_inicio": "Enero 2017",
+      "fecha_fin": "Mayo 2017",
+      "actividades_principales": [
+        "Planear y coordinar actividades del equipo de Continuidad",
+        "Analizar requerimientos funcionales",
+        "Diseñar matrices de casos de prueba y trazabilidad con los requerimientos",
+        "Diseñar casos de prueba funcionales",
+        "Ejecutar casos de prueba funcionales con base en el plan de ejecución"
+      ]
+    },
+    "periodo_resumen_laboral": "La experiencia abarca desde marzo de 2014 hasta agosto de 2022",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Líder de pruebas, Tester Sr. y Tester Jr., asumiendo responsabilidades de planificación, coordinación y ejecución de actividades de prueba. Se trabajó en la elaboración de estrategias y planes de prueba, gestión y priorización de defectos, revisión de entregables y apoyo a la validación con usuarios. Además se participó en la generación de matrices y trazabilidad, apoyo en la estimación de esfuerzo y supervisión del trabajo del equipo, contribuyendo al aseguramiento de la calidad en diferentes proyectos.",
+    "estudios": {
+      "carrera": "Ingeniería en Sistemas de Información",
+      "lugar": "CDMX",
+      "periodo": "2015"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "Curso Mantis",
+        "anio": "2023"
+      },
+      {
+        "nombre": "Curso Testlink",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Certifiación ISTQB Test Manager Advance",
+        "anio": "2021"
+      },
+      {
+        "nombre": "Curso TMMi",
+        "anio": "2021"
+      },
+      {
+        "nombre": "Certificación Scrum Fundation",
+        "anio": "2020"
+      },
+      {
+        "nombre": "Liderazgo y motivación empresarial",
+        "anio": "2019"
+      },
+      {
+        "nombre": "Certificación ISTQB Fundation",
+        "anio": "2018"
+      },
+      {
+        "nombre": "Conceptos básicos de un Tester",
+        "anio": "2017"
+      },
+      {
+        "nombre": "Principios básicos de seguros y aseguradoras",
+        "anio": "2017"
+      },
+      {
+        "nombre": "Calidad tecnológica en ti (icf)",
+        "anio": "2017"
+      },
+      {
+        "nombre": "Sql server oracle toad",
+        "anio": "2016"
+      }
+    ]
+  }
+,
+  {
+    "nombre": "Horus Ramses García San Miguel",
+    "rol_propuesto": "Tester",
+    "resumen_profesional": "Coordinar la planificación y ejecución de pruebas para validar el cumplimiento de requerimientos funcionales.\nUtilizar matrices de trazabilidad y criterios de salida para asegurar la cobertura de pruebas.\nIdentificar, registrar y gestionar defectos hasta su resolución.\nColaborar con áreas funcionales y de desarrollo para la validación de correcciones.\n\nDiseñar y ejecutar estrategias de pruebas que incluyan pruebas funcionales, de regresión y de aceptación.\nGenerar documentación y evidencias de pruebas para auditoría y cumplimiento.\nMedir y reportar métricas de calidad para la toma de decisiones del proyecto.\nAsegurar el uso de ambientes y datos adecuados para la revalidación de correcciones.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek - IMSS",
+        "puesto": "Analista Tester/Aseguramiento de Calidad",
+        "fecha_inicio": "Agosto 2025",
+        "fecha_fin": "Enero 2026",
+        "actividades_principales": [
+          "Reunir y entender los requerimientos funcionales y no funcionales del sistema.",
+          "Diseñar casos de prueba detallados con pasos, datos de entrada y resultados esperados.",
+          "Ejecutar pruebas funcionales, de regresión, de integración, de sistema y de aceptación.",
+          "Registrar resultados de pruebas y documentar defectos encontrados."
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Funcional Tester/Aseguramiento de Calidad - ALIATICA",
+        "fecha_inicio": "Mayo 2025",
+        "fecha_fin": "Junio 2025",
+        "actividades_principales": [
+          "Ejecutar pruebas funcionales, de regresión y unitarias en módulos de SAP GUI S/4 HANA.",
+          "Ejecutar pruebas en los módulos de Cuentas por cobrar, Finanzas y Cuentas de mayor.",
+          "Generar documentación y evidencia de pruebas.",
+          "Preparar plantillas y prompts para evidencias de prueba."
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "QA Manager / Líder de Proyecto del Servicio de Aseguramiento de la Calidad de los Aplicativos – Citibanamex",
+        "fecha_inicio": "Mayo 2022",
+        "fecha_fin": "Mayo 2025",
+        "actividades_principales": [
+          "Liderar la administración y manejo del equipo de pruebas interno y del cliente.",
+          "Elaborar planes de prueba identificando esfuerzo, recursos requeridos y métricas.",
+          "Ejecutar y coordinar pruebas funcionales, no funcionales, automatizadas y de regresión en diferentes ambientes.",
+          "Crear informes de métricas y tableros de indicadores sobre el estado de proyectos."
+        ]
+      }
+    ],
+    "ajuste_puesto_liderazgo": {
+      "empresa": "",
+      "puesto": "",
+      "fecha_inicio": "",
+      "fecha_fin": "",
+      "actividades_principales": []
+    },
+    "periodo_resumen_laboral": "La experiencia abarca desde marzo de 2010 hasta abril de 2022",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Líder de Proyecto, Líder de pruebas y QA Manager. Se asumió la responsabilidad de gestionar equipos, coordinar servicios de aseguramiento de calidad y supervisar entregables. También se planificaron y controlaron actividades del servicio, se administraron recursos y se mantuvo comunicación con clientes y stakeholders para asegurar la prestación del servicio. Adicionalmente, se participó en la generación de documentación de control y en la organización de actividades operativas del área de calidad.",
+    "estudios": {
+      "carrera": "Ingeniería en Tecnologías de la Información y Comunicación",
+      "lugar": "Universidad Tecnológica de Nezahualcóyotl",
+      "periodo": "2013"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "Scrum Fundamentals (Certificado)",
+        "anio": "2022"
+      },
+      {
+        "nombre": "TMMi Foundations (Certificado)",
+        "anio": "2021"
+      },
+      {
+        "nombre": "ISTQB Advance Test Manager (Certificado)",
+        "anio": "2020"
+      },
+      {
+        "nombre": "ISTQB Fundamental (Certificado)",
+        "anio": "2019"
+      },
+      {
+        "nombre": "SCRUM Master (Diploma)",
+        "anio": "2018"
+      },
+      {
+        "nombre": "CCNA CISCO I, II, III y IV",
+        "anio": "2007-2009"
+      }
+    ]
+  }
+]

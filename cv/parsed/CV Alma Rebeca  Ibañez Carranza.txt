@@ -1,0 +1,384 @@
+
+
+--- Página 1 (OCR) ---
+
+2/18/2026 Alma Rebeca Ibañez Carranza
+
+Powered by P eightfold.ai
+
+Alma Rebeca Ibañez Carranza
+
+Data Management Engineer OnPrem ETL Sr
+Mexico
+
+% ALMA.IBANEZ(QSOFTTEK.COM
+
+19 años de experiencia total
+
+.O
+
+Data Management Engineer OnPremETL Sr, Softtek 2020-Current (6 años)
+Analista de Datos, Softtek 2024-2025 (8 meses)
+
+Software Engineer, Softtek 2018-2020 (2 años)
+
+Consultor SAS, Capgemini 2012-2018 (6 años)
+
+Consultor SAS, Citibanamex 2009-2012 (3 años)
+
+Consultor Jr, GNP 2007-2009 (2 años)
+
+Universidad Camilo JOSÉ Cela / IMF SMAT Educa Masters, 2022
+
+?
+/ — Inteligencia Empresarial, Oracle SQL Developer, Bases de Datos, Oracle Database, Data Analist, Python,
+Microsoft Excel
+
+Empleado Actual
+
+301
+
+Resumen
+
+Profesionista con Maestría en Big data y Bussiness Analist , con conocimiento y experiencia en el sector financiero
+(Bancos nacionales e internacionales, Seguros Nacionales). Con mas de 9 años de experiencia en herramientas de
+SAS como SAS Enterprise Guide, SAS Data Integration, entre otras. Gran experiencia en análisis, diseño y desarrollo
+de soluciones con proceso ETL. Manejo de herramientas de Bases de datos, Integración de información y
+Visualización. Uso de metodologías Agiles y Scrum. Habilidades de trabajo en equipo, comunicación, liderazgo y
+autoaprendizaje.
+
+Perfil resumen
+
+Experiencia
+
+
+--- Página 2 (OCR) ---
+
+2/18/2026 Alma Rebeca Ibañez Carranza
+
+Data Management Engineer OnPrem ETL Sr
+S Softtek
+
+Jul 2020 - Current (5 años, 8 meses)
+
+Funciones:- — Identificación de requerimientos con usuario de negocio para crear el documento de análisis.-
+Catálogos de reglas de negocio- Diagrama de contexto: Análisis de fuentes de datos- Modelo de
+dominio- Elaboración de mapeos Origen - Destino identificando las transformaciones traducidas a tecnología de
+acuerdo con las reglas de negocio definidas. - Generación de esquemas de flujo para identificación de caminos
+de los procesos analizados. - — Diseño procesos e identificación de componentes para dar soluciones acordes a
+las necesidades del negocio.- Diseño del modelo conceptual.- Diseño lógico del modelo.- Diseño de
+procesos e identificación de componentes reusables en la elaboración de diagramas de flujo. - Diseño de los
+casos de prueba.- Definición de especificaciones técnicas para la construcción de la solución e integración del
+dato.- Construcción de la solución en la herramienta tecnológica definida en la solución.- — Aseguramiento de la
+calidad del entregable.- — Desarrollo de pruebas unitarias.-  Soporte al modelo de datos para explotarlo con
+herramientas Front End.- — Creación de los manuales de instalación.- — Creación de los manuales de operación.-
+Acompañamiento a producción.- Soporte a postproducción Proyectos:- Portal BIT Dashboards para entidad
+de gobierno: Modelo de Datos del área de Finanzas, Crédito y cobranza entidad financiera: Modelo de Datos
+en elárea de analítica para entidad financiera: — Clientes 360 entidad financiera.- — Cartera comercial entidad
+financiera.- Tenencia y Transaccionalidad entidad financiera.- Nominatarios entidad financiera: — Cartera
+comercial entidad financiera
+
+Analista de Datos
+Softtek
+
+Sep 2024 - Apr 2025 (8 meses)
+
+Elaboración de Matriz origen-destino, resaltando la importancia de las regalas de negocio y las reglas de
+transformación. Elaboración de consultas a traves de SQL Developer para validación de los datos KPIs.
+Analisis de datos, trasavilidad del dato y generación de diagramas. Apoyo en generación de Modelos E-R.
+Colaboración con equipos
+
+Software Engineer
+Softtek
+
+May 2018 - Jun 2020 (2 años, 2 meses)
+
+-Analisis y diseño de ETL para proyectos del Banco
+-Desarrollo de ETL proyectos del banco con SAS Data Integrator.
+
+
+--- Página 3 (OCR) ---
+
+2/18/2026 Alma Rebeca Ibañez Carranza
+
+Consultor SAS
+Capgemini
+, May 2012 - May 2018 (6 años, 1 mes)
+
+Análisis y Administración de DATA para Banca en México (HSBC)- — Apoyo en el Proyecto “Customer
+Experience Study” para Seguros Monterrey New York Life como consultor analista.- — Análisis, Diseño del
+diccionario de datos, Construcción de la solución para detección de puntos compromiso con herramientas SAS
+para Banco Popular Dominicano enfocado al área de prevención de fraude.- — Análisis, Diseño Construcción de la
+solución para el proyecto de “MANTAS” con herramientas SAS para Banco Popular Dominicano enfocado al área
+de prevención de lavado de dinero.- Entrenamiento de las herramientas SAS para personal de Banco Popular
+Dominicano: — Apoyo y resolución de problemas en reportes regulatorios con herramientas SAS.- Desarrollo de
+aplicaciones en reportes regulatorios con herramientas SAS
+
+Consultor SAS
+CitiB anamex
+
+Gestión de liderazgo, comunicación, negociación, resolución de problemas dentro del proyecto “BEST IN
+CLASS MODELS VALIDATION” con la herramienta SAS Enterprise Guide.- — Diseño y desarrollo de procesos ETL
+para la creación del área de prevención del fraude Data Mart con SAS Enterprise Guide.Diseño y desarrollo de
+cubos con SAS OLAP para el área de Prevención de fraude
+
+Consultor Jr
+
+May 2007 - Sep 2009 (2 años, 5 meses)
+
+Desarrollo de aplicaciones con SAS Enterprise Guide y SAS Base para diferentes áreas de negocio.Configuración
+de la consola de gestión de SASConfiguración en SAS Add in Excel y Outlook para los usuarios Apoyo a los
+Usuarios con SAS Enterprise Guide
+
+Educación
+
+
+--- Página 4 (OCR) ---
+
+2/18/2026 Alma Rebeca Ibañez Carranza
+
+Máster en Big Data y Business Analysis
+Universidad Camilo JOSÉ Cela / IMF SMAT Educa
+Feb 2019 to Feb 2022
+
+Comprender el valor de los datos y su análisis en las organizaciones, ser capaz de idear y concebir soluciones de
+análisis de datos.Ser capaz de aplicar técnicas y métodos de análisis de datos a problemas de negocio utilizando
+técnicas de programación estadísticaAplicar técnicas de aprendizaje automático y de minería de texto ala
+extracción de valor de los datosConocer y saber aplicar herramientas de inteligencia de negocio y de visualización
+para apoyar la analítica y toma de decisiones
+
+Maestría en ADMINIST RACIÓN de Negocios Intern
+Universidad Nacional AUTÓNOMA de MÉXICO
+
+Aug 2011 to Dec 2014
+
+Formación de maestros en administración para la dirección, consultoría, desarrollo y promoción de las
+organizaciones en un contexto internacional, bajo un marco de ética y responsabilidad social, que les permita
+evaluar, gestionar y negociar las oportunidades en el comercio internacional, considerando los entornos
+multiculturales con una visión sistémica a largo plazo.
+
+Licenciado en Informatica
+Universidad Nacional AUTÓNOMA de MÉXICO
+
+Aug 2002 to Dec 2006
+
+Formar profesionales capaces de diseñar e implantar soluciones basadas en sistemas de información, que
+faciliten la toma de decisiones y agilicen las operaciones propias de una organización. Esta labor debe adaptarse a
+los avances tecnológicos y a los cambios socioeconómicos tanto en el plano nacional como internacional. Este
+prof esional también contribuye a la satisfacción de las necesidades y al logro de objetivos de las instituciones
+públicas, privadas y sociales, a través del aprovechamiento adecuado de los recursos informáticos, mediante la
+planeación, la organización, la dirección y el control, en las distintas áreas funcionales: personal, finanzas,
+mercadotecnia, producción e informática.
+
+Insignias
+
+*BeKind - Given by Arelly Aurora Zúñiga Becerrilon octubre 23, 2025 at 6:44 pm
+u
+"Al priorizar tu salud mental, siembras la semilla de un mundo mejor. Asistir a la semana de A tu
+salud Mental es acto de amor para ti y los que te rodean ¡Gracias! Well-Being/P£amp;C "
+
+
+--- Página 5 (OCR) ---
+
+2/18/2026 Alma Rebeca Ibañez Carranza
+
+Habilidades
+Microsoft Azure Cloud —| SAS Base » SAS Enterprise Guide * SAS Miner  Oracle SQLDeveloper » Data Analist
+Bases de Datos | MicrosoftOffice — Liderazgo de Equipos — MicrosoftExcel  Inteligencia Empresarial | Chino
+Microsoft SQL Server Integration Services (SSIS) - SAS Data Integration — Microsoft SQL Server
+Oracle Database — Python ' Negotiation 'Leadership  Problem Solving | Efective Communication
+
+Conflict Resolution — Planning % Organization | SAS
+
+Información Personal
+
+% alma.ibanezOsofttek.com
+almareb_230yahoo.com
+
+
+--- Página 6 (OCR) ---
+
+Data Management
+Engineer
+
+O comx
+
+SKILLS
+
+SAS Data Integration
+SAS Enterprise Guide
+Microsoft SQL Server
+ETL Processes
+Análisis de Datos
+Metodologías Ágiles
+
+IDIOMAS
+Español Nativo
+Inglés Intermedio Alto
+
+Portugués Básico
+
+Alma Rebeca Ibañez
+Carranza
+
+RESUMEN
+
+Profesional con Maestría en Big Data y Business Analysis y más de 10 años de
+experiencia en el sector financiero. Especializado en Data Management, análisis,
+diseño y desarrollo de soluciones con procesos ETL. Manejo de herramientas como SAS y
+Microsoft SQL Server, así como metodologías ágiles. Destaco en trabajo en equipo,
+comunicación y liderazgo, buscando siempre mejorar la calidad de los datos y optimizar
+procesos para satisfacer las necesidades del negocio.
+
+EXPERIENCIA PROFESIONAL
+
+Analista de Datos — Softtek | CDMX
+Septiembre 2024 a Abril 2025
+
+En mi rol como Analista de Datos, elaboré una Matriz origen-destino, resaltando la
+importancia de las reglas de negocio y las reglas de transformación. Realicé consultas a
+través de SQL Developer para la validación de los datos KPIs. Me enfoqué en el análisis de
+datos, trazabilidad del dato y generación de diagramas, además de apoyar en la
+generación de Modelos E-R y colaborar con equipos multidisciplinarios.
+
+* Elaboración de Matriz origen-destino.
+
+* Validación de datos KPIs mediante SQL Developer.
+* Análisis de datos y trazabilidad del dato.
+
+* Generación de diagramas y apoyo en Modelos E-R.
+
+* Colaboración con equipos multidisciplinarios.
+
+Tools/Skills: SQL Developer, Análisis de datos, Modelos E-R.
+
+Data Management Engineer OnPrem ETL Sr — Softtek | CDMX
+Mayo 2018 a Junio 2024
+
+Como Data Management Engineer OnPrem ETL Sr, identifiqué requerimientos con
+Uusuarios de negocio para crear documentos de análisis. Desarrollé catálogos de reglas de
+negocio y diagramas de contexto, además de realizar un análisis exhaustivo de fuentes de
+datos. Elaboré mapeos de Origen-Destino, identificando transformaciones tecnológicas de
+acuerdo con las reglas de negocio definidas. Generé esquemas de flujo para identificar
+caminos de los procesos analizados y diseñé procesos e identificaciones de componentes
+para ofrecer soluciones acordes a las necesidades del negocio.
+
+e Identificación de requerimientos con usuarios de negocio.
+
+* Elaboración de mapeos Origen-Destino.
+
+* Generación de esquemas de flujo.
+
+* Diseño de procesos e identificación de componentes reutilizables.
+
+* Aseguramiento de la calidad del entregable.
+
+Tools/Skills: SAS Data Integration, SAS Enterprise Guide, Microsoft SQL Server.
+
+
+--- Página 7 (OCR) ---
+
+EDUCACIÓN
+FORMACIÓN
+
+Mexico
+
+Máster en Big Data y Business
+PUEDOS
+
+Febrero 2019 a Febrero 2022
+Mexico
+
+Maestría en Admi
+Negocios Internacionales
+
+Agosto 2011 a Diciembre 2014
+Mexico
+Licenciado en Informática
+
+Agosto 2002 a Diciembre 2006
+
+CERTIFICACIONES
+
+Certificacion Developer, Dataiku
+Academy, Julio, 2024
+
+Certificacion Advance Designer,
+Dataiku Academy, Julio, 2024
+
+Certificado Core Designer, Dataiku
+Academy, Julio, 2024
+
+Badge 3 Data Aplication Builders
+Workshop, Snowflake Academy,
+Mayo, 2024
+
+Badge2 Collaboration, Marketplace
+8 Cost Estim, Snowflake Academy,
+Mayo, 2024
+
+Badge1 Data Warehousing
+Workshop, Snowflake Academy,
+Mayo, 2024
+
+Certification Microsoft Certified:
+Azure Data Engineer - Asso,
+Microsoft, Enero, 2024
+
+Certificación Liderazgo Orientado a
+Equipos, Softtek, Mayo, 2023
+
+Certificación Liderazgo Orientado a
+las Personas, Sofftek, Noviembre,
+2022
+
+Consultor SAS — Capgemini | CDMX
+Mayo 2012 a Mayo 2018
+
+En mi posición como Consultor SAS, realicé análisis y administración de datos para Banca
+en México (HSBC). Apoyé en el proyecto “Customer Experience Study” para Seguros
+Monterrey New York Life. Además, diseñé y construí soluciones para la detección de
+puntos de compromiso y prevención de fraude utilizando herramientas SAS para Banco
+Popular Dominicano. También proporcioné entrenamiento en herramientas SAS y desarrollé
+aplicaciones para reportes regulatorios.
+
+* Análisis y administración de datos para Banca en México.
+
+* Apoyo en el proyecto “Customer Experience Study.”
+
+* Diseño y construcción de soluciones para prevención de fraude.
+
+* Entrenamiento de herramientas SAS para personal de Banco Popular Dominicano.
+*  Desarrollo de aplicaciones en reportes regulatorios.
+
+Tools/Skills: SAS Data Integration, SAS Enterprise Guide, SAS Miner, Microsoft SQL
+Server.
+
+Consultor SAS — Citibanamex | CDMX
+Octubre 2009 a Abril 2012
+
+En mi rol como Consultor SAS, gestioné liderazgo, comunicación y resolución de
+problemas dentro del proyecto “BEST IN CLASS MODELS VALIDATION” utilizando SAS
+Enterprise Guide, Diseñé y desarrollé procesos ETL para la creación del área de prevención
+del fraude Data Mart y cubos con SAS OLAP para el área de Prevención de fraude.
+
+* Gestión de liderazgo y comunicación en proyectos.
+* Diseño y desarrollo de procesos ETL.
+
+* Desarrollo de cubos con SAS OLAP.
+
+Tools/Skills: SAS Enterprise Guide, SAS Console Management.
+
+Consultor Jr — GNP | CDMX
+Mayo 2007 a Septiembre 2009
+
+Como Consultor Jr, desarrollé aplicaciones con SAS Enterprise Guide y SAS Base para
+diferentes áreas de negocio. Configuré la consola de gestión de SAS y brindé apoyo a los
+Uusuarios con SAS Enterprise Guide.
+
+* Desarrollo de aplicaciones con SAS.
+* Configuración de la consola de gestión de SAS.
+
+* Apoyo a usuarios con SAS Enterprise Guide.
+
+Tools/Skills: SAS Base, SAS Enterprise Guide, SAS Console Management.

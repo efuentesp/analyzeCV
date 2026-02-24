@@ -1,0 +1,612 @@
+David Romero Muñoz
+PERFIL:
+Ingeniero en pruebas funcionales Sr. certificado en ISTQB, Scrum e ISO 27001 con experiencia en gestión de pruebas (planificación y estimación, seguimiento y control del proceso de pruebas, gestión de la configuración, riesgos e incidencias) con participación en las distintas etapas del proceso de pruebas (análisis, diseño, construcción, ejecución, transición y cierre).
+Capacidad de liderar, dar coaching y fomentar el trabajo en equipo para el logro de los objetivos.
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa:
+Coppel - Softtek | Nombre de la empresa:
+Coppel - Softtek | Lugar:
+GDC Mitikah,
+CDMX | Puesto:
+Ingeniero de pruebas funcionales | Desde:
+Abril 2023 | A:
+Actual
+Funciones:
+Ingeniero de pruebas funcionales para las torres de Carteras y Cadena de Suministro dentro de la práctica de AMS.
+Generación de artefactos de prueba alineados a los procesos establecidos por Coppel.
+Ejecución de pruebas funcionales a las incidencias atendidas en las torres de Carteras y Cadena de Suministro.
+Administración de la configuración alineada a los procesos establecidos por Coppel.
+Logros:
+Verificar y garantizar que la solución implementada para cada uno de los incidentes reportados sea solucionada de raíz y cumpla con las expectativas del cliente. | Funciones:
+Ingeniero de pruebas funcionales para las torres de Carteras y Cadena de Suministro dentro de la práctica de AMS.
+Generación de artefactos de prueba alineados a los procesos establecidos por Coppel.
+Ejecución de pruebas funcionales a las incidencias atendidas en las torres de Carteras y Cadena de Suministro.
+Administración de la configuración alineada a los procesos establecidos por Coppel.
+Logros:
+Verificar y garantizar que la solución implementada para cada uno de los incidentes reportados sea solucionada de raíz y cumpla con las expectativas del cliente. | Funciones:
+Ingeniero de pruebas funcionales para las torres de Carteras y Cadena de Suministro dentro de la práctica de AMS.
+Generación de artefactos de prueba alineados a los procesos establecidos por Coppel.
+Ejecución de pruebas funcionales a las incidencias atendidas en las torres de Carteras y Cadena de Suministro.
+Administración de la configuración alineada a los procesos establecidos por Coppel.
+Logros:
+Verificar y garantizar que la solución implementada para cada uno de los incidentes reportados sea solucionada de raíz y cumpla con las expectativas del cliente. | Funciones:
+Ingeniero de pruebas funcionales para las torres de Carteras y Cadena de Suministro dentro de la práctica de AMS.
+Generación de artefactos de prueba alineados a los procesos establecidos por Coppel.
+Ejecución de pruebas funcionales a las incidencias atendidas en las torres de Carteras y Cadena de Suministro.
+Administración de la configuración alineada a los procesos establecidos por Coppel.
+Logros:
+Verificar y garantizar que la solución implementada para cada uno de los incidentes reportados sea solucionada de raíz y cumpla con las expectativas del cliente. | Funciones:
+Ingeniero de pruebas funcionales para las torres de Carteras y Cadena de Suministro dentro de la práctica de AMS.
+Generación de artefactos de prueba alineados a los procesos establecidos por Coppel.
+Ejecución de pruebas funcionales a las incidencias atendidas en las torres de Carteras y Cadena de Suministro.
+Administración de la configuración alineada a los procesos establecidos por Coppel.
+Logros:
+Verificar y garantizar que la solución implementada para cada uno de los incidentes reportados sea solucionada de raíz y cumpla con las expectativas del cliente. | Funciones:
+Ingeniero de pruebas funcionales para las torres de Carteras y Cadena de Suministro dentro de la práctica de AMS.
+Generación de artefactos de prueba alineados a los procesos establecidos por Coppel.
+Ejecución de pruebas funcionales a las incidencias atendidas en las torres de Carteras y Cadena de Suministro.
+Administración de la configuración alineada a los procesos establecidos por Coppel.
+Logros:
+Verificar y garantizar que la solución implementada para cada uno de los incidentes reportados sea solucionada de raíz y cumpla con las expectativas del cliente.
+Herramientas: | M365 Copilot, Coppel GENius, SQLServer, PosgreSQL, LibreOffice, Microsoft Office, Microsoft Teams. | M365 Copilot, Coppel GENius, SQLServer, PosgreSQL, LibreOffice, Microsoft Office, Microsoft Teams. | M365 Copilot, Coppel GENius, SQLServer, PosgreSQL, LibreOffice, Microsoft Office, Microsoft Teams. | M365 Copilot, Coppel GENius, SQLServer, PosgreSQL, LibreOffice, Microsoft Office, Microsoft Teams. | M365 Copilot, Coppel GENius, SQLServer, PosgreSQL, LibreOffice, Microsoft Office, Microsoft Teams.
+Nombre de la empresa:
+IMSS - Softtek | Nombre de la empresa:
+IMSS - Softtek | Lugar:
+Reforma,
+CDMX | Puesto:
+Ingeniero de pruebas funcionales | Desde:
+Mayo 2020 | A:
+Diciembre 2022
+Funciones:
+Diseño de artefactos de prueba para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Ejecución de pruebas funcionales para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Generación de reportes de avance diario dirigidos a los stakeholders de los diferentes proyectos.
+Logros:
+Verificar y garantizar la correcta funcionalidad de los sistemas de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS) en base a los requerimientos funcionales solicitados.
+
+Proyectos:
+PHEDS
+Facturación DIDT
+Vacuna COVID
+Bitácora SAI
+Nueva Normalidad | Funciones:
+Diseño de artefactos de prueba para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Ejecución de pruebas funcionales para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Generación de reportes de avance diario dirigidos a los stakeholders de los diferentes proyectos.
+Logros:
+Verificar y garantizar la correcta funcionalidad de los sistemas de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS) en base a los requerimientos funcionales solicitados.
+
+Proyectos:
+PHEDS
+Facturación DIDT
+Vacuna COVID
+Bitácora SAI
+Nueva Normalidad | Funciones:
+Diseño de artefactos de prueba para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Ejecución de pruebas funcionales para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Generación de reportes de avance diario dirigidos a los stakeholders de los diferentes proyectos.
+Logros:
+Verificar y garantizar la correcta funcionalidad de los sistemas de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS) en base a los requerimientos funcionales solicitados.
+
+Proyectos:
+PHEDS
+Facturación DIDT
+Vacuna COVID
+Bitácora SAI
+Nueva Normalidad | Funciones:
+Diseño de artefactos de prueba para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Ejecución de pruebas funcionales para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Generación de reportes de avance diario dirigidos a los stakeholders de los diferentes proyectos.
+Logros:
+Verificar y garantizar la correcta funcionalidad de los sistemas de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS) en base a los requerimientos funcionales solicitados.
+
+Proyectos:
+PHEDS
+Facturación DIDT
+Vacuna COVID
+Bitácora SAI
+Nueva Normalidad | Funciones:
+Diseño de artefactos de prueba para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Ejecución de pruebas funcionales para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Generación de reportes de avance diario dirigidos a los stakeholders de los diferentes proyectos.
+Logros:
+Verificar y garantizar la correcta funcionalidad de los sistemas de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS) en base a los requerimientos funcionales solicitados.
+
+Proyectos:
+PHEDS
+Facturación DIDT
+Vacuna COVID
+Bitácora SAI
+Nueva Normalidad | Funciones:
+Diseño de artefactos de prueba para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Ejecución de pruebas funcionales para los proyectos asignados dentro de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS).
+Generación de reportes de avance diario dirigidos a los stakeholders de los diferentes proyectos.
+Logros:
+Verificar y garantizar la correcta funcionalidad de los sistemas de la Coordinación de Ingeniería Tecnológica (CIT) del Instituto Mexicano del Seguro Social (IMSS) en base a los requerimientos funcionales solicitados.
+
+Proyectos:
+PHEDS
+Facturación DIDT
+Vacuna COVID
+Bitácora SAI
+Nueva Normalidad
+Herramientas: | TFS (Team Foundation Server), Figma, Zeplin, Microsoft Office, Microsoft Teams. | TFS (Team Foundation Server), Figma, Zeplin, Microsoft Office, Microsoft Teams. | TFS (Team Foundation Server), Figma, Zeplin, Microsoft Office, Microsoft Teams. | TFS (Team Foundation Server), Figma, Zeplin, Microsoft Office, Microsoft Teams. | TFS (Team Foundation Server), Figma, Zeplin, Microsoft Office, Microsoft Teams.
+Nombre de la empresa:
+Citi Banamex (Accival) - Softtek | Nombre de la empresa:
+Citi Banamex (Accival) - Softtek | Lugar:
+GDC Eugenia,
+CDMX | Puesto:
+Ingeniero de pruebas funcionales | Desde:
+Agosto 2018 | A:
+Marzo 2020
+Funciones:
+Generar Plan de Pruebas en base a los requerimientos funcionales y definiendo el alcance, los tipos, escenarios y casos de pruebas.
+Validar Criterios de Aceptación, verificando que el requerimiento cumple con lo necesario para iniciar con la ejecución de pruebas.
+Ejecutar Pruebas Estáticas, verificando que el código fuente entregado cumpla con los estándares definidos.
+Pruebas de configuración, verificando que los componentes contengan las configuraciones del ambiente de pruebas.
+Ambientar, generando los compilados y solicitando actualizar los ambientes de pruebas a partir del código y los objetos entregados por Desarrollo.
+Ejecutar Pruebas QA, verificado que la funcionalidad de las aplicaciones cumpla con los requerimientos del cambio en base a los casos de prueba definidos. 
+Registrar y documentar los defectos detectados durante la ejecución de las pruebas.
+Generación de reportes de ejecución diaria a los stakeholders del proyecto.
+Realizar la documentación de cierre del proceso de pruebas, registro cerrado en ALM y documentación actualizada en los repositorios oficiales.
+Ejecutar Checker QA, verificando que las pruebas se hayan ejecutado de acuerdo a lo definido en el Technology Development Test Plan / Minor Project Document / Implementation Change.
+Logros:
+Correcta aplicación de la metodología de pruebas en el proceso de desarrollo de software de Citi Banamex para minimizar el número de incidencias en producción y tener aplicaciones con mayor calidad que cumplan con los requerimientos del usuario, estándares corporativos y de mejores prácticas.
+Proyectos:
+201803753-103 - Implement new exchange (BIVA) for equities in Mexico-LATAM / Adjustments BIVA Propietary Position
+201818192 - Automate&Align product-process accounting WS4 for Arbitrage in MSST Mexico-LATAM
+201803755-101 - Adjustments Debt Position II
+P0133486 - BOL- Plataforma Unica (BOL Bloque 2)
+X-1803463 - Implement PU - Release 12 (BOL Multimoneda)
+P0148096 - Implement PU - Release 11 (BOL MD) | Funciones:
+Generar Plan de Pruebas en base a los requerimientos funcionales y definiendo el alcance, los tipos, escenarios y casos de pruebas.
+Validar Criterios de Aceptación, verificando que el requerimiento cumple con lo necesario para iniciar con la ejecución de pruebas.
+Ejecutar Pruebas Estáticas, verificando que el código fuente entregado cumpla con los estándares definidos.
+Pruebas de configuración, verificando que los componentes contengan las configuraciones del ambiente de pruebas.
+Ambientar, generando los compilados y solicitando actualizar los ambientes de pruebas a partir del código y los objetos entregados por Desarrollo.
+Ejecutar Pruebas QA, verificado que la funcionalidad de las aplicaciones cumpla con los requerimientos del cambio en base a los casos de prueba definidos. 
+Registrar y documentar los defectos detectados durante la ejecución de las pruebas.
+Generación de reportes de ejecución diaria a los stakeholders del proyecto.
+Realizar la documentación de cierre del proceso de pruebas, registro cerrado en ALM y documentación actualizada en los repositorios oficiales.
+Ejecutar Checker QA, verificando que las pruebas se hayan ejecutado de acuerdo a lo definido en el Technology Development Test Plan / Minor Project Document / Implementation Change.
+Logros:
+Correcta aplicación de la metodología de pruebas en el proceso de desarrollo de software de Citi Banamex para minimizar el número de incidencias en producción y tener aplicaciones con mayor calidad que cumplan con los requerimientos del usuario, estándares corporativos y de mejores prácticas.
+Proyectos:
+201803753-103 - Implement new exchange (BIVA) for equities in Mexico-LATAM / Adjustments BIVA Propietary Position
+201818192 - Automate&Align product-process accounting WS4 for Arbitrage in MSST Mexico-LATAM
+201803755-101 - Adjustments Debt Position II
+P0133486 - BOL- Plataforma Unica (BOL Bloque 2)
+X-1803463 - Implement PU - Release 12 (BOL Multimoneda)
+P0148096 - Implement PU - Release 11 (BOL MD) | Funciones:
+Generar Plan de Pruebas en base a los requerimientos funcionales y definiendo el alcance, los tipos, escenarios y casos de pruebas.
+Validar Criterios de Aceptación, verificando que el requerimiento cumple con lo necesario para iniciar con la ejecución de pruebas.
+Ejecutar Pruebas Estáticas, verificando que el código fuente entregado cumpla con los estándares definidos.
+Pruebas de configuración, verificando que los componentes contengan las configuraciones del ambiente de pruebas.
+Ambientar, generando los compilados y solicitando actualizar los ambientes de pruebas a partir del código y los objetos entregados por Desarrollo.
+Ejecutar Pruebas QA, verificado que la funcionalidad de las aplicaciones cumpla con los requerimientos del cambio en base a los casos de prueba definidos. 
+Registrar y documentar los defectos detectados durante la ejecución de las pruebas.
+Generación de reportes de ejecución diaria a los stakeholders del proyecto.
+Realizar la documentación de cierre del proceso de pruebas, registro cerrado en ALM y documentación actualizada en los repositorios oficiales.
+Ejecutar Checker QA, verificando que las pruebas se hayan ejecutado de acuerdo a lo definido en el Technology Development Test Plan / Minor Project Document / Implementation Change.
+Logros:
+Correcta aplicación de la metodología de pruebas en el proceso de desarrollo de software de Citi Banamex para minimizar el número de incidencias en producción y tener aplicaciones con mayor calidad que cumplan con los requerimientos del usuario, estándares corporativos y de mejores prácticas.
+Proyectos:
+201803753-103 - Implement new exchange (BIVA) for equities in Mexico-LATAM / Adjustments BIVA Propietary Position
+201818192 - Automate&Align product-process accounting WS4 for Arbitrage in MSST Mexico-LATAM
+201803755-101 - Adjustments Debt Position II
+P0133486 - BOL- Plataforma Unica (BOL Bloque 2)
+X-1803463 - Implement PU - Release 12 (BOL Multimoneda)
+P0148096 - Implement PU - Release 11 (BOL MD) | Funciones:
+Generar Plan de Pruebas en base a los requerimientos funcionales y definiendo el alcance, los tipos, escenarios y casos de pruebas.
+Validar Criterios de Aceptación, verificando que el requerimiento cumple con lo necesario para iniciar con la ejecución de pruebas.
+Ejecutar Pruebas Estáticas, verificando que el código fuente entregado cumpla con los estándares definidos.
+Pruebas de configuración, verificando que los componentes contengan las configuraciones del ambiente de pruebas.
+Ambientar, generando los compilados y solicitando actualizar los ambientes de pruebas a partir del código y los objetos entregados por Desarrollo.
+Ejecutar Pruebas QA, verificado que la funcionalidad de las aplicaciones cumpla con los requerimientos del cambio en base a los casos de prueba definidos. 
+Registrar y documentar los defectos detectados durante la ejecución de las pruebas.
+Generación de reportes de ejecución diaria a los stakeholders del proyecto.
+Realizar la documentación de cierre del proceso de pruebas, registro cerrado en ALM y documentación actualizada en los repositorios oficiales.
+Ejecutar Checker QA, verificando que las pruebas se hayan ejecutado de acuerdo a lo definido en el Technology Development Test Plan / Minor Project Document / Implementation Change.
+Logros:
+Correcta aplicación de la metodología de pruebas en el proceso de desarrollo de software de Citi Banamex para minimizar el número de incidencias en producción y tener aplicaciones con mayor calidad que cumplan con los requerimientos del usuario, estándares corporativos y de mejores prácticas.
+Proyectos:
+201803753-103 - Implement new exchange (BIVA) for equities in Mexico-LATAM / Adjustments BIVA Propietary Position
+201818192 - Automate&Align product-process accounting WS4 for Arbitrage in MSST Mexico-LATAM
+201803755-101 - Adjustments Debt Position II
+P0133486 - BOL- Plataforma Unica (BOL Bloque 2)
+X-1803463 - Implement PU - Release 12 (BOL Multimoneda)
+P0148096 - Implement PU - Release 11 (BOL MD) | Funciones:
+Generar Plan de Pruebas en base a los requerimientos funcionales y definiendo el alcance, los tipos, escenarios y casos de pruebas.
+Validar Criterios de Aceptación, verificando que el requerimiento cumple con lo necesario para iniciar con la ejecución de pruebas.
+Ejecutar Pruebas Estáticas, verificando que el código fuente entregado cumpla con los estándares definidos.
+Pruebas de configuración, verificando que los componentes contengan las configuraciones del ambiente de pruebas.
+Ambientar, generando los compilados y solicitando actualizar los ambientes de pruebas a partir del código y los objetos entregados por Desarrollo.
+Ejecutar Pruebas QA, verificado que la funcionalidad de las aplicaciones cumpla con los requerimientos del cambio en base a los casos de prueba definidos. 
+Registrar y documentar los defectos detectados durante la ejecución de las pruebas.
+Generación de reportes de ejecución diaria a los stakeholders del proyecto.
+Realizar la documentación de cierre del proceso de pruebas, registro cerrado en ALM y documentación actualizada en los repositorios oficiales.
+Ejecutar Checker QA, verificando que las pruebas se hayan ejecutado de acuerdo a lo definido en el Technology Development Test Plan / Minor Project Document / Implementation Change.
+Logros:
+Correcta aplicación de la metodología de pruebas en el proceso de desarrollo de software de Citi Banamex para minimizar el número de incidencias en producción y tener aplicaciones con mayor calidad que cumplan con los requerimientos del usuario, estándares corporativos y de mejores prácticas.
+Proyectos:
+201803753-103 - Implement new exchange (BIVA) for equities in Mexico-LATAM / Adjustments BIVA Propietary Position
+201818192 - Automate&Align product-process accounting WS4 for Arbitrage in MSST Mexico-LATAM
+201803755-101 - Adjustments Debt Position II
+P0133486 - BOL- Plataforma Unica (BOL Bloque 2)
+X-1803463 - Implement PU - Release 12 (BOL Multimoneda)
+P0148096 - Implement PU - Release 11 (BOL MD) | Funciones:
+Generar Plan de Pruebas en base a los requerimientos funcionales y definiendo el alcance, los tipos, escenarios y casos de pruebas.
+Validar Criterios de Aceptación, verificando que el requerimiento cumple con lo necesario para iniciar con la ejecución de pruebas.
+Ejecutar Pruebas Estáticas, verificando que el código fuente entregado cumpla con los estándares definidos.
+Pruebas de configuración, verificando que los componentes contengan las configuraciones del ambiente de pruebas.
+Ambientar, generando los compilados y solicitando actualizar los ambientes de pruebas a partir del código y los objetos entregados por Desarrollo.
+Ejecutar Pruebas QA, verificado que la funcionalidad de las aplicaciones cumpla con los requerimientos del cambio en base a los casos de prueba definidos. 
+Registrar y documentar los defectos detectados durante la ejecución de las pruebas.
+Generación de reportes de ejecución diaria a los stakeholders del proyecto.
+Realizar la documentación de cierre del proceso de pruebas, registro cerrado en ALM y documentación actualizada en los repositorios oficiales.
+Ejecutar Checker QA, verificando que las pruebas se hayan ejecutado de acuerdo a lo definido en el Technology Development Test Plan / Minor Project Document / Implementation Change.
+Logros:
+Correcta aplicación de la metodología de pruebas en el proceso de desarrollo de software de Citi Banamex para minimizar el número de incidencias en producción y tener aplicaciones con mayor calidad que cumplan con los requerimientos del usuario, estándares corporativos y de mejores prácticas.
+Proyectos:
+201803753-103 - Implement new exchange (BIVA) for equities in Mexico-LATAM / Adjustments BIVA Propietary Position
+201818192 - Automate&Align product-process accounting WS4 for Arbitrage in MSST Mexico-LATAM
+201803755-101 - Adjustments Debt Position II
+P0133486 - BOL- Plataforma Unica (BOL Bloque 2)
+X-1803463 - Implement PU - Release 12 (BOL Multimoneda)
+P0148096 - Implement PU - Release 11 (BOL MD)
+Herramientas: | ALM, TFS, PST, SQL Server, Service Now, TeamCity, CSI, AvISANet, SharePoint. | ALM, TFS, PST, SQL Server, Service Now, TeamCity, CSI, AvISANet, SharePoint. | ALM, TFS, PST, SQL Server, Service Now, TeamCity, CSI, AvISANet, SharePoint. | ALM, TFS, PST, SQL Server, Service Now, TeamCity, CSI, AvISANet, SharePoint. | ALM, TFS, PST, SQL Server, Service Now, TeamCity, CSI, AvISANet, SharePoint.
+Nombre de la empresa:
+Scotiabank - Softtek | Nombre de la empresa:
+Scotiabank - Softtek | Lugar:
+Lorenzo Boturini,
+CDMX | Puesto:
+Ingeniero de pruebas funcionales | Desde:
+Junio 2018 | A:
+Julio 2018
+Funciones:
+Diseño de casos de prueba basados en la especificación de los mapeos destino del módulo de cuentas cheques.
+Ejecución de pruebas de mapeo directo, valor por default, aplica regla de conversión y requiere tabla de homologación utilizando el proceso de extracción y transformación (ET) de ScotiaPro.
+Gestión de incidencias (PLOG).
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la correcta migración de los datos del módulo de cuentas cheques de la plataforma origen (AIX) a la plataforma destino (AS400) para el proyecto de Migración ScotiaPro. | Funciones:
+Diseño de casos de prueba basados en la especificación de los mapeos destino del módulo de cuentas cheques.
+Ejecución de pruebas de mapeo directo, valor por default, aplica regla de conversión y requiere tabla de homologación utilizando el proceso de extracción y transformación (ET) de ScotiaPro.
+Gestión de incidencias (PLOG).
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la correcta migración de los datos del módulo de cuentas cheques de la plataforma origen (AIX) a la plataforma destino (AS400) para el proyecto de Migración ScotiaPro. | Funciones:
+Diseño de casos de prueba basados en la especificación de los mapeos destino del módulo de cuentas cheques.
+Ejecución de pruebas de mapeo directo, valor por default, aplica regla de conversión y requiere tabla de homologación utilizando el proceso de extracción y transformación (ET) de ScotiaPro.
+Gestión de incidencias (PLOG).
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la correcta migración de los datos del módulo de cuentas cheques de la plataforma origen (AIX) a la plataforma destino (AS400) para el proyecto de Migración ScotiaPro. | Funciones:
+Diseño de casos de prueba basados en la especificación de los mapeos destino del módulo de cuentas cheques.
+Ejecución de pruebas de mapeo directo, valor por default, aplica regla de conversión y requiere tabla de homologación utilizando el proceso de extracción y transformación (ET) de ScotiaPro.
+Gestión de incidencias (PLOG).
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la correcta migración de los datos del módulo de cuentas cheques de la plataforma origen (AIX) a la plataforma destino (AS400) para el proyecto de Migración ScotiaPro. | Funciones:
+Diseño de casos de prueba basados en la especificación de los mapeos destino del módulo de cuentas cheques.
+Ejecución de pruebas de mapeo directo, valor por default, aplica regla de conversión y requiere tabla de homologación utilizando el proceso de extracción y transformación (ET) de ScotiaPro.
+Gestión de incidencias (PLOG).
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la correcta migración de los datos del módulo de cuentas cheques de la plataforma origen (AIX) a la plataforma destino (AS400) para el proyecto de Migración ScotiaPro. | Funciones:
+Diseño de casos de prueba basados en la especificación de los mapeos destino del módulo de cuentas cheques.
+Ejecución de pruebas de mapeo directo, valor por default, aplica regla de conversión y requiere tabla de homologación utilizando el proceso de extracción y transformación (ET) de ScotiaPro.
+Gestión de incidencias (PLOG).
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la correcta migración de los datos del módulo de cuentas cheques de la plataforma origen (AIX) a la plataforma destino (AS400) para el proyecto de Migración ScotiaPro.
+Herramientas: | Tn3270, Symtrax Telnet, V, SQuirreL SQL Client, RecordEdit HSQL, ALM, Rocket Aldon Community Manager. | Tn3270, Symtrax Telnet, V, SQuirreL SQL Client, RecordEdit HSQL, ALM, Rocket Aldon Community Manager. | Tn3270, Symtrax Telnet, V, SQuirreL SQL Client, RecordEdit HSQL, ALM, Rocket Aldon Community Manager. | Tn3270, Symtrax Telnet, V, SQuirreL SQL Client, RecordEdit HSQL, ALM, Rocket Aldon Community Manager. | Tn3270, Symtrax Telnet, V, SQuirreL SQL Client, RecordEdit HSQL, ALM, Rocket Aldon Community Manager.
+Nombre de la empresa:
+IMSS - Softtek | Nombre de la empresa:
+IMSS - Softtek | Lugar:
+GDC Toreo,
+CDMX | Puesto:
+Líder de pruebas funcionales (backup) | Desde:
+Enero 2017 | A:
+Abril 2018
+Funciones:
+Elaboración de planes de trabajo.
+Generación de solicitudes de datos al Instituto, seguimiento y recepción de los mismos. 
+Administración de los datos proporcionados por el Instituto.
+Atención de solicitudes de datos generadas por los ingenieros de prueba como insumos para la ejecución de sus casos de prueba.
+Diseño de casos de prueba funcionales (testware) e integrales basados en la especificación de casos de uso. 
+Gestión de peer reviews de los artefactos generados.
+Ejecución de pruebas funcionales.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de tres recursos.
+Logros:
+Garantizar que los ingenieros de prueba cuenten con los insumos (datos integrales) necesarios para la ejecución exitosa de sus casos de prueba dentro del proyecto de Sistema de Tramite de Solicitud de Pensión por Internet (TSPI). | Funciones:
+Elaboración de planes de trabajo.
+Generación de solicitudes de datos al Instituto, seguimiento y recepción de los mismos. 
+Administración de los datos proporcionados por el Instituto.
+Atención de solicitudes de datos generadas por los ingenieros de prueba como insumos para la ejecución de sus casos de prueba.
+Diseño de casos de prueba funcionales (testware) e integrales basados en la especificación de casos de uso. 
+Gestión de peer reviews de los artefactos generados.
+Ejecución de pruebas funcionales.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de tres recursos.
+Logros:
+Garantizar que los ingenieros de prueba cuenten con los insumos (datos integrales) necesarios para la ejecución exitosa de sus casos de prueba dentro del proyecto de Sistema de Tramite de Solicitud de Pensión por Internet (TSPI). | Funciones:
+Elaboración de planes de trabajo.
+Generación de solicitudes de datos al Instituto, seguimiento y recepción de los mismos. 
+Administración de los datos proporcionados por el Instituto.
+Atención de solicitudes de datos generadas por los ingenieros de prueba como insumos para la ejecución de sus casos de prueba.
+Diseño de casos de prueba funcionales (testware) e integrales basados en la especificación de casos de uso. 
+Gestión de peer reviews de los artefactos generados.
+Ejecución de pruebas funcionales.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de tres recursos.
+Logros:
+Garantizar que los ingenieros de prueba cuenten con los insumos (datos integrales) necesarios para la ejecución exitosa de sus casos de prueba dentro del proyecto de Sistema de Tramite de Solicitud de Pensión por Internet (TSPI). | Funciones:
+Elaboración de planes de trabajo.
+Generación de solicitudes de datos al Instituto, seguimiento y recepción de los mismos. 
+Administración de los datos proporcionados por el Instituto.
+Atención de solicitudes de datos generadas por los ingenieros de prueba como insumos para la ejecución de sus casos de prueba.
+Diseño de casos de prueba funcionales (testware) e integrales basados en la especificación de casos de uso. 
+Gestión de peer reviews de los artefactos generados.
+Ejecución de pruebas funcionales.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de tres recursos.
+Logros:
+Garantizar que los ingenieros de prueba cuenten con los insumos (datos integrales) necesarios para la ejecución exitosa de sus casos de prueba dentro del proyecto de Sistema de Tramite de Solicitud de Pensión por Internet (TSPI). | Funciones:
+Elaboración de planes de trabajo.
+Generación de solicitudes de datos al Instituto, seguimiento y recepción de los mismos. 
+Administración de los datos proporcionados por el Instituto.
+Atención de solicitudes de datos generadas por los ingenieros de prueba como insumos para la ejecución de sus casos de prueba.
+Diseño de casos de prueba funcionales (testware) e integrales basados en la especificación de casos de uso. 
+Gestión de peer reviews de los artefactos generados.
+Ejecución de pruebas funcionales.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de tres recursos.
+Logros:
+Garantizar que los ingenieros de prueba cuenten con los insumos (datos integrales) necesarios para la ejecución exitosa de sus casos de prueba dentro del proyecto de Sistema de Tramite de Solicitud de Pensión por Internet (TSPI). | Funciones:
+Elaboración de planes de trabajo.
+Generación de solicitudes de datos al Instituto, seguimiento y recepción de los mismos. 
+Administración de los datos proporcionados por el Instituto.
+Atención de solicitudes de datos generadas por los ingenieros de prueba como insumos para la ejecución de sus casos de prueba.
+Diseño de casos de prueba funcionales (testware) e integrales basados en la especificación de casos de uso. 
+Gestión de peer reviews de los artefactos generados.
+Ejecución de pruebas funcionales.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de tres recursos.
+Logros:
+Garantizar que los ingenieros de prueba cuenten con los insumos (datos integrales) necesarios para la ejecución exitosa de sus casos de prueba dentro del proyecto de Sistema de Tramite de Solicitud de Pensión por Internet (TSPI).
+Herramientas: | SQL Developer, SoapUI, VUE, StarUML, Bizagi Modeler, PPM, Tortoise SVN. | SQL Developer, SoapUI, VUE, StarUML, Bizagi Modeler, PPM, Tortoise SVN. | SQL Developer, SoapUI, VUE, StarUML, Bizagi Modeler, PPM, Tortoise SVN. | SQL Developer, SoapUI, VUE, StarUML, Bizagi Modeler, PPM, Tortoise SVN. | SQL Developer, SoapUI, VUE, StarUML, Bizagi Modeler, PPM, Tortoise SVN.
+Nombre de la empresa:
+AXA Seguros - Softtek | Nombre de la empresa:
+AXA Seguros - Softtek | Lugar:
+Félix Cuevas,
+CDMX | Puesto:
+Líder de pruebas funcionales | Desde:
+Noviembre 2015 | A:
+Enero 2017
+Funciones:
+Seguimiento y control del proceso de pruebas para las líneas de negocio de Daños y Trasversales.
+Vo.Bo. de estimaciones para la aprobación del cliente (Projects, Service Calls y Problems)
+Aprobación de cambios en el ambiente de QA.
+Generación de reportes de estatus semanales.
+Generación de reportes de facturación mensuales.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Plan de Trabajo (TWP). Análisis y Diseño: Product Risk Analisys (PRA), Test Strategy (TS), Test Plan (TP), Test Case Matrix (TCM), Reporte Diseño y Matriz de Datos (MD). Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Cierre del Proyecto (FTR) y Reporte de Lecciones Aprendidas.
+Gestión y seguimiento de Work Shops y Check Points con los StakeHolders de los proyectos.
+Certificación de Projects, Service Calls y Problems por reléase.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+
+Logros:
+Garantizar la que los Projects, Service Calls y Problems se liberen con calidad y en base a los requerimientos especificados por el cliente en cada reléase (mensual). | Funciones:
+Seguimiento y control del proceso de pruebas para las líneas de negocio de Daños y Trasversales.
+Vo.Bo. de estimaciones para la aprobación del cliente (Projects, Service Calls y Problems)
+Aprobación de cambios en el ambiente de QA.
+Generación de reportes de estatus semanales.
+Generación de reportes de facturación mensuales.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Plan de Trabajo (TWP). Análisis y Diseño: Product Risk Analisys (PRA), Test Strategy (TS), Test Plan (TP), Test Case Matrix (TCM), Reporte Diseño y Matriz de Datos (MD). Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Cierre del Proyecto (FTR) y Reporte de Lecciones Aprendidas.
+Gestión y seguimiento de Work Shops y Check Points con los StakeHolders de los proyectos.
+Certificación de Projects, Service Calls y Problems por reléase.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+
+Logros:
+Garantizar la que los Projects, Service Calls y Problems se liberen con calidad y en base a los requerimientos especificados por el cliente en cada reléase (mensual). | Funciones:
+Seguimiento y control del proceso de pruebas para las líneas de negocio de Daños y Trasversales.
+Vo.Bo. de estimaciones para la aprobación del cliente (Projects, Service Calls y Problems)
+Aprobación de cambios en el ambiente de QA.
+Generación de reportes de estatus semanales.
+Generación de reportes de facturación mensuales.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Plan de Trabajo (TWP). Análisis y Diseño: Product Risk Analisys (PRA), Test Strategy (TS), Test Plan (TP), Test Case Matrix (TCM), Reporte Diseño y Matriz de Datos (MD). Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Cierre del Proyecto (FTR) y Reporte de Lecciones Aprendidas.
+Gestión y seguimiento de Work Shops y Check Points con los StakeHolders de los proyectos.
+Certificación de Projects, Service Calls y Problems por reléase.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+
+Logros:
+Garantizar la que los Projects, Service Calls y Problems se liberen con calidad y en base a los requerimientos especificados por el cliente en cada reléase (mensual). | Funciones:
+Seguimiento y control del proceso de pruebas para las líneas de negocio de Daños y Trasversales.
+Vo.Bo. de estimaciones para la aprobación del cliente (Projects, Service Calls y Problems)
+Aprobación de cambios en el ambiente de QA.
+Generación de reportes de estatus semanales.
+Generación de reportes de facturación mensuales.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Plan de Trabajo (TWP). Análisis y Diseño: Product Risk Analisys (PRA), Test Strategy (TS), Test Plan (TP), Test Case Matrix (TCM), Reporte Diseño y Matriz de Datos (MD). Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Cierre del Proyecto (FTR) y Reporte de Lecciones Aprendidas.
+Gestión y seguimiento de Work Shops y Check Points con los StakeHolders de los proyectos.
+Certificación de Projects, Service Calls y Problems por reléase.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+
+Logros:
+Garantizar la que los Projects, Service Calls y Problems se liberen con calidad y en base a los requerimientos especificados por el cliente en cada reléase (mensual). | Funciones:
+Seguimiento y control del proceso de pruebas para las líneas de negocio de Daños y Trasversales.
+Vo.Bo. de estimaciones para la aprobación del cliente (Projects, Service Calls y Problems)
+Aprobación de cambios en el ambiente de QA.
+Generación de reportes de estatus semanales.
+Generación de reportes de facturación mensuales.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Plan de Trabajo (TWP). Análisis y Diseño: Product Risk Analisys (PRA), Test Strategy (TS), Test Plan (TP), Test Case Matrix (TCM), Reporte Diseño y Matriz de Datos (MD). Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Cierre del Proyecto (FTR) y Reporte de Lecciones Aprendidas.
+Gestión y seguimiento de Work Shops y Check Points con los StakeHolders de los proyectos.
+Certificación de Projects, Service Calls y Problems por reléase.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+
+Logros:
+Garantizar la que los Projects, Service Calls y Problems se liberen con calidad y en base a los requerimientos especificados por el cliente en cada reléase (mensual). | Funciones:
+Seguimiento y control del proceso de pruebas para las líneas de negocio de Daños y Trasversales.
+Vo.Bo. de estimaciones para la aprobación del cliente (Projects, Service Calls y Problems)
+Aprobación de cambios en el ambiente de QA.
+Generación de reportes de estatus semanales.
+Generación de reportes de facturación mensuales.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Plan de Trabajo (TWP). Análisis y Diseño: Product Risk Analisys (PRA), Test Strategy (TS), Test Plan (TP), Test Case Matrix (TCM), Reporte Diseño y Matriz de Datos (MD). Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Cierre del Proyecto (FTR) y Reporte de Lecciones Aprendidas.
+Gestión y seguimiento de Work Shops y Check Points con los StakeHolders de los proyectos.
+Certificación de Projects, Service Calls y Problems por reléase.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+
+Logros:
+Garantizar la que los Projects, Service Calls y Problems se liberen con calidad y en base a los requerimientos especificados por el cliente en cada reléase (mensual).
+Herramientas: | ALM, Citrix. | ALM, Citrix. | ALM, Citrix. | ALM, Citrix. | ALM, Citrix.
+Nombre de la empresa:
+MetLife - GlobalHitss | Nombre de la empresa:
+MetLife - GlobalHitss | Lugar:
+Torre Esmeralda 3,
+CDMX | Puesto:
+Líder de pruebas funcionales | Desde:
+Marzo 2013 | A:
+Octubre 2015
+Funciones:
+Seguimiento y control del proceso de pruebas (planeación, análisis, diseño, construcción, ejecución, transición y cierre) para proyectos de Fuerza de Ventas y Afore.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Project Plan. Análisis y Diseño: Test Plan, Estrategia de Pruebas, Casos de Prueba y Matrices de Datos. Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Final del Proyecto y Reporte Post Mortem.
+Gestión y seguimiento Check Points diarios con los StakeHolders de los proyectos.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+Logros:
+Garantizar la que los proyectos asignados se liberen con calidad y en base a los requerimientos especificados por el cliente. | Funciones:
+Seguimiento y control del proceso de pruebas (planeación, análisis, diseño, construcción, ejecución, transición y cierre) para proyectos de Fuerza de Ventas y Afore.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Project Plan. Análisis y Diseño: Test Plan, Estrategia de Pruebas, Casos de Prueba y Matrices de Datos. Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Final del Proyecto y Reporte Post Mortem.
+Gestión y seguimiento Check Points diarios con los StakeHolders de los proyectos.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+Logros:
+Garantizar la que los proyectos asignados se liberen con calidad y en base a los requerimientos especificados por el cliente. | Funciones:
+Seguimiento y control del proceso de pruebas (planeación, análisis, diseño, construcción, ejecución, transición y cierre) para proyectos de Fuerza de Ventas y Afore.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Project Plan. Análisis y Diseño: Test Plan, Estrategia de Pruebas, Casos de Prueba y Matrices de Datos. Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Final del Proyecto y Reporte Post Mortem.
+Gestión y seguimiento Check Points diarios con los StakeHolders de los proyectos.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+Logros:
+Garantizar la que los proyectos asignados se liberen con calidad y en base a los requerimientos especificados por el cliente. | Funciones:
+Seguimiento y control del proceso de pruebas (planeación, análisis, diseño, construcción, ejecución, transición y cierre) para proyectos de Fuerza de Ventas y Afore.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Project Plan. Análisis y Diseño: Test Plan, Estrategia de Pruebas, Casos de Prueba y Matrices de Datos. Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Final del Proyecto y Reporte Post Mortem.
+Gestión y seguimiento Check Points diarios con los StakeHolders de los proyectos.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+Logros:
+Garantizar la que los proyectos asignados se liberen con calidad y en base a los requerimientos especificados por el cliente. | Funciones:
+Seguimiento y control del proceso de pruebas (planeación, análisis, diseño, construcción, ejecución, transición y cierre) para proyectos de Fuerza de Ventas y Afore.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Project Plan. Análisis y Diseño: Test Plan, Estrategia de Pruebas, Casos de Prueba y Matrices de Datos. Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Final del Proyecto y Reporte Post Mortem.
+Gestión y seguimiento Check Points diarios con los StakeHolders de los proyectos.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+Logros:
+Garantizar la que los proyectos asignados se liberen con calidad y en base a los requerimientos especificados por el cliente. | Funciones:
+Seguimiento y control del proceso de pruebas (planeación, análisis, diseño, construcción, ejecución, transición y cierre) para proyectos de Fuerza de Ventas y Afore.
+Generación de artefactos para cada una de las fases del proceso de pruebas: Planeación: Project Plan. Análisis y Diseño: Test Plan, Estrategia de Pruebas, Casos de Prueba y Matrices de Datos. Ejecución: Reporte diario de Ejecución de Pruebas y Reporte de Defectos. Cierre: Reporte de Final del Proyecto y Reporte Post Mortem.
+Gestión y seguimiento Check Points diarios con los StakeHolders de los proyectos.
+Generación de reportes de ejecución diaria para el cliente.
+Gestión de incidencias.
+Administración de recursos dinámica. Dependiendo de los proyectos asignados (hasta 10 recursos).
+Logros:
+Garantizar la que los proyectos asignados se liberen con calidad y en base a los requerimientos especificados por el cliente.
+Herramientas: | Quality Center, SpiraTest, Microsoft Project. | Quality Center, SpiraTest, Microsoft Project. | Quality Center, SpiraTest, Microsoft Project. | Quality Center, SpiraTest, Microsoft Project. | Quality Center, SpiraTest, Microsoft Project.
+Nombre de la empresa:
+VUCEM - Softtek | Nombre de la empresa:
+VUCEM - Softtek | Lugar:
+GDC Eugenia,
+CDMX | Puesto:
+Ingeniero de pruebas funcionales | Desde:
+Julio 2011 | A:
+Marzo 2013
+Funciones:
+Diseño de casos de prueba funcionales (testware) basados en la especificación de casos de uso. 
+Ejecución de pruebas funcionales para los trámites de la Administración General de Aduanas (AGA).
+Gestión de incidencias.
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la calidad del software para los trámites de la Administración General de Aduanas (AGA). | Funciones:
+Diseño de casos de prueba funcionales (testware) basados en la especificación de casos de uso. 
+Ejecución de pruebas funcionales para los trámites de la Administración General de Aduanas (AGA).
+Gestión de incidencias.
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la calidad del software para los trámites de la Administración General de Aduanas (AGA). | Funciones:
+Diseño de casos de prueba funcionales (testware) basados en la especificación de casos de uso. 
+Ejecución de pruebas funcionales para los trámites de la Administración General de Aduanas (AGA).
+Gestión de incidencias.
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la calidad del software para los trámites de la Administración General de Aduanas (AGA). | Funciones:
+Diseño de casos de prueba funcionales (testware) basados en la especificación de casos de uso. 
+Ejecución de pruebas funcionales para los trámites de la Administración General de Aduanas (AGA).
+Gestión de incidencias.
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la calidad del software para los trámites de la Administración General de Aduanas (AGA). | Funciones:
+Diseño de casos de prueba funcionales (testware) basados en la especificación de casos de uso. 
+Ejecución de pruebas funcionales para los trámites de la Administración General de Aduanas (AGA).
+Gestión de incidencias.
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la calidad del software para los trámites de la Administración General de Aduanas (AGA). | Funciones:
+Diseño de casos de prueba funcionales (testware) basados en la especificación de casos de uso. 
+Ejecución de pruebas funcionales para los trámites de la Administración General de Aduanas (AGA).
+Gestión de incidencias.
+Reportes de avance al líder de pruebas.
+Logros:
+Garantizar la calidad del software para los trámites de la Administración General de Aduanas (AGA).
+Herramientas: | Kintana, Oracle 11g, AxwayUtils, Eclipse, VUE, StarUML, Tortoise SVN. | Kintana, Oracle 11g, AxwayUtils, Eclipse, VUE, StarUML, Tortoise SVN. | Kintana, Oracle 11g, AxwayUtils, Eclipse, VUE, StarUML, Tortoise SVN. | Kintana, Oracle 11g, AxwayUtils, Eclipse, VUE, StarUML, Tortoise SVN. | Kintana, Oracle 11g, AxwayUtils, Eclipse, VUE, StarUML, Tortoise SVN.
+ESTUDIOS:
+Escuela:
+Centro Universitario ETAC, Nodo Tlalnepantla | Lugar:
+Tlalnepantla de Baz, Estado de México
+Carrera:
+Especialidad en Sistemas de Información | Fecha de duración:
+2005-2006
+Escuela:
+Universidad Mexicana, Campus Izcalli | Lugar:
+Cuautitlán Izcalli, Estado de México
+Carrera:
+Licenciatura en Informática Administrativa | Fecha de duración:
+2001-2004
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Certificación en ISO 27001 Foundation. | CDMX | Noviembre 2022
+Scrum Fundamentals Certified (SFC). | CDMX | Marzo 2022
+Certificación en ISTQB Foundation Level. | CDMX | Diciembre 2016
+IDIOMAS:
+Español: | Nativo
+Inglés: | Básico
+CONOCIMIENTOS TÉCNICOS:
+Perfil principal: | Ingeniero de Pruebas Sr.
+Perfil secundario: | -
+Sistemas operativos: | Windows
+Lenguajes de programación: | N/A
+Bases de datos: | Oracle, SQLServer, PosgreSQL
+Otros: | Kintana, Oracle 11g, AxwayUtils, Eclipse, VUE, StarUML, Tortoise SVN, ALM, Citrix, SpiraTest, Microsoft Project, SQL Developer, SoapUI, Bizagi Modeler, PPM, Tortoise SVN, Tn3270, Symtrax Telnet, V, SQuirreL SQL Client, RecordEdit HSQL, Rocket Aldon Community Manager, TFS, PST, SQL Server, Service Now, TeamCity, CSI, AvISANet, SharePoint, TestLink, GitLab, ADM Web, LibreOffice.
+David Romero Muñoz

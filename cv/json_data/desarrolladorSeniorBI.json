@@ -1,0 +1,347 @@
+
+[
+    {
+  "nombre": "Alma Rebeca Ibañez Carranza",
+  "rol_propuesto": "Desarrollador Senior BI",
+  "resumen_profesional": "Posee amplia experiencia en gestión y modelado de datos orientada a soluciones ETL y de integración.\nEspecialización en diseño y construcción de procesos ETL y mapeos origen-destino usando herramientas como SAS y SQL.\nEnfoca el trabajo en asegurar calidad y trazabilidad de datos mediante especificaciones técnicas, pruebas y validaciones.\nAplica metodologías ágiles para coordinar entregables, documentación y soporte a ambientes de producción.\nContribuye al diseño conceptual y lógico de modelos de datos y a la generación de diagramas de flujo para procesos analíticos.\nDesarrolla y mantiene soluciones ETL, integra datos en modelos para explotación por herramientas front-end y generación de KPIs.\nParticipa en actividades de liderazgo técnico, comunicación con usuarios de negocio y elaboración de manuales operativos.\nBusca optimizar procesos y mejorar la calidad del dato para apoyar la toma de decisiones en entornos financieros.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek",
+      "puesto": "Data Management Engineer OnPrem ETL Sr",
+      "fecha_inicio": "May 2018",
+      "fecha_fin": "Current",
+      "actividades_principales": [
+        "Identificar requerimientos con usuarios de negocio para elaborar documentos de análisis",
+        "Elaborar catálogos de reglas de negocio y diagramas de contexto para el análisis de fuentes de datos",
+        "Diseñar modelos conceptuales y lógicos de datos y elaborar mapeos origen-destino con transformaciones",
+        "Generar esquemas de flujo y diagramas para identificar caminos de procesos y componentes reutilizables",
+        "Definir especificaciones técnicas y casos de prueba para la construcción e integración de soluciones",
+        "Construir soluciones ETL utilizando herramientas tecnológicas (SAS Data Integration) según especificaciones",
+        "Asegurar la calidad del entregable mediante pruebas unitarias y actividades de validación de datos",
+        "Soportar modelos de datos para su explotación en herramientas front-end y elaborar manuales de instalación y operación",
+        "Elaborar consultas y validaciones con SQL Developer para la verificación de KPIs y trazabilidad de datos",
+        "Analizar datos y diseñar modelos E-R para apoyar la integración y explotación analítica de la información"
+      ]
+    }
+  ],
+  "ajuste_puesto_liderazgo": {
+    "empresa": "Capgemini",
+    "puesto": "Consultor SAS",
+    "fecha_inicio": "May 2012",
+    "fecha_fin": "May 2018",
+    "actividades_principales": [
+      "Realizar análisis y administración de datos para el sector bancario",
+      "Apoyar en proyectos de experiencia de cliente para entidades de seguros",
+      "Diseñar y construir soluciones con herramientas SAS para detección de puntos de compromiso y prevención de fraude",
+      "Impartir entrenamiento en el uso de herramientas SAS al personal del cliente",
+      "Desarrollar aplicaciones y brindar soporte en reportes regulatorios"
+    ]
+  },
+  "periodo_resumen_laboral": "La experiencia abarca desde mayo de 2007 hasta mayo de 2018",
+  "resumen_laboral": "Durante este período se desempeñaron funciones como Consultor SAS y Consultor Jr, con responsabilidades centradas en el análisis y la administración de datos para el sector financiero y de seguros. Las tareas incluyeron diseño y construcción de soluciones para prevención de fraude y reportes regulatorios, apoyo en estudios de experiencia de cliente, capacitación de personal en herramientas SAS y soporte en la resolución de problemas relacionados con reportes y procesos de datos.",
+  "estudios": {
+    "carrera": "Máster en Big Data y Business Analysis",
+    "lugar": "Universidad Camilo JOSÉ Cela / IMF SMAT Educa",
+    "periodo": "Feb 2019 - Feb 2022"
+  },
+  "certificaciones_y_cursos": [
+    {
+      "nombre": "Certificación Developer, Dataiku Academy",
+      "anio": "2024"
+    },
+    {
+      "nombre": "Certificación Advance Designer, Dataiku Academy",
+      "anio": "2024"
+    },
+    {
+      "nombre": "Certificado Core Designer, Dataiku Academy",
+      "anio": "2024"
+    },
+    {
+      "nombre": "Badge 3 Data Application Builders Workshop, Snowflake Academy",
+      "anio": "2024"
+    },
+    {
+      "nombre": "Badge2 Collaboration, Marketplace & Cost Estim, Snowflake Academy",
+      "anio": "2024"
+    },
+    {
+      "nombre": "Badge1 Data Warehousing Workshop, Snowflake Academy",
+      "anio": "2024"
+    },
+    {
+      "nombre": "Microsoft Certified: Azure Data Engineer - Asso, Microsoft",
+      "anio": "2024"
+    },
+    {
+      "nombre": "Certificación Liderazgo Orientado a Equipos, Softtek",
+      "anio": "2023"
+    },
+    {
+      "nombre": "Certificación Liderazgo Orientado a las Personas, Softtek",
+      "anio": "2022"
+    }
+  ]
+},
+    {
+  "nombre": "Antonio Garcia Torres",
+  "rol_propuesto": "Desarrollador Senior BI",
+  "resumen_profesional": "Diseñar y construir soluciones tecnológicas para la integración y modelado de datos.\nCoordinar equipos de trabajo y supervisar actividades de desarrollo para asegurar la calidad del software.\nGarantizar buenas prácticas en metodologías de desarrollo y gestión de entregables.\nOptimizar procesos de ingestión y transformación de datos para apoyar la toma de decisiones.\n\nImplementar y mantener procesos ETL y flujos de datos orientados a la disponibilidad y consistencia de la información.\nModelar estructuras de datos y soportar la consolidación de modelos dimensionales para reportes analíticos.\nAsegurar la gobernanza de datos y la colaboración entre áreas funcionales y técnicas.\nBrindar apoyo técnico en proyectos complejos y en la transferencia de conocimiento a equipos operativos.",
+  "experiencia_laboral": [
+    {
+      "empresa": "AXA",
+      "puesto": "Data Analyst",
+      "fecha_inicio": "ago 2025",
+      "fecha_fin": "nov 2025",
+      "actividades_principales": [
+        "Analizar orígenes de datos para la migración de los sistemas de productos vida al nuevo modelo operativo.",
+        "Analizar y diseñar el DataLake para el nuevo modelo de Vida."
+      ]
+    },
+    {
+      "empresa": "Walmart",
+      "puesto": "Arquitecto de Datos",
+      "fecha_inicio": "dic 2024",
+      "fecha_fin": "feb 2025",
+      "actividades_principales": [
+        "Arquitectar procesos de cálculo de bono mediante análisis de fuentes de datos y reglas de negocio.",
+        "Documentar orígenes de datos y relaciones para los procesos de cálculo de la provisión del bono."
+      ]
+    },
+    {
+      "empresa": "Citi",
+      "puesto": "Modelador",
+      "fecha_inicio": "2023",
+      "fecha_fin": "2024",
+      "actividades_principales": [
+        "Modelar en capa semántica modelos tipo estrella y analizar reglas de negocio para el poblado de indicadores y reportes financieros.",
+        "Construir modelos en Erwin y generar DDLs de modelos estrella en Teradata."
+      ]
+    },
+    {
+      "empresa": "Nacional Monte de Piedad",
+      "puesto": "Desarrollo de Procesos ETL en Azure Data Factory y Databricks",
+      "fecha_inicio": "jun 2022",
+      "fecha_fin": "jul 2022",
+      "actividades_principales": [
+        "Desarrollar procesos ETL en Azure Data Factory y Databricks.",
+        "Diseñar y desarrollar procesos en Python consumiendo información del data lake en blob storage."
+      ]
+    },
+    {
+      "empresa": "Coppel",
+      "puesto": "Desarrollos de Procesos ETL en DataStage",
+      "fecha_inicio": "jun 2021",
+      "fecha_fin": "sep 2021",
+      "actividades_principales": [
+        "Desarrollar procesos ETL en DataStage 11.7 con SQL Server y Postgres para la migración de Cartera en Línea y Cartera Central al nuevo repositorio en SQL Server."
+      ]
+    },
+    {
+      "empresa": "BANOBRAS",
+      "puesto": "Desarrollador ODI",
+      "fecha_inicio": "sep 2019",
+      "fecha_fin": "abr 2020",
+      "actividades_principales": [
+        "Diseñar modelo de datos en Oracle 12c y construir procesos ELT en ODI 12c para flujos de Mercados."
+      ]
+    },
+    {
+      "empresa": "UANL Centro De Desarrollo Mexico",
+      "puesto": "Líder de Proyecto",
+      "fecha_inicio": "sep 2010",
+      "fecha_fin": "jun 2019",
+      "actividades_principales": [
+        "Administrar proyectos en el área de BI, coordinar equipos, gestionar alcances, tiempos y cambios.",
+        "Desarrollar procesos ETL, diseñar modelos dimensionales y construir dashboards para publicación en cubos y apoyo a la toma de decisiones."
+      ]
+    }
+  ],
+  "ajuste_puesto_liderazgo": {
+    "empresa": "",
+    "puesto": "",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "actividades_principales": []
+  },
+  "periodo_resumen_laboral": "La experiencia abarca desde septiembre de 2003 hasta septiembre de 2010",
+  "resumen_laboral": "Durante este período se desempeñaron funciones como Gerente de Infraestructura, Consultor DataStage y Desarrollador DataStage. Asumir responsabilidades de administración de infraestructura tecnológica y telecomunicaciones, coordinación de equipos y gestión de servicios contratados. Participar en mantenimiento y análisis de procesos ETL, integración de información y desarrollo de datamarts y sistemas MIS. Brindar soporte a la toma de decisiones mediante la generación de reportes ejecutivos y gestión de proyectos.",
+  "estudios": {
+    "carrera": "Ingeniero en Computación",
+    "lugar": "Instituto Politécnico Nacional",
+    "periodo": "sep 1991 - jun 1995"
+  },
+  "certificaciones_y_cursos": [
+    {
+      "nombre": "Microsoft Certified: Azure Data Fundamentals",
+      "anio": ""
+    },
+    {
+      "nombre": "Scrum Fundamentals Certified",
+      "anio": ""
+    },
+    {
+      "nombre": "PMP Preparación Certificación",
+      "anio": "2012"
+    },
+    {
+      "nombre": "DataStage 8.1",
+      "anio": "2009"
+    },
+    {
+      "nombre": "Administración de Proyectos (PMI)",
+      "anio": "2009"
+    },
+    {
+      "nombre": "Microsoft Project",
+      "anio": "2008"
+    },
+    {
+      "nombre": "ITIL",
+      "anio": "2008"
+    },
+    {
+      "nombre": "Gobierno Digital",
+      "anio": "2007"
+    },
+    {
+      "nombre": "Perform Cloud Data Science",
+      "anio": "2019"
+    },
+    {
+      "nombre": "BigData",
+      "anio": "2022"
+    },
+    {
+      "nombre": "Azure Machine Learning",
+      "anio": ""
+    }
+  ]
+},
+    {
+  "nombre": "Claudio Roberto Diaz Mandujano",
+  "rol_propuesto": "Desarrollador Senior BI",
+  "resumen_profesional": "Durante este período se diseñaron y construyeron soluciones de integración y procesos ETL para soportar almacenes de datos.\nSe modelaron y revisaron estructuras multidimensionales y se definieron mapeos de datos para soporte analítico.\nSe implementaron procedimientos de calidad y limpieza de datos para asegurar la consistencia y trazabilidad.\nSe documentaron artefactos y runbooks para facilitar la operación y transferencia de conocimiento.\n\nSe lideró y coordinó la implementación técnica de pipelines y la liberación de componentes en ambientes de prueba y producción.\nSe aplicaron prácticas de despliegue, pruebas unitarias y monitoreo operativo para mantener la disponibilidad de procesos.\nSe colaboró con equipos multidisciplinarios para traducir requisitos de negocio en soluciones técnicas.\nSe mantuvo apoyo en operación y soporte de interfaces y en la generación de documentación técnica.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek - FashionPhile",
+      "puesto": "Data Management Engineer Senior",
+      "fecha_inicio": "Apr 2025",
+      "fecha_fin": "Nov 2025",
+      "actividades_principales": [
+        "Documentar artefactos desarrollados en AWS Glue y catalogar tablas en Amazon Athena, incluyendo runbooks e inventarios de las capas Raw, Silver y Golden."
+      ]
+    },
+    {
+      "empresa": "Softtek - FashionPhile",
+      "puesto": "Data Management Engineer Senior",
+      "fecha_inicio": "Feb 2025",
+      "fecha_fin": "Mar 2025",
+      "actividades_principales": [
+        "Revisar y mejorar el modelo de datos multidimensional en Amazon RedShift y proponer mejoras en la estructura del Data Warehouse."
+      ]
+    },
+    {
+      "empresa": "Softtek - Citi Banamex",
+      "puesto": "Data Management Engineer OnPrem ETL Sr",
+      "fecha_inicio": "Oct 2024",
+      "fecha_fin": "Jan 2025",
+      "actividades_principales": [
+        "Realizar deploy y configuración de jobs de limpieza de datos y scripts Python en servidores Linux y administrar servicios de Informatica Cloud Data Quality."
+      ]
+    },
+    {
+      "empresa": "Softtek - Nacional Monte De Piedad",
+      "puesto": "Data Management Engineer - Expert",
+      "fecha_inicio": "Nov 2022",
+      "fecha_fin": "Mar 2023",
+      "actividades_principales": [
+        "Diseñar y construir mapas ETL en Informatica PowerCenter y elaborar documentación técnica y planes de prueba."
+      ]
+    },
+    {
+      "empresa": "Softtek - Coppel",
+      "puesto": "Data Management Engineer - Senior",
+      "fecha_inicio": "Sep 2022",
+      "fecha_fin": "Oct 2022",
+      "actividades_principales": [
+        "Construir interfaces ETL en IBM InfoSphere DataStage y generar scripts SQL para la validación de cargas."
+      ]
+    },
+    {
+      "empresa": "Softtek - MetLife MÉXICO",
+      "puesto": "Data Management Engineer - Expert",
+      "fecha_inicio": "Nov 2021",
+      "fecha_fin": "Aug 2022",
+      "actividades_principales": [
+        "Diseñar y construir interfaces ETL en Informatica PowerCenter, empaquetar componentes y gestionar change requests para liberación en ambientes UAT y productivo."
+      ]
+    },
+    {
+      "empresa": "Softtek - IMSS",
+      "puesto": "Data Management Engineer - Senior",
+      "fecha_inicio": "Sep 2020",
+      "fecha_fin": "Feb 2021",
+      "actividades_principales": [
+        "Desarrollar módulo de pareo/matching en Python 3.x y aplicar pruebas unitarias y de volumen para validar su comportamiento."
+      ]
+    },
+    {
+      "empresa": "Softtek",
+      "puesto": "Data Management Engineer - Senior",
+      "fecha_inicio": "May 2020",
+      "fecha_fin": "Aug 2020",
+      "actividades_principales": [
+        "Desarrollar módulos de perfilamiento, limpieza y estandarización de datos en Python usando Pandas y generar reportes de calidad."
+      ]
+    },
+    {
+      "empresa": "Softtek - Banobras",
+      "puesto": "Data Management Engineer - Senior",
+      "fecha_inicio": "Aug 2019",
+      "fecha_fin": "Apr 2020",
+      "actividades_principales": [
+        "Construir procesos ETL en Oracle Data Integrator para conciliaciones e integrar información operativa hacia el ODS."
+      ]
+    },
+    {
+      "empresa": "Softtek - Seguros Banorte",
+      "puesto": "Data Management Engineer - Expert",
+      "fecha_inicio": "Jun 2019",
+      "fecha_fin": "Aug 2019",
+      "actividades_principales": [
+        "Diseñar y construir procesos ETL en Informatica PowerCenter para migración de información entre sistemas."
+      ]
+    },
+    {
+      "empresa": "Softtek - MetLife Argentina",
+      "puesto": "Data Management Engineer - Expert",
+      "fecha_inicio": "Nov 2018",
+      "fecha_fin": "May 2019",
+      "actividades_principales": [
+        "Realizar soporte y mantenimiento de interfaces ETL en Informatica PowerCenter y elaborar documentación técnica sobre los procesos."
+      ]
+    }
+  ],
+  "ajuste_puesto_liderazgo": {
+    "empresa": "",
+    "puesto": "",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "actividades_principales": []
+  },
+  "periodo_resumen_laboral": "La experiencia abarca desde noviembre de 1997 hasta agosto de 2024",
+  "resumen_laboral": "Durante este período se desempeñaron funciones como System Admin Level 1, Technical Leader, Data Management Engineer y Software Engineer. Las responsabilidades incluyeron administración de entornos, supervisión y coordinación técnica, diseño y mantenimiento de procesos ETL, soporte a producción y desarrollo de aplicaciones de integración. Se realizaron transferencias de conocimiento, documentación operativa y capacitación a usuarios y consultores. La trayectoria mostró continuidad en roles técnicos y de liderazgo en proyectos de datos y migraciones.",
+  "estudios": {
+    "carrera": "Licenciatura en INFORMÁTICA Administrativa",
+    "lugar": "Universidad Tecnológica de México",
+    "periodo": "ene. 1994 - dic. 1998"
+  },
+  "certificaciones_y_cursos": [
+    {
+      "nombre": "PCEP-Certified Entry-Level Python Programmer",
+      "anio": "2021"
+    }
+  ]
+}
+]

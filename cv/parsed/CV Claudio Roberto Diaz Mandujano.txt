@@ -1,0 +1,831 @@
+
+
+--- Página 1 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+O
+E
+
+Powered by ? eightfold.ai
+
+Claudio Roberto Diaz Mandujano
+
+Data Management Engineer OnPrem ETL Sr
+Mexico
+
+% CLAUDIO.DIAZQSOFTTEK.COM
+» +525542441699
+
+20+ años de experiencia total
+
+Data Management Engineer Senior, Softtek Fashionphile 2025-2025 (8 meses)
+
+Data Management Engineer Senior - Softtek, Softtek Fashionphile 2025-2025 (2 meses)
+Data Management Engineer OnPremETL Sr, Softtek Citi Banamex 2024-2025 (4 meses)
+SystemAdmin Level 1, Softtek Citi Banamex 2023-2024 (1 año)
+
+Data Management Engineer - Expert, Softtek Nacional Monte de Piedad 2022-2023 (5 meses)
+Data Management Engineer - Senior, Softt ek Coppel 2022-2022 (2 meses)
+
+Data Management Engineer - Expert, Softt ek Met Life MÉXICO 2021-2022 (10 meses)
+Data Management Engineer - Senior, Softt ek IMSS 2021-2021 (3 meses)
+
+Data Management Engineer - Senior, Softtek IMSS 2021-2021 (4 meses)
+
+Data Management Engineer - Senior, Softtek IMSS 2020-2021 (6 meses)
+
+Data Management Engineer - Senior, Softt ek 2020-2020 (4 meses)
+
+Data Management Engineer - Senior, Softtek Banobras 2019-2020 (9 meses)
+
+Data Management Engineer - Expert, Softtek Seguros Banorte 2019-2019 (3 meses)
+Data Management Engineer - Expert, Softtek MetLife Argentina 2018-2019 (7 meses)
+Technical Leader - Senior, Softtek IMSS 2017-2018 (1 año)
+
+Data Management Engineer - Expert, Softtek IMSS 2017-2017 (5 meses)
+
+Data Management Engineer - Expert, Softtek IMSS 2016-2017 (1 año)
+
+Data Management Engineer - Expert, Softt ek BBVA 2015-2016 (4 meses)
+
+Data Management Engineer - Expert, Praxis 2015-2015 (1 mes)
+
+Data Management Engineer - Senior, Praxis Vitamédica 2015-2015 (2 meses)
+
+Technical Leader - Senior, Praxis Met Life MÉXICO 2014-2015 (1 año)
+
+Data Management Engineer - Senior, Softtek Kuo 2012-2014 (2 años)
+
+Data Management Engineer - Expert, Softtek Kraft Foods 2011-2012 (3 meses)
+
+Data Management Engineer - Expert, Softt ek Bursatec BMV 2011-2011 (8 meses)
+
+Data Management Engineer - Senior, Softtek 2011-2011 (1 mes)
+
+Data Management Engineer - Expert, Softt ek BBVA 2011-2011 (3 meses)
+
+Technical Leader - Senior, Softtek BBVA 2010-2011 (5 meses)
+
+Data Management Engineer - Senior, Ciscorporate Televisa 2010-2010 (6 meses)
+Technical Leader - Senior, Softt ek BBVA MÉXICO 2009-2010 (6 meses)
+
+Data Management Engineer - Senior, Ciscorporat e AXA Seguros 2009-2009 (4 meses)
+Data Management Engineer - Senior, Ciscorporate - Luz y Fuerza del Centro 2008-...
+Data Management Engineer - Expert, Ciscorporate - Seguros Banamex 2008-2008 (3 meses)
+Data Management Engineer - Expert, High Quality - Telcel 2007-2008 (10 meses)
+
+Data Management Engineer - Senior, Solcom - Dell 2006-2007 (7 meses)
+
+
+
+--- Página 2 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Data Management Engineer - Senior, Solcom - SHCP 2006-2006 (8 meses)
+Data Management Engineer - Senior, Solcom - Conacyt 2005-2005 (6 meses)
+Data Management Engineer - Senior, Accenture Telcel 2003-2005 (2 años)
+Software Engineer - Junior, Escuela Bancaria y Comercial 1999-2003 (4 años)
+Software Engineer - Junior, Arrendadora Atlas 1997-1999 (2 años)
+/  Chatept, Planning and Organization, Operational Data Store, Customer Service, Oracle PL/SQL, Amazon
+Redshift, Limpieza de Datos
+
+Empleado Actual
+
+01
+
+Resumen
+
+Ingeniero de datos con más de 22 años de experiencia en integración de datos y ETL especializado en
+herramientas como Informatica PowerCenter, Oracle PL/SQL e IBM InfoSphere DataStage. He
+desempeñado roles como líder técnico, ingeniero de datos y responsable de documentación técnica y
+transferencia de conocimiento.
+
+En el último año, me he especializado en la documentación de artefactos desarrollados en AWS Glue, tablas del
+Data Catalog en Amazon Athena y flujos de integración en entornos cloud de AWS. Como parte de esta evolución,
+he incorporado eluso estratégico de herramientas de inteligencia artificial como Copilot y ChatGPT, que han sido
+clave para optimizar tareas de documentación, generación de código y redacción técnica.
+
+Cuento con la certificación PCEP - Certified Entry-Level Python Programmer por el Python Institute,
+
+utilizando Python principalmente como herramienta de apoyo en procesos de automatización y análisis técnico
+dentro del contexto de integración de datos.
+
+Perfil resumen
+
+Experiencia
+
+
+--- Página 3 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Data Management Engineer Senior
+Softtek - FashionPhile
+Apr 2025 - Nov 2025 (8 meses)
+
+Durante esta asignación, participé en la documentación técnica en Confluence de los artefactos desarrollados
+en AWS para la integración de datos hacia el Data Warehouse de FashionPhile, provenientes de las siguientes
+fuentes de información: Shopify, Algolia, NetSuite, Salesforce Marketing Cloud, Salesforce Service Cloud, y
+Swym.
+
+Las páginas documentadas en Confluence incluyen:
+
+. Inventario de artefactos de la capa Raw / Bronze del Enterprise Data Warehouse (EDW)
+
+* . Inventario de artefactos de la capa Silver del EDW
+
+* Inventario de artefactos de la capa Golden del EDW
+
+* Inventario consolidado de artefactos del EDW
+
+* Runbookde la capa Raw del EDW
+
+* . Runbookde la capa Silver del EDW
+
+* Runbookde la capa Golden del EDW
+
+* Inventario de artefactos relacionados con Swymen el EDW
+
+Para la elaboración de esta documentación, se analizaron los siguientes tipos de artefactos:
+
++ Fuentes de datos / Crawlers: Detalles de los ANS Glue Crawlers utilizados para catalogar la información.
+
+* Flujos DLT - Capa Raw: Scripts de extracción basados en Python para cada sistema fuente.
+
+* DAGs - Descripción general: Explicación de la orquestación en Airflow que automatiza el flujo de datos de
+extremo a extremo, incluyendo la secuenciación, monitoreo y gestión de dependencias entre Glue Jobs y
+pipelines DLT.
+
+* Resumen de programación de DAGs en Airf low: Tabla con nombres de DAGs, horarios y detalles operativos.
+* Catálogo de fuentes de datos en S3 - Capa Bronze: Mapeo de fuentes de datos con sus respectivos
+buckets en AWS S3.
+
+* Catálogo de datos en AWS Athena - Capas Raw/Bronze: Estructura de tablas y definiciones de metadatos
+registradas en el Glue Data Catalog.
+
+* Documentación de AWS Glue Jobs: Listado y descripción de los ETL Jobs responsables de transformar y
+publicar conjuntos de datos curados, incluyendo configuraciones, mapeos de entrada/salida y notas operativas.
+También colaboré en la documentación del Inventario de páginas documentadas en el directorio del Enterprise
+Data Warehouse (EDW).
+
+Otras actividades realizadas durante el proyecto:
+
+1. Traducción de consultas SQL de PostgreSQL a MySQL
+
+Se documentaron versiones originales y traducidas de consultas analíticas clave, con el objetivo de facilitar la
+compatibilidad entre dif erentes sistemas de bases de datos.
+
+2. Análisis de variantes y propuesta de estandarización en archivos NetSuite almacenados en AWS S3
+
+Se identificaron inconsistencias en nombres y términos ambiguos en archivos Parquet, proponiendo una
+terminología estandarizada para mejorar la calidad, consistencia y usabilidad de los datos.
+
+3. Documentación de la estructura y metadatos de tablas relacionadas con Algolia en AWS Athena
+
+Estas tablas en formato Iceberg, almacenadas en la base de datos silver_catalog, contienen métricas agregadas
+sobre comportamiento y rendimiento de búsqueda. La documentación incluye estructura, detalles de
+almacenamiento y ejemplos prácticos de joins.
+
+4. Preparación de listado de tablas de dimensión y de hechos
+
+Se identificaron atributos clave para la creación de estas tablas en la capa Golden del Data Warehouse.
+
+5. Elaboración de documento de mapeo de datos para vistas FADS
+
+
+--- Página 4 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Se documentaron los scripts actuales y sus versiones adaptadas para Amazon Redshift, con el fin de asegurar la
+consistencia entre implementaciones heredadas y nuevas.
+
+6. Documentación de artefactos relacionados con el esquema estrella de la capa Golden para FADS (Fact and
+Dimension Schema)
+
+Se detalló la lógica de mapeo, relaciones y diseño estructural de las tablas de hechos y dimensiones, con el
+objetivo de garantizar trazabilidad, consistencia y capacidad analítica en el dominio FADS.
+
+Data Management Engineer Senior - Softtek FashionPhile
+Softtek- FashionPhile
+Feb 2025 - Mar 2025 (2 meses)
+
+Apoyé en la revisión y mejora del modelo de datos
+
+multidimensional del Datawarehouse de FashionPhile, el cual fue construido en la
+base de datos de Amazon RedShift. Mi enfoque estuvo en asegurar que el modelo
+cumpliera con los estándares de calidad y eficiencia requeridos para el manejo de
+datos.
+
+* Revisión del modelo de datos multidimensional.
+
+* Mejora de la estructura del Datawarehouse.
+
+* Colaboración con equipos multidisciplinarios.
+
+Data Management Engineer OnPrem ETL Sr
+Softtek - Citi Banamex
+Oct 2024 - Jan 2025 (4 meses)
+
+Proyecto Customer Hub: Realizar el deploy de los jobs de limpieza de datos desarrollados en Informática Cloud
+Data Quality en servidores Linux de ambientes altos
+
+(UATT, COB y PROD).
+
+Realizar la instalación de scripts desarrollados en Python y de catálogos en servidores Linux de ambientes altos
+(UATT, COB y PROD).
+
+Realizar actualizaciones en la configuración de los scripts python y en los archivos de catálogos en servidores
+Linux de ambientes altos (UATT,
+
+COB y PROD).
+
+Dar de alta y de baja los servicios de Informática Cloud Data Quality.
+
+Realizar configuraciones guiadas en informatica MDM hub console en ambientes altos (UATT, COB y PROD).
+Descargar y revisar logs generados por Informática Cloud Data Quality para el análisis de errores.
+
+Atender incidentes de nivel 1 cuando se reporta algún error durante la ejecución de los jobs de Calidad de Datos
+en ambientes altos (UATT,
+
+COB y PROD).
+
+
+--- Página 5 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+System Admin Level 1
+Softtek - Citi Banamex
+Apr 2023 - Aug 2024 (1 año, 5 meses)
+
+Proyecto Customer Hub. Realizar el deploy de los jobs de limpieza de datos desarrollados en Informática Cloud
+Data Quality en servidores Linux de ambientes altos (UATT, COB y PROD).Realizar la instalación de scripts
+desarrollados en Python y de catálogos en servidores Linux de ambientes altos (UATT, COB y PROD).Realizar
+actualizaciones en la configuración de los scripts python y en los archivos de catálogos en servidores Linux de
+ambientes altos (UATT, COB y PROD).Dar de alta y de baja los servicios de Informática Cloud Data Quality.Realizar
+configuraciones guiadas en informatica MDM hub console en ambientes altos (UATT, COB y PROD).Descargar y
+revisar logs generados por Informática Cloud Data Quality para el análisis de errores.Atender incidentes de nivel 1
+cuando se reporta algún error durante la ejecución de los jobs de Calidad de Datos en ambientes altos (UATT,
+COB y PROD).
+
+Data Management Engineer - Expert
+Softtek- Nacional Monte De Piedad
+Nov 2022 - Mar 2023 (5 meses)
+
+Proyecto MIDAS € MIT: Análisis de requerimientos, identificación de fuentes de datos, e identificación de mapas
+por actualizar.Diseño y Construcción de nuevos mapas en Informática PowerCenter para agregar nuevos
+indicadores, métricas y dimensiones que son requeridos para el insumo de los reportes abarcando las áreas de
+negocio de Prendario, Comercial, SIVA y NMPC PCC.Actualización de los mapas actuales de IPC (Informática
+PowerCenter) para agregar nuevos indicadores, métricas y dimensiones que son requeridos para ser el insumo
+de los reportes abarcando las áreas de negocio de Prendario, Comercial, SIVA y NMPC PCC.Elaboración de la
+documentación de Diseño Técnico, Manual general de Operación de ETL's, Plan de Instalación, Requerimientos
+de Prueba, y Pruebas Unitarias.
+
+Data Management Engineer - Senior
+Softtek- Coppel
+Sep 2022 - Oct 2022 (2 meses)
+
+Proyecto Cartera Ominicanal: Construcción de las interfaces ETL en IBM InfoSphere DataStage con respecto a
+los procesos de migración de datos de las tablas ctl_clientesdomiciliadospendientes, ctl_holguradomiciliacion, y
+Cattiendas.Obtención de los scripts de creación de las tablas de cartera en línea de la base de datos carteraetl
+que se ocupan en el proyecto.Generación del script de creación de las tablas de la base de datos en cartera en
+línea sin primary key ni foreign keys. Elaboración de un resumen con respecto al análisis de las estructuras de las
+tablas de cartera en línea.Modificación del job sequencer sec_MP_CargaCtIMigracionHistorica para incluir la tabla
+de cattiendas.Creación de scripts SQL para el conteo de las tablas de salida de la migración para la validación de
+las cargas Validaciones de conexión a los diferentes ambientes y bases de datos relacionadas con el proyecto.
+
+
+--- Página 6 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Data Management Engineer - Expert
+Softtek - MetLife MÉXICO
+Nov 2021 - Aug 2022 (10 meses)
+
+Proyecto LDTI: Diseño y construcción de las interfaces ETL en Informática PowerCenter 9.6 con respecto a los
+procesos del proyecto LDTI como Cashf low MET99 Inforce y Outforce, Cashflow Tradicional Metlife Inforce y
+Outforce, Cashflow Tradicional Alico Inforce, Actuals Pensiones Privadas Inforce y Outforce, y Actuals
+Pensiones Privadas Anualidades.Construcción y Adaptación de Shells (shell sripting AIX) para las interfaces de
+Cashflow MET99 Inforce y Cashf low MET99 Outforce.Sesiones de inducción a los consultores que se fueron
+integrando al proyecto con respecto al desarrollo de las interfaces ETL, creación de Change Request en Service
+Now, y al empaquetado de los componentes de las interfaces ETL en Micro Focus StarTeam. Creación y
+seguimiento de los Change Request (CHG) en Service Now para la liberación de los componentes ETL en los
+ambientes de UAT y Productivo de Informática PowerCenter.Empaquetado en Micro Focus StarTeamde los
+componentes de las interfaces ETL construidas para su liberación en los ambientes de UAT y Productivo de
+Informática PowerCenter.LDTI es un proyecto regulatorio el cuál consistió en la generación de una serie de
+reportes destinados a Metlife USA.
+
+Data Management Engineer - Senior
+Softtek - IMSS
+Aug 2021 - Oct 2021 (3 meses)
+
+QA Bitácoras de Actividades asignaciones en el Instituto: Revisión de la calidad de los documentos
+correspondientes a la bitácora de actividades que se reportan al Instituto Mexicano del Seguro Social durante el
+período 12/2020 - 09/2021.Contactar a los consultores para aclaración de dudas con respecto a sus bitácoras de
+actividades.Apoyo en la elaboración de las bitácoras de actividades que se encuentran pendientes.
+
+Data Management Engineer - Senior
+S — Softtek-1mss
+Apr 2021 - Jul 2021 (4 meses)
+
+Gobierno de Datos: Análisis de la Calidad de los Datos correspondiente al Catálogo Único de Unidades Médicas
+en Servicio con Productividad. Reuniones con el usuario de negocio para conocer el proceso del llenado del
+Catálogo Único de Unidades Médicas en Servicio con Productividad.Elaboración del Resumen Ejecutivo de los
+hallazgos de Calidad Catálogo Único de Unidades Médicas en Servicio con Productividad.Elaboración del
+documento de Lineamientos Funcionales de Calidad para el llenado del Catálogo Único de Unidades Médicas en
+Servicio con Productividad.Elaboración de la Matriz Relación Origen Destino para la automatización del Catálogo
+Único de Unidades Médicas en Servicio con Productividad.
+
+
+--- Página 7 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Data Management Engineer - Senior
+Softtek-1MSS
+Sep 2020 - Feb 2021 (6 meses)
+
+Proyecto Herramienta de Calidad y de Limpieza de Datos: Desarrollo en el lenguaje de programación Python
+versión 3.x del módulo de pareo o matching, el cual identifica los registros únicos y los registros similares de un
+origen de datos o entre dos orígenes de datos.Aplicación de pruebas unitarias y de volumen del módulo
+desarrollado.
+
+Data Management Engineer - Senior
+Softtek
+
+May 2020 - Aug 2020 (4 meses)
+
+Proyecto Herramienta de Calidad y de Limpieza de Datos: Desarrollo en el lenguaje de programación Python
+versión 3.x de los módulos de Perfilamiento, Limpieza y de Estandarización de Datos usando como librería
+principal Pandas, así como el desarrollo del menú principal de cada módulo con sus correspondientes sub menús,
+el desarrollo de procedimientos y de funciones correspondientes al Perfilamiento de Datos, y del desarrollo de
+procedimientos y de funciones correspondientes a la Limpieza y Calidad de Datos.Generación de reportes
+correspondientes al módulo de Perfilamiento de Datos y del módulo de Limpieza y de Estandarización de Datos.
+
+Data Management Engineer - Senior
+Softtek - Banobras
+Aug 2019 - Apr 2020 (9 meses)
+
+Proyecto Conciliaciones: Construcción de los procesos ETL en Oracle Data Integrator 12.2.1 para:La integración
+de la información operativa de Mercados correspondiente a Reportos, del sistema IKOS New hacia el repositorio
+de ODS (Operational DataStore), con el objetivo de generar los reportes de las Conciliaciones. La generación de
+los cuadros comparativos (cifras operativas vs cifras contables) de las conciliaciones de Mercados con respecto a
+Ingresos por Intereses, Gastos por Intereses, y Llamadas de Margen. La integración de la información operativa
+y contable de Recursos Humanos correspondiente a Beneficios Directo Nómina hacia el repositorio de ODS
+(Operational DataStore), con el objetivo de generar los reportes de las Conciliaciones. Generación de
+documentación técnica con respecto a los temas de Conciliaciones de Capital Ganado, Reportos, Ingresos por
+Intereses, Gastos por Intereses, y Llamadas de Margen.Construcción en Oracle Data Integrator del Package
+general de ejecución de los procesos ODI de Conciliaciones de Cartera de Crédito (Arrendamiento, Garantías,
+Sector Público, Sector Privado, entre otros).
+
+
+--- Página 8 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Data Management Engineer - Expert
+Softtek- Seguros Banorte
+Jun 2019 - Aug 2019 (3 meses)
+
+Proyecto Migración SIVI-Acsel/x: Diseño Técnico y Construcción de procesos ETL en Informática PowerCenter
+para la migración de la información del sistema SIVI correspondiente al Histórico de Recibos, Seguro Practicado,
+Bitácora de la Póliza y Movimientos a la Póliza hacia el sistema Acsel/x.
+
+Data Management Engineer - Expert
+S Softtek- MetLife Argentina
+Nov 2018 - May 2019 (7 meses)
+
+Actividades de soporte y mantenimiento alas interfaces ETL desarrolladas en Informática PowerCenter 9.6.1,
+para la generación de los archivos con información de los aplicativos de GMD, API, AIS, SOBE, SAVI, SIRVIP, LSP,
+Beneficios, Siniestros, entre otros, que serán integrados en Big Data.
+
+Technical Leader - Senior
+Softtek-1MSS
+Jul2017 - Oct 2018 (1 año, 4 meses)
+
+Proyecto TAF: Líder Técnico responsable del equipo de desarrollo de las interfaces ETL relacionadas con la
+integración de la información de los presupuestos de ingresos y de egresos entre Hyperion Planning y el módulo
+de Control de Compromisos de PeopleSoft del Proyecto “Nuevo Modelo Operativo para la Transf ormación de la
+Administración Financiera del Instituto Mexicano del Seguro Social (NMO TAF IMSS)”, cuya función principal es la
+coordinación y la supervisión de los integrantes del equipo de desarrollo sobre las actividades de definición de las
+reglas de negocio, identificación de fuentes de datos, diseño y desarrollo de los Procesos de Integración de
+Datos (ETL).
+
+Data Management Engineer - Expert
+Softtek-1MSS
+Mar 2017 - Jul 2017 (5 meses)
+
+Proyecto Continuidad Operativa: Soporte a producción y aplicación de mejoras de las interfaces ETL
+desarrolladas que establecen el intercambio de la información del Presupuesto de Egresos entre las instancias
+PREI (EPM) y Finanzas de PeopleSoft.
+
+
+--- Página 9 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Data Management Engineer - Expert
+Softtek-1MSS
+Mar 2016 - Feb 2017 (1 año)
+
+Proyecto Upgrade: Consultor ETL responsable del mantenimiento de las interfaces ETL desarrolladas para el
+proyecto Upgrade (migración de PeopleSoft 8 a PeopleSoft 9).Atención de incidencias relacionadas con las
+interfaces ETL reportadas durante las pruebas unitarias e integrales del proyecto Upgrade.Elaboración del
+Inventario de Interfaces ETL.
+
+Data Management Engineer - Expert
+Softtek- BBVA
+Nov 2015 - Feb 2016 (4 meses)
+
+Proyecto Reportes Regulatorios CNBV: Líder Técnico responsable del grupo de consultores encargados de dar
+mantenimiento a las interfaces ETL que generan los reportes regulatorios del grupo B y C que BBVA Bancomer
+entrega a la Comisión Nacional Bancaria y de Valores.
+
+Data Management Engineer - Expert
+
+Impartición del Curso Taller Informática PowerCenter a4 consultores con una duración de 40 horas en las
+instalaciones de Praxis.
+
+Data Management Engineer - Senior
+P Praxis - Vitamédica
+Aug 2015 - Sep 2015 (2 meses)
+
+Actividades de dimensionamiento en cuestión al número de interfaces ETL que deberán desarrollarse así como
+determinar el nivel de su complejidad para estimar el número de horas y de recursos que se necesitan para la
+construcción de las interfaces ETL requeridas para la migración del modelo VPM.
+
+
+--- Página 10 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Technical Leader - Senior
+Praxis - MetLife MÉXICO
+Jun 2014 - Jul2015 (1 año, 2 meses)
+
+Proyecto Solvencia: Principal responsable del Diseño Técnico de las Interfaces de Extracción desarrolladas en
+Informática PowerCenter 9.5 para la generación de los archivos de las entidades de Recibos Emitidos,
+Asegurados Sist., Coberturas Sumas Aseguradas, Coberturas Sumas Potenciadas y Emisión By Line de los
+Sistemas Legado de Stone Eagle, GKY, y SIGA-COBRANZA, que serán enviados a la Comisión Nacional de Seguros
+y Fianzas Asignación, seguimiento y supervisión de las actividades de cada consultor.Seguimiento a las pruebas
+de integración y del usuario en ambiente UAT y a las actividades de migración de las interfaces al ambiente
+productivo.
+
+Data Management Engineer - Senior
+Softtek- Kuo
+Feb 2012 - Jun 2014 (2 años, 5 meses)
+
+AMS Kuo: Actividades de soporte y mantenimiento a los Jobs ETL de las diferentes empresas que integran el
+grupo KUO. Las fuentes y los destinos de los datos donde los Jobs ETL se conectan son SAP y SQL Server 2008.
+
+Data Management Engineer - Expert
+Softtek- Kraft Foods
+Dec 2011 - Feb 2012 (3 meses)
+
+Desarrollo de interfaces de integración de SQL Server 2008 hacia SAP Allin One y de SAP Allin One hacia Oracle 8i.
+Ejecución de pruebas unitarias e integrales.Asesoría a un consultor Jr. con respecto al desarrollo de las interfaces
+ETL.
+
+Data Management Engineer - Expert
+Softtek- Bursatec BMV
+May 2011 - Dec 2011 (8 meses)
+
+Proyecto Motor Central: Análisis, Diseño, Construcción y Pruebas unitarias de los procesos de migración de
+diferentes sistemas legado hacia el nuevo Motor Central. Elaboración de documentación técnica sobre los
+procesos ETL desarrollados.Análisis, Diseño, Construcción y Pruebas unitarias de los procesos de migración de
+diferentes sistemas legado hacia el nuevo Motor Central.Elaboración de documentación técnica sobre los
+procesos ETL desarrollados.
+
+
+--- Página 11 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Data Management Engineer - Senior
+Softtek
+
+Mar 2011 - Mar 2011 (1 mes)
+
+Impartición del curso Informática Data Quality 8.6 a 8 consultores con una duración de 40 horas en las
+instalaciones de Softtek Ferrería.
+
+Data Management Engineer - Expert
+Softtek- BBVA
+Jan 2011 - Mar 2011 (3 meses)
+
+Proyecto Limpieza de Datos Base de Datos Libros Personas: Análisis de Datos y Definición de Reglas de
+Negocio.Desarrollo de Planes de Calidad de Datos en Informática Data Quality.Desarrollo de Procesos Batch para
+la ejecución de los Planes de Calidad de Datos. Transferencia de conocimiento a usuarios finales.
+
+Technical Leader - Senior
+Softtek- BBVA
+Sep 2010 - Jan 2011 (5 meses)
+
+Proyecto IPAB: Líder Técnico del Proyecto de Calidad de Datos IPAB teniendo a mi cargo 2 Consultores Jr. cuya
+función principal es la coordinación de las tareas de definición de reglas de negocio, identificación de fuentes de
+datos y diccionarios de validación o de referencia, desarrollo de los Planes de Calidad y Procesos de Integración
+de Datos (ETL), y la puesta en marcha en producción de los desarrollos de Calidad de Datos.Desarrollo de Planes
+de Calidad de Datos en Informática DataQuality, y desarrollo de Procesos de Integración en Informática
+PowerCenter para la ejecución de los Planes de Calidad de Datos. Instalación de Software Cliente y Servidor de
+Calidad de Datos tales como IDQ WorkBench e IDQ Integration Plug-In versiones cliente y servidor.
+
+Data Management Engineer - Senior
+Ciscorporate - Televisa
+Apr 2010 - Sep 2010 (6 meses)
+
+Creación de Interfaces ETL en Oracle Data Integrator para la carga y extracción de estructuras de las
+Dimensiones de las aplicaciones de Futbol, Equipos, Televisión, y TV Networks desarrolladas en Hyperion
+Planning.
+
+
+--- Página 12 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Technical Leader - Senior
+Softtek- BBVA MÉXICO
+Oct 2009 - Mar 2010 (6 meses)
+
+Proyecto Indicadores de Calidad Base de Datos Personas: Líder Técnico participando en el análisis, arquitectura,
+diseño y construcción de la solución ETL para la generación de indicadores y métricas de calidad que evalúen la
+calidad de los datos de la Base de Datos de Personas del Banco.
+
+Data Management Engineer - Senior
+C Ciscorporate - AXA Seguros
+Jun 2009 - Sep 2009 (4 meses)
+
+Proyecto WEBMED: Desarrollo de Procesos de Integración de Información en Informática PowerCenter
+proveniente de diferentes sistemas legacy para la generación de archivos planos y su entrega posterior al
+Sistema WEBMED .Elaboración de documentación técnica sobre los procesos ETL desarrollados.
+
+Data Management Engineer - Senior
+Ciscorporate — Luz Y Fuerza Del Centro
+May 2008 - May 2009 (1 año, 1 mes)
+
+Proyecto de Calidad y de Limpieza de Datos: Desarrollo de Planes de Normalización y Estandarización de
+Información en Informática DataQuality para la estandarización y normalización de nombres y direcciones de las
+bases de datos de Cuentas Ordinarias y Cuentas Especiales.Desarrollo de Procesos de Integración en
+Informática PowerCenter para la ejecución de los Planes de Normalización y Estandarización de
+Información.Transferencia de Conocimiento a Usuarios Finales.
+
+Data Management Engineer - Expert
+Ciscorporate - Seguros Banamex
+Feb 2008 - Apr 2008 (3 meses)
+
+Proyecto Cálculo de Compensación Variable: Desarrollo en Oracle de Stored Procedures de Validación de
+Información previa carga al área de Staging de la Solución Tecnológica del cálculo de compensación variable
+(Callidus).Desarrollo y ejecución de scripts de pruebas unitarias de los stored procedures de validación.
+
+
+--- Página 13 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Data Management Engineer - Expert
+H High Quality - Telcel
+Apr 2007 - Jan 2008 (10 meses)
+
+Proyecto Datawarehouse: Diseño, codificación, pruebas, optimización y mantenimiento de procesos de
+extracción, transformación y carga (ETL) al Datawarehouse de Telcel.Actividades de supervisión sobre
+desarrollos asignados a otros programadores.Elaboración de manuales técnicos y de operación de los procesos
+ETL.Capacitación a usuarios responsables de los procesos desarrollados.
+
+Data Management Engineer - Senior
+Solcom - Dell
+Sep 2006 - Mar 2007 (7 meses)
+
+Análisis y desarrollo de las interfases para la extracción de datos de los sistemas actuales para alimentar los
+sistemas de CRM (Sales Force) y ERP (Intacct) en DELL México y Latino América. Estás interfaces fueron
+desarrolladas en Visual C 2005.
+
+Data Management Engineer - Senior
+Solcom- SHCP
+Jan 2006 - Aug 2006 (8 meses)
+
+Proyecto Almacén Único de Información: Mantenimiento, optimización y pruebas de Jobs ETL que extraen
+información del Sistema Integral de Información y alimentan al DataMart de Flujo de Efectivo (Almacén Único de
+Información) .Participación en mesas de trabajo para establecer requerimientos de mantenimiento con el
+usuario.Elaboración de entregables de los procesos ETL.Capacitación a usuarios responsables de los procesos
+desarrollados.
+
+Data Management Engineer - Senior
+Solcom - Conacyt
+Jul 2005 - Dec 2005 (6 meses)
+
+Proyecto RETO: Responsable del diseño, desarrollo, implementación, optimización y administración de la
+infraestructura ETL del Proyecto RETO (Red de Eficiencia y Trabajo organizado) tomando como base la
+metodología Kimball y la metodología propuesta por EPM Oracle PeopleSoft versiones 8.x y 9.0.Responsable de la
+creación de Metadatos a través de Application Designer de Oracle PeopleSoft versión 8.xElaboración de
+entregables de los procesos ETL.Capacitación a usuarios responsables de los procesos desarrollados.
+
+
+--- Página 14 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Data Management Engineer - Senior
+Accenture - Telcel
+Oct 2003 - Jun 2005 (1 año, 9 meses)
+
+Proyecto Data warehouse: Diseño, codificación, pruebas, optimización y mantenimiento de procesos de
+extracción, transformación y carga (ETL) al Data WareHouse de Telcel.Actividades de supervisión sobre
+desarrollos asignados a otros programadores.Elaboración de manuales técnicos y de operación de los procesos
+ETL.Capacitación a usuarios responsables de los procesos desarrollados.Elaboración de entregables de los
+procesos ETL.Capacitación a usuarios responsables de los procesos desarrollados.
+
+Software Engineer - Junior
+Escuela Bancaria Y Comercial
+
+M Oct 1999 - Jul 2003 (3 años, 10 meses)
+
+Desarrollo, codificación y mantenimiento a sistemas administrativos, usando como lenguaje de desarrollo Power
+Builder y Sybase 11.x.Participación en actividades de adaptación y migración de aplicaciones y modelos de
+datos.Capacitación a usuarios responsables de los sistemas desarrollados.Otras actividades como llevar
+diariamente los respaldos de la base de datos, llevar la administración del Servidor de buzón de voz y Línea EBC,
+entre otras.
+
+Software Engineer - Junior
+Arrendadora Atlas
+Nov 1997 - Aug 1999 (1 año, 10 meses)
+
+Adaptación de sistemas administrativos y reportes desarrollados en Ingres 4GL a Magic como lenguaje de
+desarrollo.Participación en la creación de los scripts de traspaso de información en el proceso de migración del
+modelo de datos diseñado en Ingres a Informix.Control y revisión de la ejecución de los procesos automatizados
+involucrados en la generación de estados de cuenta.
+
+Educación
+
+Posgrado en Proyectos de Inversión
+IT b yTe Universidad TECNOLÓGICA de MÉXICO
+unitec.mx Jan 1999 to Dec 1999
+
+Diploma y certificado oficial de estudios.
+
+
+--- Página 15 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Licenciatura en INFORMÁTICA Administrativa
+IT p ye Universidad TECNOLÓGICA de MÉXICO
+[ Jan 1994 to Dec 1998
+
+Titulo y cédula prof esional.
+
+Insignias
+
+HBeATechGeek - Given by Norma Isabel Ortega Martinez onjunio 23, 2022 at 4:12 pm
+
+HBeCollaborative - Given by Jesus Emiliano Betanzos on septiembre 05, 2022 at 2:41 pm
+
++BeCollaborative - Given by Aurora Issis Vazquez Bravo on octubre 30, 2025 at 6:03 pm
+
+Su participación constante y articulada ha fortalecido la cohesión del equipo y la calidad de
+los entregables al documentar de manera excepcional. Gracias Claudio por tu colaboración en
+este proyecto!
+
+Habilidades
+Oracle PL/SQL * Data Integration — Stored Procedure | ETL + INTEGRACIÓNde Datos * Limpieza de Datos
+SQL ' | IBMInfoSphere DataStage | Informatica Power Center  Oracle Data Integrator — Oracle SQL Developer
+Extracción de Datos | Migración de Datos — Operational Data Store * Pandas — Data Warehouse Software
+Scripting — Documentación TÉCNICA - Informatica ETL * Estandarización de Datos
+Generación de Documentación | ' Codificación | Linux  Amazon Redshift ' Amazon Web Services Glue
+
+Amazon Web Services Athena » Atlassian Confluence * Amazon Simple Storage Service
+
+
+--- Página 16 (OCR) ---
+
+2/18/2026 Claudio Roberto Diaz Mandujano
+
+Amazon Web Services (AWS) | Oracle ODI  JSON | Linux Server | Python | Customer Service — Negotiation
+Leadership — Problem Solving  Efective Communication — Conflict Resolution — Planning % Organization
+Copilot » | Chatgpt — Data Engineering | Oracle SQL DB2 ' InformixDB | Collaboration
+
+People Development * Positive Relationships — Ctt
+
+Certificados
+
+PCEP-Certified Entry-Level Python Programmer
+Expedido por: Python Institute
+Válida desde: ene., 2021
+
+Información Personal
+
+M%  claudio.diazOsofttek.com
+crdm20000 hot mail.com
+
+» +525542441699
+
+
+--- Página 17 ---
+
+Data Engineer
+Mexico
+SKILLS
+Oracle PL/SQL
+ETL Integration and 
+Migration (Informatica 
+PowerCenter, IBM 
+InfoSphere DataStage, 
+Oracle Data Integrator)
+AWS Glue, Amazon 
+Athena, and AWS S3
+Python (PCEP Certified, 
+automation and technical 
+analysis)
+Technical Documentation 
+and Knowledge Transfer
+Leadership, Effective 
+Communication, 
+Negotiation and Conflict 
+Resolution
+LANGUAGES
+Spanish Native
+Intermediate to advanced English
+EDUCATION AND 
+TRAINING
+Universidad Tecnológica de México
+Postgraduate in Investment 
+Projects
+Universidad Tecnológica de MéxicoClaudio Roberto Diaz 
+Mandujano
+SUMMARY
+Claudio Roberto Diaz Mandujano, originally from Mexico, with email 
+claudo.diaz@softtek.com and contact number 5542441699, presents his professional 
+summary and work experience.
+He is a data engineer with more than 22 years of experience in data integration and ETL, 
+specializing in tools such as Informatica PowerCenter, Oracle PL/SQL, and IBM InfoSphere 
+DataStage.
+He has held roles as technical leader, data engineer, and responsible for technical 
+documentation and knowledge transfer.
+In the last year, he has specialized in documenting artifacts developed in AWS Glue, Data 
+Catalog tables in Amazon Athena, and integration flows in AWS cloud environments.
+Additionally, he has incorporated artificial intelligence tools like Copilot and ChatGPT to 
+optimize documentation tasks, code generation, and technical writing.
+He holds a PCEP certification as a beginner Python programmer, used for automation and 
+technical analysis.
+His academic background includes a postgraduate degree in Investment Projects and a 
+bachelor's degree in Administrative Informatics, both from the Technological University of 
+Mexico.
+His recent work experience at Softtek, on projects with FashionPhile, Citi Banamex, and 
+other institutions, has involved roles as Senior Data Management Engineer, supporting 
+technical documentation of AWS artifacts, reviewing and improving data models, deploying 
+and maintaining ETL processes in Linux, Windows, and cloud environments.
+He has worked on artefact inventory documentation, runbooks, cataloging in AWS S3, 
+Athena, and Glue, and collaboration in migration projects of SQL queries between 
+PostgreSQL and MySQL.
+He has also created ETL process maps and diagrams, designing star schemas for data 
+models, and has carried out requirements analysis, construction, and updating of maps on 
+platforms such as Informatica PowerCenter, IBM InfoSphere DataStage, and Oracle Data
+Integrator in various projects.
+He has participated in multiple technical documentation activities, SQL script generation, 
+improvements in multidimensional data models in Amazon Redshift, support in regulatory 
+projects and legacy system migrations, and technical leadership in development teams.
+In continuous training, he has completed multiple courses related to artificial intelligence, 
+coaching, leadership, communication, empathy, and management skills at Softtek, in 
+addition to certifications such as the Python Institute.
+His technical skills include Oracle PL/SQL, data integration and migration, ETL, data 
+cleansing and standardization, technical documentation, Linux scripting, use of AWS Glue, 
+Athena, S3, PowerCenter, DataStage, ODI, Python, and collaboration tools such as Atlassian 
+Confluence.
+He also has leadership skills, effective communication, negotiation and conflict resolution, 
+and experience in coaching and mentoring in leadership environments.
+PROFESSIONAL EXPERIENCE
+Data Management Engineer Senior Softtek
+Recent years
+
+
+--- Página 18 ---
+
+Bachelor's Degree in 
+Administrative Informatics
+ 
+  
+CERTIFICATIONS 
+PCEP Certification as Entry-Level 
+Python Programmer  
+Supported documentation of technical artifacts in AWS, review and improvement of data 
+models, deployment and maintenance of ETL processes in Linux, Windows and cloud 
+environments. Worked in documentation of artifact inventories, runbooks, cataloging in 
+AWS S3, Athena and Glue, and collaboration in migration projects of SQL queries between 
+PostgreSQL and MySQL. 
+ 
+Created ETL process maps and diagrams, designed star schemas for data models, and 
+performed requirements analysis, construction and update of maps in platforms such as 
+Informatica PowerCenter, IBM InfoSphere DataStage and Oracle Data Integrator in 
+different projects. 
+ 
+Participated in various technical documentation activities, SQL script generation, 
+improvements in multidimensional data models in Amazon Redshift, support in regulatory 
+projects and legacy system migrations, and technical leadership in development teams. 
+ 
+Tools/Skills:  AWS Glue, Amazon Athena, AWS S3, Informatica PowerCenter, IBM 
+InfoSphere DataStage, Oracle Data Integrator, Oracle PL/SQL, Linux and Windows 
+scripting, ETL, SQL (PostgreSQL, MySQL), Python, technical documentation, data modeling, 
+cloud environments, data migration, team leadership, communication, negotiation, 
+coaching, mentoring, Atlassian Confluence.  

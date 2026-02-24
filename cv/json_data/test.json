@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "Carlos Méndez Ramírez",
+    "rol_propuesto": "Líder Técnico de atención de incidentes",
+    "resumen_profesional": "Profesional con más de 8 años de experiencia en desarrollo de software y liderazgo técnico, especializado en la atención y resolución de incidentes críticos en ambientes productivos. Ha dirigido equipos multidisciplinarios asegurando la continuidad operativa de aplicativos estratégicos, implementando metodologías ágiles y mejores prácticas alineadas a la Arquitectura de Referencia y tecnologías open source.\n\nCuenta con sólida experiencia en la evaluación de escenarios críticos, toma de decisiones bajo presión y coordinación efectiva entre áreas técnicas y de negocio. Ha optimizado tiempos de respuesta ante incidentes, fortaleciendo procesos de comunicación y restauración de servicios mediante enfoques estructurados y orientados a resultados.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Tech Solutions S.A. de C.V.",
+        "puesto": "Líder Técnico de Soporte y Atención de Incidentes",
+        "fecha_inicio": "01-2021",
+        "fecha_fin": "12-2023",
+        "actividades_principales": [
+          "Coordinar equipos multidisciplinarios para restablecer la operación de aplicativos afectados por fallas en producción, garantizando la continuidad del servicio.",
+          "Analizar escenarios críticos y definir acciones inmediatas para contener y solucionar incidentes de alta severidad, priorizando el impacto al negocio.",
+          "Establecer y mantener comunicación clara y oportuna entre áreas técnicas y usuarios clave durante la gestión del incidente.",
+          "Supervisar la correcta ejecución de protocolos de recuperación y planes de contingencia.",
+          "Impulsar sesiones de revisión posterior a incidentes para fortalecer la mejora continua.",
+          "Gestionar la asignación de recursos técnicos conforme al nivel de criticidad del evento."
+        ]
+      },
+      {
+        "empresa": "Innovación Digital MX",
+        "puesto": "Ingeniero de Soporte y Administración de Aplicaciones",
+        "fecha_inicio": "03-2016",
+        "fecha_fin": "12-2020",
+        "actividades_principales": [
+          "Atender y dar seguimiento a incidentes en ambientes productivos asegurando tiempos de respuesta adecuados.",
+          "Apoyar en la evaluación técnica de incidentes y proponer alternativas de solución ante situaciones críticas.",
+          "Colaborar con equipos internos para asegurar una comunicación efectiva durante la resolución de fallas.",
+          "Ejecutar actividades de monitoreo preventivo para anticipar posibles interrupciones del servicio.",
+          "Documentar procedimientos de atención y recuperación ante incidentes.",
+          "Participar en actividades de soporte especializado en bases de datos y aplicativos empresariales."
+        ]
+      }
+    ],
+    "ajuste_puesto_liderazgo": 
+    {
+      "empresa": "Patito Inc.",
+      "puesto": "Tester",
+      "fecha_inicio": "01-2021",
+      "fecha_fin": "12-2023",
+      "actividades_principales": [
+        "Coordinar equipos multidisciplinarios para restablecer la operación de aplicativos afectados por fallas en producción, garantizando la continuidad del servicio.",
+        "Analizar escenarios críticos y definir acciones inmediatas para contener y solucionar incidentes de alta severidad, priorizando el impacto al negocio.",
+        "Establecer y mantener comunicación clara y oportuna entre áreas técnicas y usuarios clave durante la gestión del incidente.",
+        "Impulsar sesiones de revisión posterior a incidentes para fortalecer la mejora continua.",
+        "Gestionar la asignación de recursos técnicos conforme al nivel de criticidad del evento."
+      ]
+    },
+    "periodo_resumen_laboral": "La experiencia abarca desde diciembre de 2009 hasta mayo de 2022",
+    "resumen_laboral": "Periodo durante el cual se asumieron responsabilidades crecientes en la coordinación de pruebas, gestión de calidad, soporte a incidencias y supervisión de procesos de aseguramiento de la calidad. Se cuenta con trayectoria continua en funciones de pruebas y aseguramiento de la calidad en colaboración con Softtek, desempeñando roles como Ingeniero de Pruebas, Líder de Pruebas, Líder de Pruebas/Ingeniero de Pruebas, Líder de Calidad Interna, QA Manager, Ingeniero de Pruebas y equipo de soporte de incidencias post liberación, así como Líder de Aseguramiento y Control de la Calidad de mantenimientos mayores y nuevos desarrollos (SDMA4).",
+    "estudios": {
+      "carrera": "Instituto Tecnológico de Aguascalientes\nLicenciatura en Ciencias de la Computación\n",
+      "lugar": "Aguascalientes, Ags",
+      "periodo": "2010-2015"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "Certificación en Administración de Bases de Datos MariaDB",
+        "anio": "2023"
+      },
+      {
+        "nombre": "Certificación en Soluciones IBM para Gestión de Datos",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Certificación en Administración de Informix",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Certificación en Microsoft SQL Server",
+        "anio": "2021"
+      }
+    ]
+  },
+  {
+    "nombre": "Mariana López García",
+    "rol_propuesto": "Tester",
+    "resumen_profesional": "Profesional en aseguramiento de calidad con más de 2 años de experiencia en pruebas de software, enfocada en garantizar que los productos cumplan los requerimientos funcionales y estén libres de fallas mediante metodologías estructuradas de prueba.",
+    "experiencia_laboral": [
+      {
+        "empresa": "QA Experts S.A.",
+        "puesto": "Analista de Pruebas",
+        "fecha_inicio": "01-2022",
+        "fecha_fin": "12-2023",
+        "actividades_principales": [
+          "Verificar el cumplimiento de los requerimientos funcionales definidos para el producto, asegurando que el software opere conforme a las especificaciones establecidas.",
+          "Planear y ejecutar pruebas funcionales mediante el uso de matrices de validación, garantizando la correcta cobertura de los escenarios definidos.",
+          "Supervisar que el software desarrollado se encuentre libre de defectos antes de su liberación, validando cada componente conforme a criterios de aceptación.",
+          "Diseñar y aplicar esquemas estructurados de pruebas (RDP) que permitan evaluar de forma detallada el comportamiento del sistema construido."
+        ]
+      }
+    ],
+    "ajuste_puesto_liderazgo": {},
+    "periodo_resumen_laboral": "",
+    "resumen_laboral": "",
+    "estudios": {
+      "carrera": "Licenciatura en Ingeniería en Computación",
+      "lugar": "Ciudad de México",
+      "periodo": "2016-2020"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "Curso de Pruebas de Software Automatizadas",
+        "anio": "2022"
+      }
+      ,
+      {
+        "nombre": "Metodologías de Pruebas (caja blanca, negra, gris, automatizadas)",
+        "anio": "2021"
+      },
+      {
+        "nombre": "Técnicas de Pruebas (unitarias, integración, regresión)",
+        "anio": "2021"
+      },
+      {
+        "nombre": "Certificación Scrum Master",
+        "anio": "2023"
+      }
+    ]
+  }
+]

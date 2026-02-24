@@ -1,0 +1,2521 @@
+David Barrera Muñoz
+Rol propuesto: Tester
+PERFIL:
+11 años de experiencia en liderazgo de equipo de Pruebas (Coordinación, Estrategia y Negociación):  o Establecimiento e implementación del proceso de pruebas.  o Trabajo en equipo. o Detección y resolución de problemas. o Excelente comunicación verbal y buen manejo de relaciones interpersonales.  
+
+4 años de experiencia como líder de QA (Aseguramiento y Control de Calidad y Procesos):  o Definición del proceso de calidad. o Validación del proceso de calidad para Mantenimientos mayores, nuevos desarrollos y continuidad operativa. 
+o Seguimiento de técnicas de calidad apego a procesos. 
+
+Conocimientos de la Metodología pruebas:  
+•      Implantación y definición de metodología de pruebas.  
+•      Estimación de horas y equipo de pruebas.  
+•      Definición de estrategia de pruebas.  
+•      Definición y generación de métricas
+•      Elaboración de Plan de Pruebas.  
+•      Reporte de avance/efectividad de pruebas.  
+•      Análisis, validación y verificación de la integridad de negocio en base a insumos.  
+•      Árbol de complejidad ciclomática.  
+•      Elaboración de datos de prueba.  
+•      Elaboración de Testware.  
+•      Levantamiento y gestión defectos.  
+•      Análisis de defectos y ajuste de estrategia en base a criticidad.  
+•      Experto en pruebas:  
+o Funcional.  
+o Integral.  
+o Regresión.  
+o Antes de Impacto.  
+o Smoke.  
+o Agiles.  
+•      Preparación y acompañamiento de pruebas UAT.  
+•      Conciliación de hallazgos con el cliente.  
+•      Coordinación del equipo de pruebas.  
+  
+Aseguramiento de Calidad de Productos y Procesos:  
+•      Definición de Proceso de Aseguramiento de Calidad de Procesos y Productos.  
+•      Definición Planes de Calidad.  
+•      Control de Calidad de productos y proceso.  
+•      Ejecución de Auditorías Internas.  
+•      Análisis de resultados para realizar para ejercer la mejora continua.  
+•      Definición y obtención de métricas.  
+•      Conciliación de hallazgos de calidad con el cliente.  
+•      Auditorias y análisis de Datos.  
+•      Coordinación del equipo de pruebas.
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa:     (CitiBanamex)Softtek | Nombre de la empresa:     (CitiBanamex)Softtek | Lugar:  Mitikah y Remoto | PUESTO:   
+QA Coordinador, Líder QA | INICIO 
+2022 Junio | FINAL   
+Actual
+Proyectos liderados durante la asignación al cliente:  
+S016
+Saldo cero
+Anexo64
+Devolución de pagos
+Bonos de pensión
+Auditor de Perfiles
+Retiros totales
+Retiros parciales
+Clicon
+
+Actividades generales:   
+Monitoreo y control de las Herramientas de gestión de pruebas
+Monitoreo y control de las Herramientas de gestión de proyectos
+Seguimiento de Herramientas de automatización
+Generación de métricas
+Identificación y gestión de riesgos
+Planificación de tiempos y actividades
+Gestión y control de cambios de negocio
+Gestión de defectos
+Gestión y coaching al equipo de pruebas 
+Generación y actualización al Plan de pruebas
+Identificación y gestión de riesgos
+Análisis, diseño, implementación y ejecución de pruebas
+Monitoreo del progreso de las pruebas y los resultados
+Verificación de los criterios de salida
+Configuración y revisión de datos de pruebas
+Reporte al cliente sobre el estado del proyecto:
+Diseño de pruebas
+Ejecución de las pruebas
+Defectos
+Métricas
+Riesgos
+Procesos de mejora para:
+Plan de pruebas.  
+Análisis de pruebas
+Diseño de pruebas
+Ejecución de pruebas
+Generación de herramientas para la ejecución de pruebas
+Seguimiento a incidencias
+Seguimiento a dependencias | Proyectos liderados durante la asignación al cliente:  
+S016
+Saldo cero
+Anexo64
+Devolución de pagos
+Bonos de pensión
+Auditor de Perfiles
+Retiros totales
+Retiros parciales
+Clicon
+
+Actividades generales:   
+Monitoreo y control de las Herramientas de gestión de pruebas
+Monitoreo y control de las Herramientas de gestión de proyectos
+Seguimiento de Herramientas de automatización
+Generación de métricas
+Identificación y gestión de riesgos
+Planificación de tiempos y actividades
+Gestión y control de cambios de negocio
+Gestión de defectos
+Gestión y coaching al equipo de pruebas 
+Generación y actualización al Plan de pruebas
+Identificación y gestión de riesgos
+Análisis, diseño, implementación y ejecución de pruebas
+Monitoreo del progreso de las pruebas y los resultados
+Verificación de los criterios de salida
+Configuración y revisión de datos de pruebas
+Reporte al cliente sobre el estado del proyecto:
+Diseño de pruebas
+Ejecución de las pruebas
+Defectos
+Métricas
+Riesgos
+Procesos de mejora para:
+Plan de pruebas.  
+Análisis de pruebas
+Diseño de pruebas
+Ejecución de pruebas
+Generación de herramientas para la ejecución de pruebas
+Seguimiento a incidencias
+Seguimiento a dependencias | Proyectos liderados durante la asignación al cliente:  
+S016
+Saldo cero
+Anexo64
+Devolución de pagos
+Bonos de pensión
+Auditor de Perfiles
+Retiros totales
+Retiros parciales
+Clicon
+
+Actividades generales:   
+Monitoreo y control de las Herramientas de gestión de pruebas
+Monitoreo y control de las Herramientas de gestión de proyectos
+Seguimiento de Herramientas de automatización
+Generación de métricas
+Identificación y gestión de riesgos
+Planificación de tiempos y actividades
+Gestión y control de cambios de negocio
+Gestión de defectos
+Gestión y coaching al equipo de pruebas 
+Generación y actualización al Plan de pruebas
+Identificación y gestión de riesgos
+Análisis, diseño, implementación y ejecución de pruebas
+Monitoreo del progreso de las pruebas y los resultados
+Verificación de los criterios de salida
+Configuración y revisión de datos de pruebas
+Reporte al cliente sobre el estado del proyecto:
+Diseño de pruebas
+Ejecución de las pruebas
+Defectos
+Métricas
+Riesgos
+Procesos de mejora para:
+Plan de pruebas.  
+Análisis de pruebas
+Diseño de pruebas
+Ejecución de pruebas
+Generación de herramientas para la ejecución de pruebas
+Seguimiento a incidencias
+Seguimiento a dependencias | Proyectos liderados durante la asignación al cliente:  
+S016
+Saldo cero
+Anexo64
+Devolución de pagos
+Bonos de pensión
+Auditor de Perfiles
+Retiros totales
+Retiros parciales
+Clicon
+
+Actividades generales:   
+Monitoreo y control de las Herramientas de gestión de pruebas
+Monitoreo y control de las Herramientas de gestión de proyectos
+Seguimiento de Herramientas de automatización
+Generación de métricas
+Identificación y gestión de riesgos
+Planificación de tiempos y actividades
+Gestión y control de cambios de negocio
+Gestión de defectos
+Gestión y coaching al equipo de pruebas 
+Generación y actualización al Plan de pruebas
+Identificación y gestión de riesgos
+Análisis, diseño, implementación y ejecución de pruebas
+Monitoreo del progreso de las pruebas y los resultados
+Verificación de los criterios de salida
+Configuración y revisión de datos de pruebas
+Reporte al cliente sobre el estado del proyecto:
+Diseño de pruebas
+Ejecución de las pruebas
+Defectos
+Métricas
+Riesgos
+Procesos de mejora para:
+Plan de pruebas.  
+Análisis de pruebas
+Diseño de pruebas
+Ejecución de pruebas
+Generación de herramientas para la ejecución de pruebas
+Seguimiento a incidencias
+Seguimiento a dependencias | Proyectos liderados durante la asignación al cliente:  
+S016
+Saldo cero
+Anexo64
+Devolución de pagos
+Bonos de pensión
+Auditor de Perfiles
+Retiros totales
+Retiros parciales
+Clicon
+
+Actividades generales:   
+Monitoreo y control de las Herramientas de gestión de pruebas
+Monitoreo y control de las Herramientas de gestión de proyectos
+Seguimiento de Herramientas de automatización
+Generación de métricas
+Identificación y gestión de riesgos
+Planificación de tiempos y actividades
+Gestión y control de cambios de negocio
+Gestión de defectos
+Gestión y coaching al equipo de pruebas 
+Generación y actualización al Plan de pruebas
+Identificación y gestión de riesgos
+Análisis, diseño, implementación y ejecución de pruebas
+Monitoreo del progreso de las pruebas y los resultados
+Verificación de los criterios de salida
+Configuración y revisión de datos de pruebas
+Reporte al cliente sobre el estado del proyecto:
+Diseño de pruebas
+Ejecución de las pruebas
+Defectos
+Métricas
+Riesgos
+Procesos de mejora para:
+Plan de pruebas.  
+Análisis de pruebas
+Diseño de pruebas
+Ejecución de pruebas
+Generación de herramientas para la ejecución de pruebas
+Seguimiento a incidencias
+Seguimiento a dependencias
+Experiencia Funcional: | Recuperar la confianza del cliente por el Equipo de QA
+Empoderar y capacitar al equipo de QA para gestionar defectos, casos de prueba y ejecuciones
+Desarrollo del equipo de pruebas mediante la capacitación y retroalimentación de sus actividades alineadas al plan de carrera
+Dar soporte y visibilidad al Clientes sobre las actividades y desempeño de equipo de QA,
+Alinear al equipo para trabajar bajo los estándares del cliente
+Nivelar en conocimientos de negocio y herramientas al equipo de trabajo
+Establecer estándares para el reporteo de la ejecución de pruebas del proyecto
+Sinergia, motivación y empatía hacia el equipo de QA | Recuperar la confianza del cliente por el Equipo de QA
+Empoderar y capacitar al equipo de QA para gestionar defectos, casos de prueba y ejecuciones
+Desarrollo del equipo de pruebas mediante la capacitación y retroalimentación de sus actividades alineadas al plan de carrera
+Dar soporte y visibilidad al Clientes sobre las actividades y desempeño de equipo de QA,
+Alinear al equipo para trabajar bajo los estándares del cliente
+Nivelar en conocimientos de negocio y herramientas al equipo de trabajo
+Establecer estándares para el reporteo de la ejecución de pruebas del proyecto
+Sinergia, motivación y empatía hacia el equipo de QA | Recuperar la confianza del cliente por el Equipo de QA
+Empoderar y capacitar al equipo de QA para gestionar defectos, casos de prueba y ejecuciones
+Desarrollo del equipo de pruebas mediante la capacitación y retroalimentación de sus actividades alineadas al plan de carrera
+Dar soporte y visibilidad al Clientes sobre las actividades y desempeño de equipo de QA,
+Alinear al equipo para trabajar bajo los estándares del cliente
+Nivelar en conocimientos de negocio y herramientas al equipo de trabajo
+Establecer estándares para el reporteo de la ejecución de pruebas del proyecto
+Sinergia, motivación y empatía hacia el equipo de QA | Recuperar la confianza del cliente por el Equipo de QA
+Empoderar y capacitar al equipo de QA para gestionar defectos, casos de prueba y ejecuciones
+Desarrollo del equipo de pruebas mediante la capacitación y retroalimentación de sus actividades alineadas al plan de carrera
+Dar soporte y visibilidad al Clientes sobre las actividades y desempeño de equipo de QA,
+Alinear al equipo para trabajar bajo los estándares del cliente
+Nivelar en conocimientos de negocio y herramientas al equipo de trabajo
+Establecer estándares para el reporteo de la ejecución de pruebas del proyecto
+Sinergia, motivación y empatía hacia el equipo de QA
+Herramientas: | ALM, JIRA, Unisys, IBM, ADMWIN, Tectia, Autosys | ALM, JIRA, Unisys, IBM, ADMWIN, Tectia, Autosys | ALM, JIRA, Unisys, IBM, ADMWIN, Tectia, Autosys | ALM, JIRA, Unisys, IBM, ADMWIN, Tectia, Autosys
+Nombre de la empresa:    
+   
+(Instituto Mexicano del Seguro  
+Social) Softtek | Lugar:  Toreo | PUESTO:   
+Líder de pruebas | INICIO   
+2020 - junio | FINAL   
+2022 - mayo
+Nueva Normalidad:  
+  
+Actividades generales  
+Elaboración de Plan de Pruebas.   
+Diseño de pruebas  
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+  
+Facturación DIDT:  
+  
+Actividades generales  
+Elaboración de Plan de Pruebas.   
+Diseño de pruebas  
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+   
+Oncología APOP:  
+  
+Actividades generales  
+Elaboración de Plan de Pruebas.   
+Diseño de pruebas  
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Apoyo a pruebas UAT.   
+  
+SICARH:  
+  
+Actividades generales  
+Diseño de pruebas  
+Elaboración de Plan de Pruebas.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales. | Nueva Normalidad:  
+  
+Actividades generales  
+Elaboración de Plan de Pruebas.   
+Diseño de pruebas  
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+  
+Facturación DIDT:  
+  
+Actividades generales  
+Elaboración de Plan de Pruebas.   
+Diseño de pruebas  
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+   
+Oncología APOP:  
+  
+Actividades generales  
+Elaboración de Plan de Pruebas.   
+Diseño de pruebas  
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Apoyo a pruebas UAT.   
+  
+SICARH:  
+  
+Actividades generales  
+Diseño de pruebas  
+Elaboración de Plan de Pruebas.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales. | Nueva Normalidad:  
+  
+Actividades generales  
+Elaboración de Plan de Pruebas.   
+Diseño de pruebas  
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+  
+Facturación DIDT:  
+  
+Actividades generales  
+Elaboración de Plan de Pruebas.   
+Diseño de pruebas  
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+   
+Oncología APOP:  
+  
+Actividades generales  
+Elaboración de Plan de Pruebas.   
+Diseño de pruebas  
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Apoyo a pruebas UAT.   
+  
+SICARH:  
+  
+Actividades generales  
+Diseño de pruebas  
+Elaboración de Plan de Pruebas.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.
+Convenios:  
+Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Elaboración de reporte de pruebas de forma detallada.   
+  
+RECI:  
+Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Vacunación COVID-19:  
+Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Elaboración de reporte de pruebas de forma detallada.   
+  
+SISEC:  
+Actividades generales  
+Diseño de herramienta para validar los CP 
+Inspección de Insumos de Análisis.   
+Elaboración de herramienta para validación de cálculos  
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Apoyo a elaboración de reporte de pruebas de forma detallada.   
+  
+DEPI:  
+       Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+  SEG_AFEC:  
+       Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Seguimiento de incidencias de Desarrollo. | Convenios:  
+Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Elaboración de reporte de pruebas de forma detallada.   
+  
+RECI:  
+Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Vacunación COVID-19:  
+Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Elaboración de reporte de pruebas de forma detallada.   
+  
+SISEC:  
+Actividades generales  
+Diseño de herramienta para validar los CP 
+Inspección de Insumos de Análisis.   
+Elaboración de herramienta para validación de cálculos  
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Apoyo a elaboración de reporte de pruebas de forma detallada.   
+  
+DEPI:  
+       Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+  SEG_AFEC:  
+       Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Seguimiento de incidencias de Desarrollo.
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.  
+ 	  	  
+Ecosistemas Digitales (Historial Clínico):  
+       Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Seguimiento de incidencias de Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales. | Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.  
+ 	  	  
+Ecosistemas Digitales (Historial Clínico):  
+       Actividades generales  
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Seguimiento de incidencias de Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.
+Experiencia Funcional: | Definición del Plan de Calidad.   	  
+Definición del Plan de pruebas.   
+Definición del Plan de Administración de la Configuración.   
+Sin penalizaciones por hallazgos productivos.  
+Apoyo en la capacitación de Risk_Calculator, Polynomic_trend Apoyo en la regularización de proyectos para Q1-Q4 de TMMi
+Herramientas: | Testware   	  
+Metodología de Pruebas.   
+Proceso de Calidad y control de productos y servicios.   
+SQL
+Nombre de la empresa:    
+ (Nacional Monte de  
+Piedad)Softtek | Nombre de la empresa:    
+ (Nacional Monte de  
+Piedad)Softtek | Lugar:  Toreo | PUESTO:   
+QA Manager | INICIO   
+2019-Octubre | FINAL   
+2020- Febrero
+Actividades generales:     
+   
+Taylorización del proceso de pruebas con el de Tsoft y NMP.   
+Taylorización del proceso de garantías con el de NMP.   
+Reporte de métricas a NMP.   
+Elaboración del archivo de estimación de pruebas.   
+Sesiones con el Cliente para en KTE de los procesos internos.   
+Definición del Plan de Calidad.   
+Definición del Plan de pruebas.   
+Definición del Plan de Administración de la Configuración.   
+Seguimiento y gestión de la comunicación con la fábrica de pruebas  • 	Creación de flujos internos de proceso de Calidad, Pruebas y Garantías.   
+Diseño y ejecución de pruebas.   
+Gestión de hallazgos.   
+Acompañamiento de pruebas UAT. 
+Definición de Plan de Calidad Interno.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).   
+Conciliación de hallazgos con NMP. | Actividades generales:     
+   
+Taylorización del proceso de pruebas con el de Tsoft y NMP.   
+Taylorización del proceso de garantías con el de NMP.   
+Reporte de métricas a NMP.   
+Elaboración del archivo de estimación de pruebas.   
+Sesiones con el Cliente para en KTE de los procesos internos.   
+Definición del Plan de Calidad.   
+Definición del Plan de pruebas.   
+Definición del Plan de Administración de la Configuración.   
+Seguimiento y gestión de la comunicación con la fábrica de pruebas  • 	Creación de flujos internos de proceso de Calidad, Pruebas y Garantías.   
+Diseño y ejecución de pruebas.   
+Gestión de hallazgos.   
+Acompañamiento de pruebas UAT. 
+Definición de Plan de Calidad Interno.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).   
+Conciliación de hallazgos con NMP. | Actividades generales:     
+   
+Taylorización del proceso de pruebas con el de Tsoft y NMP.   
+Taylorización del proceso de garantías con el de NMP.   
+Reporte de métricas a NMP.   
+Elaboración del archivo de estimación de pruebas.   
+Sesiones con el Cliente para en KTE de los procesos internos.   
+Definición del Plan de Calidad.   
+Definición del Plan de pruebas.   
+Definición del Plan de Administración de la Configuración.   
+Seguimiento y gestión de la comunicación con la fábrica de pruebas  • 	Creación de flujos internos de proceso de Calidad, Pruebas y Garantías.   
+Diseño y ejecución de pruebas.   
+Gestión de hallazgos.   
+Acompañamiento de pruebas UAT. 
+Definición de Plan de Calidad Interno.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).   
+Conciliación de hallazgos con NMP. | Actividades generales:     
+   
+Taylorización del proceso de pruebas con el de Tsoft y NMP.   
+Taylorización del proceso de garantías con el de NMP.   
+Reporte de métricas a NMP.   
+Elaboración del archivo de estimación de pruebas.   
+Sesiones con el Cliente para en KTE de los procesos internos.   
+Definición del Plan de Calidad.   
+Definición del Plan de pruebas.   
+Definición del Plan de Administración de la Configuración.   
+Seguimiento y gestión de la comunicación con la fábrica de pruebas  • 	Creación de flujos internos de proceso de Calidad, Pruebas y Garantías.   
+Diseño y ejecución de pruebas.   
+Gestión de hallazgos.   
+Acompañamiento de pruebas UAT. 
+Definición de Plan de Calidad Interno.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).   
+Conciliación de hallazgos con NMP. | Actividades generales:     
+   
+Taylorización del proceso de pruebas con el de Tsoft y NMP.   
+Taylorización del proceso de garantías con el de NMP.   
+Reporte de métricas a NMP.   
+Elaboración del archivo de estimación de pruebas.   
+Sesiones con el Cliente para en KTE de los procesos internos.   
+Definición del Plan de Calidad.   
+Definición del Plan de pruebas.   
+Definición del Plan de Administración de la Configuración.   
+Seguimiento y gestión de la comunicación con la fábrica de pruebas  • 	Creación de flujos internos de proceso de Calidad, Pruebas y Garantías.   
+Diseño y ejecución de pruebas.   
+Gestión de hallazgos.   
+Acompañamiento de pruebas UAT. 
+Definición de Plan de Calidad Interno.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).   
+Conciliación de hallazgos con NMP.
+Experiencia Funcional: | Definición del Plan de Calidad.   
+Definición del Plan de pruebas.   
+Definición del Plan de Administración de la Configuración.   
+Sin penalizaciones por hallazgos productivos. | Definición del Plan de Calidad.   
+Definición del Plan de pruebas.   
+Definición del Plan de Administración de la Configuración.   
+Sin penalizaciones por hallazgos productivos. | Definición del Plan de Calidad.   
+Definición del Plan de pruebas.   
+Definición del Plan de Administración de la Configuración.   
+Sin penalizaciones por hallazgos productivos. | Definición del Plan de Calidad.   
+Definición del Plan de pruebas.   
+Definición del Plan de Administración de la Configuración.   
+Sin penalizaciones por hallazgos productivos.
+Herramientas: | Testware   
+Metodología de Pruebas.   
+Proceso de Calidad y control de productos y servicios. | Testware   
+Metodología de Pruebas.   
+Proceso de Calidad y control de productos y servicios. | Testware   
+Metodología de Pruebas.   
+Proceso de Calidad y control de productos y servicios. | Testware   
+Metodología de Pruebas.   
+Proceso de Calidad y control de productos y servicios.
+Nombre de la empresa:    
+ (Banobras)-Softtek | Nombre de la empresa:    
+ (Banobras)-Softtek | Lugar:    
+Eugenia – Santa fe | PUESTO:   
+Líder de Calidad  Interna | INICIO   
+2018-Agosto | FINAL   
+2019-Octubre
+Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad.   
+Definición de:    
+Plan de Calidad Interno /Externo.  o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos, técnicas y procesos para el control de calidad.   
+Revisión, seguimiento y coordinación para la revisión de Productos.   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Ejecución de Auditoria de Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).   
+Capacitación al equipo de calidad interna.   
+Coordinación del equipo de calidad.   
+Conciliación de hallazgos con el equipo de calidad externa. | Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad.   
+Definición de:    
+Plan de Calidad Interno /Externo.  o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos, técnicas y procesos para el control de calidad.   
+Revisión, seguimiento y coordinación para la revisión de Productos.   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Ejecución de Auditoria de Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).   
+Capacitación al equipo de calidad interna.   
+Coordinación del equipo de calidad.   
+Conciliación de hallazgos con el equipo de calidad externa. | Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad.   
+Definición de:    
+Plan de Calidad Interno /Externo.  o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos, técnicas y procesos para el control de calidad.   
+Revisión, seguimiento y coordinación para la revisión de Productos.   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Ejecución de Auditoria de Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).   
+Capacitación al equipo de calidad interna.   
+Coordinación del equipo de calidad.   
+Conciliación de hallazgos con el equipo de calidad externa. | Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad.   
+Definición de:    
+Plan de Calidad Interno /Externo.  o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos, técnicas y procesos para el control de calidad.   
+Revisión, seguimiento y coordinación para la revisión de Productos.   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Ejecución de Auditoria de Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).   
+Capacitación al equipo de calidad interna.   
+Coordinación del equipo de calidad.   
+Conciliación de hallazgos con el equipo de calidad externa. | Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad.   
+Definición de:    
+Plan de Calidad Interno /Externo.  o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos, técnicas y procesos para el control de calidad.   
+Revisión, seguimiento y coordinación para la revisión de Productos.   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Ejecución de Auditoria de Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).   
+Capacitación al equipo de calidad interna.   
+Coordinación del equipo de calidad.   
+Conciliación de hallazgos con el equipo de calidad externa.
+Experiencia Funcional: | Definición de técnicas de calidad a productos. Definición apego al proceso. | Definición de técnicas de calidad a productos. Definición apego al proceso. | Definición de técnicas de calidad a productos. Definición apego al proceso. | Definición de técnicas de calidad a productos. Definición apego al proceso.
+Definición de flujo de hallazgos internos.   
+Despliegue de proceso de calidad interna. | Definición de flujo de hallazgos internos.   
+Despliegue de proceso de calidad interna. | Definición de flujo de hallazgos internos.   
+Despliegue de proceso de calidad interna. | Definición de flujo de hallazgos internos.   
+Despliegue de proceso de calidad interna.
+Herramientas: | SQL.   
+Proceso de Calidad y control de productos y servicios. | SQL.   
+Proceso de Calidad y control de productos y servicios. | SQL.   
+Proceso de Calidad y control de productos y servicios. | SQL.   
+Proceso de Calidad y control de productos y servicios.
+Nombre de la empresa:    
+ (Bancomer)-Softtek   	  
+Avalúos | Nombre de la empresa:    
+ (Bancomer)-Softtek   	  
+Avalúos | Lugar:    
+Parques Polanco | PUESTO:   
+Ing. de pruebas | INICIO   
+2018-Enero | FINAL   
+2018-Junio
+Actividades generales:     
+   
+Actividades   
+   
+Estrategia, definición, y seguimiento de las pruebas.   
+Recopilar conocimiento del negocio Diseño de pruebas funcionales.   
+Diseño Testware Ágil.   
+Ejecución de pruebas Agiles.   
+Pruebas de regresión.   
+Pruebas antes de impacto.   
+Generar datos de prueba.   
+Ajustar datos de prueba para UAT.   
+Pruebas de UAT con usuario.   
+Gestión de hallazgos (levantamiento y seguimiento). | Actividades generales:     
+   
+Actividades   
+   
+Estrategia, definición, y seguimiento de las pruebas.   
+Recopilar conocimiento del negocio Diseño de pruebas funcionales.   
+Diseño Testware Ágil.   
+Ejecución de pruebas Agiles.   
+Pruebas de regresión.   
+Pruebas antes de impacto.   
+Generar datos de prueba.   
+Ajustar datos de prueba para UAT.   
+Pruebas de UAT con usuario.   
+Gestión de hallazgos (levantamiento y seguimiento). | Actividades generales:     
+   
+Actividades   
+   
+Estrategia, definición, y seguimiento de las pruebas.   
+Recopilar conocimiento del negocio Diseño de pruebas funcionales.   
+Diseño Testware Ágil.   
+Ejecución de pruebas Agiles.   
+Pruebas de regresión.   
+Pruebas antes de impacto.   
+Generar datos de prueba.   
+Ajustar datos de prueba para UAT.   
+Pruebas de UAT con usuario.   
+Gestión de hallazgos (levantamiento y seguimiento). | Actividades generales:     
+   
+Actividades   
+   
+Estrategia, definición, y seguimiento de las pruebas.   
+Recopilar conocimiento del negocio Diseño de pruebas funcionales.   
+Diseño Testware Ágil.   
+Ejecución de pruebas Agiles.   
+Pruebas de regresión.   
+Pruebas antes de impacto.   
+Generar datos de prueba.   
+Ajustar datos de prueba para UAT.   
+Pruebas de UAT con usuario.   
+Gestión de hallazgos (levantamiento y seguimiento). | Actividades generales:     
+   
+Actividades   
+   
+Estrategia, definición, y seguimiento de las pruebas.   
+Recopilar conocimiento del negocio Diseño de pruebas funcionales.   
+Diseño Testware Ágil.   
+Ejecución de pruebas Agiles.   
+Pruebas de regresión.   
+Pruebas antes de impacto.   
+Generar datos de prueba.   
+Ajustar datos de prueba para UAT.   
+Pruebas de UAT con usuario.   
+Gestión de hallazgos (levantamiento y seguimiento). | Actividades generales:     
+   
+Actividades   
+   
+Estrategia, definición, y seguimiento de las pruebas.   
+Recopilar conocimiento del negocio Diseño de pruebas funcionales.   
+Diseño Testware Ágil.   
+Ejecución de pruebas Agiles.   
+Pruebas de regresión.   
+Pruebas antes de impacto.   
+Generar datos de prueba.   
+Ajustar datos de prueba para UAT.   
+Pruebas de UAT con usuario.   
+Gestión de hallazgos (levantamiento y seguimiento).
+Experiencia Funcional: | Se obtuvieron liberaciones sin hallazgos funcionales.   
+No se contó con documentación de análisis, por lo que el diseño de pruebas se basó en el C100 y de entrevistas con los desarrolladores   
+Uso de metodología SCRUM | Se obtuvieron liberaciones sin hallazgos funcionales.   
+No se contó con documentación de análisis, por lo que el diseño de pruebas se basó en el C100 y de entrevistas con los desarrolladores   
+Uso de metodología SCRUM | Se obtuvieron liberaciones sin hallazgos funcionales.   
+No se contó con documentación de análisis, por lo que el diseño de pruebas se basó en el C100 y de entrevistas con los desarrolladores   
+Uso de metodología SCRUM | Se obtuvieron liberaciones sin hallazgos funcionales.   
+No se contó con documentación de análisis, por lo que el diseño de pruebas se basó en el C100 y de entrevistas con los desarrolladores   
+Uso de metodología SCRUM | Se obtuvieron liberaciones sin hallazgos funcionales.   
+No se contó con documentación de análisis, por lo que el diseño de pruebas se basó en el C100 y de entrevistas con los desarrolladores   
+Uso de metodología SCRUM
+Herramientas: | C100.   
+C204.   
+C109.   
+Oracle.   
+SQL.   
+DB2.   
+Java básico.   
+Python básico. | C100.   
+C204.   
+C109.   
+Oracle.   
+SQL.   
+DB2.   
+Java básico.   
+Python básico. | C100.   
+C204.   
+C109.   
+Oracle.   
+SQL.   
+DB2.   
+Java básico.   
+Python básico. | C100.   
+C204.   
+C109.   
+Oracle.   
+SQL.   
+DB2.   
+Java básico.   
+Python básico. | C100.   
+C204.   
+C109.   
+Oracle.   
+SQL.   
+DB2.   
+Java básico.   
+Python básico.
+Nombre de la empresa:    
+   
+(Bancomer)-Softtek Fiduciario | Nombre de la empresa:    
+   
+(Bancomer)-Softtek Fiduciario | Lugar:   
+Softtek Eugenia y   
+Torre Bancomer   
+(Reforma) | PUESTO:   Ing. de pruebas y equipo de soporte de incidencias post liberación | INICIO   
+2017-Marzo | FINAL   
+2018-Enero
+Actividades generales:     
+Apoyo al líder de pruebas en estrategia, definición, y seguimiento de las pruebas para el módulo de Inmuebles y Tesorería   
+Diseño de Pruebas:  o  	Análisis de Insumos.   
+Elaboración de árbol de complejidad ciclomática.   
+Matriz de pruebas.  o  	Casos de prueba.  o  	Elaboración de Testware.  
+Elaboración de C204.   
+Ejecución de pruebas.   
+Levantamiento y seguimiento de hallazgos en Redmine.   
+Recibir y dar seguimiento a Solicitud de Datos de prueba. | Actividades generales:     
+Apoyo al líder de pruebas en estrategia, definición, y seguimiento de las pruebas para el módulo de Inmuebles y Tesorería   
+Diseño de Pruebas:  o  	Análisis de Insumos.   
+Elaboración de árbol de complejidad ciclomática.   
+Matriz de pruebas.  o  	Casos de prueba.  o  	Elaboración de Testware.  
+Elaboración de C204.   
+Ejecución de pruebas.   
+Levantamiento y seguimiento de hallazgos en Redmine.   
+Recibir y dar seguimiento a Solicitud de Datos de prueba. | Actividades generales:     
+Apoyo al líder de pruebas en estrategia, definición, y seguimiento de las pruebas para el módulo de Inmuebles y Tesorería   
+Diseño de Pruebas:  o  	Análisis de Insumos.   
+Elaboración de árbol de complejidad ciclomática.   
+Matriz de pruebas.  o  	Casos de prueba.  o  	Elaboración de Testware.  
+Elaboración de C204.   
+Ejecución de pruebas.   
+Levantamiento y seguimiento de hallazgos en Redmine.   
+Recibir y dar seguimiento a Solicitud de Datos de prueba. | Actividades generales:     
+Apoyo al líder de pruebas en estrategia, definición, y seguimiento de las pruebas para el módulo de Inmuebles y Tesorería   
+Diseño de Pruebas:  o  	Análisis de Insumos.   
+Elaboración de árbol de complejidad ciclomática.   
+Matriz de pruebas.  o  	Casos de prueba.  o  	Elaboración de Testware.  
+Elaboración de C204.   
+Ejecución de pruebas.   
+Levantamiento y seguimiento de hallazgos en Redmine.   
+Recibir y dar seguimiento a Solicitud de Datos de prueba. | Actividades generales:     
+Apoyo al líder de pruebas en estrategia, definición, y seguimiento de las pruebas para el módulo de Inmuebles y Tesorería   
+Diseño de Pruebas:  o  	Análisis de Insumos.   
+Elaboración de árbol de complejidad ciclomática.   
+Matriz de pruebas.  o  	Casos de prueba.  o  	Elaboración de Testware.  
+Elaboración de C204.   
+Ejecución de pruebas.   
+Levantamiento y seguimiento de hallazgos en Redmine.   
+Recibir y dar seguimiento a Solicitud de Datos de prueba. | Actividades generales:     
+Apoyo al líder de pruebas en estrategia, definición, y seguimiento de las pruebas para el módulo de Inmuebles y Tesorería   
+Diseño de Pruebas:  o  	Análisis de Insumos.   
+Elaboración de árbol de complejidad ciclomática.   
+Matriz de pruebas.  o  	Casos de prueba.  o  	Elaboración de Testware.  
+Elaboración de C204.   
+Ejecución de pruebas.   
+Levantamiento y seguimiento de hallazgos en Redmine.   
+Recibir y dar seguimiento a Solicitud de Datos de prueba.
+Ajustar datos de prueba para pruebas UAT.   
+   
+Actividades después de liberar fiduciario   
+   
+Soporte a pruebas UAT.   
+Dominio de negocio de módulos Administración, Honorarios y Tesorería).   
+Diagnóstico y seguimiento de incidencias de usuario hasta su validación de los módulos: Administración, Honorarios y Tesorería). | Ajustar datos de prueba para pruebas UAT.   
+   
+Actividades después de liberar fiduciario   
+   
+Soporte a pruebas UAT.   
+Dominio de negocio de módulos Administración, Honorarios y Tesorería).   
+Diagnóstico y seguimiento de incidencias de usuario hasta su validación de los módulos: Administración, Honorarios y Tesorería). | Ajustar datos de prueba para pruebas UAT.   
+   
+Actividades después de liberar fiduciario   
+   
+Soporte a pruebas UAT.   
+Dominio de negocio de módulos Administración, Honorarios y Tesorería).   
+Diagnóstico y seguimiento de incidencias de usuario hasta su validación de los módulos: Administración, Honorarios y Tesorería). | Ajustar datos de prueba para pruebas UAT.   
+   
+Actividades después de liberar fiduciario   
+   
+Soporte a pruebas UAT.   
+Dominio de negocio de módulos Administración, Honorarios y Tesorería).   
+Diagnóstico y seguimiento de incidencias de usuario hasta su validación de los módulos: Administración, Honorarios y Tesorería). | Ajustar datos de prueba para pruebas UAT.   
+   
+Actividades después de liberar fiduciario   
+   
+Soporte a pruebas UAT.   
+Dominio de negocio de módulos Administración, Honorarios y Tesorería).   
+Diagnóstico y seguimiento de incidencias de usuario hasta su validación de los módulos: Administración, Honorarios y Tesorería). | Ajustar datos de prueba para pruebas UAT.   
+   
+Actividades después de liberar fiduciario   
+   
+Soporte a pruebas UAT.   
+Dominio de negocio de módulos Administración, Honorarios y Tesorería).   
+Diagnóstico y seguimiento de incidencias de usuario hasta su validación de los módulos: Administración, Honorarios y Tesorería).
+Experiencia Funcional: | Liberación en tiempo estimado.   
+Liberación sin reporte de hallazgos.   
+Asesoramiento de al cliente para el uso del sistema. | Liberación en tiempo estimado.   
+Liberación sin reporte de hallazgos.   
+Asesoramiento de al cliente para el uso del sistema. | Liberación en tiempo estimado.   
+Liberación sin reporte de hallazgos.   
+Asesoramiento de al cliente para el uso del sistema. | Liberación en tiempo estimado.   
+Liberación sin reporte de hallazgos.   
+Asesoramiento de al cliente para el uso del sistema. | Liberación en tiempo estimado.   
+Liberación sin reporte de hallazgos.   
+Asesoramiento de al cliente para el uso del sistema.
+Herramientas: | C100.   
+C204.   
+C109.   
+Testware.   
+Redmine. | C100.   
+C204.   
+C109.   
+Testware.   
+Redmine. | C100.   
+C204.   
+C109.   
+Testware.   
+Redmine. | C100.   
+C204.   
+C109.   
+Testware.   
+Redmine. | C100.   
+C204.   
+C109.   
+Testware.   
+Redmine.
+Nombre de la empresa:    
+   
+(SAT)-Softtek | Nombre de la empresa:    
+   
+(SAT)-Softtek | Lugar:   
+Softtek Eugenia,   
+SAT Reloj | PUESTO:   
+Líder de   
+Aseguramiento y control de la calidad de metimientos mayores y nuevos 
+desarrollos (SDMA4) | INICIO   
+2015-Julio | FINAL   
+2017-Marzo
+Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad definido por SAT.   
+Definición en conjunto a SAT el llenado de los productos de Calidad:   
+Plan de Calidad. o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos referentes al aseguramiento de la Calidad.   
+Variación de entrega de productos de Aseguramiento de la Calidad en tiempo y forma para evitar penalizaciones.   
+Revisión, seguimiento y coordinación para la revisión de Productos de pre liberación (apego a listas de verificación definidas por SAT).   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Auditar Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa SAT (Auditorias aplicadas a Softtek para la validación de apego a procesos.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso). | Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad definido por SAT.   
+Definición en conjunto a SAT el llenado de los productos de Calidad:   
+Plan de Calidad. o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos referentes al aseguramiento de la Calidad.   
+Variación de entrega de productos de Aseguramiento de la Calidad en tiempo y forma para evitar penalizaciones.   
+Revisión, seguimiento y coordinación para la revisión de Productos de pre liberación (apego a listas de verificación definidas por SAT).   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Auditar Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa SAT (Auditorias aplicadas a Softtek para la validación de apego a procesos.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso). | Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad definido por SAT.   
+Definición en conjunto a SAT el llenado de los productos de Calidad:   
+Plan de Calidad. o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos referentes al aseguramiento de la Calidad.   
+Variación de entrega de productos de Aseguramiento de la Calidad en tiempo y forma para evitar penalizaciones.   
+Revisión, seguimiento y coordinación para la revisión de Productos de pre liberación (apego a listas de verificación definidas por SAT).   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Auditar Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa SAT (Auditorias aplicadas a Softtek para la validación de apego a procesos.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso). | Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad definido por SAT.   
+Definición en conjunto a SAT el llenado de los productos de Calidad:   
+Plan de Calidad. o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos referentes al aseguramiento de la Calidad.   
+Variación de entrega de productos de Aseguramiento de la Calidad en tiempo y forma para evitar penalizaciones.   
+Revisión, seguimiento y coordinación para la revisión de Productos de pre liberación (apego a listas de verificación definidas por SAT).   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Auditar Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa SAT (Auditorias aplicadas a Softtek para la validación de apego a procesos.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso). | Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad definido por SAT.   
+Definición en conjunto a SAT el llenado de los productos de Calidad:   
+Plan de Calidad. o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos referentes al aseguramiento de la Calidad.   
+Variación de entrega de productos de Aseguramiento de la Calidad en tiempo y forma para evitar penalizaciones.   
+Revisión, seguimiento y coordinación para la revisión de Productos de pre liberación (apego a listas de verificación definidas por SAT).   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Auditar Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa SAT (Auditorias aplicadas a Softtek para la validación de apego a procesos.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso). | Actividades generales:     
+   
+Revisión de apego al proceso compartido de Aseguramiento de la Calidad definido por SAT.   
+Definición en conjunto a SAT el llenado de los productos de Calidad:   
+Plan de Calidad. o Informe de Calidad Interna/Externa.  
+Reporte de Calidad interna/Externa.   
+Despliegue interno de productos referentes al aseguramiento de la Calidad.   
+Variación de entrega de productos de Aseguramiento de la Calidad en tiempo y forma para evitar penalizaciones.   
+Revisión, seguimiento y coordinación para la revisión de Productos de pre liberación (apego a listas de verificación definidas por SAT).   
+Capacitación y consultoría en el proceso de Aseguramiento de la Calidad.   
+Auditar Calidad Interna a productos y procesos.   
+Acompañamiento en auditorias de calidad externa SAT (Auditorias aplicadas a Softtek para la validación de apego a procesos.   
+Seguimiento a hallazgos de revisiones de Calidad Externa (Producto y Proceso).
+Experiencia Funcional: | Reducción de hallazgos en reportados por SAT de 7000 a 800.   
+Cumplimiento al 100% de entrega de documentación de Calidad.   
+Entrega de productos del proceso de Calidad en los tiempos definidos por la metodología. | Reducción de hallazgos en reportados por SAT de 7000 a 800.   
+Cumplimiento al 100% de entrega de documentación de Calidad.   
+Entrega de productos del proceso de Calidad en los tiempos definidos por la metodología. | Reducción de hallazgos en reportados por SAT de 7000 a 800.   
+Cumplimiento al 100% de entrega de documentación de Calidad.   
+Entrega de productos del proceso de Calidad en los tiempos definidos por la metodología. | Reducción de hallazgos en reportados por SAT de 7000 a 800.   
+Cumplimiento al 100% de entrega de documentación de Calidad.   
+Entrega de productos del proceso de Calidad en los tiempos definidos por la metodología. | Reducción de hallazgos en reportados por SAT de 7000 a 800.   
+Cumplimiento al 100% de entrega de documentación de Calidad.   
+Entrega de productos del proceso de Calidad en los tiempos definidos por la metodología.
+Herramientas: | SQL.   
+Proceso de Calidad y control de productos y servicios. | SQL.   
+Proceso de Calidad y control de productos y servicios. | SQL.   
+Proceso de Calidad y control de productos y servicios. | SQL.   
+Proceso de Calidad y control de productos y servicios. | SQL.   
+Proceso de Calidad y control de productos y servicios.
+Nombre de la empresa:   (SAT)Softtek | Nombre de la empresa:   (SAT)Softtek | LUGAR:   
+Softtek Eugenia,   
+SAT Reloj | PUESTO:   
+Ing. de Pruebas | INICIO   
+2015-Marzo | FINAL   
+2015-Julio
+Actividades generales:     
+SAT/Equipo de Pre-liberación   
+   
+Actividades   
+  Revisión es estantes de productos BI.   
+Definición de Check list que se aplicaran a los productos de BI para evitar rechazos.   
+Revisión de productos de BI y validación de apego a estándares.   
+   
+SAT/Ingeniero de pruebas de Continuidad operativa   
+   
+Actividades   
+  Ejecución de Pruebas Integrales.   
+Ejecución de Pruebas Funcionales. | Actividades generales:     
+SAT/Equipo de Pre-liberación   
+   
+Actividades   
+  Revisión es estantes de productos BI.   
+Definición de Check list que se aplicaran a los productos de BI para evitar rechazos.   
+Revisión de productos de BI y validación de apego a estándares.   
+   
+SAT/Ingeniero de pruebas de Continuidad operativa   
+   
+Actividades   
+  Ejecución de Pruebas Integrales.   
+Ejecución de Pruebas Funcionales. | Actividades generales:     
+SAT/Equipo de Pre-liberación   
+   
+Actividades   
+  Revisión es estantes de productos BI.   
+Definición de Check list que se aplicaran a los productos de BI para evitar rechazos.   
+Revisión de productos de BI y validación de apego a estándares.   
+   
+SAT/Ingeniero de pruebas de Continuidad operativa   
+   
+Actividades   
+  Ejecución de Pruebas Integrales.   
+Ejecución de Pruebas Funcionales. | Actividades generales:     
+SAT/Equipo de Pre-liberación   
+   
+Actividades   
+  Revisión es estantes de productos BI.   
+Definición de Check list que se aplicaran a los productos de BI para evitar rechazos.   
+Revisión de productos de BI y validación de apego a estándares.   
+   
+SAT/Ingeniero de pruebas de Continuidad operativa   
+   
+Actividades   
+  Ejecución de Pruebas Integrales.   
+Ejecución de Pruebas Funcionales. | Actividades generales:     
+SAT/Equipo de Pre-liberación   
+   
+Actividades   
+  Revisión es estantes de productos BI.   
+Definición de Check list que se aplicaran a los productos de BI para evitar rechazos.   
+Revisión de productos de BI y validación de apego a estándares.   
+   
+SAT/Ingeniero de pruebas de Continuidad operativa   
+   
+Actividades   
+  Ejecución de Pruebas Integrales.   
+Ejecución de Pruebas Funcionales.
+Experiencia Funcional: | Entregas Puntales   
+Pruebas exploratorias | Entregas Puntales   
+Pruebas exploratorias | Entregas Puntales   
+Pruebas exploratorias | Entregas Puntales   
+Pruebas exploratorias
+Herramientas: | SQL   	  
+Estándares de BI, para liberación y proyectos | SQL   	  
+Estándares de BI, para liberación y proyectos | SQL   	  
+Estándares de BI, para liberación y proyectos | SQL   	  
+Estándares de BI, para liberación y proyectos | SQL   	  
+Estándares de BI, para liberación y proyectos
+Nombre de la empresa:    
+ (Bancomer)-Softtek | Nombre de la empresa:    
+ (Bancomer)-Softtek | LUGAR:   
+Softtek Eugenia,   
+SAT Reloj | PUESTO:   
+Líder de Pruebas/Ing.  de Pruebas | INICIO  2011 | FINAL   2014- Diciembre
+Bancomer/Pymes   
+   
+ Actividades   
+Metodología TSP.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+   
+Bancomer/SIM Serie TPV´s   
+   
+ Actividades   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.  
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística  
+	   
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades   
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Ajustes Corep (Fase 1)   
+ Actividades   
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas | Bancomer/Pymes   
+   
+ Actividades   
+Metodología TSP.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+   
+Bancomer/SIM Serie TPV´s   
+   
+ Actividades   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.  
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística  
+	   
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades   
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Ajustes Corep (Fase 1)   
+ Actividades   
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas | Bancomer/Pymes   
+   
+ Actividades   
+Metodología TSP.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+   
+Bancomer/SIM Serie TPV´s   
+   
+ Actividades   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.  
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística  
+	   
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades   
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Ajustes Corep (Fase 1)   
+ Actividades   
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas | Bancomer/Pymes   
+   
+ Actividades   
+Metodología TSP.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+   
+Bancomer/SIM Serie TPV´s   
+   
+ Actividades   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.  
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística  
+	   
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades   
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Ajustes Corep (Fase 1)   
+ Actividades   
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas | Bancomer/Pymes   
+   
+ Actividades   
+Metodología TSP.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+   
+Bancomer/SIM Serie TPV´s   
+   
+ Actividades   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.  
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística  
+	   
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades   
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Ajustes Corep (Fase 1)   
+ Actividades   
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   o 	Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas. o 	Planeación Estrategia de pruebas.  
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades      
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística. | Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   o 	Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas. o 	Planeación Estrategia de pruebas.  
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades      
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística. | Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   o 	Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas. o 	Planeación Estrategia de pruebas.  
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades      
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística. | Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   o 	Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas. o 	Planeación Estrategia de pruebas.  
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades      
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística. | Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   o 	Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas. o 	Planeación Estrategia de pruebas.  
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades      
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística. | Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+    
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   o 	Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas. o 	Planeación Estrategia de pruebas.  
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+Bancomer/Ajustes Corep (Fase 2)   
+ Actividades      
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.
+Bancomer/Ajustes Corep (Fase 1)    Actividades: 
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+   
+   
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.  
+Elaboración de reporte de pruebas de forma detallada y estadística.     
+ 
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+  
+Bancomer/Seguro  
+Plan 10 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.  
+Elaboración Casos de Prueba.  
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias.   
+   
+Bancomer/Seguro Plan 25 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias. | Bancomer/Ajustes Corep (Fase 1)    Actividades: 
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+   
+   
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.  
+Elaboración de reporte de pruebas de forma detallada y estadística.     
+ 
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+  
+Bancomer/Seguro  
+Plan 10 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.  
+Elaboración Casos de Prueba.  
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias.   
+   
+Bancomer/Seguro Plan 25 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias. | Bancomer/Ajustes Corep (Fase 1)    Actividades: 
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+   
+   
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.  
+Elaboración de reporte de pruebas de forma detallada y estadística.     
+ 
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+  
+Bancomer/Seguro  
+Plan 10 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.  
+Elaboración Casos de Prueba.  
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias.   
+   
+Bancomer/Seguro Plan 25 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias. | Bancomer/Ajustes Corep (Fase 1)    Actividades: 
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+   
+   
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.  
+Elaboración de reporte de pruebas de forma detallada y estadística.     
+ 
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+  
+Bancomer/Seguro  
+Plan 10 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.  
+Elaboración Casos de Prueba.  
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias.   
+   
+Bancomer/Seguro Plan 25 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias. | Bancomer/Ajustes Corep (Fase 1)    Actividades: 
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+   
+   
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.  
+Elaboración de reporte de pruebas de forma detallada y estadística.     
+ 
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+  
+Bancomer/Seguro  
+Plan 10 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.  
+Elaboración Casos de Prueba.  
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias.   
+   
+Bancomer/Seguro Plan 25 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias. | Bancomer/Ajustes Corep (Fase 1)    Actividades: 
+   
+Metodología TSP.   
+Rol QA TSP.   
+Elaboración de Plan de Pruebas.   
+Planeación Estrategia de pruebas   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+   
+   
+Bancomer/Plan Piso Neteo   Actividades:   
+   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.  
+Elaboración de reporte de pruebas de forma detallada y estadística.     
+ 
+Bancomer/Propuesta Riesgos Electrónica (Fase 1 y Fase 2) Actividades:   
+   
+Preparación de un nuevo líder de pruebas y seguimiento para las siguientes actividades:   
+Elaboración de Plan de Pruebas.   
+Administración, planeación y coordinación diseño de pruebas.   
+Planeación Estrategia de pruebas.   
+Administración, planeación y coordinación de Ejecución de pruebas.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Seguimiento de incidencias de Análisis y Desarrollo.   
+Inspección de Insumos de Análisis.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Negociación de tiempos y estrategia.   
+Elaboración de reporte de pruebas de forma detallada y estadística.   
+  
+  
+Bancomer/Seguro  
+Plan 10 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.  
+Elaboración Casos de Prueba.  
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias.   
+   
+Bancomer/Seguro Plan 25 Actividades:   
+   
+Análisis de insumos.   
+Detección de inconsistencias de negocio.   
+Colaborar con la Estabilización del Análisis Funcional.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+Elaboración y Diseño Prueba Funcional e Integral.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Seguimiento de Incidencias.
+Experiencia Funcional: | Liberación sin hallazgo   	  
+Administración de pool de pruebas   
+Estimaciones con cosmic function points   
+Uso de Metodología PSP y 
+TSP  Certificación y uso de 
+ISTQB | Liberación sin hallazgo   	  
+Administración de pool de pruebas   
+Estimaciones con cosmic function points   
+Uso de Metodología PSP y 
+TSP  Certificación y uso de 
+ISTQB | Liberación sin hallazgo   	  
+Administración de pool de pruebas   
+Estimaciones con cosmic function points   
+Uso de Metodología PSP y 
+TSP  Certificación y uso de 
+ISTQB | Liberación sin hallazgo   	  
+Administración de pool de pruebas   
+Estimaciones con cosmic function points   
+Uso de Metodología PSP y 
+TSP  Certificación y uso de 
+ISTQB | Liberación sin hallazgo   	  
+Administración de pool de pruebas   
+Estimaciones con cosmic function points   
+Uso de Metodología PSP y 
+TSP  Certificación y uso de 
+ISTQB
+Herramientas: | SQL   	  
+JAVA   
+DB2 | SQL   	  
+JAVA   
+DB2 | SQL   	  
+JAVA   
+DB2 | SQL   	  
+JAVA   
+DB2 | SQL   	  
+JAVA   
+DB2
+EMPRESA:
+(FORD)-Softtek | EMPRESA:
+(FORD)-Softtek | Lugar:
+Softtek Eugenia,
+SAT Reloj | PUESTO:   
+Ing. de Pruebas | INICIO  2011 | FINAL  2011
+Actividades generales:     
+   
+Ford/FoMComCar  Actividades:   
+   	   
+Ejecución de Pruebas de compatibilidad IE6 e IE8.   
+Levantamiento y seguimiento de hallazgos. | Actividades generales:     
+   
+Ford/FoMComCar  Actividades:   
+   	   
+Ejecución de Pruebas de compatibilidad IE6 e IE8.   
+Levantamiento y seguimiento de hallazgos. | Actividades generales:     
+   
+Ford/FoMComCar  Actividades:   
+   	   
+Ejecución de Pruebas de compatibilidad IE6 e IE8.   
+Levantamiento y seguimiento de hallazgos.
+Experiencia Funcional: | Entregas Puntales   
+Pruebas exploratorias | Entregas Puntales   
+Pruebas exploratorias
+Herramientas: | Tesware | Tesware
+EMPRESA:    
+   
+	(SEGOB)-Softtek | EMPRESA:    
+   
+	(SEGOB)-Softtek | Lugar:   
+Secretaria de   
+Gobernación | PUESTO:   
+Líder de Pruebas/Ing.  de pruebas | INICIO  
+2009- Diciembre | FINAL 2011
+SEGOB/SITCO   	 
+Actividades:     
+Elaboración de Plan de Pruebas  
+Administración, planeación y coordinación diseño de pruebas.   
+Administración, planeación y coordinación de pruebas.   
+Seguimiento de defectos.   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Ejecución de Pruebas de Regresión.   
+Ejecución de Pruebas de Seguridad.   
+Ejecución de Concurrencia.   
+  
+SEGOB/COBI  
+ Actividades:  
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas de Seguridad.   
+Ejecución de Pruebas Integrales.   
+  
+SEGOB/SINCF2 Actividades:   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenario.   
+Elaboración de prueba Smoke.   
+Elaboración Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+ 
+ 
+SEGOB/SINCF2 Actividades:   
+   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenario.   
+Elaboración de prueba Smoke.   
+Elaboración Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+   
+SEGOB/CONAVI   
+Actividades:   
+   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas de Seguridad.   
+   
+SEGOB/SIAP   
+Ejecución de Pruebas Smoke. | SEGOB/SITCO   	 
+Actividades:     
+Elaboración de Plan de Pruebas  
+Administración, planeación y coordinación diseño de pruebas.   
+Administración, planeación y coordinación de pruebas.   
+Seguimiento de defectos.   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Ejecución de Pruebas de Regresión.   
+Ejecución de Pruebas de Seguridad.   
+Ejecución de Concurrencia.   
+  
+SEGOB/COBI  
+ Actividades:  
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas de Seguridad.   
+Ejecución de Pruebas Integrales.   
+  
+SEGOB/SINCF2 Actividades:   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenario.   
+Elaboración de prueba Smoke.   
+Elaboración Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+ 
+ 
+SEGOB/SINCF2 Actividades:   
+   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenario.   
+Elaboración de prueba Smoke.   
+Elaboración Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+   
+SEGOB/CONAVI   
+Actividades:   
+   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas de Seguridad.   
+   
+SEGOB/SIAP   
+Ejecución de Pruebas Smoke. | SEGOB/SITCO   	 
+Actividades:     
+Elaboración de Plan de Pruebas  
+Administración, planeación y coordinación diseño de pruebas.   
+Administración, planeación y coordinación de pruebas.   
+Seguimiento de defectos.   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Ejecución de Pruebas de Regresión.   
+Ejecución de Pruebas de Seguridad.   
+Ejecución de Concurrencia.   
+  
+SEGOB/COBI  
+ Actividades:  
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas de Seguridad.   
+Ejecución de Pruebas Integrales.   
+  
+SEGOB/SINCF2 Actividades:   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenario.   
+Elaboración de prueba Smoke.   
+Elaboración Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+ 
+ 
+SEGOB/SINCF2 Actividades:   
+   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenario.   
+Elaboración de prueba Smoke.   
+Elaboración Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+   
+SEGOB/CONAVI   
+Actividades:   
+   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas de Seguridad.   
+   
+SEGOB/SIAP   
+Ejecución de Pruebas Smoke. | SEGOB/SITCO   	 
+Actividades:     
+Elaboración de Plan de Pruebas  
+Administración, planeación y coordinación diseño de pruebas.   
+Administración, planeación y coordinación de pruebas.   
+Seguimiento de defectos.   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenarios.   
+Elaboración de Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas Integrales.   
+Ejecución de Pruebas de Regresión.   
+Ejecución de Pruebas de Seguridad.   
+Ejecución de Concurrencia.   
+  
+SEGOB/COBI  
+ Actividades:  
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas de Seguridad.   
+Ejecución de Pruebas Integrales.   
+  
+SEGOB/SINCF2 Actividades:   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenario.   
+Elaboración de prueba Smoke.   
+Elaboración Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+ 
+ 
+SEGOB/SINCF2 Actividades:   
+   
+Inspección de Insumos de Análisis.   
+Elaboración de Árbol de Escenario.   
+Elaboración de prueba Smoke.   
+Elaboración Matriz Funcional.   
+Elaboración script de datos para prueba.   
+Elaboración Casos de Prueba.   
+   
+SEGOB/CONAVI   
+Actividades:   
+   
+Ejecución de Pruebas Smoke.   
+Ejecución de Pruebas Funcionales.   
+Ejecución de Pruebas de Seguridad.   
+   
+SEGOB/SIAP   
+Ejecución de Pruebas Smoke.
+Experiencia Funcional: | Entregas Puntuales   	 	  	  
+Productos sin hallazgos en UAT | Entregas Puntuales   	 	  	  
+Productos sin hallazgos en UAT | Entregas Puntuales   	 	  	  
+Productos sin hallazgos en UAT | Entregas Puntuales   	 	  	  
+Productos sin hallazgos en UAT | Entregas Puntuales   	 	  	  
+Productos sin hallazgos en UAT
+Herramientas: | Oracle   	 	  	  
+Java SQL | Oracle   	 	  	  
+Java SQL | Oracle   	 	  	  
+Java SQL | Oracle   	 	  	  
+Java SQL | Oracle   	 	  	  
+Java SQL
+EDUCACIÓN:
+Institución | Ciudad | Año de fin
+Licenciatura en Ingeniería de Sistemas Computacionales | México | 2007
+ISTQB | México | 2013
+Certificación RPA starter | México online | 2019
+Certificación SCRUM Fundamentals | México online | 2022
+IDIOMAS:
+Ingles hablado y escrito: Básico.
+.
+HABILIDADES TÉCNICAS/ADMINISTRATIVAS:
+Perfil Primario: | Tester Expert
+Perfil Secundario: | Líder de Pruebas o Líder de Aseguramiento de Calidad de Productos y Procesos
+Sistemas Operativos: | Windows, OS
+Lenguajes de Programación: | Java (Básico), Python (Básico), C++ (Básico)
+Bases de Datos: | SQL, ORACLE, DB2, María DB
+Otros: | Metodologías: PSP/TSP, SCRUM, ISTQB, CFP.  Selenium(Basico) Redmine.   
+Automatización Frida(Basico)  
+Certificación ISTQB Foundation level.   
+Certificación SCRUM Fundamentals.  Certificación RPA starter.   
+Curso Academia de QA

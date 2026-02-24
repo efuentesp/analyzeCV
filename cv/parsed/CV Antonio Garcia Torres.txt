@@ -1,0 +1,664 @@
+
+
+--- Página 1 (OCR) ---
+
+2/18/2026 Antonio Garcia Torres
+
+Powered by P eightfold.ai
+
+Antonio Garcia Torres
+
+Data Management Engineer OnPrem ETL Sr
+Mexico
+
+% ANTONIO.GARCIAT(OSOFTTEK.COM
+» +525554015211
+
+(O 19años de experiencia total
+
+E DataAnalyst, AXA 2025-2025 (4 meses)
+
+Arquitecto de Datos, Walmart 2024-2025 (3 meses)
+
+Modelador, Citi 2023-2024 (1 año)
+
+Desarrollo de Procesos ETL en Azure Data Factory y, Nacional Monte de Piedad 2022-...
+Desarrollos de Procesos ETL en DataStage, Coppel 2021-2021 (4 meses)
+
+Desarrollo de Procesos ETL en DataStage 11.5 y DB2, Int er American Development Bank 20...
+Desarrollo de Pruebas de Concepto de INTEGRACIÓN de, Liverpool POC 2020-2020 (2 meses)
+Desarrollador ODI, Banobras 2019-2020 (8 meses)
+
+Líder de Proyecto, UANL Centro de Desarrollo Mexico 2010-2019 (9 años)
+
+Desarrollador DataStage, Softt ek 2010-2010 (7 meses)
+
+Consultor DataStage, BIS Soluciones 2009-2010 (7 meses)
+
+Gerente de Infraestructura, Financiera Rural 2003-2009 (6 años)
+
+e Wentto 1top school: Universidad Nacional AUTÓNOMA De MÉXICO
+/ IBM DataStage, Data Lake, Modelado de Datos, Talend, DataStage, Ab Initio, Teradata SQL
+
+Empleado Actual
+
+20
+
+Resumen
+
+Ingeniero en Computación con más de 20 años de experiencia en análisis de datos, administración de
+proyectos y desarrollo de procesos ETL. Especializado en IBMInfoSphere DataStage, Python, Databricks,
+SQL Server y Power BI. He liderado proyectos en sectores como banca y telecomunicaciones, enfocándome
+en la creación de modelos de datos y la optimización de procesos de negocio. Mi sólido conocimiento en
+inteligencia de negocios me permite generar informes analíticos que apoyan la toma de decisiones.
+
+Perfil resumen
+
+
+--- Página 2 (OCR) ---
+
+2/18/2026 Antonio Garcia Torres
+
+Experiencia
+Data Analyst
+AXA
+
+A N /4 Wlago 2025 - nov 2025 (4 meses)
+
+Analisis de origienes de datos para la migracion de los sistemas de los productos vida al nuevo modelo operativo.
+Analisis y diseño del DataLake para el nuevo modelo de Vida
+
+Arquitecto de Datos
+
+"N ' M Walmart
+
+A l “y dic2024-feb 2025 (3 meses)
+
+* Arquitecto de datos para los procesos de cálculo de bono. Análisis de fuentes de datos, reglas de negocio y
+documentación.
+
+* Documentación de orígenes de datos y relaciones entre las fuentes y los procesos de calculo de la provisión
+del bono.
+
+Modelador
+
+[] Modelado en capa semántica. Análisis y modelado en capa semántica de
+modelos tipo estrella. Análisis de reglas de negocio para el poblado en
+modelos estrella de indicadores y reportes financieros (Balances, estados
+de resultados y gastos).
+
+[] Construcción de modelos en Erwin y DDLs de modelos estrella en
+teradata
+
+Desarrollo de Procesos ETL en Azure Data Factory y Databricks
+¡;¡¡¡ Nacional Monte De Piedad
+
+edad JUN 2022 - jul 2022 (2 meses)
+
+e Pi
+
+Desarrollo de procesos ETL en Azure Data Factory y Databricks, análisis,
+diseño y desarrollo de procesos en Python de préstamos prendarios
+consumiendo inf ormación del lago de datos en un blob storage.
+
+
+--- Página 3 (OCR) ---
+
+2/18/2026 Antonio Garcia Torres
+
+Desarrollos de Procesos ETL en DataStage
+COPPEL
+
+jun 2021 - sep 2021 (4 meses)
+
+Desarrollos de procesos ETL en DataStage 11.7, SQLServer y Postgres,
+para los procesos de migración de Cartera en Linea y Cartera Centralal
+nuevo repositorio en SQLServer.
+
+Desarrollo de Procesos ETL en DataStage 11.5 y DB2
+
+Desarrollo de procesos ETL en DataStage 11.5 y DB2?, atención de
+incidentes y requerimientos de servicio de AMS, soporte de los procesos
+de negocio de Convergencia, Corporativo; LFM, etc.
+
+[ Actividades de mejora de los servicios de EDW, documentación y
+optimización de procesos.
+
+Desarrollo de Pruebas de Concepto de INTEGRACIÓN de INFORMACIÓN
+Liverpool (PoC)
+
+6 mar 2020 - abr 2020 (2 meses)
+
+* Desarrollo de pruebas de concepto de integración de información de la cadena de suministro para las tiendas
+Liverpool en México, para le entrega de información analítica y transaccional a sus proveedores de los inventarios
+a nivel nacional.
+
+* Desarrollo de procesos ETL en Azure Data Factory para la integración de reportes de SAP en Azure para la
+generación de reportes analíticos en Power BI.
+
+Desarrollador ODI
+BANOBRAS
+
+sep 2019 - abr 2020 (8 meses)
+
+* Apoyo alarevisión y refinamiento de la documentación de análisis de los procesos de Mercados.
+
+» Diseño de modelo de datos en Oracle 12c.
+
++ Construcción de procesos ELT en ODI 12c de los flujos de Mercados: Deudores y Acreedores, Préstamos
+Bancarios y Resultados por intermediación.
+
+* Construcción de procesos ELT para la incorporación de información de la plataf orma SAP a la base de datos de
+Conciliación.
+
+* Desarrollos de prototipos para la integración de información de fuentes diversas como archivos en formato
+PDF.
+
+
+--- Página 4 (OCR) ---
+
+2/18/2026 Antonio Garcia Torres
+
+Líder de Proyecto
+UANL Centro De Desarrollo Mexico
+sep 2010 - jun 2019 (8 años, 10 meses)
+
+MaxcomAdministración de proyectos en el área de BI, gestión de alcances, tiempos, cambios y adquisiciones.
+Coordinación de equipos de trabajo, dando seguimiento a las actividades con proveedores ubicados en la India y
+Ucrania, en le etapa de migración de información entre los sistemas legados y la nueva plataforma. Desarrollo de
+procesos ETL para la generación de indicadores con la plataf orma SISS/Analisis Services/SQL Server;
+herramientas ETL son SISS/Talend con conexión a base de datos Oracle, MySQL, SQL Server y Vertica. Diseño de
+modelos de información dimensional basado en el modelo Kimball. Desarrollo de indicados y tableros de control
+para la toma de decisiones, procesamiento de grandes volúmenes de información para publicación en cubos con
+Power Bl y Reporting Services de fuentes de datos como Oracle y HP Vertica. Pruebas de concepto de Learning
+Machin usando Hadoop y Spark, evaluación usando la arquitectura de Microsoft Azure para Machin Learning;
+adicionalmente comparación contra Open source, el propósito es construir modelos predictivos del
+comportamiento de tráfico (llamadas telefónicas de los clientes ) para identificar patrones de uso, destinos, tipo
+de llamadas, etc.; adicionalmente definir un repositorio de Data Lake que permita implementar modelos para Data
+Science integrando diferentes fuentes de datos (CRM, Facturadores, provisionador de servicio y archivos de las
+centrales telefónicas). Construcción de dashboard usando Power BI, presentación de indicadores de
+Facturación, detección de fraudes, tráfico. Migración de dashboard construidos en QLikView a Power BI.
+Correos de MéxicoAdministración de la cartera de proyectos; coordinación del equipo de desarrollo, gestión de
+tiempo, seguimiento de los cronogramas de los proyectos, administración de alcances y comunicación e avance a
+la dirección de sistemas. SedesolLíder de procesos de ETL para la integración de información de las diferentes
+campañas de los programas sociales usando procesos ETL con DataStage /Oracle
+
+Desarrollador DataStage
+
+feb 2010 - ago 2010 (7 meses)
+
+Construcción de procesos ETL para el SAT - Mantenimiento de procesos de ETL con DataStage
+
+7 a, Consultor DataStage
+
+'l¡¡* BIS Soluciones
+'º¿' sep 2009 - mar 2010 (7 meses)
+
+-
+
+-
+22
+
+Análisis y diseño de procesos ETL de sistemas de indicadores de gestión operativa en el ramo farmacéutico e
+integración en modelos de gestión en cubos de información en Cognos.
+
+
+--- Página 5 (OCR) ---
+
+2/18/2026 Antonio Garcia Torres
+
+Gerente de Infraestructura
+Financiera Rural
+
+sep 2003 - ago 2009 (6 años)
+
+Gerente de infraestructura tecnológica y telecomunicaciones, administración de los servicios contratados de
+hosting, enlaces, soporte técnico y seguimiento a los temas de gobierno digital. Administración de la plataforma
+tecnológica y gestión de bases de datos. Desarrollo de Datamarts, MIS y sistemas de WEB en .NET y java,
+sistema de tesorería, contabilidad y el core de crédito de la institución. - Generación de indicadores de gestión
+en un modelo MIS y reportes de ejecutivos a la alta dirección del comportamiento de la cartera.
+
+Educación
+
+Ingeniero en Computación, Computer Engineering
+Instituto Politécnico Nacional
+
+sep 1991 to jun 1995
+
+Both Degree and Prof essional License
+
+Ingeniero Mecanico Electrico, Ingeniero Mecanico Electricista
+Universidad Nacional AUTÓNOMA de MÉXICO
+
+sep 1990 to jun 1994
+
+Habilidades
+
+Arquitectura de Microsoft Azure » DataStage | Azure Databricks — Python Developer 1 Google BigQuery
+Azure SQL — Informix | | Microsoft Integration Services | Microsoft PowerBI | Microsoft Reporting Services
+Microsoft SQL (T-Sgl) — MS Visual Basic.NET (Vb.Net) | Oracle Data Integrator — SQLServer | Oracle 12c
+
+Vertica — Databricks O0ODI12 Modelado * Data Mart | Informatica Cloud PySpark  Data Lake
+Snowflake Software — IBM DataStage * Talend Google Cloud Platform ' Erwin ' QlikView
+
+Reporting Services » MicrosoftAzure 1 Hadoop Distributed File System — Sybase — Data Integration VB.NET
+
+Big Data » Microsoft Project 1 Data Warehousing » DataScience MapReduce * Spark  ETL ' ITIL
+
+
+--- Página 6 (OCR) ---
+
+2/18/2026 Antonio Garcia Torres
+
+Business Intelligence 1 Hadoop » Azure Data Factory | Blreporting  Base de Datos Oracle
+
+Machine Learning — Análisis de Modelos
+
+Certificados
+
+Microsoft Certified: Azure Data Fundamentals
+Expedido por: Microsoft
+
+Scrum Fundamentals Certified
+Expedido por: Scrumalliance
+
+Información Personal
+
+%  antonio.garciatOsofttek.com
+antonio_tono(Ohot mail.com
+
+» +525554015211
+
+
+--- Página 7 (OCR) ---
+
+Softtek'
+
+PERFIL:
+
+* . Arquitecto de procesos ETL
+
+ANTONIO GARCÍA TORRES
+
+* Desarrollo de procesos ETL en DataStage, Microsoft Integration Services, DataFactory
+* Conocimiento de la metodología PMI
+* Desarrollo de procesos ETL en sector bancario en el área de crédito y captación.
+
+EXPERIENCIA PROFESIONAL:
+
+Empresa País Puesto Fecha de Fecha de
+Softtek México Arquitecto de ingreso salida: Actual
+Software Junio 2019
+
+Resumen de actividades
+
+Experiencia Funcional:
+
+Citi
+
+*  Modelado en capa semántica. Análisis y modelado en capa
+semántica de modelos tipo estrella. Análisis de reglas de
+negocio para el poblado en modelos estrella de
+indicadores y reportes financieros (Balances, estados de
+resultados y gastos).
+
+* Construcción de modelos en Erwin y DDLs de modelos
+estrella en teradata
+
+Academia Snowflake
+
+1) Primero conceptos
+
+2) Conceptos clave
+
+3) Ecosistema snowflake
+
+4) Cuentas y seguros
+
+5) Contenedores jerárquicos
+6) Carga de datos
+
+7) Recursos de monitoreo
+8) Respaldo y recuperación
+9) Historial de consultas
+
+10) Taller de Data WareHousing
+
+11) Taller de Data application builders
+
+12) Taller de Sharing, Marketplace and exchanges
+13) Taller de Data Lake
+
+Academia Informatica Cloud Data Integration Services
+R38
+
+1) Entornos de tiempo de ejecución y conexiones
+2) Tarea de sincronización y transferencia de datos
+3) Cloud Mapping Designer - Transformaciones
+
+4) Parámetros de mapeo
+
+5) Macro de expresión y enlace dinámico
+
+6) Flujos de tareas
+
+7) Conectividad jerárquica
+
+8) Modelo de estructura inteligente
+
+
+
+--- Página 8 (OCR) ---
+
+9) Manejo de excepciones
+
+10) Automatización y Monitoreo de Tareas
+11) API 1ICS
+12) Tarea de replicación
+
+COPPEL
+
+* Desarrollos de procesos ETL en DataStage 11.7, SQLServer
+y Postgres, para los procesos de migración de Cartera en
+Linea y Cartera Central al nuevo repositorio en SQLServer.
+
+Academia BigData
+1) Uso del ecosistema de Hadoop:
+a. Core:
+
+i. HDFS: Ingesta, revisión y manipulación de
+contenido en HDSF a través del uso del
+comando hdfs dfs
+
+ii. MapReduce: Entendimiento de las fases
+Map, Reduce, shuffle/sort y su utilidad.
+
+iii YARN: Revisión y seguimiento de procesos
+desde la Ul del resource manager y uso de
+línea de comandos como yarn application y
+yarn logs para análisis de incidentes
+b. Procesamiento:
+
+i. Hive: Creación tablas externas,
+administradas, particionamiento, manejo
+de archivos JSON y campos constructores
+como STRUCT y MAP, ejecución de
+consultas y creación de procesos ETL
+
+c. Seguridad:
+
+i. Entendimiento de los productos utilizados,
+en el ecosistema de Hadoop para la
+Autenticación, Autorización, Audit y
+Encriptación (En tránsito y reposo), como
+son: Apache Ranger, Kerberos y Knox.
+
+2) Elaboración de procesos ETL Batch con Spark,
+utilizando Python (PySpark), independiente del
+entorno de ejecución, (Hadoop on-premise, AWS,
+Azure, GCP o stand alone):
+
+a. Uso de la API de RDD's
+b. Uso de la API de dataframe
+c. Uso del método SQL
+
+Nacional Monte de Piedad
+e Desarrollo de procesos ETL en Azure Data Factory y
+Databricks, análisis, diseño y desarrollo de procesos en
+Python de préstamos prendarios consumiendo información
+del lago de datos en un blob storage.
+
+
+
+--- Página 9 (OCR) ---
+
+Coppel
+* Desarrollo de procesos ETL en Datastage 11.7 y
+SQLServer, para la migración de su sistema de Dinero
+Electrónico a su Nuevo Monedero Electrónico.
+
+Inter-American Development Bank
+* Desarrollo de procesos ETL en DataStage 11.5 y DB2,
+atención de incidentes y requerimientos de servicio de
+AMS, soporte de los procesos de negocio de Convergencia,
+Corporativo; LFM, etc.
+e Actividades de mejora de los servicios de EDW,
+documentación y optimización de procesos.
+
+Liverpool (PoC)
+
+* Desarrollo de pruebas de concepto de integración de
+información de la cadena de suministro para las tiendas
+Liverpool en México, para le entrega de información
+analítica y transaccional a sus proveedores de los
+inventarios a nivel nacional.
+
+e Desarrollo de procesos ETL en Azure Data Factory para la
+integración de reportes de SAP en Azure para la
+generación de reportes analíticos en Power Bl.
+
+BANOBRAS
+
+*  Apoyo a la revisión y refinamiento de la documentación de
+
+análisis de los procesos de Mercados.
+
+Diseño de modelo de datos en Oracle 12c.
+
+Construcción de procesos ELT en ODI 12c de los flujos de
+Mercados: Deudores y Acreedores, Préstamos Bancarios y
+Resultados por intermediación.
+
+* Construcción de procesos ELT para la incorporación de
+información de la plataforma SAP a la base de datos de
+Conciliación.
+
+* Desarrollos de prototipos para la integración de
+información de fuentes diversas como archivos en formato
+PDF.
+
+DHL
+* Análisis de fuentes de información y diseño de modelo de
+datos enfocados a Customer Centrucity.
+* Construcción de propuestas de modelos analíticos
+enfocados a la experiencia del cliente.
+
+Herramientas:
+
+DataStage 8, 11.5 y 11.7, ODI 12, Microsoft Integration Services, Power BI, DB2,
+SQLServer, Oracle 12c.
+Hadoop
+- Core: HDFS, MapReduce, YARN;
+- Procesamiento Hive: Creación de tabla externas, manejo de archivo JSON,
+campos estructurados
+- Seguridad: Autenticación, autorización, Audit y encriptación.
+Procesos ETL batch con SPARK, PYSPARK:
+
+
+
+--- Página 10 (OCR) ---
+
+Manejo del PAI con ARDDs
+Uso de APIs con dataframe
+
+- __ -Uso de SQL
+Empresa País Puesto Fecha de Fecha de
+UANL Centro de Desarrollo México Líder ingreso salida
+México Septiembre Mayo 2019
+2010
+Resumen de actividades
+Experiencia Funcional: | Maxcom
+
+Administración de proyectos en el área de BI, gestión de
+alcances, tiempos, cambios y adquisiciones. Coordinación
+de equipos de trabajo, dando seguimiento a las
+actividades con proveedores ubicados en la India y
+Ucrania, en le etapa de migración de información entre los
+sistemas legados y la nueva plataforma.
+
+Desarrollo de procesos ETL para la generación de
+indicadores con la plataforma SISS/Analisis Services/SQL
+Server; herramientas ETL son SISS/Talend con conexión a
+base de datos Oracle, MySQL, SQL Server y Vertica.
+
+Diseño de modelos de información dimensional basado en
+el modelo Kimball. Desarrollo de indicados y tableros de
+control para la toma de decisiones, procesamiento de
+grandes volúmenes de información para publicación en
+cubos con Power BI y Reporting Services de fuentes de
+datos como Oracle y HP Vertica.
+
+Pruebas de concepto de Learning Machin usando Hadoop y
+Spark, evaluación usando la arquitectura de Microsoft
+Azure para Machin Learning; adicionalmente comparación
+contra Open source, el propósito es construir modelos
+predictivos del comportamiento de tráfico (llamadas
+telefónicas de los clientes ) para identificar patrones de
+uso, destinos, tipo de llamadas, etc.; adicionalmente
+definir un repositorio de Data Lake que permita
+implementar modelos para Data Science integrando
+diferentes fuentes de datos (CRM, Facturadores,
+provisionador de servicio y archivos de las centrales
+telefónicas).
+
+Construcción de dashboard usando Power BI, presentación
+de indicadores de Facturación, detección de fraudes,
+tráfico. Migración de dashboard construidos en QLikView a
+Power BI.
+
+Correos de México
+
+Administración de la cartera de proyectos; coordinación
+del equipo de desarrollo, gestión de tiempo, seguimiento
+de los cronogramas de los proyectos, administración de
+alcances y comunicación e avance a la dirección de
+sistemas.
+
+
+
+--- Página 11 (OCR) ---
+
+Sedesol
+
+Líder de procesos de ETL para la integración de
+información de las diferentes campañas de los programas
+sociales usando procesos ETL con DataStage /Oracle
+
+Herramientas:
+
+DataStage 8, SISS, Talend, IPC Oracle, MySQL, SQLServer, Vertica
+
+Empresa
+Softtek
+
+País Puesto Fecha de Fecha de
+México Desarrollador ingreso salida
+DataStage Abril 2010 Septiembre
+2010
+
+Resumen de actividades
+
+Experiencia Funcional:
+
+Construcción de procesos ETL para el SAT
+Mantenimiento de procesos de ETL con DataStage
+
+Herramientas:
+
+DataStage , Informix IPX
+
+Empresa
+BIS Soluciones
+
+País Puesto Fecha de Fecha de
+México Consultor ingreso salida
+DataStage Septiembre Abril 2010
+2009
+
+Resumen de actividades
+
+Experiencia Funcional:
+
+Análisis y diseño de procesos ETL de sistemas de
+indicadores de gestión operativa en el ramo farmacéutico
+e integración en modelos de gestión en cubos de
+información en Cognos.
+
+Herramientas: DataStage , Oracle 10g
+
+Empresa País Puesto Fecha de Fecha de
+
+Financiera Rural México Gerente de ingreso salida
+
+Infraestructura Septiembre Agosto 2009
+2003
+
+Resumen de actividades
+
+Experiencia Funcional: * Gerente de infraestructura tecnológica y
+telecomunicaciones, administración de los servicios
+contratados de hosting, enlaces, soporte técnico y
+seguimiento a los temas de gobierno digital.
+
+Administración de la plataforma tecnológica y gestión de
+bases de datos.
+Desarrollo de Datamarts, MIS y sistemas de WEB en .NET y
+java, sistema de tesorería, contabilidad y el core de crédito
+de la institución.
+Generación de indicadores de gestión en un modelo MIS y
+
+reportes de ejecutivos a la alta dirección del
+comportamiento de la cartera.
+
+Herramientas: Informix 11, AIX, .Net y DataStage 7.5
+
+EDUCACIÓN:
+
+ESIME UPC País Fechas
+
+Ingeniería en Computación México 1991 - 1996
+
+DESARROLLO PROFESIONAL: (cursos tomados
+
+Nombre del curso Lugar Fechas
+
+
+
+--- Página 12 (OCR) ---
+
+PMP Preparación Certificación Alpha Consultoría 2012
+
+Data$tage 8.1 BIS Soluciones 2009
+
+Administración de Proyectos (PMI) | Cheetha 2009
+
+Microsoft Project Aster 2008
+
+ITIL KIO 2008
+
+Gobierno Digital Tecnológico de Monterrey 2007
+
+Perform Cloud Data Science with KED Educación 2019
+
+Azure Machin Learning
+
+BigData Softtek 2022
+
+IDIOMAS:
+
+Español nativo, Inglés intermedio
+
+HABILIDADES TÉCNICAS/ADMINISTRATIVAS:
+
+Perfil Primario: Desarrollo de procesos ETL con DatasStage /SISS, Oracle Data
+Integrator
+
+Perfil Secundario: Administración de Proyectos, BI, modelado de dimensional
+
+Sistemas Operativos: Windows, Linux
+
+Lenguajes de Programación: | VB.NET C%£, Java, Phyton
+
+Bases de Datos: Oracle, Sgl Server, MySQL, Informix, HP Vertica, Informix,
+Sybase, DB2,Hadoop
+

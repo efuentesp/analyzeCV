@@ -1,0 +1,531 @@
+
+
+--- Página 1 (OCR) ---
+
+2/19/2026 Bibiana Castro Torres
+
+Powered by P eightfold.ai
+
+Bibiana Castro Torres
+
+Data Management Engineer OnPrem ETL Jr
+Mexico
+
+M% bibiana.castroQOsofttek.com
+
+(O 20años de experiencia total
+
+E Software Developer, Softtek Citi 2022-2026 (3 años)
+Data Management Engineer OnPremETL Jr, Softtek 2021-2022 (2 años)
+Specialist, Comision Nacional Bancaria y de Valores 2003-2013 (10 años)
+Developer Sr, Infotec 2002-2003 (9 meses)
+Project Leader, Kiven Sc 1999-2002 (3 años)
+Systems Analyst, Provial Servicios Juridicos 1998-1999 (1 año)
+Systems and Support Analyst, APRA Servicios Juridicos 1997-1998 (9 meses)
+
+E  Informatica PowerCenter, ETL, Data Integration, Microsoft SQL Server Integration Services, Microsoft
+SharePoint Designer, Ab Initio, Process Integration
+
+Empleado Actual
+
+Resumen
+
+Data specialist with 14+ year of experience, analyzing and designing data financial reports.
+
+Strong skills for following own projects, able to analyze business rules to create/design documentation.
+Experience in data analysis, development, reporting, performance optimization and tunning in excel.
+Experienced interfacing with clients/users to gather business requirements and preparation for systems
+requirements specifications, design documentation as per Data integration.
+
+Analysis of business processes to develop the systemrequirements, design and functional specifications.
+Relevant 6 years of experience as developer on ETL solutions (Data Stage, IPC, SSIS, Ab Initio) under the best
+practices and methodologies also | have participated in data quality projects.
+
+Relevant skills in technical and data architecture - creation of conceptual, logical and physical data modeling -
+dimensional OLAP and relational OLTP models.
+
+Perfil resumen
+
+
+--- Página 2 (OCR) ---
+
+2/19/2026 Bibiana Castro Torres
+
+Experiencia
+
+Software Developer
+Softtek-CITI
+
+dic 2022 - ene 2026 (3 años, 2 meses)
+
+INSURANCE
+
+- As L3 member, development, correction and/or modification of ETL's (Ablnitio) to solve issues in DWH. - User
+Support.- Generate documentation according to Banamex requirements. - Use of Udeploy, Service Now,
+Autosys, Tectia SSH Terminal, Tectia SFT, Linux, Jenkins, RLM, Teradata, Oracle SQL applications for
+documentation generation and implementation of updates in testing and production environment.
+
+BANK
+
+- Development and Documentation of ETL's (Abinitio) to extract and generate reports for the division of the
+institution. - Identify and apply business rules for data integration processes, as wellas generate
+documentation according to CITI requirements. - User Support for the new developments. - Development of
+test cases and participation in QA to Production deployments - Use of Linux, Oracle SQL, Udeploy, Jira,
+Artifactory, Bitbucket, Service Now applications for documentation generation and implementation of updates
+in testing and production environment.
+
+Data Management Engineer OnPrem ETL Jr
+Softtek
+
+jun 2021 - dic 2022 (1 año, 7 meses)
+
+Softtek NMP Mexico City IPC DEveloper From: Jun, 2021 To: Oct, 2022
+
+Description:
+
+Responsible for the Analysis, Design, Development and Documentation of ETL's to extract and generate
+reports and financial
+
+indicators for Nacional Monte de Piedad.
+
+Identify and apply business rules for data integration processes.
+
+Generate documentation according to requirements and Agile Methodology.
+
+Integrations in Informatica Power Center and SSIS.
+
+Development of test cases and participation in QA to Production deployments.
+
+Data validation against reporting in OBIEE.
+
+Integration of APIs with JSON format.
+
+Tools/Skills:
+
+Agile, Cit, ETL (Extract/Transform/Load) , Functional Testing, Informatica Power Center, Microsoft SQL Server,
+Microsoft SQL Server
+
+Integration Services (SSIS), Oracle SQL Developer
+
+
+--- Página 3 (OCR) ---
+
+2/19/2026 Bibiana Castro Torres
+
+Specialist
+Comision Nacional Bancaria Y De Valores
+jul 2003 - ene 2013 (9 años, 7 meses)
+
+Responsible for the Data Analysis of databases to extract and generate reports of statistics, financial indicators
+and compliance with liquidity and capital requirements to the regulations applicable to the sectors under the
+supervision of the CNBV. Complex financial macros for the development, implementation and monthly updating
+of reports and statistical bulletins for the CNBV generated with Excel (Information Portfolio) | used IPC to
+generate more sophisticated reports with the information extracted fromthe Database Identify and apply
+business rules for data integration processes, as well as generate documentation according to requirements
+and CNBV Methodology. Administration, training and maintenance of internal website for the Analysisand Risk
+area Development and implementation of technical support website and quality survey website for the same
+area Support users by phone, chat, remote user, video conferencing, etc. Training courses for users on
+developed tools (Information portfolio)
+
+Developer Sr
+Infotec
+
+INFOTEC OCt 2002 - jun 2003 (9 meses)
+
+Development of tools in VBA (complex Excel macros) for the analysis of information on statistics, financial
+indicators and compliance with liquidity and capital requirements to the regulations applicable to the sectors
+under the supervision of the CNBV Development of Web applications for the CNBV (Intranet, Portal and
+internal applications).
+
+Project Leader
+Kiven SC
+feb 1999 - abr 2002 (3 años, 3 meses)
+
+Development and leadership of web applications for CNBV: — Development of deployments and mappings
+in BizTalkfor bcentral (Tiendas Garcés, Banamex, Gigante, Cifra, etc.).- Intranet development and
+implementation with SherePoint for Microsoft Mexico- Development and implementation of the search
+engine for Seccionamarilla.com.mx- — Website of Aulaclick.com and PEMEX Gas y Petroquimica Básica with
+Newsbuilder.- Helpdeskfor ISOSA (SHCP)..- HP Latin America Intranet for the advertising area.-
+
+Website publishing.- — Analysis, design and maintenance of databases.- Preparation of manuals for all
+developed applications focused on different types of user (administrator, end user, etc.), as well as installation
+and configuration manuals: — Technical support for the use and installation of developed and related
+applications (Windows 2000, IIS, SQL, Site Server).Achievements:- Improve and streamline internal and
+external communication of companies such as Microsoft, CNBV, Pemex Gas, HP Latin America and SHCP with
+the implementation of the intranet and websites- Help users with technical support for the use of
+developed applications- Improve the consultation of information with the use of web tools.
+
+
+--- Página 4 (OCR) ---
+
+2/19/2026 Bibiana Castro Torres
+
+Systems Analyst
+Provial Servicios Juridicos
+
+ene 1998 - ene 1999 (1 año, 1 mes)
+
+Development of the production module of SystemlIntegrOsys 2.2.. . System Development AprOosys 2.0-
+
+Analysis and maintenance of databases.
+
+Systems and Support Analyst
+APRA Servicios Juridicos
+
+may 1997 - ene 1998 (9 meses)
+
+Analysis of databases to obtain statistics.- Registration of claims in SystemIntegrOoSys.-
+
+of Billing-Training and advice to general staff and the IntegrOsys parcel system.
+
+Educación
+
+Computer Systems Engineering
+[11y[k yXe Universidad Tecnologica de Mexico
+unitec.mx may 1994to dic 1999
+
+postgraduate in Telecommunications
+
+Insignias
+
+Realization
+
+HBeCollaborative - Given by Rodrigo Rivas Miranda on diciembre 04, 2025 at 12:26 am
+
+eres una persona que siempre esta disponible para apoyar a todo en equipo cuanto se
+
+necesita y sabes la respuesta,gracias!!
+
+Habilidades
+
+
+--- Página 5 (OCR) ---
+
+2/19/2026
+
+Bibiana Castro Torres
+
+Agile — ASPClassic CH | ETL (Extract/Transform/Load) — Functional Testing * HTML
+
+Informatica Power Center | Microsoft SQL (T-Sgl) | Microsoft SQL Server
+
+Microsoft SQL Server Integration Services (SSIS) — Microstrategy 10 MSBiztalk Server  MS Excel
+
+MS IS Server — MS Project | MS SharePoint Designer + MS Visual Basic 3 * MS Visual Basic for Applications
+
+MS Visual Interdev  MySQL ' Oracle SQL Developer | Softskill - Leadership — Softskill-Negotiation Skills
+
+Softskill - Teamwork |  Vbscript
+
+Intranet Portal — Excel Macros
+
+Softskill - Planning é: Organization — VBA — Informatica PowerCenter
+
+External Communication - | Microsoft SharePoint
+
+Oracle Business Intelligence Enterprise Edition » Performance Optimization — DataValidation ' Negotiation
+
+Application Security — Macro Language | Systems Development | Business Rules
+
+SQL Server Integration Services
+Computer Systems » Consulting
+
+Microsoft Excel
+
+Información Personal
+
+8% bibiana.castroQOsofttek.com
+bibiana.castroQicloud.com
+
+Data Quality Framework | Data Integration  Windows 2000
+
+Agile Methodologies | Microsoft Project * Systems Engineering
+
+
+--- Página 6 (OCR) ---
+
+Softtek
+
+PROFILE
+
+Bibiana Castro Torres
+
+3+ years of experience as developer in Data Integration solutions (Informatica Power Center and SSIS) under best practices and Agile
+methodology.
+
+10+ years of experience in the financial sector as data analyst.
+
+10+ years of experience in data analysis, development, reporting, performance optimization and tuning in Excel.
+
+10+ years of experience in interacting with customers/users to collect business requirements and preparation of system requirements
+specifications, design document according to data integration.
+
+Also participated in data quality projects.
+
+PROFESSIONAL EXPERIENCE
+
+Softtek - NMP Mexico City - IPC DEveloper From: Jun, 2021 To: Oct, 2022
+Description:
+
+« Responsible for the Analysis, Design, Development and Documentation of ETL's to extract and generate reports and financial
+indicators for Nacional Monte de Piedad.
+
+Identify and apply business rules for data integration processes.
+
+Generate documentation according to requirements and Agile Methodology.
+
+Integrations in Informatica Power Center and SSIS.
+
+Development of test cases and participation in QA to Production deployments.
+
+Data validation against reporting in OBIEE.
+
+Integration of APIs with JSON format.
+
+Tools/Skills:
+
+Agile, CH, ETL (Extract/Transform/Load) , Functional Testing, Informatica Power Center, Microsoft SQL Server, Microsoft SQL Server
+Integration Services (SSIS), Oracie SQL Developer
+
+Comision Nacional Bancaria y de Valore Mexico City - Specialist From: Jul, 2003 To: Jan, 2013
+
+Description:
+
+* Responsible for the Data Analysis of databases to extract and generate reports of statistics, financial indicators and compliance with
+liquidity and capital requirements to the regulations applicable to the sectors under the supervision of the CNBV.
+
+e Complex financial macros for the development, implementation and monthly updating of reports and statistical bulletins for the CNBV
+generated with Excel (Information Portfolio)
+
+* lused IPC to generate more sophisticated reports with the information extracted from the Database
+
+e Identify and apply business rules for data integration processes, as well as generate documentation according to requirements and
+
+CNBV Methodology.
+
+Administration, training and maintenance of internal website for the Analysisand Risk area
+
+Development and implementation of technical support website and quality survey website for the same area
+
+Support users by phone, chat, remote user, video conferencing, etc.
+
+Training courses for users on developed tools (Information portfolio)
+
+Tools/Skills:
+
+ETL (Extract/Transform/Load) , HTML, ASP Classic, Informatica Power Center, Microstrategy 10, MS Excel, MS Visual Basic For Applications,
+MySQL
+
+Infotec Mexico City - Developer Sr From: Oct, 2002 To: Jun, 2003
+Description:
+« Development of tools in VBA (complex Excel macros) for the analysis of information on statistics, financial indicators and compliance
+
+With liquidity and capital requirements to the regulations applicable to the sectors under the supervision of the CNBV
+« Development of Web applications for the CNBV (Intranet, Portal and internal applications).
+
+
+--- Página 7 (OCR) ---
+
+Tools/Skills:
+
+MS Visual Basic For Applications, ASP Classic, MS Excel, HTML
+
+Kiven SC Mexico City - Project Leader From: Feb, 1999 To: Apr, 2002
+Description:
+
+Development and leadership of web applications for CNBV
+
+Development of deployments and mappings in BizTalk for bcentral (Tiendas Garcés, Banamex, Gigante, Cifra, etc.).
+
+Intranet development and implementation with SherePoint for Microsoft Mexico
+
+Development and implementation of the search engine for Seccionamarilla.com.mx
+
+Website of Aulaclick.com and PEMEX Gas y Petroquimica Básica with Newsbuilder.
+
+Helpdesk for ISOSA (SHCP).
+
+HP Latin America Intranet for the advertising area.
+
+Website publishing.
+
+Analysis, design and maintenance of databases.
+- Preparation of manuals for all developed applications focused on different types of user (administrator, end user, etc.), as well as
+installation and configuration manuals
+
+Technical support for the use and installation of developed and related applications (Windows 2000, IIS, SQL, Site Server).
+Achievements:
+
+Improve and streamline internal and external communication of companies such as Microsoft, CNBV, Pemex Gas, HP Latin America and
+SHCP with the implementation of the intranet and websites
+
+Help users with technical support for the use of developed applications
+
+Improve the consultation of information with the use of web tools.
+
+Tools/Skills:
+
+ASP Classic, HTML, MS IIS Server, MS SharePoint Designer, MS Excel, MS Visual Basic For Applications, MS Biztalk Server, MS Project, MS
+Visual InterDev, MySQL, SoftSkill - Leadership, SoftSkill - Negotiation skills, SoftSkill - Planning 8% Organization, SoftSkill - Teamwork, VBScript
+
+Provial Servicios Juridicos Mexico City - Systems Analyst From: Jan, 1998 To: Jan, 1999
+Description:
+
+Development of the production module of System IntegrOsys 2.2.
+System Development AprOsys 2.0
+Analysis and maintenance of databases.
+
+Tools/Skills:
+
+MS Visual Basic 3, Microsoft SQL (T-SQL)
+
+APRA Servicios Juridicos Mexico City - Systems and Support From: May, 1997 To: Jan, 1998
+Analyst
+
+Description:
+
+Analysis of databases to obtain statistics.
+Registration of claims in System Integr eSys.
+Realization of Billing.
+Training and advice to general staff and the Integr(Osys parcel system.
+
+Tools/Skills:
+MS Excel, MS Visual Basic 3, Microsoft SQL (T-SQL)
+EDUCATION
+
+UNIVERSIDAD TECNOLOGICA DE MEXICO Mexico City From: May, 1994 To: Dec, 1999
+Computer Systems Engineering
+
+postgraduate in Telecommunications
+
+PROFESSIONAL DEVELOPMENT
+
+Course: Application Security 2022 Softtek University Oct, 2022
+Course: Introduction to the Operation Softtek University Aug, 2022
+Course: Six Sigma White Belt Softtek University Jul, 2022
+
+Course: Google Platform Principles Softtek University Jul, 2022
+
+
+--- Página 8 (OCR) ---
+
+Course: Getting Started with AWS
+Course: PDSS Agile
+
+Course: Agile SSDP Scrum Fundamentals
+Course: Agile SSDP The Agile Concept
+Course: Integrity
+
+Course: PDSSV3
+
+Course: Financial culture
+
+Course: MicroStrategy Analysis Mode
+Course: Balance-Structural Risk
+
+Course: Basic Course in Data Mining
+
+LANGUAGES
+
+English
+
+TECHNICAL/MANAGERIAL SKILLS
+
+VBScript
+
+SoftSkill - Teamwork
+
+SoftSkill - Planning € Organization
+SoftSkill - Negotiation skills
+SoftSkill - Leadership
+
+Oracle SQL Developer
+
+MySQL
+
+MS Visual InterDev
+
+MS Visual Basic For Applications
+MS Visual Basic 3
+
+MS SharePoint Designer
+
+MS Project
+
+MS IIS Server
+
+MS Excel
+
+MS Biztalk Server
+
+Microstrategy 10
+
+Microsoft SQL Server Integration Services (SSIS)
+Microsoft SQL Server
+
+Microsoft SQL (T-SQL)
+Informatica Power Center
+HTML
+
+Functional Testing
+
+ETL (Extract/Transform/Load)
+C
+
+ASP Classic
+
+Agile
+
+Self Evaluated
+
+Softtek University
+Softtek University
+Softtek University
+Softtek University
+Softtek University
+Softtek University
+Psicorenacimiento
+Caprinet
+DeráRisk
+Universidad Anahuac
+
+Jul, 2022
+May, 2022
+Jan, 2022
+Jan, 2022
+Nov, 2021
+Aug, 2021
+Jan, 2010
+Jun, 2009
+Apr, 2008
+Sep, 2007
+
+Lower Intermediate 31-50%
+
+Senior
+Senior
+Senior
+Senior
+Senior
+Junior
+Senior
+Senior
+Senior
+Proficient
+Proficient
+Senior
+Senior
+Senior
+Junior
+Junior
+Junior
+Proficient
+Proficient
+Proficient
+Proficient
+Proficient
+Proficient
+Junior
+Senior
+
+Junior

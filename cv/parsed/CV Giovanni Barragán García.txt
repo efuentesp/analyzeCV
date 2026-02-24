@@ -1,0 +1,1050 @@
+Giovanni Barragán García
+Líder de Pruebas
+Nombre de la empresa:
+Softtek – IFT | Lugar:
+Ciudad de México | Puesto:
+Líder de pruebas | Desde:
+Septiembre 2024 | A:
+Actualmente
+Funciones:
+
+Creación de plan de pruebas y estrategia de pruebas para IFT
+Implementación de template para carga de casos de prueba a teatlink
+Análisis de documentación para generación de matrices de casos de prueba.
+Diseño de casos de pruebas en Testlink
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Seguimiento y control de pruebas manuales y de regresión.
+Generación de peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Seguimiento y levantamiento de defectos en Mantis
+Seguimiento y asignación de tareas en Jira.
+Creación de FMEA para identificación y mitigación de riesgos.
+Planeación y organización de pruebas desde etapa de análisis hasta el cierre. | Funciones:
+
+Creación de plan de pruebas y estrategia de pruebas para IFT
+Implementación de template para carga de casos de prueba a teatlink
+Análisis de documentación para generación de matrices de casos de prueba.
+Diseño de casos de pruebas en Testlink
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Seguimiento y control de pruebas manuales y de regresión.
+Generación de peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Seguimiento y levantamiento de defectos en Mantis
+Seguimiento y asignación de tareas en Jira.
+Creación de FMEA para identificación y mitigación de riesgos.
+Planeación y organización de pruebas desde etapa de análisis hasta el cierre. | Funciones:
+
+Creación de plan de pruebas y estrategia de pruebas para IFT
+Implementación de template para carga de casos de prueba a teatlink
+Análisis de documentación para generación de matrices de casos de prueba.
+Diseño de casos de pruebas en Testlink
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Seguimiento y control de pruebas manuales y de regresión.
+Generación de peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Seguimiento y levantamiento de defectos en Mantis
+Seguimiento y asignación de tareas en Jira.
+Creación de FMEA para identificación y mitigación de riesgos.
+Planeación y organización de pruebas desde etapa de análisis hasta el cierre. | Funciones:
+
+Creación de plan de pruebas y estrategia de pruebas para IFT
+Implementación de template para carga de casos de prueba a teatlink
+Análisis de documentación para generación de matrices de casos de prueba.
+Diseño de casos de pruebas en Testlink
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Seguimiento y control de pruebas manuales y de regresión.
+Generación de peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Seguimiento y levantamiento de defectos en Mantis
+Seguimiento y asignación de tareas en Jira.
+Creación de FMEA para identificación y mitigación de riesgos.
+Planeación y organización de pruebas desde etapa de análisis hasta el cierre. | Funciones:
+
+Creación de plan de pruebas y estrategia de pruebas para IFT
+Implementación de template para carga de casos de prueba a teatlink
+Análisis de documentación para generación de matrices de casos de prueba.
+Diseño de casos de pruebas en Testlink
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Seguimiento y control de pruebas manuales y de regresión.
+Generación de peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Seguimiento y levantamiento de defectos en Mantis
+Seguimiento y asignación de tareas en Jira.
+Creación de FMEA para identificación y mitigación de riesgos.
+Planeación y organización de pruebas desde etapa de análisis hasta el cierre.
+Herramientas: | Jira, FastStone capture, Office 365, Mantis, Testlink, Webex | Jira, FastStone capture, Office 365, Mantis, Testlink, Webex | Jira, FastStone capture, Office 365, Mantis, Testlink, Webex | Jira, FastStone capture, Office 365, Mantis, Testlink, Webex | Jira, FastStone capture, Office 365, Mantis, Testlink, Webex
+Referencia: | Nombre: Josefina Leonor Jimenez Ornelas
+Puesto: DM / EM 
+Email: josefina.jimenez@softtek.com | Nombre: Josefina Leonor Jimenez Ornelas
+Puesto: DM / EM 
+Email: josefina.jimenez@softtek.com | Nombre: Josefina Leonor Jimenez Ornelas
+Puesto: DM / EM 
+Email: josefina.jimenez@softtek.com | Nombre: Josefina Leonor Jimenez Ornelas
+Puesto: DM / EM 
+Email: josefina.jimenez@softtek.com | Nombre: Josefina Leonor Jimenez Ornelas
+Puesto: DM / EM 
+Email: josefina.jimenez@softtek.com
+Nombre de la empresa:
+Softtek – Digital office | Lugar:
+Ciudad de México | Puesto:
+Líder de pruebas | Desde:
+Agosto 2022 | A:
+Agosto 2024
+Funciones:
+
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Seguimiento y control de pruebas manuales y de regresión.
+Creación de scripts para consulta de datos en BDD.
+Generación de Peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Seguimiento y asignación de tareas en Jira.
+Creación de FMEA para identificación y mitigación de riesgos.
+Planeación y organización de pruebas desde etapa de análisis hasta el cierre. | Funciones:
+
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Seguimiento y control de pruebas manuales y de regresión.
+Creación de scripts para consulta de datos en BDD.
+Generación de Peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Seguimiento y asignación de tareas en Jira.
+Creación de FMEA para identificación y mitigación de riesgos.
+Planeación y organización de pruebas desde etapa de análisis hasta el cierre. | Funciones:
+
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Seguimiento y control de pruebas manuales y de regresión.
+Creación de scripts para consulta de datos en BDD.
+Generación de Peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Seguimiento y asignación de tareas en Jira.
+Creación de FMEA para identificación y mitigación de riesgos.
+Planeación y organización de pruebas desde etapa de análisis hasta el cierre. | Funciones:
+
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Seguimiento y control de pruebas manuales y de regresión.
+Creación de scripts para consulta de datos en BDD.
+Generación de Peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Seguimiento y asignación de tareas en Jira.
+Creación de FMEA para identificación y mitigación de riesgos.
+Planeación y organización de pruebas desde etapa de análisis hasta el cierre. | Funciones:
+
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Seguimiento y control de pruebas manuales y de regresión.
+Creación de scripts para consulta de datos en BDD.
+Generación de Peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Seguimiento y asignación de tareas en Jira.
+Creación de FMEA para identificación y mitigación de riesgos.
+Planeación y organización de pruebas desde etapa de análisis hasta el cierre.
+Herramientas: | Jira, PPM, Xmind, SAP, yED graph editor, FastStone capture, Office 365, SAP SSFF
+SQL server | Jira, PPM, Xmind, SAP, yED graph editor, FastStone capture, Office 365, SAP SSFF
+SQL server | Jira, PPM, Xmind, SAP, yED graph editor, FastStone capture, Office 365, SAP SSFF
+SQL server | Jira, PPM, Xmind, SAP, yED graph editor, FastStone capture, Office 365, SAP SSFF
+SQL server | Jira, PPM, Xmind, SAP, yED graph editor, FastStone capture, Office 365, SAP SSFF
+SQL server
+Referencia: | Nombre: Rita Emilia Diaz Trevino
+Puesto: Project Manager 
+Email: rita.diaz@softtek.com | Nombre: Rita Emilia Diaz Trevino
+Puesto: Project Manager 
+Email: rita.diaz@softtek.com | Nombre: Rita Emilia Diaz Trevino
+Puesto: Project Manager 
+Email: rita.diaz@softtek.com | Nombre: Rita Emilia Diaz Trevino
+Puesto: Project Manager 
+Email: rita.diaz@softtek.com | Nombre: Rita Emilia Diaz Trevino
+Puesto: Project Manager 
+Email: rita.diaz@softtek.com
+Nombre de la empresa:
+DHL México – Softtek | Lugar:
+Ciudad de México | Puesto:
+Líder de pruebas | Desde:
+Abril 2022 | A:
+Agosto 2022.
+Funciones:
+
+Experiencia de 4 meses como Tester Sr.
+Planeación de análisis, diseño y ejecución de pruebas modulares.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Ejecución de pruebas para la validación modular de los aplicativos.
+Seguimiento y control de pruebas manuales y de regresión.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Creación de scripts para consulta de datos en BDD.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Demostración de funcionalidad al usuario, al finalizar las pruebas.
+Generación de Peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Reporte de defectos en Jira.
+Seguimiento y asignación de tareas en Jira.
+Trabajo de equipo de pruebas con forme a una metodología ágil.
+Revisión y generación de criterios de aceptación en las historias de usuario. | Funciones:
+
+Experiencia de 4 meses como Tester Sr.
+Planeación de análisis, diseño y ejecución de pruebas modulares.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Ejecución de pruebas para la validación modular de los aplicativos.
+Seguimiento y control de pruebas manuales y de regresión.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Creación de scripts para consulta de datos en BDD.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Demostración de funcionalidad al usuario, al finalizar las pruebas.
+Generación de Peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Reporte de defectos en Jira.
+Seguimiento y asignación de tareas en Jira.
+Trabajo de equipo de pruebas con forme a una metodología ágil.
+Revisión y generación de criterios de aceptación en las historias de usuario. | Funciones:
+
+Experiencia de 4 meses como Tester Sr.
+Planeación de análisis, diseño y ejecución de pruebas modulares.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Ejecución de pruebas para la validación modular de los aplicativos.
+Seguimiento y control de pruebas manuales y de regresión.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Creación de scripts para consulta de datos en BDD.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Demostración de funcionalidad al usuario, al finalizar las pruebas.
+Generación de Peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Reporte de defectos en Jira.
+Seguimiento y asignación de tareas en Jira.
+Trabajo de equipo de pruebas con forme a una metodología ágil.
+Revisión y generación de criterios de aceptación en las historias de usuario. | Funciones:
+
+Experiencia de 4 meses como Tester Sr.
+Planeación de análisis, diseño y ejecución de pruebas modulares.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Ejecución de pruebas para la validación modular de los aplicativos.
+Seguimiento y control de pruebas manuales y de regresión.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Creación de scripts para consulta de datos en BDD.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Demostración de funcionalidad al usuario, al finalizar las pruebas.
+Generación de Peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Reporte de defectos en Jira.
+Seguimiento y asignación de tareas en Jira.
+Trabajo de equipo de pruebas con forme a una metodología ágil.
+Revisión y generación de criterios de aceptación en las historias de usuario. | Funciones:
+
+Experiencia de 4 meses como Tester Sr.
+Planeación de análisis, diseño y ejecución de pruebas modulares.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Ejecución de pruebas para la validación modular de los aplicativos.
+Seguimiento y control de pruebas manuales y de regresión.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Creación de scripts para consulta de datos en BDD.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Demostración de funcionalidad al usuario, al finalizar las pruebas.
+Generación de Peer review para garantizar calidad de entregables de diseño.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Reporte de defectos en Jira.
+Seguimiento y asignación de tareas en Jira.
+Trabajo de equipo de pruebas con forme a una metodología ágil.
+Revisión y generación de criterios de aceptación en las historias de usuario.
+Herramientas: | Jira, PPM, Xmind, SAP HANA, yED graph editor, SQL Server, FastStone capture, Office 365 | Jira, PPM, Xmind, SAP HANA, yED graph editor, SQL Server, FastStone capture, Office 365 | Jira, PPM, Xmind, SAP HANA, yED graph editor, SQL Server, FastStone capture, Office 365 | Jira, PPM, Xmind, SAP HANA, yED graph editor, SQL Server, FastStone capture, Office 365 | Jira, PPM, Xmind, SAP HANA, yED graph editor, SQL Server, FastStone capture, Office 365
+Referencia: | Nombre: Nohemi Zuleima Flores Vazquez
+Puesto: Project Manager & QAV Specialist.
+Email: nohemi.flores@softtek.com | Nombre: Nohemi Zuleima Flores Vazquez
+Puesto: Project Manager & QAV Specialist.
+Email: nohemi.flores@softtek.com | Nombre: Nohemi Zuleima Flores Vazquez
+Puesto: Project Manager & QAV Specialist.
+Email: nohemi.flores@softtek.com | Nombre: Nohemi Zuleima Flores Vazquez
+Puesto: Project Manager & QAV Specialist.
+Email: nohemi.flores@softtek.com | Nombre: Nohemi Zuleima Flores Vazquez
+Puesto: Project Manager & QAV Specialist.
+Email: nohemi.flores@softtek.com
+Nombre de la empresa:
+Infonavit – Softtek | Lugar:
+Ciudad de México | Puesto:
+Líder de pruebas | Desde:
+Septiembre 2020 | A:
+Abril 2022.
+Funciones:
+
+Experiencia de 1 año y 4 mes como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Creación de scripts para consulta de datos en BDD.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario.
+Generación de Peer review para garantizar calidad de entregables de diseño, como matrices, planes de prueba, 
+etc.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad. | Funciones:
+
+Experiencia de 1 año y 4 mes como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Creación de scripts para consulta de datos en BDD.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario.
+Generación de Peer review para garantizar calidad de entregables de diseño, como matrices, planes de prueba, 
+etc.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad. | Funciones:
+
+Experiencia de 1 año y 4 mes como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Creación de scripts para consulta de datos en BDD.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario.
+Generación de Peer review para garantizar calidad de entregables de diseño, como matrices, planes de prueba, 
+etc.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad. | Funciones:
+
+Experiencia de 1 año y 4 mes como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Creación de scripts para consulta de datos en BDD.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario.
+Generación de Peer review para garantizar calidad de entregables de diseño, como matrices, planes de prueba, 
+etc.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad. | Funciones:
+
+Experiencia de 1 año y 4 mes como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Creación de scripts para consulta de datos en BDD.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario.
+Generación de Peer review para garantizar calidad de entregables de diseño, como matrices, planes de prueba, 
+etc.
+Generación de diagramas para entendimiento y revisión con usuarios.
+Generación de matrices de datos y trazabilidad.
+Herramientas: | PPM, Xmind, SAP HANA, yED graph editor, SQL Server, FastStone capture, Office 365 | PPM, Xmind, SAP HANA, yED graph editor, SQL Server, FastStone capture, Office 365 | PPM, Xmind, SAP HANA, yED graph editor, SQL Server, FastStone capture, Office 365 | PPM, Xmind, SAP HANA, yED graph editor, SQL Server, FastStone capture, Office 365 | PPM, Xmind, SAP HANA, yED graph editor, SQL Server, FastStone capture, Office 365
+Referencia: | Nombre: Anabell Gamboa Comas
+Puesto: Líder de pruebas Sr.
+Email: anabell.gamboa@softtek.com
+Tel: 55 4008 6782 | Nombre: Anabell Gamboa Comas
+Puesto: Líder de pruebas Sr.
+Email: anabell.gamboa@softtek.com
+Tel: 55 4008 6782 | Nombre: Anabell Gamboa Comas
+Puesto: Líder de pruebas Sr.
+Email: anabell.gamboa@softtek.com
+Tel: 55 4008 6782 | Nombre: Anabell Gamboa Comas
+Puesto: Líder de pruebas Sr.
+Email: anabell.gamboa@softtek.com
+Tel: 55 4008 6782 | Nombre: Anabell Gamboa Comas
+Puesto: Líder de pruebas Sr.
+Email: anabell.gamboa@softtek.com
+Tel: 55 4008 6782
+Nombre de la empresa:
+Grupo BAL - QAIT | Nombre de la empresa:
+Grupo BAL - QAIT | Lugar:
+Ciudad de México | Lugar:
+Ciudad de México | Puesto:
+Líder de Pruebas | Puesto:
+Líder de Pruebas | Desde:
+Enero 2019 | Desde:
+Enero 2019 | A:
+Septiembre 2020 | A:
+Septiembre 2020
+Funciones:
+
+Experiencia de 1 año y 8 meses como como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Estimación del esfuerzo de pruebas basado en los requerimientos y el calendario del proyecto.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Gestión de equipo de pruebas de software, asignando actividades de acuerdo a la criticidad del negocio.
+Coordinación y seguimiento de ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales y automatizadas.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Ejecución de casos de prueba funcionales (funcionales, integrales, regresión, UAT) manuales y automatizadas.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Planeación y estrategia para la automatización de módulos con Selenuim, postman (API).
+Medición de rendimiento de aplicación web con JMeter.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 8 meses como como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Estimación del esfuerzo de pruebas basado en los requerimientos y el calendario del proyecto.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Gestión de equipo de pruebas de software, asignando actividades de acuerdo a la criticidad del negocio.
+Coordinación y seguimiento de ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales y automatizadas.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Ejecución de casos de prueba funcionales (funcionales, integrales, regresión, UAT) manuales y automatizadas.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Planeación y estrategia para la automatización de módulos con Selenuim, postman (API).
+Medición de rendimiento de aplicación web con JMeter.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 8 meses como como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Estimación del esfuerzo de pruebas basado en los requerimientos y el calendario del proyecto.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Gestión de equipo de pruebas de software, asignando actividades de acuerdo a la criticidad del negocio.
+Coordinación y seguimiento de ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales y automatizadas.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Ejecución de casos de prueba funcionales (funcionales, integrales, regresión, UAT) manuales y automatizadas.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Planeación y estrategia para la automatización de módulos con Selenuim, postman (API).
+Medición de rendimiento de aplicación web con JMeter.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 8 meses como como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Estimación del esfuerzo de pruebas basado en los requerimientos y el calendario del proyecto.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Gestión de equipo de pruebas de software, asignando actividades de acuerdo a la criticidad del negocio.
+Coordinación y seguimiento de ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales y automatizadas.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Ejecución de casos de prueba funcionales (funcionales, integrales, regresión, UAT) manuales y automatizadas.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Planeación y estrategia para la automatización de módulos con Selenuim, postman (API).
+Medición de rendimiento de aplicación web con JMeter.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 8 meses como como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Estimación del esfuerzo de pruebas basado en los requerimientos y el calendario del proyecto.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Gestión de equipo de pruebas de software, asignando actividades de acuerdo a la criticidad del negocio.
+Coordinación y seguimiento de ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales y automatizadas.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Ejecución de casos de prueba funcionales (funcionales, integrales, regresión, UAT) manuales y automatizadas.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Planeación y estrategia para la automatización de módulos con Selenuim, postman (API).
+Medición de rendimiento de aplicación web con JMeter.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 8 meses como como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Estimación del esfuerzo de pruebas basado en los requerimientos y el calendario del proyecto.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Gestión de equipo de pruebas de software, asignando actividades de acuerdo a la criticidad del negocio.
+Coordinación y seguimiento de ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales y automatizadas.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Ejecución de casos de prueba funcionales (funcionales, integrales, regresión, UAT) manuales y automatizadas.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Planeación y estrategia para la automatización de módulos con Selenuim, postman (API).
+Medición de rendimiento de aplicación web con JMeter.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 8 meses como como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Estimación del esfuerzo de pruebas basado en los requerimientos y el calendario del proyecto.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Gestión de equipo de pruebas de software, asignando actividades de acuerdo a la criticidad del negocio.
+Coordinación y seguimiento de ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales y automatizadas.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Ejecución de casos de prueba funcionales (funcionales, integrales, regresión, UAT) manuales y automatizadas.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Planeación y estrategia para la automatización de módulos con Selenuim, postman (API).
+Medición de rendimiento de aplicación web con JMeter.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 8 meses como como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Estimación del esfuerzo de pruebas basado en los requerimientos y el calendario del proyecto.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Gestión de equipo de pruebas de software, asignando actividades de acuerdo a la criticidad del negocio.
+Coordinación y seguimiento de ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales y automatizadas.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Ejecución de casos de prueba funcionales (funcionales, integrales, regresión, UAT) manuales y automatizadas.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Planeación y estrategia para la automatización de módulos con Selenuim, postman (API).
+Medición de rendimiento de aplicación web con JMeter.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 8 meses como como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Estimación del esfuerzo de pruebas basado en los requerimientos y el calendario del proyecto.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Gestión de equipo de pruebas de software, asignando actividades de acuerdo a la criticidad del negocio.
+Coordinación y seguimiento de ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales y automatizadas.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Ejecución de casos de prueba funcionales (funcionales, integrales, regresión, UAT) manuales y automatizadas.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Planeación y estrategia para la automatización de módulos con Selenuim, postman (API).
+Medición de rendimiento de aplicación web con JMeter.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 8 meses como como Líder de pruebas.
+Generación de planes y estrategias de pruebas, así como la estimación para su ejecución.
+Estimación del esfuerzo de pruebas basado en los requerimientos y el calendario del proyecto.
+Planeación de análisis, diseño y ejecución de pruebas funcionales.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Desarrollo de estrategias de pruebas y reporte de pruebas por requerimiento.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Gestión de equipo de pruebas de software, asignando actividades de acuerdo a la criticidad del negocio.
+Coordinación y seguimiento de ejecución de pruebas en cada uno de los release realizados para la validación funcional de los aplicativos.
+Seguimiento y control de pruebas funcionales manuales y automatizadas.
+Seguimiento y control de pruebas funcionales, no funcionales y de regresión.
+Ejecución de casos de prueba funcionales (funcionales, integrales, regresión, UAT) manuales y automatizadas.
+Consulta de datos en backend para validar datos de frontend (BDD, microservicios, API, etc).
+Planeación y estrategia para la automatización de módulos con Selenuim, postman (API).
+Medición de rendimiento de aplicación web con JMeter.
+Generación de reportes para métricas de prueba.
+Seguimiento y control de pruebas de regresión en ambientes de pruebas.
+Acompañamiento en la ejecución de pruebas de aceptación de usuario.
+Soporte de pruebas de usuario.
+Herramientas: | Herramientas: | Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite | Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite | Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite | Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite | Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite | Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite | Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite | Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite | Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite
+Referencia: | Referencia: | Nombre: Francisco Ramos Bernal
+Puesto: Proyect Manager
+Email: francisco.rbernal@gnp.com.mx
+Tel: | Nombre: Francisco Ramos Bernal
+Puesto: Proyect Manager
+Email: francisco.rbernal@gnp.com.mx
+Tel: | Nombre: Francisco Ramos Bernal
+Puesto: Proyect Manager
+Email: francisco.rbernal@gnp.com.mx
+Tel: | Nombre: Francisco Ramos Bernal
+Puesto: Proyect Manager
+Email: francisco.rbernal@gnp.com.mx
+Tel: | Nombre: Francisco Ramos Bernal
+Puesto: Proyect Manager
+Email: francisco.rbernal@gnp.com.mx
+Tel: | Nombre: Francisco Ramos Bernal
+Puesto: Proyect Manager
+Email: francisco.rbernal@gnp.com.mx
+Tel: | Nombre: Francisco Ramos Bernal
+Puesto: Proyect Manager
+Email: francisco.rbernal@gnp.com.mx
+Tel: | Nombre: Francisco Ramos Bernal
+Puesto: Proyect Manager
+Email: francisco.rbernal@gnp.com.mx
+Tel: | Nombre: Francisco Ramos Bernal
+Puesto: Proyect Manager
+Email: francisco.rbernal@gnp.com.mx
+Tel:
+Nombre de la empresa:
+GNP seguros - QAIT | Nombre de la empresa:
+GNP seguros - QAIT | Lugar:
+Ciudad de México | Lugar:
+Ciudad de México | Puesto:
+Líder de Pruebas. | Puesto:
+Líder de Pruebas. | Desde:
+Junio 2017 | Desde:
+Junio 2017 | A:
+Diciembre 2018 | A:
+Diciembre 2018 | A:
+Diciembre 2018
+Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario. | Funciones:
+
+Experiencia de 1 año y 6 meses como gestor de proyectos TI.
+Planeación de pruebas de requerimientos de usuario (Estimación y planificación)
+Seguimiento y control del proceso de pruebas.
+Generación de estrategia de pruebas, y análisis de requerimiento a bajo nivel.
+Análisis, diseño y mejora de matrices de casos de prueba.
+Identificación, análisis, evaluación y mitigación de riesgos de proyecto.
+Seguimiento y control de Pruebas funcionales, no funcionales y automatizadas.
+Generación de reportes de estatus de ejecución diaria al cliente, así como la obtención de métricas de prueba.
+Análisis y diseño de documentación para generación de matrices de casos de prueba.
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Reporte y seguimiento de incidencias con Mantis.
+Generación de reporte de prueba por requerimiento.
+Administración y creación de scripts para consulta de datos en dbvisualizer (SQL).
+Seguimiento a la ejecución de pruebas de regresión en ambientes de pruebas.
+Soporte a pruebas de usuario.
+Herramientas: | Herramientas: | ALM, Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite. | ALM, Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite. | ALM, Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite. | ALM, Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite. | ALM, Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite. | ALM, Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite. | ALM, Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite. | ALM, Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite. | ALM, Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite. | ALM, Matis, Jmeter, Selenium, Postman, SQL, Jira, YARC!, Google suite.
+Referencia: | Referencia: | Nombre: David Guzman de Lira.
+Puesto: Lider del proyecto
+Email: david.guzman@gnp.com.mx
+Tel: | Nombre: David Guzman de Lira.
+Puesto: Lider del proyecto
+Email: david.guzman@gnp.com.mx
+Tel: | Nombre: David Guzman de Lira.
+Puesto: Lider del proyecto
+Email: david.guzman@gnp.com.mx
+Tel: | Nombre: David Guzman de Lira.
+Puesto: Lider del proyecto
+Email: david.guzman@gnp.com.mx
+Tel: | Nombre: David Guzman de Lira.
+Puesto: Lider del proyecto
+Email: david.guzman@gnp.com.mx
+Tel: | Nombre: David Guzman de Lira.
+Puesto: Lider del proyecto
+Email: david.guzman@gnp.com.mx
+Tel: | Nombre: David Guzman de Lira.
+Puesto: Lider del proyecto
+Email: david.guzman@gnp.com.mx
+Tel: | Nombre: David Guzman de Lira.
+Puesto: Lider del proyecto
+Email: david.guzman@gnp.com.mx
+Tel: | Nombre: David Guzman de Lira.
+Puesto: Lider del proyecto
+Email: david.guzman@gnp.com.mx
+Tel: | Nombre: David Guzman de Lira.
+Puesto: Lider del proyecto
+Email: david.guzman@gnp.com.mx
+Tel:
+Nombre de la empresa:
+ILCE | Lugar:
+Ciudad de México | Puesto:
+Tester Sr. | Desde:
+Enero 2017 | A:
+Mayo 2017
+Funciones:
+
+Planeación y coordinación de actividades del equipo de Continuidad
+Análisis de requerimientos funcionales
+Diseño de matrices de casos de prueba
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba
+Identificación de escenarios de pruebas con base en los requerimientos funcionales
+Creación de la matriz de pruebas y la trazabilidad con los requerimientos
+Diseño de casos de prueba funcionales 
+Ejecución de casos de prueba funcionales, con base en el plan de ejecución
+Desarrollo de apps moviles y web (C#, C++, java, HTML5, CSS3, JavaScript)
+Updates en bases de datos (SQL) | Funciones:
+
+Planeación y coordinación de actividades del equipo de Continuidad
+Análisis de requerimientos funcionales
+Diseño de matrices de casos de prueba
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba
+Identificación de escenarios de pruebas con base en los requerimientos funcionales
+Creación de la matriz de pruebas y la trazabilidad con los requerimientos
+Diseño de casos de prueba funcionales 
+Ejecución de casos de prueba funcionales, con base en el plan de ejecución
+Desarrollo de apps moviles y web (C#, C++, java, HTML5, CSS3, JavaScript)
+Updates en bases de datos (SQL) | Funciones:
+
+Planeación y coordinación de actividades del equipo de Continuidad
+Análisis de requerimientos funcionales
+Diseño de matrices de casos de prueba
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba
+Identificación de escenarios de pruebas con base en los requerimientos funcionales
+Creación de la matriz de pruebas y la trazabilidad con los requerimientos
+Diseño de casos de prueba funcionales 
+Ejecución de casos de prueba funcionales, con base en el plan de ejecución
+Desarrollo de apps moviles y web (C#, C++, java, HTML5, CSS3, JavaScript)
+Updates en bases de datos (SQL) | Funciones:
+
+Planeación y coordinación de actividades del equipo de Continuidad
+Análisis de requerimientos funcionales
+Diseño de matrices de casos de prueba
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba
+Identificación de escenarios de pruebas con base en los requerimientos funcionales
+Creación de la matriz de pruebas y la trazabilidad con los requerimientos
+Diseño de casos de prueba funcionales 
+Ejecución de casos de prueba funcionales, con base en el plan de ejecución
+Desarrollo de apps moviles y web (C#, C++, java, HTML5, CSS3, JavaScript)
+Updates en bases de datos (SQL) | Funciones:
+
+Planeación y coordinación de actividades del equipo de Continuidad
+Análisis de requerimientos funcionales
+Diseño de matrices de casos de prueba
+Generación de casos de pruebas, aplicando técnicas de diseño de casos de prueba
+Identificación de escenarios de pruebas con base en los requerimientos funcionales
+Creación de la matriz de pruebas y la trazabilidad con los requerimientos
+Diseño de casos de prueba funcionales 
+Ejecución de casos de prueba funcionales, con base en el plan de ejecución
+Desarrollo de apps moviles y web (C#, C++, java, HTML5, CSS3, JavaScript)
+Updates en bases de datos (SQL)
+Herramientas: | Microsoft office, Google Suite, C#, C++, Java, HTML5, CSS3, JavaScript, SQL | Microsoft office, Google Suite, C#, C++, Java, HTML5, CSS3, JavaScript, SQL | Microsoft office, Google Suite, C#, C++, Java, HTML5, CSS3, JavaScript, SQL | Microsoft office, Google Suite, C#, C++, Java, HTML5, CSS3, JavaScript, SQL | Microsoft office, Google Suite, C#, C++, Java, HTML5, CSS3, JavaScript, SQL
+Referencia: | Nombre: Juan Francisco Chavez Licona
+Puesto: Lider de proyecto
+Email:
+Tel: 55 5010 9590 | Nombre: Juan Francisco Chavez Licona
+Puesto: Lider de proyecto
+Email:
+Tel: 55 5010 9590 | Nombre: Juan Francisco Chavez Licona
+Puesto: Lider de proyecto
+Email:
+Tel: 55 5010 9590 | Nombre: Juan Francisco Chavez Licona
+Puesto: Lider de proyecto
+Email:
+Tel: 55 5010 9590 | Nombre: Juan Francisco Chavez Licona
+Puesto: Lider de proyecto
+Email:
+Tel: 55 5010 9590
+Nombre de la empresa:
+PGJ | Lugar:
+Ciudad de México | Puesto:
+Tester Jr. | Desde:
+Marzo 2014 | A:
+Diciembre 2016
+Funciones:
+
+Prevención de pentesting (Backtrack)
+Inyección SQL para localizar vulnerabilidad de las aplicaciones web
+Diseño de sistema web (Adobe, Google Suite)
+Análisis de requerimientos
+Generación de reportes con el resultado de las pruebas realizadas
+Análisis de requerimientos funcionales
+Diseño de casos de prueba
+Ejecución de pruebas funcionales manuales.
+Reporte de avance y de defectos. | Funciones:
+
+Prevención de pentesting (Backtrack)
+Inyección SQL para localizar vulnerabilidad de las aplicaciones web
+Diseño de sistema web (Adobe, Google Suite)
+Análisis de requerimientos
+Generación de reportes con el resultado de las pruebas realizadas
+Análisis de requerimientos funcionales
+Diseño de casos de prueba
+Ejecución de pruebas funcionales manuales.
+Reporte de avance y de defectos. | Funciones:
+
+Prevención de pentesting (Backtrack)
+Inyección SQL para localizar vulnerabilidad de las aplicaciones web
+Diseño de sistema web (Adobe, Google Suite)
+Análisis de requerimientos
+Generación de reportes con el resultado de las pruebas realizadas
+Análisis de requerimientos funcionales
+Diseño de casos de prueba
+Ejecución de pruebas funcionales manuales.
+Reporte de avance y de defectos. | Funciones:
+
+Prevención de pentesting (Backtrack)
+Inyección SQL para localizar vulnerabilidad de las aplicaciones web
+Diseño de sistema web (Adobe, Google Suite)
+Análisis de requerimientos
+Generación de reportes con el resultado de las pruebas realizadas
+Análisis de requerimientos funcionales
+Diseño de casos de prueba
+Ejecución de pruebas funcionales manuales.
+Reporte de avance y de defectos. | Funciones:
+
+Prevención de pentesting (Backtrack)
+Inyección SQL para localizar vulnerabilidad de las aplicaciones web
+Diseño de sistema web (Adobe, Google Suite)
+Análisis de requerimientos
+Generación de reportes con el resultado de las pruebas realizadas
+Análisis de requerimientos funcionales
+Diseño de casos de prueba
+Ejecución de pruebas funcionales manuales.
+Reporte de avance y de defectos.
+Herramientas: | Adobe, Google suite, Backtrack, Microsoft Office. | Adobe, Google suite, Backtrack, Microsoft Office. | Adobe, Google suite, Backtrack, Microsoft Office. | Adobe, Google suite, Backtrack, Microsoft Office. | Adobe, Google suite, Backtrack, Microsoft Office.
+Referencia: | Nombre: Jose Luis Morales
+Puesto: Jefe de departamento
+Email:
+Tel: 55 5200 9849 | Nombre: Jose Luis Morales
+Puesto: Jefe de departamento
+Email:
+Tel: 55 5200 9849 | Nombre: Jose Luis Morales
+Puesto: Jefe de departamento
+Email:
+Tel: 55 5200 9849 | Nombre: Jose Luis Morales
+Puesto: Jefe de departamento
+Email:
+Tel: 55 5200 9849 | Nombre: Jose Luis Morales
+Puesto: Jefe de departamento
+Email:
+Tel: 55 5200 9849
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Curso Mantis | Softtek | 2023
+Curso Testlink | Softtek | 2022
+Certifiación ISTQB Test Manager Advance | Softtek | 2021
+Curso TMMi | Softtek | 2021
+Certificación Scrum Fundation | Softtek | 2020
+Liderazgo y motivación empresarial | Crehana | 2019
+Certificación ISTQB Fundation | QAIT | 2018
+Conceptos básicos de un Tester | QAIT | 2017
+Principios básicos de seguros y aseguradoras | QAIT | 2017
+Calidad tecnológica en ti (icf) | QAIT | 2017
+Sql server oracle toad | Oracle | 2016
+ESTUDIOS:
+Escuela:
+Universidad Anahuac (UNID) | Lugar:  
+CDMX
+Carrera:
+Ingeniería en Sistemas de Información | Fecha de duración: 
+2015
+Firma
+Giovanni Barragán García

@@ -1,0 +1,619 @@
+Dulce Janet Hernández Delgado
+PERFIL: Ingeniero de Pruebas
+Ingeniero de pruebas Sr con 9 años de experiencia en control de calidad de software, especializada en Pruebas Manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión).
+
+Experiencia en actividades de testing dentro del ciclo de vida de desarrollo de software (SDLC) en sus diferentes etapas (Planeación, análisis, diseño, ejecución, reporteo y cierre de pruebas) ejecutando en diferentes ambientes (Dev, QA y UAT) casos de prueba, pruebas funcionales, pruebas de regresión, pruebas de integración, pruebas de confirmación, pruebas exploratorias y pruebas de regresión, con sólidos conocimientos de Pruebas manuales.
+
+Con amplia experiencia y competente en metodologías ágiles, en cascada e híbridas, con experiencia práctica en el uso de herramientas de gestión de pruebas como Jira, Trello, CLM, TesLink, Monday y Service Now.
+
+Experiencia en sectores como Gobierno, Salud, Financiero y Telecomunicaciones, garantizando la calidad del software en diversos entornos y requisitos regulatorios.
+Habilidades interpersonales clave como trabajo en equipo, comunicación efectiva, pensamiento analítico, resolución de problemas, atención al detalle, toma de decisiones, negociación, etc.
+
+Certificada en ISTQB Foundation Level, SAFe (5.0), Scrum Fundamentals y ISO/IEC 27001:2013 Foundation – I27001F que me ayuda a contribuir con las mejores prácticas tanto individual como en trabajo de equipo
+EXPERIENCIA PROFESIONAL:
+Empresa
+
+Banorte – Softtek | Empresa
+
+Banorte – Softtek | País
+
+Ciudad de México | Puesto
+
+Ingeniero de Pruebas | Fecha de ingreso
+Septiembre 2024 | Fecha de salida
+
+Actual
+Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades
+Experiencia Funcional: | Funciones de ingeniero de pruebas:
+Planeación, análisis, diseño, ejecución y estimación de pruebas con la metodología Scrum y cascada. 
+Análisis de requerimientos funcionales e Historias de usuario. 
+Revisión y refinamiento de las Historias de Usuario, CTHU y AT. 
+Análisis y diseño para generación de matrices de prueba. 
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades, registro de riesgos, Plan de pruebas, seguimiento de defectos y mejoras. 
+Creación y Diseño de casos de pruebas, aplicando técnicas de diseño de casos de prueba. 
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.). 
+Ejecución y seguimiento de pruebas dinámicas manuales (Unitarias, Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA. 
+Ejecución y seguimiento de pruebas con metodología ágil. 
+Elaboración de documentación de pruebas (Evidencias (PU) y defectos de pruebas). 
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo en la herramienta de Jira, Mantis, Service Now (Seguimiento del Sprint, levantamiento y seguimiento de incidencias). 
+Acompañamiento y soporte de pruebas con usuario. (Demostración de la funcionalidad, revisión de dudas y seguimiento de defectos en la herramienta de Mantis) 
+Seguimiento del proyecto dentro de la herramienta Test Link: 
+Diseño de casos de prueba 
+Ejecución de casos de prueba 
+Documentación de evidencia de ejecución de pruebas 
+Mejora de procesos y documentación de pruebas | Funciones de ingeniero de pruebas:
+Planeación, análisis, diseño, ejecución y estimación de pruebas con la metodología Scrum y cascada. 
+Análisis de requerimientos funcionales e Historias de usuario. 
+Revisión y refinamiento de las Historias de Usuario, CTHU y AT. 
+Análisis y diseño para generación de matrices de prueba. 
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades, registro de riesgos, Plan de pruebas, seguimiento de defectos y mejoras. 
+Creación y Diseño de casos de pruebas, aplicando técnicas de diseño de casos de prueba. 
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.). 
+Ejecución y seguimiento de pruebas dinámicas manuales (Unitarias, Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA. 
+Ejecución y seguimiento de pruebas con metodología ágil. 
+Elaboración de documentación de pruebas (Evidencias (PU) y defectos de pruebas). 
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo en la herramienta de Jira, Mantis, Service Now (Seguimiento del Sprint, levantamiento y seguimiento de incidencias). 
+Acompañamiento y soporte de pruebas con usuario. (Demostración de la funcionalidad, revisión de dudas y seguimiento de defectos en la herramienta de Mantis) 
+Seguimiento del proyecto dentro de la herramienta Test Link: 
+Diseño de casos de prueba 
+Ejecución de casos de prueba 
+Documentación de evidencia de ejecución de pruebas 
+Mejora de procesos y documentación de pruebas | Funciones de ingeniero de pruebas:
+Planeación, análisis, diseño, ejecución y estimación de pruebas con la metodología Scrum y cascada. 
+Análisis de requerimientos funcionales e Historias de usuario. 
+Revisión y refinamiento de las Historias de Usuario, CTHU y AT. 
+Análisis y diseño para generación de matrices de prueba. 
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades, registro de riesgos, Plan de pruebas, seguimiento de defectos y mejoras. 
+Creación y Diseño de casos de pruebas, aplicando técnicas de diseño de casos de prueba. 
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.). 
+Ejecución y seguimiento de pruebas dinámicas manuales (Unitarias, Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA. 
+Ejecución y seguimiento de pruebas con metodología ágil. 
+Elaboración de documentación de pruebas (Evidencias (PU) y defectos de pruebas). 
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo en la herramienta de Jira, Mantis, Service Now (Seguimiento del Sprint, levantamiento y seguimiento de incidencias). 
+Acompañamiento y soporte de pruebas con usuario. (Demostración de la funcionalidad, revisión de dudas y seguimiento de defectos en la herramienta de Mantis) 
+Seguimiento del proyecto dentro de la herramienta Test Link: 
+Diseño de casos de prueba 
+Ejecución de casos de prueba 
+Documentación de evidencia de ejecución de pruebas 
+Mejora de procesos y documentación de pruebas | Funciones de ingeniero de pruebas:
+Planeación, análisis, diseño, ejecución y estimación de pruebas con la metodología Scrum y cascada. 
+Análisis de requerimientos funcionales e Historias de usuario. 
+Revisión y refinamiento de las Historias de Usuario, CTHU y AT. 
+Análisis y diseño para generación de matrices de prueba. 
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades, registro de riesgos, Plan de pruebas, seguimiento de defectos y mejoras. 
+Creación y Diseño de casos de pruebas, aplicando técnicas de diseño de casos de prueba. 
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.). 
+Ejecución y seguimiento de pruebas dinámicas manuales (Unitarias, Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA. 
+Ejecución y seguimiento de pruebas con metodología ágil. 
+Elaboración de documentación de pruebas (Evidencias (PU) y defectos de pruebas). 
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo en la herramienta de Jira, Mantis, Service Now (Seguimiento del Sprint, levantamiento y seguimiento de incidencias). 
+Acompañamiento y soporte de pruebas con usuario. (Demostración de la funcionalidad, revisión de dudas y seguimiento de defectos en la herramienta de Mantis) 
+Seguimiento del proyecto dentro de la herramienta Test Link: 
+Diseño de casos de prueba 
+Ejecución de casos de prueba 
+Documentación de evidencia de ejecución de pruebas 
+Mejora de procesos y documentación de pruebas | Funciones de ingeniero de pruebas:
+Planeación, análisis, diseño, ejecución y estimación de pruebas con la metodología Scrum y cascada. 
+Análisis de requerimientos funcionales e Historias de usuario. 
+Revisión y refinamiento de las Historias de Usuario, CTHU y AT. 
+Análisis y diseño para generación de matrices de prueba. 
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades, registro de riesgos, Plan de pruebas, seguimiento de defectos y mejoras. 
+Creación y Diseño de casos de pruebas, aplicando técnicas de diseño de casos de prueba. 
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.). 
+Ejecución y seguimiento de pruebas dinámicas manuales (Unitarias, Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA. 
+Ejecución y seguimiento de pruebas con metodología ágil. 
+Elaboración de documentación de pruebas (Evidencias (PU) y defectos de pruebas). 
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo en la herramienta de Jira, Mantis, Service Now (Seguimiento del Sprint, levantamiento y seguimiento de incidencias). 
+Acompañamiento y soporte de pruebas con usuario. (Demostración de la funcionalidad, revisión de dudas y seguimiento de defectos en la herramienta de Mantis) 
+Seguimiento del proyecto dentro de la herramienta Test Link: 
+Diseño de casos de prueba 
+Ejecución de casos de prueba 
+Documentación de evidencia de ejecución de pruebas 
+Mejora de procesos y documentación de pruebas
+Herramientas: | PPM, Mantis, Power Bi, SQL Server, Jira, Test Link, Service Now. Sistemas: Regulaciones y Visitas Domiciliarias, Sistemas de Banorte | PPM, Mantis, Power Bi, SQL Server, Jira, Test Link, Service Now. Sistemas: Regulaciones y Visitas Domiciliarias, Sistemas de Banorte | PPM, Mantis, Power Bi, SQL Server, Jira, Test Link, Service Now. Sistemas: Regulaciones y Visitas Domiciliarias, Sistemas de Banorte | PPM, Mantis, Power Bi, SQL Server, Jira, Test Link, Service Now. Sistemas: Regulaciones y Visitas Domiciliarias, Sistemas de Banorte | PPM, Mantis, Power Bi, SQL Server, Jira, Test Link, Service Now. Sistemas: Regulaciones y Visitas Domiciliarias, Sistemas de Banorte
+Empresa
+
+IFT – Softtek | Empresa
+
+IFT – Softtek | País
+
+Ciudad de México | Puesto
+
+Ingeniero de Pruebas | Fecha de ingreso
+Marzo 2023 | Fecha de salida
+
+Septiembre 2024
+Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades
+Experiencia Funcional: | Funciones de ingeniero de pruebas:
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades, registro de riesgos, Plan de pruebas y seguimiento de defectos.
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis y diseño para generación de matrices de prueba.
+Creación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA.
+Elaboración de documentación de pruebas (Evidencias y defectos de pruebas).
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo. 
+Ejecución y seguimiento de pruebas con metodología ágil. 
+Acompañamiento y soporte de pruebas con usuario. | Funciones de ingeniero de pruebas:
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades, registro de riesgos, Plan de pruebas y seguimiento de defectos.
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis y diseño para generación de matrices de prueba.
+Creación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA.
+Elaboración de documentación de pruebas (Evidencias y defectos de pruebas).
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo. 
+Ejecución y seguimiento de pruebas con metodología ágil. 
+Acompañamiento y soporte de pruebas con usuario. | Funciones de ingeniero de pruebas:
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades, registro de riesgos, Plan de pruebas y seguimiento de defectos.
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis y diseño para generación de matrices de prueba.
+Creación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA.
+Elaboración de documentación de pruebas (Evidencias y defectos de pruebas).
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo. 
+Ejecución y seguimiento de pruebas con metodología ágil. 
+Acompañamiento y soporte de pruebas con usuario. | Funciones de ingeniero de pruebas:
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades, registro de riesgos, Plan de pruebas y seguimiento de defectos.
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis y diseño para generación de matrices de prueba.
+Creación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA.
+Elaboración de documentación de pruebas (Evidencias y defectos de pruebas).
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo. 
+Ejecución y seguimiento de pruebas con metodología ágil. 
+Acompañamiento y soporte de pruebas con usuario. | Funciones de ingeniero de pruebas:
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades, registro de riesgos, Plan de pruebas y seguimiento de defectos.
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis y diseño para generación de matrices de prueba.
+Creación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA.
+Elaboración de documentación de pruebas (Evidencias y defectos de pruebas).
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo. 
+Ejecución y seguimiento de pruebas con metodología ágil. 
+Acompañamiento y soporte de pruebas con usuario.
+Herramientas: | PPM, Mantis, Power Bi | PPM, Mantis, Power Bi | PPM, Mantis, Power Bi | PPM, Mantis, Power Bi | PPM, Mantis, Power Bi
+Empresa
+
+IMSS – Softtek | Empresa
+
+IMSS – Softtek | País
+
+Ciudad de México | Puesto
+
+Ingeniero de Pruebas
+Analista de Negocio | Fecha de ingreso
+Enero 2017 | Fecha de salida
+
+Enero 2023
+Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades
+Experiencia Funcional: | Funciones de ingeniero de pruebas:
+
+Análisis de requerimientos funcionales y/o casos de uso del cliente.
+Elaboración de pruebas estáticas (Revisiones guiadas, formales e informales).
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis de documentación para generación de matrices de prueba.
+Diseño de escenarios de prueba (Arboles de escenarios y complejidad ciclomática).
+Creación de casos de pruebas, aplicando técnicas de diseño.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Creación y/o ambientación de datos y revisión de usuarios para la ejecución de pruebas.
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, modulares, integrales, confirmación, exploratorias y regresión) en ambiente QA y UAT.
+Consulta de datos en backend para validar datos de frontend (Base de Datos, API, etc.).
+Elaboración de documentación de pruebas (Evidencias y defectos de pruebas).
+Generación de reportes de estatus de ejecución diaria de pruebas, así como revisión del mismo con el equipo de pruebas, desarrollo y negocio.
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo.
+Acompañamiento y soporte de pruebas con usuario.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de matriz, escenarios y ejecución de pruebas de nuevos requerimientos.
+Ejecución y seguimiento de pruebas con metodología cascada, modelo V y ágil.
+
+Funciones de analista de negocio:
+
+Reuniones periódicas con negocio para el entendimiento del requerimiento.
+Análisis de los requerimientos de negocio.
+Reuniones con el equipo de analistas y desarrollo para la planeación de los documentos.
+Elaboración de reporte de ambigüedades.
+Elaboración o actualización de documentos MAAGTIC SI, de acuerdo a los requerimientos de negocio.
+Requerimientos
+Casos de uso
+Reglas de negocio
+Catálogo de mensajes
+Matriz de roles y perfiles 
+Diccionario de datos
+Prototipo de interfaz gráfica (PIG)
+Manual de usuario general
+Manual de usuario por perfiles
+Creación de diagramas UML
+Diagrama de procesos
+Diagramas de caso de uso
+Diagrama de contexto
+Diagrama de estados
+Diagrama de navegación
+Reuniones periódicas con negocio para la explicación y revisión de la documentación MAAGTIC SI.
+Ejecución de pruebas estáticas (Revisiones guiadas, formales e informales).
+Generación de Peer review para garantizar calidad de la documentación MAAGTIC SI.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de documentos MAAGTIC SI, de acuerdo a los nuevos requerimientos. | Funciones de ingeniero de pruebas:
+
+Análisis de requerimientos funcionales y/o casos de uso del cliente.
+Elaboración de pruebas estáticas (Revisiones guiadas, formales e informales).
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis de documentación para generación de matrices de prueba.
+Diseño de escenarios de prueba (Arboles de escenarios y complejidad ciclomática).
+Creación de casos de pruebas, aplicando técnicas de diseño.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Creación y/o ambientación de datos y revisión de usuarios para la ejecución de pruebas.
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, modulares, integrales, confirmación, exploratorias y regresión) en ambiente QA y UAT.
+Consulta de datos en backend para validar datos de frontend (Base de Datos, API, etc.).
+Elaboración de documentación de pruebas (Evidencias y defectos de pruebas).
+Generación de reportes de estatus de ejecución diaria de pruebas, así como revisión del mismo con el equipo de pruebas, desarrollo y negocio.
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo.
+Acompañamiento y soporte de pruebas con usuario.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de matriz, escenarios y ejecución de pruebas de nuevos requerimientos.
+Ejecución y seguimiento de pruebas con metodología cascada, modelo V y ágil.
+
+Funciones de analista de negocio:
+
+Reuniones periódicas con negocio para el entendimiento del requerimiento.
+Análisis de los requerimientos de negocio.
+Reuniones con el equipo de analistas y desarrollo para la planeación de los documentos.
+Elaboración de reporte de ambigüedades.
+Elaboración o actualización de documentos MAAGTIC SI, de acuerdo a los requerimientos de negocio.
+Requerimientos
+Casos de uso
+Reglas de negocio
+Catálogo de mensajes
+Matriz de roles y perfiles 
+Diccionario de datos
+Prototipo de interfaz gráfica (PIG)
+Manual de usuario general
+Manual de usuario por perfiles
+Creación de diagramas UML
+Diagrama de procesos
+Diagramas de caso de uso
+Diagrama de contexto
+Diagrama de estados
+Diagrama de navegación
+Reuniones periódicas con negocio para la explicación y revisión de la documentación MAAGTIC SI.
+Ejecución de pruebas estáticas (Revisiones guiadas, formales e informales).
+Generación de Peer review para garantizar calidad de la documentación MAAGTIC SI.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de documentos MAAGTIC SI, de acuerdo a los nuevos requerimientos. | Funciones de ingeniero de pruebas:
+
+Análisis de requerimientos funcionales y/o casos de uso del cliente.
+Elaboración de pruebas estáticas (Revisiones guiadas, formales e informales).
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis de documentación para generación de matrices de prueba.
+Diseño de escenarios de prueba (Arboles de escenarios y complejidad ciclomática).
+Creación de casos de pruebas, aplicando técnicas de diseño.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Creación y/o ambientación de datos y revisión de usuarios para la ejecución de pruebas.
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, modulares, integrales, confirmación, exploratorias y regresión) en ambiente QA y UAT.
+Consulta de datos en backend para validar datos de frontend (Base de Datos, API, etc.).
+Elaboración de documentación de pruebas (Evidencias y defectos de pruebas).
+Generación de reportes de estatus de ejecución diaria de pruebas, así como revisión del mismo con el equipo de pruebas, desarrollo y negocio.
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo.
+Acompañamiento y soporte de pruebas con usuario.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de matriz, escenarios y ejecución de pruebas de nuevos requerimientos.
+Ejecución y seguimiento de pruebas con metodología cascada, modelo V y ágil.
+
+Funciones de analista de negocio:
+
+Reuniones periódicas con negocio para el entendimiento del requerimiento.
+Análisis de los requerimientos de negocio.
+Reuniones con el equipo de analistas y desarrollo para la planeación de los documentos.
+Elaboración de reporte de ambigüedades.
+Elaboración o actualización de documentos MAAGTIC SI, de acuerdo a los requerimientos de negocio.
+Requerimientos
+Casos de uso
+Reglas de negocio
+Catálogo de mensajes
+Matriz de roles y perfiles 
+Diccionario de datos
+Prototipo de interfaz gráfica (PIG)
+Manual de usuario general
+Manual de usuario por perfiles
+Creación de diagramas UML
+Diagrama de procesos
+Diagramas de caso de uso
+Diagrama de contexto
+Diagrama de estados
+Diagrama de navegación
+Reuniones periódicas con negocio para la explicación y revisión de la documentación MAAGTIC SI.
+Ejecución de pruebas estáticas (Revisiones guiadas, formales e informales).
+Generación de Peer review para garantizar calidad de la documentación MAAGTIC SI.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de documentos MAAGTIC SI, de acuerdo a los nuevos requerimientos. | Funciones de ingeniero de pruebas:
+
+Análisis de requerimientos funcionales y/o casos de uso del cliente.
+Elaboración de pruebas estáticas (Revisiones guiadas, formales e informales).
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis de documentación para generación de matrices de prueba.
+Diseño de escenarios de prueba (Arboles de escenarios y complejidad ciclomática).
+Creación de casos de pruebas, aplicando técnicas de diseño.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Creación y/o ambientación de datos y revisión de usuarios para la ejecución de pruebas.
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, modulares, integrales, confirmación, exploratorias y regresión) en ambiente QA y UAT.
+Consulta de datos en backend para validar datos de frontend (Base de Datos, API, etc.).
+Elaboración de documentación de pruebas (Evidencias y defectos de pruebas).
+Generación de reportes de estatus de ejecución diaria de pruebas, así como revisión del mismo con el equipo de pruebas, desarrollo y negocio.
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo.
+Acompañamiento y soporte de pruebas con usuario.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de matriz, escenarios y ejecución de pruebas de nuevos requerimientos.
+Ejecución y seguimiento de pruebas con metodología cascada, modelo V y ágil.
+
+Funciones de analista de negocio:
+
+Reuniones periódicas con negocio para el entendimiento del requerimiento.
+Análisis de los requerimientos de negocio.
+Reuniones con el equipo de analistas y desarrollo para la planeación de los documentos.
+Elaboración de reporte de ambigüedades.
+Elaboración o actualización de documentos MAAGTIC SI, de acuerdo a los requerimientos de negocio.
+Requerimientos
+Casos de uso
+Reglas de negocio
+Catálogo de mensajes
+Matriz de roles y perfiles 
+Diccionario de datos
+Prototipo de interfaz gráfica (PIG)
+Manual de usuario general
+Manual de usuario por perfiles
+Creación de diagramas UML
+Diagrama de procesos
+Diagramas de caso de uso
+Diagrama de contexto
+Diagrama de estados
+Diagrama de navegación
+Reuniones periódicas con negocio para la explicación y revisión de la documentación MAAGTIC SI.
+Ejecución de pruebas estáticas (Revisiones guiadas, formales e informales).
+Generación de Peer review para garantizar calidad de la documentación MAAGTIC SI.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de documentos MAAGTIC SI, de acuerdo a los nuevos requerimientos. | Funciones de ingeniero de pruebas:
+
+Análisis de requerimientos funcionales y/o casos de uso del cliente.
+Elaboración de pruebas estáticas (Revisiones guiadas, formales e informales).
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis de documentación para generación de matrices de prueba.
+Diseño de escenarios de prueba (Arboles de escenarios y complejidad ciclomática).
+Creación de casos de pruebas, aplicando técnicas de diseño.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Creación y/o ambientación de datos y revisión de usuarios para la ejecución de pruebas.
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, modulares, integrales, confirmación, exploratorias y regresión) en ambiente QA y UAT.
+Consulta de datos en backend para validar datos de frontend (Base de Datos, API, etc.).
+Elaboración de documentación de pruebas (Evidencias y defectos de pruebas).
+Generación de reportes de estatus de ejecución diaria de pruebas, así como revisión del mismo con el equipo de pruebas, desarrollo y negocio.
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo.
+Acompañamiento y soporte de pruebas con usuario.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de matriz, escenarios y ejecución de pruebas de nuevos requerimientos.
+Ejecución y seguimiento de pruebas con metodología cascada, modelo V y ágil.
+
+Funciones de analista de negocio:
+
+Reuniones periódicas con negocio para el entendimiento del requerimiento.
+Análisis de los requerimientos de negocio.
+Reuniones con el equipo de analistas y desarrollo para la planeación de los documentos.
+Elaboración de reporte de ambigüedades.
+Elaboración o actualización de documentos MAAGTIC SI, de acuerdo a los requerimientos de negocio.
+Requerimientos
+Casos de uso
+Reglas de negocio
+Catálogo de mensajes
+Matriz de roles y perfiles 
+Diccionario de datos
+Prototipo de interfaz gráfica (PIG)
+Manual de usuario general
+Manual de usuario por perfiles
+Creación de diagramas UML
+Diagrama de procesos
+Diagramas de caso de uso
+Diagrama de contexto
+Diagrama de estados
+Diagrama de navegación
+Reuniones periódicas con negocio para la explicación y revisión de la documentación MAAGTIC SI.
+Ejecución de pruebas estáticas (Revisiones guiadas, formales e informales).
+Generación de Peer review para garantizar calidad de la documentación MAAGTIC SI.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de documentos MAAGTIC SI, de acuerdo a los nuevos requerimientos.
+Herramientas: | PPM, TFS (Team Foundation Server), Soap UI (Nivel Básico), SQL Server, MySQL y UML Designer y Microsoft Office.
+
+Sistemas IMSS: Expediente Clínico Digital (ECE), Archivo Clínico Digital (ACD), Sistema de Registro de Obras en Construcción (SIROC) y SISEC Certificación de Pensiones. | PPM, TFS (Team Foundation Server), Soap UI (Nivel Básico), SQL Server, MySQL y UML Designer y Microsoft Office.
+
+Sistemas IMSS: Expediente Clínico Digital (ECE), Archivo Clínico Digital (ACD), Sistema de Registro de Obras en Construcción (SIROC) y SISEC Certificación de Pensiones. | PPM, TFS (Team Foundation Server), Soap UI (Nivel Básico), SQL Server, MySQL y UML Designer y Microsoft Office.
+
+Sistemas IMSS: Expediente Clínico Digital (ECE), Archivo Clínico Digital (ACD), Sistema de Registro de Obras en Construcción (SIROC) y SISEC Certificación de Pensiones. | PPM, TFS (Team Foundation Server), Soap UI (Nivel Básico), SQL Server, MySQL y UML Designer y Microsoft Office.
+
+Sistemas IMSS: Expediente Clínico Digital (ECE), Archivo Clínico Digital (ACD), Sistema de Registro de Obras en Construcción (SIROC) y SISEC Certificación de Pensiones. | PPM, TFS (Team Foundation Server), Soap UI (Nivel Básico), SQL Server, MySQL y UML Designer y Microsoft Office.
+
+Sistemas IMSS: Expediente Clínico Digital (ECE), Archivo Clínico Digital (ACD), Sistema de Registro de Obras en Construcción (SIROC) y SISEC Certificación de Pensiones.
+Empresa
+AT&T – Softtek | Empresa
+AT&T – Softtek | País
+Ciudad de México | Puesto
+Ingeniero de Pruebas | Fecha de ingreso
+Noviembre 2018 | Fecha de salida
+Junio 2021.
+Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades | Resumen de actividades
+Experiencia Funcional: | Funciones:
+
+Análisis de requerimientos funcionales y/o casos de uso del cliente.
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades y registro de riesgos.
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis y diseño para generación de matrices de prueba.
+Creación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Creación y/o ambientación de datos y revisión de usuarios para la ejecución de pruebas.
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA y UAT.
+Consulta de datos en backend para validar datos de frontend (Base de Datos, API, etc.).
+Generación de reportes de estatus de ejecución diaria de pruebas, así como revisión del mismo con el equipo de pruebas, PMO, Scrum master , desarrollo y negocio.
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo. 
+Generación del manual de usuario, revisión y demostración con usuarios para entendimiento de la funcionalidad.
+Planeación y seguimiento de pruebas PVT (Reuniones con los usuarios, acompañamiento en la ejecución de pruebas, Kick Off, reportes de estatus diarios y seguimiento de defectos).
+Estimar y ejecutar nuevos requerimientos, así como cambios de alcance.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de matriz, escenarios y ejecución de pruebas de nuevos requerimientos.
+Elaboración del documento de lecciones aprendidas y reporte del cierre de pruebas.
+Ejecución y seguimiento de pruebas con metodología cascada, modelo V y ágil. 
+Creación y seguimiento de las tareas del proyecto en las herramientas Jira y Trello
+Creación de criterios de aceptación de acuerdo con las historias de usuario.
+Demostración del funcionamiento de acuerdo con las historias de usuario en el Sprint Review.
+Creación y seguimiento del proyecto dentro de la herramienta CLM (IBM):
+Escenarios de prueba 
+Script de los pasos de pruebas 
+Documentación de evidencia de pruebas 
+Creación, asignación y seguimiento de defectos
+Plan de pruebas
+Cierre de pruebas. | Funciones:
+
+Análisis de requerimientos funcionales y/o casos de uso del cliente.
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades y registro de riesgos.
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis y diseño para generación de matrices de prueba.
+Creación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Creación y/o ambientación de datos y revisión de usuarios para la ejecución de pruebas.
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA y UAT.
+Consulta de datos en backend para validar datos de frontend (Base de Datos, API, etc.).
+Generación de reportes de estatus de ejecución diaria de pruebas, así como revisión del mismo con el equipo de pruebas, PMO, Scrum master , desarrollo y negocio.
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo. 
+Generación del manual de usuario, revisión y demostración con usuarios para entendimiento de la funcionalidad.
+Planeación y seguimiento de pruebas PVT (Reuniones con los usuarios, acompañamiento en la ejecución de pruebas, Kick Off, reportes de estatus diarios y seguimiento de defectos).
+Estimar y ejecutar nuevos requerimientos, así como cambios de alcance.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de matriz, escenarios y ejecución de pruebas de nuevos requerimientos.
+Elaboración del documento de lecciones aprendidas y reporte del cierre de pruebas.
+Ejecución y seguimiento de pruebas con metodología cascada, modelo V y ágil. 
+Creación y seguimiento de las tareas del proyecto en las herramientas Jira y Trello
+Creación de criterios de aceptación de acuerdo con las historias de usuario.
+Demostración del funcionamiento de acuerdo con las historias de usuario en el Sprint Review.
+Creación y seguimiento del proyecto dentro de la herramienta CLM (IBM):
+Escenarios de prueba 
+Script de los pasos de pruebas 
+Documentación de evidencia de pruebas 
+Creación, asignación y seguimiento de defectos
+Plan de pruebas
+Cierre de pruebas. | Funciones:
+
+Análisis de requerimientos funcionales y/o casos de uso del cliente.
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades y registro de riesgos.
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis y diseño para generación de matrices de prueba.
+Creación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Creación y/o ambientación de datos y revisión de usuarios para la ejecución de pruebas.
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA y UAT.
+Consulta de datos en backend para validar datos de frontend (Base de Datos, API, etc.).
+Generación de reportes de estatus de ejecución diaria de pruebas, así como revisión del mismo con el equipo de pruebas, PMO, Scrum master , desarrollo y negocio.
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo. 
+Generación del manual de usuario, revisión y demostración con usuarios para entendimiento de la funcionalidad.
+Planeación y seguimiento de pruebas PVT (Reuniones con los usuarios, acompañamiento en la ejecución de pruebas, Kick Off, reportes de estatus diarios y seguimiento de defectos).
+Estimar y ejecutar nuevos requerimientos, así como cambios de alcance.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de matriz, escenarios y ejecución de pruebas de nuevos requerimientos.
+Elaboración del documento de lecciones aprendidas y reporte del cierre de pruebas.
+Ejecución y seguimiento de pruebas con metodología cascada, modelo V y ágil. 
+Creación y seguimiento de las tareas del proyecto en las herramientas Jira y Trello
+Creación de criterios de aceptación de acuerdo con las historias de usuario.
+Demostración del funcionamiento de acuerdo con las historias de usuario en el Sprint Review.
+Creación y seguimiento del proyecto dentro de la herramienta CLM (IBM):
+Escenarios de prueba 
+Script de los pasos de pruebas 
+Documentación de evidencia de pruebas 
+Creación, asignación y seguimiento de defectos
+Plan de pruebas
+Cierre de pruebas. | Funciones:
+
+Análisis de requerimientos funcionales y/o casos de uso del cliente.
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades y registro de riesgos.
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis y diseño para generación de matrices de prueba.
+Creación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Creación y/o ambientación de datos y revisión de usuarios para la ejecución de pruebas.
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA y UAT.
+Consulta de datos en backend para validar datos de frontend (Base de Datos, API, etc.).
+Generación de reportes de estatus de ejecución diaria de pruebas, así como revisión del mismo con el equipo de pruebas, PMO, Scrum master , desarrollo y negocio.
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo. 
+Generación del manual de usuario, revisión y demostración con usuarios para entendimiento de la funcionalidad.
+Planeación y seguimiento de pruebas PVT (Reuniones con los usuarios, acompañamiento en la ejecución de pruebas, Kick Off, reportes de estatus diarios y seguimiento de defectos).
+Estimar y ejecutar nuevos requerimientos, así como cambios de alcance.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de matriz, escenarios y ejecución de pruebas de nuevos requerimientos.
+Elaboración del documento de lecciones aprendidas y reporte del cierre de pruebas.
+Ejecución y seguimiento de pruebas con metodología cascada, modelo V y ágil. 
+Creación y seguimiento de las tareas del proyecto en las herramientas Jira y Trello
+Creación de criterios de aceptación de acuerdo con las historias de usuario.
+Demostración del funcionamiento de acuerdo con las historias de usuario en el Sprint Review.
+Creación y seguimiento del proyecto dentro de la herramienta CLM (IBM):
+Escenarios de prueba 
+Script de los pasos de pruebas 
+Documentación de evidencia de pruebas 
+Creación, asignación y seguimiento de defectos
+Plan de pruebas
+Cierre de pruebas. | Funciones:
+
+Análisis de requerimientos funcionales y/o casos de uso del cliente.
+Elaboración de pruebas estáticas (Revisiones guiadas, informales e informales).
+Elaboración de reporte de ambigüedades y registro de riesgos.
+Planeación de análisis, diseño, ejecución y estimación de pruebas.
+Análisis y diseño para generación de matrices de prueba.
+Creación de casos de pruebas, aplicando técnicas de diseño de casos de prueba.
+Generación de Peer review para garantizar calidad de entregables (Casos de prueba, matrices, estimación, etc.).
+Creación y/o ambientación de datos y revisión de usuarios para la ejecución de pruebas.
+Ejecución y seguimiento de pruebas dinámicas manuales (Funcionales, componente, integrales, Sistema, Aceptación de usuario, confirmación, exploratorias y regresión) en ambiente QA y UAT.
+Consulta de datos en backend para validar datos de frontend (Base de Datos, API, etc.).
+Generación de reportes de estatus de ejecución diaria de pruebas, así como revisión del mismo con el equipo de pruebas, PMO, Scrum master , desarrollo y negocio.
+Seguimiento y control de defectos con el equipo de análisis y/o desarrollo. 
+Generación del manual de usuario, revisión y demostración con usuarios para entendimiento de la funcionalidad.
+Planeación y seguimiento de pruebas PVT (Reuniones con los usuarios, acompañamiento en la ejecución de pruebas, Kick Off, reportes de estatus diarios y seguimiento de defectos).
+Estimar y ejecutar nuevos requerimientos, así como cambios de alcance.
+Análisis de cambios de alcance, priorización de negocio, así como actualización de matriz, escenarios y ejecución de pruebas de nuevos requerimientos.
+Elaboración del documento de lecciones aprendidas y reporte del cierre de pruebas.
+Ejecución y seguimiento de pruebas con metodología cascada, modelo V y ágil. 
+Creación y seguimiento de las tareas del proyecto en las herramientas Jira y Trello
+Creación de criterios de aceptación de acuerdo con las historias de usuario.
+Demostración del funcionamiento de acuerdo con las historias de usuario en el Sprint Review.
+Creación y seguimiento del proyecto dentro de la herramienta CLM (IBM):
+Escenarios de prueba 
+Script de los pasos de pruebas 
+Documentación de evidencia de pruebas 
+Creación, asignación y seguimiento de defectos
+Plan de pruebas
+Cierre de pruebas.
+Herramientas: | PPM, CLM, Herramientas QA, Soap UI (Nivel Básico), SQL Server, Pricing Studio (Nivel básico), Jira y Trello.
+
+Sistemas AT&T: Payment Box, IVR, ICAS, ASM, ASD, CRM, MAU, Portales de autoservicio, Aplicaciones Móviles. | PPM, CLM, Herramientas QA, Soap UI (Nivel Básico), SQL Server, Pricing Studio (Nivel básico), Jira y Trello.
+
+Sistemas AT&T: Payment Box, IVR, ICAS, ASM, ASD, CRM, MAU, Portales de autoservicio, Aplicaciones Móviles. | PPM, CLM, Herramientas QA, Soap UI (Nivel Básico), SQL Server, Pricing Studio (Nivel básico), Jira y Trello.
+
+Sistemas AT&T: Payment Box, IVR, ICAS, ASM, ASD, CRM, MAU, Portales de autoservicio, Aplicaciones Móviles. | PPM, CLM, Herramientas QA, Soap UI (Nivel Básico), SQL Server, Pricing Studio (Nivel básico), Jira y Trello.
+
+Sistemas AT&T: Payment Box, IVR, ICAS, ASM, ASD, CRM, MAU, Portales de autoservicio, Aplicaciones Móviles. | PPM, CLM, Herramientas QA, Soap UI (Nivel Básico), SQL Server, Pricing Studio (Nivel básico), Jira y Trello.
+
+Sistemas AT&T: Payment Box, IVR, ICAS, ASM, ASD, CRM, MAU, Portales de autoservicio, Aplicaciones Móviles.
+EDUCACIÓN:
+Escuela: Instituto Tecnológico de Tlalnepantla | Lugar | Fechas
+Carrera: Ingeniería en Tecnologías de la información y comunicaciones (ITIC´S) | Tlalnepantla de Baz, Estado de México | 2012-2016
+Cedula profesional:  10540914 | Cedula profesional:  10540914 | Cedula profesional:  10540914
+DESARROLLO PROFESIONAL: (cursos tomados
+Nombre del Curso, Diplomados, Certificaciones: | No. Certificación | Lugar | Fecha:
+ISTQB – Certified Tester, Foundation Level | 20-CTFL-177171-09 | CDMX | 08/08/2020
+SAFe for Teams Course (5.0) | 33788973-7373 | CDMX | 29/01/2021
+Scrum Fundamentals Certified | 904470 | CDMX | 13/03/2022
+ISO/IEC 27001:2013 Foundation – I27001F | CLQBNBYBYV-HQZTZHZS-XSMPSWHYXM | CDMX | 15/11/2022
+IDIOMAS:
+Español nativo, inglés básico
+.
+HABILIDADES TÉCNICAS/ADMINISTRATIVAS:
+Perfil Primario: | Ingeniero de Pruebas
+Perfil Secundario: | Analista de negocio
+Sistemas Operativos: | Windows
+Lenguajes de Programación: | Java (Nivel básico)
+Bases de Datos: | SQL Server y MySQL
+Otros: | Office, CLM, Pricing Studio (Nivel básico), SharePoint, TFS (Team Foundation Server), UML Designer, Trello, Jira, Mantis, Power Bi, Soap, TestLink y Service Now.
