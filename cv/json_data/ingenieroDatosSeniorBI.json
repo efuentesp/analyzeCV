@@ -1,0 +1,125 @@
+[
+  {
+    "nombre": "Jesus Alejandro Flores Roldan",
+    "rol_propuesto": "Ingeniero de Datos Senior BI",
+    "resumen_profesional": "Amplia experiencia en diseño e implementación de procesos ETL y en la construcción de Data Lakes y Data Marts.\nImplementación de pipelines y estrategias para poblar capas RAW, BRONZE, SILVER y GOLD con énfasis en reutilización de código.\nDefinición de estándares, buenas prácticas y uso de control de versiones para garantizar calidad y gobernanza de datos.\nOptimización de cargas y rendimiento de procesos ETL mediante tuning y automatización.\n\nTrabajo con herramientas como Python, PySpark, Databricks, SSIS, SAS Data Integration e IBM DataStage.\nParticipación en modelado de datos con Erwin, construcción de diccionarios y establecimiento de linaje.\nLiderazgo técnico en equipos ágiles para coordinar migraciones, validaciones y proyectos de alto volumen.\nAplicación de IA generativa para pruebas y generación de datos sintéticos para acelerar desarrollo.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Banco Bradesco SA",
+        "puesto": "Sr.Data Engineer",
+        "fecha_inicio": "enero 2026",
+        "fecha_fin": "presente",
+        "actividades_principales": [
+          "Desarrollar el proyecto Sofipo Ictineo DataLake para poblar las capas RAW, BRONZE, SILVER y GOLD.",
+          "Definir la estrategia de construcción de los procesos ETL y estándares de ejecución para pipelines y notebooks.",
+          "Crear procesos reutilizables en Python y PySpark para cargas similares en DataBricks."
+        ]
+      },
+      {
+        "empresa": "Comisión Reguladora de Telecomunicaciones",
+        "puesto": "Senior Technical Lead",
+        "fecha_inicio": "diciembre 2025",
+        "fecha_fin": "presente",
+        "actividades_principales": [
+          "Atender la migración del proceso de Acervo Estadístico de la información de los concesionarios.",
+          "Realizar tuning y optimización de performance de procesos ETL en producción."
+        ]
+      },
+      {
+        "empresa": "Instituto Federal de Telecomunicaciones",
+        "puesto": "Sr. Data Engineer",
+        "fecha_inicio": "septiembre 2024",
+        "fecha_fin": "enero 2025",
+        "actividades_principales": [
+          "Desarrollar e implementar el modelo de gobierno de datos e identificar datos maestros.",
+          "Construir el diccionario de datos y modelado en Erwin para catálogos y datos maestros."
+        ]
+      },
+      {
+        "empresa": "Banco Bradesco SA",
+        "puesto": "Líder TÉCNICO / Modelador BD",
+        "fecha_inicio": "diciembre 2023",
+        "fecha_fin": "julio 2024",
+        "actividades_principales": [
+          "Diseñar y estandarizar el modelo de base de datos del Datamart de Cobranza y Riesgo.",
+          "Definir reglas técnicas y diseñar procesos ETL para cargas hacia el Datamart."
+        ]
+      },
+      {
+        "empresa": "Instituto Federal de Telecomunicaciones",
+        "puesto": "Líder TÉCNICO",
+        "fecha_inicio": "diciembre 2023",
+        "fecha_fin": "mayo 2024",
+        "actividades_principales": [
+          "Coordinar actividades para proyectos de validación de operadores y diseñar procesos ETL asociados."
+        ]
+      },
+      {
+        "empresa": "Nissan",
+        "puesto": "Sr. Data Engineer",
+        "fecha_inicio": "octubre 2023",
+        "fecha_fin": "diciembre 2023",
+        "actividades_principales": [
+          "Construir el modelo y los reportes de control de asistencia utilizando conectividad SFTP, SSIS y SQL Server."
+        ]
+      },
+      {
+        "empresa": "BBVA Bancomer",
+        "puesto": "Sr. Data Engineer",
+        "fecha_inicio": "junio 2023",
+        "fecha_fin": "julio 2023",
+        "actividades_principales": [
+          "Participar en el assessment para la migración de la infraestructura core del área de seguros."
+        ]
+      },
+      {
+        "empresa": "Softtek - Scotiabank",
+        "puesto": "Lider TÉCNICO",
+        "fecha_inicio": "marzo 2018",
+        "fecha_fin": "mayo 2023",
+        "actividades_principales": [
+          "Diseñar y desarrollar componentes ETL de alto impacto con SAS Data Integration y automatizar procesos.",
+          "Proponer documentación de lineamientos, estándares y mejores prácticas para la oficina de datos."
+        ]
+      }
+    ],
+    "ajuste_puesto_liderazgo": {
+      "empresa": "Intellego - Walmart",
+      "puesto": "Desarrollador",
+      "fecha_inicio": "septiembre 2014",
+      "fecha_fin": "febrero 2015",
+      "actividades_principales": [
+        "Desarrollar una prueba de concepto para un nuevo DWH desde los sistemas corporativos de Estados Unidos para conectar México y Centroamérica.",
+        "Instalar IBM DataStage 9.1 en servidores de Walmart México para la segunda fase del DWH.",
+        "Generar documentación con lineamientos, estándares y buenas prácticas de desarrollo.",
+        "Revisar procesos ETL para asegurar el cumplimiento de buenas prácticas y estándares.",
+        "Desarrollar el proyecto de Dimensiones de Retail."
+      ]
+    },
+    "periodo_resumen_laboral": "La experiencia abarca desde octubre de 2010 hasta febrero de 2018",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Desarrollador, Líder Técnico y Líder de Servicio, enfocadas en diseño y desarrollo de procesos ETL, migración de entornos y estandarización de prácticas. Se implementaron pruebas de concepto, estandarización de procesos y formación de equipos, además de soporte y mantenimiento de aplicaciones. Las responsabilidades incluyeron automatización de procesos, documentación de lineamientos y mejora de la calidad operativa para cumplir con los requisitos de los clientes.",
+    "estudios": {
+      "carrera": "Ingenieria en Sistemas Computacionales",
+      "lugar": "UNITEC Universidad Tecnologica de Mexico",
+      "periodo": "septiembre 2005 - agosto 2009"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "Databricks-ApacheSpark_From_Zero_To_Exp",
+        "anio": ""
+      },
+      {
+        "nombre": "CDI_IIC Foundation",
+        "anio": ""
+      },
+      {
+        "nombre": "PowerBIAnalisisDatosBI",
+        "anio": ""
+      },
+      {
+        "nombre": "ITIL Foundation Certificate",
+        "anio": "2016"
+      }
+    ]
+  }
+]

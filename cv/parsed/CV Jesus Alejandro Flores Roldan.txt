@@ -1,0 +1,661 @@
+
+
+--- Página 1 (OCR) ---
+
+2/19/2026 Jesus Alejandro Flores Roldan
+
+Powered by P eightfold.ai
+
+Jesus Alejandro Flores Roldan
+
+Data Management Engineer OnPrem ETL Sr
+Remote
+
+% JESUSA.FLORESGSOFTTEK.COM
+» +525529716882
+
+(O 13 años de experiencia total
+
+E Sr.Data Engineer, Banco Bradesco S A 2026-Present (2 meses)
+Senior Technical Lead, Comisión Reguladora de Telecomunicaciones 2025-Present (3 meses)
+Sr. Data Engineer, Instituto Federal de Telecomunicaciones 2024-2025 (5 meses)
+Líder TÉCNICO / Modelador BD, Banco Bradesco S A 2023-2024 (8 meses)
+Líder TÉCNICO, Instituto Federal de Telecomunicaciones 2023-2024 (6 meses)
+Sr. Data Engineer, Nissan 2023-2023 (3 meses)
+Sr. Data Engineer, BBVA Bancomer 2023-2023 (2 meses)
+Lider TÉCNICO en Softtek, Scotiabank 2018-2023 (5 años)
+Lider Tecnico / Lider de Servicio en Softtek, Servicio de ADMINISTRACIÓN Tributaria 2015-...
+Desarrollador Intellego, Walmart 2014-2015 (6 meses)
+Lider Tecnico en IBM, Servicio de ADMINISTRACIÓN Tributaria 2013-2014 (1 año)
+Desarrollador en Softtek, Softtek Scotiabank Costco BBVA SAT 2010-2013 (3 años)
+
+E - Informatica PowerCenter, IBM DataStage, Teradata DB, SAP Business Objects, Informatica ETL, ETL,
+Microsoft SQL Server Integration Services
+
+Empleado Actual
+
+01
+
+Perfil resumen
+
+Experiencia
+
+
+--- Página 2 (OCR) ---
+
+2/19/2026 Jesus Alejandro Flores Roldan
+
+Sr.Data Engineer
+
+ñ Banco Bradesco SA, Ciudad de México, CDMX, Mexico
+ene 2026 - Present (2 meses)
+
+Desarrollo del proyecto Sofipo Ictineo DataLake con trabajo en células ágiles de Scrum para poblar las capas
+RAW, BRONZE, SILVER y GOLD.
+
+Definición de la estrategia de construcción de los procesos ETL.
+
+Definición de estándares y buenas prácticas para la correcta ejecución de los pipelines y notebooks.
+
+Usé la lA Generativa para obtener datos sintéticos en un ambiente local y así acelerar el desarrollo en un 50% del
+tiempo ya que el cliente no contaba con ambientes propios lo cuál tardó más de 2 meses.
+
+Creación de procesos re-usables en Python y PySpark para cargas de procesos similares en DataBricks.
+Generación de la estrategia para el uso de la IA generando notebooks y con ellos realizar las pruebas unitarias del
+equipo ETL de forma automatizada.
+
+Establecimiento de las directrices de desarrollo con el cliente y también del uso de repositorios de
+versionamiento como Git y GitHub.
+
+Senior Technical Lead
+Comisión Reguladora de Telecomunicaciones , Ciudad de México, CDMX, Mexico
+dic 2025 - Present (3 meses)
+
+Atender la migración del proceso de Acervo Estadístico de la información de los concesionarios registrados en el
+extinto IFT y ahora alineado a la CRT.
+
+Implementar nuevas funcionalidades en el proceso ETL.
+
+Realizar un tunning y performance de los procesos en marcha para garantizar una correcta funcinoalidad.
+Análisis de los procesos anteriores.
+
+Sr. Data Engineer
+© .if Instituto Federal de Telecomunicaciones , Ciudad de México, CDMX, Mexico
+
+sep 2024 - ene 2025 (5 meses)
+
+INSTITUTO FEDERAL DE
+TELECOMUNICACIONES
+
+Desarrollo e implementación del modelo de gobierno de datos del Instituto Federal de Telecomunicaciones.
+Identificación de datos maestros y construcción del diccionario de datos.
+
+Generación del modelo en Erwin con sus relaciones específicas entre catálogos maestros y datos maestros.
+Desarrollo del Meta modelo del Instritufo Federal de Telecomunicaciones.
+
+Identicicación y Análisis de las fuentes de datos para establecer el linaje y sus diagramas.
+
+
+--- Página 3 (OCR) ---
+
+2/19/2026 Jesus Alejandro Flores Roldan
+
+Líder TÉCNICO / Mo delador BD
+
+ñ Banco Bradesco SA
+dic 2023 - jul 2024 (8 meses)
+
+A cargo del diseño y estandarización del modelo de base de datos del Datamart de Cobranza y Riesgo (Tablas de
+Hechos, Sumarizadas, Dimensiones, Catálogos).
+
+Diseño de los procesos ETL para el modelo de Datamart de Cobranza y Riesgo.
+
+Definir y detallar las reglas técnicas del cliente para el cumplimiento de las cargas hacia las tablas del Datamart.
+Coordinar la implementación de las mejores prácticas para el desarrollo de los procesos ETL.
+
+Análisis de ETL den SAS Enterprise Guide para migrar los procesos a Microsoft SQL Server Integration Services.
+
+Líder TÉCNICO
+'i f Instituto Federal De Telecomunicaciones
+dic 2023 - may 2024 (6 meses)
+
+INSTITUTO FEDERAL DE
+TELECOMUNICACIONES
+
+A cargo de coordinar las actividades para los proyectos de validación de operadores y el proceso de cifras
+estadísticas de operadores.
+
+Identificar las áreas de oportunidad del proceso de ingesta de PowerShell de archivos ".csv" hacia tablas de SQL
+Server.
+
+Diseñar los procesos ETL para los proyectos de validación de operadores y el proceso de cifras estadísticas de
+operadores.
+
+Sr. Data Engineer
+Nissan , Aguascalientes, Mexico
+
+Construcción del modelo de los reportes de control de asistencia.
+Desarrollo de reportes de control de asistencia de la planta de NISSAN - COMPAS de Aguascalientes utilizando
+conectividad SFTP, ETL SSIS y un motor de Base de Datos Microsoft SQL Server 2002.
+
+Sr. Data Engineer
+BBVA Bancomer, Ciudad de MÉXICO
+
+=cl aaa jun 2023 - jul 2023 (2 meses)
+
+Participé en el assesment de seguros para la migración de la infraestructura core de México.
+
+
+--- Página 4 (OCR) ---
+
+2/19/2026 Jesus Alejandro Flores Roldan
+
+Lider TÉCNICO en Softtek
+Scotiabank
+
+Diseñar y desarrollar componentes para procesos ETL de alto impacto utilizando la herramienta SAS Data
+Integration 4.905 Tunning y Automatización de procesos nuevos y existentes de la Oficina de Datos.
+
+Proponer la Documentación de Lineamientos, Estándares y Mejores Prácticas para las necesidades de desarrollo
+de la Oficina de Datos.
+
+Dar soporte y mantenimiento alos aplicativos dentro de la Oficina de Datos.
+
+Proponer un documento de Pruebas para alinear las entregas de las pruebas de los equipos de trabajo DAS y
+C360. Implementar procesos con alto performance y eficientes que respondan a las del negocio.
+
+Seguimiento a todos los incidentes que se presenten de cualquiera de los aplicativos de la Oficina de Datos.
+Seguimiento a las sesiones de Arquitectura de todos los requerimientos que sean propuestos a la Oficina de
+Datos por parte de todos los equipos de trabajo además de Softtek.
+
+Obtuve la certificación de los Cursos de “Introduction to Data Analytics” y “Power B1” de la herramienta
+Simplilearn.
+
+Generé un vínculo de confianza con el cliente el cuál sirvió para poder trabajar de una forma fluida.
+
+Se aprobó por parte del cliente la propuesta de los documentos de lineamientos, estándares y buenas prácticas
+para el desarrollo de procesos ETL con la herramienta SAS-D1 4.905.
+
+Se aprobó por parte del cliente la propuesta del documento de pruebas “TestResult”.
+
+Se aprobó la propuesta para optimizar las librerías que apuntaban a SQL-Server.
+
+
+--- Página 5 (OCR) ---
+
+2/19/2026 Jesus Alejandro Flores Roldan
+
+Lider Tecnico / Lider de Servicio en Softtek
+Servicio De ADMINISTRACIÓN Tributaria
+feb 2015 - feb 2018 (3 años, 1 mes)
+
+Diseñar y desarrollar componentes para procesos ETL de alto impacto utilizando las herramientas DataStage
+7.5.2 y DataStage 8.7 Preparar y darle seguimiento a la formación de nuevos talentos surgidos de una academia
+de DataStage para la cuenta del SAT. Liderar equipos de trabajo para dif erentes aplicativos de la Administración
+Central de Seguridad Monitoreo y Control (ACSMC) del Servicio de Administración Tributaria (SAT) Crear de
+estrategias de negociación con los Sub-administradores para evitar rebasar los SLA's en cuanto al proceso de
+AMS. Dar soporte u mantenimiento a los aplicativos dentro de la Administración Central de Seguridad Monitoreo y
+Control (ACSMC) del Servicio de Administración Tributaria (SAT). Generar entregables de calidad que superen las
+expectativas del cliente. Implementar metodologías de desarrollo para generar un performance eficiente en
+respuesta a los requerimientos y necesidades del negocio. Ofrecer un servicio de AMS de calidad con el cliente.
+Liberar paquetes a las herramientas y bajo los procesos que marcan los estándares y lineamientos del SAT y
+CMMI. Gestionar el apoyo con el personal que lidero para que todos sean productivos. Capacitar al personal que
+se encuentra bajo mi liderazgo en la Administración Central de Seguridad Monitoreo y Control (ACSMC) del
+Servicio de Administración Tributaria (SAT). Seguimiento a todos los incidentes que se presenten de cualquiera
+de los aplicativos de la Administración Central de Seguridad Monitoreo y Control (ACSMC) del Servicio de
+Administración Tributaria (SAT). Obtuve la Certificación en ITIL. Generé un vínculo de confianza con el cliente el
+cuál sirvió para poder trabajar de una forma fluida después de la fábrica anterior. Implementación de la
+Reingeniería del Sistema Automático de Devoluciones. Realicé la gestión para desarrollar mantenimientos y
+procesos automatizados para validar los resultados de los aplicativos y disminuir la carga de trabajo en tiempo de
+monitoreo.Uso de bitácoras para llevar el control de las horas de todos los recursos operativos.
+
+Desarrollador Intellego
+
+A l y sep2014-feb 2015 (6 meses)
+
+Funciones:Desarrollar una prueba de concepto para un nuevo DWH desde los sistemas Corporativos de Estados
+Unidos y para conectar a México y Centro América en un sistema de cadena de suministros utilizando la
+herramienta de ETL IBM DataStage 9.1. Instalar la herramienta en los servidores de Wallmart México para realizar
+la segunda fase del DWH. Generar documentación con lineamientos, estándares y buenas prácticas de
+desarrollo ya que el equipo de trabajo no conocía la herramienta. Revisar procesos ETL para que cumplieran las
+buenas prácticas, lineamientos y estándares propuestos. Desarrollar el proyecto de Dimensiones de Retail.
+Logros:Mediante la PoC se demostró que no era eficiente que el DWH quedará en los sistemas Corporativos de
+Estados Unidos de Walmart, lo cual generó que se aceptara la propuesta de Intellego y continuar con la segunda
+fase del desarrollo del DWH. Implementar estándares, lineamientos y buenas prácticas en una consultora y con
+un cliente que no tenía conocimiento de la herramienta. Documentar la PoC en conjunto con Walmart Centro
+América.
+
+
+--- Página 6 (OCR) ---
+
+2/19/2026 Jesus Alejandro Flores Roldan
+
+Lider Tecnico en IBM
+Servicio De ADMINISTRACIÓN Tributaria
+sep 2013 - sep 2014 (1 año, 1 mes)
+
+Funciones:Realizar el análisis para las estimaciones de tiempos de migración y/o construcción de nuevos
+procesos ETL utilizando las métricas de construcción de IBM. Liderar equipos de trabajo para realizar las
+migraciones de procesos ETL de la versión 7.5.2 a 8.7 en DataStage y utilizar las buenas prácticas de IBM para
+procesos ETL de altos volúmenes, además de estandarizar los procesos del área de Declaraciones y Pagos del
+SAT Logros:Entregas On-Time de los procesos migrados, explotar las bondades de MainFrame y DataStage
+realizando un proceso ETL reutilizable el cual ejecuta código JCL de forma automática siguiendo los flujos y
+utilizando los puntos de reinicio de DataStage para los procesos de altos volúmenes y altas prioridades.
+
+Desarrollador en Softtek
+Softtek - Scotiabank - Costco - BBVA - SAT
+
+oct 2010 - sep 2013 (3 años)
+
+Funciones:Diseñé y desarrollé procesos ETL con la herramienta Business Objects para el proyecto de Reportes
+Regulatorios de Scotiabank y comencé a crear una metodología de trabajo para los procesos ETL del banco. Con
+la práctica de Informática Power Center he desarrollado WebServices para procesos de Bancomer. Del lado de
+Qlikview realizo las funciones de desarrollo de Scripts de Extracción y Transf ormación para la creación de
+aplicaciones de alto impacto, detección de defectos, análisis para la construcción de especificaciones de
+procesos y documentación de código, creación de escenarios para Testing, análisis y solución de defectos
+presentados en los reportes. Realizando las funciones Testing (Informix), documentación, desarrollos en
+DataStage, creación de Shell's en UNIX y análisis sobre los Sistemas de Information Management anteriormente
+conocido como Business Intelligence para el SAT, implementando estándares altos de control de calidad como
+CMMI, Niveles de Servicio, Mejora de Procesos. Logros:Se eliminó la intervención de los operadores en los
+procesos de transformación de datos mediante la aplicación de reglas de negocio para dejar procesos operables
+y autosuficientes. Se Disminuyó el tiempo de respuesta en el soporte a producción de los procesos ETL. Se
+ajustaron los procesos ETL que no se encontraban en el estándar indicado por el cliente y se cambiaron los
+diseños de los procesos ETL para que se obtuviera el mayor performance en la aplicación para el proyecto del
+SAT. Automatización de la obtención para los reportes regulatorios del área de finanzas de la entidad bancaria
+para evitar las penalizaciones y estandarizar el proceso de acuerdo con las leyes vigentes por la CNBV para el
+proyecto de SCOTIABANK. Se migró la primera fase que era una réplica de los datos de archivos de MainFrame al
+nuevo modelo analítico utilizando las buenas prácticas de la metodología velocity para el proyecto de COSTCO
+Reducción de incidencias en los ambientes productivos de los diferentes aplicativos del proyecto BBVA
+BANCOMER
+
+Educación
+
+
+--- Página 7 (OCR) ---
+
+2/19/2026 Jesus Alejandro Flores Roldan
+
+Ingenieria en Sistemas Computacionales, Data
+UNITEC Universidad Tecnologica de Mexico
+rI ME SEp2005to ago 2009
+
+Both Degree and Prof essional License
+
+Insignias
+HBeCollaborative - Given by Mariana Alejandra Ramírez Hernández on ...
+BeTrustworthy - Given by Camilo Isaac Alfredo Torres on mayo 07, 2021 at 11:23am
+Habilidades
+
+Data Warehousing » Microsoft SQL Server Integration Services (SSIS) » SAS Data Integration
+
+Microsoft SQLServer — Oracle Database | lics | MicrosoftAzure — Certified Scrum Master
+
+Informatica Power Center » IBMInfoSphere DataStage — SAS Enterprise Guide * Liderazgo — Aix Server
+Apache Subversion (Svn) — Erwin . IBMInformix4GL . Informix ' til — Lotus Notes — Qlikview
+
+SAP Business Objects Data Services »| Scrum | HP-UX - Zlinux — Prueba ' | Informatica Cloud * Finanzas
+Mantenimiento » Informatica PowerCenter  Negociación — SAP Business Objects — IBM DataStage
+Capability Maturity Model Integration | SQL Server Integration Services » IBMAIX  Database Management
+Scripting — Microsoft SQL Server Integration Services — Windows Server | Unix Servers — IBMInformix-4GL
+English - Linux - Analytics * Automatización de Procesos * Base de Datos — Cumplimiento
+
+Telecomunicaciones »  Data Mart » PowerShell
+
+
+--- Página 8 (OCR) ---
+
+2/19/2026
+
+Información Personal
+
+% jesusafloresOsofttek.com(Primary)
+jaf loresr.xe gmail.com
+
+» +525529716882
+
+Jesus Alejandro Flores Roldan
+
+
+--- Página 9 (OCR) ---
+
+Softtek
+
+PROFILE
+
+Jesus Alejandro Flores Roldan
+
+Egresado de la Universidad Tecnológica de México con 11 años de experiencia realizando el diseño y desarrollo de procesos de ETL con las
+siguientes herramientas: DataStage, Informatica Power Center, Data Integrator, Qlikview, SAS Data Integration, SSIS e Informatica Cloud
+(NCS). Utilizo las metodologías Velocity (Informatica) y SCRUM haciendo uso de las mejores prácticas de desarrollo emitidas por cada uno de
+los propietarios herramientas que manejo.
+
+PROFESSIONAL EXPERIENCE
+
+Softtek - IFT Ciudad de México - Líder Técnico From: Dec, 2023 To: Date
+Description:
+
+A cargo de coordinar las actividades para los proyectos de validación de operadores y el proceso de cifras estadísticas de operadores.
+
+Tools/Skills:
+
+Softtek - Scotiabank Ciudad de Mexico - Lider Tecnico From: Mar, 2018 To: May, 2023
+Description:
+
+Funciones:
+
+« Diseñar y desarrollar componentes para procesos ETL de alto impacto utilizando la herramienta SAS Data Integration 4.905
+
+* Tunning y Automatización de procesos nuevos y existentes de la Oficina de Datos.
+
+« Proponer la Documentación de Lineamientos, Estándares y Mejores Prácticas para las necesidades de desarrollo de la Oficina de
+Datos.
+
+Dar soporte y mantenimiento a los aplicativos dentro de la Oficina de Datos.
+
+Proponer un documento de Pruebas para alinear las entregas de las pruebas de los equipos de trabajo DAS y C360.
+
+Implementar procesos con alto performance y eficientes que respondan a las del negocio.
+
+Seguimiento a todos los incidentes que se presenten de cualquiera de los aplicativos de la Oficina de Datos.
+
+Seguimiento a las sesiones de Arquitectura de todos los requerimientos que sean propuestos a la Oficina de Datos por parte de todos
+los equipos de trabajo además de Softtek.
+
+Logros:
+- Obtuve la certificación de los Cursos de “Introduction to Data Analytics” y “Power BI” de la herramienta Simplilearn.
+
+Generé un vínculo de confianza con el cliente el cuál sirvió para poder trabajar de una forma fluida.
+- Se aprobó por parte del cliente la propuesta de los documentos de lineamientos, estándares y buenas prácticas para el desarrollo de
+procesos ETL con la herramienta SAS-DI 4.905.
+
+Se aprobó por parte del cliente la propuesta del documento de pruebas “TestResult”
+
+Se aprobó la propuesta para optimizar las librerías que apuntaban a SQL-Server.
+
+Tools/Skills:
+
+SAS Data Integration, SAS Enterprise Guide, Windows Servers, Microsoft SQL Server, Erwin, Microsoft SQL Server Integration Services
+(SSIS)
+
+Softtek - SAT Ciudad de Mexico - Lider Tecnico / Lider From: Feb, 2015 To: Feb, 2018
+de Servicio
+
+Description:
+
+Funciones:
+
+e Diseñar y desarrollar componentes para procesos ETL de alto impacto utilizando las herramientas DataStage 7.5.2 y DataStage 8.7
+
+« Preparar y darle seguimiento a la formación de nuevos talentos surgidos de una academia de DataStage para la cuenta del SAT.
+
+« Liderar equipos de trabajo para diferentes aplicativos de la Administración Central de Seguridad Monitoreo y Control (ACSMC) del
+Servicio de Administración Tributaria (SAT)
+
+« Crear de estrategias de negociación con los Sub-administradores para evitar rebasar los SLA's en cuanto al proceso de AMS.
+
+« Dar soporte u mantenimiento a los aplicativos dentro de la Administración Central de Seguridad Monitoreo y Control (ACSMC) del
+Servicio de Administración Tributaria (SAT).
+
+* Generar entregables de calidad que superen las expectativas del cliente.
+
+« Implementar metodologías de desarrollo para generar un performance eficiente en respuesta a los requerimientos y necesidades del
+negocio.
+
+
+--- Página 10 (OCR) ---
+
+Ofrecer un servicio de AMS de calidad con el cliente.
+
+Liberar paquetes a las herramientas y bajo los procesos que marcan los estándares y lineamientos del SAT y CMMI.
+
+Gestionar el apoyo con el personal que lidero para que todos sean productivos.
+
+Capacitar al personal que se encuentra bajo mi liderazgo en la Administración Central de Seguridad Monitoreo y Control (ACSMC) del
+Servicio de Administración Tributaria (SAT).
+
+« Seguimiento a todos los incidentes que se presenten de cualquiera de los aplicativos de la Administración Central de Seguridad
+Monitoreo y Control (ACSMC) del Servicio de Administración Tributaria (SAT).
+
+Logros:
+- Obtuve la Certificación en ITIL
+Generé un vínculo de confianza con el cliente el cuál sirvió para poder trabajar de una forma fluida después de la fábrica anterior.
+Implementación de la Reingeniería del Sistema Automático de Devoluciones.
+Realicé la gestión para desarrollar mantenimientos y procesos automatizados para validar los resultados de los aplicativos y disminuir la
+carga de trabajo en tiempo de monitoreo.
+Uso de bitácoras para llevar el control de las horas de todos los recursos operativos.
+
+Tools/Skills:
+
+IBM InfoSphere Datastage, HP-UX, ZLinux, IBM Informix 4GL, Informix, Oracle Database, Microsoft SQL Server, DB2, Apache SubVersion
+(SVN), Unix Server, Linux Server, Scrum Master , Scrum, ITIL , Erwin
+
+Intellego - Walmart Ciudad de Mexico - Desarrollador From: Sep, 2014 To: Feb, 2015
+Description:
+
+Funciones:
+
+e Desarrollar una prueba de concepto para un nuevo DWH desde los sistemas Corporativos de Estados Unidos y para conectar a
+México y Centro América en un sistema de cadena de suministros utilizando la herramienta de ETL IBM DataStage 9.1.
+
+* _ Instalar la herramienta en los servidores de Wallmart México para realizar la segunda fase del DWH.
+
+* Generar documentación con lineamientos, estándares y buenas prácticas de desarrollo ya que el equipo de trabajo no conocía la
+herramienta.
+
+e Revisar procesos ETL para que cumplieran las buenas prácticas, lineamientos y estándares propuestos.
+
+e Desarrollar el proyecto de Dimensiones de Retail.
+
+* Mediante la PoC se demostró que no era eficiente que el DWH quedará en los sistemas Corporativos de Estados Unidos de Walmart,
+lo cual generó que se aceptara la propuesta de Intellego y continuar con la segunda fase del desarrollo del DWH.
+
+« Implementar estándares, lineamientos y buenas prácticas en una consultora y con un cliente que no tenía conocimiento de la
+herramienta.
+
+* Documentar la PoC en conjunto con Walmart Centro América.
+
+Tools/Skills:
+
+IBM InfoSphere Datastage, Informix, Oracle Database, Teradata
+
+IBM GBS - SAT Ciudad de Mexico - Lider Tecnico From: Sep, 2013 To: Sep, 2014
+Description:
+
+Funciones:
+
+e Realizar el análisis para las estimaciones de tiempos de migración y/o construcción de nuevos procesos ETL utilizando las métricas de
+construcción de IBM.
+
+e Liderar equipos de trabajo para realizar las migraciones de procesos ETL de la versión 7.5.2 a 8.7 en DataStage y utilizar las buenas
+prácticas de IBM para procesos ETL de altos volúmenes, además de estandarizar los procesos del área de Declaraciones y Pagos del
+SAT
+
+Logros:
+
+e Entregas On-Time de los procesos migrados, explotar las bondades de MainFrame y DataStage realizando un proceso ETL
+reutilizable el cual ejecuta código JCL de forma automática siguiendo los flujos y utilizando los puntos de reinicio de DataStage para los
+procesos de altos volúmenes y altas prioridades.
+
+Tools/Skills:
+IBM InfoSphere Datastage, Linux OS, Informix, Oracie Database, Microsoft SQL Server, DB2, Lotus Notes, Erwin
+
+Softtek - Scotiabank - Costco - BBVA - Ciudad de Mexico - Desarrollador From: Oct, 2010 To: Sep, 2013
+SAT
+
+
+--- Página 11 (OCR) ---
+
+Description:
+
+Funciones:
+
+Logros:
+
+Diseñé y desarrollé procesos ETL con la herramienta Business Objects para el proyecto de Reportes Regulatorios de Scotiabank y
+comencé a crear una metodología de trabajo para los procesos ETL del banco.
+
+Con la práctica de Informática Power Center he desarrollado WebServices para procesos de Bancomer.
+
+Del lado de Qlikview realizo las funciones de desarrollo de Scripts de Extracción y Transformación para la creación de aplicaciones de
+alto impacto, detección de defectos, análisis para la construcción de especificaciones de procesos y documentación de código, creación
+de escenarios para Testing, análisis y solución de defectos presentados en los reportes.
+
+Realizando las funciones Testing (Informix), documentación, desarrollos en DataStage, creación de Shell's en UNIX y análisis sobre los
+Sistemas de Information Management anteriormente conocido como Business Intelligence para el SAT, implementando estándares
+altos de control de calidad como CMMI, Niveles de Servicio, Mejora de Procesos.
+
+Se eliminó la intervención de los operadores en los procesos de transformación de datos mediante la aplicación de reglas de negocio
+para dejar procesos operables y autosuficientes. Se Disminuyó el tiempo de respuesta en el soporte a producción de los procesos
+ETL. Se ajustaron los procesos ETL que no se encontraban en el estándar indicado por el cliente y se cambiaron los diseños de los
+procesos ETL para que se obtuviera el mayor performance en la aplicación para el proyecto del SAT.
+
+Automatización de la obtención para los reportes regulatorios del área de finanzas de la entidad bancaria para evitar las penalizaciones
+y estandarizar el proceso de acuerdo con las leyes vigentes por la CNBV para el proyecto de SCOTIABANK.
+
+Se migró la primera fase que era una réplica de los datos de archivos de MainFrame al nuevo modelo analítico utilizando las buenas
+prácticas de la metodología velocity para el proyecto de COSTCO
+
+Reducción de incidencias en los ambientes productivos de los diferentes aplicativos del proyecto BBVA BANCOMER
+
+Tools/Skills:
+
+SAS Data Integration, IBM InfoSphere Datastage, QlikView, SAP Business Objects Data Services, SAP Business Objects Data Integrator,
+Informatica Power Center, Informix, Unix OS, AIX Server, DB2, Oracle Database, Microsoft SQL Server, Erwin
+
+EDUCATION
+
+Universidad Tecnologica de Mexico Ecatepec, Estado de Mexico From: Sep, 2005 To: Aug, 2009
+
+Ingenieria en Sistemas
+Computacionales
+
+PROFESSIONAL DEVELOPMENT
+
+Certification: MDM_Saas Informatica Mar, 2023
+Certification: lICS Cloud Data Integration Services R41 Informatica Mar, 2023
+Course: 70-461 Session 6: Querying Microsoft SQL Udemy Jan, 2023
+Course: 70-461 Session 6: Querying Microsoft SQL Udemy Jan, 2023
+Course: 70-461 Session 5: Querying Microsoft SQL Udemy Dec, 2022
+Certification: Microsoft SQL Server Integration Services Udemy Dec, 2022
+Certification: CDI for PowerCenter Developers Foundation Informatica Nov, 2022
+Certification: Informatica PowerCenter Dev. Foundation Cert. Informatica Nov, 2022
+Certification: Scrum Fundamentals Certified SCRUMStudy Apr, 2022
+Certification: Power BI Simpli Learn Jun, 2021
+Course: Introduction to Data Analytics Simpli Learn May, 2021
+Certification: Certified SCRUM Master SCRUM Alliance May, 2017
+Certification: ITIL Foundations AXELOS Jan, 2016
+Course: SAP Data Integrator Softtek Jul, 2013
+
+Certification: Cisco CCNA 4 UNITEC May, 2008
+
+
+--- Página 12 (OCR) ---
+
+Certification: Cisco CCNA 3
+Certification: Cisco CCNA 2
+Certification: Cisco CNNA 1
+
+LANGUAGES
+
+English
+
+TECHNICAL/MANAGERIAL SKILLS
+
+ZLinux
+
+Windows Servers
+
+Unix Server
+
+Unix OS
+
+Teradata
+
+Scrum Master
+
+Scrum
+
+SAS Enterprise Guide
+
+SAS Data Integration
+
+SAP Business Objects Data Services
+SAP Business Objects Data Integrator
+QlikView
+
+Oracle Database
+
+Microsoft SQL Server Integration Services (SSIS)
+Microsoft SQL Server
+
+Lotus Notes
+
+Linux Server
+
+Linux OS
+
+ITIL
+
+Informix
+
+Informatica Power Center
+
+lICS
+
+IBM InfoSphere Datastage
+
+IBM Informix 4GL
+
+HP-UX
+
+Erwin
+
+DB2
+
+Apache SubVersion (SVN)
+
+AIX Server
+
+UNITEC Jan, 2008
+
+UNITEC Sep, 2007
+
+UNITEC May, 2006
+Self Evaluated Upper Intermediate 51-79%
+
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+
+Junior (1-2 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+
+Junior (1-2 YoE)
+Proficient (2-4 YoE)
+
+Senior (4-6 YoE)
+
+Senior (4-6 YoE)
+
+Junior (1-2 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+
+Senior (4-6 YoE)
+
+Senior (4-6 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)

@@ -1,12 +1,12 @@
 ---
-name: cv-ingeniero-datos-senior-BI
-description: Analiza CVs de Ingeniero de Datos Senior (BI) y devuelve únicamente un JSON estructurado. No inferir ni agregar información no explícita.
+name: cv-desarrollador-senior
+description: Analiza CVs y devuelve únicamente un JSON estructurado para un puesto de Desarrollador Senior. No inferir ni agregar información no explícita.
 metadata:
   author: raquelizue
   version: "1.0.0"
 ---
 
-# SAT CV Extractor - Ingeniero de Datos Senior (BI)
+# SAT CV Extractor — Desarrollador Senior
 
 Analizar todo el CV y devolver únicamente un JSON válido con la estructura definida.  
 No agregar texto fuera del JSON.  
@@ -30,25 +30,6 @@ No comentar.
 
 ---
 
-## Formato de fechas laborales
-
-Los campos `fecha_inicio` y `fecha_fin` deben expresarse como:
-
-**{mes en texto completo} {año}**
-
-Si el mes aparece abreviado en el CV, expandirlo:
-
-ene→enero, feb→febrero, mar→marzo, abr→abril, may→mayo, jun→junio, jul→julio, ago→agosto, sep→septiembre, oct→octubre, nov→noviembre, dic→diciembre.
-
-Ejemplo:
-ene 2025 → enero 2025
-
-Si no se especifica mes, dejar solo el año.
-
-No inferir meses ni modificar el año.
-
----
-
 # FASE 1 — GENERACIÓN DEL RESUMEN PROFESIONAL
 
 El campo **resumen_profesional** debe generarse bajo las siguientes reglas obligatorias:
@@ -67,19 +48,15 @@ El campo **resumen_profesional** debe generarse bajo las siguientes reglas oblig
 
 ## Reglas de alineación con el rol
 
-El resumen debe reflejar experiencia en:
-
-- Diseño e implementación de procesos ETL/ELT.
-- Construcción y mantenimiento de estructuras de almacenamiento de datos.
-- Procesamiento de grandes volúmenes de información.
-- Optimización de cargas y consultas.
-- Uso de bases de datos y herramientas de integración de datos.
-- Participación en soluciones de Inteligencia de Negocio.
+- El resumen debe estar alineado con la función de referencia definida para el rol.
+- No debe copiar literalmente la función de referencia.
+- No debe parafrasear de forma directa cada actividad descrita en la función.
+- Debe integrar de manera estratégica las capacidades clave asociadas al rol: diseño y desarrollo de software, arquitectura, diseño de APIs, optimización de rendimiento, prácticas de calidad (tests, CI/CD), y liderazgo técnico cuando aplique.
 - Debe dar a entender el cumplimiento integral de la función, sin replicar su redacción original ni convertirla en lista operativa.
 
 ## Reglas de estructura obligatorias
 
-- Debe tener una extensión total de dos parrafos con 4 renglones cada uno con un máximo de 140 palabras en total.
+- Debe tener una extensión total de dos párrafos con 4 renglones cada uno.
 - Debe estar redactado en prosa continua.
 - Cada párrafo debe ser un bloque narrativo fluido.
 - No debe redactarse como lista de funciones o actividades.
@@ -89,7 +66,6 @@ El resumen debe reflejar experiencia en:
 - No debe repetir la misma estructura gramatical en oraciones consecutivas.
 - Las responsabilidades deben integrarse dentro de una narrativa ejecutiva, no en formato descriptivo operativo.
 - Debe leerse como una introducción ejecutiva del perfil profesional, no como detalle técnico de tareas.
-- Si el contenido puede dividirse fácilmente en actividades independientes sin perder sentido, debe reescribirse en formato narrativo.
 
 ## Criterios de claridad
 
@@ -99,37 +75,26 @@ El resumen debe reflejar experiencia en:
 
 ---
 
-# FASE 2 — FILTRADO (SOLO SI rol_propuesto = "Ingeniero de Datos Senior BI")
+# FASE 2 — FILTRADO (SOLO SI rol_propuesto = "Desarrollador Senior")
 
 ## Criterio de relevancia
 
-Una experiencia es válida solo si contiene evidencia explícita de:
+Una experiencia es válida solo si contiene evidencia explícita de al menos una de las siguientes categorías:
 
-- Diseño o construcción de infraestructuras de datos
-- Desarrollo o mantenimiento de pipelines de datos
-- Implementación de procesos ETL o ELT
-- Procesamiento de grandes volúmenes de datos
-- Modelado de estructuras de almacenamiento de datos (Data Warehouse, Data Lake u otros repositorios)
-- Optimización de cargas, procesamiento o consultas de datos
-- Integración de múltiples fuentes de información
-- Automatización de flujos de datos
-- Manejo de bases de datos relacionales o no relacionales orientadas a analítica
-- Uso de herramientas o lenguajes asociados al procesamiento de datos
-- Implementación de soluciones escalables de datos
-- Versionamiento de código (Git)
-- Participación en proyectos de ingeniería de datos
-- Coordinación técnica o liderazgo en iniciativas de datos
+- Diseño o desarrollo de soluciones de software.
+- Desarrollo en uno o más lenguajes de programación.
+- Diseño o modelado de datos cuando aplique.
+- Manejo de bases de datos relacionales o no relacionales.
+- Desarrollo, mantenimiento u operación de pipelines o procesos automatizados (ETL, ingestion, CI/CD).
+- Optimización de rendimiento o escalabilidad.
+- Uso de metodologías de desarrollo ágiles o estructuradas.
+- Versionamiento de código (Git) y prácticas de revisión (code review).
+- Participación en diseño arquitectónico o decisiones técnicas.
+- Coordinación o mentoring de otros desarrolladores.
 
 Si no hay evidencia explícita → OMITIR.
 
-No reinterpretar:
-
-- Soporte técnico  
-- Testing  
-- Reportería básica  
-- Administración de sistemas  
-
-como Ingeniería de Datos.
+No reinterpretar soporte técnico, testing sin evidencia de desarrollo, o funciones administrativas como desarrollo senior.
 
 ---
 
@@ -148,7 +113,9 @@ Si no hay experiencia relevante:
 "experiencia_laboral": []
 ```
 
-# FASE 2.1 — RESUMEN CONSOLIDADO DE EXPERIENCIA NO SELECCIONADA
+---
+
+## FASE 2.1 — RESUMEN CONSOLIDADO DE EXPERIENCIA NO SELECCIONADA
 
 ## Regla general
 
@@ -232,65 +199,10 @@ Si no existen experiencias fuera de `experiencia_laboral`:
 "periodo_resumen_laboral": "",
 "resumen_laboral": ""
 ```
-# FASE 2.2 — AJUSTE POR PUESTO DE NIVEL SUPERIOR
-
-## Regla condicional
-
-Si dentro de `experiencia_laboral` (resultado de FASE 2) la experiencia más reciente tiene un puesto que denote nivel superior, tales como:
-
-  - Arquitecto de Datos  
-  - Líder de Ingeniería de Datos  
-  - Data Engineering Lead  
-  - Gerente de Datos  
-  - Coordinador de Datos  
-  - Jefe de Ingeniería de Datos  
-  - Tech Lead  
-  - Head of Data  
-  - O cualquier puesto que implique liderazgo o la nomenclatura Sr, SR o Senior.
-
-Entonces debe ejecutarse la siguiente validación adicional.
 
 ---
 
-## Validación adicional
-
-1. Revisar las experiencias excluidas.  
-2. Buscar la experiencia más cercana a la actualidad cuyo puesto sea de nivel operativo, tales como:
-   - Ingeniero de Datos  
-   - Data Engineer  
-   - ETL Developer  
-   - Data Integration Engineer  
-   - BI Data Engineer
-   - Desarrollador de Datos  
-   - O cualquier puesto que no implique liderazgo o que no tenga la nomenclatura Sr, SR o Senior.
-
-3. Si existe:
-   - No modificar `experiencia_laboral`.
-   - No alterar la regla de 5 años.
-   - No alterar FASE 3.
-   - Generar una nueva sección llamada `ajuste_puesto_liderazgo`.
-   - Copiar:
-     - empresa
-     - puesto
-     - fecha_inicio
-     - fecha_fin
-   - Generar exactamente 5 actividades en `actividades_principales`.
-   - Aplicar reglas de redacción de FASE 3.
-   - No generar más ni menos de 5 actividades.
-   - Estas actividades no forman parte del conteo global de FASE 3.
-
-4. Si no existe experiencia operativa:
-
-```json
-"ajuste_puesto_liderazgo": {
-  "empresa": "",
-  "puesto": "",
-  "fecha_inicio": "",
-  "fecha_fin": "",
-  "actividades_principales": []
-}
-```
-# FASE 3 — ACTIVIDADES
+## FASE 3 — ACTIVIDADES
 
 Aplicar únicamente sobre las experiencias seleccionadas en FASE 2.
 
@@ -302,7 +214,7 @@ Aplicar únicamente sobre las experiencias seleccionadas en FASE 2.
 - No usar primera persona.  
 - No inventar ni ampliar información.  
 - No dividir ni combinar actividades.  
-- No reinterpretar funciones ambiguas como ingeniería de datos.  
+- No reinterpretar funciones ambiguas como desarrollo senior.
 
 ---
 
@@ -313,9 +225,9 @@ Aplicar únicamente sobre las experiencias seleccionadas en FASE 2.
 - Máximo 10 actividades.  
 - No hay mínimo por puesto.  
 - Si hay más de 10 → priorizar:
-  1. Más relacionadas con ingeniería de datos y pipelines.  
-  2. Más técnicas.  
-  3. Más recientes.  
+  1. Más relacionadas con desarrollo de software.
+  2. Más técnicas.
+  3. Más recientes.
 
 ### Global obligatorio
 
@@ -392,15 +304,17 @@ Total de actividades (todas las experiencias):
   ]
 }
 ```
-<!-- 
+
+---
+
 # FASE 5 — SALIDA A ARCHIVO (ESCRITURA / REEMPLAZO)
 
 Esta skill, además de devolver únicamente el JSON especificado en la FASE de salida, debe garantizar que el objeto resultante se persista en el archivo del proyecto
-`cv/json_data/desarrolladorSeniorBI.json` siguiendo las reglas estrictas que se describen a continuación.
+`cv/json_data/desarrolladorSenior.json` siguiendo las reglas estrictas que se describen a continuación.
 
 Reglas obligatorias para la escritura:
 
-- Ruta de destino (workspace‑relative): `cv/json_data/desarrolladorSeniorBI.json`.
+- Ruta de destino (workspace‑relative): `cv/json_data/desarrolladorSenior.json`.
 - El archivo contiene un arreglo JSON (lista) de objetos; si el archivo no existe, crear el archivo con un arreglo que contenga solamente el objeto resultante.
 - Identificador único para coincidencia: el campo `nombre` del objeto generado (comparación exacta, sensible a mayúsculas/minúsculas).
 - Si en el arreglo existe un objeto con el mismo `nombre` → reemplazar ese objeto completo por el JSON generado.
@@ -411,11 +325,11 @@ Reglas obligatorias para la escritura:
 Comportamiento esperado de la skill al ejecutar la salida:
 
 1. Generar y devolver únicamente el JSON del CV según las fases y reglas anteriores.
-2. Paralelamente (o inmediatamente después), abrir `cv/json_data/desarrolladorSeniorBI.json` y aplicar la regla de reemplazo/append descrita.
+2. Paralelamente (o inmediatamente después), abrir `cv/json_data/desarrolladorSenior.json` y aplicar la regla de reemplazo/append descrita.
 3. Escribir el archivo resultante como un arreglo JSON con formato legible (indentación de 2 espacios).
 
 Notas operacionales:
 
 - No inferir ni modificar campos del JSON generado para hacer match; usar exactamente el valor de `nombre` presente en la salida.
 - Si el skill no tiene permisos de escritura o ocurre un error IO, la skill debe *no* devolver ningún texto adicional aparte del JSON; en su lugar debe fallar silenciosamente (registrar el error en logs internos) — las políticas de este skill no permiten salida libre de texto para reportar errores.
-- Esta sección es parte integral del contrato del skill: cualquier invocador puede asumir que, tras ejecutar correctamente la skill, el registro del `nombre` suministrado estará presente en `cv/json_data/desarrolladorSeniorBI.json` (creado o actualizado). -->
+- Esta sección es parte integral del contrato del skill: cualquier invocador puede asumir que, tras ejecutar correctamente la skill, el registro del `nombre` suministrado estará presente en `cv/json_data/desarrolladorSenior.json` (creado o actualizado).

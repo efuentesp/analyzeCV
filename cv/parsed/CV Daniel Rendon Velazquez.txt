@@ -1,0 +1,458 @@
+
+
+--- Página 1 (OCR) ---
+
+2/19/2026 Daniel Rendon Velazquez
+
+e)
+==)
+
+Ze
+
+Powered by P eightfold.ai
+
+Daniel Rendon Velazquez
+
+Data Management Engineer OnPrem ETL Pr
+Mexico
+
+% daniel.rendonv(Osofttek.com
+
+12 años de experiencia total
+
+Software Engineer, Softt ek 2023-Present (2 años)
+
+Data Management Engineer OnPremETL PR, Softtek 2023-Current (2 años)
+Oracle Developer, General Electric 2024-2024 (10 meses)
+
+Process Developer for Informatica Data Quality, Citibanamex 2023-2024 (4 meses)
+Software Engineer - Proficient, Softtek Citi Client 2023-2024 (3 meses)
+Software Engineer - Senior, Grupo Salinas 2019-2023 (4 años)
+
+Lider de Proyecto, Grupo Salinas 2019-2023 (4 años)
+
+Software Engineer - Senior, Praxis 2018-2019 (1 año)
+
+ABAP Developer, Praxis Scribe 2018-2019 (1 año)
+
+Software Engineer - Senior, Edilar 2013-2018 (5 años)
+
+Oracle Developer, Edilar 2013-2018 (5 años)
+
+Planning and Organization, Customer Service Management, Reporting, Implementation, Oracle PL/SQL,
+Automation, Maintenance Development
+
+30
+
+Empleado Actual
+
+Resumen
+
+Incorporarme y consolidarme como prof esionista a una organización que me permita aportar mi experiencia y
+conocimientos; mediante mi esfuerzo y constancia obtenida en trabajos previos, así como continuar con el
+desarrollo de mis ámbitos prof esionales.
+
+Perfil
+
+resumen
+
+Experiencia
+
+
+--- Página 2 (OCR) ---
+
+2/19/2026 Daniel Rendon Velazquez
+
+Software Engineer
+Softtek
+
+nov 2023 - Present (2 años, 4 meses)
+
+Softtek CDMX, Mexico Software Engineer Nov. 2023 Present
+
+Data Management Engineer OnPrem ETL PR
+
+nov 2023 - Current (2 años, 4 meses)
+
+Web Applications Java jQuery Web Services XML JavaScript AJAX
+
+JSP SQL
+
+Softtek CDMX, Mexico Software Engineer Nov. 2023 Present
+
+Oracle Develo per
+General Electric
+
+mar 2024 - dic 2024 (10 meses)
+
+v Reports
+
+General Electric Vernova - Oracle Developer
+Tools:
+
+Forms 12c
+
+Reports 12c
+
+[] Process Analysis
+
+MySQL
+
+
+--- Página 3 (OCR) ---
+
+2/19/2026 Daniel Rendon Velazquez
+
+Process Developer for Informatica Data Quality
+Citibanamex
+
+Citibanamex - Process Developer for Informatica Data Quality.
+
+Tools:
+
+Informatica Developer 10.5.4
+
+Oracle SQL PLSQL
+
+[] Data Quality Process Analysis for Data Migrations from S16 Systemto MDM Processes
+[] Creation of IDQ Maps
+
+[] Direct understandings with the client for the creation of requirements
+
+[] Progress monitoring with AGILE methodologies
+
+Functional Experience: Documentation, executive project presentations, business rules analysis
+Tools: Informatica Data Quality, SQL, PL/SQL, Forms 12c. Reports 12c
+
+Company City Role From: To
+
+Software Engineer - Proficient
+Softtek - Citi Client
+nov 2023 - ene 2024 (3 meses)
+
+Desarrollo de procesos para Informatica data Quality;Uso de herramientas:Informatica DeveloperOracle SQL
+PLSQL
+
+Software Engineer - Senior
+
+Grupo Salinas
+e, Y---- po2alnas
+
+GRUPOSAU% oct 2019 - nov 2023 (4 años, 2 meses)
+
+Líder de Proyecto, encargado del área de Informatica Powercenter dando servicio al despacho de Audiutoria para
+Grupo SalinasExperiencia en: Informatica PowerCenter: desarrollo y administrativoSQL, PLSQL, DB2, MS SQL
+SERVER, Shell Script Python Gestión, desarrollo e implementación de proyectos para automatización de
+procesosImplementación de estándares para mejores practicas
+
+
+--- Página 4 (OCR) ---
+
+2/19/2026 Daniel Rendon Velazquez
+
+Lider de Proyecto
+
+e Grupo Salinas
+e ypO >a1nas
+axupo5AUí¡.í oct 2019 - nov 2023 (4 años, 2 meses)
+
+Grupo Salinas CDMX, México Lider de Proyecto OCT. 2019 Nov. 2023
+
+Project Leader in charge of the Informatica PowerCenter area, providing service to the Audit office for Grupo
+Salinas
+
+Responsibilities:
+
+[] Lead projects, on information extraction area, for process automation, executive data analysis and
+interpretation
+
+of business rules.
+
+[] Informatica Power Center Administration for developer and production environment
+
+[] Development of ETL flows for analysis, monitoring, and creation of Alerts.
+
+J PC Console Management for Operational Support
+
+[] Development and implementation of best practices in IPC management
+
+[] Continuous collaboration with multiple teams
+
+[] Support and attention on productive processes
+
+Functional Experience: Management, development, and implementation for new and exist processes, analysis of
+business rules, estimation of resources for project development, management with agile
+
+methodologies
+
+Tools: Informatica PowerCenter 10.5.2, Powershell, AS/400 DB, SQL Developer, PL/SQL, Python,
+
+MS SQL, Power BI
+
+Company City Role From: To
+
+Software Engineer - Senior
+. e PRAXIS
+
+Desarrollo ABAP para implementación de funcionalidad WM para MMgeneración de smartformsajuste de
+desarrollos para adaptación de procesos SAP a operabilidad de línea de producciónLevantamiento, desarrollo e
+implementación de requerimientosSeguimiento bajo metodología Agile
+
+
+--- Página 5 (OCR) ---
+
+2/19/2026 Daniel Rendon Velazquez
+
+ABAP Develo per
+Praxis - Scribe
+oct 2018 - oct 2019 (1 año, 1 mes)
+
+Praxis - Scribe CDMX, Mexico ABAP Developer Oct.2018 Oct.2019
+
+ABAP Developer in the implementation of the WM module in Scribe
+
+Responsibilities:
+
+[] Generation of Smartforms for the control and management of UDM
+
+[] Generation of Z-programs to complement the production line operation.
+
+[] Configuration and maintenance of handheld devices for operating the module WM
+Functional Experience: Documentation, Agile Methodology
+
+Tools: Scrum, ABAP
+
+Company City Role From: To
+
+Software Engineer - Senior
+Edilar
+oct 2013 - sep 2018 (5 años)
+
+Desarrollo y mantenimiento de módulos para ERP In-House basado en Oracle Generacion de Reportes ejecutivos
+para anails de ventasAdministración y mantenimiento dedicado: Cobranza, Gestoría, Contabilidad, Atención a
+Clientes, AlmacénGestión, desarrollo y mantenimiento de CRM para atención de aspirantes a Universidad en línea
+IESPE
+
+Oracle Develo per
+
+E Edilar
+
+oct 2013 - sep 2018 (5 años)
+
+Edilar CDMX, México Oracle Developer Oct.2013 Sep.2018
+
+Responsibilities:
+
+[] Support, maintenance, development, and implementation of in-house ERP modules based on Oracle Forms
+[] Control of dedicated ERP areas such as Accounting, Customer Service, Management, Collection.
+
+[] Generation of Web modules to complement the functionality of Forms
+
+[] Requirements Surveys and Project Management
+
+[] Administration and maintenance of CRM
+
+Functional Experience: Interpretation of business rules, project management, requirements surveys
+
+Tools: Oracle Forms/Reports, Python, JavaScript, SQL Developer, PL/SQL
+
+Educación
+
+
+--- Página 6 (OCR) ---
+
+2/19/2026 Daniel Rendon Velazquez
+
+Titulo
+Centro Universitario Valle de Mexico UAEM
+
+feb 2005 to jul 2010
+
+Desarrollo de la carrera Ingeniería en Computación
+
+Titulo
+C Centro Universitario Valle de MÉXICO UAEM Estado de MÉXICO
+feb 2005 to jul 2010
+
+Centro Universitario Valle de México UAEM Estado de México Feb. 2005 — Jul. 2010
+
+Insignias
+
+fBeTrustworthy - Given by Adriana Arista Rivera on enero 29, 2024 at 10:57 am
+
+Habilidades
+
+ABAP for SAP S/4 Hana ' As/400DB | HTML5 ' Informatica Data Quality » Informatica Power Center
+JavaScript » MicrosoftSQLServer 1 Oracle Forms/Reports  Oracle PL-SQL * Oracle SQL Developer
+PowerShell » Scrum ' Data Analysis and Interpretation | Microsoft Windows Server » Progress Monitoring
+PostgreSQL — Informatica PowerCenter 1 Handheld Devices Information Extraction — Microsoft Power BI
+ABAP | Data Extraction » MicrosoftWindows | Process Automation | Operational Support — Business Rules
+Oracle PL/SQL | Data Quality Framework * Database Management | Estimation 1 Windows Server  ETL
+Programming Languages » Design Teamwork  Agile Methodologies * Auditing — Data Analysis
+
+Operating Systems | Accounting  Documentation 1 Management Development * PL/SQL Oracle
+
+
+--- Página 7 (OCR) ---
+
+2/19/2026 Daniel Rendon Velazquez
+
+Customer Service Management » Project Development  Process Analysis * Administrative Management
+
+Maintenance Development | Data Migration » Agile Management
+
+Información Personal
+
+% daniel.rendonvQOsofttek.com
+
+
+--- Página 8 (OCR) ---
+
+Data Management
+Engineer
+
+O CDMX, Mexico
+
+SKILLS
+
+Oracle Development
+
+ETL Processes
+
+Data Quality Management
+Project Leadership
+
+Agile Methodologies
+
+Python Programming
+
+LANGUAGES
+
+Spanish Native
+
+English 80-60
+
+Daniel Rendón
+Velázquez
+
+SUMMARY
+
+Computer Engineer with 8 years of experience as an Oracle Developer and 5 years
+managing data processes for SMES. Proven project leader with a focus on ETL
+development and data quality analysis. Skilled in Informatica, SQL, and Python,
+demonstrating strong teamwork and commitment to delivering results. Adept at
+understanding business requirements and implementing effective solutions, making him a
+valuable asset in any technical team.
+
+PROFESSIONAL EXPERIENCE
+Software Engineer — Softtek | CDMX, Mexico
+Nov. 2023 - Present
+
+As a Software Engineer at Softtek, I am currently involved in the development and
+maintenance of Oracle applications, focusing on process analysis and updating code to
+align with business rules. My role requires close collaboration with stakeholders to ensure
+that the software meets the operational needs of the organization.
+
+*  Process Analysis for business applications.
+* Updating and optimizing existing code for compliance with business rules.
+Tools/Skills: Forms 12c, Reports 12c
+
+Process Developer — Citibanamex | CDMX, Mexico
+
+In my role as a Process Developer for Informatica Data Quality at Citibanamex, I was
+responsible for analyzing data quality processes related to data migrations from the S16
+system to MDM processes. This involved direct communication with clients to gather
+requirements and ensure that the solutions provided met their needs.
+
+* Conducted data quality process analysis for migrations.
+
+* Created IDQ Maps to facilitate data quality checks.
+
+* Engaged directly with dlients to clarify requirements.
+
+* Monitored project progress using AGILE methodologies.
+Tools/Skills: Informatica Developer 10.5.4, Oracle SQL, PL/SQL
+
+Project Leader — Grupo Salinas | CDMX, Mexico
+Oct. 2019 - Nov. 2023
+
+As a Project Leader at Grupo Salinas, I led projects focused on information extraction and
+process automation. My responsibilities included overseeing the Informatica PowerCenter
+area, managing ETL flows, and ensuring that best practices were implemented across the
+team.
+
+* Led projects in information extraction for process automation.
+
+
+--- Página 9 (OCR) ---
+
+EDUCATION AND
+TRAINING
+
+Centro Universitario Valle de
+México UAEM
+
+Bachelor's Degree
+Computer Engineering
+
+February 2005 - July 2010
+
+CERTIFICATIONS
+
+Scrum — Fundamentals, CDMX,
+Mexico, September 2023 -
+November 2023
+
+Professional Scrum Course, CDMX,
+Mexico, March 2022 - June 2022
+
+Python, CDMX, Mexico, January
+2018 - May 2018
+
+ABlnitio, CDMX, Mexico, February
+2024 - April 2024
+
+TICS Informatica, CDMX, Mexico,
+December 2023 - January 2024
+
+* Administered Informatica PowerCenter for both development and production
+environments.
+
+* Developed ETL flows for data analysis and alert creation.
+
+* Managed IPC Console for operational support.
+
+* Collaborated continuously with multiple teams.
+Tools/Skills: Informatica PowerCenter 10.5.2, Powershell, AS/400 DB, SQL Developer,
+PL/SQL, Python, MS SQL, Power BI
+ABAP Developer — Praxis - Scribe | CDMX, Mexico
+Oct. 2018 - Oct. 2019
+In my position as an ABAP Developer, I was involved in the implementation of the WM
+module in Scribe. My role included generating Smartforms and Z-programs to enhance
+
+production line operations.
+
+* Created Smartforms for UDM control and management.
+
+* Developed Z-programs to support production operations.
+
+* Configured and maintained handheld devices for the WM module.
+
+Tools/Skills: Scrum, ABAP
+
+Oracle Developer — Edilar | CDMX, Mexico
+Oct. 2013 - Sep. 2018
+
+As an Oracle Developer, I was responsible for the support, maintenance, and development
+of in-house ERP modules based on Oracle Forms. This included managing various ERP
+areas such as Accounting and Customer Service.
+
+* Supported and maintained ERP modules based on Oracle Forms.
+
+* Controlled dedicated ERP areas including Accounting and Management.
+
+* Generated web modules to enhance Forms functionality.
+
+* Conducted requirements surveys and managed projects.
+
+Tools/Skills: Oracle Forms/Reports, Python, JavaScript, SQL Developer, PL/SQL

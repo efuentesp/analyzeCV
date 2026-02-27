@@ -1,0 +1,352 @@
+
+
+--- Página 1 (OCR) ---
+
+2/19/2026 Sinuhe Mazuti Osorio Rivero
+
+Powered by P eightfold.ai
+
+Sinuhe Mazuti Osorio Rivero
+
+Data Management Engineer OnPrem ETL Jr
+
+1 ' Mexico
+
+M% sinuhe.osorioQsofttek.com
+
+4 años de experiencia total
+
+Consultor ETL AB Initio Jr, Softtek 2023-Present (2 años)
+Analista de Datos y Desarrollador Web Backend Jr, Comisión Federal de Competencia...
+
+.O
+
+Configuring the Solution, Teradata DB, Planning and Organization, Maintenance and Support, Microsoft
+SQL Server Integration Services (SSIS), Customer Service, Tectia
+
+Empleado Actual
+
+E
+
+Resumen
+
+ETL Engineer con sólidos conocimientos en el diseño, desarrollo, implementación, validación, mantenimiento y
+mejora de procesos ETL mediante las herramientas Ab Initio y Databricks. Egresado de la Facultad de
+Ingeniería con experiencia en investigación científica en el área de Analítica de Datos.
+
+Perfil resumen
+
+Experiencia
+
+
+--- Página 2 (OCR) ---
+
+2/19/2026 Sinuhe Mazuti Osorio Rivero
+
+Consultor ETLAB Initio Jr
+Softtek
+
+nov 2023 - Present (2 años, 4 meses)
+
+Consultor ETL Ab Initio
+Desde: Noviembre 2023
+A: Presente
+Actividades:
+- Líder técnico del proyecto, responsable de pro-poner e implementar soluciones para requeri-mientos de
+negocio mediante grafos ETL.
+- Creación y modificación de grafos complejospara la manipulación de datos.Procesamiento de grandes
+volúmenes de datos(+290M registros).
+Herramientas: GDE, Consola Linux, Control Center.
+Logros: Entrega en tiempo y forma del desarrollo.
+Conocimientos:
+- Ambientación y configuración inicial de entorno de desarrollo
+- Levantamiento de requerimientos de procesos ETL
+- Análisis de diseño técnico
+- Creación de nuevos grafos
+- Análisis y modificación de grafos existentes
+- Creación y modificación de Data Manipulation Language (DML)
+- CheckIn y Check Out a proyectos
+- Creación, análisis y modificación de planes
+- Creación, análisis y modificación de archivos pset
+- Creación, análisis y modificación .ksh y .bash
+- Monitoreo y ejecución manual de Jobs en Control Center
+- Atención a Data Concerns (DC)
+- Gestión de Change Request e Incidentes
+- Promoción de TAG entre ambientes UAT y PROD
+Cursos oficiales de Ab Initio:
+o Continuos Flow (6D290-GD293)
+o Diseño Avanzado de Grafos (GD300-GD304)
+o Diseño Intermedio de Graf os (6D200-GD204)
+o Introducción al Desarrollo de Grafos (GD100-GD 106)
+Taller ETL (60 horas)
+Análisis funcional y técnico de un caso práctico de un Data Warehouse.
+o Prueba de Escritorio
+o Diseño de Proceso ETL (Diagrama de flujo y Matriz Origen-Destino)
+o Casos de Prueba
+o Construcción del proceso ETL
+o Pruebas
+Taller ETL - Databricks (40 horas)
+Análisis funcional y técnico de un caso práctico de un Data Lake.
+o Arquitectura de Medallero
+o Python
+
+
+--- Página 3 (OCR) ---
+
+2/19/2026 Sinuhe Mazuti Osorio Rivero
+
+o Spark SQL
+o DataFrame AP|
+
+Analista de Datos y Desarrollador Web Backend Jr
+Comisión Federal De Competencia Económica (COFECE)
+
+abr 2022 - nov 2023 (1 año, 8 meses)
+
+Desarrollador Web
+Backend Jr.
+Desde:
+Marzo 2022
+A:
+Noviembre
+2023
+Actividades:
+- Creación del sistema “Actas de Entrega - Recepción”
+o Propuesta de diseño Entidad-Relación de base de datos
+o Desarrollo de consultas para la creación de base de datos
+o Configuración inicial del entorno Asp.Net Core
+o Programación del sistema utilizando Cf y siguiendo el patrón de diseño MVC
+- Migración de bases de datos MySQL de un entorno laaS a un entorno Saas (Azure Database for
+MySQL) de diferentes sitios oficiales de la Comisión
+- Migración de base de datos MySQL a SQL server del sistema “Lista Diaria de Notificaciones”
+o Uso de manejadores de base de datos Workbench y SSMS
+o Modificación de secciones de código escritos en PHP
+Logros:
+- Cumplimiento de todos los objetivos y proyectos de la Coordinación de Operaciones de Sistema
+del año 2022
+Herramientas: Asp. Net Core, Cit, MVC, Entity Framework, PHP, MySQL, SQL Server
+
+Educación
+
+INGENIERÍA en Computación
+F Facultad de Ingeniería, UNAM
+ago 2015 to dic 2021
+
+Insignias
+
+
+--- Página 4 (OCR) ---
+
+2/19/2026 Sinuhe Mazuti Osorio Rivero
+
+HBeATechGeek - Given by Jose Alfredo Martinez Moreno on ...
+
+Gracias por todo tu apoyo y esfuerzo me enseñaste mucho amigo
+
+*BeLeader - Given by Jeremy Eliú Velázquez Fernández on ...
+
+se logró un gran desarrollo con tu compromiso y liderazgo. Sigue con esa buena actitud y
+profesio nalismo
+
+Habilidades
+
+ETL (Extract/Transform/Load) GDE | ControlCenter  DML ' | Archivos Pset * Unix ShellScripting  Red Hat
+Tectia — Putty VI CICD GitBash Bitbucket | Jenkins » BMC Software — Databricks
+Arquitectura de Medallero » SparkSQL * Oracle | SQLANSI ' ETL Tools SQL ' INGENIERÍA de Datos
+Data Engineering — Debian GNU/Linux | Adaptability ETL ' JobControl Bases de Datos — Data Analysis
+Ab Initio » C/C++ | DB2  Informatica PowerCenter | Linux Server — Microsoft SQLServer
+
+Microsoft SQL Server Integration Services (SSIS) — MySQL ' Oracle Database Planning €: Organization
+PostgreSQL  ProblemSolving » Python Scala  Teamwork * TeradataDB - Unix Server
+
+Windows Servers » IBM InfoSphere DataStage * Assisting on Meeting Customer Needs
+
+Certificados
+
+Continuos Flow (GD290 - GD293)
+
+Expedido por: Ab Initio Training
+
+Válida desde: ene., 2024
+
+Diseño Avanzado de Grafos (GD300 - GD304)
+Expedido por: Ab Initio Training
+
+Válida desde: nov., 2023
+
+Diseño Intermedio de Grafos (6D200 - GD204)
+Expedido por: Ab Initio Training
+
+Válida desde: nov., 2023
+
+
+--- Página 5 (OCR) ---
+
+2/19/2026 Sinuhe Mazuti Osorio Rivero
+
+Diseño y Desarrollo de Grafos (GD100 - GD106)
+Expedido por: Ab Initio Training
+Válida desde: nov., 2023
+
+Data Analytics Professional Certificate
+Expedido por: Google Coursera
+Válida desde: ene., 2023
+
+Introducción a la Ciencia de Datos
+Expedido por: Cisco Networking Academy
+Válida desde: may., 2023
+
+Fundamentos de Python 1
+Expedido por: Cisco Networking Academy
+Válida desde: may., 2023
+
+Fundamentos de Python 2
+Expedido por: Cisco Networking Academy
+Válida desde: may., 2023
+
+Información Personal
+
+8% sinuhe.osorioOsofttek.com
+mazuti.96 gmail.com
+
+
+--- Página 6 (OCR) ---
+
+Softtek'
+
+Ingeniero de Datos
+
+O comMx
+
+SKILLS
+
+* Ab Initio (Diseño y desarrollo
+ETL avanzado)
+Databricks — Python, Spark
+SQL, DataFrame API
+Gestión Yy monitoreo de
+procesos ETL en entornos Linux
+y Control Center
+Manejo de bases de datos
+MySQL y SQL Server (migration
+y consultas)
+Desarrollo backend con C£,
+Asp.Net Core y patrón MVC
+
+Análisis de diseño técnico y
+levantamiento de
+requerimientos ETL
+
+IDIOMAS
+
+Español Nativo
+
+Inglés Intermedio Bajo
+
+EDUCACIÓN
+FORMACIÓN
+
+Facultad de Ingeniería, UNAM,
+Ciudad de México
+
+Ingeniería en Computación
+
+Agosto 2015 - Diciembre 2021
+
+Sinuhe Mazuti Osorio
+Rivero
+
+RESUMEN
+
+Soy un Ingeniero en Computación especializado en gestión y transformación de
+datos mediante procesos ETL, con experiencia en herramientas Ab Initio y
+Databricks. He liderado proyectos de manipulación de grandes volúmenes de datos
+(más de 290 millones de registros) y desarrollo de soluciones técnicas en ambientes
+OnPremise y Cloud. Poseo habilidades sólidas en análisis, diseño técnico y
+programación en Python, Spark SQL y C*, enfocadas a la ingeniería de datos y la
+optimización de procesos de integración.
+
+EXPERIENCIA PROFESIONAL
+
+Consultor ETL Ab Initio — Softtek | México
+nov. 2023 - Actual
+
+Como líder técnico del proyecto, soy responsable de proponer e implementar soluciones
+innovadoras para los requisitos de negocio a través de grafos ETL complejos. Manejo con
+eficiencia el procesamiento y manipulación de grandes volúmenes de datos, superando los
+290 millones de registros, garantizando una entrega puntual y de alta calidad en los
+desarrollos.
+
+e Configuración y ambientación inicial del entorno de desarrollo para asegurar un
+flujo óptimo de trabajo.
+
+* Levantamiento detallado de requerimientos para procesos ETL, alineando objetivos
+técnicos y de negocio.
+
+Análisis profundo y diseño técnico de procesos ETL, enfocándome en la eficiencia y
+escalabilidad.
+
+e Creación, análisis y modificación de grafos ETL para la manipulación avanzada de
+datos.
+
+Desarrollo y ajuste de Data Manipulation Language (DML) para optimizar las
+transformaciones de datos.
+
+Gestión de proyectos mediante Check In y Check Out, asegurando la integridad del
+código y el control de versiones.
+
+Desarrollo y revisión de planes, archivos pset, y scripts (.ksh y .bash) para la
+automatización de procesos.
+
+e Monitoreo activo y ejecución manual de jobs en Control Center para garantizar el
+correcto funcionamiento de los procesos ETL.
+
+Atención eficaz a Data Concerns (DC), así como gestión de Change Requests e
+incidentes técnicos.
+
+Promoción y migración de TAGs entre ambientes UAT y Producción, asegurando la
+transición sin errores.
+
+
+--- Página 7 (OCR) ---
+
+Herramientas y habilidades: GDE, Consola Linux, Control Center, Ab Initio (Continuos
+Flow, Diseño Avanzado, Intermedio y Básico de Grafos), Data Manipulation Language (DML),
+scripting en .ksh y .bash, gestión y monitoreo de jobs, manejo de grandes volúmenes de
+datos.
+
+Analista de Datos y Desarrollador Web Backend Jr - Comisión Federal de
+Competencia Económica (COFECE) | México
+
+abr. 2022 - nov. 2023
+
+Durante mi experiencia en COFECE, diseñé y desarrollé el sistema “Actas de Entrega —
+Recepción”, desde la propuesta inicial hasta la implementación definitiva, utilizando
+tecnologías modernas y metodologías robustas. Realicé migraciones complejas de bases de
+datos, asegurando la integridad y optimización de la información en entornos de nube y
+locales, lo que mejoró considerablemente la eficiencia operativa de varias áreas de la
+Comisión.
+
+e Diseño completo del modelo Entidad-Relación para bases de datos, facilitando su
+integración con los sistemas existentes.
+
+Desarrollo y optimización de consultas para la creación y mantenimiento de bases
+de datos robustas y seguras.
+
+e Configuración y puesta en marcha del entorno de desarrollo bajo Asp.Net Core
+para proyectos backend escalables.
+
+e Programación del sistema utilizando C* con el patrón de diseño MVC para
+garantizar modularidad y mantenibilidad.
+
+e Migracoes efectivas de bases de datos MySQL desde entornos laaS hacia
+soluciones SaaS en Azure Database, mejorando la disponibilidad y seguridad.
+
+Migración de bases MySQL a SQL Server para el sistema “Lista Diaria de
+Notificaciones”, incluyendo ajustes en código PHP para compatibilidad.
+
+e Cumplimiento estricto de todos los objetivos y proyectos asignados en la
+Coordinación de Operaciones de Sistemas durante el año 2022.
+
+Herramientas y habilidades: Asp.Net Core, C4, MVC, Entity Framework, PHP, MySQL, SQL
+Server, Azure Database, SSMS, Workbench.

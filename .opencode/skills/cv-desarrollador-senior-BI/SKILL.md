@@ -30,6 +30,25 @@ No comentar.
 
 ---
 
+## Formato de fechas laborales
+
+Los campos `fecha_inicio` y `fecha_fin` deben expresarse como:
+
+**{mes en texto completo} {año}**
+
+Si el mes aparece abreviado en el CV, expandirlo:
+
+ene→enero, feb→febrero, mar→marzo, abr→abril, may→mayo, jun→junio, jul→julio, ago→agosto, sep→septiembre, oct→octubre, nov→noviembre, dic→diciembre.
+
+Ejemplo:
+ene 2025 → enero 2025
+
+Si no se especifica mes, dejar solo el año.
+
+No inferir meses ni modificar el año.
+
+---
+
 # FASE 1 — GENERACIÓN DEL RESUMEN PROFESIONAL
 
 El campo **resumen_profesional** debe generarse bajo las siguientes reglas obligatorias:
@@ -56,7 +75,7 @@ El campo **resumen_profesional** debe generarse bajo las siguientes reglas oblig
 
 ## Reglas de estructura obligatorias
 
-- Debe tener una extensión total de dos parrafos con 4 renglones cada ubno.
+- Debe tener una extensión total de dos parrafos con 4 renglones cada uno.
 - Debe estar redactado en prosa continua.
 - Cada párrafo debe ser un bloque narrativo fluido.
 - No debe redactarse como lista de funciones o actividades.
@@ -258,63 +277,69 @@ Aplicar únicamente sobre las experiencias seleccionadas en FASE 2.
 
 ## Reglas de redacción
 
-- Narración impersonal.  
-- Verbos en infinitivo.  
-- Redacción formal y objetiva.  
-- No usar primera persona.  
-- No inventar ni ampliar información.  
-- No dividir ni combinar actividades.  
-- No reinterpretar funciones ambiguas como desarrollo BI.  
-
----
+- Narración impersonal.
+- Verbos en infinitivo.
+- Redacción formal y objetiva.
+- No usar primera persona.
+- No inventar ni ampliar información.
+- No dividir ni combinar actividades.
+- No reinterpretar funciones ambiguas como desarrollo BI.
 
 ## Límites
 
 ### Por puesto
 
-- Máximo 10 actividades.  
-- No hay mínimo por puesto.  
-- Si hay más de 10 → priorizar:
-  1. Más relacionadas con desarrollo BI.  
-  2. Más técnicas.  
-  3. Más recientes.  
+- Máximo 10 actividades.
+- No hay mínimo por puesto.
+- Si hay más de 10, priorizar:
+  1. Más relacionadas con desarrollo BI.
+  2. Más técnicas.
+  3. Más recientes.
 
 ### Global obligatorio
 
-Total de actividades (todas las experiencias):
-- Mínimo 10  
-- Máximo 14  
-- No crear actividades para cumplir el mínimo.  
-
----
+Total de actividades (todas las experiencias consolidadas):
+- Mínimo 10.
+- Máximo 14.
+- No crear actividades para cumplir el mínimo
 
 ## Distribución
 
-- Si hay 1 sola experiencia → hasta 10 actividades.  
-- Si hay 2 o más experiencias → cualquier distribución es válida.  
-- Solo debe cumplirse que el total final esté entre 10 y 14.  
+- Si hay 1 sola experiencia → hasta 10 actividades.
+- Si hay 2 o más experiencias → cualquier distribución es válida.
+- Solo debe cumplirse que el total final esté entre 10 y 14.
 
----
+## Procedimiento (orden obligatorio)
 
-## Procedimiento
+1. Aplicar regla de 5 años (FASE 2).
+2. Consolidar experiencias con el mismo `nombre_empresa` (ver regla 4).
+3. Aplicar máximo 10 actividades por empresa consolidada.
+4. Verificar total global:
+   - Si >14 → reducir por relevancia y recencia.
+   - Si 10–14 → mantener.
+   - Si <10 → mantener sin crear nuevas.
 
-1. Aplicar regla de 5 años (FASE 2).  
-2. Aplicar máximo 10 por puesto.  
-3. Verificar total global.  
-   - Si >14 → reducir por relevancia y recencia.  
-   - Si 10–14 → mantener.  
-   - Si <10 → mantener sin crear nuevas. 
-4. Si existen varias experiencias con el mismo nombre de empresa, deben consolidarse en una sola. Se debe conservar un único registro, tomando como fecha de inicio la más antigua y como fecha de fin la más reciente. Las actividades deben integrarse en una sola lista, respetando el máximo de 10 y priorizando las más relevantes y recientes.
+## Consolidación por empresa
 
----
+Si existen múltiples experiencias con el mismo `nombre_empresa` (coincidencia exacta y sensible a mayúsculas/minúsculas), deben consolidarse en un único registro antes de validar el total global.
+
+La consolidación debe cumplir:
+
+- Conservar la fecha de inicio más antigua.
+- Conservar la fecha de fin más reciente.
+- Unificar todas las actividades en una sola lista.
+- Aplicar el máximo de 10 actividades para esa empresa, priorizando:
+  1. Más relacionadas con desarrollo BI.
+  2. Más técnicas.
+  3. Más recientes.
+
+Después de consolidar, continuar con la validación del total global (10–14).
 
 ## Jerarquía
 
 1️⃣ Regla 5 años  
 2️⃣ Total global 10–14  
 3️⃣ Máximo 10 por puesto  
-
----
 
 # FORMATO DE SALIDA
 
@@ -354,3 +379,31 @@ Total de actividades (todas las experiencias):
   ]
 }
 ```
+<!-- # FASE 5 — SALIDA A ARCHIVO (ESCRITURA / ACTUALIZACIÓN)
+
+Además de devolver únicamente el JSON generado en la fase de salida, la skill debe persistir el objeto resultante en:
+
+`cv/json_data/desarrolladorSeniorBI.json`
+
+## Reglas de persistencia
+
+- La ruta es relativa al workspace.
+- El archivo debe contener un arreglo JSON (lista) de objetos.
+- Si el archivo no existe, crearlo con un arreglo que contenga únicamente el objeto generado.
+- El campo `nombre` es el identificador único (comparación exacta y sensible a mayúsculas/minúsculas).
+- Si ya existe un objeto con el mismo `nombre`, reemplazar únicamente ese objeto.
+- Si no existe, agregar el nuevo objeto al final del arreglo.
+- No eliminar, modificar ni reordenar otros registros existentes.
+- Mantener formato JSON válido con indentación de 2 espacios.
+- No agregar texto fuera del JSON dentro del archivo.
+
+## Comportamiento esperado
+
+1. Generar y devolver únicamente el JSON del CV.
+2. Actualizar el archivo aplicando la regla de reemplazo o agregado según corresponda.
+3. Garantizar que los registros previos permanezcan intactos, excepto el que coincida por `nombre`.
+
+## Restricciones operativas
+
+- No alterar el valor de `nombre` para realizar coincidencias.
+- Si ocurre un error de escritura, no devolver mensajes adicionales; la salida debe seguir siendo únicamente el JSON generado. -->

@@ -1,0 +1,55 @@
+
+{
+  "nombre": "Sinuhe Mazuti Osorio Rivero",
+  "rol_propuesto": "Ingeniero de Datos BI Junior",
+  "resumen_profesional": "Experiencia en diseño e implementación de procesos ETL y grafos para integración de datos.\nDesarrollo y mantenimiento de pipelines con Ab Initio y Databricks para transformaciones a gran escala.\nGestión de entornos Control Center y ejecución y monitoreo de jobs en Linux.\nManejo de DML y scripting (.ksh, .bash) para automatización de procesos.\n\nParticipación en análisis y diseño técnico orientado a eficiencia y escalabilidad.\nProcesamiento de volúmenes de datos superiores a 290 millones de registros.\nMigración y sincronización de bases entre MySQL, SQL Server y Azure para optimizar disponibilidad.\nEnfoque en calidad de entrega y resolución de incidentes y change requests.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek",
+      "puesto": "Consultor ETL Ab Initio Jr",
+      "fecha_inicio": "noviembre 2023",
+      "fecha_fin": "Presente",
+      "actividades_principales": [
+       "Actuar como líder técnico del proyecto, proponer e implementar soluciones para requerimientos de negocio mediante grafos ETL.",
+        "Crear y modificar grafos complejos para la manipulación de datos.",
+        "Procesar grandes volúmenes de datos (más de 290 millones de registros).",
+        "Ambientar y configurar entornos de desarrollo.",
+        "Levantar requerimientos de procesos ETL.",
+        "Analizar y diseñar técnicamente procesos ETL.",
+        "Crear y modificar Data Manipulation Language (DML).",
+        "Desarrollar y mantener scripts (.ksh y .bash) y archivos pset.",
+        "Monitorear y ejecutar jobs manualmente en Control Center.",
+        "Gestionar Change Requests, incidentes y atención a Data Concerns."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde abril de 2022 hasta noviembre de 2023",
+  "resumen_laboral": "Durante este período se desempeñaron funciones como Analista de Datos y Desarrollador Web Backend Jr. Se llevaron a cabo actividades de diseño y desarrollo de sistemas orientados a la gestión de información, migración de bases de datos entre entornos y configuración de entornos de desarrollo. Se asumieron responsabilidades en el aseguramiento de la continuidad operativa, la entrega de proyectos y el cumplimiento de objetivos de coordinación técnica, contribuyendo a la mejora de procesos y la adaptación a entornos en la nube.",
+  "estudios": {
+    "carrera": "Ingeniería en Computación",
+    "lugar": "Facultad de Ingeniería, UNAM",
+    "periodo": "agosto 2015 - diciembre 2021"
+  },
+  "certificaciones_y_cursos": [
+    {
+      "nombre": "Azure Data Factory For Data Engineers",
+      "anio": ""
+    },
+    {
+      "nombre": "Azure Databricks and Spark For Data Engineers",
+      "anio": ""
+    },
+    {
+      "nombre": "Fundamentos de Python 1 [Cisco Networking Academy]",
+      "anio": ""
+    },
+    {
+      "nombre": "Fundamentos de Python 2 [Cisco Networking Academy]",
+      "anio": ""
+    },
+    {
+      "nombre": "Introducción a la Ciencia de Datos [Cisco Networking Academy]",
+      "anio": ""
+    }
+  ]
+}

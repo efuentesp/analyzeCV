@@ -1,0 +1,196 @@
+
+[
+  {
+    "nombre": "Daniel Rendon Velazquez",
+    "rol_propuesto": "Ingeniero de Datos BI Junior",
+    "resumen_profesional": "Experiencia en desarrollo y mantenimiento de aplicaciones orientadas a datos, con énfasis en procesos ETL y gestión de calidad de datos. Participación en análisis de requisitos y definición de reglas de negocio. Manejo de herramientas de integración y bases de datos relacionales. Capacidad para colaborar en entornos ágiles.\n\nEnfoque en la construcción y operación de flujos ETL, optimización de código y monitoreo de procesos productivos. Desarrollo de componentes para extracción, transformación y carga. Uso de Oracle Forms/Reports, Java, SQL y Python en soluciones integradas. Orientación a la entrega y soporte técnico.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Data Management Engineer OnPrem ETL PR",
+        "fecha_inicio": "noviembre 2023",
+        "fecha_fin": "presente",
+        "actividades_principales": [
+          "Analizar procesos para aplicaciones de negocio",
+          "Actualizar y optimizar código existente para cumplir reglas de negocio",
+          "Desarrollar y mantener aplicaciones Oracle",
+          "Colaborar con stakeholders para asegurar que el software cumpla necesidades operativas",
+          "Desarrollar aplicaciones web en Java y jQuery",
+          "Desarrollar y consumir Web Services y trabajar con XML",
+          "Desarrollar en JavaScript y AJAX",
+          "Trabajar con SQL para consultas y manipulación de datos",
+          "Utilizar Oracle Forms 12c y Reports 12c en el desarrollo y mantenimiento",
+          "Desarrollar y gestionar procesos ETL OnPrem"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde octubre de 2013 hasta diciembre de 2024",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Oracle Developer, ABAP Developer, Project Leader y Process Developer. Las responsabilidades incluyeron desarrollo y mantenimiento de módulos ERP, generación de reportes ejecutivos, implementación de funcionalidades en SAP WM y soporte en procesos de extracción y transformación de datos. También se asumieron tareas de gestión de proyectos, levantamiento de requerimientos y coordinación con equipos multidisciplinarios para garantizar la operación de sistemas empresariales.",
+    "estudios": {
+      "carrera": "Ingeniería en Computación",
+      "lugar": "Centro Universitario Valle de México UAEM",
+      "periodo": "febrero 2005 - julio 2010"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "PYTHON",
+        "anio": "2018"
+      },
+      {
+        "nombre": "Diseño de bases de datos relacionales",
+        "anio": ""
+      },
+      {
+        "nombre": "Oracle SQL Performance Tuning Masterclass",
+        "anio": ""
+      },
+      {
+        "nombre": "JavaScript Totall",
+        "anio": ""
+      }
+    ]
+  },
+  {
+    "nombre": "David Jesus Rios García",
+    "rol_propuesto": "Ingeniero de Datos BI Junior",
+    "resumen_profesional": "Especializado en Big Data, aprendizaje automático y computación en la nube, con experiencia en operacionalización y despliegue de modelos predictivos.\nParticipación en diseño y mantenimiento de pipelines ETL e integración de datos desde múltiples fuentes.\nExperiencia en programación con Python, Spark y manejo de bases de datos relacionales y NoSQL.\nEnfoque en asegurar calidad, rendimiento y automatización de procesos de datos.\n\nExperiencia en desarrollo de software orientado a modelos y componentes de datos, incluyendo implementación de módulos y optimizaciones.\nExperiencia en documentación, control de versiones, pruebas en QA y despliegue en entornos productivos.\nParticipación en investigación y adopción de tecnologías emergentes para mejorar soluciones analíticas.\nPerfil orientado a ejecución técnica en proyectos de datos con enfoque en entrega y soporte post-implementación.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Citibanamex",
+        "puesto": "Machine Learning Engineer",
+        "fecha_inicio": "abril 2023",
+        "fecha_fin": "diciembre 2024",
+        "actividades_principales": [
+          "Evaluar la eficacia de modelos mediante métricas apropiadas y realizar ajustes según sea necesario.",
+          "Implementar módulos de software para modelos existentes.",
+          "Seleccionar y optimizar modelos para abordar problemas específicos.",
+          "Supervisar el rendimiento de modelos en producción y realizar actualizaciones.",
+          "Desarrollar y mantener pipelines ETL e integrar datos de múltiples sistemas.",
+          "Mantenerse al tanto de avances tecnológicos y proponer mejoras al equipo."
+        ]
+      },
+      {
+        "empresa": "Nacional Monte de Piedad",
+        "puesto": "Data Engineer",
+        "fecha_inicio": "julio 2022",
+        "fecha_fin": "abril 2023",
+        "actividades_principales": [
+          "Diseñar, construir y mantener pipelines ETL.",
+          "Integrar datos de diversas fuentes garantizando consistencia y calidad.",
+          "Optimizar el rendimiento de operaciones de procesamiento de datos.",
+          "Implementar soluciones automatizadas para agilizar procesos.",
+          "Crear y mantener documentación de arquitectura de datos y procesos ETL."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde enero de 2021 hasta abril de 2022",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Desarrollador Full Stack, ejecutando actividades relacionadas con el análisis de requisitos, desarrollo de aplicaciones web y diseño de APIs. Se realizó implementación de reportes personalizados y gestión de fuentes de datos para soportar aplicaciones móviles, además de brindar soporte técnico y operativos de funcionamiento. La labor incluyó colaboración con equipos multidisciplinarios para entregar soluciones orientadas al cliente y mantener continuidad operativa de las aplicaciones.",
+    "estudios": {
+      "carrera": "Licenciatura en Ingeniería en Computación",
+      "lugar": "Universidad Politécnica del Valle de México",
+      "periodo": "septiembre 2017 - diciembre 2020"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "Desarrollador Back-end",
+        "anio": ""
+      },
+      {
+        "nombre": "Desarrollador Front-end",
+        "anio": ""
+      },
+      {
+        "nombre": "PythonInstitute_PCEP",
+        "anio": "2024"
+      }
+    ]
+  },
+  {
+    "nombre": "Juan Carlos Rivera Gonzalez",
+    "rol_propuesto": "Ingeniero de Datos BI Junior",
+    "resumen_profesional": "Con más de diez años de experiencia en visualización de datos y analítica de negocio.\nParticipación en desarrollo y automatización de dashboards y soluciones de consumo de datos.\nExperiencia en modelado de datos, procesos ETL y manejo de bases de datos relacionales y servidores BI.\nEnfoque en ejecución, cumplimiento de entregables y trabajo colaborativo en equipos técnicos.\n\nCapacidad para construir componentes semánticos y publicar fuentes para consumo analítico.\nParticipación en levantamiento de requerimientos, documentación y aseguramiento de calidad de datos.\nTrabajo con herramientas de visualización, flujos ETL y administración de servidores BI.\nPerfil orientado a la implementación y operación de soluciones analíticas.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Grupo SALAV",
+        "puesto": "Especialista de Inteligencia de Negocios - SOFTTEK",
+        "fecha_inicio": "octubre 2025",
+        "fecha_fin": "diciembre 2025",
+        "actividades_principales": [
+          "Ejecutar un Assessment Estratégico enfocado en Inteligencia de Negocios",
+          "Entrevistar a personal clave de negocio y TI para levantamiento de información"
+        ]
+      },
+      {
+        "empresa": "Nissan",
+        "puesto": "Data Visualization Engineer Senior - SOFTTEK",
+        "fecha_inicio": "enero 2025",
+        "fecha_fin": "marzo 2025",
+        "actividades_principales": [
+          "Construir modelos de datos en la capa semántica de Tableau Desktop",
+          "Generar y publicar fuentes de datos en Tableau Server"
+        ]
+      },
+      {
+        "empresa": "Instituto Federal de Telecomunicaciones",
+        "puesto": "Business Analyst Senior - SOFTTEK",
+        "fecha_inicio": "agosto 2024",
+        "fecha_fin": "diciembre 2024",
+        "actividades_principales": [
+          "Desarrollar análisis del caso de negocio para implementación de Gobierno de Datos",
+          "Elaborar documentación técnica y funcional para requerimientos del Market Place"
+        ]
+      },
+      {
+        "empresa": "Walmart",
+        "puesto": "Data Visualization Engineer Senior - SOFTTEK",
+        "fecha_inicio": "mayo 2024",
+        "fecha_fin": "agosto 2024",
+        "actividades_principales": [
+          "Diseñar arquitectura de datos para el monitoreo de aplicaciones",
+          "Construir y optimizar flujos ETL utilizando Tableau Prep"
+        ]
+      },
+      {
+        "empresa": "Walmart México",
+        "puesto": "Data Solutioner - SOFTTEK",
+        "fecha_inicio": "diciembre 2023",
+        "fecha_fin": "mayo 2024",
+        "actividades_principales": [
+          "Analizar la mecánica de cálculo de bonos y documentar procesos integrales",
+          "Diseñar y generar scripts de negocio que soporten el proceso de cálculo"
+        ]
+      },
+      {
+        "empresa": "Ford",
+        "puesto": "Especialista de Presentación de INFORMACIÓN (Visualización) - SOFTTEK",
+        "fecha_inicio": "febrero 2023",
+        "fecha_fin": "noviembre 2023",
+        "actividades_principales": [
+          "Coordinar la migración de tableros del portal Dealer Performance a Qlik Sense",
+          "Levantar requerimientos y desarrollar tableros interactivos centrados en métricas y KPI's"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde junio de 2008 hasta enero de 2023",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Especialista de Presentación de Información, Consultor BI y Analista de Negocio. Se asumieron responsabilidades de planificación y gestión de proyectos IT, levantamiento de requerimientos, generación y administración de tableros de control, migración y estabilización de aplicaciones BI y administración de servidores. Las tareas se orientaron a proporcionar visibilidad operativa y de negocio mediante soluciones de información y asegurar continuidad operativa.",
+    "estudios": {
+      "carrera": "Ingeniería en Sistemas Computacionales",
+      "lugar": "UNITEC Universidad Tecnológica de México",
+      "periodo": "enero 1996 - diciembre 2000"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "MySQL for Data Analytics and Business Intelligence",
+        "anio": ""
+      },
+      {
+        "nombre": "Power BI - Análisis de Datos Business Intelligence",
+        "anio": ""
+      },
+      {
+        "nombre": "Python",
+        "anio": ""
+      }
+    ]
+  }
+]

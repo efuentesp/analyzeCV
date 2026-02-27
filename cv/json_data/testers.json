@@ -2,7 +2,7 @@
   {
     "nombre": "David Barrera Muñoz",
     "rol_propuesto": "Tester",
-    "resumen_profesional": "Especialista en aseguramiento de la calidad con experiencia en planeación y ejecución de pruebas.\nPlanificar y ejecutar estrategias de pruebas funcionales, integrales, de regresión y UAT.\nDefinir y gestionar matrices de prueba, planes de pruebas y criterios de salida.\nIdentificar, priorizar y gestionar defectos en coordinación con equipos de desarrollo y negocio.\n\nGenerar métricas de avance y efectividad para la toma de decisiones y mejora continua.\nMonitorear herramientas de gestión de pruebas y automatización, y controlar datos de prueba.\nCoordinar y capacitar equipos de QA para alinear prácticas con estándares del cliente.\nReportar el estado del proyecto a stakeholders y garantizar entregas con criterios de calidad.",
+    "resumen_profesional": "Con más de once años de experiencia en liderazgo y coordinación de equipos de pruebas, enfocado en garantizar la conformidad de los productos con los requerimientos funcionales y minimizar fallas antes de producción. Se especializa en la planificación, diseño y ejecución de pruebas funcionales, integrales, de regresión y UAT, así+\n\nAplica métricas, gestión de defectos y verificación de criterios de salida para sustentar decisiones y mejora continua. Coordina herramientas de gestión y automatización, configura datos de prueba y capacita equipos para alinear prácticas con estándares del cliente, además de reportar el estado del proyecto a stakeholders.",
     "experiencia_laboral": [
       {
         "empresa": "(CitiBanamex)Softtek",
@@ -10,13 +10,13 @@
         "fecha_inicio": "junio de 2022",
         "fecha_fin": "Actual",
         "actividades_principales": [
-          "Monitorear y controlar las herramientas de gestión de pruebas",
-          "Monitorear y controlar las herramientas de gestión de proyectos",
-          "Realizar seguimiento a herramientas de automatización",
-          "Generar métricas de pruebas y reportes de avance",
+          "Monitorear y controlar herramientas de gestión de pruebas",
+          "Monitorear y controlar herramientas de gestión de proyectos",
+          "Supervisar y dar seguimiento a herramientas de automatización",
+          "Generar métricas y reportes de avance y efectividad de pruebas",
           "Identificar y gestionar riesgos del proyecto",
           "Planificar tiempos y actividades de pruebas",
-          "Gestionar y controlar defectos",
+          "Gestionar y dar seguimiento a defectos",
           "Gestionar y dar coaching al equipo de pruebas",
           "Generar y actualizar el plan de pruebas",
           "Analizar, diseñar, implementar y ejecutar pruebas"
@@ -30,14 +30,14 @@
       "fecha_fin": "junio de 2018",
       "actividades_principales": [
         "Definir estrategia y planificación de pruebas",
-        "Diseñar pruebas funcionales y testware ágil",
-        "Ejecutar pruebas ágiles, regresión y pruebas antes de impacto",
-        "Generar y ajustar datos de prueba para UAT",
+        "Recopilar conocimiento del negocio y diseñar pruebas funcionales",
+        "Diseñar testware ágil",
+        "Ejecutar pruebas ágiles, de regresión y antes de impacto",
         "Levantar y dar seguimiento a hallazgos"
       ]
     },
     "periodo_resumen_laboral": "La experiencia abarca desde diciembre de 2009 hasta mayo de 2022",
-    "resumen_laboral": "Durante este período se desempeñaron funciones como Líder de Pruebas, Ingeniero de Pruebas y QA Manager, enfocadas en la planificación y coordinación de actividades de aseguramiento de la calidad. Se gestionaron equipos, se definieron planes de pruebas y procesos de calidad, y se aplicaron auditorías internas. Las responsabilidades incluyeron conducción de pruebas funcionales e integrales, seguimiento de incidencias y conciliación de hallazgos con clientes, así como capacitación y despliegue de métodos y flujos para mejorar la calidad de productos y procesos.",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Líder de Pruebas, Ingeniero de Pruebas, Líder de Calidad Interna y QA Manager, asumiendo responsabilidades de planificación y coordinación de actividades de aseguramiento de la calidad. Se elaboraron planes y estrategias de prueba, se ejecutaron pruebas funcionales e integrales, se gestionaron hallazgos y se aplicaron auditorías internas. Además se brindó capacitación y coaching a equipos, se definieron procesos de calidad y se mantuvo la conciliación de hallazgos con clientes para la mejora continua.",
     "estudios": {
       "carrera": "Licenciatura en Ingeniería de Sistemas Computacionales",
       "lugar": "México",

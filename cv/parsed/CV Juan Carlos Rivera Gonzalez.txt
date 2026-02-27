@@ -1,0 +1,823 @@
+
+
+--- Página 1 (OCR) ---
+
+2/19/2026 Juan Carlos Rivera Gonzalez
+
+Powered by P eightfold.ai
+
+Juan Carlos Rivera Gonzalez
+
+DataVisualization Engineer Tbl/QlkVw Sr
+Mexico
+
+% JUAN.RIVERAGOSOFTTEK.COM
+
+(O 16años de experiencia total
+
+E Especialista de Inteligencia de Negocios - SOFTTEK, Grupo Salav 2025-2025 (3 meses)
+Data Visualization Engineer Senior - SOFTTEK, Nissan 2025-2025 (3 meses)
+Business Analyst Senior - SOFTTEKIFT, Instituto Federal de Telecomunicaciones 2024-...
+Data Visualization Engineer Senior - SOFTTEK, Walmart 2024-2024 (4 meses)
+Data Solutioner. SOFTTEK - WALMART MÉXICO., Walmart 2023-2024 (6 meses)
+Especialista de Presentación de INFORMACIÓN, Ford 2023-2023 (10 meses)
+Especialista de Presentación de INFORMACIÓN, Instituto Mexicano del Seguro Social 2020-...
+Especialista de Presentación de INFORMACIÓN, Grupo Financiero Banorte 2019-...
+Especialista de Presentación de INFORMACIÓN, Kuo 2018-2019 (1 año)
+Especialista de Presentación de INFORMACIÓN, MetLife 2017-2018 (1 año)
+Consultor BI en QlikView y Qlik Sense., Neixar 2017-2017 (4 meses)
+Consultor Senior Bl en QlikView., Deintec 2016-2017 (11 meses)
+Consultor Senior Bl en QlikView., Encausa 2014-2016 (2 años)
+Analista de Negocio., Brightstar 2008-2014 (6 años)
+
+/ Modelado de Datos, Data Modeling, Tableau Desktop, Microsoft SQL Server Management Studio, Tableau
+Server, Apache Hive, Tableau Cloud
+
+Empleado Actual
+
+E
+
+Resumen
+
+Soy Ingeniero en Sistemas Computacionales con más de 10 años de experiencia en Visualización de datos y
+Analítica de Negocios. Poseo amplia experiencia en herramientas clave como Tableau, QlikView, Qlik Sense y
+Power BI, así como en bases de datos como Microsoft SQL Server y Snowf lake. He liderado proyectos que
+optimizan la toma de decisiones mediante la construcción y automatización de dashboards efectivos, demostrando
+compromiso, responsabilidad y enfoque en resultados para diversas industrias como la de retail, automotriz,
+seguros y bancaria.
+
+
+--- Página 2 (OCR) ---
+
+2/19/2026 Juan Carlos Rivera Gonzalez
+
+Perfil resumen
+
+Experiencia
+
+Especialista de Inteligencia de Negocios - SOFTTEK SALAV
+Grupo SALAV
+Oct 2025 - Dec 2025 (3 meses)
+
+En esta posición, me encargué de la ejecución de un Assessment Estrátegico enfocado en Inteligencia de
+Negocios con el objetivo de diagnosticar la situación actual del grupo SALAV, definir un nivel objetivo,
+identificación de objetivos clave.
+
++ Entrevisté a personal clave de negocio y Tl para el levantamiento de información con la finalidad de
+identificar el modelo de negocio actual, problemáticas actuales, fuentes de información, reportes, tableros de
+control, KPI's, arquitectura tecnológica actual, así como el inventario de aplicaciones para el soporte de
+procesos.
+
+* Analicé lainformación recopilada para el estudio de la operación actual y sus problemáticas.
+
+* Documenté los hallazgos y requerimientos de información.
+
+* Comoparte del diagnóstico evalué acciones agrupadas en iniciativas o proyectos del grupo, identifiqué los
+proyectos de inteligencia de negocios, los proyectos de mejora.
+
+* Participé en la generación de entregables como el documento de la situación actual de grupo SALAV, la
+arquitectura de alto nivel, matriz de requerimientos de las diferentes áreas de negocio, definición de nivel
+objetivo de inteligencia de negocio, la hoja de ruta de iniciativas sugeridas, Quick Wins.
+
+* Desarrollé un tablero de control para dar visibilidad de las prioridades para la atención de los requerimientos
+por cada área de negocio.
+
+Data Visualization Engineer Senior - SOFTTEKNISSAN
+Nissan
+
+En esta posición, me encargué de la construcción detallada de modelos de datos en la capa semántica de Tableau
+Desktop, así como de la generación y publicación de fuentes de datos en el servidor de Tableau, facilitando que
+los usuarios pudieran crear sus propios tableros de control. Desarrollé una capa de consumo robusta que
+proporciona una visión integral sobre los contratos generados y su relación con clientes, vendedores y créditos,
+permitiendo una mejor toma de decisiones basada en datos confiables.
+
+« Diseñé y construí modelos de datos optimizados en la capa semántica de Tableau Desktop para facilitar el
+análisis.
+
++ Generé y publiqué fuentes de datos en Tableau Server garantizando disponibilidad y actualización constante.
+* Implementé una capa de consumo que habilita la creación autónoma de dashboards por los usuarios.
+
+« Proporcioné visibilidad completa sobre contratos y relaciones comerciales con impacto directo en la estrategia
+corporativa.
+
+
+--- Página 3 (OCR) ---
+
+2/19/2026 Juan Carlos Rivera Gonzalez
+
+Business Analyst Senior - SOFTTEKIFT
+© -|ft Instituto Federal de Telecomunicaciones
+Aug 2024 - Dec 2024 (5 meses)
+
+INSTITUTO FEDERAL DE
+TELECOMUNICACIONES
+
+Asumí la responsabilidad de realizar un análisis exhaustivo del caso de negocio para la implementación del
+Gobierno de Datos, siendo pieza clave en la generación de un glosario de términos de negocio y la
+documentación precisa de requerimientos para el Market Place. Evalué la calidad de los datos y establecí
+controles eficaces para su monitoreo, contribuyendo a la mejora continua y confianza en los datos utilizados para
+la toma de decisiones.
+
+* Desarrollé un análisis detallado del caso de negocio para fortalecer el Gobierno de Datos.
+
+* Elaboré documentación técnica y funcional para los requerimientos del Market Place.
+
+* Realicé evaluaciones rigurosas de la calidad de datos y propuse recomendaciones para su mejora.
+
+* Diseñé controles y mecanismos de monitoreo para la garantía de la calidad de los datos.
+
+* Evalué plataformas existentes y generé benchmarks para optimizar procesos y la utilización de tecnologías.
+
+' Data Visualization Engineer Senior - SOFTTEK WALMART
+N Y N Walmart
+
+A l y May 2024 - Aug 2024 (4 meses)
+
+Lideré el análisis completo del proceso de monitoreo de aplicaciones y diseñé una arquitectura de datos efectiva
+para el monitoreo de D£A. Construí flujos ETL utilizando Tableau Prep y desarrollé tableros de control en Tableau
+Desktop que permitieron a los directores acceder a información actualizada automáticamente mediante la
+integración con Tableau Server, mejorando significativamente la toma de decisiones estratégicas.
+
+* Analicé profundamente el proceso de monitoreo de aplicaciones para optimizar su eficiencia.
+
+* Diseñé la arquitectura de datos para el monitoreo y reporte eficiente de DÉA.
+
++ Construíy optimicé flujos ETL en Tableau Prep para automatizar la carga de datos.
+
+* Desarrollé tableros de control dinámicos en Tableau Desktop para el análisis de los datos.
+
+* Automatización de la carga y actualización de datos desde Tableau Server asegurando disponibilidad
+constante.
+
+
+--- Página 4 (OCR) ---
+
+2/19/2026 Juan Carlos Rivera Gonzalez
+
+' Data Solutioner. SOFTTEK- WALMART MÉXICO.
+N E M Walmart
+
+A l y Dec 2023 - May 2024 (6 Meses)
+
+Analicé en detalle la mecánica de cálculo de bonos para Walmart, evidenciando la necesidad de scripts claros y
+documentación precisa para facilitar el trabajo del equipo de desarrollo. Gracias a mi aportación, se logró
+automatizar el proceso del cálculo del bono en la herramienta OneStream, incrementando la visibilidad y
+eficiencia de los procesos de negocio asociados a los bonos.
+
+* Levantamiento y análisis detallado de la mecánica de cálculo de bonos para Walmart.
+
+* Diseño y generación de scripts de negocio que soportan el proceso de cálculo.
+
++ Documenté los procesos integrales de Business plan, Forecast, distribución atiendas y el proceso de
+dispersión.
+
+Especialista de Presentación de INFORMACIÓN (Visualización) BI/ BA (Lider Técnico)....
+
+Ford
+
+2a F eb 2023 - Nov 2023 (10 meses)
+
+Coordiné los recursos del equipo de visualización para realizar la migración exitosa de los tableros de control del
+portal Dealer Performance de Ford México a Qlik Sense. Encabecé el levantamiento de requerimientos, análisis,
+diseño, desarrollo, documentación e implementación de Tableros de control con base en métricas y KPI's
+logrando la completa satisfacción del cliente y posicionándonos como pioneros en la implementación de esta
+tecnología en la organización.
+
++ Coordinación y liderazgo del equipo de desarrollo para la migración de tableros a Qlik Sense.
++ Levantamiento detallado de requerimientos para adaptación y mejora continua.
+
+* Diseño y construcción de tableros interactivos centrados en métricas clave.
+
+* Implementación cuidadosa para maximizar valor y satisf acción del usuario final.
+
+Especialista de Presentación de INFORMACIÓN (Visualización) BI/ BA (Lider Técnico)....
+
+ImsS
+
+IMSS Jan 2020 - Jan 2023 (3 años, 1 mes)
+
+Lideré el área de visualización de datos para el Instituto Mexicano del Seguro Social durante un periodo crítico de
+pandemia por COVID-19 (SARS-CoV-2), generando tableros de control en Tableau Desktop. Realicé el
+levantamiento de requerimientos, análisis, diseño y construcción de tableros de control críticos, administrando
+también el servidor de Tableau para asegurar su disponibilidad y rendimiento, lo que permitió visualizar
+indicadores clave para la toma de decisiones en un contexto de alta demanda.
+
+* Liderazgo en generación y coordinación de tableros para IMSS durante la pandemia.
+
+e Levantamiento, análisis y desarrollo de tableros de control avanzados en Tableau Desktop.
++ Administración y mantenimiento del servidor Tableau garantizando operatividad.
+
+* Visibilidad precisa de indicadores fundamentales para la gestión institucional.
+
+
+--- Página 5 (OCR) ---
+
+2/19/2026 Juan Carlos Rivera Gonzalez
+
+Especialista de Presentación de INFORMACIÓN (Visualización) BI/ BA. Softtek - Banorte.
+
+Ed
+RANORTE Oct 2019 - Dec 2019 (3 meses)
+
+Realicé el desarrollo, rediseño, documentación e implementación de tableros para medir la rentabilidad, cartera,
+captación y calidad de la cartera para el grupo Banorte. Mis tableros facilitaron la medición efectiva del proceso
+de cobranza, otorgando visibilidad completa sobre conceptos pendientes mediante dashboards intuitivos para la
+ejecución y seguimiento de estrategias financieras y comerciales.
+
+* Desarrollo y optimización de tableros de control clave para la evaluación financiera y de cartera.
+* Documentación detallada para asegurar continuidad y entendimiento del proceso.
++ Medición robusta del proceso de cobranza mediante dashboards claros y accesibles.
+
+Especialista de Presentación de INFORMACIÓN (Visualización) Bl / BA
+KUO
+
+KUO Jul2018- Sep 2019 (1 año, 3 meses)
+
+Lideré el desarrollo, rediseño e implementación de tableros de control para las áreas de ventas, importaciones,
+exportaciones y mercadotecnia en empresas del grupo KUO como DACOMSA y TREMEC. Mis dashboards
+aportaron visibilidad clara acerca de las cartas de rebate para pago a clientes, ventas, costos, gastos y
+presupuesto, mejorando el control y la toma de decisiones en la organización.
+
+* Desarrollo integral de dashboards para múltiples áreas estratégicas del grupo KUO.
+* Visualización clara sobre cartas de rebate y métricas financieras claves.
+* Construcción de indicadores para ventas, costos, gastos y presupuesto con alta precisión.
+
+Especialista de Presentación de INFORMACIÓN (Visualización) Bl/ BA - SOFTTEK NetLife |...
+MetLife
+
+Jul2017 - Jul 2018 (1 año, 1 mes)
+
+Recurso asignado a BAU para el área de Análisis de Negocio, participé en la implementación de tableros de
+control para diferentes líneas de negocio y áreas de staff. Apliqué metodologías BI para el análisis de cobranza,
+quejas CONDUSEF, bonos y comisiones, y adquisiciones, generando dashboards que permitieron visualizar KPI's
+críticos y medir la satisfacción del cliente, fortaleciendo la estrategia comercial.
+
+« Generé dashboards con KPIls que visibilizaron información crítica para la toma de decisiones.
+» Medísatisfacción del cliente como parte integral de la estrategia comercial.
++ Rediseñé aplicaciones existentes unificando información para mejorar análisis y rendimiento.
+
+
+--- Página 6 (OCR) ---
+
+2/19/2026 Juan Carlos Rivera Gonzalez
+
+Consultor Bl en QlikView y Qlik Sense.
+
+Apr 2017 - Jul 2017 (4 meses)
+
+Realicé análisis para el levantamiento de requerimientos e implementé metodologías Bl para el desarrollo de
+tableros financieros y operativos destinados al análisis de mesas de ayuda y monitoreo para áreas operativas del
+ISSSTE. Además, administré los servidores QlikView y Qlik Sense asegurando su óptimo funcionamiento.
+
+* Levantamiento detallado de requerimientos para soluciones BI en ambientes complejos.
++ Implementación de dashboards financieros y operativos con KPIs para el ISSSTE.
+* Administración y mantenimiento de servidores QlikView y Qlik Sense mediante consola.
+
+Consultor Senior Bl en QlikView.
+A DEINTEC
+Deintec -u 2016- Apr 2017 (11 meses)
+
+Analicé requerimientos y apliqué metodologías Bl avanzadas para generar tableros en áreas como finanzas,
+cadena de suministros, logística, recursos humanos, ventas, costos e inventarios. Realicé mantenimiento y
+estabilización de aplicaciones y desarrollé automatización para reportes SAP, asignado en Becton Dickinson S.A.
+de Cv.
+
+* Generé visibilidad sobre áreas de oportunidad en múltiples departamentos mediante dashboards funcionales.
++ Administré consola y estabilicé aplicaciones existentes mejorando su rendimiento.
++ Automatización de insumos para la carga de información en tableros de QlikView.
+
+Consultor Senior Bl en QlikView.
+ENCAUSA
+Jun 2014 - Jun 2016 (2 años, 1 mes)
+
+Realicé análisis y levantamiento de requerimientos, implementación de metodologías B1 y generación de tableros
+para áreas financieras, logísticas y comerciales en Deportes Martí. Administré consola y migré aplicaciones y
+servidores a nuevas versiones, así como estabilicé las soluciones implementadas para garantizar rendimiento y
+disponibilidad.
+
+* Visibilicé áreas clave de oportunidad para usuarios mediante tableros inteligentes.
+* Realicé migración integral de aplicaciones y servidores QlikView a versiones actualizadas.
+* Administración completa de servidor QlikView con enf oque en estabilidad y rendimiento.
+
+
+--- Página 7 (OCR) ---
+
+2/19/2026 Juan Carlos Rivera Gonzalez
+
+Analista de Negocio.
+enerora eNStar CO
+Jun 2008 - Jun 2014 (6 años, 1 mes)
+
+Gestioné y planeé proyectos de IT relacionados con BI. Analicé, diseñé y desarrollé aplicaciones y tableros de
+control con múltiples indicadores para visibilizar áreas de oportunidad en diferentes departamentos. Administré
+servidor QlikView y desarrollé una aplicación para comunicación y conciliación entre Brightstar e IUSACELL.
+
+* Planeación y gestión integral de proyectos de IT con enfoque en análisis de datos.
+* Desarrollo de tableros de control para mejorar visibilidad y toma de decisiones en distintos departamentos.
++ Administración de servidor QlikView y desarrollo de aplicaciones de conciliación con proveedores.
+
+Educación
+
+Postgraduado.
+I by Te| Universidad TECNOLÓGICA de México.
+unitec.mx Jan 2001 to Dec 2001
+
+Posgrado en Gestión y Desarrollo de Sistemas de Información.
+
+Titulado.
+LUJ UNITEC
+Jan 1996 to Dec 2000
+
+Unitec
+
+Ingeniería en Sistemas Computacionales.
+
+Habilidades
+
+Agile — Alteryx + Confluence | GitHub  Hadoop * Hadoop Cloudera | Hadoop Hortonworks (Hdp) ' HIVE
+Jira — MariaDB | Microsoft PowerBI ' MicrosoftSQL(T-Sal) 1 MySQL * Oracle * Oracle Database
+
+QlikSense » QlikView/Qlik Sense Servers » Rally 1 Sybase — Tableau * Office  SAP Lumira | Web Focus
+Mural | Confluence Software | Apache Hive ' Rally Software | Back Office Software — Murals — Tableau Prep
+
+Modelado de Datos * Levantamiento de Requerimientos » MicrosoftOffice | MicrosoftVisio 1 DAMA-Dmbok2
+
+
+--- Página 8 (OCR) ---
+
+2/19/2026 Juan Carlos Rivera Gonzalez
+
+Glosario de Términos * Snowflake * Análisis de INFORMACIÓN * Microsoft Office Suite | Microsoft Copilot
+SAP Analytics Cloud » Business Knowledge » Collaboration | Customer Service — Leadership * Negotiation
+
+People Development — Planning and Organization | Positive Relationships — Problem Solving
+
+Información Personal
+
+M juanriveragOsofttek.com
+je_riveragG hotmail.com
+
+m linkedin.com/in/juan-carlos-rivera-gonzález-979708377
+
+
+--- Página 9 (OCR) ---
+
+Data
+Visualization
+Engineer
+Tbl/QlkVw Sr
+
+Coacalco, Estado de México
+
+HERRAMIENTAS
+
+Tableau (Desktop, Server, Prep)
+QlikView y Qlik Sense
+
+Microsoft SQL Server (T-SQL)
+Power Bl
+
+Snowflake
+
+Metodologías Ágiles (Agile, JIRA)
+
+IDIOMAS
+Español Nativo
+
+Inglés Intermedio Bajo
+
+Juan Carlos Rivera González
+
+RESUMEN PROFESIONAL
+
+Soy Ingeniero en Sistemas Computacionales con más de 10 años de
+experiencia en Visualización de datos y Analítica de Negocios. Poseo
+amplia experiencia en herramientas clave como Tableau, QlikView,
+Qlik Sense y Power BI, así como en bases de datos como Microsoft
+SQL Server y Snowflake. He liderado proyectos que optimizan la toma
+de decisiones mediante la construcción y automatización de dashboards
+efectivos, demostrando compromiso, responsabilidad y enfoque en
+resultados para diversas industrias como la de retail, automotriz,
+seguros y bancaria.
+
+EXPERIENCIA PROFESIONAL
+
+Especialista de Inteligencia de Negocios - SOFTTEK SALAV |
+México, CDMX
+Oct, 2025 - Dic, 2025
+
+En esta posición, me encargué de la ejecución de un Assessment
+Estrátegico enfocado en Inteligencia de Negocios con el objetivo de
+diagnosticar la situación actual del grupo SALAV, definir un nivel
+objetivo, identificación de objetivos clave.
+
+e — Entrevisté a personal clave de negocio y TI para el levantamiento
+de información con la finalidad de identificar el modelo de negocio
+actual, problemáticas actuales, fuentes de información, reportes,
+tableros de control, KPI's, arquitectura tecnológica actual, así como
+el inventario de aplicaciones para el soporte de procesos.
+
+* — Analicé la información recopilada para el estudio de la operación
+actual y sus problemáticas.
+
+*  Documenté los hallazgos y requerimientos de información.
+
+* Como parte del diagnóstico evalué acciones agrupadas en
+iniciativas o proyectos del grupo, identifiqué los proyectos de
+inteligencia de negocios, los proyectos de mejora.
+
+* Participé en la generación de entregables como el documento de la
+situación actual de grupo SALAV, la arquitectura de alto nivel,
+matriz de requerimientos de las diferentes áreas de negocio,
+definición de nivel objetivo de inteligencia de negocio, la hoja de
+ruta de iniciativas sugeridas, Quick Wins.
+
+* Desarrollé un tablero de control para dar visibilidad de las
+prioridades para la atención de los requerimientos por cada área de
+negocio.
+
+Herramientas: Levantamiento de requerimientos, análisis de
+información, Office Suite, Power BI, Microsoft Copilot.
+
+
+
+--- Página 10 (OCR) ---
+
+Data Visualization Engineer Senior - SOFTTEK NISSAN | México,
+CDMX
+Ene, 2025 - Mar, 2025
+
+En esta posición, me encargué de la construcción detallada de modelos
+de datos en la capa semántica de Tableau Desktop, así como de la
+generación y publicación de fuentes de datos en el servidor de Tableau,
+facilitando que los usuarios pudieran crear sus propios tableros de
+control. Desarrollé una capa de consumo robusta que proporciona una
+visión integral sobre los contratos generados y su relación con clientes,
+vendedores y créditos, permitiendo una mejor toma de decisiones
+basada en datos confiables.
+
+* Diseñé y construí modelos de datos optimizados en la capa
+semántica de Tableau Desktop para facilitar el análisis.
+
+*  Generé y publiqué fuentes de datos en Tableau Server garantizando
+disponibilidad y actualización constante.
+
+* Implementé una capa de consumo que habilita la creación
+autónoma de dashboards por los usuarios.
+
+* — Proporcioné visibilidad completa sobre contratos y relaciones
+comerciales con impacto directo en la estrategia corporativa.
+
+Herramientas: Snowflake, Tableau Desktop, Tableau Server, Modelado
+de datos, Levantamiento de requerimientos.
+
+Business Analyst Senior - SOFTTEK IFT | Ciudad de México
+Ago, 2024 - Dic, 2024
+
+Asumí la responsabilidad de realizar un análisis exhaustivo del caso de
+negocio para la implementación del Gobierno de Datos, siendo pieza
+clave en la generación de un glosario de términos de negocio y la
+documentación precisa de requerimientos para el Market Place. Evalué la
+calidad de los datos y establecí controles eficaces para su monitoreo,
+contribuyendo a la mejora continua y confianza en los datos utilizados
+para la toma de decisiones.
+* Desarrollé un análisis detallado del caso de negocio para fortalecer
+el Gobierno de Datos.
+* Elaboré documentación técnica y funcional para los requerimientos
+del Market Place.
+* Realicé evaluaciones rigurosas de la calidad de datos y propuse
+recomendaciones para su mejora.
+* Diseñé controles y mecanismos de monitoreo para la garantía de la
+calidad de los datos.
+* Evalué plataformas existentes y generé benchmarks para optimizar
+procesos y la utilización de tecnologías.
+
+
+--- Página 11 (OCR) ---
+
+EDUCACIÓN
+
+Universidad Tecnológica de
+México, CDMX
+
+Postgrado en Gestión y
+Desarrollo de Sistemas de
+Información
+
+Enero - 2001 | Diciembre -
+2001
+
+Universidad Tecnológica de
+México, CDMX
+
+Ingeniería en Sistemas
+Computacionales
+
+Enero - 1996 | Diciembre -
+2000
+
+CURSOS VIGENTES.
+SAP Analytics Cloud
+UDEMY
+
+2025 (En desarrollo)
+
+CERTIFICACIONES
+
+Tableau Aspectos Básicos -
+Junio - 2020
+
+Tableau Intermedio - Junio -
+2020
+
+Tableau Avanzado - Junio -
+2020
+
+Herramientas: MS Word, MS Excel, MS PowerPoint, MS Visio, DAMA-
+DMBOKZ, Power BI, Levantamiento de requerimientos, Glosario de
+términos.
+
+Data Visualization Engineer Senior - SOFTTEK WALMART |
+México, CDMX
+May, 2024 - Ago, 2024
+
+Lideré el análisis completo del proceso de monitoreo de aplicaciones y
+diseñé una arquitectura de datos efectiva para el monitoreo de D£A.
+Construí flujos ETL utilizando Tableau Prep y desarrollé tableros de
+control en Tableau Desktop que permitieron a los directores acceder a
+información actualizada automáticamente mediante la integración con
+Tableau Server, mejorando significativamente la toma de decisiones
+estratégicas.
+
+* Analicé profundamente el proceso de monitoreo de aplicaciones
+para optimizar su eficiencia.
+
+* Diseñé la arquitectura de datos para el monitoreo y reporte
+eficiente de DSA.
+
+* Construí y optimicé flujos ETL en Tableau Prep para automatizar la
+carga de datos.
+
+* Desarrollé tableros de control dinámicos en Tableau Desktop para el
+análisis de los datos.
+
+*  Automatización de la carga y actualización de datos desde Tableau
+Server asegurando disponibilidad constante.
+
+Herramientas: Tableau Desktop, Tableau Server, Tableau Prep, Agile,
+JIRA, Modelado de datos, Levantamiento de requerimientos.
+
+Data Solutioner - SOFTTEK WALMART | México, CDMX
+Dic, 2023 - May, 2024
+
+Analicé en detalle la mecánica de cálculo de bonos para Walmart,
+evidenciando la necesidad de scripts claros y documentación precisa
+para facilitar el trabajo del equipo de desarrollo. Gracias a mi aportación,
+se logró automatizar el proceso del cálculo del bono en la herramienta
+OnesStream, incrementando la visibilidad y eficiencia de los procesos de
+negocio asociados a los bonos.
+* Levantamiento y análisis detallado de la mecánica de cálculo de
+bonos para Walmart.
+* Diseño y generación de scripts de negocio que soportan el proceso
+de cálculo.
+*  Documenté los procesos integrales de Business plan, Forecast,
+distribución atiendas y el proceso de dispersión.
+
+Herramientas: MURAL, Office Suite, Agile, JIRA, Confluence,
+Levantamiento de requerimientos.
+
+
+
+--- Página 12 (OCR) ---
+
+Especialista de Presentación de Información (Visualización) BI /
+BA (LíderTécnico) - SOFTTEK FORD | México, CDMX
+Feb, 2023 - Nov, 2023
+
+Coordiné los recursos del equipo de visualización para realizar la
+migración exitosa de los tableros de control del portal Dealer
+Performance de Ford México a Qlik Sense. Encabecé el levantamiento de
+requerimientos, análisis, diseño, desarrollo, documentación e
+implementación de Tableros de control con base en métricas y KPI's
+logrando la completa satisfacción del cliente y posicionándonos como
+pioneros en la implementación de esta tecnología en la organización.
+
+*  Coordinación y liderazgo del equipo de desarrollo para la migración
+de tableros a Qlik Sense.
+
+*  Levantamiento detallado de requerimientos para adaptación y
+mejora continua.
+
+* Diseño y construcción de tableros interactivos centrados en
+métricas clave.
+
+* Implementación cuidadosa para maximizar valor y satisfacción del
+usuario final.
+
+Herramientas: Qlik Sense, Qlik Sense Server, Microsoft SQL (TSQL),
+Oracle, WEB FOCUS, Alteryx, GitHub, Rally, Agile, Levantamiento de
+requerimientos, Modelado de datos.
+
+Especialista de Presentación de Información (Visualización) BI /
+BA (LíderTécnico) - SOFTTEK 1IMSS | Ciudad de México
+Ene, 2020 - Ene, 2023
+
+Lideré el área de visualización de datos para el Instituto Mexicano del
+Seguro Social durante un periodo crítico de pandemia por COVID-19
+(SARS-CoV-2), generando tableros de control en Tableau Desktop. Realicé
+el levantamiento de requerimientos, análisis, diseño y construcción de
+tableros de control críticos, administrando también el servidor de Tableau
+para asegurar su disponibilidad y rendimiento, lo que permitió visualizar
+indicadores clave para la toma de decisiones en un contexto de alta
+demanda.
+
+*  Liderazgo en generación y coordinación de tableros para IMSS
+durante la pandemia.
+
+* Levantamiento, análisis y desarrollo de tableros de control
+avanzados en Tableau Desktop.
+
+* Administración y mantenimiento del servidor Tableau garantizando
+operatividad.
+
+
+--- Página 13 (OCR) ---
+
+* — Visibilidad precisa de indicadores fundamentales para la gestión
+institucional.
+
+Herramientas: Tableau Desktop, Tableau Server, Microsoft Power BI,
+Hadoop (Cloudera y Hortonworks), Oracle, Microsoft SQL (TSQL), Hive,
+MariaDB, MySQL, SYBASE, Levantamiento de requerimientos, Modelado
+de datos.
+
+Especialista de Presentación de Información (Visualización) BI /
+BA - SOFTTEK BANORTE | Ciudad de México
+Oct, 2019 - Dic, 2019
+
+Realicé el desarrollo, rediseño, documentación e implementación de
+tableros para medir la rentabilidad, cartera, captación y calidad de la
+cartera para el grupo Banorte. Mis tableros facilitaron la medición
+efectiva del proceso de cobranza, otorgando visibilidad completa sobre
+conceptos pendientes mediante dashboards intuitivos para la ejecución y
+seguimiento de estrategias financieras y comerciales.
+
+* Desarrollo y optimización de tableros de control clave para la
+evaluación financiera y de cartera.
+
+* Documentación detallada para asegurar continuidad y
+entendimiento del proceso.
+
+*  Medición robusta del proceso de cobranza mediante dashboards
+claros y accesibles.
+
+Herramientas: QlikView, Microsoft SQL (T-SQL), Oracle, Tableau, Qlik
+Sense, QlikView/Qlik Sense Server, Modelado de datos.
+
+Especialista de Presentación de Información (Visualización) BI /
+BA - SOFTTEK KUO | Ciudad de México
+Jul, 2018 - Sep, 2019
+
+Lideré el desarrollo, rediseño e implementación de tableros de control
+para las áreas de ventas, importaciones, exportaciones y mercadotecnia
+en empresas del grupo KUO como DACOMSA y TREMEC. Mis dashboards
+aportaron visibilidad clara acerca de las cartas de rebate para pago a
+clientes, ventas, costos, gastos y presupuesto, mejorando el control y la
+toma de decisiones en la organización.
+
+* Desarrollo integral de dashboards para múltiples áreas estratégicas
+del grupo KUO.
+
+* — Visualización clara sobre cartas de rebate y métricas financieras
+claves.
+
+*  Construcción de indicadores para ventas, costos, gastos y
+presupuesto con alta precisión.
+
+
+--- Página 14 (OCR) ---
+
+Herramientas: QlikView, Microsoft SQL (T-SQL), Oracle, Tableau, Qlik
+Sense,QlikView/Qlik Sense Server, SAP Lumira, Levantamiento de
+requerimientos, Modelado de Datos.
+
+Especialista de Presentación de Información (Visualización) BI /
+BA - SOFTTEK METLIFE | Ciudad de México
+Jul, 2017 - Jul, 2018
+
+Recurso asignado a BAU para el área de Análisis de Negocio, participé en
+la implementación de tableros de control para diferentes líneas de
+negocio y áreas de staff. Apliqué metodologías BI para el análisis de
+cobranza, quejas CONDUSEF, bonos y comisiones, y adquisiciones,
+generando dashboards que permitieron visualizar KPI's críticos y medir la
+satisfacción del cliente, fortaleciendo la estrategia comercial.
+
+*  Generé dashboards con KPIs que visibilizaron información crítica
+para la toma de decisiones.
+
+*  Medísatisfacción del cliente como parte integral de la estrategia
+comercial.
+
+*  Rediseñé aplicaciones existentes unificando información para
+mejorar análisis y rendimiento.
+
+Herramientas: QlikView, Microsoft SQL (T-SQL), Oracle, Tableau, Qlik
+Sense, QlikView/Qlik Sense Server, Levantamiento de requerimientos,
+Modelado de datos.
+
+Consultor BI en QlikView y Qlik Sense - NEIXAR | Ciudad de
+México
+Abr, 2017 - Jul, 2017
+
+Realicé análisis para el levantamiento de requerimientos e implementé
+metodologías BI para el desarrollo de tableros financieros y operativos
+destinados al análisis de mesas de ayuda y monitoreo para áreas
+operativas del ISSSTE, Además, administré los servidores QlikView y Qlik
+Sense asegurando su óptimo funcionamiento.
+
+* Levantamiento detallado de requerimientos para soluciones Bl en
+ambientes complejos.
+
+* Implementación de dashboards financieros y operativos con KPls
+para el ISSSTE.
+
+* Administración y mantenimiento de servidores QlikView y Qlik
+Sense mediante consola.
+
+Herramientas: QlikView, Microsoft SQL (T-SQL), Oracle, Qlik Sense,
+QlikView/Qlik Sense Server.
+
+
+
+--- Página 15 (OCR) ---
+
+Consultor Senior BI en QlikView - DEINTEC | Ciudad de México
+Jun, 2016 - Abr, 2017
+
+Analicé requerimientos y apliqué metodologías BI avanzadas para
+generar tableros en áreas como finanzas, cadena de suministros,
+logística, recursos humanos, ventas, costos e inventarios. Realicé
+mantenimiento y estabilización de aplicaciones y desarrollé
+automatización para reportes SAP, asignado en Becton Dickinson S.A. de
+C.v.
+
+* Generé visibilidad sobre áreas de oportunidad en múltiples
+departamentos mediante dashboards funcionales.
+
+* Administré consola y estabilicé aplicaciones existentes mejorando
+su rendimiento.
+
+*  Automatización de insumos para la carga de información en
+tableros de QlikView.
+
+Herramientas: QlikView, Microsoft SQL (T-SQL), QlikView Server,
+Levantamiento de requerimientos.
+
+Consultor Senior BI en QlikView - ENCAUSA | Ciudad de México
+Jun, 2014 - Jun, 2016
+
+Realicé análisis y levantamiento de requerimientos, implementación de
+metodologías BI y generación de tableros para áreas financieras,
+logísticas y comerciales en Deportes Martí. Administré consola y migré
+aplicaciones y servidores a nuevas versiones, así como estabilicé las
+soluciones implementadas para garantizar rendimiento y disponibilidad.
+
+* — Visibilicé áreas clave de oportunidad para usuarios mediante
+tableros inteligentes.
+
+* Realicé migración integral de aplicaciones y servidores QlikView a
+versiones actualizadas.
+
+* Administración completa de servidor QlikView con enfoque en
+estabilidad y rendimiento.
+
+Herramientas: QlikView, Microsoft SQL Server, Oracle, Levantamiento
+de requerimientos, Modelado de datos.
+
+Analista de Negocio en QlikView - BRIGHTSTAR CORP | Ciudad de
+México
+
+Jun, 2008 - Jun, 2014
+
+Gestioné y planeé proyectos de IT relacionados con BI. Analicé, diseñé y
+
+desarrollé aplicaciones y tableros de control con múltiples indicadores
+para visibilizar áreas de oportunidad en diferentes departamentos.
+
+
+--- Página 16 (OCR) ---
+
+Administré servidor QlikView y desarrollé una aplicación para
+comunicación y conciliación entre Brightstar e IUSACELL.
+
+* Planeación y gestión integral de proyectos de IT con enfoque en
+análisis de datos.
+
+* Desarrollo de tableros de control para mejorar visibilidad y toma de
+decisiones en distintos departamentos.
+
+* Administración de servidor QlikView y desarrollo de aplicaciones de
+conciliación con proveedores.
+
+Herramientas: QlikView, Microsoft SQL Server, Oracle, Levantamiento
+de requerimientos.

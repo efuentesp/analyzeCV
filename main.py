@@ -9,7 +9,7 @@ from typing import Any, Dict, List
 # No se definen clases manuales; se usa pydantic.create_model para validación ligera.
 
 TEMPLATE_PATH = os.path.join("PLANTILLA-DE-CV.docx")
-JSON_PATH = os.path.join("cv", "json_data", "desarrolladorSeniorBI.json")
+JSON_PATH = os.path.join("cv", "json_data", "desarrolladorJuniorBI.json")
 OUTPUT_DIR = os.path.join("cv", "final_cv")
 
 def load_json(path: str) -> Dict[str, Any]:

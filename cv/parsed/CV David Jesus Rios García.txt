@@ -1,0 +1,328 @@
+
+
+--- Página 1 (OCR) ---
+
+2/19/2026 David Jesus Rios García
+
+Powered by P eightfold.ai
+
+David Jesus Rios Garcia
+
+Data Analyst Jr
+Mexico
+
+% davidi.riosQsofttek.com
+
+4 años de experiencia total
+
+.O
+
+Machine Learning Engineer, Citibanamex 2023-2024 (2 años)
+Data Engineer, Nacional Monte de Piedad 2022-2023 (10 meses)
+Full Stack Web Developer, Recurso Confiable 2021-2022 (1 año)
+
+E - Microsoft SQL DW, Planning and Organization, Microsoft Power Query, Data Management, REST
+Framework, Microsoft Azure Cosmos DB, Comprometido
+
+Empleado Actual
+
+Resumen
+
+Ingeniero en Informática con más de 4 años de experiencia prof esional, especializado en Big Data, aprendizaje
+automático y tecnologías de cómputo en la nube. El rol más reciente que desempeñé fue Machine Learning
+Engineer, con experiencia en la operacionalización y despliegue de modelos predictivos para optimizar procesos de
+negocio en sectores bancarios, mejorando significativamente la eficiencia de los flujos de datos y análisis a gran
+escala.
+
+He trabajado en la implementación de soluciones, desde la definición de requerimientos y análisis de datos hasta la
+puesta en producción y soporte post-implementación. Poseo experiencia integral en el ciclo de vida DevOps,
+
+incluyendo diseño, documentación, control de versiones, pruebas en ambientes de QA y despliegue en producción.
+
+Domino lenguajes de programación como Python, Javascript, Java,SQL, y Ctf, además de frameworks y
+herramientas como Spark.
+
+Estoy comprometido con el aprendizaje continuo y aplicación de nuevas metodologías que impulsen la innovación
+eninteligencia artificial e ingeniería de datos.
+
+Perfil resumen
+
+
+--- Página 2 (OCR) ---
+
+2/19/2026 David Jesus Rios García
+
+Experiencia
+
+Machine Learning Engineer
+Citibanamex
+
+Validación y Evaluación: Evaluar la eficacia de los modelos mediante métricas apropiadas y realizar ajustes según
+seanecesarios.
+
+Desarrollo de software: Implementar módulos a los modelos ya existentes.
+
+Diseño de modelos: Seleccionar y optimizar los modelos apropiados para abordar el problema en cuestión
+Mantenimiento: Supervisar el rendimiento de los modelos en producción, realizar actualizaciones y ajustes según
+sean necesario para mantener la efectividad a lo largo del tiempo.
+
+Investigación y desarrollo continuo: Me mantengo al tanto de los avances de tecnologías que puedan mejorar en
+el desarrollo de modelos, explorar nuevas técnicas y proponer mejoras al equipo o área que se encuentre la
+oportunidad
+
+=- Desarrollo de pipelines: construcción y Mantenimiento de pipelines (ETL) - Integración de datos: Integración
+de diferentes sistemas y fuentes, garantizando consistencia y calidad en el proceso. - optimización de
+rendimiento: eficiencia de las operaciones de procesamiento de datos. - automatización: implementar soluciones
+automatizadas. - evaluación de tecnologías: Mantenerse actualizado sobe las últimas tecnologías y poder
+implementar. - documentación: Crear y mantener documentación detallada de la arquitectura de datos, procesos
+ETL y cualquier otro aspecto relevante para el negocio.
+
+
+--- Página 3 (OCR) ---
+
+2/19/2026 David Jesus Rios García
+
+Full StackWeb Develo per
+Recurso Confiable
+[ Recurso Confiable' = ===7
+
+ene 2021 - abr 2022 (1 año, 4 meses)
+
+Desarrollador Full Stack - Recurso Confiable | Tlanepantla
+
+Desde: Ene, 2021 Hasta: Abr, 2022
+
+Como Desarrollador Full Stack, implementé nuevas funcionalidades basadas en los
+requisitos del cliente para aplicaciones web. Desarrollé reportes personalizados
+adaptados a las necesidades específicas de los clientes y creé funciones, trabajos y
+procedimientos almacenados para gestionar y optimizar fuentes de datos. También diseñé
+e implementé APIs para la entrada y consumo de datos a través de múltiples clientes, y
+desarrollé funciones y flujos de trabajo para el almacenamiento de datos en línea y fuera
+de línea para apoyar aplicaciones móviles.
+
+Análisis de requisitos y desarrollo web.
+
+Creación de reportes personalizados.
+
+Desarrollo de bases de datos y optimización de fuentes de datos.
+
+Desarrollo de APIs para entrada y consumo de datos.
+
+Soporte para aplicaciones móviles.
+
+Tools/Skills: .NET Framework 4 (and up), ASP.NET MVC Framework, Xamarin Forms,
+Javascript, PostgreSQL, Microsoft SQL Server, Cit, Bootstrap, Vue.Js, ReactJS, Angular JS,
+Google API, RESTful, Java 8, PHP, Git, AWS Microservices
+
+Educación
+
+Lic. INGENIERÍA en INFORMÁTICA
+Universidad Politécnica del Valle de MÉXICO
+
+sep 2017 to dic 2020
+
+Graduado en la carrera de Ingeniería en Informática. Actualmente cuento con Título y cedula profesional.
+
+Reconocimientos
+
+Empleado del mes
+
+Recurso Confiable
+
+abr 2020
+
+Por lograr reducir la perdida de información en su aplicativo móvil haciendo que el 95% de
+
+información se lograra almacenar de forma offline en las aplicaciones móviles.
+
+Ganador Maruchan Gaming Series (Fortnite)
+
+
+--- Página 4 (OCR) ---
+
+2/19/2026 David Jesus Rios García
+
+Gamergy CDMX
+
+ago 2024
+
+Gané el primer lugar en una competencia de Maruchan que se llevo acabo en el evento Gamergy
+CDMX.
+
+Tercer lugar Rivals Open (Fortnite, Minecraft, Halo y Brawlhalla)
+
+Tridents - Rivals Open
+
+dic 2023
+
+Una competencia de varios juegos donde competí contra los representantes prof esionales de
+cada videojuego obteniendo eltercer lugar.
+
+Ganador EGS 2023 CDMX
+
+nov 2023
+Se realizaron varias pruebas, actividades y dinámicas a lo largo de 3 meses hasta el día del evento.
+Obtuve el primer lugar
+
+Habilidades
+
+.NET Framework 4 (And Up) * Angular JS | ASP.NET MVC Framework | Aws Microservices 1 Bootstrap — Ci
+Elastic Logstash — ETL (Extract/Transform/Load) — Git 1 Google API  HIVE ' Java8 '  JavasScript
+Microsoft Azure Cloud — MicrosoftSQLServer » PHP  PostgreSQL | ReactJS  RESTful | Ruby | Vue.js
+Xamarin Forms » Python  PythonScripting — PySpark  Data Analysis 1 Teamwork SQL ' Linux | ETL
+Data Engineering  Databases 1 Azure * Azure Databricks » Pipeline * Azure Data Factory » Azure Data Lake
+Aprendizaje Automático — Comprometido ' Aplicaciones Web  Documentación | Desarrollo Web
+Desarrollo de Software | Innovación | Investigacióny Desarrollo — Arquitectura — Continuous Integration
+
+Mantenimiento  Operaciones » Xamarin
+
+Certificados
+
+PCEP - Entry-Level Python Programmer
+Expedido por: Python Institute
+Válida desde: jun., 2024
+
+Gestión de trabajo por proyectos
+Expedido por: Universidad Politécnica del Valle de México
+
+
+--- Página 5 (OCR) ---
+
+2/19/2026 David Jesus Rios García
+
+Válida desde: feb., 2020
+
+Información Personal
+
+% davidi.riosesofttek.com
+david.rios23040 gmail.com
+
+
+--- Página 6 (OCR) ---
+
+Data Engineer
+
+© Estado de México
+
+HABILIDADES
+* Python
+
+Machine Learning
+Big Data
+
+DevOps
+
+Cloud Computing
+ETL
+
+IDIOMAS
+Español Nativo
+
+Inglés Intermedio Alto
+
+David Jesus Rios
+García
+
+RESUMEN
+
+Ingeniero en Computación con más de 4 años de experiencia profesional, especializado
+en Big Data, aprendizaje automático y tecnologías de computación en la nube.
+En mi rol más reciente como Ingeniero de Aprendizaje Automático, optimicé procesos
+en el sector bancario mediante la implementación de modelos predictivos. Poseo
+habilidades en Python, Spark y DevOps, comprometido con el aprendizaje continuo y la
+innovación en ingeniería de datos.
+
+EXPERIENCIA PROFESIONAL
+
+Ingeniero de Aprendizaje Automático — CitiBanamex | CDMX Remoto
+Desde: Abr, 2023 Hasta: Dic, 2024
+
+Mis actividades se centran en el proceso de UAT, que incluye validación y evaluación de
+modelos utilizando métricas adecuadas y realizando ajustes según sea necesario. En el
+desarrollo de software, implemento módulos en modelos existentes y selecciono y optimizo
+los modelos apropiados para abordar problemas específicos. También me encargo del
+mantenimiento, monitoreando el rendimiento de los modelos en producción y realizando
+actualizaciones para mantener su efectividad a lo largo del tiempo. Además, me dedico a
+la investigación y desarrollo continuo, manteniéndome al tanto de los avances
+tecnológicos que pueden mejorar el desarrollo de modelos y proponiendo mejoras al
+equipo.
+
+* Validación y evaluación de modelos.
+
+e Desarrollo de software e implementación de módulos.
+
+* Diseño y optimización de modelos.
+
+* Mantenimiento y monitoreo de modelos en producción.
+
+e  Investigación y desarrollo continuo en tecnologías emergentes.
+
+Tools/Skills: Hive, Hadoop, NoSQL, Python, Spark, Git, Desarrollo de Aprendizaje y
+Capacidades, Agile, CI/CD
+
+Ingeniero de Datos — Nacional Monte de Piedad | CDMX Remoto
+Desde: Jul, 2022 Hasta: Abr, 2023
+
+En mi rol como Ingeniero de Datos, me enfoqué en el desarrollo de pipelines,
+diseñando, construyendo y manteniendo ETL pipelines. Integré datos de diversos sistemas
+y fuentes, asegurando la consistencia y calidad a lo largo del proceso. También optimicé el
+rendimiento de las operaciones de procesamiento de datos y automatizé soluciones
+para agilizar procesos. Me mantuve actualizado con las últimas tecnologías y evalué su
+potencial de implementación, además de crear y mantener documentación detallada de la
+arquitectura de datos y procesos ETL.
+
+* Desarrollo de pipelines ETL.
+
+* Integración de datos de múltiples sistemas.
+
+* Optimización del rendimiento de procesamiento de datos.
+* Implementación de soluciones automatizadas.
+
+* Documentación de arquitectura de datos y procesos ETL.
+
+Tools/Skills: Hive, Ruby, Microsoft Azure Cloud, Elastic LogStash, Microsoft SQL Server,
+ETL (Extract/Transform/Load), Git
+
+
+--- Página 7 (OCR) ---
+
+EDUCACIÓN
+FORMACIÓN
+
+Tultitlán, Estado de México
+
+Licenciatura en Ingeniería en
+Computación
+
+Septiembre 2017 - Diciembre 2020
+
+CERTIFICACIONES
+
+PCEP — —Entry-Level Python
+Programmer, Python - Institute,
+Junio 2024
+
+Gestión de trabajo por proyectos,
+Universidad Politécnica del Valle de
+México, Febrero 2020
+
+Desarrollador Full Stack — Recurso Confiable | Tlanepantla
+Desde: Ene, 2021 Hasta: Abr, 2022
+
+Como Desarrollador Full Stack, implementé nuevas funcionalidades basadas en los
+requisitos del cliente para aplicaciones web. Desarrollé reportes personalizados
+adaptados a las necesidades específicas de los clientes y creé funciones, trabajos y
+procedimientos almacenados para gestionar y optimizar fuentes de datos. También diseñé
+e implementé APIs para la entrada y consumo de datos a través de múltiples clientes, y
+desarrollé funciones y flujos de trabajo para el almacenamiento de datos en línea y fuera
+de línea para apoyar aplicaciones móviles.
+
+* Análisis de requisitos y desarrollo web.
+e Creación de reportes personalizados.
+* Desarrollo de bases de datos y optimización de fuentes de datos.
+* Desarrollo de APIs para entrada y consumo de datos.
+* Soporte para aplicaciones móviles.
+Tools/Skills: .NET Framework 4 (and up), ASP.NET MVC Framework, Xamarin Forms,
+
+Javascript, PostgreSQL, Microsoft SQL Server, C, Bootstrap, Vue.Js, ReactJS, Angular JS,
+Google API, RESTful, Java 8, PHP, Git, AWS Microservices
