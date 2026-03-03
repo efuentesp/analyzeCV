@@ -1,0 +1,126 @@
+[
+  {
+    "nombre": "Martha Patricia Martínez Flores",
+    "rol_propuesto": "Gerente de Operación",
+    "resumen_profesional": "Cuenta con treinta años de experiencia en administración de proyectos y dirección de equipos especializados en desarrollo y mantenimiento de aplicaciones, especialmente en contratos de fábrica de software para el sector público y privado. Ha liderado la definición y tailorización de marcos metodológicos (PMI y ágiles), la implementación de procesos operativos y la coordinación interfuncional para garantizar la continuidad de servicios y el cumplimiento de plazos.\n\nHa gestionado propuestas, estimaciones y planes de trabajo, así como la administración de riesgos, proveedores y la presentación de informes ejecutivos. Se ha encargado del establecimiento y seguimiento de métricas de operación y del diseño de estrategias de atención para iniciativas críticas, facilitando la entrega de soluciones en tiempo y forma y la estabilidad operativa de plataformas tecnológicas.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek Instituto Federal de Telecomunicaciones",
+        "puesto": "Project Manager",
+        "fecha_inicio": "julio 2024",
+        "fecha_fin": "a la fecha",
+        "actividades_principales": [
+          "Tailorizar la metodología y el marco documental para el desarrollo de proyectos",
+          "Definir procesos de operación del servicio de desarrollo",
+          "Elaborar propuestas y estimaciones basadas en juicio de experto y Cosmic Function Points"
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Delivery Manager",
+        "fecha_inicio": "noviembre 2023",
+        "fecha_fin": "junio 2024",
+        "actividades_principales": [
+          "Apoyar en la generación de propuestas y estimados para los sectores de Health & Insurance y Retail",
+          "Generar planes de trabajo a alto nivel e identificar riesgos y consideraciones"
+        ]
+      },
+      {
+        "empresa": "Softtek Chubb Seguros",
+        "puesto": "Delivery Manager/Project Manager",
+        "fecha_inicio": "abril 2023",
+        "fecha_fin": "octubre 2023",
+        "actividades_principales": [
+          "Realizar assessment y evaluación de soluciones de cobranza, incluyendo generación de informe de estado de situación",
+          "Coordinar el proceso de selección de proveedores y elaborar el RFP para proveedores de soluciones"
+        ]
+      },
+      {
+        "empresa": "Softtek Walmart",
+        "puesto": "Delivery Manager",
+        "fecha_inicio": "octubre 2021",
+        "fecha_fin": "octubre 2022",
+        "actividades_principales": [
+          "Dirigir proyectos de implementación de controles de seguridad para aplicaciones (ACE y Hardening)",
+          "Coordinar la operación de células de trabajo bajo marcos ágiles para la ejecución de implementaciones",
+          "Gestionar riesgos, proveedores y presentar informes ejecutivos al cliente"
+        ]
+      },
+      {
+        "empresa": "Softtek MetLife",
+        "puesto": "Delivery Manager",
+        "fecha_inicio": "noviembre 2020",
+        "fecha_fin": "diciembre 2021",
+        "actividades_principales": [
+          "Dirigir la implementación de SAP Commissions y Agent Performance Management",
+          "Gestionar proveedores, definir métricas de calidad y dar seguimiento a pruebas y QA"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "agosto 1991 - diciembre 2021",
+    "resumen_laboral": "Dirección de proyectos y servicios en fábricas de software y unidades de desarrollo, con responsabilidad en la planeación y puesta en marcha de operaciones, tailorización de metodologías, definición de procesos y métricas de operación, gestión de proveedores y recursos, y elaboración de informes ejecutivos para direcciones y clientes.",
+    "estudios": {
+      "carrera": "Licenciatura en Ciencias de la Informática",
+      "lugar": "Instituto Politécnico Nacional UPIICSA, México, D. F.",
+      "periodo": "1985-1989"
+    },
+    "certificaciones": [
+      {
+        "nombre": "Project-Management-Professional",
+        "anio": "2007 / 2026"
+      },
+      {
+        "nombre": "SCRUM Master",
+        "anio": "2016 / 2026"
+      },
+      {
+        "nombre": "Certificado ITIL v4",
+        "anio": "2024 / 2027"
+      }
+    ],
+    "cursos": []
+  },
+  {
+    "nombre": "Humberto Montes de Oca",
+    "rol_propuesto": "Gerente de Operación",
+    "resumen_profesional": "Coordinar y supervisar equipos técnicos y de consultoría para garantizar la continuidad operativa y el cumplimiento de procesos en proyectos de transición tecnológica y desincorporación de activos. Liderar la planificación estratégica y la gestión de carteras multipráctica que integran infraestructura, ciberseguridad, ERP y servicios de soporte, asegurando la alineación con stakeholders y entregables.\n\nPromover la estandarización de oficinas de proyectos, la implementación de controles, centros de conocimiento y prácticas del PMI y marcos ágiles. Gestionar la calidad de entregables, la documentación y los activos de información, además de identificar oportunidades de negocio y coordinar la interlocución entre áreas comerciales y tecnológicas.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "PMO",
+        "fecha_inicio": "enero 2018",
+        "fecha_fin": "Actual",
+        "actividades_principales": [
+          "Planear la transición tecnológica en proyectos de desincorporación de activos y creación de empresa",
+          "Gestionar proyectos multipráctica que integren infraestructura, ciberseguridad, ERP, aplicativos non SAP, gobierno de TI, continuidad y mesa de servicio",
+          "Identificar oportunidades de negocio en esquemas Greenfield derivados de desincorporaciones tecnológicas",
+          "Interactuar con CIO y stakeholders para la entrega de resultados con cadencia semanal y quincenal",
+          "Gestionar documentación y activos de información para la operación de la organización",
+          "Asegurar la calidad de entregables y del servicio por parte de las prácticas hacia el cliente",
+          "Aplicar las mejores prácticas del PMI y metodologías de consultoría para la coordinación de estrategias",
+          "Diseñar, desarrollar e implementar una oficina de proyectos, incluyendo centro de conocimiento y gestión de lecciones aprendidas",
+          "Definir OKRs, SLAs y criterios de priorización y autorización de proyectos",
+          "Monitorear indicadores clave de proyecto (CPI, SPI, EI) y gestionar cartera financiera para identificar desvíos y acciones de recuperación"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "marzo 2012 - diciembre 2017",
+    "resumen_laboral": "Gestionar e implementar soluciones de red, centros de operación y planes de recuperación de desastres, así como integrar servicios y administradores de red para proyectos regulatorios y de alta visibilidad. Controlar presupuestos contractuales, coordinar proveedores y equipos comerciales, y supervisar el cumplimiento de niveles de servicio y operaciones logísticas.",
+    "estudios": {
+      "carrera": "Licenciatura en ingeniería en Telecomunicaciones y electronica",
+      "lugar": "Atizapán, Edo. De México, México",
+      "periodo": "2009-2012"
+    },
+    "certificaciones": [
+      {
+        "nombre": "Project-Management-Professional",
+        "anio": "2017 / 2029"
+      },
+      {
+        "nombre": "Certificado ITIL v4",
+        "anio": "2023 / 2026"
+      }
+    ],
+    "cursos": []
+  }
+]

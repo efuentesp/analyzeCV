@@ -1,0 +1,805 @@
+Rosain Castillo Eng
+Technical Leader
+EXPERIENCIA PROFESIONAL:
+Empresa
+Softtek - Walmart de México y Centroamérica | Empresa
+Softtek - Walmart de México y Centroamérica | Ciudad: 
+CDMX | Puesto:
+Tech Lead | De:
+Junio 2020 | A:
+Actual
+Funciones:
+Definir las pruebas y tiempos de respuesta del software que sustituirá el mecanismo de cifrado de tarjetas bancarias que deben cumplir con los controles de PCI DSS.
+Solicitar los requerimientos de hardware que se requieren para la ambientación de legados que utilizan el software de cifrado.
+Ambientar los legados y sus endpoints para realizar pruebas end to end y garantizar el correcto funcionamiento del cifrado.
+Estimar tiempo y esfuerzo que se requiere para actualizar los componentes que utilizan el software de cifrado.
+Definir el mensaje ISO8583 para el cambio de autorizador del legado de renovación de membresías, sustituir EPay por Authentic.
+Coordinar el equipo de desarrollo para actualizar el código para el uso del nuevo software de cifrado.
+Diseñar modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta. | Funciones:
+Definir las pruebas y tiempos de respuesta del software que sustituirá el mecanismo de cifrado de tarjetas bancarias que deben cumplir con los controles de PCI DSS.
+Solicitar los requerimientos de hardware que se requieren para la ambientación de legados que utilizan el software de cifrado.
+Ambientar los legados y sus endpoints para realizar pruebas end to end y garantizar el correcto funcionamiento del cifrado.
+Estimar tiempo y esfuerzo que se requiere para actualizar los componentes que utilizan el software de cifrado.
+Definir el mensaje ISO8583 para el cambio de autorizador del legado de renovación de membresías, sustituir EPay por Authentic.
+Coordinar el equipo de desarrollo para actualizar el código para el uso del nuevo software de cifrado.
+Diseñar modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta. | Funciones:
+Definir las pruebas y tiempos de respuesta del software que sustituirá el mecanismo de cifrado de tarjetas bancarias que deben cumplir con los controles de PCI DSS.
+Solicitar los requerimientos de hardware que se requieren para la ambientación de legados que utilizan el software de cifrado.
+Ambientar los legados y sus endpoints para realizar pruebas end to end y garantizar el correcto funcionamiento del cifrado.
+Estimar tiempo y esfuerzo que se requiere para actualizar los componentes que utilizan el software de cifrado.
+Definir el mensaje ISO8583 para el cambio de autorizador del legado de renovación de membresías, sustituir EPay por Authentic.
+Coordinar el equipo de desarrollo para actualizar el código para el uso del nuevo software de cifrado.
+Diseñar modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta. | Funciones:
+Definir las pruebas y tiempos de respuesta del software que sustituirá el mecanismo de cifrado de tarjetas bancarias que deben cumplir con los controles de PCI DSS.
+Solicitar los requerimientos de hardware que se requieren para la ambientación de legados que utilizan el software de cifrado.
+Ambientar los legados y sus endpoints para realizar pruebas end to end y garantizar el correcto funcionamiento del cifrado.
+Estimar tiempo y esfuerzo que se requiere para actualizar los componentes que utilizan el software de cifrado.
+Definir el mensaje ISO8583 para el cambio de autorizador del legado de renovación de membresías, sustituir EPay por Authentic.
+Coordinar el equipo de desarrollo para actualizar el código para el uso del nuevo software de cifrado.
+Diseñar modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta. | Funciones:
+Definir las pruebas y tiempos de respuesta del software que sustituirá el mecanismo de cifrado de tarjetas bancarias que deben cumplir con los controles de PCI DSS.
+Solicitar los requerimientos de hardware que se requieren para la ambientación de legados que utilizan el software de cifrado.
+Ambientar los legados y sus endpoints para realizar pruebas end to end y garantizar el correcto funcionamiento del cifrado.
+Estimar tiempo y esfuerzo que se requiere para actualizar los componentes que utilizan el software de cifrado.
+Definir el mensaje ISO8583 para el cambio de autorizador del legado de renovación de membresías, sustituir EPay por Authentic.
+Coordinar el equipo de desarrollo para actualizar el código para el uso del nuevo software de cifrado.
+Diseñar modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta. | Funciones:
+Definir las pruebas y tiempos de respuesta del software que sustituirá el mecanismo de cifrado de tarjetas bancarias que deben cumplir con los controles de PCI DSS.
+Solicitar los requerimientos de hardware que se requieren para la ambientación de legados que utilizan el software de cifrado.
+Ambientar los legados y sus endpoints para realizar pruebas end to end y garantizar el correcto funcionamiento del cifrado.
+Estimar tiempo y esfuerzo que se requiere para actualizar los componentes que utilizan el software de cifrado.
+Definir el mensaje ISO8583 para el cambio de autorizador del legado de renovación de membresías, sustituir EPay por Authentic.
+Coordinar el equipo de desarrollo para actualizar el código para el uso del nuevo software de cifrado.
+Diseñar modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta.
+Herramientas: | Visual Studio 2019
+DBeaver for Informix
+JMeter
+Postman API
+Jira
+Confluence
+MobaXterm
+Visio | Visual Studio 2019
+DBeaver for Informix
+JMeter
+Postman API
+Jira
+Confluence
+MobaXterm
+Visio | Visual Studio 2019
+DBeaver for Informix
+JMeter
+Postman API
+Jira
+Confluence
+MobaXterm
+Visio | Visual Studio 2019
+DBeaver for Informix
+JMeter
+Postman API
+Jira
+Confluence
+MobaXterm
+Visio | Visual Studio 2019
+DBeaver for Informix
+JMeter
+Postman API
+Jira
+Confluence
+MobaXterm
+Visio
+Empresa
+Universidad TecMilenio | Ciudad: 
+CDMX | Puesto:
+Catedrático | De:
+Junio 2025 | A:
+Actual
+Funciones:
+Impartir clases bajo el modelo de aula invertida, promoviendo el aprendizaje activo y colaborativo.
+Diseñar planes de clase alineados al modelo educativo basado en competencias.
+Evaluar el desempeño estudiantil mediante instrumentos formativos y retroalimentación continua.
+Acompañar a los estudiantes en su desarrollo académico como mentor.
+Participar en auditorías académicas y procesos de mejora institucional para asegurar la calidad educativa. | Funciones:
+Impartir clases bajo el modelo de aula invertida, promoviendo el aprendizaje activo y colaborativo.
+Diseñar planes de clase alineados al modelo educativo basado en competencias.
+Evaluar el desempeño estudiantil mediante instrumentos formativos y retroalimentación continua.
+Acompañar a los estudiantes en su desarrollo académico como mentor.
+Participar en auditorías académicas y procesos de mejora institucional para asegurar la calidad educativa. | Funciones:
+Impartir clases bajo el modelo de aula invertida, promoviendo el aprendizaje activo y colaborativo.
+Diseñar planes de clase alineados al modelo educativo basado en competencias.
+Evaluar el desempeño estudiantil mediante instrumentos formativos y retroalimentación continua.
+Acompañar a los estudiantes en su desarrollo académico como mentor.
+Participar en auditorías académicas y procesos de mejora institucional para asegurar la calidad educativa. | Funciones:
+Impartir clases bajo el modelo de aula invertida, promoviendo el aprendizaje activo y colaborativo.
+Diseñar planes de clase alineados al modelo educativo basado en competencias.
+Evaluar el desempeño estudiantil mediante instrumentos formativos y retroalimentación continua.
+Acompañar a los estudiantes en su desarrollo académico como mentor.
+Participar en auditorías académicas y procesos de mejora institucional para asegurar la calidad educativa. | Funciones:
+Impartir clases bajo el modelo de aula invertida, promoviendo el aprendizaje activo y colaborativo.
+Diseñar planes de clase alineados al modelo educativo basado en competencias.
+Evaluar el desempeño estudiantil mediante instrumentos formativos y retroalimentación continua.
+Acompañar a los estudiantes en su desarrollo académico como mentor.
+Participar en auditorías académicas y procesos de mejora institucional para asegurar la calidad educativa.
+Empresa
+Softtek - Element Fleet Management | Empresa
+Softtek - Element Fleet Management | Ciudad: 
+CDMX | Puesto:
+Tech Lead | De:
+Enero 2020 | A:
+Mayo 2020
+Funciones:
+Configuración de RDS para PostgreSQL. 
+Configuración y ejecución de SonaQube con Docker en una instancia de EC2.
+Configuración de Dockerfile para crear la imagen del front (React) y del back (ASP.NET Core)
+Configuración de AWS Fargate para la ejecución de los contenedores de front y back.
+Automatización de la publicación de los contendores del front y el back (Azure DevOps). | Funciones:
+Configuración de RDS para PostgreSQL. 
+Configuración y ejecución de SonaQube con Docker en una instancia de EC2.
+Configuración de Dockerfile para crear la imagen del front (React) y del back (ASP.NET Core)
+Configuración de AWS Fargate para la ejecución de los contenedores de front y back.
+Automatización de la publicación de los contendores del front y el back (Azure DevOps). | Funciones:
+Configuración de RDS para PostgreSQL. 
+Configuración y ejecución de SonaQube con Docker en una instancia de EC2.
+Configuración de Dockerfile para crear la imagen del front (React) y del back (ASP.NET Core)
+Configuración de AWS Fargate para la ejecución de los contenedores de front y back.
+Automatización de la publicación de los contendores del front y el back (Azure DevOps). | Funciones:
+Configuración de RDS para PostgreSQL. 
+Configuración y ejecución de SonaQube con Docker en una instancia de EC2.
+Configuración de Dockerfile para crear la imagen del front (React) y del back (ASP.NET Core)
+Configuración de AWS Fargate para la ejecución de los contenedores de front y back.
+Automatización de la publicación de los contendores del front y el back (Azure DevOps). | Funciones:
+Configuración de RDS para PostgreSQL. 
+Configuración y ejecución de SonaQube con Docker en una instancia de EC2.
+Configuración de Dockerfile para crear la imagen del front (React) y del back (ASP.NET Core)
+Configuración de AWS Fargate para la ejecución de los contenedores de front y back.
+Automatización de la publicación de los contendores del front y el back (Azure DevOps). | Funciones:
+Configuración de RDS para PostgreSQL. 
+Configuración y ejecución de SonaQube con Docker en una instancia de EC2.
+Configuración de Dockerfile para crear la imagen del front (React) y del back (ASP.NET Core)
+Configuración de AWS Fargate para la ejecución de los contenedores de front y back.
+Automatización de la publicación de los contendores del front y el back (Azure DevOps).
+Herramientas: | AWS
+Azure DevOps
+Docker
+Visual Studio 2019
+PgAdmin for PostgreSQL | AWS
+Azure DevOps
+Docker
+Visual Studio 2019
+PgAdmin for PostgreSQL | AWS
+Azure DevOps
+Docker
+Visual Studio 2019
+PgAdmin for PostgreSQL | AWS
+Azure DevOps
+Docker
+Visual Studio 2019
+PgAdmin for PostgreSQL | AWS
+Azure DevOps
+Docker
+Visual Studio 2019
+PgAdmin for PostgreSQL
+Empresa
+Softtek - BANOBRAS | Empresa
+Softtek - BANOBRAS | Ciudad: 
+CDMX | Puesto:
+Project Manager | De:
+Junio 2019 | A:
+Dic 2019
+Funciones:
+Coordinar la etapa de análisis de los procesos de conciliación de la dependencia. 
+Elaboración del cronograma.
+Incorporación de recursos al equipo.
+Elaboración del PDP.
+Revisión de métricas.
+Monitoreo y registro de riesgos.
+Presentación de avance. | Funciones:
+Coordinar la etapa de análisis de los procesos de conciliación de la dependencia. 
+Elaboración del cronograma.
+Incorporación de recursos al equipo.
+Elaboración del PDP.
+Revisión de métricas.
+Monitoreo y registro de riesgos.
+Presentación de avance. | Funciones:
+Coordinar la etapa de análisis de los procesos de conciliación de la dependencia. 
+Elaboración del cronograma.
+Incorporación de recursos al equipo.
+Elaboración del PDP.
+Revisión de métricas.
+Monitoreo y registro de riesgos.
+Presentación de avance. | Funciones:
+Coordinar la etapa de análisis de los procesos de conciliación de la dependencia. 
+Elaboración del cronograma.
+Incorporación de recursos al equipo.
+Elaboración del PDP.
+Revisión de métricas.
+Monitoreo y registro de riesgos.
+Presentación de avance. | Funciones:
+Coordinar la etapa de análisis de los procesos de conciliación de la dependencia. 
+Elaboración del cronograma.
+Incorporación de recursos al equipo.
+Elaboración del PDP.
+Revisión de métricas.
+Monitoreo y registro de riesgos.
+Presentación de avance. | Funciones:
+Coordinar la etapa de análisis de los procesos de conciliación de la dependencia. 
+Elaboración del cronograma.
+Incorporación de recursos al equipo.
+Elaboración del PDP.
+Revisión de métricas.
+Monitoreo y registro de riesgos.
+Presentación de avance.
+Herramientas: | MS Project
+Excel
+Java (Microservcios)
+Angular | MS Project
+Excel
+Java (Microservcios)
+Angular | MS Project
+Excel
+Java (Microservcios)
+Angular | MS Project
+Excel
+Java (Microservcios)
+Angular | MS Project
+Excel
+Java (Microservcios)
+Angular
+Empresa
+Softtek - BBVA | Empresa
+Softtek - BBVA | Ciudad: 
+CDMX | Puesto:
+Project Manager | De:
+Mayo 2018 | A:
+Marzo 2019
+Funciones:
+Coordinar el cambio por reconversión monetaria de Venezuela en el sistema de Inversiones.
+Facilitar las sesiones de Daily del equipo distribuido (España – México – Venezuela).
+Seguimiento al cronograma. 
+Elaboración y supervisión de bitácoras de trabajo.
+Monitoreo de riesgos. 
+Presentación de avance. | Funciones:
+Coordinar el cambio por reconversión monetaria de Venezuela en el sistema de Inversiones.
+Facilitar las sesiones de Daily del equipo distribuido (España – México – Venezuela).
+Seguimiento al cronograma. 
+Elaboración y supervisión de bitácoras de trabajo.
+Monitoreo de riesgos. 
+Presentación de avance. | Funciones:
+Coordinar el cambio por reconversión monetaria de Venezuela en el sistema de Inversiones.
+Facilitar las sesiones de Daily del equipo distribuido (España – México – Venezuela).
+Seguimiento al cronograma. 
+Elaboración y supervisión de bitácoras de trabajo.
+Monitoreo de riesgos. 
+Presentación de avance. | Funciones:
+Coordinar el cambio por reconversión monetaria de Venezuela en el sistema de Inversiones.
+Facilitar las sesiones de Daily del equipo distribuido (España – México – Venezuela).
+Seguimiento al cronograma. 
+Elaboración y supervisión de bitácoras de trabajo.
+Monitoreo de riesgos. 
+Presentación de avance. | Funciones:
+Coordinar el cambio por reconversión monetaria de Venezuela en el sistema de Inversiones.
+Facilitar las sesiones de Daily del equipo distribuido (España – México – Venezuela).
+Seguimiento al cronograma. 
+Elaboración y supervisión de bitácoras de trabajo.
+Monitoreo de riesgos. 
+Presentación de avance. | Funciones:
+Coordinar el cambio por reconversión monetaria de Venezuela en el sistema de Inversiones.
+Facilitar las sesiones de Daily del equipo distribuido (España – México – Venezuela).
+Seguimiento al cronograma. 
+Elaboración y supervisión de bitácoras de trabajo.
+Monitoreo de riesgos. 
+Presentación de avance.
+Herramientas: | MS Project
+PPM
+Excel | MS Project
+PPM
+Excel | MS Project
+PPM
+Excel | MS Project
+PPM
+Excel | MS Project
+PPM
+Excel
+Empresa
+Softtek - BBVA | Empresa
+Softtek - BBVA | Ciudad: 
+CDMX | Puesto:
+Project Manager | De:
+Marzo 2017 | A: 
+Mayo 2018
+Funciones:
+Planificación de la asignación y desasignación de los recursos. 
+Gestión del alcance y fechas de entrega de los módulos a ente
+Seguimiento y obtención de métricas de Process Dashboard for PSP Team
+Seguimiento al cronograma.
+Monitoreo de riesgos.
+Presentación de avance y cierre de entregas.
+Análisis para la recepción o rechazo de incidentes. | Funciones:
+Planificación de la asignación y desasignación de los recursos. 
+Gestión del alcance y fechas de entrega de los módulos a ente
+Seguimiento y obtención de métricas de Process Dashboard for PSP Team
+Seguimiento al cronograma.
+Monitoreo de riesgos.
+Presentación de avance y cierre de entregas.
+Análisis para la recepción o rechazo de incidentes. | Funciones:
+Planificación de la asignación y desasignación de los recursos. 
+Gestión del alcance y fechas de entrega de los módulos a ente
+Seguimiento y obtención de métricas de Process Dashboard for PSP Team
+Seguimiento al cronograma.
+Monitoreo de riesgos.
+Presentación de avance y cierre de entregas.
+Análisis para la recepción o rechazo de incidentes. | Funciones:
+Planificación de la asignación y desasignación de los recursos. 
+Gestión del alcance y fechas de entrega de los módulos a ente
+Seguimiento y obtención de métricas de Process Dashboard for PSP Team
+Seguimiento al cronograma.
+Monitoreo de riesgos.
+Presentación de avance y cierre de entregas.
+Análisis para la recepción o rechazo de incidentes. | Funciones:
+Planificación de la asignación y desasignación de los recursos. 
+Gestión del alcance y fechas de entrega de los módulos a ente
+Seguimiento y obtención de métricas de Process Dashboard for PSP Team
+Seguimiento al cronograma.
+Monitoreo de riesgos.
+Presentación de avance y cierre de entregas.
+Análisis para la recepción o rechazo de incidentes. | Funciones:
+Planificación de la asignación y desasignación de los recursos. 
+Gestión del alcance y fechas de entrega de los módulos a ente
+Seguimiento y obtención de métricas de Process Dashboard for PSP Team
+Seguimiento al cronograma.
+Monitoreo de riesgos.
+Presentación de avance y cierre de entregas.
+Análisis para la recepción o rechazo de incidentes.
+Herramientas: | Process Dashboard for PSP Team
+StarUML
+PPM | Process Dashboard for PSP Team
+StarUML
+PPM | Process Dashboard for PSP Team
+StarUML
+PPM | Process Dashboard for PSP Team
+StarUML
+PPM | Process Dashboard for PSP Team
+StarUML
+PPM
+Empresa
+Softtek - BBVA | Empresa
+Softtek - BBVA | Ciudad: 
+CDMX | Ciudad: 
+CDMX | Puesto:
+.NET Consultant | Puesto:
+.NET Consultant | De:
+Mayo 2016 | De:
+Mayo 2016 | A: 
+Marzo 2017
+Funciones:
+Migración de sistema en plataforma de Visual Basic 6.0 a Java. 
+Ambientación de sistema para depuración e identificación de flujos de negocio.
+Elaboración de diagramas y casos de uso de las funciones identificadas en el sistema. 
+Identificación y documentación de funciones comunes en módulos de negocio diferentes.
+Registro de tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team | Funciones:
+Migración de sistema en plataforma de Visual Basic 6.0 a Java. 
+Ambientación de sistema para depuración e identificación de flujos de negocio.
+Elaboración de diagramas y casos de uso de las funciones identificadas en el sistema. 
+Identificación y documentación de funciones comunes en módulos de negocio diferentes.
+Registro de tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team | Funciones:
+Migración de sistema en plataforma de Visual Basic 6.0 a Java. 
+Ambientación de sistema para depuración e identificación de flujos de negocio.
+Elaboración de diagramas y casos de uso de las funciones identificadas en el sistema. 
+Identificación y documentación de funciones comunes en módulos de negocio diferentes.
+Registro de tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team | Funciones:
+Migración de sistema en plataforma de Visual Basic 6.0 a Java. 
+Ambientación de sistema para depuración e identificación de flujos de negocio.
+Elaboración de diagramas y casos de uso de las funciones identificadas en el sistema. 
+Identificación y documentación de funciones comunes en módulos de negocio diferentes.
+Registro de tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team | Funciones:
+Migración de sistema en plataforma de Visual Basic 6.0 a Java. 
+Ambientación de sistema para depuración e identificación de flujos de negocio.
+Elaboración de diagramas y casos de uso de las funciones identificadas en el sistema. 
+Identificación y documentación de funciones comunes en módulos de negocio diferentes.
+Registro de tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team | Funciones:
+Migración de sistema en plataforma de Visual Basic 6.0 a Java. 
+Ambientación de sistema para depuración e identificación de flujos de negocio.
+Elaboración de diagramas y casos de uso de las funciones identificadas en el sistema. 
+Identificación y documentación de funciones comunes en módulos de negocio diferentes.
+Registro de tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team | Funciones:
+Migración de sistema en plataforma de Visual Basic 6.0 a Java. 
+Ambientación de sistema para depuración e identificación de flujos de negocio.
+Elaboración de diagramas y casos de uso de las funciones identificadas en el sistema. 
+Identificación y documentación de funciones comunes en módulos de negocio diferentes.
+Registro de tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team | Funciones:
+Migración de sistema en plataforma de Visual Basic 6.0 a Java. 
+Ambientación de sistema para depuración e identificación de flujos de negocio.
+Elaboración de diagramas y casos de uso de las funciones identificadas en el sistema. 
+Identificación y documentación de funciones comunes en módulos de negocio diferentes.
+Registro de tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team | Funciones:
+Migración de sistema en plataforma de Visual Basic 6.0 a Java. 
+Ambientación de sistema para depuración e identificación de flujos de negocio.
+Elaboración de diagramas y casos de uso de las funciones identificadas en el sistema. 
+Identificación y documentación de funciones comunes en módulos de negocio diferentes.
+Registro de tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team
+Herramientas: | StarUML
+Visual Basic 6.0
+Process Dashboard for PSP Team
+SQuirreL SQL Cliente para DB2 | StarUML
+Visual Basic 6.0
+Process Dashboard for PSP Team
+SQuirreL SQL Cliente para DB2 | StarUML
+Visual Basic 6.0
+Process Dashboard for PSP Team
+SQuirreL SQL Cliente para DB2 | StarUML
+Visual Basic 6.0
+Process Dashboard for PSP Team
+SQuirreL SQL Cliente para DB2 | StarUML
+Visual Basic 6.0
+Process Dashboard for PSP Team
+SQuirreL SQL Cliente para DB2 | StarUML
+Visual Basic 6.0
+Process Dashboard for PSP Team
+SQuirreL SQL Cliente para DB2 | StarUML
+Visual Basic 6.0
+Process Dashboard for PSP Team
+SQuirreL SQL Cliente para DB2 | StarUML
+Visual Basic 6.0
+Process Dashboard for PSP Team
+SQuirreL SQL Cliente para DB2
+Empresa
+Softtek - SAT | Empresa
+Softtek - SAT | Ciudad: 
+CDMX | Puesto:
+Software Architect | Puesto:
+Software Architect | De:
+Marzo 2015 | De:
+Marzo 2015 | A:
+Mayo 2016 | A:
+Mayo 2016
+Funciones:
+Provisionamiento de servidores en Microsoft Azure
+Implementación de arquitectura de alta disponibilidad para servidores Oracle mediante RAC. 
+Implementación de arquitectura de alta disponibilidad para servidores SQL Server con AlwaysOn.
+Gestión del equipo de desarrollo para el soporte y mantenimiento del Sistema Jurídico. | Funciones:
+Provisionamiento de servidores en Microsoft Azure
+Implementación de arquitectura de alta disponibilidad para servidores Oracle mediante RAC. 
+Implementación de arquitectura de alta disponibilidad para servidores SQL Server con AlwaysOn.
+Gestión del equipo de desarrollo para el soporte y mantenimiento del Sistema Jurídico. | Funciones:
+Provisionamiento de servidores en Microsoft Azure
+Implementación de arquitectura de alta disponibilidad para servidores Oracle mediante RAC. 
+Implementación de arquitectura de alta disponibilidad para servidores SQL Server con AlwaysOn.
+Gestión del equipo de desarrollo para el soporte y mantenimiento del Sistema Jurídico. | Funciones:
+Provisionamiento de servidores en Microsoft Azure
+Implementación de arquitectura de alta disponibilidad para servidores Oracle mediante RAC. 
+Implementación de arquitectura de alta disponibilidad para servidores SQL Server con AlwaysOn.
+Gestión del equipo de desarrollo para el soporte y mantenimiento del Sistema Jurídico. | Funciones:
+Provisionamiento de servidores en Microsoft Azure
+Implementación de arquitectura de alta disponibilidad para servidores Oracle mediante RAC. 
+Implementación de arquitectura de alta disponibilidad para servidores SQL Server con AlwaysOn.
+Gestión del equipo de desarrollo para el soporte y mantenimiento del Sistema Jurídico. | Funciones:
+Provisionamiento de servidores en Microsoft Azure
+Implementación de arquitectura de alta disponibilidad para servidores Oracle mediante RAC. 
+Implementación de arquitectura de alta disponibilidad para servidores SQL Server con AlwaysOn.
+Gestión del equipo de desarrollo para el soporte y mantenimiento del Sistema Jurídico. | Funciones:
+Provisionamiento de servidores en Microsoft Azure
+Implementación de arquitectura de alta disponibilidad para servidores Oracle mediante RAC. 
+Implementación de arquitectura de alta disponibilidad para servidores SQL Server con AlwaysOn.
+Gestión del equipo de desarrollo para el soporte y mantenimiento del Sistema Jurídico. | Funciones:
+Provisionamiento de servidores en Microsoft Azure
+Implementación de arquitectura de alta disponibilidad para servidores Oracle mediante RAC. 
+Implementación de arquitectura de alta disponibilidad para servidores SQL Server con AlwaysOn.
+Gestión del equipo de desarrollo para el soporte y mantenimiento del Sistema Jurídico. | Funciones:
+Provisionamiento de servidores en Microsoft Azure
+Implementación de arquitectura de alta disponibilidad para servidores Oracle mediante RAC. 
+Implementación de arquitectura de alta disponibilidad para servidores SQL Server con AlwaysOn.
+Gestión del equipo de desarrollo para el soporte y mantenimiento del Sistema Jurídico.
+Herramientas: | Microsoft Azure
+Oracle Database 11g
+Oracle Real Application Clusters
+SQL Server 2015
+IBM Business Process Manager
+Java | Microsoft Azure
+Oracle Database 11g
+Oracle Real Application Clusters
+SQL Server 2015
+IBM Business Process Manager
+Java | Microsoft Azure
+Oracle Database 11g
+Oracle Real Application Clusters
+SQL Server 2015
+IBM Business Process Manager
+Java | Microsoft Azure
+Oracle Database 11g
+Oracle Real Application Clusters
+SQL Server 2015
+IBM Business Process Manager
+Java | Microsoft Azure
+Oracle Database 11g
+Oracle Real Application Clusters
+SQL Server 2015
+IBM Business Process Manager
+Java | Microsoft Azure
+Oracle Database 11g
+Oracle Real Application Clusters
+SQL Server 2015
+IBM Business Process Manager
+Java | Microsoft Azure
+Oracle Database 11g
+Oracle Real Application Clusters
+SQL Server 2015
+IBM Business Process Manager
+Java | Microsoft Azure
+Oracle Database 11g
+Oracle Real Application Clusters
+SQL Server 2015
+IBM Business Process Manager
+Java
+Empresa
+Softtek - CONSAR | Empresa
+Softtek - CONSAR | Ciudad: 
+CDMX | Puesto:
+Project Manager / Software Architect | Puesto:
+Project Manager / Software Architect | De:
+Agosto 2011 | De:
+Agosto 2011 | A: 
+Diciembre 2014 | A: 
+Diciembre 2014
+Funciones:
+Recepción y formalización de las ordenes de trabajo.
+Planificación y estimación de tareas y recursos.
+Presentación de avance y formalización de cierre.
+Revisión de métricas.
+Proyecto de mejora para reducción de defectos  
+Implementación de metodología PSP para disminuir los defectos y garantías reportadas.
+Definición de la plataforma base de los sistemas a construir.
+Definición y documentación de los estándares de desarrollo.
+Definición de los estándares de calidad de los entregables de cada etapa. 
+Creación de los diagramas de arquitectura | Funciones:
+Recepción y formalización de las ordenes de trabajo.
+Planificación y estimación de tareas y recursos.
+Presentación de avance y formalización de cierre.
+Revisión de métricas.
+Proyecto de mejora para reducción de defectos  
+Implementación de metodología PSP para disminuir los defectos y garantías reportadas.
+Definición de la plataforma base de los sistemas a construir.
+Definición y documentación de los estándares de desarrollo.
+Definición de los estándares de calidad de los entregables de cada etapa. 
+Creación de los diagramas de arquitectura | Funciones:
+Recepción y formalización de las ordenes de trabajo.
+Planificación y estimación de tareas y recursos.
+Presentación de avance y formalización de cierre.
+Revisión de métricas.
+Proyecto de mejora para reducción de defectos  
+Implementación de metodología PSP para disminuir los defectos y garantías reportadas.
+Definición de la plataforma base de los sistemas a construir.
+Definición y documentación de los estándares de desarrollo.
+Definición de los estándares de calidad de los entregables de cada etapa. 
+Creación de los diagramas de arquitectura | Funciones:
+Recepción y formalización de las ordenes de trabajo.
+Planificación y estimación de tareas y recursos.
+Presentación de avance y formalización de cierre.
+Revisión de métricas.
+Proyecto de mejora para reducción de defectos  
+Implementación de metodología PSP para disminuir los defectos y garantías reportadas.
+Definición de la plataforma base de los sistemas a construir.
+Definición y documentación de los estándares de desarrollo.
+Definición de los estándares de calidad de los entregables de cada etapa. 
+Creación de los diagramas de arquitectura | Funciones:
+Recepción y formalización de las ordenes de trabajo.
+Planificación y estimación de tareas y recursos.
+Presentación de avance y formalización de cierre.
+Revisión de métricas.
+Proyecto de mejora para reducción de defectos  
+Implementación de metodología PSP para disminuir los defectos y garantías reportadas.
+Definición de la plataforma base de los sistemas a construir.
+Definición y documentación de los estándares de desarrollo.
+Definición de los estándares de calidad de los entregables de cada etapa. 
+Creación de los diagramas de arquitectura | Funciones:
+Recepción y formalización de las ordenes de trabajo.
+Planificación y estimación de tareas y recursos.
+Presentación de avance y formalización de cierre.
+Revisión de métricas.
+Proyecto de mejora para reducción de defectos  
+Implementación de metodología PSP para disminuir los defectos y garantías reportadas.
+Definición de la plataforma base de los sistemas a construir.
+Definición y documentación de los estándares de desarrollo.
+Definición de los estándares de calidad de los entregables de cada etapa. 
+Creación de los diagramas de arquitectura | Funciones:
+Recepción y formalización de las ordenes de trabajo.
+Planificación y estimación de tareas y recursos.
+Presentación de avance y formalización de cierre.
+Revisión de métricas.
+Proyecto de mejora para reducción de defectos  
+Implementación de metodología PSP para disminuir los defectos y garantías reportadas.
+Definición de la plataforma base de los sistemas a construir.
+Definición y documentación de los estándares de desarrollo.
+Definición de los estándares de calidad de los entregables de cada etapa. 
+Creación de los diagramas de arquitectura | Funciones:
+Recepción y formalización de las ordenes de trabajo.
+Planificación y estimación de tareas y recursos.
+Presentación de avance y formalización de cierre.
+Revisión de métricas.
+Proyecto de mejora para reducción de defectos  
+Implementación de metodología PSP para disminuir los defectos y garantías reportadas.
+Definición de la plataforma base de los sistemas a construir.
+Definición y documentación de los estándares de desarrollo.
+Definición de los estándares de calidad de los entregables de cada etapa. 
+Creación de los diagramas de arquitectura | Funciones:
+Recepción y formalización de las ordenes de trabajo.
+Planificación y estimación de tareas y recursos.
+Presentación de avance y formalización de cierre.
+Revisión de métricas.
+Proyecto de mejora para reducción de defectos  
+Implementación de metodología PSP para disminuir los defectos y garantías reportadas.
+Definición de la plataforma base de los sistemas a construir.
+Definición y documentación de los estándares de desarrollo.
+Definición de los estándares de calidad de los entregables de cada etapa. 
+Creación de los diagramas de arquitectura
+Herramientas: | MS Project
+SQL Server 2008
+Visual Studio 2010
+JQuery
+Visio | MS Project
+SQL Server 2008
+Visual Studio 2010
+JQuery
+Visio | MS Project
+SQL Server 2008
+Visual Studio 2010
+JQuery
+Visio | MS Project
+SQL Server 2008
+Visual Studio 2010
+JQuery
+Visio | MS Project
+SQL Server 2008
+Visual Studio 2010
+JQuery
+Visio | MS Project
+SQL Server 2008
+Visual Studio 2010
+JQuery
+Visio | MS Project
+SQL Server 2008
+Visual Studio 2010
+JQuery
+Visio | MS Project
+SQL Server 2008
+Visual Studio 2010
+JQuery
+Visio
+Empresa
+Softtek - Nielsen | Empresa
+Softtek - Nielsen | Ciudad: 
+CDMX | Puesto:
+.NET Consultant | De:
+Marzo 2010 | A:
+Agosto 2011
+Funciones:
+Diseño y creación de extractores de información de los principales retailers del país para el análisis y comparación de ventas y precios.
+Diseño y creación de cubos offline.
+Optimización de scripts y base de datos para la obtención de datos.
+Capacitación sobre los extractores de información a los equipos de LATAM. | Funciones:
+Diseño y creación de extractores de información de los principales retailers del país para el análisis y comparación de ventas y precios.
+Diseño y creación de cubos offline.
+Optimización de scripts y base de datos para la obtención de datos.
+Capacitación sobre los extractores de información a los equipos de LATAM. | Funciones:
+Diseño y creación de extractores de información de los principales retailers del país para el análisis y comparación de ventas y precios.
+Diseño y creación de cubos offline.
+Optimización de scripts y base de datos para la obtención de datos.
+Capacitación sobre los extractores de información a los equipos de LATAM. | Funciones:
+Diseño y creación de extractores de información de los principales retailers del país para el análisis y comparación de ventas y precios.
+Diseño y creación de cubos offline.
+Optimización de scripts y base de datos para la obtención de datos.
+Capacitación sobre los extractores de información a los equipos de LATAM. | Funciones:
+Diseño y creación de extractores de información de los principales retailers del país para el análisis y comparación de ventas y precios.
+Diseño y creación de cubos offline.
+Optimización de scripts y base de datos para la obtención de datos.
+Capacitación sobre los extractores de información a los equipos de LATAM. | Funciones:
+Diseño y creación de extractores de información de los principales retailers del país para el análisis y comparación de ventas y precios.
+Diseño y creación de cubos offline.
+Optimización de scripts y base de datos para la obtención de datos.
+Capacitación sobre los extractores de información a los equipos de LATAM.
+Herramientas: | SQL Server 2008
+SQL Server Business Intelligence 2008
+Visual Studio 2010 | SQL Server 2008
+SQL Server Business Intelligence 2008
+Visual Studio 2010 | SQL Server 2008
+SQL Server Business Intelligence 2008
+Visual Studio 2010 | SQL Server 2008
+SQL Server Business Intelligence 2008
+Visual Studio 2010 | SQL Server 2008
+SQL Server Business Intelligence 2008
+Visual Studio 2010
+Empresa
+Hildebrando - Deloitte | Empresa
+Hildebrando - Deloitte | Ciudad: 
+CDMX | Puesto:
+.NET Consultant | De:
+Mayo 2008 | A:
+Febrero 2010
+Funciones:
+Nuevos desarrollos y mantenimientos a los sistemas internos: base de clientes, series de tiempos, vacaciones, portal de gastos. 
+Actualización de .NET Framework.
+Migración de ETL de SQL Server 2000 a SQL Server 2008. | Funciones:
+Nuevos desarrollos y mantenimientos a los sistemas internos: base de clientes, series de tiempos, vacaciones, portal de gastos. 
+Actualización de .NET Framework.
+Migración de ETL de SQL Server 2000 a SQL Server 2008. | Funciones:
+Nuevos desarrollos y mantenimientos a los sistemas internos: base de clientes, series de tiempos, vacaciones, portal de gastos. 
+Actualización de .NET Framework.
+Migración de ETL de SQL Server 2000 a SQL Server 2008. | Funciones:
+Nuevos desarrollos y mantenimientos a los sistemas internos: base de clientes, series de tiempos, vacaciones, portal de gastos. 
+Actualización de .NET Framework.
+Migración de ETL de SQL Server 2000 a SQL Server 2008. | Funciones:
+Nuevos desarrollos y mantenimientos a los sistemas internos: base de clientes, series de tiempos, vacaciones, portal de gastos. 
+Actualización de .NET Framework.
+Migración de ETL de SQL Server 2000 a SQL Server 2008. | Funciones:
+Nuevos desarrollos y mantenimientos a los sistemas internos: base de clientes, series de tiempos, vacaciones, portal de gastos. 
+Actualización de .NET Framework.
+Migración de ETL de SQL Server 2000 a SQL Server 2008.
+Herramientas: | Visual Studio 2005, 2008
+SQL Server 2000, 2005, 2008
+SQL Server Integration Services 2008
+SQL Server Reporting Services 2005, 2008
+ASP.NET Ajax | Visual Studio 2005, 2008
+SQL Server 2000, 2005, 2008
+SQL Server Integration Services 2008
+SQL Server Reporting Services 2005, 2008
+ASP.NET Ajax | Visual Studio 2005, 2008
+SQL Server 2000, 2005, 2008
+SQL Server Integration Services 2008
+SQL Server Reporting Services 2005, 2008
+ASP.NET Ajax | Visual Studio 2005, 2008
+SQL Server 2000, 2005, 2008
+SQL Server Integration Services 2008
+SQL Server Reporting Services 2005, 2008
+ASP.NET Ajax | Visual Studio 2005, 2008
+SQL Server 2000, 2005, 2008
+SQL Server Integration Services 2008
+SQL Server Reporting Services 2005, 2008
+ASP.NET Ajax
+Empresa
+Puntos Net | Empresa
+Puntos Net | Ciudad: 
+CDMX | Puesto:
+.NET Developer | De:
+Febrero 2006 | A:
+Abril 2007
+Funciones:
+Personalización de los sitios de lealtad de ROBERT’S, Nine West, Casa Cuervo y Pluckers Bar.
+Mantenimiento a la base de datos.
+Creación de reportes. | Funciones:
+Personalización de los sitios de lealtad de ROBERT’S, Nine West, Casa Cuervo y Pluckers Bar.
+Mantenimiento a la base de datos.
+Creación de reportes. | Funciones:
+Personalización de los sitios de lealtad de ROBERT’S, Nine West, Casa Cuervo y Pluckers Bar.
+Mantenimiento a la base de datos.
+Creación de reportes. | Funciones:
+Personalización de los sitios de lealtad de ROBERT’S, Nine West, Casa Cuervo y Pluckers Bar.
+Mantenimiento a la base de datos.
+Creación de reportes. | Funciones:
+Personalización de los sitios de lealtad de ROBERT’S, Nine West, Casa Cuervo y Pluckers Bar.
+Mantenimiento a la base de datos.
+Creación de reportes. | Funciones:
+Personalización de los sitios de lealtad de ROBERT’S, Nine West, Casa Cuervo y Pluckers Bar.
+Mantenimiento a la base de datos.
+Creación de reportes.
+Herramientas: | Visual Studio 2005
+SQL Server 2005
+SQL Server Reporting Services 2005 | Visual Studio 2005
+SQL Server 2005
+SQL Server Reporting Services 2005 | Visual Studio 2005
+SQL Server 2005
+SQL Server Reporting Services 2005 | Visual Studio 2005
+SQL Server 2005
+SQL Server Reporting Services 2005 | Visual Studio 2005
+SQL Server 2005
+SQL Server Reporting Services 2005
+EDUCACIÓN:
+Título | Universidad | Ciudad/Año
+Maestría en Dirección de Proyectos | Universidad Virtual del Estado de Guanajuato | -
+Ingeniería en Sistemas Computacionales | Universidad Tecnológica de México | CDMX/2005
+CERTIFICACIONES Y CURSOS:
+Nombre | Lugar | Año
+Project Management Professional (PMP)® | CDMX | 2023
+IBM - Introduction to DevOps | CDMX | 2023
+IBM - Introduction to Containers w/ Docker, Kubernetes & OpenShift | CDMX | 2023
+IBM - Introduction to Agile Development and Scrum | CDMX | 2023
+Scrum Master Certified (SMC®) | CDMX | 2021
+Personal Software Process | CDMX | 2018
+Taller de Medición Funcional Cosmic | CDMX | 2018

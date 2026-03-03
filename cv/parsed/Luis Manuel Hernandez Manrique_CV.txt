@@ -1,0 +1,220 @@
+
+
+--- Página 1 ---
+
+Analista de
+negocio senior
+Ciudad de México, México
+SKILLS
+Análisis de requerimientos y
+negocio
+Scrum y me todologías ágiles
+Herramientas Microsoft Office
+(Word, Excel, Visio)
+Modelado con Draw.io, StarUML
+y Bizagi
+Gestión de pruebas funcionales
+Integración y configuración SAP
+Integration Center
+ 
+IDIOMAS
+Español Nativo
+Inglés Intermedio Alto
+ 
+EDUCACIÓN Y
+FORMACIÓN
+Ciudad de México
+Maestría en Ciencia de Datos
+Mayo 2019 - Diciembre 2021
+Ciudad de México
+Ingeniería en Informática
+Junio 2000 - Julio 2004Luis Manuel
+Hernandez Manrique
+RESUMEN
+Soy un analista de negocio con más de quince años de experiencia en la
+identificación y definición de requerimientos para mejorar sistemas en diversas industrias
+como ventas minoristas, finanzas, gobierno, manufactura y telecomunicaciones. He
+liderado equipos y gestionado proyectos complejos con metodologías ágiles como Scrum,
+y poseo habilidades avanzadas en herramientas como JIRA, Visio, MS Project y SAP
+Integration Center. Cuento con formación en Ingeniería en Informática y Maestría en
+Ciencia de Datos, además de nivel intermedio de inglés.
+ 
+EXPERIENCIA PROFESIONAL
+Analista Senior – IMSS | Ciudad de México
+Octubre 2025 - Diciembre 2025
+En este rol, participé activamente en la definición detallada de requerimientos mediante
+la creación de formatos específicos como casos de uso y formularios F05 para proyectos
+claves como Convenios 2025 con entidades financieras y SISTRAP. Me encargué de la
+ejecución de pruebas funcionales para asegurar la calidad y funcionalidad del sistema en
+entornos de alto impacto.
+Elaboración y definición estructurada de requerimientos para sistemas críticos.
+Generación de casos de uso y documentación de apoyo para proyectos financieros
+y gubernamentales.
+Planificación y ejecución meticulosa de pruebas funcionales asegurando la calidad
+del producto.
+Colaboración estrecha con equipos multidisciplinarios para garantizar la correcta
+implementación de los requisitos.
+Tools/Skills: Word, Excel, JIRA, Scrum, Visio, MS Project, Draw.io
+Analista Senior – Staff Softtek | Ciudad de México
+Enero 2025 - Septiembre 2025
+Mi responsabilidad principal fue la definición y gestión de procesos de requerimientos
+solicitados por áreas financieras, apoyando entrevistas con usuarios para identificar KPIs
+esenciales para la elaboración de dashboards. Además, creé historias de usuario precisas que
+servían como documento principal para la definición de requerimientos y participé en la
+definición y ejecución de pruebas funcionales sobre los reportes desarrollados.
+Análisis y documentación de requerimientos financieros complejos.
+Entrevistas de usuario para captación de indicadores de desempeño clave (KPIs).
+Redacción detallada de historias de usuario para equipos de desarrollo.
+
+--- Página 2 ---
+
+Planificación y ejecución de pruebas funcionales para asegurar calidad y precisión
+en los reportes.
+Tools/Skills: Word, Excel, JIRA, Scrum, Visio, MS Project, Draw.io
+Business Analyst – Instituto Federal de Telecomunicaciones | Ciudad de México
+Septiembre 2024 - Diciembre 2024
+Brindé soporte en diversos proyectos mediante el análisis experto de propuestas dirigidas
+al Instituto. Realicé propuestas de tiempos de análisis basados en juicio experto y realicé
+conteo Cosmic apoyándome en la documentación generada. Desarrollé entregables formales
+de análisis, incluyendo casos de uso, diagramas diversos, modelos de dominio y diagramas de
+procesos, contexto y estados.
+Análisis detallado y estimación de tiempos para proyectos regulatorios.
+Creación de documentación técnica y funcional clara y precisa.
+Elaboración de diagramas y modelos para facilitar la comprensión a equipos
+multidisciplinarios.
+Apoyo directo en la entrega de artefactos que soportan la toma de decisiones
+institucionales.
+Tools/Skills: KIOSKO, herramientas de modelado y análisis
+Business Analyst Senior – KIOSKO | Ciudad de México
+Octubre 2023 - Junio 2024
+Estuve encargado de la definición integral de requerimientos, creación de historias de
+usuario con criterios bien definidos, identificación precisa de reglas de negocio y generación
+de modelos de dominio que sustenten el desarrollo. Además definí el diseño funcional para
+asegurar alineación con las necesidades del negocio y la viabilidad técnica.
+Documentación exhaustiva de historias de usuario con criterios de aceptación
+claros.
+Modelado de dominio para representación exacta de la lógica del negocio.
+Colaboración en el diseño funcional para garantizar la calidad y usabilidad.
+Apoyo continuo a equipos técnicos durante el ciclo de vida del desarrollo.
+Tools/Skills: Scrum, Office, Draw.io
+Business Analyst Senior – Walmart | Ciudad de México
+Mayo 2023 - Octubre 2023
+Responsable de la gestión y definición de requerimientos para la backlog, con especial
+atención a funcionalidades críticas como artículos restringidos y manejo de pérdida de
+conexión en servicios de tienda. Realicé la elaboración y modificación de historias de usuario
+y diagramas de secuencia, además de apoyar la solicitud de aprobaciones y control de
+camb ios para distintos proyectos vinculados al sistema SAP CAR y servicios NCR, asegurando
+la continuidad operativa y actu alización de funcionalidades.
+Definición de requisitos funcionales clave para servicios críticos en tienda.
+Desarrollo y ajuste de historias de usuario y diagramas de secuencia.
+Apoyo activo en controles de cambio y liberación de versiones.
+Coordinación y creación de Statement of Work (SOW) con proveedores externos.
+Tools/Skills: MS Office, Scrum
+
+--- Página 3 ---
+
+Analista de Negocio – Walmart Proyectos RH | Ciudad de México
+Junio 2020 - Marzo 2023
+Brindé soporte en la definición y diseño de reglas de negocio para procesos
+automatizados de altas con RPA y el sistema BONO 2021. Participé en la definición de
+requisitos para la disposición de nómina a través de POS para asociados, además de
+identificar y sugerir ajustes en interfaces preexistentes, garantizando la correcta funcionalidad
+y alineación con los procesos de negocio.
+Definición estratégica de reglas de negocio para sistemas de nómina y
+bonificación.
+Soporte en integración y ajuste de interfaces con sistemas existentes.
+Participación activa en procesos de mejora continua y automatización.
+Colaboración con equipos técnicos y operativos para asegurar cumplimiento de
+requerimientos.
+Tools/Skills: MS Word, MS Excel, Scrum, Integration Center (SAP)
+Analista de Negocio – Walmart Atenea | Ciudad de México
+Junio 2018 - Mayo 2020
+Responsable de la definición, configuración y pruebas integrales de interfaces entre
+el sistema de nómina Employee Central – SuccessFactors y sistemas satélites como HRDW,
+reclutamiento, tiendas y registro de tiempos. Brindé soporte en ambientes productivos,
+configurando reportes, detectando fallas y facilitando la obtención de información clave para
+departamentos de seguimiento, contribuyendo a la continuidad operativa y eficiencia del
+sistema de nómina.
+Diseño y configuración de interfaces críticas para la integración del sistema de
+nómina.
+Realización de pruebas end-to-end para validar interacciones entre sistemas.
+Detección y resolución de fallas en ambientes productivos.
+Análisis de soluciones para optimización y correcta distribución de información.
+Tools/Skills: Integration Center (SAP), Scrum, Word, MS Excel
+Analista de Negocio – Walmart Nueva Factura | Ciudad de México
+Octubre 2017 - Mayo 2018
+Contribuí en la definición de requerimientos y creación de casos de uso para nuevas
+facturaciones electrónicas exigidas por el gobierno federal. Realicé pruebas funcionales con
+usuarios finales y ofrecí soporte técnico y funcional a los equipos técnicos y de testing para
+garantizar la correcta implementación de nuevos camp os contables y formatos de reporte,
+asegurando el cumplimiento normativo y operativo.
+Generación de casos de uso detallados para nuevos requerimientos.
+Pruebas funcionales participativas con usuarios clave.
+Interacción y soporte técnico a equipos multidisciplinarios.
+Adaptación de procesos para cumplir nuevas regulaciones fiscales.
+Tools/Skills: LucidChart, Visio, Scrum
+Líder Funcional – La Comer | Ciudad de México
+Febrero 2017 - Septiembre 2017
+Dirigí el descubrimiento y análisis de requerimientos, diseño funcional y creación de
+historias de usuario con criterios de aceptación precisos para mejorar la experiencia en la
+
+--- Página 4 ---
+
+tienda en línea de La Comer. Generé diseños de pantallas de baja fidelidad, diagramas de
+flujo, modelos de dominio y actividades, además de coordinar y ejecutar pruebas funcionales
+para asegurar que los sistemas interactuaran correctame nte con los módulos de promociones
+y seguimiento de pedidos.
+Liderazgo en análisis y diseño funcional de e-commerce.
+Generación de documentación técnica y funcional exhaustiva.
+Coordinación y ejecución efectiva de pruebas funcionales.
+Garantía de integración exitosa entre sistemas diversos.
+Tools/Skills: Visio, Microsoft SharePoint, StarUML, Papyrus, Bizagi
+Analista de Negocio – IMSS | Ciudad de México
+Agosto 2016 - Enero 2017
+Realicé el descubrimiento y análisis detallado de requerimientos del usuario final,
+incluyendo diseño funcional, casos de uso, pantallas de baja fidelidad y diagramas de caso de
+uso, dominio y actividad. Además, diseñé y coordiné pruebas funcionales para validar la
+correcta implementación de soluciones, asegurando un alineamiento óptimo con las
+necesidades institucionales.
+Análisis y diseño funcional detallado para proyectos de salud pública.
+Generación y mantenimiento de documentación técnica esencial.
+Planificación y ejecución de pruebas funcionales con enfoque en calidad.
+Comunicación efectiva con stakeholders y equipos técnicos.
+Tools/Skills: Visio, Office, Bizagi, SharePoint
+Analista de Negocio – Fiduciario BBV A | Ciudad de México
+Enero 2016 - Julio 2016
+Analicé funcionalidades mediante código Visual Basic 6 para identificar y documentar
+escenarios de negocio, generando historias de usuario y modelos de dominio claros. Elaboré
+diagramas de actividad para ejemplificar procesos complejos y facilitar su comprensión al
+equipo de diseño, optimizando la traducción entre negocio y tecnología.
+Análisis profundo de código legado para extracción de requisitos.
+Generación de historias de usuario con escenarios detallados.
+Modelado visual de procesos para soporte a equipos técnicos.
+Colaboración multidisciplinaria para facilitar diseño y desarrollo.
+Tools/Skills: Visio, Office, StarUML, Dashboard, MS Visual Basic 6, SharePoint
+Analista de Negocio – SDMA2 SAT | Ciudad de México
+Marzo 2015 - Diciembre 2015
+Encargado de la creación de propuestas de solución para nuevas funcionalidades en
+sistemas activos, incluyendo análisis de negocio, diseño de modelo lógico de datos y
+documentación completa para sustentar cambios y mejoras, contribuyendo a la evolución
+estable de los sistemas administrativos del SAT.
+Propuestas de mejora y solución para sistemas administrativos.
+Modelado lógico de datos para respaldar nuevas funcionalidades.
+Documentación detallada para equipos técnicos y de negocio.
+Participación en procesos de mejora continua y optimización.
+
+--- Página 5 ---
+
+Tools/Skills: Visio, Office, Rational Software Architect, StarUML, MS Project, Dashboard,
+SharePoint
+Analista de Negocio – Ventanilla Única (VUCEM) SAT | Ciudad de México
+Febrero 2014 - Febrero 2015
+Negocié y validé nuevos requerimientos con clientes externos, implementando buenas
+prácticas en análisis de negocio además de administrar y planificar tareas de equipos de
+analistas, asegurando eficiencia y cumplimiento en los procesos de análisis y documentación
+para programas gubernamentales.
+Gestión y negociación efectiva de requerimientos con stakeholders.
+Implementación de metodologías ágiles y buenas prácticas de análisis.
+Administración y planificación de tareas para equipos de analistas.
+Facilitación de la comunicación entre áreas de negocio y técnica.
+Tools/Skills: MS Word

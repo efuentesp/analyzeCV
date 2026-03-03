@@ -1,0 +1,224 @@
+[
+  {
+    "nombre": "Jeffry Antonio Armenta Palomares",
+    "rol_propuesto": "Analista de entrega documental",
+    "resumen_profesional": "Gestión de proyectos y coordinación de equipos en entornos ágiles y de operación.\nPlanificación y seguimiento de entregables, liberaciones y actividades mediante JIRA y SharePoint.\nInterlocución con stakeholders y conducción de sesiones de UAT para validación funcional.\nElaboración y documentación de artefactos, planes de trabajo, DRP y transferencia de conocimiento.\n\nAnálisis y documentación de procesos y requerimientos técnicos para migraciones y mejoras operativas.\nImplementación de prácticas ITIL para control de incidencias y aseguramiento de calidad.\nCoordinación de presentaciones de estatus y gestión de riesgos y escalamiento de issues.\nApoyo en propuestas, cartas de cierre y gestión de cambios en ServiceNow.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek - NMP",
+        "puesto": "Project Manager Sr/Scrum Master",
+        "fecha_inicio": "abril 2022",
+        "fecha_fin": "Actual",
+        "actividades_principales": [
+          "Elaborar propuestas de proyectos",
+          "Elaborar cartas de aceptación y cierre (facturación)",
+          "Realizar sesiones de trabajo diarias basadas en Scrum y Kanban",
+          "Gestionar entregables y artefactos en SharePoint",
+          "Documentar tickets de cambio en ServiceNow",
+          "Elaborar DRP y plan de riesgos",
+          "Generar KT (knowledge transfer) para transferencia del conocimiento"
+        ]
+      },
+      {
+        "empresa": "Softtek - Walmart",
+        "puesto": "Business Analyst",
+        "fecha_inicio": "septiembre 2021",
+        "fecha_fin": "diciembre 2021",
+        "actividades_principales": [
+          "Generar tareas y dar seguimiento en JIRA",
+          "Documentar tickets de cambio en ServiceNow",
+          "Presentar avance semanal del proyecto asignado"
+        ]
+      },
+      {
+        "empresa": "Grupo Futuro 46 - Metlife",
+        "puesto": "Documentador de Procesos / Analista de Proyectos",
+        "fecha_inicio": "abril 2020",
+        "fecha_fin": "agosto 2021",
+        "actividades_principales": [
+          "Elaborar manuales, diagramas de flujo, organigramas, guías operativas y fichas de producto",
+          "Mapear y definir procesos mediante metodología ITIL",
+          "Crear y actualizar reportes y métricas utilizando tablas dinámicas y presentaciones visuales",
+          "Implementar soluciones identificadas con operación y sistemas orientadas a rentabilidad y servicio"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "noviembre 2012 - marzo 2020",
+    "resumen_laboral": "Experiencia en supervisión y gestión de soporte técnico, capacitación e implementación de buenas prácticas ITIL. Elaboración de planes de trabajo, manuales, normas y documentación operativa, así como seguimiento de incidencias y control de calidad. Coordinación de personal, gestión documental y ejecución de auditorías de procesos.",
+    "estudios": {
+      "carrera": "Licenciatura en Administración (Universidad Insurgentes)",
+      "lugar": "Ecatepec, Estado de México",
+      "periodo": "2014 - 2017"
+    },
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "Curso básico de gestión documental y organización de archivo"
+      },
+      {
+        "nombre": "Identify & Define the Problem with Business Analysis"
+      },
+      {
+        "nombre": "Project Management Complete_Everything for Everyone NEW PMI"
+      }
+    ]
+  },
+  {
+    "nombre": "Luis Manuel Hernandez Manrique",
+    "rol_propuesto": "Analista de entrega documental",
+    "resumen_profesional": "Realizar análisis de requerimientos tecnológicos y de mejora de procesos,\ndocumentar y consolidar requerimientos complejos para soluciones empresariales,\ncoordinar con equipos de desarrollo, QA y áreas de negocio para garantizar alineación,\ny validar funcionalmente entregables mediante pruebas y seguimiento a QA.\nFacilitar la interlocución con usuarios y stakeholders para definir alcance y criterios,\nliderar y orientar equipos de analistas en la elaboración de historias de usuario,\naplicar metodologías ágiles y herramientas de modelado para soportar decisiones,\ny asegurar continuidad operativa y cumplimiento de requisitos en entornos críticos.",
+    "experiencia_laboral": [
+      {
+        "empresa": "IMSS",
+        "puesto": "Analista Senior",
+        "fecha_inicio": "octubre 2025",
+        "fecha_fin": "diciembre 2025",
+        "actividades_principales": [
+          "Elaborar y definir requerimientos estructurados para sistemas críticos",
+          "Diseñar casos de uso y formatos funcionales (formularios F05) para proyectos clave"
+        ]
+      },
+      {
+        "empresa": "Staff Softtek",
+        "puesto": "Analista Senior",
+        "fecha_inicio": "enero 2025",
+        "fecha_fin": "septiembre 2025",
+        "actividades_principales": [
+          "Definir y gestionar procesos de requerimientos para áreas financieras",
+          "Realizar entrevistas con usuarios para identificar KPIs y redactar historias de usuario"
+        ]
+      },
+      {
+        "empresa": "Instituto Federal de Telecomunicaciones",
+        "puesto": "Business Analyst",
+        "fecha_inicio": "septiembre 2024",
+        "fecha_fin": "diciembre 2024",
+        "actividades_principales": [
+          "Analizar propuestas y estimar tiempos de análisis basados en juicio experto",
+          "Generar entregables formales: casos de uso, diagramas y modelos de dominio"
+        ]
+      },
+      {
+        "empresa": "KIOSKO",
+        "puesto": "Business Analyst Senior",
+        "fecha_inicio": "octubre 2023",
+        "fecha_fin": "junio 2024",
+        "actividades_principales": [
+          "Definir requerimientos integrales y crear historias de usuario con criterios claros",
+          "Modelar dominios y documentar reglas de negocio para soportar diseño funcional"
+        ]
+      },
+      {
+        "empresa": "Walmart",
+        "puesto": "Business Analyst Senior",
+        "fecha_inicio": "mayo 2023",
+        "fecha_fin": "octubre 2023",
+        "actividades_principales": [
+          "Gestionar y priorizar backlog para funcionalidades críticas en servicios de tienda",
+          "Elaborar y ajustar historias de usuario y diagramas de secuencia, apoyando control de cambios"
+        ]
+      },
+      {
+        "empresa": "Walmart Proyectos RH",
+        "puesto": "Analista de Negocio",
+        "fecha_inicio": "junio 2020",
+        "fecha_fin": "marzo 2023",
+        "actividades_principales": [
+          "Definir y diseñar reglas de negocio para procesos automatizados y sistemas de nómina",
+          "Soportar integración de interfaces y realizar pruebas end-to-end para validar interacciones"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "febrero 2014 - mayo 2020",
+    "resumen_laboral": "Desempeñar funciones de análisis de negocio y liderazgo funcional en proyectos gubernamentales y de retail, incluyendo descubrimiento de requerimientos, diseño funcional, modelado y coordinación de pruebas, con foco en integración de sistemas y mejora de procesos.",
+    "estudios": {
+      "carrera": "Ingeniería en Informática",
+      "lugar": "Ciudad de México",
+      "periodo": "junio 2000 - julio 2004"
+    },
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "Agile Business Analysis"
+      },
+      {
+        "nombre": "Estimacion de proyectos de software"
+      },
+      {
+        "nombre": "Excel -Formulas tablas dinámcas y dashboards"
+      },
+      {
+        "nombre": "Financial Modeling for Business Analysts and Consultants"
+      },
+      {
+        "nombre": "Product Management Fundamentals"
+      },
+      {
+        "nombre": "Product Owner Essential"
+      },
+      {
+        "nombre": "Robust Scrum Product Owner"
+      },
+      {
+        "nombre": "Production for Management Consultants and Business Analysts"
+      },
+      {
+        "nombre": "Strategy for Management Consultants & Business Analysts"
+      },
+      {
+        "nombre": "Supply Chain for Management Consultants & Business Analysts"
+      }
+    ]
+  },
+  {
+    "nombre": "Guadalupe Rosas Bernal",
+    "rol_propuesto": "Analista de entrega documental",
+    "resumen_profesional": "Amplia experiencia en análisis y documentación de requerimientos tecnológicos para proyectos del sector financiero y comerciales. Coordinación de equipos de desarrollo, QA y áreas de negocio para asegurar cumplimiento de entregables. Gestión de cambios y seguimiento de actividades en entornos UAT y PROD.\n\nExperiencia en preparación de paquetes de instalación y soporte a pruebas, configuración de mecanismos de intercambio de archivos y automatización de procesos. Elaboración y actualización de documentación técnica durante migraciones y upgrades para garantizar continuidad operativa.",
+    "experiencia_laboral": [
+      {
+        "empresa": "La Mancha Consultores SC",
+        "puesto": "ST Integrador, BA",
+        "fecha_inicio": "agosto 2019",
+        "fecha_fin": "julio 2021",
+        "actividades_principales": [
+          "Analizar requerimientos de alto nivel para proyectos como Implement IFRS9 and Accounting Event Model for PILS & Payroll.",
+          "Coordinar los equipos participantes en el desarrollo para garantizar el cumplimiento de los objetivos.",
+          "Gestionar y dar seguimiento a las actividades del proyecto para asegurar entregables en tiempo y forma.",
+          "Participar como ST Integrador en proyectos CFDI Complemento de Pago y Llaves PIN CVV."
+        ]
+      },
+      {
+        "empresa": "Randstad Mexico S de RL de CV",
+        "puesto": "Information Analyst",
+        "fecha_inicio": "mayo 2015",
+        "fecha_fin": "noviembre 2018",
+        "actividades_principales": [
+          "Atender sistemas comerciales a nivel nacional e internacional.",
+          "Analizar requerimientos y elaborar estimaciones para nuevos desarrollos.",
+          "Desarrollar nuevos requerimientos funcionales acordes a necesidades de negocio.",
+          "Generar, administrar y realizar tuning de bases de datos para optimizar performance.",
+          "Desarrollar stored procedures para optimización de reportes y procesos.",
+          "Actuar como DBA Sybase en ambientes de pruebas.",
+          "Extraer información relacionada con incidencias para análisis y diagnóstico.",
+          "Generar tableros para el análisis y corrección de incidencias recurrentes por país."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "julio 2021 - Actual",
+    "resumen_laboral": "Participación en proyectos de clonación y separación de aplicaciones para procesos de divestiture bancario. Actividades centradas en recompilación de aplicaciones, preparación de paquetes de instalación, elaboración de solicitudes de cambio en Service Now, soporte a pruebas, configuración de mecanismos de intercambio de archivos y generación de jobs de automatización, así como participación en upgrades de plataformas.",
+    "estudios": {
+      "carrera": "Ingenieria en Computacion",
+      "lugar": "Facultad de Ingeniería UNAM, CDMX",
+      "periodo": "1990 - 1994"
+    },
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "Business Analysis Working with Use Cases"
+      },
+      {
+        "nombre": "Identify & Define the Problem with Business Analysis"
+      }
+    ]
+  }
+]

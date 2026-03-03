@@ -43,22 +43,15 @@
       "lugar": "México",
       "periodo": "2007"
     },
-    "certificaciones_y_cursos": [
+    "certificaciones": [
       {
-        "nombre": "ISTQB",
-        "anio": "2013"
-      },
+        "nombre": "ISTQB Certified Tester",
+        "anio": "2012"
+      }
+    ],
+    "cursos": [
       {
-        "nombre": "Certificación RPA starter",
-        "anio": "2019"
-      },
-      {
-        "nombre": "Certificación SCRUM Fundamentals",
-        "anio": "2022"
-      },
-      {
-        "nombre": "Curso Academia de QA",
-        "anio": ""
+        "nombre": "Srum Fundamentals Certified"
       }
     ]
   },
@@ -100,18 +93,15 @@
       "lugar": "Cuautitlán Izcalli, Estado de México",
       "periodo": "2001-2004"
     },
-    "certificaciones_y_cursos": [
+    "certificaciones": [
       {
-        "nombre": "Certificación en ISO 27001 Foundation",
-        "anio": "2022"
-      },
-      {
-        "nombre": "Scrum Fundamentals Certified (SFC)",
-        "anio": "2022"
-      },
-      {
-        "nombre": "Certificación en ISTQB Foundation Level",
+        "nombre": "ISTQB Certified Tester",
         "anio": "2016"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "Srum Fundamentals Certified"
       }
     ]
   },
@@ -163,22 +153,15 @@
       "lugar": "Tlalnepantla de Baz, Estado de México",
       "periodo": "2012-2016"
     },
-    "certificaciones_y_cursos": [
+    "certificaciones": [
       {
-        "nombre": "ISTQB – Certified Tester, Foundation Level",
+        "nombre": "ISTQB Certified Tester",
         "anio": "2020"
-      },
+      }
+    ],
+    "cursos": [
       {
-        "nombre": "SAFe for Teams Course (5.0)",
-        "anio": "2021"
-      },
-      {
-        "nombre": "Scrum Fundamentals Certified",
-        "anio": "2022"
-      },
-      {
-        "nombre": "ISO/IEC 27001:2013 Foundation – I27001F",
-        "anio": "2022"
+        "nombre": "Srum Fundamentals Certified"
       }
     ]
   },
@@ -238,52 +221,17 @@
       "lugar": "CDMX",
       "periodo": "2015"
     },
-    "certificaciones_y_cursos": [
+    "certificaciones": [
       {
-        "nombre": "Curso Mantis",
-        "anio": "2023"
-      },
-      {
-        "nombre": "Curso Testlink",
-        "anio": "2022"
-      },
-      {
-        "nombre": "Certifiación ISTQB Test Manager Advance",
-        "anio": "2021"
-      },
-      {
-        "nombre": "Curso TMMi",
-        "anio": "2021"
-      },
-      {
-        "nombre": "Certificación Scrum Fundation",
+        "nombre": "Scrum Foundation Professional Certificate (SFPC)",
         "anio": "2020"
       },
       {
-        "nombre": "Liderazgo y motivación empresarial",
-        "anio": "2019"
-      },
-      {
-        "nombre": "Certificación ISTQB Fundation",
-        "anio": "2018"
-      },
-      {
-        "nombre": "Conceptos básicos de un Tester",
-        "anio": "2017"
-      },
-      {
-        "nombre": "Principios básicos de seguros y aseguradoras",
-        "anio": "2017"
-      },
-      {
-        "nombre": "Calidad tecnológica en ti (icf)",
-        "anio": "2017"
-      },
-      {
-        "nombre": "Sql server oracle toad",
-        "anio": "2016"
+        "nombre": "ISTQB Certified Tester Advanced Level - Test Manager",
+        "anio": "2021"
       }
-    ]
+    ],
+    "cursos": []
   }
 ,
   {
@@ -342,31 +290,12 @@
       "lugar": "Universidad Tecnológica de Nezahualcóyotl",
       "periodo": "2013"
     },
-    "certificaciones_y_cursos": [
+    "certificaciones": [
       {
-        "nombre": "Scrum Fundamentals (Certificado)",
-        "anio": "2022"
-      },
-      {
-        "nombre": "TMMi Foundations (Certificado)",
-        "anio": "2021"
-      },
-      {
-        "nombre": "ISTQB Advance Test Manager (Certificado)",
+        "nombre": "ISTQB Certified Tester Advanced Level - Test Manager",
         "anio": "2020"
-      },
-      {
-        "nombre": "ISTQB Fundamental (Certificado)",
-        "anio": "2019"
-      },
-      {
-        "nombre": "SCRUM Master (Diploma)",
-        "anio": "2018"
-      },
-      {
-        "nombre": "CCNA CISCO I, II, III y IV",
-        "anio": "2007-2009"
       }
-    ]
+    ],
+    "cursos": []
   }
 ]

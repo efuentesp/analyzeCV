@@ -371,14 +371,20 @@ Después de consolidar, continuar con la validación del total global (10–14).
     "lugar": "",
     "periodo": ""
   },
-  "certificaciones_y_cursos": [
+"certificaciones": [
     {
       "nombre": "",
       "anio": ""
     }
+  ],
+  "cursos": [
+    {
+      "nombre": ""
+    }
   ]
 }
 ```
+---
 <!-- # FASE 5 — SALIDA A ARCHIVO (ESCRITURA / ACTUALIZACIÓN)
 
 Además de devolver únicamente el JSON generado en la fase de salida, la skill debe persistir el objeto resultante en:

@@ -31,23 +31,13 @@
       "lugar": "Centro Universitario Valle de México UAEM",
       "periodo": "febrero 2005 - julio 2010"
     },
-    "certificaciones_y_cursos": [
-      {
-        "nombre": "PYTHON",
-        "anio": "2018"
-      },
-      {
-        "nombre": "Diseño de bases de datos relacionales",
-        "anio": ""
-      },
-      {
-        "nombre": "Oracle SQL Performance Tuning Masterclass",
-        "anio": ""
-      },
-      {
-        "nombre": "JavaScript Totall",
-        "anio": ""
-      }
+    "certificaciones": [
+      { "nombre": "PYTHON", "anio": "2018" }
+    ],
+    "cursos": [
+      { "nombre": "Diseño de bases de datos relacionales" },
+      { "nombre": "Oracle SQL Performance Tuning Masterclass" },
+      { "nombre": "JavaScript Totall" }
     ]
   },
   {
@@ -90,19 +80,12 @@
       "lugar": "Universidad Politécnica del Valle de México",
       "periodo": "septiembre 2017 - diciembre 2020"
     },
-    "certificaciones_y_cursos": [
-      {
-        "nombre": "Desarrollador Back-end",
-        "anio": ""
-      },
-      {
-        "nombre": "Desarrollador Front-end",
-        "anio": ""
-      },
-      {
-        "nombre": "PythonInstitute_PCEP",
-        "anio": "2024"
-      }
+    "certificaciones": [
+      { "nombre": "PythonInstitute_PCEP", "anio": "2024" }
+    ],
+    "cursos": [
+      { "nombre": "Desarrollador Back-end" },
+      { "nombre": "Desarrollador Front-end" }
     ]
   },
   {
@@ -178,19 +161,11 @@
       "lugar": "UNITEC Universidad Tecnológica de México",
       "periodo": "enero 1996 - diciembre 2000"
     },
-    "certificaciones_y_cursos": [
-      {
-        "nombre": "MySQL for Data Analytics and Business Intelligence",
-        "anio": ""
-      },
-      {
-        "nombre": "Power BI - Análisis de Datos Business Intelligence",
-        "anio": ""
-      },
-      {
-        "nombre": "Python",
-        "anio": ""
-      }
+    "certificaciones": [],
+    "cursos": [
+      { "nombre": "MySQL for Data Analytics and Business Intelligence" },
+      { "nombre": "Power BI - Análisis de Datos Business Intelligence" },
+      { "nombre": "Python" }
     ]
   }
 ]

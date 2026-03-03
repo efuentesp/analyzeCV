@@ -1,0 +1,98 @@
+[
+  {
+    "nombre": "Francisca Ericela Cerqueda García",
+    "rol_propuesto": "Analista Senior",
+    "resumen_profesional": "Especialista en análisis de negocio con experiencia en definición e implantación de procesos, diseño funcional y análisis de requerimientos.\nResponsable de la generación y revisión de propuestas de solución y de la estimación del tamaño funcional y esfuerzo.\nEncargada del diseño e implementación de bases de datos y de la optimización de consultas y procedimientos.\nGestora de materiales y formación técnica para talleres presenciales y cursos en línea.\n\nCoordinar la definición de roles, artefactos y repositorios para asegurar la consistencia y trazabilidad de la documentación del análisis de negocio.\nRealizar evaluación técnica de candidatos y seguimiento al desarrollo profesional de analistas y líderes funcionales.\nColaborar en la implantación de procesos de administración de cambios, control de alcance y estrategias de trabajo en células.\nMantener y administrar el repositorio del PSG y realizar revisiones funcionales para asegurar calidad en entregables.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek-Practice Specialists Group (PSG)",
+        "puesto": "Especialista en análisis de negocio",
+        "fecha_inicio": "octubre 2009",
+        "fecha_fin": "Actual",
+        "actividades_principales": [
+          "Definir e implantar procesos incluyendo roles, pasos, entradas, salidas, scripts y diagramas",
+          "Analizar requerimientos",
+          "Diseñar funcionalmente soluciones",
+          "Diseñar e implementar bases de datos",
+          "Ajustar al PDSS",
+          "Revisar propuestas de solución para proyectos de desarrollo",
+          "Estimar tamaño funcional y esfuerzo de proyectos",
+          "Generar material para talleres presenciales y cursos en línea",
+          "Impartir talleres y cursos presenciales o remotos",
+          "Mantener actualizado el repositorio del PSG con información del PDSS y temas de análisis de negocio"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "noviembre 2008 a noviembre 2015",
+    "resumen_laboral": "Experiencia en roles de analista de negocio, diseñador de base de datos y DBA en distintos proyectos y clientes, con responsabilidad en entrevistas, obtención de requerimientos, generación de prototipos y especificaciones funcionales. Participación en proyectos internos y de cliente como Business Analyst y DBA Oracle, con actividades de diseño de modelos físicos, validación de objetos de base de datos y apoyo en pruebas de integración y UAT.",
+    "estudios": {
+      "carrera": "Licenciatura en Computación",
+      "lugar": "Universidad Autónoma Metropolitana, Unidad Iztapalapa, México D.F.",
+      "periodo": "1994-1999"
+    },
+    "certificaciones": [
+      {
+        "nombre": "CBAP - Certified Business Analysis Professional",
+        "anio": "2016 / 2028"
+      }
+    ],
+    "cursos": []
+  },
+  {
+    "nombre": "Jacqueline I. Razo Hernandez",
+    "rol_propuesto": "Analista Senior",
+    "resumen_profesional": "Enfoque en gestión y documentación de procesos de software y servicios.\nExperiencia en documentación AS IS y definición de TO BE para migraciones de aplicaciones.\nResponsable de identificación y planificación del apagado de pantallas y de la funcionalidad de interfaces.\nSeguimiento y control de proyectos con revisión de métricas e identificación de riesgos.\n\nGestión y validación de estimaciones, control de indicadores y estandarización de prácticas de análisis.\nMentoreo y diseminación de estándares, así como aplicación de UML y modelado BPMN.\nCoordinación de equipos y reporte de estatus al cliente para asegurar continuidad operativa.\nOrientación a la mejora continua y aseguramiento de la calidad documental previa a la entrega.",
+    "experiencia_laboral": [
+      {
+        "empresa": "WM",
+        "puesto": "Analista",
+        "fecha_inicio": "agosto 2020",
+        "fecha_fin": "Actual",
+        "actividades_principales": [
+          "Documentar procesos dentro de la aplicación SMART para identificar la funcionalidad a implementar en el TO BE.",
+          "Identificar, evaluar y planear el apagado de pantallas dentro de la aplicación.",
+          "Documentar la funcionalidad de las pantallas.",
+          "Elaborar documentación de procesos."
+        ]
+      },
+      {
+        "empresa": "Práctica DEV",
+        "puesto": "PDL",
+        "fecha_inicio": "agosto 2019",
+        "fecha_fin": "agosto 2020",
+        "actividades_principales": [
+          "Dar seguimiento a proyectos para asegurar el cumplimiento de los procesos.",
+          "Identificar riesgos y apoyar en el arranque de los proyectos.",
+          "Revisar métricas."
+        ]
+      },
+      {
+        "empresa": "SDMA4",
+        "puesto": "Business Analyst Specialist",
+        "fecha_inicio": "abril 2015",
+        "fecha_fin": "agosto 2018",
+        "actividades_principales": [
+          "Dar seguimiento a la práctica de DEV.",
+          "Liderar el Service Desk y realizar seguimiento a proyectos.",
+          "Identificar riesgos y revisar métricas.",
+          "Realizar análisis de métricas (ANOM) y análisis de causa raíz.",
+          "Validar y aprobar estimaciones (CFP and FE)."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "octubre 2007 a abril 2015",
+    "resumen_laboral": "Experiencia en análisis de negocio y liderazgo funcional con responsabilidad en levantamiento y especificación de requerimientos, elaboración de casos de uso, especificación de interfaces, glosarios y matrices de trazabilidad. Participación en la implementación de modelado de procesos con notación BPMN, planeación y control de producción, y seguimiento a proyectos. Experiencia en soporte de segundo y tercer nivel y en mejoras a sistemas, con uso de herramientas de modelado y gestión como Visio, Start UML, Erwin y bases de datos SQL Server y Oracle.",
+    "estudios": {
+      "carrera": "Administración de Sistemas Computacionales",
+      "lugar": "Universidad del Valle de México Campus Lomas",
+      "periodo": "2002-2006"
+    },
+    "certificaciones": [
+      {
+        "nombre": "CBAP - Certified Business Analysis Professional",
+        "anio": "2015 / 2027"
+      }
+    ],
+    "cursos": []
+  }
+]

@@ -1,0 +1,157 @@
+Ing. Guadalupe Rosas Bernal
+PERFIL:		Business Analyst
+Ing en Computación, con más de 30 de experiencia en las diferentes etapas del ciclo de vida de los sistemas, 6 en el sector financiero. Responsable, trabajo en equipo, liderazgo, adaptable a las necesidades del cliente y compromiso total para conseguir los objetivos del team.
+EXPERIENCIA PROFESIONAL:
+INSTITUCIÓN: 
+
+BFS_MX | INSTITUCIÓN: 
+
+BFS_MX | LUGAR: 
+
+CDMX | PUESTO DESEMPEÑADO: 
+
+Software Developer | Desde:
+
+15 de julio 2021 | A:  
+
+Actual
+Asignación en Citibanamex para la atención del proyecto Divestiture que consistía en la clonación de 14 aplicaciones que componen el sistema de Canal Inteligente, para la separación del Banco.
+Recompilación de las aplicaciones, preparación de paquetes de instalación, preparación de Change Request en Service Now para su implementación en ambientes UAT y PROD y soporte a pruebas. Configuración en Connect Direct para el envío y recepción de archivos. Generación de Jobs de Autosys, Actualización de documentos.
+Participación en proyecto THOR para el Upgrade de versiones de Red Hat 8, Tuxedo 22, Oracle 19 y Connect Direct. Preparación de Change Request para las implementaciones en UAT y PROD. | Asignación en Citibanamex para la atención del proyecto Divestiture que consistía en la clonación de 14 aplicaciones que componen el sistema de Canal Inteligente, para la separación del Banco.
+Recompilación de las aplicaciones, preparación de paquetes de instalación, preparación de Change Request en Service Now para su implementación en ambientes UAT y PROD y soporte a pruebas. Configuración en Connect Direct para el envío y recepción de archivos. Generación de Jobs de Autosys, Actualización de documentos.
+Participación en proyecto THOR para el Upgrade de versiones de Red Hat 8, Tuxedo 22, Oracle 19 y Connect Direct. Preparación de Change Request para las implementaciones en UAT y PROD. | Asignación en Citibanamex para la atención del proyecto Divestiture que consistía en la clonación de 14 aplicaciones que componen el sistema de Canal Inteligente, para la separación del Banco.
+Recompilación de las aplicaciones, preparación de paquetes de instalación, preparación de Change Request en Service Now para su implementación en ambientes UAT y PROD y soporte a pruebas. Configuración en Connect Direct para el envío y recepción de archivos. Generación de Jobs de Autosys, Actualización de documentos.
+Participación en proyecto THOR para el Upgrade de versiones de Red Hat 8, Tuxedo 22, Oracle 19 y Connect Direct. Preparación de Change Request para las implementaciones en UAT y PROD. | Asignación en Citibanamex para la atención del proyecto Divestiture que consistía en la clonación de 14 aplicaciones que componen el sistema de Canal Inteligente, para la separación del Banco.
+Recompilación de las aplicaciones, preparación de paquetes de instalación, preparación de Change Request en Service Now para su implementación en ambientes UAT y PROD y soporte a pruebas. Configuración en Connect Direct para el envío y recepción de archivos. Generación de Jobs de Autosys, Actualización de documentos.
+Participación en proyecto THOR para el Upgrade de versiones de Red Hat 8, Tuxedo 22, Oracle 19 y Connect Direct. Preparación de Change Request para las implementaciones en UAT y PROD. | Asignación en Citibanamex para la atención del proyecto Divestiture que consistía en la clonación de 14 aplicaciones que componen el sistema de Canal Inteligente, para la separación del Banco.
+Recompilación de las aplicaciones, preparación de paquetes de instalación, preparación de Change Request en Service Now para su implementación en ambientes UAT y PROD y soporte a pruebas. Configuración en Connect Direct para el envío y recepción de archivos. Generación de Jobs de Autosys, Actualización de documentos.
+Participación en proyecto THOR para el Upgrade de versiones de Red Hat 8, Tuxedo 22, Oracle 19 y Connect Direct. Preparación de Change Request para las implementaciones en UAT y PROD. | Asignación en Citibanamex para la atención del proyecto Divestiture que consistía en la clonación de 14 aplicaciones que componen el sistema de Canal Inteligente, para la separación del Banco.
+Recompilación de las aplicaciones, preparación de paquetes de instalación, preparación de Change Request en Service Now para su implementación en ambientes UAT y PROD y soporte a pruebas. Configuración en Connect Direct para el envío y recepción de archivos. Generación de Jobs de Autosys, Actualización de documentos.
+Participación en proyecto THOR para el Upgrade de versiones de Red Hat 8, Tuxedo 22, Oracle 19 y Connect Direct. Preparación de Change Request para las implementaciones en UAT y PROD.
+Herramientas: 
+
+. | Linux, Tandem OSS.
+Service Now (Fuji, SaaS), Git.Bitbucket, ALM
+Cti Market Place, Confluence, Autosys, Agile | Linux, Tandem OSS.
+Service Now (Fuji, SaaS), Git.Bitbucket, ALM
+Cti Market Place, Confluence, Autosys, Agile | Linux, Tandem OSS.
+Service Now (Fuji, SaaS), Git.Bitbucket, ALM
+Cti Market Place, Confluence, Autosys, Agile | Linux, Tandem OSS.
+Service Now (Fuji, SaaS), Git.Bitbucket, ALM
+Cti Market Place, Confluence, Autosys, Agile | Linux, Tandem OSS.
+Service Now (Fuji, SaaS), Git.Bitbucket, ALM
+Cti Market Place, Confluence, Autosys, Agile
+INSTITUCIÓN: 
+
+La Mancha Consultores SC | INSTITUCIÓN: 
+
+La Mancha Consultores SC | LUGAR: 
+
+CDMX | PUESTO DESEMPEÑADO: 
+
+ST Integrador
+BA | Desde:
+FECHA
+
+Agosto 2019 | A:  
+FECHA
+
+Julio 2021
+Asignación en CitiBanamex como ST Integrador, participación en los proyectos: CFDI Complemento de Pago y Llaves PIN CVV. Como, BA en los proyectos: Implement IFRS9 and Accounting Event Model for PILS & Payroll. Analizando requerimientos de alto nivel, coordinación de los equipos participantes en el desarrollo, gestión y seguimiento de las actividades para garantizar el cumplimiento y fin de los objetivos en tiempo y forma | Asignación en CitiBanamex como ST Integrador, participación en los proyectos: CFDI Complemento de Pago y Llaves PIN CVV. Como, BA en los proyectos: Implement IFRS9 and Accounting Event Model for PILS & Payroll. Analizando requerimientos de alto nivel, coordinación de los equipos participantes en el desarrollo, gestión y seguimiento de las actividades para garantizar el cumplimiento y fin de los objetivos en tiempo y forma | Asignación en CitiBanamex como ST Integrador, participación en los proyectos: CFDI Complemento de Pago y Llaves PIN CVV. Como, BA en los proyectos: Implement IFRS9 and Accounting Event Model for PILS & Payroll. Analizando requerimientos de alto nivel, coordinación de los equipos participantes en el desarrollo, gestión y seguimiento de las actividades para garantizar el cumplimiento y fin de los objetivos en tiempo y forma | Asignación en CitiBanamex como ST Integrador, participación en los proyectos: CFDI Complemento de Pago y Llaves PIN CVV. Como, BA en los proyectos: Implement IFRS9 and Accounting Event Model for PILS & Payroll. Analizando requerimientos de alto nivel, coordinación de los equipos participantes en el desarrollo, gestión y seguimiento de las actividades para garantizar el cumplimiento y fin de los objetivos en tiempo y forma | Asignación en CitiBanamex como ST Integrador, participación en los proyectos: CFDI Complemento de Pago y Llaves PIN CVV. Como, BA en los proyectos: Implement IFRS9 and Accounting Event Model for PILS & Payroll. Analizando requerimientos de alto nivel, coordinación de los equipos participantes en el desarrollo, gestión y seguimiento de las actividades para garantizar el cumplimiento y fin de los objetivos en tiempo y forma | Asignación en CitiBanamex como ST Integrador, participación en los proyectos: CFDI Complemento de Pago y Llaves PIN CVV. Como, BA en los proyectos: Implement IFRS9 and Accounting Event Model for PILS & Payroll. Analizando requerimientos de alto nivel, coordinación de los equipos participantes en el desarrollo, gestión y seguimiento de las actividades para garantizar el cumplimiento y fin de los objetivos en tiempo y forma
+Herramientas: | Service Now Fuji
+Autosys 
+ALM
+Citi Market Place | Service Now Fuji
+Autosys 
+ALM
+Citi Market Place | Service Now Fuji
+Autosys 
+ALM
+Citi Market Place | Service Now Fuji
+Autosys 
+ALM
+Citi Market Place | Service Now Fuji
+Autosys 
+ALM
+Citi Market Place
+INSTITUCIÓN:
+
+Quality ITS, S.C.
+
+Randstad Mexico S de RL de CV | INSTITUCIÓN:
+
+Quality ITS, S.C.
+
+Randstad Mexico S de RL de CV | LUGAR:
+
+CDMX | PUESTO DESEMPEÑADO:
+Líder Técnico
+
+Information Analyst | Desde: 
+FECHA
+
+ Mayo 2015 
+
+Abril 2010 | A: 
+FECHA
+Noviembre 2018
+
+Mayo 2015
+Atención a los diferentes sistemas comerciales de Grupo Bimbo a nivel nacional e internacional. Análisis de requerimientos, estimaciones y desarrollo de nuevos requerimientos. Generación, administración y tunning de bases de datos, desarrollo de stored procedures para la optimización de performance en reportes y procesos. 
+DBA Sybase en ambientes de pruebas. Extracción de información relacionada a las incidencias en producción para la generación de tableros con el fin de analizar y corregir las incidencias recurrentes por país. | Atención a los diferentes sistemas comerciales de Grupo Bimbo a nivel nacional e internacional. Análisis de requerimientos, estimaciones y desarrollo de nuevos requerimientos. Generación, administración y tunning de bases de datos, desarrollo de stored procedures para la optimización de performance en reportes y procesos. 
+DBA Sybase en ambientes de pruebas. Extracción de información relacionada a las incidencias en producción para la generación de tableros con el fin de analizar y corregir las incidencias recurrentes por país. | Atención a los diferentes sistemas comerciales de Grupo Bimbo a nivel nacional e internacional. Análisis de requerimientos, estimaciones y desarrollo de nuevos requerimientos. Generación, administración y tunning de bases de datos, desarrollo de stored procedures para la optimización de performance en reportes y procesos. 
+DBA Sybase en ambientes de pruebas. Extracción de información relacionada a las incidencias en producción para la generación de tableros con el fin de analizar y corregir las incidencias recurrentes por país. | Atención a los diferentes sistemas comerciales de Grupo Bimbo a nivel nacional e internacional. Análisis de requerimientos, estimaciones y desarrollo de nuevos requerimientos. Generación, administración y tunning de bases de datos, desarrollo de stored procedures para la optimización de performance en reportes y procesos. 
+DBA Sybase en ambientes de pruebas. Extracción de información relacionada a las incidencias en producción para la generación de tableros con el fin de analizar y corregir las incidencias recurrentes por país. | Atención a los diferentes sistemas comerciales de Grupo Bimbo a nivel nacional e internacional. Análisis de requerimientos, estimaciones y desarrollo de nuevos requerimientos. Generación, administración y tunning de bases de datos, desarrollo de stored procedures para la optimización de performance en reportes y procesos. 
+DBA Sybase en ambientes de pruebas. Extracción de información relacionada a las incidencias en producción para la generación de tableros con el fin de analizar y corregir las incidencias recurrentes por país. | Atención a los diferentes sistemas comerciales de Grupo Bimbo a nivel nacional e internacional. Análisis de requerimientos, estimaciones y desarrollo de nuevos requerimientos. Generación, administración y tunning de bases de datos, desarrollo de stored procedures para la optimización de performance en reportes y procesos. 
+DBA Sybase en ambientes de pruebas. Extracción de información relacionada a las incidencias en producción para la generación de tableros con el fin de analizar y corregir las incidencias recurrentes por país.
+Herramientas: | Sybase 15, SQL Server, Oracle
+VS .NET
+ALM | Sybase 15, SQL Server, Oracle
+VS .NET
+ALM | Sybase 15, SQL Server, Oracle
+VS .NET
+ALM | Sybase 15, SQL Server, Oracle
+VS .NET
+ALM | Sybase 15, SQL Server, Oracle
+VS .NET
+ALM
+EDUCACIÓN:
+NOMBRE DE LA INSTITUCIÓN EDUCATIVA
+
+Facultad de Ingeniería UNAM | LUGAR DE ESTUDIO
+
+CDMX | FECHA
+
+Gen. 90-94
+INGENIERIA EN COMPUTACION 
+TITULADA
+DESARROLLO PROFESIONAL:
+NOMBRE DEL PUESTO 
+Software Developer | EMPRESA
+BFS_MX | FECHA
+15-07-2021
+ST Integrador, BA | La Mancha Consultores SC | 15-05-2015
+Líder Técnico | Quality ITS, S.C. | 16-08-2019
+Information Analyst | Randstad Mexico S de RL de CV | 15-04-2015
+IDIOMAS:
+Español: NATIVO
+Inglés:  INTERMEDIO
+HABILIDADES TÉCNICAS/ADMINISTRATIVAS:
+Perfil Primario:
+Business Analyst
+Perfil Secundario: 
+Software Developer
+Sistemas Operativos: 
+WINDOWS, LINUX, UNIX, TANDEM OSS
+Lenguajes de Programación: 
+VS .NET, C++, Shell
+Bases de Datos:
+Sybase, SQL Server Oracle
+Otros:
+Scrum Master (Certificado vencido)
+ALM
+Git
+Jira
+Service Now
+Connect Direct
+Autosys

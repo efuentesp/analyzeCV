@@ -1,0 +1,60 @@
+{
+  "nombre": "Rosain Castillo Eng",
+  "rol_propuesto": "Lider Tecnico",
+  "resumen_profesional": "Profesional con experiencia en dirigir equipos técnicos en la implementación y operación de soluciones orientadas a disponibilidad y seguridad.\nCoordinar la integración de componentes y la adaptación de legados para garantizar continuidad de servicio.\nSupervisar el aseguramiento de la calidad y el cumplimiento de controles de seguridad como PCI DSS.\nFacilitar la comunicación entre áreas técnicas y de negocio para alinear objetivos de entrega.\n\nGestionar proyectos tecnológicos definiendo pruebas, estimaciones y requisitos de infraestructura.\nAdemás, promueve estándares de arquitectura y prácticas de despliegue para entornos en la nube y on-premise.\nImpulsa la automatización y la entrega coordinada de releases en equipos distribuidos.\nPrioriza la evaluación de riesgos y la planificación para minimizar impactos operativos.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek - Walmart de México y Centroamérica",
+      "puesto": "Tech Lead",
+      "fecha_inicio": "junio 2020",
+      "fecha_fin": "Actual",
+      "actividades_principales": [
+        "Definir las pruebas y tiempos de respuesta del software de cifrado para cumplir con los controles PCI DSS.",
+        "Solicitar los requerimientos de hardware para la ambientación de legados que utilizan el software de cifrado.",
+        "Ambientar los legados y sus endpoints para realizar pruebas end to end y validar el funcionamiento del cifrado.",
+        "Estimar tiempo y esfuerzo necesarios para la actualización de componentes que utilizan el software de cifrado.",
+        "Definir el mensaje ISO8583 para el cambio de autorizador del legado de renovación de membresías (sustitución de EPay por Authentic).",
+        "Coordinar al equipo de desarrollo para la actualización del código al nuevo software de cifrado.",
+        "Diseñar un modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta.",
+        "Planificar y coordinar pruebas de integración y despliegue relacionadas con la implementación del cifrado.",
+        "Supervisar la ejecución de las pruebas end to end para asegurar la calidad de la solución.",
+        "Alinear requisitos funcionales y técnicos con controles de seguridad aplicables al procesamiento de tarjetas."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "febrero 2006 - mayo 2020",
+  "resumen_laboral": "Durante este período se desempeñaron funciones de gestión y coordinación de proyectos y equipos en entornos de desarrollo y mantenimiento de software, incluyendo planificación de recursos, seguimiento de cronogramas, evaluación de métricas y control de riesgos. También se asumieron roles de consultoría técnica y arquitectura para migraciones y mejoras de plataforma, así como actividades de capacitación y soporte a equipos. Las responsabilidades se orientaron a garantizar entregables, supervisar la calidad y facilitar la comunicación entre áreas técnicas y de negocio.",
+  "estudios": {
+    "carrera": "Ingeniería en Sistemas Computacionales",
+    "lugar": "Universidad Tecnológica de México",
+    "periodo": "2005"
+  },
+  "ajuste_puesto_liderazgo": {
+    "empresa": "Softtek - BBVA",
+    "puesto": ".NET Consultant",
+    "fecha_inicio": "mayo 2016",
+    "fecha_fin": "marzo 2017",
+    "actividades_principales": [
+      "Migrar sistema de Visual Basic 6.0 a Java.",
+      "Ambientar sistema para depuración e identificación de flujos de negocio.",
+      "Elaborar diagramas y casos de uso de las funciones identificadas en el sistema.",
+      "Identificar y documentar funciones comunes en módulos de negocio diferentes.",
+      "Registrar tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team."
+    ]
+  },
+  "certificaciones": [],
+  "cursos": [
+    {
+      "nombre": "Crear Página Web con HTML y CSS"
+    },
+    {
+      "nombre": "Diseño Página Web con HTML+CSS"
+    },
+    {
+      "nombre": "HTML5"
+    },
+    {
+      "nombre": "The Complete Guide to HTML"
+    }
+  ]
+}

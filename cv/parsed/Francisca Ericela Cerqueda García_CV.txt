@@ -1,0 +1,1185 @@
+Francisca Ericela Cerqueda García
+PERFIL:
+Especialista en análisis de negocio: Definición e implantación de procesos y mejores prácticas.
+Líder Funcional 
+Analista de negocios
+Diseñador de base de datos
+Instructor de cursos y talleres a ingenieros de software
+
+
+EXPERIENCIA PROFESIONAL: | Especialista en análisis de negocio: Definición e implantación de procesos y mejores prácticas.
+Líder Funcional 
+Analista de negocios
+Diseñador de base de datos
+Instructor de cursos y talleres a ingenieros de software
+
+
+EXPERIENCIA PROFESIONAL: | Especialista en análisis de negocio: Definición e implantación de procesos y mejores prácticas.
+Líder Funcional 
+Analista de negocios
+Diseñador de base de datos
+Instructor de cursos y talleres a ingenieros de software
+
+
+EXPERIENCIA PROFESIONAL: | Especialista en análisis de negocio: Definición e implantación de procesos y mejores prácticas.
+Líder Funcional 
+Analista de negocios
+Diseñador de base de datos
+Instructor de cursos y talleres a ingenieros de software
+
+
+EXPERIENCIA PROFESIONAL: | Especialista en análisis de negocio: Definición e implantación de procesos y mejores prácticas.
+Líder Funcional 
+Analista de negocios
+Diseñador de base de datos
+Instructor de cursos y talleres a ingenieros de software
+
+
+EXPERIENCIA PROFESIONAL:
+Softtek-Practice Specialists Group (PSG) | México D.F. | Especialista en análisis de negocio | Desde: 
+Octubre 2009
+A: la fecha
+Las tareas generales recurrentes realizadas como parte del grupo se mencionan a continuación:
+
+Especialista en análisis de negocio
+Definición de procesos, lo que incluye: roles, pasos, entradas, salidas, scripts, diagramas, herramientas, ejemplos y cualquier material adicional.
+Análisis de requerimientos.
+Diseño funcional.
+Diseño e implementación de base de datos.
+Ajuste al PDSS.
+Definición de procesos.
+Mejoras a procesos.
+Revisión de propuestas de solución para el desarrollo de proyectos.
+Estimación de tamaño funcional y esfuerzo para proyectos de desarrollo de aplicaciones nuevas.
+Estimación esfuerzo para proyectos de desarrollo de mantenimientos.
+Generación de material para talleres presenciales, que incluyen: lectura(s) previas, examen de prerrequisito, presentación(es), documentación, prácticas, examen final:
+Taller de análisis de negocio para principiantes.
+Taller de análisis de negocio para intermedios.
+Taller del método de medición del tamaño funcional COSMIC.
+Taller de introducción a SQL para desarrolladores.
+Taller de introducción a SQL para testers.
+Generación de material para cursos en línea, que incluyen: lectura(s), presentación(es), audiovisuales, prácticas, exámenes.
+REQ - Proceso de análisis de requerimientos.
+DBI - Proceso de diseño e implementación de base de datos.
+Taller de modelado de procesos usando bizagi.
+Taller de generación de bosquejos de pantallas usando pencil.
+Taller de buenas prácticas de análisis de negocio.
+Carrera de Líder Funcional en Softtek.
+Taller de uso de herramientas de IA en el análisis de negocio (prompting).
+Impartición de los cursos presenciales o remotos (nueva normalidad), a demanda de los diferentes proyectos y cuentas; en promedio se imparten 6 talleres por año. 
+Realizar evaluación técnica de candidatos para su asignación a los diferentes proyectos y cuentas, a través de generar exámenes en línea, y entrevistas presenciales: 
+Analista de negocio
+Líder Funcional
+DBA
+Desarrollador (SQL)
+Seguimiento a analistas de negocio y líderes funcionales de las diferentes cuentas respecto a su plan de capacitación, soporte en sus tareas en proyectos, apoyo en situaciones especiales para medir e impulsar su crecimiento profesional de principiante a intermedio y de intermedio a avanzado.
+Mantener actualizado el repositorio del PSG con información del PDSS y temas de análisis de negocio principalmente.
+Revisión funcional de las propuestas de solución para el desarrollo de proyectos.
+
+También me asigno, por ciertos periodos, a proyectos de desarrollo como líder funcional o como analista de negocios, con las siguientes responsabilidades:
+
+Líder Funcional en proyectos
+Definición e implantación del proceso de gestión y desarrollo de requerimientos
+Definición e implantación del proceso de administración de cambios
+Control del alcance del proyecto 
+Negociaciones con los stakeholders 
+Estrategia de trabajo en células y entregas parciales 
+Colaboración en la generación del plan de pruebas
+Colaboración en la definición e implantación del proceso de administración de la configuración 
+Entrevistas a candidatos al rol de analista de negocio
+Despliegue de iniciativas y procesos definidos con los equipos de analistas y otros líderes funcionales
+Además de los analistas se identificaron, definieron y asignaron personas para roles como:
+Líder funcional por módulo
+Integrador funcional 
+Process manager para todo el proyecto
+Data manager
+
+Analista de negocios
+Entrevistas y talleres de requerimientos con usuarios de negocio
+Obtención de requerimientos funcionales y no funcionales
+Análisis de la situación actual 
+Bosquejo de la solución propuesta:
+Diagrama de procesos To-Be
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso e historias de usuario
+Generación de especificaciones funcionales 
+Administración del repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos del proyecto
+Administración del Modelo de Dominio del proyecto, diagrama de contexto
+Diseño del modelo lógico de datos para la aplicación
+Verificación de los productos del análisis y entrega al equipo de desarrollo
+Administración de la estrategia de pruebas para el proyecto | Las tareas generales recurrentes realizadas como parte del grupo se mencionan a continuación:
+
+Especialista en análisis de negocio
+Definición de procesos, lo que incluye: roles, pasos, entradas, salidas, scripts, diagramas, herramientas, ejemplos y cualquier material adicional.
+Análisis de requerimientos.
+Diseño funcional.
+Diseño e implementación de base de datos.
+Ajuste al PDSS.
+Definición de procesos.
+Mejoras a procesos.
+Revisión de propuestas de solución para el desarrollo de proyectos.
+Estimación de tamaño funcional y esfuerzo para proyectos de desarrollo de aplicaciones nuevas.
+Estimación esfuerzo para proyectos de desarrollo de mantenimientos.
+Generación de material para talleres presenciales, que incluyen: lectura(s) previas, examen de prerrequisito, presentación(es), documentación, prácticas, examen final:
+Taller de análisis de negocio para principiantes.
+Taller de análisis de negocio para intermedios.
+Taller del método de medición del tamaño funcional COSMIC.
+Taller de introducción a SQL para desarrolladores.
+Taller de introducción a SQL para testers.
+Generación de material para cursos en línea, que incluyen: lectura(s), presentación(es), audiovisuales, prácticas, exámenes.
+REQ - Proceso de análisis de requerimientos.
+DBI - Proceso de diseño e implementación de base de datos.
+Taller de modelado de procesos usando bizagi.
+Taller de generación de bosquejos de pantallas usando pencil.
+Taller de buenas prácticas de análisis de negocio.
+Carrera de Líder Funcional en Softtek.
+Taller de uso de herramientas de IA en el análisis de negocio (prompting).
+Impartición de los cursos presenciales o remotos (nueva normalidad), a demanda de los diferentes proyectos y cuentas; en promedio se imparten 6 talleres por año. 
+Realizar evaluación técnica de candidatos para su asignación a los diferentes proyectos y cuentas, a través de generar exámenes en línea, y entrevistas presenciales: 
+Analista de negocio
+Líder Funcional
+DBA
+Desarrollador (SQL)
+Seguimiento a analistas de negocio y líderes funcionales de las diferentes cuentas respecto a su plan de capacitación, soporte en sus tareas en proyectos, apoyo en situaciones especiales para medir e impulsar su crecimiento profesional de principiante a intermedio y de intermedio a avanzado.
+Mantener actualizado el repositorio del PSG con información del PDSS y temas de análisis de negocio principalmente.
+Revisión funcional de las propuestas de solución para el desarrollo de proyectos.
+
+También me asigno, por ciertos periodos, a proyectos de desarrollo como líder funcional o como analista de negocios, con las siguientes responsabilidades:
+
+Líder Funcional en proyectos
+Definición e implantación del proceso de gestión y desarrollo de requerimientos
+Definición e implantación del proceso de administración de cambios
+Control del alcance del proyecto 
+Negociaciones con los stakeholders 
+Estrategia de trabajo en células y entregas parciales 
+Colaboración en la generación del plan de pruebas
+Colaboración en la definición e implantación del proceso de administración de la configuración 
+Entrevistas a candidatos al rol de analista de negocio
+Despliegue de iniciativas y procesos definidos con los equipos de analistas y otros líderes funcionales
+Además de los analistas se identificaron, definieron y asignaron personas para roles como:
+Líder funcional por módulo
+Integrador funcional 
+Process manager para todo el proyecto
+Data manager
+
+Analista de negocios
+Entrevistas y talleres de requerimientos con usuarios de negocio
+Obtención de requerimientos funcionales y no funcionales
+Análisis de la situación actual 
+Bosquejo de la solución propuesta:
+Diagrama de procesos To-Be
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso e historias de usuario
+Generación de especificaciones funcionales 
+Administración del repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos del proyecto
+Administración del Modelo de Dominio del proyecto, diagrama de contexto
+Diseño del modelo lógico de datos para la aplicación
+Verificación de los productos del análisis y entrega al equipo de desarrollo
+Administración de la estrategia de pruebas para el proyecto | Las tareas generales recurrentes realizadas como parte del grupo se mencionan a continuación:
+
+Especialista en análisis de negocio
+Definición de procesos, lo que incluye: roles, pasos, entradas, salidas, scripts, diagramas, herramientas, ejemplos y cualquier material adicional.
+Análisis de requerimientos.
+Diseño funcional.
+Diseño e implementación de base de datos.
+Ajuste al PDSS.
+Definición de procesos.
+Mejoras a procesos.
+Revisión de propuestas de solución para el desarrollo de proyectos.
+Estimación de tamaño funcional y esfuerzo para proyectos de desarrollo de aplicaciones nuevas.
+Estimación esfuerzo para proyectos de desarrollo de mantenimientos.
+Generación de material para talleres presenciales, que incluyen: lectura(s) previas, examen de prerrequisito, presentación(es), documentación, prácticas, examen final:
+Taller de análisis de negocio para principiantes.
+Taller de análisis de negocio para intermedios.
+Taller del método de medición del tamaño funcional COSMIC.
+Taller de introducción a SQL para desarrolladores.
+Taller de introducción a SQL para testers.
+Generación de material para cursos en línea, que incluyen: lectura(s), presentación(es), audiovisuales, prácticas, exámenes.
+REQ - Proceso de análisis de requerimientos.
+DBI - Proceso de diseño e implementación de base de datos.
+Taller de modelado de procesos usando bizagi.
+Taller de generación de bosquejos de pantallas usando pencil.
+Taller de buenas prácticas de análisis de negocio.
+Carrera de Líder Funcional en Softtek.
+Taller de uso de herramientas de IA en el análisis de negocio (prompting).
+Impartición de los cursos presenciales o remotos (nueva normalidad), a demanda de los diferentes proyectos y cuentas; en promedio se imparten 6 talleres por año. 
+Realizar evaluación técnica de candidatos para su asignación a los diferentes proyectos y cuentas, a través de generar exámenes en línea, y entrevistas presenciales: 
+Analista de negocio
+Líder Funcional
+DBA
+Desarrollador (SQL)
+Seguimiento a analistas de negocio y líderes funcionales de las diferentes cuentas respecto a su plan de capacitación, soporte en sus tareas en proyectos, apoyo en situaciones especiales para medir e impulsar su crecimiento profesional de principiante a intermedio y de intermedio a avanzado.
+Mantener actualizado el repositorio del PSG con información del PDSS y temas de análisis de negocio principalmente.
+Revisión funcional de las propuestas de solución para el desarrollo de proyectos.
+
+También me asigno, por ciertos periodos, a proyectos de desarrollo como líder funcional o como analista de negocios, con las siguientes responsabilidades:
+
+Líder Funcional en proyectos
+Definición e implantación del proceso de gestión y desarrollo de requerimientos
+Definición e implantación del proceso de administración de cambios
+Control del alcance del proyecto 
+Negociaciones con los stakeholders 
+Estrategia de trabajo en células y entregas parciales 
+Colaboración en la generación del plan de pruebas
+Colaboración en la definición e implantación del proceso de administración de la configuración 
+Entrevistas a candidatos al rol de analista de negocio
+Despliegue de iniciativas y procesos definidos con los equipos de analistas y otros líderes funcionales
+Además de los analistas se identificaron, definieron y asignaron personas para roles como:
+Líder funcional por módulo
+Integrador funcional 
+Process manager para todo el proyecto
+Data manager
+
+Analista de negocios
+Entrevistas y talleres de requerimientos con usuarios de negocio
+Obtención de requerimientos funcionales y no funcionales
+Análisis de la situación actual 
+Bosquejo de la solución propuesta:
+Diagrama de procesos To-Be
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso e historias de usuario
+Generación de especificaciones funcionales 
+Administración del repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos del proyecto
+Administración del Modelo de Dominio del proyecto, diagrama de contexto
+Diseño del modelo lógico de datos para la aplicación
+Verificación de los productos del análisis y entrega al equipo de desarrollo
+Administración de la estrategia de pruebas para el proyecto | Las tareas generales recurrentes realizadas como parte del grupo se mencionan a continuación:
+
+Especialista en análisis de negocio
+Definición de procesos, lo que incluye: roles, pasos, entradas, salidas, scripts, diagramas, herramientas, ejemplos y cualquier material adicional.
+Análisis de requerimientos.
+Diseño funcional.
+Diseño e implementación de base de datos.
+Ajuste al PDSS.
+Definición de procesos.
+Mejoras a procesos.
+Revisión de propuestas de solución para el desarrollo de proyectos.
+Estimación de tamaño funcional y esfuerzo para proyectos de desarrollo de aplicaciones nuevas.
+Estimación esfuerzo para proyectos de desarrollo de mantenimientos.
+Generación de material para talleres presenciales, que incluyen: lectura(s) previas, examen de prerrequisito, presentación(es), documentación, prácticas, examen final:
+Taller de análisis de negocio para principiantes.
+Taller de análisis de negocio para intermedios.
+Taller del método de medición del tamaño funcional COSMIC.
+Taller de introducción a SQL para desarrolladores.
+Taller de introducción a SQL para testers.
+Generación de material para cursos en línea, que incluyen: lectura(s), presentación(es), audiovisuales, prácticas, exámenes.
+REQ - Proceso de análisis de requerimientos.
+DBI - Proceso de diseño e implementación de base de datos.
+Taller de modelado de procesos usando bizagi.
+Taller de generación de bosquejos de pantallas usando pencil.
+Taller de buenas prácticas de análisis de negocio.
+Carrera de Líder Funcional en Softtek.
+Taller de uso de herramientas de IA en el análisis de negocio (prompting).
+Impartición de los cursos presenciales o remotos (nueva normalidad), a demanda de los diferentes proyectos y cuentas; en promedio se imparten 6 talleres por año. 
+Realizar evaluación técnica de candidatos para su asignación a los diferentes proyectos y cuentas, a través de generar exámenes en línea, y entrevistas presenciales: 
+Analista de negocio
+Líder Funcional
+DBA
+Desarrollador (SQL)
+Seguimiento a analistas de negocio y líderes funcionales de las diferentes cuentas respecto a su plan de capacitación, soporte en sus tareas en proyectos, apoyo en situaciones especiales para medir e impulsar su crecimiento profesional de principiante a intermedio y de intermedio a avanzado.
+Mantener actualizado el repositorio del PSG con información del PDSS y temas de análisis de negocio principalmente.
+Revisión funcional de las propuestas de solución para el desarrollo de proyectos.
+
+También me asigno, por ciertos periodos, a proyectos de desarrollo como líder funcional o como analista de negocios, con las siguientes responsabilidades:
+
+Líder Funcional en proyectos
+Definición e implantación del proceso de gestión y desarrollo de requerimientos
+Definición e implantación del proceso de administración de cambios
+Control del alcance del proyecto 
+Negociaciones con los stakeholders 
+Estrategia de trabajo en células y entregas parciales 
+Colaboración en la generación del plan de pruebas
+Colaboración en la definición e implantación del proceso de administración de la configuración 
+Entrevistas a candidatos al rol de analista de negocio
+Despliegue de iniciativas y procesos definidos con los equipos de analistas y otros líderes funcionales
+Además de los analistas se identificaron, definieron y asignaron personas para roles como:
+Líder funcional por módulo
+Integrador funcional 
+Process manager para todo el proyecto
+Data manager
+
+Analista de negocios
+Entrevistas y talleres de requerimientos con usuarios de negocio
+Obtención de requerimientos funcionales y no funcionales
+Análisis de la situación actual 
+Bosquejo de la solución propuesta:
+Diagrama de procesos To-Be
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso e historias de usuario
+Generación de especificaciones funcionales 
+Administración del repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos del proyecto
+Administración del Modelo de Dominio del proyecto, diagrama de contexto
+Diseño del modelo lógico de datos para la aplicación
+Verificación de los productos del análisis y entrega al equipo de desarrollo
+Administración de la estrategia de pruebas para el proyecto | Las tareas generales recurrentes realizadas como parte del grupo se mencionan a continuación:
+
+Especialista en análisis de negocio
+Definición de procesos, lo que incluye: roles, pasos, entradas, salidas, scripts, diagramas, herramientas, ejemplos y cualquier material adicional.
+Análisis de requerimientos.
+Diseño funcional.
+Diseño e implementación de base de datos.
+Ajuste al PDSS.
+Definición de procesos.
+Mejoras a procesos.
+Revisión de propuestas de solución para el desarrollo de proyectos.
+Estimación de tamaño funcional y esfuerzo para proyectos de desarrollo de aplicaciones nuevas.
+Estimación esfuerzo para proyectos de desarrollo de mantenimientos.
+Generación de material para talleres presenciales, que incluyen: lectura(s) previas, examen de prerrequisito, presentación(es), documentación, prácticas, examen final:
+Taller de análisis de negocio para principiantes.
+Taller de análisis de negocio para intermedios.
+Taller del método de medición del tamaño funcional COSMIC.
+Taller de introducción a SQL para desarrolladores.
+Taller de introducción a SQL para testers.
+Generación de material para cursos en línea, que incluyen: lectura(s), presentación(es), audiovisuales, prácticas, exámenes.
+REQ - Proceso de análisis de requerimientos.
+DBI - Proceso de diseño e implementación de base de datos.
+Taller de modelado de procesos usando bizagi.
+Taller de generación de bosquejos de pantallas usando pencil.
+Taller de buenas prácticas de análisis de negocio.
+Carrera de Líder Funcional en Softtek.
+Taller de uso de herramientas de IA en el análisis de negocio (prompting).
+Impartición de los cursos presenciales o remotos (nueva normalidad), a demanda de los diferentes proyectos y cuentas; en promedio se imparten 6 talleres por año. 
+Realizar evaluación técnica de candidatos para su asignación a los diferentes proyectos y cuentas, a través de generar exámenes en línea, y entrevistas presenciales: 
+Analista de negocio
+Líder Funcional
+DBA
+Desarrollador (SQL)
+Seguimiento a analistas de negocio y líderes funcionales de las diferentes cuentas respecto a su plan de capacitación, soporte en sus tareas en proyectos, apoyo en situaciones especiales para medir e impulsar su crecimiento profesional de principiante a intermedio y de intermedio a avanzado.
+Mantener actualizado el repositorio del PSG con información del PDSS y temas de análisis de negocio principalmente.
+Revisión funcional de las propuestas de solución para el desarrollo de proyectos.
+
+También me asigno, por ciertos periodos, a proyectos de desarrollo como líder funcional o como analista de negocios, con las siguientes responsabilidades:
+
+Líder Funcional en proyectos
+Definición e implantación del proceso de gestión y desarrollo de requerimientos
+Definición e implantación del proceso de administración de cambios
+Control del alcance del proyecto 
+Negociaciones con los stakeholders 
+Estrategia de trabajo en células y entregas parciales 
+Colaboración en la generación del plan de pruebas
+Colaboración en la definición e implantación del proceso de administración de la configuración 
+Entrevistas a candidatos al rol de analista de negocio
+Despliegue de iniciativas y procesos definidos con los equipos de analistas y otros líderes funcionales
+Además de los analistas se identificaron, definieron y asignaron personas para roles como:
+Líder funcional por módulo
+Integrador funcional 
+Process manager para todo el proyecto
+Data manager
+
+Analista de negocios
+Entrevistas y talleres de requerimientos con usuarios de negocio
+Obtención de requerimientos funcionales y no funcionales
+Análisis de la situación actual 
+Bosquejo de la solución propuesta:
+Diagrama de procesos To-Be
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso e historias de usuario
+Generación de especificaciones funcionales 
+Administración del repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos del proyecto
+Administración del Modelo de Dominio del proyecto, diagrama de contexto
+Diseño del modelo lógico de datos para la aplicación
+Verificación de los productos del análisis y entrega al equipo de desarrollo
+Administración de la estrategia de pruebas para el proyecto
+Proxy product owner
+Colaborar con el PO (Product Owner) de la siguiente manera:
+Trabajar en la administración y mantenimiento del Product Backlog
+Mantener la visión y objetivos del producto
+Contribuir en la alineación de objetivos y metas del proyecto con los objetivos generales de la organización
+Mantener una comunicación efectiva con los stakeholders asegurando que sus expectativas estén siendo consideradas en el desarrollo
+Asegurar la coherencia entre productos y equipos
+Participar e influir en la toma de decisiones sobre la dirección estratégica de la organización en relación con el proyecto.
+Contribuir en la definición y seguimiento de métricas o indicadores del progreso del proyecto
+Establecer estándares de excelencia y disrupción en calidad y productividad.
+Impulsar la innovación y la transformación en la productividad, calidad y mejora continua
+Participación en proyectos perteneciendo al área de PSG:
+Cliente | Rol | Rol | Rol | Proyecto | Período | Horas
+PROSA | Especialista en análisis de negocio con IA | Especialista en análisis de negocio con IA | Especialista en análisis de negocio con IA | Cámara de compensación | Abril 2025 a la Fecha | 956
+IMSS | Analista de Negocios | Analista de Negocios | Analista de Negocios | Carta Aclaratoria | Septiembre 2025 | 120
+Element | Mentor del proxy product owner | Mentor del proxy product owner | Mentor del proxy product owner | Manual transaction | Marzo 2025 a Julio 2025 | 200
+IFT | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | SNS, Calculadora, MIT, SAV | Junio 2024 a diciembre 2024 | 450
+PROSA | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Definición de marco de desarrollo. | Marzo 2024
+Mayo 2024 | 300
+Element | Mentor del proxy product owner | Mentor del proxy product owner | Mentor del proxy product owner | PAC | Agosto 2024 a octubre 2024 | 200
+Kiosko | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Portal de Servicios | Marzo 2024 a Abril 2024 | 200
+DHL | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | CAIA parte 2 (NLU) | Mayo 2023 a diciembre 2023 | 630
+Element | Mentor del proxy product owner | Mentor del proxy product owner | Mentor del proxy product owner | Loans | Agosto 2023 a diciembre 2023 | 240
+Element | Mentor del proxy product owner | Mentor del proxy product owner | Mentor del proxy product owner | Trucks parte 2 | Febrero 2023 a Agosto 2023 | 300
+Coppel | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Nuevo monedero electrónico. Reportes. | Septiembre 2022 a Febrero 2023. | 200
+DHL | Mentor del proxy product owner | Mentor del proxy product owner | Mentor del proxy product owner | CAIA | Septiembre 2022 a Marzo 2023 | 255
+Element | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Trucks | Junio 2022 a febrero 2023 | 340
+DHL | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | CFDI 4.0 | Marzo 2022 a Junio 2022 | 200
+Walmart | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Hardening | Abril 2022 a Mayo 2022 | 100
+Walmart | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Modernización | Octubre 2021 a Marzo 2022 | 300
+Coppel | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Nuevo monedero electrónico | Julio 2021 a Noviembre 2021 | 300
+Walmart | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Homologación TPV | Abril 2021 a Julio 2021 | 100
+KOT | Líder Funcional | Líder Funcional | Líder Funcional | Actuarial y siniestros | Junio a Noviembre 2020 | 1300
+IMSS | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | PAC, SIROC, ADPRO, Devoluciones, SIS, Convenios, MCLPE | Junio a Octubre 2019 | 900
+Consar | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | SEPRIS | Octubre a Noviembre 2019 | 180
+Coppel | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Ventas Óptica. Armazones propios. | Febrero a mayo 2018 | 700
+MetLife | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Proyectos menores | Julio 2017 a Enero 2018 | 1200
+Financiero Interacciones | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Evolución tecnológica | Marzo a Julio 2017 | 400
+Coppel | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Assessment al proceso de desarrollo | Noviembre 2016 a Febrero 2017 | 800
+Bancomer | Líder Funcional | Líder Funcional | Líder Funcional | Migración del sistema Fiduciario | Noviembre 2015 a Octubre 2016 | 2000
+Bancomer | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Dosificadores Línea 
+Reservaciones
+Plan Piso
+Sistema PAC
+Dosificadores OPI
+Buró de crédito
+Depósitos empresariales | Mayo 2011 a Junio 2015 | 400
+Banamex | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Cacs hipotecario
+Venta de cartera
+Prelaciones
+Fractional Payment | Mayo 2011 a Junio 2015 | 150
+Walmart | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Cajeros | Mayo 2011 a Junio 2015 | 172
+Ford | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Formas de pago | Mayo 2011 a Junio 2015 | 30
+SAT | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Vucem. Certificado de origen. | Mayo 2011 a Junio 2015 | 50
+Nielsen | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Estudios | Mayo 2011 a Junio 2015 | 100
+Scotiabank | Especialista en análisis de negocio | Especialista en análisis de negocio | Especialista en análisis de negocio | Constancias fiscales | Mayo 2011 a Junio 2015 | 500
+Softtek | Analista de negocios | Analista de negocios | Analista de negocios | Proyecto interno: Herramienta de estimación | Octubre 2009 a Diciembre 2010 | 2000
+Herramientas: | Herramientas: | Microsoft Excel, Word, Power Point, Visio, StarUML, Visio, Sharepoint, Bizagi, SQLServer, Oracle, Erwin, Tortoise SVN, Process Dashboard, DB2, Java, Jira, Draw.oi, Pencil, Intelligence User Story Factory, Frida Dev Engine | Microsoft Excel, Word, Power Point, Visio, StarUML, Visio, Sharepoint, Bizagi, SQLServer, Oracle, Erwin, Tortoise SVN, Process Dashboard, DB2, Java, Jira, Draw.oi, Pencil, Intelligence User Story Factory, Frida Dev Engine | Microsoft Excel, Word, Power Point, Visio, StarUML, Visio, Sharepoint, Bizagi, SQLServer, Oracle, Erwin, Tortoise SVN, Process Dashboard, DB2, Java, Jira, Draw.oi, Pencil, Intelligence User Story Factory, Frida Dev Engine | Microsoft Excel, Word, Power Point, Visio, StarUML, Visio, Sharepoint, Bizagi, SQLServer, Oracle, Erwin, Tortoise SVN, Process Dashboard, DB2, Java, Jira, Draw.oi, Pencil, Intelligence User Story Factory, Frida Dev Engine | Microsoft Excel, Word, Power Point, Visio, StarUML, Visio, Sharepoint, Bizagi, SQLServer, Oracle, Erwin, Tortoise SVN, Process Dashboard, DB2, Java, Jira, Draw.oi, Pencil, Intelligence User Story Factory, Frida Dev Engine
+Experiencia Funcional: | Experiencia Funcional: | CMMI, TMMI, ITIL, TOGAF, AMS, SCRUM, BABOK, PMI, Mejoras mayores, SAFe, Scrum, SixSigma, LEAN, PMI, COSMIC, PSP, TSP, BPM, Servicios funcionales | CMMI, TMMI, ITIL, TOGAF, AMS, SCRUM, BABOK, PMI, Mejoras mayores, SAFe, Scrum, SixSigma, LEAN, PMI, COSMIC, PSP, TSP, BPM, Servicios funcionales | CMMI, TMMI, ITIL, TOGAF, AMS, SCRUM, BABOK, PMI, Mejoras mayores, SAFe, Scrum, SixSigma, LEAN, PMI, COSMIC, PSP, TSP, BPM, Servicios funcionales | CMMI, TMMI, ITIL, TOGAF, AMS, SCRUM, BABOK, PMI, Mejoras mayores, SAFe, Scrum, SixSigma, LEAN, PMI, COSMIC, PSP, TSP, BPM, Servicios funcionales | CMMI, TMMI, ITIL, TOGAF, AMS, SCRUM, BABOK, PMI, Mejoras mayores, SAFe, Scrum, SixSigma, LEAN, PMI, COSMIC, PSP, TSP, BPM, Servicios funcionales
+Softtek-Megacable | México D.F. | México D.F. | México D.F. | Diseñador de Base de Datos | Desde: Junio 2015
+A:  Noviembre 2015
+Definición de estándares y lineamientos para los objetos de base de datos
+Optimización de consultas y stored procedures
+Análisis y diseño de base de datos de la aplicación a ser migrada
+Análisis de estadísticas de la base de datos 
+Definición de procesos para sincronización de versiones de base de datos entre ambientes (desarrollo, pruebas, qa, producción) | Definición de estándares y lineamientos para los objetos de base de datos
+Optimización de consultas y stored procedures
+Análisis y diseño de base de datos de la aplicación a ser migrada
+Análisis de estadísticas de la base de datos 
+Definición de procesos para sincronización de versiones de base de datos entre ambientes (desarrollo, pruebas, qa, producción) | Definición de estándares y lineamientos para los objetos de base de datos
+Optimización de consultas y stored procedures
+Análisis y diseño de base de datos de la aplicación a ser migrada
+Análisis de estadísticas de la base de datos 
+Definición de procesos para sincronización de versiones de base de datos entre ambientes (desarrollo, pruebas, qa, producción) | Definición de estándares y lineamientos para los objetos de base de datos
+Optimización de consultas y stored procedures
+Análisis y diseño de base de datos de la aplicación a ser migrada
+Análisis de estadísticas de la base de datos 
+Definición de procesos para sincronización de versiones de base de datos entre ambientes (desarrollo, pruebas, qa, producción) | Definición de estándares y lineamientos para los objetos de base de datos
+Optimización de consultas y stored procedures
+Análisis y diseño de base de datos de la aplicación a ser migrada
+Análisis de estadísticas de la base de datos 
+Definición de procesos para sincronización de versiones de base de datos entre ambientes (desarrollo, pruebas, qa, producción) | Definición de estándares y lineamientos para los objetos de base de datos
+Optimización de consultas y stored procedures
+Análisis y diseño de base de datos de la aplicación a ser migrada
+Análisis de estadísticas de la base de datos 
+Definición de procesos para sincronización de versiones de base de datos entre ambientes (desarrollo, pruebas, qa, producción) | Definición de estándares y lineamientos para los objetos de base de datos
+Optimización de consultas y stored procedures
+Análisis y diseño de base de datos de la aplicación a ser migrada
+Análisis de estadísticas de la base de datos 
+Definición de procesos para sincronización de versiones de base de datos entre ambientes (desarrollo, pruebas, qa, producción)
+Experiencia Funcional: | Experiencia Funcional: | Identificación de consultas costosas
+Identificación de índices en desuso
+Identificación de índices a crear y borrar para optimización de la aplicación
+Análisis de parámetros de configuración del servidor de base de datos | Identificación de consultas costosas
+Identificación de índices en desuso
+Identificación de índices a crear y borrar para optimización de la aplicación
+Análisis de parámetros de configuración del servidor de base de datos | Identificación de consultas costosas
+Identificación de índices en desuso
+Identificación de índices a crear y borrar para optimización de la aplicación
+Análisis de parámetros de configuración del servidor de base de datos | Identificación de consultas costosas
+Identificación de índices en desuso
+Identificación de índices a crear y borrar para optimización de la aplicación
+Análisis de parámetros de configuración del servidor de base de datos | Identificación de consultas costosas
+Identificación de índices en desuso
+Identificación de índices a crear y borrar para optimización de la aplicación
+Análisis de parámetros de configuración del servidor de base de datos
+Herramientas: | Herramientas: | SQL Server 2008
+Erwin 7 | SQL Server 2008
+Erwin 7 | SQL Server 2008
+Erwin 7 | SQL Server 2008
+Erwin 7 | SQL Server 2008
+Erwin 7
+Softtek PSG                  México D.F.
+HEPDSS | Softtek PSG                  México D.F.
+HEPDSS | Softtek PSG                  México D.F.
+HEPDSS | DBA-SQLServer | Desde: 12/01/2011
+A: 30/05/2011
+Proyecto Interno: Herramienta de estimación de proyectos de desarrollo de software de softtek (HEPDSS).  (3mil horas, 3 participantes promedio)
+
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Apoyo en pruebas unitarias, de sistema, funcionales (restaurar ambientes)
+Definición de la estrategia de respaldos en el ambiente de desarrollo | Proyecto Interno: Herramienta de estimación de proyectos de desarrollo de software de softtek (HEPDSS).  (3mil horas, 3 participantes promedio)
+
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Apoyo en pruebas unitarias, de sistema, funcionales (restaurar ambientes)
+Definición de la estrategia de respaldos en el ambiente de desarrollo | Proyecto Interno: Herramienta de estimación de proyectos de desarrollo de software de softtek (HEPDSS).  (3mil horas, 3 participantes promedio)
+
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Apoyo en pruebas unitarias, de sistema, funcionales (restaurar ambientes)
+Definición de la estrategia de respaldos en el ambiente de desarrollo | Proyecto Interno: Herramienta de estimación de proyectos de desarrollo de software de softtek (HEPDSS).  (3mil horas, 3 participantes promedio)
+
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Apoyo en pruebas unitarias, de sistema, funcionales (restaurar ambientes)
+Definición de la estrategia de respaldos en el ambiente de desarrollo | Proyecto Interno: Herramienta de estimación de proyectos de desarrollo de software de softtek (HEPDSS).  (3mil horas, 3 participantes promedio)
+
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Apoyo en pruebas unitarias, de sistema, funcionales (restaurar ambientes)
+Definición de la estrategia de respaldos en el ambiente de desarrollo | Proyecto Interno: Herramienta de estimación de proyectos de desarrollo de software de softtek (HEPDSS).  (3mil horas, 3 participantes promedio)
+
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Apoyo en pruebas unitarias, de sistema, funcionales (restaurar ambientes)
+Definición de la estrategia de respaldos en el ambiente de desarrollo | Proyecto Interno: Herramienta de estimación de proyectos de desarrollo de software de softtek (HEPDSS).  (3mil horas, 3 participantes promedio)
+
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Apoyo en pruebas unitarias, de sistema, funcionales (restaurar ambientes)
+Definición de la estrategia de respaldos en el ambiente de desarrollo
+Experiencia Funcional: | Experiencia Funcional: | Proceso de estimación de tamaño y esfuerzo de softtek, factores que intervienen en el calculo del esfuerzo | Proceso de estimación de tamaño y esfuerzo de softtek, factores que intervienen en el calculo del esfuerzo | Proceso de estimación de tamaño y esfuerzo de softtek, factores que intervienen en el calculo del esfuerzo | Proceso de estimación de tamaño y esfuerzo de softtek, factores que intervienen en el calculo del esfuerzo | Proceso de estimación de tamaño y esfuerzo de softtek, factores que intervienen en el calculo del esfuerzo
+Herramientas: | Herramientas: | SQLServer2008, Erwin 7, Sharepoint | SQLServer2008, Erwin 7, Sharepoint | SQLServer2008, Erwin 7, Sharepoint | SQLServer2008, Erwin 7, Sharepoint | SQLServer2008, Erwin 7, Sharepoint
+Softtek-MABE | Softtek-MABE | México D.F. | DBA Oracle | Desde: 25/04/2009 | A: 
+15/10/2009
+Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Validación de objetos de base de datos del proyecto (Sp´s, vistas, triggers, funciones)
+Optimización de procesos para mejorar performance de la aplicación
+Apoyo en pruebas de integración y UAT | Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Validación de objetos de base de datos del proyecto (Sp´s, vistas, triggers, funciones)
+Optimización de procesos para mejorar performance de la aplicación
+Apoyo en pruebas de integración y UAT | Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Validación de objetos de base de datos del proyecto (Sp´s, vistas, triggers, funciones)
+Optimización de procesos para mejorar performance de la aplicación
+Apoyo en pruebas de integración y UAT | Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Validación de objetos de base de datos del proyecto (Sp´s, vistas, triggers, funciones)
+Optimización de procesos para mejorar performance de la aplicación
+Apoyo en pruebas de integración y UAT | Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Validación de objetos de base de datos del proyecto (Sp´s, vistas, triggers, funciones)
+Optimización de procesos para mejorar performance de la aplicación
+Apoyo en pruebas de integración y UAT | Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Diseño del modelo físico de datos para la aplicación (base de datos relacional)
+Administración del diccionario de datos del modelo
+Definición de estándares de base de datos para seguir en el proyecto
+Creación de la base de datos en ambiente de desarrollo del proyecto
+Administración de la base de datos del ambiente de desarrollo del proyecto
+Implementación de estándares y buenas prácticas en desarrollo de objetos de base de datos
+Administración de los procesos de cargas iniciales
+Validación de objetos de base de datos del proyecto (Sp´s, vistas, triggers, funciones)
+Optimización de procesos para mejorar performance de la aplicación
+Apoyo en pruebas de integración y UAT
+Experiencia Funcional: | Aquitectura SOA, Ordenes de venta, Cubicación, BPM, Embarque, LeadTime | Aquitectura SOA, Ordenes de venta, Cubicación, BPM, Embarque, LeadTime | Aquitectura SOA, Ordenes de venta, Cubicación, BPM, Embarque, LeadTime | Aquitectura SOA, Ordenes de venta, Cubicación, BPM, Embarque, LeadTime | Aquitectura SOA, Ordenes de venta, Cubicación, BPM, Embarque, LeadTime
+Herramientas: | Oracle 10g, Erwin 7, Toad | Oracle 10g, Erwin 7, Toad | Oracle 10g, Erwin 7, Toad | Oracle 10g, Erwin 7, Toad | Oracle 10g, Erwin 7, Toad
+Softtek-MABE | Softtek-MABE | México D.F. | Business Analyst | Desde: 17/11/2008 | A: 
+24/04/2009
+Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Analista de negocio de algunos módulos del sistema: LeadTime, Ruta, DatosGenerales
+Entrevistas con usuarios de negocio, obtención de requerimientos funcionales y no funcionales
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso  de los módulos correspondientes
+Generación de especificaciones funcionales de los módulos correspondientes
+Generación de los contratos de servicio de los módulos correspondientes
+Documentación de los módulos correspondientes en el repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos
+Verificación de los productos del análisis y entrega a diseñadores, testers
+Administración del Modelo de Dominio del proyecto
+Diseño del modelo lógico de datos para el proyecto
+Validación de la estrategia de pruebas para los módulos correspondientes
+Apoyo en pruebas de integración y UAT | Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Analista de negocio de algunos módulos del sistema: LeadTime, Ruta, DatosGenerales
+Entrevistas con usuarios de negocio, obtención de requerimientos funcionales y no funcionales
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso  de los módulos correspondientes
+Generación de especificaciones funcionales de los módulos correspondientes
+Generación de los contratos de servicio de los módulos correspondientes
+Documentación de los módulos correspondientes en el repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos
+Verificación de los productos del análisis y entrega a diseñadores, testers
+Administración del Modelo de Dominio del proyecto
+Diseño del modelo lógico de datos para el proyecto
+Validación de la estrategia de pruebas para los módulos correspondientes
+Apoyo en pruebas de integración y UAT | Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Analista de negocio de algunos módulos del sistema: LeadTime, Ruta, DatosGenerales
+Entrevistas con usuarios de negocio, obtención de requerimientos funcionales y no funcionales
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso  de los módulos correspondientes
+Generación de especificaciones funcionales de los módulos correspondientes
+Generación de los contratos de servicio de los módulos correspondientes
+Documentación de los módulos correspondientes en el repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos
+Verificación de los productos del análisis y entrega a diseñadores, testers
+Administración del Modelo de Dominio del proyecto
+Diseño del modelo lógico de datos para el proyecto
+Validación de la estrategia de pruebas para los módulos correspondientes
+Apoyo en pruebas de integración y UAT | Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Analista de negocio de algunos módulos del sistema: LeadTime, Ruta, DatosGenerales
+Entrevistas con usuarios de negocio, obtención de requerimientos funcionales y no funcionales
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso  de los módulos correspondientes
+Generación de especificaciones funcionales de los módulos correspondientes
+Generación de los contratos de servicio de los módulos correspondientes
+Documentación de los módulos correspondientes en el repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos
+Verificación de los productos del análisis y entrega a diseñadores, testers
+Administración del Modelo de Dominio del proyecto
+Diseño del modelo lógico de datos para el proyecto
+Validación de la estrategia de pruebas para los módulos correspondientes
+Apoyo en pruebas de integración y UAT | Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Analista de negocio de algunos módulos del sistema: LeadTime, Ruta, DatosGenerales
+Entrevistas con usuarios de negocio, obtención de requerimientos funcionales y no funcionales
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso  de los módulos correspondientes
+Generación de especificaciones funcionales de los módulos correspondientes
+Generación de los contratos de servicio de los módulos correspondientes
+Documentación de los módulos correspondientes en el repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos
+Verificación de los productos del análisis y entrega a diseñadores, testers
+Administración del Modelo de Dominio del proyecto
+Diseño del modelo lógico de datos para el proyecto
+Validación de la estrategia de pruebas para los módulos correspondientes
+Apoyo en pruebas de integración y UAT | Portal Mabe Internacional B2B.  (16mil horas, 10 participantes promedio)
+Analista de negocio de algunos módulos del sistema: LeadTime, Ruta, DatosGenerales
+Entrevistas con usuarios de negocio, obtención de requerimientos funcionales y no funcionales
+Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes
+Generación de casos de uso  de los módulos correspondientes
+Generación de especificaciones funcionales de los módulos correspondientes
+Generación de los contratos de servicio de los módulos correspondientes
+Documentación de los módulos correspondientes en el repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos
+Verificación de los productos del análisis y entrega a diseñadores, testers
+Administración del Modelo de Dominio del proyecto
+Diseño del modelo lógico de datos para el proyecto
+Validación de la estrategia de pruebas para los módulos correspondientes
+Apoyo en pruebas de integración y UAT
+Experiencia Funcional: | Aquitectura SOA, Ordenes de venta, Cubicación, BPM, Embarque, LeadTime | Aquitectura SOA, Ordenes de venta, Cubicación, BPM, Embarque, LeadTime | Aquitectura SOA, Ordenes de venta, Cubicación, BPM, Embarque, LeadTime | Aquitectura SOA, Ordenes de venta, Cubicación, BPM, Embarque, LeadTime | Aquitectura SOA, Ordenes de venta, Cubicación, BPM, Embarque, LeadTime
+Herramientas: | Erwin 7, StarUML, Visio | Erwin 7, StarUML, Visio | Erwin 7, StarUML, Visio | Erwin 7, StarUML, Visio | Erwin 7, StarUML, Visio
+Softtek-BI | Softtek-BI | México D.F. | Administrador de base de datos para proyectos de BI | Desde: 13/12/2007 | A: 
+16/11/2008
+Proyecto Interno: “Reporte de cálculo de comisiones de vendedores”.  (600 hrs, 2 participantes)
+Creación de estructura de base de datos para contener la información necesaria que fue extraída de sistemas como ONYX, Intrasoft y SAP.
+Creación de stored procedures, vistas y funciones para realizar las conversiones, validaciones y cálculos necesarios para generar el reporte de cálculo de comisiones de vendedores.
+Documentación del proceso.
+Análisis y diseño de los mapas necesarios para generar la carga inicial de la base de datos del reporte de cálculo de comisiones.
+Análisis y diseño de los mapas necesarios para actualización de la base de datos del reporte de cálculo de comisiones.
+Implementación de los mapas, pruebas, integración y puesta en operación de los mismos.
+Análisis, diseño e implementación de los jobs calendarizados para mantener actualizada la base de datos del reporte de cálculo de comisiones.
+Documentación del proceso. | Proyecto Interno: “Reporte de cálculo de comisiones de vendedores”.  (600 hrs, 2 participantes)
+Creación de estructura de base de datos para contener la información necesaria que fue extraída de sistemas como ONYX, Intrasoft y SAP.
+Creación de stored procedures, vistas y funciones para realizar las conversiones, validaciones y cálculos necesarios para generar el reporte de cálculo de comisiones de vendedores.
+Documentación del proceso.
+Análisis y diseño de los mapas necesarios para generar la carga inicial de la base de datos del reporte de cálculo de comisiones.
+Análisis y diseño de los mapas necesarios para actualización de la base de datos del reporte de cálculo de comisiones.
+Implementación de los mapas, pruebas, integración y puesta en operación de los mismos.
+Análisis, diseño e implementación de los jobs calendarizados para mantener actualizada la base de datos del reporte de cálculo de comisiones.
+Documentación del proceso. | Proyecto Interno: “Reporte de cálculo de comisiones de vendedores”.  (600 hrs, 2 participantes)
+Creación de estructura de base de datos para contener la información necesaria que fue extraída de sistemas como ONYX, Intrasoft y SAP.
+Creación de stored procedures, vistas y funciones para realizar las conversiones, validaciones y cálculos necesarios para generar el reporte de cálculo de comisiones de vendedores.
+Documentación del proceso.
+Análisis y diseño de los mapas necesarios para generar la carga inicial de la base de datos del reporte de cálculo de comisiones.
+Análisis y diseño de los mapas necesarios para actualización de la base de datos del reporte de cálculo de comisiones.
+Implementación de los mapas, pruebas, integración y puesta en operación de los mismos.
+Análisis, diseño e implementación de los jobs calendarizados para mantener actualizada la base de datos del reporte de cálculo de comisiones.
+Documentación del proceso. | Proyecto Interno: “Reporte de cálculo de comisiones de vendedores”.  (600 hrs, 2 participantes)
+Creación de estructura de base de datos para contener la información necesaria que fue extraída de sistemas como ONYX, Intrasoft y SAP.
+Creación de stored procedures, vistas y funciones para realizar las conversiones, validaciones y cálculos necesarios para generar el reporte de cálculo de comisiones de vendedores.
+Documentación del proceso.
+Análisis y diseño de los mapas necesarios para generar la carga inicial de la base de datos del reporte de cálculo de comisiones.
+Análisis y diseño de los mapas necesarios para actualización de la base de datos del reporte de cálculo de comisiones.
+Implementación de los mapas, pruebas, integración y puesta en operación de los mismos.
+Análisis, diseño e implementación de los jobs calendarizados para mantener actualizada la base de datos del reporte de cálculo de comisiones.
+Documentación del proceso. | Proyecto Interno: “Reporte de cálculo de comisiones de vendedores”.  (600 hrs, 2 participantes)
+Creación de estructura de base de datos para contener la información necesaria que fue extraída de sistemas como ONYX, Intrasoft y SAP.
+Creación de stored procedures, vistas y funciones para realizar las conversiones, validaciones y cálculos necesarios para generar el reporte de cálculo de comisiones de vendedores.
+Documentación del proceso.
+Análisis y diseño de los mapas necesarios para generar la carga inicial de la base de datos del reporte de cálculo de comisiones.
+Análisis y diseño de los mapas necesarios para actualización de la base de datos del reporte de cálculo de comisiones.
+Implementación de los mapas, pruebas, integración y puesta en operación de los mismos.
+Análisis, diseño e implementación de los jobs calendarizados para mantener actualizada la base de datos del reporte de cálculo de comisiones.
+Documentación del proceso. | Proyecto Interno: “Reporte de cálculo de comisiones de vendedores”.  (600 hrs, 2 participantes)
+Creación de estructura de base de datos para contener la información necesaria que fue extraída de sistemas como ONYX, Intrasoft y SAP.
+Creación de stored procedures, vistas y funciones para realizar las conversiones, validaciones y cálculos necesarios para generar el reporte de cálculo de comisiones de vendedores.
+Documentación del proceso.
+Análisis y diseño de los mapas necesarios para generar la carga inicial de la base de datos del reporte de cálculo de comisiones.
+Análisis y diseño de los mapas necesarios para actualización de la base de datos del reporte de cálculo de comisiones.
+Implementación de los mapas, pruebas, integración y puesta en operación de los mismos.
+Análisis, diseño e implementación de los jobs calendarizados para mantener actualizada la base de datos del reporte de cálculo de comisiones.
+Documentación del proceso.
+Experiencia Funcional: | Sistemas de información vigentes en softtek: Intrasoft, ONYX, SAP | Sistemas de información vigentes en softtek: Intrasoft, ONYX, SAP | Sistemas de información vigentes en softtek: Intrasoft, ONYX, SAP | Sistemas de información vigentes en softtek: Intrasoft, ONYX, SAP | Sistemas de información vigentes en softtek: Intrasoft, ONYX, SAP
+Herramientas: | SQLServer2005, SQLServer Business Intelligent Development Studio, Informatica Power Center 8.1.1. | SQLServer2005, SQLServer Business Intelligent Development Studio, Informatica Power Center 8.1.1. | SQLServer2005, SQLServer Business Intelligent Development Studio, Informatica Power Center 8.1.1. | SQLServer2005, SQLServer Business Intelligent Development Studio, Informatica Power Center 8.1.1. | SQLServer2005, SQLServer Business Intelligent Development Studio, Informatica Power Center 8.1.1.
+Softtek-IMSS | Softtek-IMSS | México D.F. | Administrador de base de datos SQLServer | Desde: 13/12/2006 | A: 
+01/11/2007
+Sistema de Administración de Farmacias. (60mil horas, 40 participantes promedio)
+Administración de cambios a objetos de base de datos
+Optimización de stored procedures
+Validación de objetos de base de datos
+Administración de procesos de cargas iniciales
+Estrategia y administración del plan de respaldos
+Administración de los servidores de base de datos de los ambientes de pruebas y desarrollo
+Administración de bases de datos sqlserver 2000
+Generación de scripts para Oracle.
+Documentación de Procesos
+Pruebas de algunas aplicaciones
+Optimización de algunos procesos de la migración
+Definición del flujo de los cambios a las bases de datos de los diferentes ambientes
+Definición e implantación de estándares en objetos de base de datos
+Implementación de estrategia de respaldos | Sistema de Administración de Farmacias. (60mil horas, 40 participantes promedio)
+Administración de cambios a objetos de base de datos
+Optimización de stored procedures
+Validación de objetos de base de datos
+Administración de procesos de cargas iniciales
+Estrategia y administración del plan de respaldos
+Administración de los servidores de base de datos de los ambientes de pruebas y desarrollo
+Administración de bases de datos sqlserver 2000
+Generación de scripts para Oracle.
+Documentación de Procesos
+Pruebas de algunas aplicaciones
+Optimización de algunos procesos de la migración
+Definición del flujo de los cambios a las bases de datos de los diferentes ambientes
+Definición e implantación de estándares en objetos de base de datos
+Implementación de estrategia de respaldos | Sistema de Administración de Farmacias. (60mil horas, 40 participantes promedio)
+Administración de cambios a objetos de base de datos
+Optimización de stored procedures
+Validación de objetos de base de datos
+Administración de procesos de cargas iniciales
+Estrategia y administración del plan de respaldos
+Administración de los servidores de base de datos de los ambientes de pruebas y desarrollo
+Administración de bases de datos sqlserver 2000
+Generación de scripts para Oracle.
+Documentación de Procesos
+Pruebas de algunas aplicaciones
+Optimización de algunos procesos de la migración
+Definición del flujo de los cambios a las bases de datos de los diferentes ambientes
+Definición e implantación de estándares en objetos de base de datos
+Implementación de estrategia de respaldos | Sistema de Administración de Farmacias. (60mil horas, 40 participantes promedio)
+Administración de cambios a objetos de base de datos
+Optimización de stored procedures
+Validación de objetos de base de datos
+Administración de procesos de cargas iniciales
+Estrategia y administración del plan de respaldos
+Administración de los servidores de base de datos de los ambientes de pruebas y desarrollo
+Administración de bases de datos sqlserver 2000
+Generación de scripts para Oracle.
+Documentación de Procesos
+Pruebas de algunas aplicaciones
+Optimización de algunos procesos de la migración
+Definición del flujo de los cambios a las bases de datos de los diferentes ambientes
+Definición e implantación de estándares en objetos de base de datos
+Implementación de estrategia de respaldos | Sistema de Administración de Farmacias. (60mil horas, 40 participantes promedio)
+Administración de cambios a objetos de base de datos
+Optimización de stored procedures
+Validación de objetos de base de datos
+Administración de procesos de cargas iniciales
+Estrategia y administración del plan de respaldos
+Administración de los servidores de base de datos de los ambientes de pruebas y desarrollo
+Administración de bases de datos sqlserver 2000
+Generación de scripts para Oracle.
+Documentación de Procesos
+Pruebas de algunas aplicaciones
+Optimización de algunos procesos de la migración
+Definición del flujo de los cambios a las bases de datos de los diferentes ambientes
+Definición e implantación de estándares en objetos de base de datos
+Implementación de estrategia de respaldos | Sistema de Administración de Farmacias. (60mil horas, 40 participantes promedio)
+Administración de cambios a objetos de base de datos
+Optimización de stored procedures
+Validación de objetos de base de datos
+Administración de procesos de cargas iniciales
+Estrategia y administración del plan de respaldos
+Administración de los servidores de base de datos de los ambientes de pruebas y desarrollo
+Administración de bases de datos sqlserver 2000
+Generación de scripts para Oracle.
+Documentación de Procesos
+Pruebas de algunas aplicaciones
+Optimización de algunos procesos de la migración
+Definición del flujo de los cambios a las bases de datos de los diferentes ambientes
+Definición e implantación de estándares en objetos de base de datos
+Implementación de estrategia de respaldos
+Experiencia Funcional: | Farmacias y Almacenes del IMSS | Farmacias y Almacenes del IMSS | Farmacias y Almacenes del IMSS | Farmacias y Almacenes del IMSS | Farmacias y Almacenes del IMSS
+Herramientas: | SQLServer2000, Toad 8.0 , Clear Case | SQLServer2000, Toad 8.0 , Clear Case | SQLServer2000, Toad 8.0 , Clear Case | SQLServer2000, Toad 8.0 , Clear Case | SQLServer2000, Toad 8.0 , Clear Case
+Grupo Elektra | Grupo Elektra | México D.F. | Administrador de base de datos SQLServer | Desde: 01/02/2000 | A: 
+02/10/2006
+2005-2006 Líder de Proyecto en la gerencia de Base de Datos Desarrollo
+Desarrollo de un sito WEB para administración de cambios
+Definición de estándares para el desarrollo de componentes de base de datos
+Participación en análisis y diseño de la base de datos para diferentes proyectos del negocio
+Un DBA y un programador a cargo
+2004-2005 Líder de proyecto en la gerencia de Telefonía
+Participé en el análisis y diseño e implementación de la aplicación
+Venta de Planes de Pos Pago. Es un nuevo producto que se ofrece en tiendas, se abarcó todo el proceso de la venta: modelado, venta, abonos, crédito, cancelación, pagos en otras tiendas. 
+La interfaz se desarrolló con Visual Basic 6.5 y un componente en Java para comunicación  con las telefónicas.
+Dos programadores a cargo
+2003-2004 Líder de proyecto en la gerencia de Latinoamérica
+Participé en el análisis y diseño de las siguientes aplicaciones:
+Facturación de Guatemala
+Facturación de Perú
+Doble Autorización de crédito en Guatemala, Honduras y Perú
+Solarización de Perú: Migración de la base de datos de Perú, todos los montos que estaban en dólares se cambiaron a soles que es la moneda oficial del país.  
+Dos programadores a cargo
+2000-2003 Administrador de base de datos
+Administración de bases de datos en entorno de producción:
+Hasta 700 sucursales en el DF, interior de la república y latinoamerica
+Bases de datos de disponibilidad 7x24
+Bases de datos de 500MB en promedio
+Administración de bases de datos de ambiente de pruebas y desarrollo
+Implantación y validación de estándares de programación de base de datos
+Documentación del modelo de datos en ERWIN
+Control de cambios en objetos de bases de datos
+Programación y Supervisión de tareas automatizadas
+Copias de seguridad y restauración
+Importación / Exportación masiva
+Monitoreo de performance de las bases de datos
+Monitoreo de trazas para detectar fallas de sistema
+Análisis de requerimientos 
+Diseño de modelo de datos
+Implementación de modelos de datos para aplicaciones en ambientes de desarrollo y productivo
+Programación en VB6 de aplicaciones para realizar tareas de administración/depuración/recuperación de base de datos local y remotamente
+Dos DBAs Junior a cargo | 2005-2006 Líder de Proyecto en la gerencia de Base de Datos Desarrollo
+Desarrollo de un sito WEB para administración de cambios
+Definición de estándares para el desarrollo de componentes de base de datos
+Participación en análisis y diseño de la base de datos para diferentes proyectos del negocio
+Un DBA y un programador a cargo
+2004-2005 Líder de proyecto en la gerencia de Telefonía
+Participé en el análisis y diseño e implementación de la aplicación
+Venta de Planes de Pos Pago. Es un nuevo producto que se ofrece en tiendas, se abarcó todo el proceso de la venta: modelado, venta, abonos, crédito, cancelación, pagos en otras tiendas. 
+La interfaz se desarrolló con Visual Basic 6.5 y un componente en Java para comunicación  con las telefónicas.
+Dos programadores a cargo
+2003-2004 Líder de proyecto en la gerencia de Latinoamérica
+Participé en el análisis y diseño de las siguientes aplicaciones:
+Facturación de Guatemala
+Facturación de Perú
+Doble Autorización de crédito en Guatemala, Honduras y Perú
+Solarización de Perú: Migración de la base de datos de Perú, todos los montos que estaban en dólares se cambiaron a soles que es la moneda oficial del país.  
+Dos programadores a cargo
+2000-2003 Administrador de base de datos
+Administración de bases de datos en entorno de producción:
+Hasta 700 sucursales en el DF, interior de la república y latinoamerica
+Bases de datos de disponibilidad 7x24
+Bases de datos de 500MB en promedio
+Administración de bases de datos de ambiente de pruebas y desarrollo
+Implantación y validación de estándares de programación de base de datos
+Documentación del modelo de datos en ERWIN
+Control de cambios en objetos de bases de datos
+Programación y Supervisión de tareas automatizadas
+Copias de seguridad y restauración
+Importación / Exportación masiva
+Monitoreo de performance de las bases de datos
+Monitoreo de trazas para detectar fallas de sistema
+Análisis de requerimientos 
+Diseño de modelo de datos
+Implementación de modelos de datos para aplicaciones en ambientes de desarrollo y productivo
+Programación en VB6 de aplicaciones para realizar tareas de administración/depuración/recuperación de base de datos local y remotamente
+Dos DBAs Junior a cargo | 2005-2006 Líder de Proyecto en la gerencia de Base de Datos Desarrollo
+Desarrollo de un sito WEB para administración de cambios
+Definición de estándares para el desarrollo de componentes de base de datos
+Participación en análisis y diseño de la base de datos para diferentes proyectos del negocio
+Un DBA y un programador a cargo
+2004-2005 Líder de proyecto en la gerencia de Telefonía
+Participé en el análisis y diseño e implementación de la aplicación
+Venta de Planes de Pos Pago. Es un nuevo producto que se ofrece en tiendas, se abarcó todo el proceso de la venta: modelado, venta, abonos, crédito, cancelación, pagos en otras tiendas. 
+La interfaz se desarrolló con Visual Basic 6.5 y un componente en Java para comunicación  con las telefónicas.
+Dos programadores a cargo
+2003-2004 Líder de proyecto en la gerencia de Latinoamérica
+Participé en el análisis y diseño de las siguientes aplicaciones:
+Facturación de Guatemala
+Facturación de Perú
+Doble Autorización de crédito en Guatemala, Honduras y Perú
+Solarización de Perú: Migración de la base de datos de Perú, todos los montos que estaban en dólares se cambiaron a soles que es la moneda oficial del país.  
+Dos programadores a cargo
+2000-2003 Administrador de base de datos
+Administración de bases de datos en entorno de producción:
+Hasta 700 sucursales en el DF, interior de la república y latinoamerica
+Bases de datos de disponibilidad 7x24
+Bases de datos de 500MB en promedio
+Administración de bases de datos de ambiente de pruebas y desarrollo
+Implantación y validación de estándares de programación de base de datos
+Documentación del modelo de datos en ERWIN
+Control de cambios en objetos de bases de datos
+Programación y Supervisión de tareas automatizadas
+Copias de seguridad y restauración
+Importación / Exportación masiva
+Monitoreo de performance de las bases de datos
+Monitoreo de trazas para detectar fallas de sistema
+Análisis de requerimientos 
+Diseño de modelo de datos
+Implementación de modelos de datos para aplicaciones en ambientes de desarrollo y productivo
+Programación en VB6 de aplicaciones para realizar tareas de administración/depuración/recuperación de base de datos local y remotamente
+Dos DBAs Junior a cargo | 2005-2006 Líder de Proyecto en la gerencia de Base de Datos Desarrollo
+Desarrollo de un sito WEB para administración de cambios
+Definición de estándares para el desarrollo de componentes de base de datos
+Participación en análisis y diseño de la base de datos para diferentes proyectos del negocio
+Un DBA y un programador a cargo
+2004-2005 Líder de proyecto en la gerencia de Telefonía
+Participé en el análisis y diseño e implementación de la aplicación
+Venta de Planes de Pos Pago. Es un nuevo producto que se ofrece en tiendas, se abarcó todo el proceso de la venta: modelado, venta, abonos, crédito, cancelación, pagos en otras tiendas. 
+La interfaz se desarrolló con Visual Basic 6.5 y un componente en Java para comunicación  con las telefónicas.
+Dos programadores a cargo
+2003-2004 Líder de proyecto en la gerencia de Latinoamérica
+Participé en el análisis y diseño de las siguientes aplicaciones:
+Facturación de Guatemala
+Facturación de Perú
+Doble Autorización de crédito en Guatemala, Honduras y Perú
+Solarización de Perú: Migración de la base de datos de Perú, todos los montos que estaban en dólares se cambiaron a soles que es la moneda oficial del país.  
+Dos programadores a cargo
+2000-2003 Administrador de base de datos
+Administración de bases de datos en entorno de producción:
+Hasta 700 sucursales en el DF, interior de la república y latinoamerica
+Bases de datos de disponibilidad 7x24
+Bases de datos de 500MB en promedio
+Administración de bases de datos de ambiente de pruebas y desarrollo
+Implantación y validación de estándares de programación de base de datos
+Documentación del modelo de datos en ERWIN
+Control de cambios en objetos de bases de datos
+Programación y Supervisión de tareas automatizadas
+Copias de seguridad y restauración
+Importación / Exportación masiva
+Monitoreo de performance de las bases de datos
+Monitoreo de trazas para detectar fallas de sistema
+Análisis de requerimientos 
+Diseño de modelo de datos
+Implementación de modelos de datos para aplicaciones en ambientes de desarrollo y productivo
+Programación en VB6 de aplicaciones para realizar tareas de administración/depuración/recuperación de base de datos local y remotamente
+Dos DBAs Junior a cargo | 2005-2006 Líder de Proyecto en la gerencia de Base de Datos Desarrollo
+Desarrollo de un sito WEB para administración de cambios
+Definición de estándares para el desarrollo de componentes de base de datos
+Participación en análisis y diseño de la base de datos para diferentes proyectos del negocio
+Un DBA y un programador a cargo
+2004-2005 Líder de proyecto en la gerencia de Telefonía
+Participé en el análisis y diseño e implementación de la aplicación
+Venta de Planes de Pos Pago. Es un nuevo producto que se ofrece en tiendas, se abarcó todo el proceso de la venta: modelado, venta, abonos, crédito, cancelación, pagos en otras tiendas. 
+La interfaz se desarrolló con Visual Basic 6.5 y un componente en Java para comunicación  con las telefónicas.
+Dos programadores a cargo
+2003-2004 Líder de proyecto en la gerencia de Latinoamérica
+Participé en el análisis y diseño de las siguientes aplicaciones:
+Facturación de Guatemala
+Facturación de Perú
+Doble Autorización de crédito en Guatemala, Honduras y Perú
+Solarización de Perú: Migración de la base de datos de Perú, todos los montos que estaban en dólares se cambiaron a soles que es la moneda oficial del país.  
+Dos programadores a cargo
+2000-2003 Administrador de base de datos
+Administración de bases de datos en entorno de producción:
+Hasta 700 sucursales en el DF, interior de la república y latinoamerica
+Bases de datos de disponibilidad 7x24
+Bases de datos de 500MB en promedio
+Administración de bases de datos de ambiente de pruebas y desarrollo
+Implantación y validación de estándares de programación de base de datos
+Documentación del modelo de datos en ERWIN
+Control de cambios en objetos de bases de datos
+Programación y Supervisión de tareas automatizadas
+Copias de seguridad y restauración
+Importación / Exportación masiva
+Monitoreo de performance de las bases de datos
+Monitoreo de trazas para detectar fallas de sistema
+Análisis de requerimientos 
+Diseño de modelo de datos
+Implementación de modelos de datos para aplicaciones en ambientes de desarrollo y productivo
+Programación en VB6 de aplicaciones para realizar tareas de administración/depuración/recuperación de base de datos local y remotamente
+Dos DBAs Junior a cargo | 2005-2006 Líder de Proyecto en la gerencia de Base de Datos Desarrollo
+Desarrollo de un sito WEB para administración de cambios
+Definición de estándares para el desarrollo de componentes de base de datos
+Participación en análisis y diseño de la base de datos para diferentes proyectos del negocio
+Un DBA y un programador a cargo
+2004-2005 Líder de proyecto en la gerencia de Telefonía
+Participé en el análisis y diseño e implementación de la aplicación
+Venta de Planes de Pos Pago. Es un nuevo producto que se ofrece en tiendas, se abarcó todo el proceso de la venta: modelado, venta, abonos, crédito, cancelación, pagos en otras tiendas. 
+La interfaz se desarrolló con Visual Basic 6.5 y un componente en Java para comunicación  con las telefónicas.
+Dos programadores a cargo
+2003-2004 Líder de proyecto en la gerencia de Latinoamérica
+Participé en el análisis y diseño de las siguientes aplicaciones:
+Facturación de Guatemala
+Facturación de Perú
+Doble Autorización de crédito en Guatemala, Honduras y Perú
+Solarización de Perú: Migración de la base de datos de Perú, todos los montos que estaban en dólares se cambiaron a soles que es la moneda oficial del país.  
+Dos programadores a cargo
+2000-2003 Administrador de base de datos
+Administración de bases de datos en entorno de producción:
+Hasta 700 sucursales en el DF, interior de la república y latinoamerica
+Bases de datos de disponibilidad 7x24
+Bases de datos de 500MB en promedio
+Administración de bases de datos de ambiente de pruebas y desarrollo
+Implantación y validación de estándares de programación de base de datos
+Documentación del modelo de datos en ERWIN
+Control de cambios en objetos de bases de datos
+Programación y Supervisión de tareas automatizadas
+Copias de seguridad y restauración
+Importación / Exportación masiva
+Monitoreo de performance de las bases de datos
+Monitoreo de trazas para detectar fallas de sistema
+Análisis de requerimientos 
+Diseño de modelo de datos
+Implementación de modelos de datos para aplicaciones en ambientes de desarrollo y productivo
+Programación en VB6 de aplicaciones para realizar tareas de administración/depuración/recuperación de base de datos local y remotamente
+Dos DBAs Junior a cargo
+Experiencia Funcional: | Análisis de requerimientos y diseño de la base de datos para nuevas aplicaciones 
+Elaboración Modelos de Datos y Diccionario de datos
+Elaboración de casos de uso, diagramas de actividad, secuencia
+Mantenimiento y mejora a objetos de base de datos de procesos en desarrollo
+Mejora del performance a objetos de base de datos de procesos de producción
+Desarrollo de herramientas para administración de bases de datos remotas. 
+Desarrollo de aplicaciones para el punto de venta. 
+Migración de base de datos sqlserver  2000. 
+Desarrollo de procedimientos para sincronización de las bases de datos locales con el servidor central (AS400). 
+Negocio: Ventas, Banco, Telefonía, Cambaceo, Migración, Recuperación, Respaldo, Aplicaciones remotas | Análisis de requerimientos y diseño de la base de datos para nuevas aplicaciones 
+Elaboración Modelos de Datos y Diccionario de datos
+Elaboración de casos de uso, diagramas de actividad, secuencia
+Mantenimiento y mejora a objetos de base de datos de procesos en desarrollo
+Mejora del performance a objetos de base de datos de procesos de producción
+Desarrollo de herramientas para administración de bases de datos remotas. 
+Desarrollo de aplicaciones para el punto de venta. 
+Migración de base de datos sqlserver  2000. 
+Desarrollo de procedimientos para sincronización de las bases de datos locales con el servidor central (AS400). 
+Negocio: Ventas, Banco, Telefonía, Cambaceo, Migración, Recuperación, Respaldo, Aplicaciones remotas | Análisis de requerimientos y diseño de la base de datos para nuevas aplicaciones 
+Elaboración Modelos de Datos y Diccionario de datos
+Elaboración de casos de uso, diagramas de actividad, secuencia
+Mantenimiento y mejora a objetos de base de datos de procesos en desarrollo
+Mejora del performance a objetos de base de datos de procesos de producción
+Desarrollo de herramientas para administración de bases de datos remotas. 
+Desarrollo de aplicaciones para el punto de venta. 
+Migración de base de datos sqlserver  2000. 
+Desarrollo de procedimientos para sincronización de las bases de datos locales con el servidor central (AS400). 
+Negocio: Ventas, Banco, Telefonía, Cambaceo, Migración, Recuperación, Respaldo, Aplicaciones remotas | Análisis de requerimientos y diseño de la base de datos para nuevas aplicaciones 
+Elaboración Modelos de Datos y Diccionario de datos
+Elaboración de casos de uso, diagramas de actividad, secuencia
+Mantenimiento y mejora a objetos de base de datos de procesos en desarrollo
+Mejora del performance a objetos de base de datos de procesos de producción
+Desarrollo de herramientas para administración de bases de datos remotas. 
+Desarrollo de aplicaciones para el punto de venta. 
+Migración de base de datos sqlserver  2000. 
+Desarrollo de procedimientos para sincronización de las bases de datos locales con el servidor central (AS400). 
+Negocio: Ventas, Banco, Telefonía, Cambaceo, Migración, Recuperación, Respaldo, Aplicaciones remotas | Análisis de requerimientos y diseño de la base de datos para nuevas aplicaciones 
+Elaboración Modelos de Datos y Diccionario de datos
+Elaboración de casos de uso, diagramas de actividad, secuencia
+Mantenimiento y mejora a objetos de base de datos de procesos en desarrollo
+Mejora del performance a objetos de base de datos de procesos de producción
+Desarrollo de herramientas para administración de bases de datos remotas. 
+Desarrollo de aplicaciones para el punto de venta. 
+Migración de base de datos sqlserver  2000. 
+Desarrollo de procedimientos para sincronización de las bases de datos locales con el servidor central (AS400). 
+Negocio: Ventas, Banco, Telefonía, Cambaceo, Migración, Recuperación, Respaldo, Aplicaciones remotas
+Herramientas: | SQLServer6.5
+SQLServer2000
+SQLServer2005
+Erwin 4.1
+Visual Basic 6
+RUP | SQLServer6.5
+SQLServer2000
+SQLServer2005
+Erwin 4.1
+Visual Basic 6
+RUP | SQLServer6.5
+SQLServer2000
+SQLServer2005
+Erwin 4.1
+Visual Basic 6
+RUP | SQLServer6.5
+SQLServer2000
+SQLServer2005
+Erwin 4.1
+Visual Basic 6
+RUP | SQLServer6.5
+SQLServer2000
+SQLServer2005
+Erwin 4.1
+Visual Basic 6
+RUP
+Consultores en Tecnología Informática | Consultores en Tecnología Informática | México D.F. | Analista Programador (Becario) | Desde: 01/03/1999 | A: 
+31/01/2000
+Experiencia Funcional: | Desarrollo de algunas consultas y ejecución de procesos para un sistema Datawarehouse para GNP
+Desarrollo de componentes de cálculo en lenguaje C++ para el proyecto COTIZADOR para GNP | Desarrollo de algunas consultas y ejecución de procesos para un sistema Datawarehouse para GNP
+Desarrollo de componentes de cálculo en lenguaje C++ para el proyecto COTIZADOR para GNP | Desarrollo de algunas consultas y ejecución de procesos para un sistema Datawarehouse para GNP
+Desarrollo de componentes de cálculo en lenguaje C++ para el proyecto COTIZADOR para GNP | Desarrollo de algunas consultas y ejecución de procesos para un sistema Datawarehouse para GNP
+Desarrollo de componentes de cálculo en lenguaje C++ para el proyecto COTIZADOR para GNP | Desarrollo de algunas consultas y ejecución de procesos para un sistema Datawarehouse para GNP
+Desarrollo de componentes de cálculo en lenguaje C++ para el proyecto COTIZADOR para GNP
+Herramientas: | C++, Visual Basic 6, SAS, SQLserver 6.5 | C++, Visual Basic 6, SAS, SQLserver 6.5 | C++, Visual Basic 6, SAS, SQLserver 6.5 | C++, Visual Basic 6, SAS, SQLserver 6.5 | C++, Visual Basic 6, SAS, SQLserver 6.5
+ESTUDIOS:
+Universidad Autónoma Metropolitana, Unidad Iztapalapa | México D.F. | 1994-1999
+Licenciatura en Computación | Licenciatura en Computación | Licenciatura en Computación
+DESARROLLO PROFESIONAL:
+Java Fundamentals | Sun Microsystems | Word Trade  Center México
+Java Programming | Sun Microsystems | Word Trade  Center México
+Java Workshop | Sun Microsystems | Word Trade  Center México
+Java XML | Sun Microsystems | Word Trade  Center México
+Querying Microsoft SQL Server 2000 with Transac SQL | Microsoft | Aster, México D.F.
+Programming a Microsoft Sql Server 2000 Database | Microsoft | Aster, México D.F.
+Administering a Microsoft Sql Server 2000 Database | Microsoft | Aster, México D.F.
+Optimizing a Microsoft Sql Server 2000 Database | Microsoft | Aster, México D.F.
+Designing and Implementing OLAP Solutions using Microsoft SQL Server 2000 | Microsoft | Aster, México D.F.
+Requirement analysis with use cases. | Itera | Instalaciones de grupo elektra
+Object oriented analysis and design with UML | Itera | Instalaciones de grupo elektra
+Curso básico de Data Quality 11.7 de Business Objects. | Softtek | Instalaciones de ferrería
+Informatica Power Center 8.1.1 | Softtek | Instalaciones de ferrería
+Taller Business Analyst | Softtek | Instalaciones de ferrería
+UML Fundamentals | Itera | Itera, Polanco
+IDIOMAS:
+Español nativo, inglés intermedio
+.
+CONOCIMIENTOS TÉCNICOS:
+Perfil principal: | Especialista en análisis de negocio
+Perfil secundario: | Líder Funcional
+Sistemas operativos: | Windows, Unix
+Lenguajes de programación: | Java, Visual Basic, C++, .Net
+Bases de datos: | Oracle, MS SQL Server
+Otros: | SixSigma, LEAN, CMMI, TMMI, ITIL, TOGAF, AMS, SCRUM, BABOK, PMI, COSMIC, PSP, TSP, BPM, Servicios funcionales, Microsoft Excel, Word, Power Point, Visio, StarUML, Sharepoint, Bizagi, SQLServer, Oracle, Erwin, Tortoise SVN, Process Dashboard
+CERTIFICACIONES:
+COSMIC Software Functional Size Measurer
+Certified Business Analysis Professional (CBAP)
+Certified Scrum Product Owner (CSPO)
+Certified SAFe 4 Agilist
+Certificación ISO/IEC 27001:2013 Foundation

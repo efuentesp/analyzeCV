@@ -30,26 +30,12 @@
     "lugar": "Facultad de Ingeniería, UNAM",
     "periodo": "agosto 2015 - diciembre 2021"
   },
-  "certificaciones_y_cursos": [
-    {
-      "nombre": "Azure Data Factory For Data Engineers",
-      "anio": ""
-    },
-    {
-      "nombre": "Azure Databricks and Spark For Data Engineers",
-      "anio": ""
-    },
-    {
-      "nombre": "Fundamentos de Python 1 [Cisco Networking Academy]",
-      "anio": ""
-    },
-    {
-      "nombre": "Fundamentos de Python 2 [Cisco Networking Academy]",
-      "anio": ""
-    },
-    {
-      "nombre": "Introducción a la Ciencia de Datos [Cisco Networking Academy]",
-      "anio": ""
-    }
+  "certificaciones": [],
+  "cursos": [
+    { "nombre": "Azure Data Factory For Data Engineers" },
+    { "nombre": "Azure Databricks and Spark For Data Engineers" },
+    { "nombre": "Fundamentos de Python 1 [Cisco Networking Academy]" },
+    { "nombre": "Fundamentos de Python 2 [Cisco Networking Academy]" },
+    { "nombre": "Introducción a la Ciencia de Datos [Cisco Networking Academy]" }
   ]
 }

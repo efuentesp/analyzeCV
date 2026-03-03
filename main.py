@@ -9,7 +9,7 @@ from typing import Any, Dict, List
 # No se definen clases manuales; se usa pydantic.create_model para validación ligera.
 
 TEMPLATE_PATH = os.path.join("PLANTILLA-DE-CV.docx")
-JSON_PATH = os.path.join("cv", "json_data", "desarrolladorJuniorBI.json")
+JSON_PATH = os.path.join("cv", "json_data", "testers.json")
 OUTPUT_DIR = os.path.join("cv", "final_cv")
 
 def load_json(path: str) -> Dict[str, Any]:
@@ -46,8 +46,9 @@ def prepare_context(data: Dict[str, Any]) -> Dict[str, Any]:
             "resumen_laboral": ["resumen_laboral", "resumen", "resumen_text", "summary_laboral"],
             "periodo_resumen_laboral": ["periodo_resumen_laboral", "periodo_resumen", "periodoResumenLaboral"],
             "estudios": ["estudios", "educacion", "education", "estudio"],
-            "certificaciones_y_cursos": ["certificaciones_y_cursos", "certificaciones", "certs", "certificacionesCursos"]
-            ,
+            "certificaciones_y_cursos": ["certificaciones_y_cursos", "certs", "certificacionesCursos"],
+            "certificaciones": ["certificaciones", "certs"],
+            "cursos": ["cursos", "courses", "curso"],
             "ajuste_puesto_liderazgo": ["ajuste_puesto_liderazgo", "ajuste_puesto", "ajuste", "ajustePuestoLiderazgo"]
         }
 
@@ -73,7 +74,10 @@ def prepare_context(data: Dict[str, Any]) -> Dict[str, Any]:
         resumen_laboral=(Any, []),
         periodo_resumen_laboral=(str, ""),
         estudios=(dict, {}),
+        # Soportar tanto la estructura antigua combinada como las nuevas claves separadas
         certificaciones_y_cursos=(list, []),
+        certificaciones=(list, []),
+        cursos=(list, []),
         ajuste_puesto_liderazgo=(dict, {}),
     )
 
@@ -202,22 +206,62 @@ def prepare_context(data: Dict[str, Any]) -> Dict[str, Any]:
         context["resumen_laboral"] = []
         context["resumen_laboral_text"] = " "
     
-    certs = []
-    certs_obj = []
-    for c in context.get("certificaciones_y_cursos", []):
-        if isinstance(c, dict) and "nombre" in c:
-            nombre = c["nombre"]
-            anio = c.get("anio") or c.get("year")
-            display = f"{nombre} ({anio})" if anio else nombre
-            certs.append(display)
-            certs_obj.append({"nombre": nombre, "anio": anio})
-        elif isinstance(c, str):
-            certs.append(c)
-            certs_obj.append({"nombre": c, "anio": None})
+    # Procesar nuevas claves separadas `certificaciones` y `cursos`.
+    # Mantener compatibilidad con la estructura antigua `certificaciones_y_cursos`.
+    certs_list = []
+    cursos_list = []
 
-    context["certificaciones_y_cursos"] = certs_obj
-    context["certificaciones_y_cursos_display"] = certs
-    context["certificaciones_obj"] = certs_obj
+    def _proc_cert_item(item: Any) -> Dict[str, Any]:
+        if isinstance(item, dict):
+            nombre = item.get("nombre") or item.get("name") or ""
+            anio = item.get("anio") or item.get("year") or None
+        elif isinstance(item, str):
+            nombre = item
+            anio = None
+        else:
+            nombre = str(item)
+            anio = None
+        return {"nombre": nombre, "anio": anio}
+
+    def _proc_curso_item(item: Any) -> Dict[str, Any]:
+        if isinstance(item, dict):
+            nombre = item.get("nombre") or item.get("name") or ""
+        elif isinstance(item, str):
+            nombre = item
+        else:
+            nombre = str(item)
+        return {"nombre": nombre}
+
+    raw_certs = context.get("certificaciones")
+    raw_cursos = context.get("cursos")
+    raw_combined = context.get("certificaciones_y_cursos")
+
+    if isinstance(raw_certs, list):
+        for it in raw_certs:
+            certs_list.append(_proc_cert_item(it))
+
+    if isinstance(raw_cursos, list):
+        for it in raw_cursos:
+            cursos_list.append(_proc_curso_item(it))
+
+    # Si no vienen separadas, intentar inferir desde la estructura combinada antigua
+    if not certs_list and not cursos_list and isinstance(raw_combined, list):
+        for it in raw_combined:
+            if isinstance(it, dict) and (it.get("anio") or it.get("year")):
+                certs_list.append(_proc_cert_item(it))
+            else:
+                # Si no hay año, considerarlo curso (o elemento sin año)
+                # Esto ayuda a migrar automáticamente datos antiguos.
+                if isinstance(it, dict) or isinstance(it, str):
+                    cursos_list.append(_proc_curso_item(it))
+                else:
+                    cursos_list.append(_proc_curso_item(it))
+
+    # Asegurar que las claves existen en el contexto y crear versiones "display" útiles
+    context["certificaciones"] = certs_list
+    context["cursos"] = cursos_list
+    context["certificaciones_display"] = [f"{c['nombre']} ({c['anio']})" if c.get('anio') else c['nombre'] for c in certs_list]
+    context["cursos_display"] = [c['nombre'] for c in cursos_list]
     estudios = context.get("estudios", {}) or {}
     carrera_raw = estudios.get("carrera", "")
     # separar líneas y limpiar
@@ -249,6 +293,40 @@ def prepare_context(data: Dict[str, Any]) -> Dict[str, Any]:
         return obj
 
     context = _replace_empty(context)
+
+    # Limpieza adicional: si las listas de certificaciones/cursos sólo contienen elementos "vacíos"
+    # (p. ej. [" "] o [{"nombre": " "}]) dejarlas como listas vacías para que
+    # `{% if certificaciones %}` en las plantillas funcione correctamente.
+    def _lista_solo_vacia(lst: Any) -> bool:
+        if not isinstance(lst, list):
+            return False
+        if len(lst) == 0:
+            return True
+        for it in lst:
+            # cadenas: considerar vacía si strip() == ''
+            if isinstance(it, str):
+                if it.strip():
+                    return False
+                else:
+                    continue
+            # dicts: comprobar campo 'nombre'
+            if isinstance(it, dict):
+                nombre = it.get("nombre") or ""
+                if isinstance(nombre, str) and nombre.strip():
+                    return False
+                # también aceptar si tiene otros campos significativos (anio no vacío)
+                anio = it.get("anio") if it.get("anio") is not None else ""
+                if isinstance(anio, str) and anio.strip():
+                    return False
+                continue
+            # otros tipos: considerarlos no vacíos
+            return False
+        # si llegamos aquí, todos los elementos eran "vacíos"
+        return True
+
+    for k in ("certificaciones", "cursos", "certificaciones_y_cursos"):
+        if k in context and _lista_solo_vacia(context.get(k)):
+            context[k] = []
 
     # Después de normalizar vacíos, establecer ajuste_puesto_liderazgo a None si no había contenido
     if not ajuste_was_meaningful:

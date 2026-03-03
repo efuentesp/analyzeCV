@@ -277,6 +277,13 @@ Total de actividades (todas las experiencias seleccionadas):
       "actividades_principales": []
     }
   ],
+  "ajuste_puesto_liderazgo": {
+      "empresa": "",
+      "puesto": "",
+      "fecha_inicio": "",
+      "fecha_fin": "",
+      "actividades_principales": []
+  },
   "periodo_resumen_laboral": "",
   "resumen_laboral": "",
   "estudios": {
@@ -284,10 +291,17 @@ Total de actividades (todas las experiencias seleccionadas):
     "lugar": "",
     "periodo": ""
   },
-  "certificaciones_y_cursos": [
+"certificaciones": [
     {
       "nombre": "",
       "anio": ""
     }
+  ],
+  "cursos": [
+    {
+      "nombre": ""
+    }
   ]
 }
+```
+---

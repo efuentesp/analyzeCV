@@ -1,0 +1,760 @@
+
+
+--- Página 1 ---
+
+Cesar Omar Subirie Her nandez
+Mexico | cesar.subirie@sof ttek.com
+RESUMEN Ingenier o de Sistemas con más de 20 años de e xperiencia en desar rollo de
+software para sector es ener gético y bancario . Destacado por liderar pr oyectos
+críticos, optimizando pr ocesos y r educiendo costos. Especializado en tecnologías
+como .NET, Java, ABAP, y Delphi, con e xperiencia en supervisión operativa y
+coordinación de servicios infor máticos
+Educación Instituto TECNOL ÓGICO de V eracruz ene 1998 - dic 2002
+Ingeniero, Ingeniero en Sistemas Computacionales
+Both Degr ee and P rofessional License
+Experiencia Softtek jul 2025 - ene 2026
+Software Developer Sr
+Participé con el Instituto Me xicano del Segur o Social (IMSS) para desar rollo de
+aplicaciones y Soporte de aplicaciones inter nas con Java y P rimeF aces.
+Softtek jul 2024 - jul 2025
+Software Developer Sr
+Participé con el Instituto F ederal de T elecomunicaciones (IF T) para desar rollo de
+aplicaciones inter nas de seguimiento de ejer cicios de riesgos con Java y
+PrimeF aces.
+Softtek jul 2021 - jul 2024
+Software Engineer W eb Java Sr
+Participé con Banco Coppel para desar rollo de funcionalidades de domiciliación
+para su cor e back end bancario con Java y APIs.
+Giga T ech ene 2020 - mar 2021
+Ingeniero de Desarrollo
+Participé en equipos de desar rollo de aplicaciones :
+- Logística de V iajes. (P roducto inter no, seguimiento vía satelital de viajes de los
+productos del cliente, r eportes y envío de cor reos con .NET)
+- Logística de A duanas. (Cliente local - Servicio A duaner o , reportes
+administrativos con .NET)
+- Desar rollo de Micr oservicio de obtención de datos de sensor es. (Equipo
+multinacional - cliente US A con Java, Spring Boot y Spring Batch)
+Realicé investigación para aplicación de nor mas de seguridad para el ambiente
+Azure de la gestión de aplicaciones en Giga T ech (Caps)
+Grupo R jul 2019 - dic 2019
+Freelance
+Desar rollé aplicaciones web administrativas:
+- Reporte de tiempos de actividades r elacionadas con los pr oyectos de los
+clientes del personal del grupo con Java y Angular .
+- Actualización del sistema de compras de avituallamiento .
+
+--- Página 2 ---
+
+Grupo R may 2016 - jun 2019
+Responsable de Programación de Lenguajes
+Desar rollé aplicaciones web administrativas:
+- Gestión de la compra de vitualla para las empr esas del grupo con Java y
+Angular .
+- Gestión del canal de comunicación del ár ea de RH con el personal a bor do con
+Java y Angular .
+Mantenimiento del sitio empr esarial www .grupor .com.mx
+IAI INGENIERÍA Aplicada E INFORMÁ TICA feb 2015 - dic 2015
+Supervisor Sr .
+- Supervisión operativa y Mantenimiento a los Servidor es para la Operación de las
+aplicaciones de Sof tware de la subger encia de Ingeniería de la Central Laguna
+Verde.
+- Análisis de los pr ocedimientos de Almacén de IAI en la CL V para su futura
+automatización.
+ININ feb 2006 - dic 2014
+Coordinador del Servicio Informático
+Analista T écnico P rogramador .
+- Garantizar que las ár eas tuvieran la infor mación necesaria para operar
+implementando webservices.
+- Implanté pr ocedimientos para la administración del servidor de aplicaciones.
+- Implementé estándar es y patr ones de diseño para el desar rollo de aplicaciones
+JAVA.
+- Impulsé el cambio de platafor ma de desar rollo para r educir el costo de
+mantenimiento de sof tware.
+- Desar rollé una aplicación que facilitó la toma de decisiones para los pr oyectos
+de recargas de combustibles.
+Coordinador del Servicio Infor mático .
+- Ascendido para coor dinar los servicios de carácter infor mático para la Central
+Laguna V erde.
+- Contribuí en el desar rollo e implementación del plan de capacitación del
+personal en tur no de cara a los r equerimientos de CFE.
+- Administr é el servidor de aplicaciones mejorando su r endimiento y r educiendo
+las caídas hasta en un 80%.
+CFE Central Nucleoeléctrica Laguna V erde may 2003 - dic 2005
+Analista TÉCNICO Programador
+- Desar rollé una aplicación cliente-servidor con Delphi, totalmente concur rente,
+para el contr ol de los mantenimientos de planta pr ogramados.
+- Implementé con Java, llamados a funciones r emotas de S AP pr ogramadas en
+ABAP, para su uso desde aplicaciones locales de diversas ár eas operativas,
+ayudando al ahor ro de compra de licencias S AP.
+Cursos APPDEV - Código Seguro ene 2026
+SOFT TEK
+Al ﬁnalizar el cur rículo, el participante será capaz de r econocer las 10
+vulnerabilidades más comunes en la industria según OW ASP, cómo detectarlas,
+cómo pr evenirlas y ejemplos de las mismas.
+
+--- Página 3 ---
+
+Openshift 4 desde cero dic 2025
+Hola, Bienvenido!!!
+Actualizado completamente a ﬁnales de  2023
+Si estás leyendo esto, es que estás inter esado en conocer esta fascinante
+tecnología, que además es una de las más demandadas a nivel laboral y
+profesional, sobr e todo en entor nos devops y despliegue de aplicaciones.
+!!!Si quier es hacerte con un buen perﬁl pr ofesional que ofr ecer a las empr esas
+este es tu curso!!!
+Durante este curso vas a apr ender a manejar y gestionar un cluster de R ed Hat
+Openshif t 4, basado en K ubernetes.  Man
+Webinar: Manejo de conﬂictos oct 2025
+SOFT TEK
+Al ﬁnalizar el tema, el participante será capaz de identiﬁcar :¿ Qué es el
+conﬂicto?, las generalidades del mismo y los pasos para poder gestionarlo de la
+mejor manera, para la r esolución de conﬂictos.
+AI Foundations oct 2025
+SOFT TEK
+The participant will identif y and understand the fundamentals of artiﬁcial
+intelligence in or der to become familiar with the ﬁeld, and will for mulate ideas for
+its application in various pr ofessional conte xts, fostering a critical and cr eative
+perspective on its use.
+Introduction to FRIDA Code Copilot oct 2025
+SOFT TEK
+By the end of this course, Sof ttekians will be able to autonomously install,
+conﬁgur e, and use the main featur es of F rida Code Copilot in Spanish, including
+code generation and analysis, conversational agents, automation with Ansible,
+and visual tools such as diagram generation, with the goal of optimizing
+productivity and eﬃciency in development envir onments within Sof ttek.
+Dock er for the Absolute Beginner - Hands On - DevOps oct 2025
+●●●Dock er Endorsed Content●●●
+Dock er is an open platfor m for developers and sysadmins to build, ship, and run
+distributed applications, whether on laptops, data center VMs, or the cloud.
+This course intr oduces Dock er to an Absolute Beginner using r eally simple and
+easy-to-understand lectur es. Lectur es ar e followed by demos showing how to set
+up and get started with Dock er. The coding e xercises that accompany this course
+will help you practice Dock er commands, develop your own images using Doc
+Introduction to GenAI oct 2025
+SOFT TEK
+By the end of this course, Sof ttekians will be able to understand the fundamental
+concepts of artiﬁcial intelligence (AI), including how Lar ge Language Models
+(LLMs) work and what they can do, how to use platfor ms lik e FRID A Gen AI, and
+the importance of F oundation Models and AI Gover nance.
+Introduction to MS Copilot 365 oct 2025
+
+--- Página 4 ---
+
+SOFT TEK
+By the end of this course, Sof ttekians will be able to understand the basic
+functionalities of Micr osoft Copilot 365 and apply them to common administrative
+tasks such as document writing, simple data analysis, tick et management, and
+process understanding, in or der to impr ove operational eﬃciency at Sof ttek.
+PostgreSQL de Cero a A vanzado (pgAdmin4 y Shell) sep 2025
+En este curso apr enderás a utilizar el Sistema Gestor de Base de Datos
+Postgr eSQL, a través de una base de datos enfocada a un pr oblema r eal.
+Pero primer o ¿Porqué utilizar P ostgr eSQL?, Es un sistema de base de datos
+relacional de alta disponibilidad. Es capaz de funcionar de manera estable en el
+servidor y, por lo tanto, r esulta r obusto, una de las principales características que
+buscan las empr esas. A demás, es consistente y tolerante a fallos.
+Sumando que P ostgr eSQL se puede llevar a la Nube, c
+Comienza con MongoDB: Curso de MongoDB desde cero sep 2025
+● Este curso es parte del Data Engineering Bootcamp de Datademia. V isita
+nuestra web para más infor mación.
+Hola y bienvenidos a este curso de MongoDB. En este curso apr enderás desde
+cero a trabajar con MongoDB, la base de datos NoSQL más utilizada en el mundo .
+Trabajar emos mayoritariamente en la shell. T endremos primer o clases teóricas
+seguidas de clases prácticas para que puedas cementar tus conocimientos.
+Es un curso totalmente práctico y dinámico en donde empezarás desde cer o con
+MongoDB ha
+ITIL 4 F oundation Nivel 2 - Cadena de V alor de Servicio ago 2025
+SOFT TEK
+Describir el pr opósito de la Cadena de V alor del Servicio con sus 6 actividades y
+ejemplos.
+ITIL 4 F oundation Nivel 2 - Mejora Continua ago 2025
+SOFT TEK
+Mostrar el modelo de mejora continua que ITIL 4 pr oporciona para tener un
+enfoque estructurado para implementar mejoras.
+ITIL 4 F oundation Nivel 2 - Principios Guía ago 2025
+SOFT TEK
+Describir los 7 P rincipios Guía deﬁnidos por ITIL 4 con ejemplos del día a día.
+ITIL 4 F oundation Nivel 2 - Prácticas de la Gestión del
+Servicioago
+2025
+SOFT TEK
+Deﬁnir de manera general las P rácticas que ITIL 4 nos pr esenta en 3 categorías:
+Gestión General, Gestión de Servicios y Gestión T écnica.
+ITIL 4 F oundation Nivel 2 - Cuatro Dimensiones ago 2025
+SOFT TEK
+Mostrar las cuatr o dimensiones dentr o de ITIL 4, las cuales son importantes para
+la estabilidad y la mejora del Sistema de V alor del Servicio .
+
+--- Página 5 ---
+
+ITIL 4 F oundation Nivel 2 - Sistema de V alor del Servicio ago 2025
+SOFT TEK
+Mostrar el pr opósito del Sistema de V alor del Servicio, sus componentes y su
+aplicación práctica.
+ITIL 4 F oundation Nivel 2 - Conceptos Clave del Servicio ago 2025
+SOFT TEK
+Reforzar los conceptos clave del servicio que se vier on en el curso ITIL 4
+Foundation Overview con algunos ejemplos.
+ITIL 4 F oundation Nivel 2 - Introducción ago 2025
+SOFT TEK
+El objetivo de este curso es que el participante conozca e identiﬁque los
+fundamentos de ITIL 4: los conceptos clave de la gestión del servicio, las Cuatr o
+Dimensiones y los componentes del Sistema de V alor del Servicio .
+Comunidades SKILL - Methodology ago 2025
+SOFT TEK
+Las  comunidades  de  apr endizaje  se  basan  en  que la educación es para
+todos, y es un pr oceso de apr endizaje per manente. Con  tr es pilar es: Knowledge,
+Interaction, L earning, Skill es un pr oyecto que se fundamenta en los principios del
+aprendizaje dialógico . Impulsamos a las comunidades a generar r edes de
+información y compartir conocimientos a través de diversas actividades y
+estrategias de apr endizaje continuo .
+A4 Analysis ago 2025
+SOFT TEK
+Able to methodology designed to impr ove business perfor mance thr ough data
+analysis. The A4 uses data to identif y the r oot causes of defects in pr oducts and
+services
+AMS Model 2 ago 2025
+SOFT TEK
+Speciﬁc courses of practice that help you understand their methodology
+Application Knowledge T ransfer ago 2025
+SOFT TEK
+Asegurarse que toda la infor mación de las aplicaciones, los pr oductos, etc se
+entregan cor rectamente a la práctica AMS.
+NPS- VOC ago 2025
+SOFT TEK
+Able to understanding of customer needs and the disciplined use of data, facts
+and statistical analysis to impr ove.
+Quality T ools ago 2025
+SOFT TEK
+Al ﬁnalizar el curso, el participante será capaz de identiﬁcar el conocimiento
+fundamental de la función App Automation Analyst para incr ementar el
+conocimiento de sus habilidades y conocimientos en el tema.
+Root Cause Analysis ago 2025
+
+--- Página 6 ---
+
+SOFT TEK
+Able to identif y the sour ces of variation and then prioritize these sour ce,
+separating the "vital few" variables fr om "trivial many" variables and hence
+propose a possible pilot solution for an impr oved pr ocess.
+Code Change Management ago 2025
+SOFT TEK
+The objective of the course is for participants to gain a high-level view of the
+code change management pr ocess
+Conﬁguration Management ago 2025
+SOFT TEK
+Able to identiﬁes the Conﬁguration Management Basics: Goal, R oles, Inputs,
+Activities, Output, P ossible P roblems, Beneﬁts, CSFs, KPIs.
+Defect Management ago 2025
+SOFT TEK
+El objetivo del curso es que los participantes compr endan la importancia de la
+deﬁnición de defecto, así como también la importancia del r egistr o para la
+reducción de defectos a través del pr oceso de A dministración de Defectos.
+Release Management ago 2025
+SOFT TEK
+The objective of the course is for participants to obtain the necessary skills to
+apply the discipline of R elease A dministration by incorporating all components of
+scheduled delivery
+Service Level Management ago 2025
+SOFT TEK
+How to cr eate str onger ties with your customer and suppliers
+Incident Management ago 2025
+SOFT TEK
+Able to understand and compr ehends the Incident Management distinguishing
+Service vs. Incident, having a Incident priority is primarily for med out of it's
+impact and ur gency .
+Problem Management ago 2025
+SOFT TEK
+Able to understand and compr ehends the pr oblem management in or der to
+analyze the r oot cause and identif y a per manent ﬁx to the pr oblem.
+Apache Kafka Series - Kafka Connect Hands-on Learning ago 2025
+A Compr ehensive and Brand New Course for L earning Apache K afka Connect
+Framework with Hands- on Training – (Launched in April 2017)
+Kafka Connect is a tool for scalable and r eliable str eaming data between Apache
+Kafka and other data systems. Apache K afka Connect is a common framework for
+Apache K afka producers and consumers.  
+Apache K afka Connect oﬀers an API, R untime, and REST Service to enable
+developers to deﬁne connectors that move lar ge data sets into and out of
+Apache K afka in r eal time.
+
+--- Página 7 ---
+
+Service Delivery Phase of AMS ago 2025
+SOFT TEK
+Able to understand all the pr ocesses involved in the Service Delivery Phase of
+AMS
+Service Improvement Phase of AMS ago 2025
+SOFT TEK
+Able to understand all the pr ocesses involved in the Service Impr ovement Phase
+of AMS
+Service Management Phase of AMS ago 2025
+SOFT TEK
+Able to understand all the pr ocesses involved in the Service Management Phase
+of AMS
+AMS Introduction ago 2025
+SOFT TEK
+Obtain an overview of the service model for support services and application
+maintenance; understanding the support r ole that is r esponsible for the
+continuity and monitoring of services in the pr oduction envir onment.
+AMS Model ago 2025
+SOFT TEK
+The participant will be able to identif y the activities perfor med to e xisting
+applications, so the people who operate them work smoothly while the AMS can
+solve the pr oblems that appear in the day to day basis
+Information Security Management System (ISMS) ago 2025
+SOFT TEK
+At the end of the course, the participant will become awar e of the 27001 system,
+its scope, objectives, how it is being implemented in our pr ocesses and the
+importance of this system.
+Service Design Phase ago 2025
+SOFT TEK
+Able to understand all the pr ocesses involved in the Service Design Phase of AMS
+Frameworks for AMS ago 2025
+SOFT TEK
+Entrenamiento clave para el desar rollo de capacidades en la práctica AMS.
+ISO/IEC 20000-1:2018 (2024) ago 2025
+SOFT TEK
+El participante conocerá los conceptos básicos del Sistema de Gestión de
+Servicio, desde lo qué es un Sistema de Gestión, los r oles principales, la política,
+los objetivos, el alcance, sus elementos mandatorios, entr e otros.
+ITIL 4 F oundation Overview ago 2025
+SOFT TEK
+Provide general knowledge about the ITIL 4 service management framework in a
+common language and show how it has evolved to be able to adopt moder n
+technologies in our services and or ganization. T opics: Intr oduction and evolution
+
+--- Página 8 ---
+
+of ITIL, K ey concepts of the Service, Intr oduction to the Service V alue System and
+its components.
+Service Introduction CMMi Services ago 2025
+SOFT TEK
+Understand the r easons for the Service Model, the r esour ces r equir ed to satisf y a
+service agr eement with a customer .
+Apache Kafka Series - KSQL on ksqlDB for Stream
+Processing !ago
+2025
+The latest r elease in the Apache K afka Series!
+Conﬂuent ksqlDB has become an incr easingly popular str eam pr ocessing
+framework built upon K afka Streams. It enables developers to write r eal-time
+stream pr ocessing applications with the ease of SQL. No K afka Streams
+knowledge r equir ed!
+For this course, I have partner ed with KSQL e xpert Simon Aubury to bring you the
+ultimate KSQL course.
+We'll tak e a pr oject based appr oach for this course. Y ou'll lear n all the most
+important KSQL featur es by gradual
+Apache Kafka Series - Kafka Streams for Data
+Processingago
+2025
+The new volume in the Apache K afka Series!
+Learn the K afka Streams data pr ocessing library, for Apache K afka. Join hundr eds
+of knowledge savvy students into lear ning one of the most pr omising data
+processing library on Apache K afka.
+Kafka Streams is the easiest way to write your applications on top of K afka:
+> Easiest way to transfor m your data using the High L evel DSL
+> Exactly Once semantics support out of the bo x!
+> Deploy and Scale your K afka Streams application without a cluster!
+> Perfor
+Apache Kafka for absolute beginners jul 2025
+I designed this course for absolute beginners and inter mediate K afka
+professionals. This course will deliver What? Why? And How? of Apache K afka and
+take you deep into Client API pr ogramming in Java.
+About the Course
+I am cr eating Apache K afka for absolute beginners course to help you understand
+the Apache K afka Stack, the ar chitectur e of K afka components, K afka Client APIs
+(Producers and Consumers) and apply that knowledge to cr eate K afka programs
+in Java.
+Who should tak e this course?
+This cou
+Examen AD -Comun-SREXMA jul 2025
+SOFT TEK
+Evaluar los conocimientos apr endidos en los cursos tomados.
+English for Speciﬁc Purposes jul 2025
+SOFT TEK
+
+--- Página 9 ---
+
+ESP gr oups ar e tailor -made and designed to meet your speciﬁc needs and attain
+your English training goals. If your team r equir es English training for a speciﬁc
+sector, we can customize the pr ogram thr ough a combination of language, cr oss-
+cultural and subject-speciﬁc training.
+APP DEV - INBAFL - T aller Modelado Procesos Negocio jul 2025
+SOFT TEK
+El curso va dirigido a los colaborador es con perﬁl Business Analyst-F unctional
+Leader, que deseen apr ender a generar diagramas de pr ocesos, para el
+modelado de pr ocesos de negocio
+Security T raining – Software Engineer jul 2025
+SOFT TEK
+Upon completing the course, the participant will be able to identif y the principles,
+best practices, and k ey cybersecurity tools that will enable them to design,
+implement, and maintain r esilient applications against common thr eats and
+vulnerabilities, thr ough a practical appr oach based on r eal-world secur e sof tware
+development scenarios.
+[Languages: ESP, ENG]
+Video 10. ¿Qué es un Evento y para que se utiliza? jul 2025
+SOFT TEK
+Se describe de que manera se deben utilizar los conector es de ﬂujos de
+secuencia para indicar la secuencia de las actividades del pr oceso .
+Video 11. Como modelar Actividades, T areas y
+Subprocesosjul
+2025
+SOFT TEK
+Se explica a detalle cada uno de los siguientes elementos: A ctividad, T area y
+Subpr oceso, y se muestra la manera de modelarlos en la her ramienta para
+modelado de pr ocesos
+Video 12. Modelando procesos de negocio con Bizagi
+(ejemplo práctico)jul
+2025
+SOFT TEK
+Se pr esenta un ejemplo práctico donde se modela un pr oceso de negocio usando
+los elementos r evisados en los videos anterior es.
+Video 13. Introducción a YED jul 2025
+SOFT TEK
+Explicacion en el uso de la her ramienta para modelado de pr ocesos YED,
+comparativo con Bizagi
+Video 14. Caso práctico 1 YED Solicitud vacaciones jul 2025
+SOFT TEK
+Este video muestra una solución al caso de estudio 1. Se r ealiza con la
+herramienta de modelado de pr ocesos YED
+Video 5. Elementos claves para modelar un proceso con
+Bizagi Modelerjul
+2025
+
+--- Página 10 ---
+
+SOFT TEK
+Se pr esentan los principales componentes con los que cuenta Bizagi Modeler
+para diagramar los pr ocesos de negocio .
+Video 6. ¿Qué es un Contenedor y para que se usa? jul 2025
+SOFT TEK
+Se describen los difer entes tipos de Contenedor es que se considera en las
+herramientas para modelado de pr ocesos y su aplicación.
+Video 7. ¿Qué es una Actividad? jul 2025
+SOFT TEK
+Se deﬁne el concepto de A ctividad y como se debe r epresentar en la her ramienta
+para modelado de pr ocesos
+Video 8. ¿Qué es el Flujo de Secuencia y para que sirve? jul 2025
+SOFT TEK
+Se describe de que manera se deben utilizar los conector es de ﬂujos de
+secuencia para indicar la secuencia de las actividades del pr oceso .
+Video 9. ¿Qué es una Compuerta y para que se emplea? jul 2025
+SOFT TEK
+Se describen los difer entes elementos de tipo Compuerta que se consideran en la
+herramienta para modelado de pr ocesos y su aplicación.
+Learning at W ork - Calidad jul 2025
+SOFT TEK
+A través de esta iniciativa, buscamos que durante todo el año te hagas participe
+de confer encias, taller es, y diversas actividades, sobr e los cuales podrás ampliar
+tu conocimiento en temas de tendencia r especto a tecnologías de la infor mación,
+Softskills, Management, Innovación y Empr endimiento .
+Skill Summit jul 2025
+SOFT TEK
+Los participantes conozcan e identiﬁquen diversas metodologías, tecnologías y
+habilidades blandas mediante webinars, charlas y taller es impartidos por
+expertos inter nos y e xternos, basados en casos r eales y buenas prácticas, con el
+ﬁn de que sean capaces de aplicar los conocimientos adquiridos en sus pr oyectos
+profesionales, impulsando así la mejora continua y la innovación en su entor no
+de trabajo .
+Security Awareness 2025 jul 2025
+SOFT TEK
+At the end of the course, the participant will r einfor ce their knowledge of our
+Information Security P olicies, Ethics and pr ocesses, and will be able to identif y
+incidents or risks, as well as the cor rect way to escalate them to avoid violating
+the security of Sof ttek's infor mation and clients' assets.
+[Languages: ENG, ESP, POR]
+Advanced Javascript jul 2025
+In only seven hours you will lear n enough JavaScript to transfor m from a junior
+javascript developer into a senior javascript guru.
+
+--- Página 11 ---
+
+You will dramatically impr ove your chances of getting past a technical interview,
+landing that dr eam job and ear ning mor e money .
+If you ar e like me you lear nt Javascript by just muddling along, seeing what works
+and lear ning a thing or two every day .
+However, without a grasp of the deeper fundamentals, you will hit quite a few
+head scratchy issues, intr oduce bugs,
+Aprende diseño web de cero a experto con proyectos:
+HTML+C SSjul
+2025
+El diseño de un sitio web es un elemento muy importante en el pr oceso de
+desar rollo. Esto se debe a que el usuario sentirá conﬁanza al entrar a un sitio que
+luzca pr ofesional, en el que pueda navegar de for ma cómoda, rápida y segura,
+evitando cualquier pr oblema que le impida ver el contenido por el que accedió .
+Se ha compr obado que los diseños web que son originales, limpios y or denados
+tienen más pr obabilidad de convertir a un visitante en un usuario . La página web
+se ve como la carta de pr ese
+Curso de HTML5 desde cero: El más completo en Español jun 2025
+Bienvenido al Curso de HTML5 completo y desde cer o, en el que apr ender emos
+todo lo necesario para dominar HTML5, cr ear tus primeras páginas web e
+iniciarte en el maravilloso mundo del desar rollo web.
+HTML5 es el lenguaje de mar cas de hiperte xto más importante de la web ya que
+todo sitio o aplicación web lo usa para deﬁnir la estructura y el contenido de sus
+páginas.
+Estas ante un curso completo, desde cer o, con e xplicaciones super claras, con
+contenido único y e xclusivo, con muchos ejer cicios y
+Video 1 ¿Qué es un proceso? jun 2025
+SOFT TEK
+Deﬁnición de pr oceso de acuer do al estándar BPMN.
+Video 2. BPMN: Notación para modelado de procesos jun 2025
+SOFT TEK
+Breve e xplicación de BPMN (notación empleada para modelar pr ocesos).
+Video 3. Introducción a Bizagi Modeler jun 2025
+SOFT TEK
+Qué es y para que sirve Bizagi Modeler
+Video 4. ¿Cómo instalar Bizagi Modeler? jun 2025
+SOFT TEK
+Guía rápida para descar ga e instalación de Bizagi Modeler .
+APP DEV - Modelos Engagement jun 2025
+SOFT TEK
+Establecer los servicios que ofr ece la practica Applicacion Develoment y las
+caracteristicas y elementos que lo confor man (Caracteristicas, P articipantes,
+Responsabilidades y Base de Contratacion)
+Perﬁl del Consultor jun 2025
+SOFT TEK
+
+--- Página 12 ---
+
+El participante será capaz de identiﬁcar las mejor es prácticas de consultoría, a
+través del apr endizaje colaborativo para aplicarlas en un caso práctico . 
+Competencias a desar rollar: negociación, conocimiento del negocio, orientación
+del servicio al cliente
+Project Portfolio Outsourcing y Resumen jun 2025
+SOFT TEK
+Evaluación P roject P ortfolio Outsour cing
+PM Modelos Engagement: Managed T eam jun 2025
+SOFT TEK
+Evaluación de conocimiento PM Modelos Engagement: Managed T eam
+PM Modelos Engagement: Sesión 2 Baselined project jun 2025
+SOFT TEK
+Evaluación de conocimiento PM Modelos Engagement: Sesión 2 Baselined pr oject
+PM Modelos Engagement: Sesión 2 Component F actory jun 2025
+SOFT TEK
+Evaluación de conocimiento PM Modelos Engagement: Sesión 2 Component
+Factory
+PM Modelos Engagement: Sesión 2 Iterativo incremental jun 2025
+SOFT TEK
+Evaluación de conocimiento PM Modelos Engagement: Sesión 2 Iterativo
+incremental
+Project Potfolio Outsourcing y Resumen jun 2025
+SOFT TEK
+Mostrar el esquema de operación del Servicio P ortafolio de pr oyectos: orientado a
+contratos de gobier no, ganados por licitación con un pr esupuesto dado para el
+servicio, ayudando en apr ovechar al máximo el pr esupuesto en la mayor
+cantidad de servicios y pr oyectos
+PM Modelos Engagement: Generalidades jun 2025
+SOFT TEK
+Evaluación de conocimiento - PM Modelos Engagement: Generalidades
+Deallocation - Steps and Recommendations to F ollow jun 2025
+SOFT TEK
+Inform the Collaborative P artner of the steps to follow once the cur rent pr oject
+assignment ends, along with r ecommendations and tips for better perfor mance in
+interviews and selection pr ocesses to identif y their ne xt assignment.
+[Languages: ESP, ENG]
+Comunidades SKILL - T echnology jun 2025
+SOFT TEK
+Las  comunidades  de  apr endizaje  se  basan  en  que la educación es para
+todos, y es un pr oceso de apr endizaje per manente. Con  tr es pilar es: Knowledge,
+Interaction, L earning, Skill es un pr oyecto que se fundamenta en los principios del
+aprendizaje dialógico . Impulsamos a las comunidades a generar r edes de
+
+--- Página 13 ---
+
+información y compartir conocimientos a través de diversas actividades y
+estrategias de apr endizaje continuo .
+APP DEV - Agile Softtek F ramework (ASF) jun 2025
+SOFT TEK
+El colaborador apr enderá el pr oceso de desar rollo ágil, los pr ocesos y r oles que lo
+confor man, artefactos que se generan y utilizan, y participar en un equipo que
+construya sof tware de calidad en cada ciclo iterativo .
+ASF CO Close Out jun 2025
+SOFT TEK
+Formalizar el cier re completo del pr oyecto y pr omover el apr endizaje continuo .
+ Evaluar conocimientos en la fase CO .
+ASF RC Release Closure jun 2025
+SOFT TEK
+Realizar todas las validaciones acor dadas con el cliente sobr e el pr oducto de
+software para su liberación; r evisar y actualizar alcances, pr esupuestos y
+métricas del pr oyecto .  Evaluar conocimientos en la fase R C.
+ASF ST Sprint Retrospective jun 2025
+SOFT TEK
+Revisar los r esultados del Sprint en el cumplimiento de sus ítems, el uso de sus
+prácticas de desar rollo y calidad; así como establecer las oportunidades y
+compr omisos de mejora.  Evaluar conocimientos en la fase ST .
+ASF RP Release Planning jun 2025
+SOFT TEK
+Elaborar un Plan de Liberaciones que establezca la entr ega de la funcionalidad
+acordada, hacia los usuarios con el máximo valor para el negocio . El Plan de
+Liberaciones especiﬁcará la funcionalidad a entr egar en cada r elease y su
+duración, siendo una guía para el equipo en el or den y funcionalidad de los
+sprints.  Evaluar conocimientos en la fase RP .
+AppDev Herramientas AI Aplicadas jun 2025
+SOFT TEK
+Capacitar a Ingenier os de Sof tware de distintos niveles en el uso de inteligencia
+artiﬁcial generativa para mejorar la calidad de su código, acelerar el desar rollo y
+elevar su nivel de pr ogramación. L os participantes apr enderán a integrar IA en su
+ﬂujo de trabajo para      depuración, optimización, documentación y generación
+de código en múltiples tecnologías.
+ASF Initiation jun 2025
+SOFT TEK
+Asegurar el ar ranque cor recto del pr oyecto . Evaluar conocimientos en la fase IN.
+ASF SZ Sprint Zero jun 2025
+SOFT TEK
+Design Thinking jun 2025
+SOFT TEK
+
+--- Página 14 ---
+
+Con la infor mación r ecibida en el taller el Sof ttekian desar rolla ideas, a través de
+la empatía entiende las necesidades de los usuarios, y con ingenio e innovación
+genera soluciones de valor satisfaciendo las e xpectativas del cliente. Este taller
+cuenta con límite de participantes, es importante que no r eenvíes este meeting,
+la persona no inscrita no será admitida.
+Masterclass coaching para no coaches 3 may 2025
+SOFT TEK
+El objetivo de esta master class es ejempliﬁcar a través de r ole playing los
+procesos que vive el lider coach cuando un colaborador le solicita coaching para
+con ello concientizar a la audiencia sobr e sus interacciones en estos pr ocesos con
+sus equipos.
+Emotional Intelligence may 2025
+SOFT TEK
+The Sof ttekian becomes awar e of their emotions and e xpresses them assertively,
+demonstrates emotional self -awar eness, cr eates the right envir onment for
+problem-solving, shows empathy in r elationships, faces situations appr opriately,
+and interacts positively in any conte xt.
+This workshop has a limited number of participants, so please do not forwar d this
+meeting invite. Unr egister ed individuals will not be admitted.
+Flutter 2: The Big Picture abr 2025
+Pluralsight
+Negotiation workshop abr 2025
+SOFT TEK
+English W orkshop. Y ou will lear n how to generate win-win agr eements with the
+aim of achieving negotiations that pr omote the well-being of all parts involved.
+Comunidades SKILL - T echnology abr 2025
+SOFT TEK
+Las  comunidades  de  apr endizaje  se  basan  en  que la educación es para
+todos, y es un pr oceso de apr endizaje per manente. Con  tr es pilar es: Knowledge,
+Interaction, L earning, Skill es un pr oyecto que se fundamenta en los principios del
+aprendizaje dialógico . Impulsamos a las comunidades a generar r edes de
+información y compartir conocimientos a través de diversas actividades y
+estrategias de apr endizaje continuo .
+Groovy 2: Getting Started abr 2025
+Pluralsight
+Getting Started with Mockito 2 abr 2025
+Pluralsight
+Unit T esting Legacy Code in Java SE 8 abr 2025
+Pluralsight
+Getting Started with EasyMock 4 mar 2025
+Pluralsight
+
+--- Página 15 ---
+
+Feria SES mar 2025
+SOFT TEK
+Evento en el que podrás conocer las competencias or ganizacionales que se
+evalúan en el actual P erformance Management y te ayudarán a completar tu Plan
+de Desar rollo.
+Feria SES feb 2025
+SOFT TEK
+Evento en el que podrás conocer las competencias or ganizacionales que se
+evalúan en el actual P erformance Management y te ayudarán a completar tu Plan
+de Desar rollo.
+PDSS FPT oct 2024
+SOFT TEK
+Al ﬁnalizar el curso, el participante será capaz de identiﬁcar los pr oductos de
+entrada y salida, los pasos a seguir y el r esponsable para r ealizarlos, para
+explicar el objetivo del pr oceso de F ormalizar T erminación de P royecto .
+PDSS PTO oct 2024
+SOFT TEK
+"At the end of this pr esentation you will have elements that will allow you to:
+Explain the objective of the P roject Contr ol and Monitoring (PTO) pr ocess.
+Identif y the pr oducts of entry and e xit of the pr ocess.
+Describe the steps necessary to convert the inputs into outputs of the pr ocess, as
+well as identif y the r ole responsible for car rying them out. "
+PDSSV3 oct 2024
+SOFT TEK
+Programa enfocado a la práctica de Application Develpment.
+PDSS ISP (Planear) oct 2024
+SOFT TEK
+Al ﬁnalizar el curso, el participante será capaz de identiﬁcar los pr oductos de
+entrada y salida, los pasos a seguir y el r esponsable para r ealizarlos, para
+explicar el objetivo del pr oceso de Planear P royecto de Sof tware.
+PDSS PCR oct 2024
+SOFT TEK
+"El participante será capaz:
+Explicar el objetivo del pr oceso de A dministrar Cambios del P royecto .
+Identiﬁcar los pr oductos de entrada y salida del pr oceso .
+Describir los pasos necesarios para convertir las entradas en salidas del pr oceso,
+así como identiﬁcar el r ol responsable de r ealizarlos."
+Comunidades SKILL - Methodology oct 2024
+SOFT TEK
+
+--- Página 16 ---
+
+Las  comunidades  de  apr endizaje  se  basan  en  que la educación es para
+todos, y es un pr oceso de apr endizaje per manente. Con  tr es pilar es: Knowledge,
+Interaction, L earning, Skill es un pr oyecto que se fundamenta en los principios del
+aprendizaje dialógico . Impulsamos a las comunidades a generar r edes de
+información y compartir conocimientos a través de diversas actividades y
+estrategias de apr endizaje continuo .
+PDSS ISP (Iniciar) oct 2024
+SOFT TEK
+Al ﬁnalizar el curso, el participante será capaz de identiﬁcar los pr oductos de
+entrada y salida, los pasos a seguir y el r esponsable para r ealizarlos, para
+explicar el objetivo del pr oceso de Iniciar P royecto de Sof tware.
+PDSS SCM oct 2024
+SOFT TEK
+"The participant will be able to:
+Explain the objective of the Conﬁguration Management (SCM) pr ocess
+Identif y the input and output pr oducts of the Conﬁguration Management (SCM)
+process
+Describe the steps necessary to convert the inputs into outputs of the pr ocess, as
+well as the r ole responsible for car rying them out. adas en salidas del pr oceso, así
+como el r ol responsable de r ealizarlos."
+Comunidades SKILL - T echnology oct 2024
+SOFT TEK
+Las  comunidades  de  apr endizaje  se  basan  en  que la educación es para
+todos, y es un pr oceso de apr endizaje per manente. Con  tr es pilar es: Knowledge,
+Interaction, L earning, Skill es un pr oyecto que se fundamenta en los principios del
+aprendizaje dialógico . Impulsamos a las comunidades a generar r edes de
+información y compartir conocimientos a través de diversas actividades y
+estrategias de apr endizaje continuo .
+English Breaks oct 2024
+SOFT TEK
+Students will practice upper inter mediate topics thr ough 20-minutes spaces.
+Comunidades SKILL - T echnology sep 2024
+SOFT TEK
+Las  comunidades  de  apr endizaje  se  basan  en  que la educación es para
+todos, y es un pr oceso de apr endizaje per manente. Con  tr es pilar es: Knowledge,
+Interaction, L earning, Skill es un pr oyecto que se fundamenta en los principios del
+aprendizaje dialógico . Impulsamos a las comunidades a generar r edes de
+información y compartir conocimientos a través de diversas actividades y
+estrategias de apr endizaje continuo .
+PDSS UAT sep 2024
+SOFT TEK
+"Al ﬁnalizar esta pr esentación, deberás ser capaz de:
+Explicar el objetivo del P roceso del Soporte a las P ruebas de A ceptación (UA T)
+
+--- Página 17 ---
+
+Identiﬁcar los pr oductos de entrada y salida del pr oceso .
+Describir los pasos necesarios para convertir las entradas en salidas del pr oceso,
+así como el r ol responsable de r ealizarlos."
+Certiﬁcados Scrum F undamentals Certiﬁed jun 2025 - P resent
+ScrumAlliance
+Skills .NET Cor e Framework, .NET F ramework 4 (And Up), ABAP for S AP R/3 ECC,
+Angular 2+, Coldfusion, Delphi, Hiber nate, Infor mix, Java 8, JB OSS, JSON, O Auth,
+Postgr eSQL, P ostman, REST, Eclipse, L ombok, Apache T omcat, R ed Hat,
+Primavera P roject Planner, Swagger, F eign, Suite A tlassian, V isual Studio Code,
+Oracle, S AP PM, S AP MM, Alfr esco, P rime F aces, Java 11, Eclipse IDE, Apache
+Maven, Java P ersistence API, .NET F ramework 4, A tlassian Suite, Angular, JB OSS
+Application Server, Oracle Database, R ed Hat Enterprise Linux, S AP ABAP, Agile
+Methodologies, CSS, API RESTful, Desar rollo de Micr oservicios, Java Spring Boot,
+Spring Batch, Scrum, T eamwork, Planning & Or ganization, Servicios W eb, ASF,
+Bootstrap, CSS/CSS3, Eclipse (IDE), Git, HTML5, JDB C, JUnit, Maven, PDSS,
+Business Knowledge, Collaboration, Customer Service, L eadership, Negotiation,
+People Development, Planning and Or ganization, P ositive R elationships, P roblem
+Solving, Critical Thinking, Design Thinking, T ime Management, Efective
+Communication, Enterprise Java Beans (EJB), Java, Java Message Service (JMS),
+Java P ersistence API (JP A), Java Servlets, JavaServer F aces (JSF), JavaServer P ages
+(JSP), JavaScript, MySQL, P rogramación Orientada a Objetos, T omcat Server,
+WebLogic Server, W ebSpher e Server, Spring F ramework

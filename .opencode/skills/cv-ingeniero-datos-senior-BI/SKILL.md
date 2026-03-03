@@ -384,14 +384,20 @@ Total de actividades (todas las experiencias):
     "lugar": "",
     "periodo": ""
   },
-  "certificaciones_y_cursos": [
+"certificaciones": [
     {
       "nombre": "",
       "anio": ""
     }
+  ],
+  "cursos": [
+    {
+      "nombre": ""
+    }
   ]
 }
 ```
+---
 <!-- 
 # FASE 5 — SALIDA A ARCHIVO (ESCRITURA / REEMPLAZO)
 

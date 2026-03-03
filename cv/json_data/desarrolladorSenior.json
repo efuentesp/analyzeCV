@@ -1,0 +1,83 @@
+[
+  {
+    "nombre": "Cesar Omar Subirie Her nandez",
+    "rol_propuesto": "Desarrollador Senior",
+    "resumen_profesional": "Amplia experiencia en desarrollo de software para sectores energético y bancario,\ncon dominio de Java, Spring Boot, APIs y tecnologías .NET, y participación en proyectos críticos\norientados a optimización de procesos, reducción de costos y mejora de rendimiento,\naplicando buenas prácticas de diseño y estándares de calidad.\n\nHistorial de coordinación y supervisión de servicios informáticos, con experiencia en integración de sistemas\ny migración de plataformas, incluyendo trabajo con microservicios, Spring Batch y gestión en entornos Azure/Red Hat.\nCapacidad para diseñar, construir y mantener soluciones completas, liderar equipos técnicos y promover prácticas de control de versiones y CI/CD.\nEnfoque en resolución de problemas, mentoring técnico y entrega de valor alineado al ciclo de vida del software.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Software Developer Sr",
+        "fecha_inicio": "julio 2021",
+        "fecha_fin": "enero 2026",
+        "actividades_principales": [
+          "Desarrollar aplicaciones para el Instituto Mexicano del Seguro Social (IMSS) utilizando Java y PrimeFaces",
+          "Prestar soporte a aplicaciones internas desarrolladas en Java y PrimeFaces",
+          "Desarrollar aplicaciones internas de seguimiento de ejercicios de riesgos para el Instituto Federal de Telecomunicaciones (IFT) con Java y PrimeFaces",
+          "Desarrollar funcionalidades de domiciliación para el core backend bancario de Banco Coppel usando Java y APIs",
+          "Implementar APIs en Java para integración de servicios bancarios",
+          "Colaborar en equipos de desarrollo en proyectos con clientes"
+        ]
+      },
+      {
+        "empresa": "Giga Tech",
+        "puesto": "Ingeniero de Desarrollo",
+        "fecha_inicio": "enero 2020",
+        "fecha_fin": "marzo 2021",
+        "actividades_principales": [
+          "Desarrollar aplicaciones de logística de viajes con .NET, incluyendo seguimiento vía satelital y envío de correos",
+          "Desarrollar aplicaciones de logística de aduanas con .NET y generación de reportes administrativos",
+          "Desarrollar microservicio de obtención de datos de sensores con Java, Spring Boot y Spring Batch",
+          "Investigar normas de seguridad para la gestión de aplicaciones en ambiente Azure"
+        ]
+      }
+    ],
+    "ajuste_puesto_liderazgo": {
+      "empresa": "",
+      "puesto": "",
+      "fecha_inicio": "",
+      "fecha_fin": "",
+      "actividades_principales": []
+    },
+    "periodo_resumen_laboral": "La experiencia abarca desde mayo de 2003 hasta diciembre de 2019",
+    "resumen_laboral": "Durante este período se desempeñaron funciones como Analista Técnico Programador, Coordinador del Servicio Informático, Supervisor Sr., Responsable de Programación de Lenguajes y Freelance. Se asumieron responsabilidades de coordinación operativa, administración de servidores y soporte a la continuidad del servicio, así como gestión de mantenimiento y mejora de procesos internos. Además, se participó en la implementación de procedimientos y en la generación de soluciones para optimizar operación y facilitar la toma de decisiones del área técnica.",
+    "estudios": {
+      "carrera": "Ingeniero en Sistemas Computacionales",
+      "lugar": "Instituto TECNOLÓGICO de Veracruz",
+      "periodo": "enero 1998 - diciembre 2002"
+    },
+    "certificaciones_y_cursos": [
+      {
+        "nombre": "Docker for the Absolute Beginner - Hands On - DevOps",
+        "anio": ""
+      },
+      {
+        "nombre": "HTML5",
+        "anio": ""
+      },
+      {
+        "nombre": "Master SQL",
+        "anio": ""
+      },
+      {
+        "nombre": "MongoDB",
+        "anio": ""
+      },
+      {
+        "nombre": "Openshift 4",
+        "anio": ""
+      },
+      {
+        "nombre": "PostgreSQL de Cero a Avanzado (pgAdmin4 y Shell)",
+        "anio": ""
+      },
+      {
+        "nombre": "Principios SOLID y Clean Code",
+        "anio": ""
+      },
+      {
+        "nombre": "Privileged Access Management (PAM) with CyberArk",
+        "anio": ""
+      }
+    ]
+  }
+]

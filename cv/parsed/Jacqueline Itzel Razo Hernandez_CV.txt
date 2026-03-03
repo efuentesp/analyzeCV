@@ -1,0 +1,104 @@
+Jacqueline I. Razo Hernandez jacqueline.razo@softtek.com
+PROFILE:      Analista
+Líder de Servicio de MM y ND, Líder de Proyecto, Líder Funcional, Analista de Negocios, Programador Analista
+Experiencia en las áreas de procesos diseñando e implantando procesos de Ingeniería de Software, de Gestión de Servicios, Administración de Proyectos, apoyo a los equipos de trabajo a incorporar los procesos definidos a su operación diaria y la mejora continua de procesos.
+Experiencia como Líder Funcional levantando requerimientos, analizando y diseñando soluciones, coordinación de equipos de trabajo.
+Experiencia en Análisis, Diseño, Desarrollo, implementación, entrenamiento y sistemas de soporte.
+Trabajo en equipo, trabajo bajo presión, liderazgo en los equipos de trabajo.
+Detección y resolución de problemas. Excelente comunicación verbal, rápido aprendizaje.
+EXPERIENCIA PROFESIONAL:
+WM | México, DF | Analista | Ago 2020 | Actual | Actual
+Functional Experience:             Documentación de Procesos.
+Documentación del AS IS de los procesos actuales dentro de la aplicación SMART para identificar la funcionalidad a implementar en el TO BE dentro de la migración de la aplicación.
+Identificación, evaluación y planeación del apagado de pantallas dentro de la aplicación.
+Documentación de la funcionalidad de las pantallas
+Práctica DEV | México, DF | PDL | Ago 2019 | Ago2020
+Functional Experience:             Responsable del seguimiento de los proyectos para el cumplimiento de los procesos.
+Identificación de Riesgos para asegurar la participación oportuna de la práctica, revisión de Métricas, apoyo en el arranque de los proyectos.
+CITI | México, DF | Líder de Proyecto | Nov 2018 | Ago 2019
+Functional Experience: 	          Responsable del seguimiento al track de Estado de Cuenta.
+Identificación de Riesgos, revisión de Métricas, reporte de estatus al cliente.
+Gestión de indicadores para permitir de forma cuantificable el progreso del proyecto
+Herramientas: | Excel, Project, Start UML, Power Point, PPM, Microsoft Teams
+IMSS | México, DF | Líder de Servicio de MM | Apr 2018 | Nov2018
+Functional Experience: 	Responsable del seguimiento de la práctica de DEV.
+Definición de procesos para la práctica de desarrollo, Seguimiento a proyectos,
+Identificación de Riesgos, revisión de Métricas, revisión a diferentes insumos,
+Proyectos de Mejora, Análisis de Métricas (ANOM), Análisis Causa Raíz, Revisión, Gestión de indicadores para permitir de forma cuantificable el progreso del proyecto
+Validación y Aprobación de estimaciones (CFP and FE), Mentoreo, Desarrollo y  diseminación de Estándares de Análisis.
+Herramientas: | Excel, Project, Start UML, Power Point, PPM, Microsoft Teams
+SDMA4 | México, DF 	Business Analyst Specialist 	Apr 2015 | Aug 2018
+Business Analyst Specialist
+Functional Experience: 	Responsable del seguimiento de la práctica de DEV.
+Líder del Service Desk, Seguimiento a proyectos, Identificación de Riesgos, revisión de Métricas, revisión a diferentes insumos, Análisis de Métricas (ANOM), Análisis Causa Raíz, Revisión, Validación y Aprobación de estimaciones (CFP and FE), Mentoreo, Desarrollo y  diseminación de Estándares de Análisis.
+Gestion en la aplicación de UML 2.0 en los casos de uso, diagramas de clases y objetos, modelado de procesos con notación estándar BPMN, diagramas de estado y de actividad, así como de secuencia, estructuración de los paquetes, diagramas de despliegue necesarios para el proyecto.
+Herramientas: | Excel, Process Dashboard, GIT, Ruby, Project, Start UML, Erwin
+PSG | México, DF 	Líder Funcional 	Feb 2015 	Apr 2015
+Business Analyst Specialist
+Functional Experience: | Taller de Analistas de Negocios, , Revisiones, Identificación de Riesgos, BDD, Estimaciones en CFP, Business Analysis Mentoring
+Herramientas: | Visio, Excel, Process Dashboard, GIT, Ruby, Project, Start UML
+BBVA | México, DF 	Líder Funcional 	Feb 2014 	Feb 2015
+Functional Experience: | Líder Funcional
+Casos de Uso, Especificación de Interfaces, Glosarios de Términos, Matriz de Trazabilidad, Control de Producción, planeación.
+Implementación del modelado de procesos con notación estándar BPMN
+Herramientas: | Visio, Excel, Start UML, Oracle, Project Dashboard
+ScotiaBank- Casa de Bolsa | México, DF 	Líder Funcional 	Apr 2013 	Dic 2013
+Functional Experience: | Líder Funcional
+Casos de Uso, Especificación de Interfaces, Glosarios de Términos, Matriz de
+Trazabilidad, Control de Producción, planeación.
+Herramientas: 	Visio, Excel, Start UML, Oracle
+VUCEM-SAT 	México, DF 	Programador Analista 	Jun 2011 	Dic 2012
+Functional Experience: 	                       Analista de Negocio
+Casos de Uso, Especificación de Interfaces, Glosarios de Términos, Matriz de
+Trazabilidad, Control de Producción, planeación.
+Herramientas: 	                                  Visio, Start UML, SQL Server 2005
+Walmart 	México, DF 	Líder Funcional, Analista de Negocio  	Feb 2010 	Feb 2011
+Functional Experience: | Analista de Negocio
+Planeacion y Seguimiento de actividades, Casos de Uso, Especificación de Interfaces, Glosarios de Términos, Matriz de Trazabilidad, Control de Producción, planeación.
+Herramientas:                                      Project, Visio, Start UML, Erwin, SQL Server 2005
+Hewlett Packard 	México, DF 	Programador Analista, Soporte Cliente  	Oct 2007 	Ene 2010
+Functional Experience: | Análisis de Sistemas, Soporte de 3er Nivel, Mejoras a sistemas (2007-2008), 
+Soporte a usuario final, Soporte de segundo y tercer nivel de varias aplicaciones con usuarios en Canada, EU y America Latina. Uso de diferentes herramientas internad para el manejo y registro de incidentes. (HPSC,PPM)
+Herramientas:                   Java(Intermediate), Visual Basic, SQL Server, Oracle, TOAD, Unix, Shell, PPM, NEAT, TIDAL, Weblogic, Tomcat, .
+EDUCACIÖN:
+Universidad del Valle de México 	Campus Lomas 	2002-2006
+Verdes
+Administración de Sistemas Computacionales
+Desarrollo Profesional:
+Nombre del Curso, Diplomados, Certificaciones | Lugar
+HP MEX EXAM | HP
+CMMI INTRODUCTION – QUALITY STRATEGY OF THE OTRGANIZATION | Softtek
+DECISIONS ANALYSIS: PUGH MATRIX | Softtek
+IDENTIFICATION OF RISKS AND ISSUES | Softtek
+INTRODUCTION TO OPERATION | Softtek
+INTRODUCTION TO KINTANA | Softtek
+INTRODUCTION TO ORGANIZATION METRICS – SERVICE LEVELS | Softtek
+INTRODUCTION TO SOFTTEK METHODOLOGIES | Softtek
+PROCESS IMPROVEMENT AWARNESS | Softtek
+VALIDATION AND VERIFICATION | Softtek
+JAVA ACADEMY | Softtek
+OBJECT-ORIENTED PROGRAMMING WITH JAVA | Softtek
+WEB THECHNOLOGIES | Softtek
+J2EE DEVELOPMENT | Softtek
+BEST PRACTICES WORKSHOP FOR J2EE DEVELOPMENT | Softtek
+INTEGRAL PRACTICE | Softtek
+SUN JAVA COURSE | Softtek
+Certificaciones
+Scrum Master | Scrum Alliance
+CCFL | Common Software Measurement International Consortium
+SFC | SCRUM Study
+OMG-Certified UML Professional | Object Management Group
+ITIL v.4 | AXELEOS /PeopleCert
+Otros:
+Teacher Course (Anglo Mexicano de Cultura A.C.) | TOELF:565
+Lenguajes:
+Español  Nativo
+Ingles 90%
+.
+Habilidades Técnicas / Gerenciales:
+Perfil Primario: 	Analista de Negocio
+Perfil Secundario: 	Programador /Analista de sistemas (AMS)
+Sistemas Operativos: 	UNIX, WINDOWS 98/2000, XP
+Lenguajes de Programación: 	JAVA (JSP, Servlets), Visual Basic, SQL, C Lenguaje C, JSP,HTML
+Bases de Datos: 	Oracle, SQL Server,  Access
+Otros: 	Visio, Microsoft Project, Start UML, Apache, Web Logic, Eclipse.

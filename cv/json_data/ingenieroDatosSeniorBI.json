@@ -103,23 +103,16 @@
       "lugar": "UNITEC Universidad Tecnologica de Mexico",
       "periodo": "septiembre 2005 - agosto 2009"
     },
-    "certificaciones_y_cursos": [
-      {
-        "nombre": "Databricks-ApacheSpark_From_Zero_To_Exp",
-        "anio": ""
-      },
-      {
-        "nombre": "CDI_IIC Foundation",
-        "anio": ""
-      },
-      {
-        "nombre": "PowerBIAnalisisDatosBI",
-        "anio": ""
-      },
+    "certificaciones": [
       {
         "nombre": "ITIL Foundation Certificate",
         "anio": "2016"
       }
+    ],
+    "cursos": [
+      { "nombre": "Databricks-ApacheSpark_From_Zero_To_Exp" },
+      { "nombre": "CDI_IIC Foundation" },
+      { "nombre": "PowerBIAnalisisDatosBI" }
     ]
   }
 ]
