@@ -1,0 +1,656 @@
+
+
+--- Página 1 (OCR) ---
+
+2/19/2026 Othon Suarez Velasco
+
+Powered by P eightfold.ai
+
+Othon Suarez Velasco
+
+Data Management Engineer OnPrem ETL Pr
+Mexico
+
+% OTHON.SUAREZ(QOSOFTTEK.COM
+» +525543713907
+
+(O 17años de experiencia total
+
+E Consultor ETLAB Initio, Softtek Banamex 2025-2025 (3 meses)
+Consultor ETL AB Initio, Softtek Banorte 2023-2025 (2 años)
+Consultor AB Initio, Softt ek Citibanamex 2021-2023 (2 años)
+Consultor Calidad de Datos (DQ), Softtek IMSS 2020-2021 (1 año)
+Consultor BA/Oracle Data Integrator, Softtek Banobras 2019-2020 (9 meses)
+Consultor Informatica Power Center/Oracle, Softtek 24 Hour Fitness 2017-2019 (2 años)
+Consultor ETL Informatica Power Center, Pemex 2016-2017 (11 meses)
+Consultor ETL Informatica Power Center, Global Hitss MAPFRE 2014-2016 (3 años)
+Consultor PL SQL/Informatica Power Center, Telcel 2012-2013 (1 año)
+Jefe de Departamento de Desarrollo de Sistemas, Sedesol 2008-2012 (4 años)
+
+E - Informatica PowerCenter, Modelado de Datos, Informatica ETL, Ab Initio, Teradata DB, Oracle PL/SQL,
+DB2
+
+Empleado Actual
+
+Resumen
+
+17 años de experiencia en diseño y modelado de datos, así como la definición de reglas de negocio y flujos de
+procesos ETL de diferentes tipos de proyectos.
+
+5 años de experiencia en diseño, desarrollo, pruebas e implementación de procesos ETL's en plataforma AB Initio.
+4 años de experiencia en comandos, scripts y procesos batch en Linux.
+
+17 años de experiencia en la explotación y mantenimiento a Bases de datos Oracle y Teradata.
+
+11 años de experiencia en programación PL SQL.
+
+7 años de experiencia en el análisis, diseño, desarrollo, pruebas e implementación de procesos ETL's en Informatica
+Power Center-IPC para la explotación y mantenimiento del Data Warehouse y Bases de Datos.
+
+Tuning y optimización a consultas SQL y procesos a nivel base de datos.
+
+
+--- Página 2 (OCR) ---
+
+2/19/2026 Othon Suarez Velasco
+
+Perfil resumen
+Experiencia
+
+Consultor ETLAB Initio
+Softtek Banamex
+
+ago 2025 - oct 2025 (3 meses)
+
+Analisis, modificacion, ajustes y pruebas a procesos en ETL para generar los reportes del area de seguros con las
+nuevas reglas de negocio.
+
+Consultor ETLAB Initio
+Softtek- Banorte
+sep 2023 - jul 2025 (1 año, 11 meses)
+
+Desarrollo de procesos ETL para proyecto de Taller de Ofertas implementados en herramienta AB Initio.
+Análisis y definición de requerimientos y reglas de negocio de acuerdo con necesidades del requerimiento y
+observaciones del usuario.
+
+Pruebas unitarias a servicios web desarrollados.
+
+Diseño, modelado y creación de objetos en base de datos Oracle.
+
+Desarrollo de Store Procedures.
+
+
+--- Página 3 (OCR) ---
+
+2/19/2026 Othon Suarez Velasco
+
+Consultor AB Initio
+Softtek- CITIBANAMEX
+
+ago 2021 - ago 2023 (2 años, 1 mes)
+
+Extracción y definición de reglas de negocio.
+
+Análisis de flujos de información.
+
+Análisis y documentación a procesos ETL.
+
+Generación y desarrollo de código AB Initio con diferentes reglas de transformación: .plan, .pset, .mp, .xfr, .sal,
+.dml. para dar solución y mantenimiento alos distintos requerimientos por parte del cliente y necesidades del
+banco.
+
+Diseño, análisis y desarrollo de componentes en Autosys para la calendarización de la ejecución de procesos.
+Análisis y desarrollo de shell script en Linux de acuerdo con las necesidades y requerimientos.
+
+Análisis, diseño y desarrollo de objetos en base de datos de acuerdo con los diferentes requerimientos.
+Creación de CR para la migración y promoción de los requerimientos a los diferentes ambientes sit, uat, prod.
+Análisis, diseño, desarrollo y pruebas del proyecto de métricas para el reporte de estatus de los créditos
+hipotecarios.
+
+Desarrollo, mantenimiento y pruebas a los diferentes proyectos que involucran la creación del TR (target record)
+de los diferentes módulos, pyme, mortgage, S111.
+
+Definición, desarrollo y pruebas de flujos de ejecución de procesos en Autosys.
+
+Análisis, diseño, desarrollo, pruebas y migración de los diferentes proyecto y requerimientos del usuario
+utilizando Ab initio, Autosys, Linux y Teradata.
+
+Consultor Calidad de Datos (DQ)
+Softtek-IMSS
+jul 2020 - jul 2021 (1 año, 1 mes)
+
+Diseño y modelado de base de datos, consultas y flujos de información para el almacenamiento y procesamiento
+de la calidad de datos para los registros de defunciones.
+
+Análisis a la información (perfilamiento de datos) para la extracción y definición de reglas de negocio para el
+proceso de limpieza.
+
+Definición de estrategia match (algoritmos, porcentajes) para la identificación de registros duplicados.
+Construcción, análisis y pruebas de scripts y Shell de Calidad de datos para la automatización del proceso.
+Análisis, definición y desarrollo de reglas de negocio en conjunto con el usuario para la calidad de datos de la
+información (Cleaning, Match, Profilig).
+
+
+--- Página 4 (OCR) ---
+
+2/19/2026 Othon Suarez Velasco
+
+Consultor BA/Oracle Data Integrator
+Softtek- BANOBRAS
+
+jul 2019 - mar 2020 (9 meses)
+
+Modelado de bases de datos (lógico/físico) para los distintos requerimientos y desarrollo de procesos ETL.
+Análisis a los diferentes procesos, flujos de información y reglas de negocio para su sistematización y modelado
+en base de datos de acuerdo con las necesidades y especiaciones del área de Gestión Balance del banco.
+Análisis a código técnico de programación y reglas de negocio existentes para su optimización y propuestas de
+mejora.
+
+Modelado de fuentes de información (Origen - Destino) aplicando regla de negocio y transf ormación.
+Generación de la documentación técnica y de negocio de los requerimientos y procesos analizados. (Diagramas,
+Reglas de Negocio, Modelo Lógico y Físico, Análisis de Fuentes de Datos).
+
+Consultor Informatica Power Center/Oracle
+S Softtek- 24 Hour Fitness
+sep 2017 - jun 2019 (1 año, 10 meses)
+
+Modelado, diseño y ajustes de las bases de datos de acuerdo con los nuevos y ya existentes proyecto y
+requerimientos por parte de los usuarios.
+
+Pruebas de correcto funcionamiento de reglas de negocio y análisis de la inf ormación en bases de datos para
+garantizar la integridad del funcionamiento y datos de los requerimientos acordados con los usuarios.
+
+Análisis y modificaciones a procesos ETL derivado de cambios solicitados por los usuarios.
+
+Desarrollo de Workflow, Mapas y Sesiones en IPC - Informática Power Center de acuerdo con las necesidades
+estratégicas de mercadotecnia de la empresa y especificaciones del usuario.
+
+Migración de Workflow, Mapas, Sesiones y objetos de base de datos Oracle para el correcto funcionamiento con
+nueva arquitectura de base de datos empleada (SnowFlake).
+
+Creación y configuración de objetos en base de datos (Oracle, Sql Server, SnowFlake).
+
+Trabajo en equipo con otro proveedor de servicios para la migración del DWH a nueva arquitectura de base de
+datos (SnowFlake).
+
+Generación de documentos de pruebas para garantizar el correcto funcionamiento de los mapas desarrollados en
+informática de acuerdo con las especificaciones del usuario.
+
+Pruebas unitarias a procesos y flujos ETL desarrollados.
+
+
+--- Página 5 (OCR) ---
+
+2/19/2026 Othon Suarez Velasco
+
+Consultor ETL Informatica Power Center
+
+sep 2016 - jul 2017 (11 meses)
+
+Análisis y modelado de datos a procesos en Oracle para su migración aflujos ETL.
+
+Análisis a paquetes, procedimientos y funciones a nivel base de datos Oracle para migrarlos a flujos ETL con la
+herramienta IPC y reducir tiempo de ejecución.
+
+Análisis a Bases de Datos y flujos de información para diseño de mejoras y optimizaciones a procesos ETL con la
+herramienta IPC.
+
+Análisis y propuestas a las modificaciones y solicitudes por parte del usuario, así como el desarrollo e
+implementación de las reglas de negocio.
+
+Análisis a procesos en bases de datos desarrollados en PL SQL (cálculos de ventas, ingresos derivados de la
+explotación de gas y petróleo) para su migración a flujos de trabajo ETL y distribución de reportes a las
+diferentes áreas.
+
+Análisis y corrección de incidencias reportadas en el ETL por parte del usuario.
+
+Consultor ETL Informatica Power Center
+Global Hitss - MAPFRE
+ene 2014 - jul 2016 (2 años, 7 meses)
+
+Análisis de procesos a nivel base de datos PL SQL, reglas de negocio y flujos ETL que generan reportes
+financieros estratégicos de la empresa, en base aeste análisis se construye, modela y optimiza el ETL final en
+IPC.
+
+Validación y corrección a procesos ETL que generan reportes de acuerdo con las nuevas reglas de negocio de la
+empresa y observaciones por parte del usuario con el fin de reducir tiempos de ejecución y agregar nuevas reglas
+de negocio.
+
+Atención y corrección a incidencias reportadas por parte del usuario a procesos ETL.
+
+Análisis sobre factibilidad de modificaciones a flujos ETL a solicitud del usuario.
+
+Análisis, validación y ajuste a proceso ETL de reportes financieros con actuarios.
+
+Análisis a procesos existentes y reglas de negocio para construcción de ETL que genere reportes financieros.
+Tuning (hint, plan de ejecución) y optimización a procesos de ELT y fórmulas matemáticas para cálculos
+financieros.
+
+Adecuación y mantenimiento a procesos de generación de reportes (SESAS) de acuerdo con requerimientos del
+usuario.
+
+Generación y validación de reportes financieros del sector asegurador (SESAS 2014). Análisis de reglas de negocio
+para la extracción de información y generación de reportes del sector asegurador (SESAS) con la herramienta IPC.
+Generación y validación de reportes financieros (SESAS 2013, 2012, 2011).
+
+
+--- Página 6 (OCR) ---
+
+2/19/2026 Othon Suarez Velasco
+
+Consultor PL SQL/Informatica Power Center
+
+(l año, 3 meses)
+
+Análisis a procesos en base de datos Oracle PL SQL para la optimización, mejora y mantenimiento de los diversos
+sistemas de activaciones de líneas telefónicas.
+
+Modelado y diseño de bases de datos.
+
+Desarrollo de paquetes, procedimientos y funciones en base de datos Oracle de acuerdo con la especificación
+de los requerimientos del área y el usuario.
+
+Optimización de procesos y consultas a nivel base de datos Oracle.
+
+Administración y explotación de base de datos: (stored procedure, funciones, trigger, grant, migraciones,
+respaldos, vistas, paquetes, esquema, jobs, consultas SQL).
+
+Atención y corrección a incidencias relacionadas a la activación de líneas.
+
+Atención, análisis y corrección de inconsistencias reportadas por los usuarios a nivel base de datos.
+Levantamiento de requerimientos, coordinación, supervisión y pruebas de sistemas desarrollados por otras
+consultorías.
+
+Jefe de Departamento de Desarrollo de Sistemas
+SEDESOL
+jul 2008 - sep 2012 (4 años, 3 meses)
+
+Diseño y modelado de base de datos Oracle.
+
+Propuestas de soluciones informáticas en conjunto con los usuarios para las diferentes problemáticas y
+necesidades de la secretaria.
+
+Diseño y desarrollo de Prototipos de Pantallas.
+
+Ejecución de pruebas unitarias y pruebas integrales.
+
+Tuning y optimización a consultas y procesos anivel base de datos.
+
+Administración y explotación de base de datos oracle: (stored procedure, funciones, trigger, grant, migraciones,
+respaldos, vistas, paquetes, esquema, jobs, consultas SQL).
+
+Control de versiones de código.
+
+Desarrollo de funcionalidad de pantallas Font End Cit.
+
+Educación
+
+
+--- Página 7 (OCR) ---
+
+2/19/2026 Othon Suarez Velasco
+
+Ingeniero
+E ESCOMIPN
+jul2004 to jul 2008
+
+Ingeniero en Sistemas Computacionales de la Escuela Superior de Computo ESCOM del Instituto Politécnico
+Nacional
+
+Insignias
+
+HBeCollaborative - Given by Oscar Raymundo Bautista Padronon...
+
+Habilidades
+
+Oracle PL-SQL | | SQL | Ab lInitio — Informatica Power Center  Oracle Database 1 Base de Datos | Unix Shell
+AutoSys — Database Development » Oracle PL/SQL ' Motor de Datos de Microsoft SQL Server
+
+Oracle SQL Developer 1 Modelado de Datos | Base de Datos Teradata » Oracle — Unix Shell Scripting
+Informatica PowerCenter * Informatica ETL |  Unix * Modelado Base de Datos — Oracle Base de Datos
+
+erwin Data Modeler * Bizagi BPMN Modeler * Oracle ODI | DB2 ' MicrosoftSQLServer | MySQL
+
+TeradataDB  JSON * XML' LinuxServer | UnixServer ' Python C Negotiation Leadership
+Problem Solving » | Efective Communication » Conflict Resolution — Planning % Organization » Calidad de Datos
+DISEÑO y Modelado de Bases de Datos * Definicion y Extraccion de Reglas de Negocio
+
+Analisis de Flujos de Informacion | | Analisis a Procesos ETL Teradata | ABlnitio, Oracle, Teradata, AutoSys
+
+Información Personal
+
+
+--- Página 8 (OCR) ---
+
+2/19/2026 Othon Suarez Velasco
+
+% othonsuarezQOsofttek.com(Primary)
+othon_svEhotmail.com
+
+» +525543713907
+
+
+--- Página 9 (OCR) ---
+
+Softtek'
+
+Ingeniero de Datos
+Abinitio / IPC
+
+O Estado de México
+
+SKILLS
+
+AB Initio
+Informatica Power Center (IPC)
+Linux Shell Scripting
+
+Bases de datos Oracle y
+Teradata
+
+Programación PL/SQL
+Optimización y tuning de
+consultas SQL
+
+IDIOMAS
+
+Español Nativo
+
+Inglés Intermedio Alto
+
+FORMACIÓN ACADÉMICA
+Y CAPACITACIÓN
+
+ESCOM, IPN
+
+Ingeniero en Sistemas
+
+Computacionales
+Julio 2004 - Julio 2008
+
+Othon Suarez Velasco
+
+PERFIL
+
+Soy un Ingeniero Datos con más de 17 años de experiencia en diseño, modelado y
+optimización de bases de datos Oracle y Teradata, especializado en procesos ETL con AB
+Initio e Informatica Power Center. Poseo experiencia en desarrollo, pruebas e
+implementación de flujos ETL, así como en scripting Linux. He colaborado en proyectos
+bancarios y grandes corporativos, garantizando la calidad de datos y la adecuada
+transformación para el Data Warehouse.
+
+EXPERIENCIA PROFESIONAL
+
+Analista Desarrollador ETL - Softtek (Banamex) | México
+ago. 2025 - Actual
+e Diseño y modelado de bases de datos.
+
+e Definición y extracción de reglas de negocio de acuerdo al negocio de área.
+
+e Análisis de flujos de información.
+
+Análisis a procesos ETL.
+
+Corrección a reglas de negocio de procesos ETL.
+
+Ejecución de pruebas unitarias.
+* Documentación de procesos.
+
+Generación de reportes del área de seguros.
+
+Consultor ETL AB Initio — Softtek (Banorte) | México
+sep. 2023 - jul. 2025
+
+En esta posición, desarrollé procesos ETL usando la herramienta AB Initio para el proyecto de
+Taller de Ofertas, asegurando que cada flujo cumpliera estrictamente con los requerimientos
+y reglas de negocio definidas. Realicé un análisis pormenorizado de las necesidades del
+Uusuario, efectuando pruebas unitarias exhaustivas a los servicios creados, además de diseñar
+y modelar objetos complejos en bases de datos Oracle para optimizar la performance.
+e Desarrollo integral de procesos ETL utilizando AB Initio aplicado a soluciones
+bancarias.
+
+Análisis detallado y definición de reglas de negocio para respuestas precisas a
+requerimientos de usuarios.
+
+Ejecución de pruebas unitarias a servicios para garantizar robustez y calidad.
+
+e Diseño y modelado avanzado de objetos en base de datos Oracle para soporte
+a procesos ETL.
+
+Desarrollo y optimización de Store Procedures para mejorar procesamiento de
+datos.
+
+Tools/Skills: AB Initio, Oracle, Store Procedures, ETL, diseño y modelado de datos, pruebas
+unitarias.
+
+
+--- Página 10 (OCR) ---
+
+Consultor AB Initio — Softtek (CITIBANAMEX) | México
+ago. 2021 - ago. 2023
+
+Durante este periodo, generé y desarrollé código AB Initio con múltiples formatos y
+reglas de transformación complejas, ofreciendo soluciones robustas para las
+necesidades del banco. Se implementó la calendarización de los procesos con Autosys, a la
+vez que desarrollé scripts shell en Linux para automatizar y controlar eficazmente los flujos
+de trabajo. Participé activamente en el análisis, diseño y migración de proyectos utilizando
+Teradata y bases de datos Oracle, generando mejoras significativas en la generación y
+mantenimiento del target record (TR) para múltiples módulos financieros.
+
+e Desarrollo de scripts AB Initio (.plan, .pset, .mp, .Xfr, .sal, .dml) adaptados a
+
+reglas de negocio bancarias.
+
+e Diseño y calendarización de flujos en Autosys para ejecución automatizada de
+procesos.
+
+Desarrollo y mantenimiento de shell scripts en Linux para soporte a procesos
+ETL.
+
+e Creación, análisis y diseño de objetos en bases de datos Oracle y Teradata
+según requerimientos dinámicos.
+
+Desarrollo y pruebas de flujos, migración de requerimientos a ambientes SIT,
+UAT y producción.
+
+Desarrollo integral del proyecto de métricas para reporte de estatus hipotecario,
+con validación exhaustiva.
+
+Tools/Skills: AB Initio, Autosys, Linux Shell Scripting, Oracle, Teradata, ETL, PL/SQL,
+gestión de ambientes SIT-UAT-PROD.
+
+Consultor Calidad De Datos (DQ) — Softtek (IMSS) | México
+jul. 2020 - jul. 2021
+
+Me encargué del diseño y modelado de bases de datos enfocadas en el almacenamiento y
+procesamiento de la calidad de datos para registros críticos, como defunciones. Realicé
+análisis exhaustivos de perfilamiento de datos, definiendo reglas de negocio
+robustas para la limpieza y validación de información. Implementé estrategias de
+matching avanzadas para la identificación precisa de duplicados, además de automatizar
+procesos con scripts shell para mantener la integridad y confiabilidad de los datos a lo largo
+del ciclo.
+
+e Diseño y modelado de bases de datos para calidad y limpieza de información.
+e Análisis y perfilamiento de datos para definir reglas de negocio esenciales.
+
+e Implementación de algoritmos de matching para detección y eliminación de
+duplicados.
+
+Desarrollo y pruebas de scripts y shell scripts para automatización del proceso
+de calidad de datos.
+
+e Colaboración directa con usuarios para definir y ajustar reglas de negocio
+(Cleaning, Matching, Profiling).
+
+Tools/Skills: SQL, Shell Scripting en Linux, reglas de negocio, calidad de datos, estrategias
+de matching, análisis de datos, modelado de bases de datos.
+
+Consultor BA/Oracle Data Integrator — Softtek (BANOBRAS) | México
+
+jul. 2019 - mar, 2020
+
+Lideré labores de modelado lógico y físico de bases de datos, así como el análisis detallado
+de procesos ETL para su sistematización eficiente en el entorno bancario. Realicé
+optimizaciones críticas a código técnico y reglas existentes, asegurando un mejor
+
+desempeño y calidad en los flujos de información. Documenté exhaustivamente los
+procesos y requerimientos para facilitar su implementación y seguimiento.
+
+* Modelado lógico y físico de bases de datos acorde a requerimientos específicos.
+
+e Análisis y optimización de procesos de ETL para mejor rendimiento.
+
+
+--- Página 11 (OCR) ---
+
+* Revisión y mejora de código técnico y reglas de negocio para eficiencia.
+
+e Documentación técnica completa: diagramas, reglas de negocio, modelos y
+análisis de fuentes.
+
+e Coordinación y comunicación efectiva con áreas de gestión para alinear
+expectativas.
+
+Tools/Skills: Oracle Data Integrator, modelado de bases de datos, análisis y diseño de ETL,
+documentación técnica, optimización de código PL/SQL.
+
+Consultor Informatica Power Center/Oracle — Softtek (24 Hour Fitness) | México
+sep. 2017 - jun. 2019
+
+Me desempeñé diseñando, modelando y ajustando bases de datos en Oracle y SnowFlake
+para soportar proyectos estratégicos. Encabecé el desarrollo y migración de workflows,
+sesiones y mapas en Informatica Power Center para asegurar la compatibilidad con
+arquitectura moderna. Además, realicé pruebas unitarias rigurosas para validar el correcto
+funcionamiento y coherencia de los procesos ETL según requerimientos del área de
+mercadotecnia y usuarios finales.
+
+e Modelado y diseño de bases de datos de acuerdo a necesidades estratégicas y
+operativas.
+
+* Desarrollo y ajuste de procesos ETL en Informatica Power Center para
+mercadotecnia.
+
+e Migración completa de workflows y objetos a nueva arquitectura SnowFlake.
+
+e Pruebas unitarias y documentación de procesos para garantizar calidad y
+performance.
+
+e Colaboración interdisciplinaria para integración exitosa del data warehouse
+migrado.
+
+Tools/Skills: Informatica Power Center, Oracle, SnowFlake, diseño y modelado de bases de
+datos, migración ETL, pruebas unitarias, workflows, mapas, sesiones.
+
+Consultor ETL Informatica Power Center — PEMEX | México
+
+sep. 2016 - jul. 2017
+
+Analicé y modelé procesos complejos en Orade para su migración eficiente a flujos ETL
+Utilizando Informatica Power Center, focalizándome en la reducción de tiempos de ejecución y
+mejora de calidad. Participé activamente en la transformación de código PL SQL a
+procesos ETL optimizados, integrando reglas de negocio críticas para el área de
+
+ventas y explotación petrolera. Gestioné corrección de incidencias, asegurando la
+estabilidad y confiabilidad en la operación diaria.
+
+e Modelado y análisis de procesos Oracle para migración a ETL con IPC.
+
+e Optimización y migración de paquetes, procedimientos y funciones PL/SQL.
+
+e Desarrollo e implementación de reglas de negocio adaptadas a procesos ETL.
+e Análisis y corrección proactiva de incidencias reportadas en ETL.
+
+e Colaboración con usuarios para ajuste y mejora continua de procesos.
+
+Tools/Skills: Informatica Power Center, Oracle PL/SQL, modelado de datos, optimización
+ETL, análisis y corrección de incidencias, reglas de negocio.
+
+Consultor ETL Informatica Power Center — Global Hitss (MAPFRE) | México
+ene. 2014 - jul. 2016
+
+Me especialicé en el análisis de procesos PL SQL y la construcción, validación y optimización
+de procesos ETL para reportes financieros estratégicos utilizando Informatica Power Center.
+Apliqué técnicas avanzadas de tuning y optimización que mejoraron notablemente el
+desempeño y redujeron los tiempos de ejecución. También brindé soporte continuo para la
+atención de incidencias y cambios solicitados por los usuarios, garantizando la calidad y
+fiabilidad de los reportes generados.
+
+
+--- Página 12 (OCR) ---
+
+e Construcción y optimización de procesos ETL con reglas de negocio financieras
+complejas.
+
+e Validación y corrección de procesos para mejorar tiempos de ejecución y
+calidad de datos.
+
+* Tuning avanzado de consultas y fórmulas matemáticas para reportes
+financieros.
+
+e Generación y validación de reportes conforme a regulaciones del sector
+asegurador (SESAS).
+
+e Soporte y resolución de incidencias en el entorno ETL.
+
+Tools/Skills: Informatica Power Center, PL/SQL, tuning SQL, reportes financieros, SESAS,
+modelado de reglas de negocio, optimización ETL.
+
+Consultor PL SQL/Informatica Power Center — TELCEL | México
+oct. 2012 - dic, 2013
+
+Ejercí un rol fundamental en el análisis, optimización y mantenimiento de procesos críticos en
+bases de datos Oracle, orientados a la activación de líneas telefónicas. Diseñé y desarrollé
+paquetes, procedimientos y funciones para mejorar la eficiencia y solucionar
+incidencias, siempre alineándome con las especificaciones del área y los
+requerimientos de usuario. Administré bases de datos y gestioné la coordinación técnica
+con consultorías externas para asegurar la calidad del sistema.
+
+e Análisis y optimización de procesos PL/SQL críticos para sistemas de activación
+
+telefónica.
+
+e Diseño y desarrollo de objetos en Oracle ajustados a requerimientos
+funcionales,
+
+e Administración y explotación de bases de datos Oracle para asegurar
+estabilidad.
+
+e Resolución efectiva de incidencias y corrección de inconsistencias a nivel base
+de datos.
+
+e Gestión y coordinación de pruebas y requerimientos con equipos
+multifuncionales.
+
+Tools/Skills: Oracle PL/SQL, Informatica Power Center, administración de bases de datos,
+desarrollo de paquetes y funciones, optimización SQL, coordinación de pruebas.
+
+Jefe De Departamento De Desarrollo De Sistemas — SEDESOL | México
+jul. 2008 - sep. 2012
+
+Dirigí el equipo de desarrollo de sistemas, priorizando el diseño y modelado de bases de
+
+datos Oracle y proponiendo soluciones informáticas acordes con las necesidades de la
+
+Secretaría. Desarrollé prototipos de pantallas, gestioné pruebas integrales y apliqué
+
+tuning en consultas y procesos para mejorar el desempeño general del sistema.
+
+También llevé a cabo la administración de bases de datos y coordiné el control de versiones y
+
+desarrollo de funcionalidades frontend en C4, asegurando la calidad y eficiencia del sistema.
+e Liderazgo en diseño y modelado de bases de datos Oracle para soluciones
+
+gubernamentales.
+
+e Propuesta e implementación de soluciones informáticas basadas en
+necesidades reales de usuarios.
+
+e Desarrollo de prototipos y ejecución de pruebas unitarias e integrales rigurosas.
+
+e Optimización y administración de bases de datos asegurando rendimiento y
+estabilidad.
+
+e Desarrollo frontend en C y gestión de versiones de código.
+
+Tools/Skills: Oracle, PL/SQL, C%, diseño y modelado de bases de datos, desarrollo
+frontend, pruebas de software, gestión de versiones, tuning SQL.

@@ -1,0 +1,972 @@
+
+
+--- Página 1 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Powered by P eightfold.ai
+
+Luis Constancio Gamiño Cereceres
+
+Data Governance Consultant Ex
+Mexico
+
+% LUIS.GAMINOQSOFTTEK.COM
+
+(D 20+ años de experiencia total
+
+E Informatica EDC and CDGC Consultant, Brinker 2021-Present (4 años)
+Information Management Consultant, Softtek 2005-Present (21 años)
+Consultor Data Integration, Softtek 2021-2021 (8 meses)
+
+Data Integration Consultant, Grupo Financiero Banorte 2021-2021 (8 meses)
+Consultor Data Quality, Softt ek 2020-2021 (8 meses)
+
+Data Quality Consultant, DHL 2020-2021 (8 meses)
+
+Business Objects Consultant, Mavenir Systems 2013-2020 (7 años)
+Information Management Consultant, Gruma 2016-2016 (2 meses)
+
+Consultor Business Objects, Softtek 2013-2013 (2 meses)
+
+Business Objects Consultant, SuKarne 2013-2013 (2 meses)
+
+Technical Project Leader, Banamex 2012-2013 (5 meses)
+
+Líder TÉCNICO Data Quality, Softtek 2012-2012 (5 meses)
+
+Technical Leader Data Quality, BBVA Banco mer 2012-2012 (5 meses)
+Modelador de Datos / Líder TÉCNICO DWH y BI, Softtek 2011-2012 (4 meses)
+Information Management Specialist, St Jude Medical 2011-2011 (1 mes)
+Technical Leader Business Intelligence and Data, Banbajío 2010-2011 (9 meses)
+Project Leader, Banamex 2009-2010 (7 meses)
+
+Project Leader Data Quality, Coca Cola FEMSA 2008-2009 (1 año)
+
+Project Leader, Banamex 2007-2007 (4 meses)
+
+Project Leader, Banco Azteca 2006-2006 (3 meses)
+
+Project Leader, Secretaría de Educación de Guanajuato 2005-2006 (1 año)
+Technical Leader, Elektra 2005-2005 (2 meses)
+
+Project Leader, PERIÓDICO Prensa Libre 2004-2004 (2 meses)
+
+Project Leader, Coca Cola de MÉXICO 1998-1999 (2 años)
+
+Project Leader, Mercury Bank 1997-1997 (1 año)
+
+Project Leader, BBVA Bancomer 1996-1996 (1 año)
+
+Programmer Analyst, Laboratorios Promeco 1995-1995 (11 meses)
+Programmer, Comisión Federal de Electricidad 1994-1994 (1 año)
+Consultor Informatica EDC, Softtek 2021
+
+Data Warehouse Consultant, Social Security Administration 2011
+Consultor Senior en Information Management, Softtek 2005
+
+f Wentto2top schools: ITESM and Instituto TECNOLÓGICO y de Estudios Superiores de
+Monterrey (ITESM)
+
+E Presupuesto, Business Intelligence, INTEGRACIÓN de Bases de Datos, ETL Consultant, Data
+
+
+
+--- Página 2 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Governance, Web Services, Data Modeling
+
+Destacados|
+
+301
+
+Empleado Actual
+
+Perfil resumen
+
+Experiencia
+
+Informatica EDC and CDGC Consultant
+Brinker
+
+Dec 2021 - Present (4 años, 3 meses)
+
+Master data consulting for Brinker, uploading Supplier, Customer, Fixed Assets, Projects, PO information, and
+more, to the informatica Entreprise Catalog Administrator (EDC). Allin spoken and written English.
+Migration fromEDC to the new Informatica Cloud Data Governance and Catalog (CDGC).
+
+Information Management Consultant
+Softtek
+
+Apr 2005 - Present (20 años, 11 meses)
+
+Consultor senior en Information Management: Business Intelligence (B1), Data Integration (DI, antes
+ETL) y Data Quality (DQ).
+
+- Responsable de pruebas de concepto de DQ, BI y DI.
+
+- Apoyo a proyectos de DQ, BI y DI.
+
+Experiencia Funcional: Experiencia en pruebas de concepto, liderazgo de proyectos y apoyo a proyectos
+de Data Quality y BI de BO.
+
+Herramientas: BO Data Services, BO Data Insight, BO Data Quality, Business Objects XI, Business
+Objects 4, BO Explorer, BO Data Federator, Xcelsius, Informatica PowerCenter,
+
+Informatica Data Quality, Informatica Power Analyzer, SQL Server 2005/2008,
+
+Oracle 10/11g, Informatica Cloud Data Governance and Catalog.
+
+Softtek - Brinker Guadalajara
+
+
+--- Página 3 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Consultor Data Integration
+Softtek
+
+Apr 2021 - Nov 2021 (8 meses)
+
+Consultor Data Integration De: 04/2021 A: 11/2021
+
+- Consultor de integración de datos en Banorte.
+
+Experiencia Funcional: Migración de procesos de creación de reportes regulatorios de DataStage hacia
+Ab Initio.
+
+Herramientas: Ab Initio suite, DataStage.
+
+Data Integration Consultant
+
+Ananorre PNe
+RANCRTE Apr 2021 - Nov 2021 (8 meses)
+
+Consultor de integración de datos en Banorte.
+Migración de procesos de creación de reportes regulatorios de DataStage hacia Ab Initio.
+
+Consultor Data Quality
+Softtek
+
+Aug 2020 - Mar 2021 (8 meses)
+
+Consultor Data Quality De: 08/2020 A: 03/2021
+
+- Consultor de calidad de datos para DHL.
+
+Experiencia Funcional: Búsqueda de clientes repetidos en las bases de datos de DHL.
+Herramientas: Programa propietario creado en Python, con librerías como Pandas y algotitmos
+de análisis de textos.
+
+Data Quality Consultant
+
+Aug 2020 - Mar 2021 (8 meses)
+
+Consultor de calidad de datos para DHL.
+Búsqueda de clientes repetidos en las bases de datos de DHL, usando un programa propietario creado en
+Python, con librerías como Pandas y algotitmos de análisis de textos.
+
+
+--- Página 4 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Business Objects Consultant
+Mitel
+
+09 Mitel Vay >013- Mar 2020 (6 años, 11 meses)
+
+Soporte técnico y consultoría vía remota para Mitel para diversas áreas, desde Servicio al Cliente hasta Finanzas.
+Todo en inglés.
+
+Atención a tickets de soporte de Business Objects, configuración y migración de ambientes, creación y
+modificación de reportes y universos, desarrollo de conexiones y vistas con Data Federator, administración de
+los servidores Windows de cada ambiente, documentación con evidencias de cambios, manejo de tickets en
+Remedy, negociación con cliente.
+
+Information Management Consultant
+
+Oct 2016 - Nov 2016 (2 meses)
+
+EEO
+
+Consultor de Data Migration y Business Intelligence para la definición inicial del proyecto de migración y
+consolidación de datos de Gruma, llamado G+.
+
+Análisis de requerimientos, definición inicial de la solución para BI, evaluación de la calidad de la información con
+BO Data Services para Materiales, Clientes y Proveedores.
+
+Consultor Business Objects
+Softtek
+
+Feb 2013 - Mar 2013 (2 meses)
+
+Softtek - SuKarne Culiacán, Sin. Consultor Business Objects De: 02/2013 A: 03/2013
+
+- Consultor en la solución de Business Intelligence para las áreas de Ventas, Fletes y Productos.
+Experiencia Funcional: Configuración y migración de ambientes, creación de reportes e indicadores,
+instalación de B14.0, revisión del modelo de datos, validación de universos,
+
+pruebas de carga, consultoría de negocios y procesos, negociación con cliente.
+
+Herramientas: Business Objects 4.0, BO Explorer, BO LCM, SQL Server 2008.
+
+Business Objects Consultant
+
+83337m SuKarne
+Feb 2013 - Mar 2013 (2 meses)
+
+Consultor en la solución de Business Intelligence para las áreas de Ventas, Fletes y Productos.
+
+Configuración y migración de ambientes, creación de reportes e indicadores, instalación de B14.0, revisión del
+modelo de datos, validación de universos, pruebas de carga, consultoría de negocios y procesos, negociación
+concliente.
+
+
+--- Página 5 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Technical Project Leader
+Banamex
+
+Sep 2012 - Jan 2013 (5 meses)
+
+Líder técnico para la instalación de Business Objects XI y administración de requerimientos.
+Configuración de ambientes, instalación de productos, revisión de modelos de datos, validación de universos,
+migración de componentes, consultoría de negocios y procesos, negociación con cliente.
+
+Líder TÉCNICO Data Quality
+
+Mar 2012 - Jul 2012 (5 meses)
+
+Líder Técnico Data Quality De: 03/2012 A: 07/2012
+
+- Líder técnico para la migración de procesos de Informatica Data Quality 8.6 a IDQ 9.0.1.
+Experiencia Funcional: Configuración de ambientes, Data Integration, aseguramiento de calidad,
+consultoría de negocios y procesos, negociación con cliente.
+
+Herramientas: Informatica Data Quality 9.
+
+Technical Leader Data Quality
+BBVA BBVA Bancomer
+
+=cTaeo 2E M ar 2012 - Jul 2012 (5 meses)
+
+Líder técnico para la migración de procesos de Informatica Data Quality 8.6 a IDQ 9.0.1.
+Configuración de ambientes, Data Integration, aseguramiento de calidad, consultoría de negocios y procesos,
+negociación con cliente.
+
+Modelador de Datos / Líder TÉCNICO DWH y BI
+Softtek
+
+Oct 2011 - Jan 2012 (4 meses)
+
+Modelador de datos / Líder
+
+Técnico DWH y BI
+
+De:10/2011 A:01/2012
+
+- Responsable del modelado de datos para el Sistema Integral de Costos (SIC) Fase ll de la Secretaría de
+Salubridad y Asistencia (SSA).
+
+Experiencia Funcional: Data Integration, Business Intelligence, modelado de datos para BI, consultoría de
+negocios y procesos, negociación con cliente, mejores prácticas.
+
+Herramientas: Data Services, Web Intelligence, Xcelsius, Infoview.
+
+
+--- Página 6 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Information Management Specialist
+ha St Jude Medical
+
+288 ST. JUDE MEDICAL==========5===0o="e
+
+“ Oct 2011 - Oct 2011 (1 mes)
+
+Responsable de un levantamiento de información y dictamen (assessment) en Business Intelligence y Data
+Integration. Todo en inglés.
+Juntas y presentaciones con usuarios de negocio e IT. Análisis de información, de procesos y del negocio.
+
+Technical Leader Business Intelligence and Data Quality
+Banbajío
+Jul2010 - Mar 2011 (9 meses)
+
+Responsable de integración de bases de datos externas en Banbajío usando procesos de Calidad de Datos.
+Data Quality, Data Integration, Business Intelligence, reingeniería de procesos, consultoría de negocios y
+procesos, negociación con cliente, implementación de metodologías de DQ y BI, mejores prácticas.
+
+Project Leader
+B Banamex
+Dec 2009 - Jun 2010 (7 meses)
+
+Responsable de integración de bases de datos externas en Banamex usando procesos de Calidad de Datos.
+DQ, integración de datos, consultoría de negocios y procesos, negociación con cliente.
+
+Project Leader Data Quality
+Coca Cola FEMSA
+
+Nov 2008 - Nov 2009 (1 año, 1 mes)
+
+Responsable de la parte de Calidad de Datos del proyecto Femsa Homologación.
+
+Extracción de información de dos SAP's R/3 de diferentes compañías para integrarlo ahora en un solo ECC y tener
+un solo catálogo común para ambas compañías en las siguientes áreas de la operación: Proveedores, Clientes y
+Materiales.
+
+Project Leader
+Banamex
+Jul 2007 - Oct 2007 (4 meses)
+
+Responsable de proyectos cortos en DQ para integración de bases de datos externas en Banamex.
+DQ, necesidades de Banamex y cruces de bases de datos.
+
+
+--- Página 7 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Project Leader
+Banco Azteca
+
+O
+9 Baneo A=ea C 2006 - Nov 2006 (3 meses)
+
+Responsable de creación de mapas de ETL para datos de Crédito y Cobranza.
+Experiencia de los requerimientos y la forma de trabajar entre Elektra y Banco Azteca.
+
+Project Leader
+Secretaría de Educación de Guanajuato
+May 2005 - Aug 2006 (1 año, 4 meses)
+
+Líder de Proyecto en la implementación de portal de Indicadores Educativos para Educación Básica de la
+Secretaría de Educación de Guanajuato (SEG).
+
+Creación, en conjunto con la SEG, de un Datawarehouse.
+
+PowerCenter e indicadores educativos (absorción, colocación, reprobación, deserción, candidatos a ser
+reprobados, etc.).
+
+Technical Leader
+E ra
+
+, ERE
+= Feb 2005 - Mar 2005 (2 meses)
+
+Responsable de creación de mapas de ETL para datos de Inventarios.
+Experiencia de los requerimientos y la forma de trabajar en Elektra.
+
+Project Leader
+P PERIÓDICO Prensa Libre
+
+Aug 2004 - Sep 2004 (2 meses)
+
+Creación de un sistema de Indicadores de ventas y distribución para el diario Prensa Libre.
+Experiencia en indicadores de distribución e inventarios.
+
+Project Leader
+Coca Cola de México
+Jan 1998 - Jul 1999 (1 año, 7 meses)
+
+Sistema de Información Ejecutiva (SIE) para ventas por canal y producto y presupuestos, también llamado SMART.
+Líder de proyectos de Bl y experiencia ya como consultor proponiendo soluciones integrales. Programación
+orientada a objetos.
+
+
+--- Página 8 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Project Leader
+Mercury Bank
+Jan 1997 - Dec 1997 (1 año)
+
+Sistema de Información Ejectuiva para esta filial de Bancomer en el extranjero.
+Líder de proyectos de Bl y experiencia ya como consultor proponiendo soluciones integrales. Programación
+orientada a objetos.
+
+Project Leader
+BBVA [BBVA Bancomer
+=ciaeo 2a Jan 1996 - Dec 19%6 (1 año)
+
+Sistema de Información Ejectuvia para ventas, presupuesto, control de gestión y banca empresarial.
+Líder de proyectos de Bl y experiencia ya como consultor proponiendo soluciones integrales. Programación
+orientada a objetos.
+
+Programmer Analyst
+L Laboratorios Promeco
+Jan 1995 - Nov 1995 (11 meses)
+
+Sistema de Información Ejecutiva (SIE) para ventas y presupuesto.
+Programación, construcción de reportes y análisis de los requerimientos del cliente.
+
+Programmer
+
+Sistema de Información Ejecutiva (SIE) para el área de Infraestructura.
+Programación, construcción de reportes y análisis de los requerimientos del cliente.
+
+
+--- Página 9 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Consultor Informatica EDC
+Softtek
+
+Dec 2021 (4 años, 3 meses)
+
+Consultor Informatica EDC De: 12/2021 A:
+
+- Consultor de datos maestros y catálogos para Brinker. Todo en inglés.
+
+Experiencia Funcional: Analizar y subir información al Informatica Enterprise Catalog (EDC) de diversas
+áreas de negocio: Proveedores, Clientes, Activos Fijos, Proyectos, Menús,
+
+Contabilidad, Órdenes de Compra, Empleados, Tarjetas de Regalo, Cheques, etc.
+
+Migración de metadatos de EDC a CDGC.
+
+Herramientas: Informatica Enterprise Catalog 10.5, Informatica Analyst, Informatica
+
+Administrator, Cloud Data Governance and Catalog.
+
+4 Sc Data Warehouse Consultant
+
+Responsable del modelado de datos para el Sistema Integral de Costos (SIC) Fase ll de la Secretaría de Salubridad
+y Asistencia (SSA).
+
+Data Integration, Business Intelligence, modelado de datos para BI, consultoría de negocios y procesos,
+negociación con cliente, mejores prácticas.
+
+Consultor Senior en Information Management
+Softtek
+
+Apr 2005 (20 años, 11 meses)
+
+Consultor senior en Information Management: Business Intelligence (B1), Data Integration (DI, antes
+ETL) y Data Quality (DQ).
+
+- Responsable de pruebas de concepto de DQ, BI y DI.
+
+- Apoyo a proyectos de DQ, BI y DI.
+
+Experiencia Funcional: Experiencia en pruebas de concepto, liderazgo de proyectos y apoyo a proyectos
+de Data Quality y BI de BO.
+
+Herramientas: BO Data Services, BO Data Insight, BO Data Quality, Business Objects XI, Business
+Objects 4, BO Explorer, BO Data Federator, Xcelsius, Informatica PowerCenter,
+
+Informatica Data Quality, Informatica Power Analyzer, SQL Server 2005/2008,
+
+Oracle 10/11g, Informatica Cloud Data Governance and Catalog.
+
+Softtek - Brinker Guadalajara
+
+Educación
+
+
+--- Página 10 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Engineer, ELECTRÓNICA y Comunicaciones
+
+Aug 1989 to Dec 1993
+
+Electronic and Communications Engineer with honorable mention.
+
+ELECT RÓNICA y Comunicaciones
+Instituto TECNOLÓGICO y de Estudios Superiores de Monterrey (ITESM)
+
+Jan 1989 to Jan 1993
+
+Instituto Tecnológico y de Estudios Superiores de Monterrey
+(ITESM)
+
+Ingeniero en Electrónica y Comunicaciones con mención
+honorífica.
+
+Campus Edo. De
+
+México.
+
+1989-1993
+
+Habilidades
+
+CSS/CSS3 - HTML5 - Informatica Data Quality - Informatica PowerCenter  Microsoft SQL Server
+Microstrategy 10  MySQL  Oracle Database | SAP Business Objects Data Insight
+SAP Business Objects Data Services — SAP Business Objects Infoview » SAP Business Objects Xcelsius
+TOMCAT — Unity — Unreal Engine | Informatica EDC * Informatica Analyst * Informatica Catalog Administrator
+Informatica Administrator | Brio 1 Modelado de Datos — Reingeniería de Procesos — Desarrollo Profesional
+Programación Orientada a Objetos — Modelado * Consolidación — INGENIERÍA de Software
+Sistemas Operativos » Servicio Al Cliente — CrystalXcelsius — Cognos Impromptu — Instalación - Presupuesto
+Contabilidad  ELECTRÓNICA — Infraestructura | Documentación — Construcción - Informatica Cloud
+Finanzas Búsqueda * Apoyo — Programación | Informatica PowerCenter  Banca * Data Warehousing
+
+Atención - Ablnitio | Web Intelligence » SSAS
+
+
+--- Página 11 (OCR) ---
+
+2/19/2026 Luis Constancio Gamiño Cereceres
+
+Información Personal
+
+% - luis.gaminoOsofttek.com
+hijode Imal10000 yahoo.com
+
+
+--- Página 12 (OCR) ---
+
+Softtek'
+
+PERFIL:
+
+* 13 años de experiencia en el área de Preventa de Information Management,
+como consultor de Business Intelligence y de Calidad de Datos. Certificado por
+Business Objects (BO) en Data Quality (DQ).
+
+* 6 años de experiencia como líder de proyectos de Calidad de Datos.
+
+* 8 años de experiencia en las herramientas de Business Objects XI (BO XI).
+
+* 21 años como consultor de BI. Análisis, diseño e implementación de soluciones
+de BI, utilizando desde Oracle Express, Cognos, Power Analyzer hasta Business
+Objects, usando SQL Server y Oracle como bases de datos.
+
+* 12 años de experiencia como líder de proyecto de soluciones de Bl.
+
+* 8 años como modelador de datos para soluciones de BI.
+
+* 8 años de experiencia como consultor en DataWarehousing y Data Integration
+(antes ETL).
+
+* 5 años usando las herramientas PowerCenter y PowerAnalyzer de Informatica.
+
+* 6 años de experiencia con la herramienta Data Services, tanto para procesos de
+
+ETL como de DQ.
+
+1 año trabajando con Informatica Data Quality (IDQ).
+
+1 año usando herramienta de Ab Initio.
+
+3 años de experiencia con Informatica Enterprise Data Catalog (EDC).
+
+1 año de experiencia con la nueva suite de Data Governance de Informatica:
+
+Informatica Intelligent Cloud Services (IICS) y Cloud Data Governance and
+
+Catalog (CDGC).
+
+Luis Constancio Gamiño Cereceres
+
+. ...
+
+EXPERIENCIA PROFESIONAL:
+
+Softtek - Varios Ciudad de Information De: A la
+México Management 04/2005 fecha
+*  Consultor senior en Information Management: Business Intelligence (BI), Data
+Integration (DI, antes ETL) y Data Quality (DQ).
+* Responsable de pruebas de concepto de DQ, BI y DI.
+* Apoyo a proyectos de DQ, BI y DI.
+
+Experiencia Experiencia en pruebas de concepto, liderazgo de proyectos y
+Funcional: apoyo a proyectos de Data Quality y BI de BO.
+Herramientas: BO Data Services, BO Data Insight, BO Data Quality, Business
+
+Objects XI, Business Objects 4, BO Explorer, BO Data Federator,
+Xcelsius, Informatica PowerCenter, Informatica Data Quality,
+Informatica Power Analyzer, SQL Server 2005/2008, Oracle
+10/11g9, Informatica Cloud Data Governance and Catalog.
+
+Softtek - Guadalajara Consultor Informatica De: A:
+Brinker - Virtual. EDC 12/2021
+
+*  Consultor de datos maestros y catálogos para Brinker. Todo en inglés.
+Experiencia Analizar y subir información al Informatica Enterprise Catalog
+Funcional: (EDC) de diversas áreas de negocio: Proveedores, Clientes,
+
+Activos Fijos, Proyectos, Menús, Contabilidad, Órdenes de
+Compra, Empleados, Tarjetas de Regalo, Cheques, etc.
+Migración de metadatos de EDC a CDGC.
+
+
+--- Página 13 (OCR) ---
+
+Herramientas: Informatica Enterprise Catalog 10.5, Informatica Analyst,
+Informatica Administrator, Cloud Data Governance and Catalog.
+
+Softtek - Guadalajara Consultor Data De: A:
+Banorte - Virtual. Integration 04/2021 11/2021
+* Consultor de integración de datos en Banorte.
+Experiencia Migración de procesos de creación de reportes regulatorios de
+Funcional: DataStage hacia Ab Initio.
+Herramientas: Ab Initio suite, DataStage.
+Softtek - DHL Guadalajara Consultor Data Quality De: A:
+- Virtual. 08/2020 03/2021
+*  Consultor de calidad de datos para DHL.
+Experiencia Búsqueda de clientes repetidos en las bases de datos de DHL.
+Funcional:
+Herramientas: Programa propietario creado en Python, con librerías como
+Pandas y algotitmos de análisis de textos.
+Softtek - Gruma HMonterrey, Consultor Information De: A:
+
+NL. Management 10/2016 11/2016
+*  Consultor de Data Migration y Business Intelligence para la definición inicial del
+proyecto de migración y consolidación de datos de Gruma, llamado G+.
+
+Experiencia Análisis de requerimientos, definición inicial de la solución para
+
+Funcional: BI, evaluación de la calidad de la información con Data Services
+para Materiales, Clientes y Proveedores.
+
+Herramientas: Data Services 4.2.
+
+Softtek - Mitel Ciudad de Consultor y soporte De: A:
+México - técnico Business 05/2013 03/2020
+Virtual. Objects
+
+* Soporte técnico y consultoría vía remota para Mitel para diversas áreas, desde
+Servicio al Cliente hasta Finanzas. Todo en inglés.
+
+Experiencia Atención a tickets de soporte de Business Objects, configuración
+Funcional: y migración de ambientes, creación y modificación de reportes y
+
+universos, desarrollo de conexiones y vistas con Data Federator,
+administración de los servidores Windows de cada ambiente,
+documentación con evidencias de cambios, manejo de tickets en
+Remedy, negociación con cliente.
+
+Herramientas: Business Objects XI 3.1, BO Data Federator, BO LCM, SAP BW,
+Remedy.
+
+Softtek - Culiacán, Consultor Business De: A:
+
+SuKarne Sin. Objects 02/2013 03/2013
+
+* Consultor en la solución de Business Intelligence para las áreas de Ventas, Fletes y
+Productos.
+
+Experiencia Configuración y migración de ambientes, creación de reportes e
+Funcional: indicadores, instalación de BI 4.0, revisión del modelo de datos,
+
+validación de universos, pruebas de carga, consultoría de
+negocios y procesos, negociación con cliente.
+Herramientas: Business Objects 4.0, BO Explorer, BO LCM, SQL Server 2008.
+
+
+--- Página 14 (OCR) ---
+
+Softtek - Ciudad de Líder Técnico Business De: A:
+
+Banamex México Objects 09/2012 01/2013
+
+* Líder técnico para la instalación de Business Objects XI y administración de
+requerimientos.
+
+Experiencia Configuración de ambientes, instalación de productos, revisión de
+
+Funcional: modelos de datos, validación de universos, migración de
+componentes, consultoría de negocios y procesos, negociación
+con cliente.
+
+Herramientas: Business Objects XI, DB2 Client, Oracle Client.
+
+Softtek - Ciudad de Líder Técnico Data De: A:
+
+Bancomer México Quality 03/2012 07/2012
+
+* Líder técnico para la migración de procesos de Informatica Data Quality 8.6 a IDQ
+9.0.1.
+
+Experiencia Configuración de ambientes, Data Integration, aseguramiento de
+Funcional: calidad, consultoría de negocios y procesos, negociación con
+cliente.
+Herramientas: Informatica Data Quality 9.
+Softtek - SSA Ciudad de Modelador de datos / De: A:
+México Líder Técnico DWH y 10/2011 01/2012
+BI
+
+* Responsable del modelado de datos para el Sistema Integral de Costos (SIC) Fase ll
+de la Secretaría de Salubridad y Asistencia (SSA).
+
+Experiencia Data Integration, Business Intelligence, modelado de datos para
+
+Funcional: BI, consultoría de negocios y procesos, negociación con cliente,
+mejores prácticas.
+
+Herramientas: Data Services, Web Intelligence, Xcelsius, Infoview.
+
+Softtek - St. Minnesota, Consultor Information De: A:
+
+Jude Medical USA Management 10/2011 10/2011
+
+* Responsable de un levantamiento de información y dictamen (assessment) en
+Business Intelligence y Data Integration. Todo en inglés.
+
+Experiencia Juntas y presentaciones con usuarios de negocio e IT. Análisis de
+
+Funcional: información, de procesos y del negocio.
+
+Herramientas: Business Objects XI, Data Stage.
+
+Softtek - Banco vLeón, Gto. Líder Técnico Business De: A:
+
+del Bajío Intelligence y Data 07/2010 03/201
+Quality 1
+
+*  Responsable de integración de bases de datos externas en Banbajío usando
+procesos de Calidad de Datos.
+
+Experiencia Data Quality, Data Integration, Business Intelligence, reingeniería
+
+Funcional: de procesos, consultoría de negocios y procesos, negociación con
+cliente, implementación de metodologías de DQ y BI, mejores
+prácticas.
+
+Herramientas: Data Insight, Data Services, Web Intelligence, Xcelsius, Infoview
+
+
+--- Página 15 (OCR) ---
+
+Softtek - Ciudad de Líder de Proyecto / De: A:
+
+Banamex México Programador 12/2009 06/2010
+
+*  Responsable de integración de bases de datos externas en Banamex usando
+procesos de Calidad de Datos.
+
+Experiencia DQ, integración de datos, consultoría de negocios y procesos,
+
+Funcional: negociación con cliente.
+
+Herramientas: Data Insight, Data Quality
+
+Softtek - FEMSA Monterrey Líder de Proyecto De: A:
+Calidad de Datos / 11/2008 11/2009
+Consultor
+
+* Responsable de la parte de Calidad de Datos del proyecto Femsa Homologación.
+
+Experiencia Extracción de información de dos SAP's R/3 de diferentes
+
+Funcional: compañías para integrarlo ahora en un solo ECC y tener un solo
+
+catálogo común para ambas compañías en las siguientes áreas
+de la operación: Proveedores, Clientes y Materiales.
+
+Herramientas: Data Services 3.1, SQL Server 2005, MDM
+Softtek - Ciudad de Líder de Proyecto / De: A:
+Banamex México Programador 07/2007 10/2007
+
+* Responsable de proyectos cortos en DQ para integración de bases de datos
+externas en Banamex.
+
+Experiencia DQ, necesidades de Banamex y cruces de bases de datos.
+
+Funcional:
+
+Herramientas: Data Insight, Data Quality, SQL Server 2000., Crystal Xcelsius.
+
+Softtek - Banco Ciudad de Líder de Proyecto / De: A:
+
+Azteca México Programador 09/2006 11/2006
+
+*  Responsable de creación de mapas de ETL para datos de Crédito y Cobranza.
+
+Experiencia Experiencia de los requerimientos y la forma de trabajar entre
+
+Funcional: Elektra y Banco Azteca.
+
+Herramientas: Informatica PowerCenter, DB2.
+
+Softtek - SEG Ciudad de Líder de Proyecto De: A:
+México 05/2005 08/2006
+
+*  Líder de Proyecto en la implementación de portal de Indicadores Educativos para
+Educación Básica de la Secretaría de Educación de Guanajuato (SEG).
+* Creación, en conjunto con la SEG, de un Datawarehouse.
+
+Experiencia PowerCenter e indicadores educativos (absorción, colocación,
+Funcional: reprobación, deserción, candidatos a ser reprobados, etc.).
+Herramientas: Informatica PowerCenter y PowerAnalyzer, SQL Server 2000.
+Softtek - Ciudad de Líder de Proyecto / De: A:
+Elektra México Programador 02/2005 03/2005
+
+*  Responsable de creación de mapas de ETL para datos de Inventarios.
+
+
+--- Página 16 (OCR) ---
+
+Experiencia Experiencia de los requerimientos y la forma de trabajar en
+Funcional: Elektra.
+
+Herramientas: Informatica PowerCenter, DB2.
+Softtek -Prensa Guatemala Líder de Proyecto / De: A:
+Libre Programador 08/2004 09/2004
+
+* Creación de un sistema de Indicadores de ventas y distribución para el diario
+Prensa Libre.
+
+Experiencia Experiencia en indicadores de distribución e inventarios.
+
+Funcional:
+
+Herramientas: Informatica Power Analyzer, SQL Server 2000.
+
+CIN Ciudad de Gerente de Proyectos De: A:
+México 09/1999 01/2005
+
+* Responsable de proyectos de Bl.
+
+Experiencia Administración de proyectos de BI.
+
+Funcional:
+
+Herramientas: Oracle Express, SQL Server 2000.
+
+Softtek - Varios Ciudad de Líder de Proyecto / De: A:
+México Consultor 12/1996 07/1999
+
+* Coca-Cola de México: Sistema de Información Ejecutiva (SIE) para ventas por canal
+y producto y presupuestos.
+
+* HMercury Bank: SIE para esta filial de Bancomer en el extranjero.
+
+* Bancomer: SIE para ventas, presupuesto, control de gestión y banca empresarial.
+
+Experiencia Líder de proyectos de BI y experiencia ya como consultor
+
+Funcional: proponiendo soluciones integrales. Programación orientada a
+objetos.
+
+Herramientas: Oracle Express (antes Express/ElS), SQL Server 2000, Oracle 8.
+
+Softtek - Varios Ciudad de Analista / De: A:
+México Programador 01/1994 11/1995
+
+* CFE: Sistema de Información Ejecutiva (SIE) para el área de Infraestructura
+* Laboratorios Promeco: SIE para ventas y presupuesto.
+
+Experiencia Programación, construcción de reportes y análisis de los
+Funcional: requerimientos del cliente.
+
+Herramientas: Express/ElS.
+
+EDUCACION:
+
+Instituto Tecnológico y de Estudios Superiores Campus Edo. De 1989-
+de Monterrey (ITESM) México. 1993
+
+Ingeniero en Electrónica y Comunicaciones con
+mención honorífica.
+
+DESARROLLO PROFESIONAL:
+Certificación SAP S$Business OObjects Business Guadalajara, JAL. 07/2016
+
+
+
+--- Página 17 (OCR) ---
+
+Intelligence Platform 4.1
+
+SAP Data Migration
+
+Ciudad de México 08/2012
+
+Greenplum Arquitecture for Big Data Solutions Ciudad de México 08/2012
+
+Greenplum Database for Big Data Solutions Ciudad de México 07/2012
+
+Informatica Data Quality Ciudad de México 01/2012
+
+SCRUM (Agile Project Management) Ciudad de México 09/2010
+
+Business Objects Partner Summit Las Vegas, NV, 01/2008
+USA
+
+Business Objects Release 2 Ciudad de México. 07/2007
+
+Business Objects Partner Summit Charleston, SC, 02/2007
+USA
+
+Elemento Humano Valle de Bravo, 1998
+Edo. Méx.
+
+Identidad Poderosa (0 cómo ser buen orador y dar Ciudad de México. 1997
+
+presentaciones)
+
+Cognos Impromptu 6: PowerPlay Ciudad de México. 1997
+Cliente-Servidor, SQL Server Ciudad de México. 1996
+
+Express/ElS
+
+Ciudad de México. 1994
+
+TISAP (Técnicas de Ingeniería de Software Aplicadas a Ciudad de México. 1994
+
+la Programación)
+
+IDIOMAS:
+
+Español nativo, Inglés 90 %
+
+HABILIDADES TECNICAS/GERENCIALES:
+
+Perfil Primario:
+
+Perfil Secundario:
+
+Hardware:
+
+Sistemas Operativos:
+
+Data warehouse
+Lenguajes de
+Programación:
+Databases:
+App. Servers:
+Otras:
+
+Consultor nivel Senior en soluciones para Data Quality,
+Business Intelligence y Data Integration. Buen técnico.
+Administración y liderazgo de proyectos de DQ y Bl.
+Recolección y análisis de requerimientos para el diseño de
+soluciones.
+
+Modelado de datos para soluciones de BI.
+
+Apoyo a preventa/ventas con presentaciones de estrategias,
+productos, soluciones, tecnologías y/o metodologías a cliente.
+También con pruebas de concepto, juntas de definición de
+requerimientos o presentación de resultados de los proyectos.
+Impartición de cursos internos y externos de Calidad de Datos
+y Business Intelligence.
+
+Intel.
+
+Windows 2000, 2003, 2008, XP. Unix básico.
+
+Informatica PowerCenter, Business Objects Data Services
+Básico: Python, C++, Visual Basic.
+
+SQL Server y Oracle. Un poco de DB2 y Greenplum.
+
+Tomcat.
+
+De Business Objects XI: Xcelsius, Web Intelligence, Designer,
+Dashboard Manager, LCM, Data Federator, Infoview, CMC.
+BO Básico: Performance Manager, Crystal Reports, Voyager.
+Otras: Informatica Data Quality, Informatica Power Analyzer,
+Oracle Express, Cognos PowerPlay, Brio, MicroStrategy.

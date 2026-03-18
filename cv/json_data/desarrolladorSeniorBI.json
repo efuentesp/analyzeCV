@@ -1,380 +1,146 @@
-[
-  {
-    "nombre": "Alma Rebeca Ibañez Carranza",
-    "rol_propuesto": "Desarrollador Senior BI",
-    "resumen_profesional": "Especializada en gestión y modelado de datos orientada al diseño y construcción de procesos ETL para entornos financieros.\nCon experiencia en mapeos origen-destino, definición de reglas de negocio y diseño de modelos conceptuales y lógicos.\nEnfocada en asegurar la calidad y trazabilidad del dato mediante pruebas, validaciones y documentación técnica.\nAplica metodologías ágiles para coordinar entregables, soporte a producción y explotación de datos para KPIs.\n\nCapaz de integrar soluciones con herramientas como SAS y Microsoft SQL Server, manteniendo consistencia en esquemas y flujos de proceso.\nParticipa en la generación de diagramas de flujo, catálogos de reglas y manuales de operación para facilitar la transferencia de conocimiento.\nContribuye al análisis de fuentes de datos y al diseño de componentes reutilizables orientados a la optimización de procesos ETL.\nAporta liderazgo técnico en la comunicación con usuarios de negocio y en la entrega de soluciones alineadas a necesidades analíticas.",
-    "experiencia_laboral": [
-      {
-        "empresa": "Softtek",
-        "puesto": "Data Management Engineer OnPrem ETL Sr",
-        "fecha_inicio": "mayo 2018",
-        "fecha_fin": "Current",
-        "actividades_principales": [
-          "Identificar requerimientos con usuarios de negocio para elaborar documentos de análisis",
-          "Elaborar catálogos de reglas de negocio y diagramas de contexto",
-          "Analizar fuentes de datos y mapear estructuras de origen",
-          "Diseñar modelos conceptuales y lógicos de datos",
-          "Elaborar mapeos origen-destino e identificar transformaciones tecnológicas",
-          "Generar esquemas de flujo y diagramas para procesos analizados",
-          "Definir especificaciones técnicas y casos de prueba para la construcción e integración de la solución",
-          "Construir soluciones ETL utilizando SAS Data Integration y otras tecnologías",
-          "Realizar pruebas unitarias y actividades de aseguramiento de calidad de los entregables",
-          "Soportar modelos de datos para su explotación en herramientas front-end y validar KPIs con SQL Developer"
-        ]
-      }
-    ],
-    "ajuste_puesto_liderazgo": {
-      "empresa": "Capgemini",
-      "puesto": "Consultor SAS",
-      "fecha_inicio": "May 2012",
-      "fecha_fin": "May 2018",
+{
+  "nombre": "Claudio Roberto Diaz Mandujano",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "3532244",
+  "fecha_cedula": "4/2/2002",
+  "rol_propuesto": "Desarrollador Senior BI",
+  "resumen_profesional": "Al menos 5 años en desarrollo de soluciones de BI, en servicios y aplicaciones web (frontend y backend), dashboards interactivos, tableros, informes automáticos, reportes. Soy ingeniero de datos con amplia trayectoria en diseño y construcción de procesos ETL, modelado de datos y documentación técnica para entornos on‑premise y cloud; lidero y coordino equipos, garantizo continuidad operativa y transferencia de conocimiento. Trabajo con herramientas ETL tradicionales y en la nube, realizo mapeo y estandarización de datos, traducción de consultas entre motores y elaboro runbooks y catálogos para facilitar operación y mantenimiento.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek - FashionPhile",
+      "puesto": "Data Management Engineer Senior",
+      "fecha_inicio": "3 febrero 2025",
+      "fecha_fin": "28 noviembre 2025",
       "actividades_principales": [
-        "Realizar análisis y administración de datos para banca",
-        "Apoyar en proyectos de experiencia de cliente",
-        "Diseñar y construir soluciones con herramientas SAS para detección de puntos de compromiso",
-        "Impartir entrenamiento en el uso de herramientas SAS al personal del cliente",
-        "Desarrollar aplicaciones para reportes regulatorios y brindar soporte"
+        "Diseño, construcción y mantenimiento de soluciones tecnológicas usando varios lenguajes; adopto buenas prácticas en metodologías de desarrollo, coordino actividades de desarrolladores jr y conozco a fondo el ciclo del proyecto; manejo bases de datos relacionales y no relacionales, modelado de datos, versionamiento con Git, optimización de procesos y diseño y desarrollo de procesos ETL.",
+        "Durante esta asignación, participé en la documentación técnica en Confluence de los artefactos desarrollados en AWS para la integración de datos hacia el Data Warehouse de FashionPhile, provenientes de las siguientes fuentes de información: Shopify, Algolia, NetSuite, Salesforce Marketing Cloud, Salesforce Service Cloud, y Swym.",
+        "Las páginas documentadas en Confluence incluyen: . Inventario de artefactos de la capa Raw / Bronze del Enterprise Data Warehouse (EDW); * . Inventario de artefactos de la capa Silver del EDW; * Inventario de artefactos de la capa Golden del EDW; * Inventario consolidado de artefactos del EDW; * Runbookde la capa Raw del EDW; * . Runbookde la capa Silver del EDW; * Runbookde la capa Golden del EDW; * Inventario de artefactos relacionados con Swymen el EDW",
+        "Para la elaboración de esta documentación, se analizaron los siguientes tipos de artefactos: + Fuentes de datos / Crawlers: Detalles de los ANS Glue Crawlers utilizados para catalogar la información. * Flujos DLT - Capa Raw: Scripts de extracción basados en Python para cada sistema fuente. * DAGs - Descripción general: Explicación de la orquestación en Airflow que automatiza el flujo de datos de extremo a extremo, incluyendo la secuenciación, monitoreo y gestión de dependencias entre Glue Jobs y pipelines DLT. * Resumen de programación de DAGs en Airf low: Tabla con nombres de DAGs, horarios y detalles operativos. * Catálogo de fuentes de datos en S3 - Capa Bronze: Mapeo de fuentes de datos con sus respectivos buckets en AWS S3. * Catálogo de datos en AWS Athena - Capas Raw/Bronze: Estructura de tablas y definiciones de metadatos registradas en el Glue Data Catalog. * Documentación de AWS Glue Jobs: Listado y descripción de los ETL Jobs responsables de transformar y publicar conjuntos de datos curados, incluyendo configuraciones, mapeos de entrada/salida y notas operativas.",
+        "Otras actividades realizadas durante el proyecto:", 
+        "1. Traducción de consultas SQL de PostgreSQL a MySQL Se documentaron versiones originales y traducidas de consultas analíticas clave, con el objetivo de facilitar la compatibilidad entre dif erentes sistemas de bases de datos.",
+        "2. Análisis de variantes y propuesta de estandarización en archivos NetSuite almacenados en AWS S3 Se identificaron inconsistencias en nombres y términos ambiguos en archivos Parquet, proponiendo una terminología estandarizada para mejorar la calidad, consistencia y usabilidad de los datos.",
+        "3. Documentación de la estructura y metadatos de tablas relacionadas con Algolia en AWS Athena Estas tablas en formato Iceberg, almacenadas en la base de datos silver_catalog, contienen métricas agregadas sobre comportamiento y rendimiento de búsqueda. La documentación incluye estructura, detalles de almacenamiento y ejemplos prácticos de joins.",
+        "4. Preparación de listado de tablas de dimensión y de hechos Se identificaron atributos clave para la creación de estas tablas en la capa Golden del Data Warehouse.",
+        "5. Elaboración de documento de mapeo de datos para vistas FADS",
+        "Se documentaron los scripts actuales y sus versiones adaptadas para Amazon Redshift, con el fin de asegurar la consistencia entre implementaciones heredadas y nuevas.",
+        "Se documentaron los artefactos relacionados con el esquema estrella de la capa Golden para FADS (Fact and Dimension Schema) Se detalló la lógica de mapeo, relaciones y diseño estructural de las tablas de hechos y dimensiones, con el objetivo de garantizar trazabilidad, consistencia y capacidad analítica en el dominio FADS.",
+        "Apoyé en la revisión y mejora del modelo de datos multidimensional del Datawarehouse de FashionPhile, el cual fue construido en la base de datos de Amazon RedShift. Mi enfoque estuvo en asegurar que el modelo cumpliera con los estándares de calidad y eficiencia requeridos para el manejo de datos.",
+        "Revisión del modelo de datos multidimensional.",
+        "Mejora de la estructura del Datawarehouse.",
+        "Colaboración con equipos multidisciplinarios.",
+        "Proyecto Customer Hub: Realizar el deploy de los jobs de limpieza de datos desarrollados en Informática Cloud Data Quality en servidores Linux de ambientes altos (Pruebas de Aceptación de Usuario (UAT), COB y PROD).",
+        "Realizar la instalación de scripts desarrollados en Python y de catálogos en servidores Linux de ambientes altos (Pruebas de Aceptación de Usuario (UAT), COB y PROD).",
+        "Realizar actualizaciones en la configuración de los scripts python y en los archivos de catálogos en servidores Linux de ambientes altos (Pruebas de Aceptación de Usuario (UAT), COB y PROD).",
+        "Dar de alta y de baja los servicios de Informática Cloud Data Quality.",
+        "Realizar configuraciones guiadas en informatica MDM hub console en ambientes altos (Pruebas de Aceptación de Usuario (UAT), COB y PROD).",
+        "Descargar y revisar logs generados por Informática Cloud Data Quality para el análisis de errores.",
+        "Atender incidentes de nivel 1 cuando se reporta algún error durante la ejecución de los jobs de Calidad de Datos en ambientes altos (Pruebas de Aceptación de Usuario (UAT), COB y PROD).",
+        "Proyecto MIDAS € MIT: Análisis de requerimientos, identificación de fuentes de datos, e identificación de mapas por actualizar.Diseño y Construcción de nuevos mapas en Informática PowerCenter para agregar nuevos indicadores, métricas y dimensiones que son requeridos para el insumo de los reportes abarcando las áreas de negocio de Prendario, Comercial, SIVA y NMPC PCC.Actualización de los mapas actuales de IPC (Informática PowerCenter) para agregar nuevos indicadores, métricas y dimensiones que son requeridos para ser el insumo de los reportes abarcando las áreas de negocio de Prendario, Comercial, SIVA y NMPC PCC.Elaboración de la documentación de Diseño Técnico, Manual general de Operación de ETL's, Plan de Instalación, Requerimientos de Prueba, y Pruebas Unitarias.",
+        "Proyecto Cartera Ominicanal: Construcción de las interfaces ETL en IBM InfoSphere DataStage con respecto a los procesos de migración de datos de las tablas ctl_clientesdomiciliadospendientes, ctl_holguradomiciliacion, y Cattiendas.Obtención de los scripts de creación de las tablas de cartera en línea de la base de datos carteraetl que se ocupan en el proyecto.Generación del script de creación de las tablas de la base de datos en cartera en línea sin primary key ni foreign keys. Elaboración de un resumen con respecto al análisis de las estructuras de las tablas de cartera en línea.Modificación del job sequencer sec_MP_CargaCtIMigracionHistorica para incluir la tabla de cattiendas.Creación de scripts SQL para el conteo de las tablas de salida de la migración para la validación de las cargas Validaciones de conexión a los diferentes ambientes y bases de datos relacionadas con el proyecto.",
+        "Proyecto LDTI: Diseño y construcción de las interfaces ETL en Informática PowerCenter 9.6 con respecto a los procesos del proyecto LDTI como Cashf low MET99 Inforce y Outforce, Cashflow Tradicional Metlife Inforce y Outforce, Cashflow Tradicional Alico Inforce, Actuals Pensiones Privadas Inforce y Outforce, y Actuals Pensiones Privadas Anualidades.Construcción y Adaptación de Shells (shell sripting AIX) para las interfaces de Cashflow MET99 Inforce y Cashf low MET99 Outforce.Sesiones de inducción a los consultores que se fueron integrando al proyecto con respecto al desarrollo de las interfaces ETL, creación de Change Request en Service Now, y al empaquetado de los componentes de las interfaces ETL en Micro Focus StarTeam. Creación y seguimiento de los Change Request (CHG) en Service Now para la liberación de los componentes ETL en los ambientes de UAT y Productivo de Informática PowerCenter.Empaquetado en Micro Focus StarTeamde los componentes de las interfaces ETL construidas para su liberación en los ambientes de UAT y Productivo de Informática PowerCenter.LDTI es un proyecto regulatorio el cuál consistió en la generación de una serie de reportes destinados a Metlife USA.",
+        "Aseguramiento de la Calidad (QA), Bitácoras de Actividades asignaciones en el Instituto: Revisión de la calidad de los documentos correspondientes a la bitácora de actividades que se reportan al Instituto Mexicano del Seguro Social durante el período 12/2020 - 09/2021.Contactar a los consultores para aclaración de dudas con respecto a sus bitácoras de actividades.Apoyo en la elaboración de las bitácoras de actividades que se encuentran pendientes.",
+        "Gobierno de Datos: Análisis de la Calidad de los Datos correspondiente al Catálogo Único de Unidades Médicas en Servicio con Productividad. Reuniones con el usuario de negocio para conocer el proceso del llenado del Catálogo Único de Unidades Médicas en Servicio con Productividad.Elaboración del Resumen Ejecutivo de los hallazgos de Calidad Catálogo Único de Unidades Médicas en Servicio con Productividad.Elaboración del documento de Lineamientos Funcionales de Calidad para el llenado del Catálogo Único de Unidades Médicas en Servicio con Productividad.Elaboración de la Matriz Relación Origen Destino para la automatización del Catálogo Único de Unidades Médicas en Servicio con Productividad.",
+        "Proyecto Herramienta de Calidad y de Limpieza de Datos: Desarrollo en el lenguaje de programación Python versión 3.x del módulo de pareo o matching, el cual identifica los registros únicos y los registros similares de un origen de datos o entre dos orígenes de datos.Aplicación de pruebas unitarias y de volumen del módulo desarrollado.",
+        "Proyecto Herramienta de Calidad y de Limpieza de Datos: Desarrollo en el lenguaje de programación Python versión 3.x de los módulos de Perfilamiento, Limpieza y de Estandarización de Datos usando como librería principal Pandas, así como el desarrollo del menú principal de cada módulo con sus correspondientes sub menús, el desarrollo de procedimientos y de funciones correspondientes al Perfilamiento de Datos, y del desarrollo de procedimientos y de funciones correspondientes a la Limpieza y Calidad de Datos.Generación de reportes correspondientes al módulo de Perfilamiento de Datos y del módulo de Limpieza y de Estandarización de Datos."
+       ]
+    },
+    {
+      "empresa": "Softtek - Citi Banamex",
+      "puesto": "Data Management Engineer OnPrem ETL Sr",
+      "fecha_inicio": "3 abril 2023",
+      "fecha_fin": "31 enero 2025",
+      "actividades_principales": [
+        "Proyecto Customer Hub: Realizar el deploy de los jobs de limpieza de datos desarrollados en Informática Cloud Data Quality en servidores Linux de ambientes altos (Pruebas de Aceptación de Usuario (UAT), COB y PROD).",
+        "Realizar la instalación de scripts desarrollados en Python y de catálogos en servidores Linux de ambientes altos (Pruebas de Aceptación de Usuario (UAT), COB y PROD).",
+        "Realizar actualizaciones en la configuración de los scripts python y en los archivos de catálogos en servidores Linux de ambientes altos (Pruebas de Aceptación de Usuario (UAT), COB y PROD).",
+        "Dar de alta y de baja los servicios de Informática Cloud Data Quality.",
+        "Realizar configuraciones guiadas en informatica MDM hub console en ambientes altos (Pruebas de Aceptación de Usuario (UAT), COB y PROD).",
+        "Descargar y revisar logs generados por Informática Cloud Data Quality para el análisis de errores.",
+        "Atender incidentes de nivel 1 cuando se reporta algún error durante la ejecución de los jobs de Calidad de Datos en ambientes altos (Pruebas de Aceptación de Usuario (UAT), COB y PROD)."
       ]
     },
-    "periodo_resumen_laboral": "La experiencia abarca desde mayo de 2007 hasta mayo de 2018",
-    "resumen_laboral": "Durante este período se desempeñaron funciones como Consultor SAS y Consultor Jr, con responsabilidades centradas en el análisis y la administración de datos para el sector financiero y de seguros. Las labores incluyeron diseño y construcción de soluciones para prevención de fraude y reportes regulatorios, apoyo en estudios de experiencia de cliente, capacitación de personal en herramientas SAS y soporte en la resolución de incidencias y procesos de datos.",
-    "estudios": {
-      "carrera": "Máster en Big Data y Business Analysis",
-      "lugar": "Universidad Camilo JOSÉ Cela / IMF SMAT Educa",
-      "periodo": "Feb 2019 - Feb 2022"
+    {
+      "empresa": "Softtek - Nacional Monte De Piedad",
+      "puesto": "Data Management Engineer - Expert",
+      "fecha_inicio": "1 noviembre 2022",
+      "fecha_fin": "31 marzo 2023",
+      "actividades_principales": [
+        "Proyecto MIDAS € MIT: Análisis de requerimientos, identificación de fuentes de datos, e identificación de mapas por actualizar.Diseño y Construcción de nuevos mapas en Informática PowerCenter para agregar nuevos indicadores, métricas y dimensiones que son requeridos para el insumo de los reportes abarcando las áreas de negocio de Prendario, Comercial, SIVA y NMPC PCC.Actualización de los mapas actuales de IPC (Informática PowerCenter) para agregar nuevos indicadores, métricas y dimensiones que son requeridos para ser el insumo de los reportes abarcando las áreas de negocio de Prendario, Comercial, SIVA y NMPC PCC.Elaboración de la documentación de Diseño Técnico, Manual general de Operación de ETL's, Plan de Instalación, Requerimientos de Prueba, y Pruebas Unitarias."
+      ]
     },
-    "certificaciones_y_cursos": [
-      {
-        "nombre": "Certificación Developer, Dataiku Academy",
-        "anio": "2024"
-      },
-      {
-        "nombre": "Certificación Advance Designer, Dataiku Academy",
-        "anio": "2024"
-      },
-      {
-        "nombre": "Certificado Core Designer, Dataiku Academy",
-        "anio": "2024"
-      },
-      {
-        "nombre": "Badge 3 Data Aplication Builders Workshop, Snowflake Academy",
-        "anio": "2024"
-      },
-      {
-        "nombre": "Badge2 Collaboration, Marketplace & Cost Estim, Snowflake Academy",
-        "anio": "2024"
-      },
-      {
-        "nombre": "Badge1 Data Warehousing Workshop, Snowflake Academy",
-        "anio": "2024"
-      },
-      {
-        "nombre": "Microsoft Certified: Azure Data Engineer - Asso, Microsoft",
-        "anio": "2024"
-      },
-      {
-        "nombre": "Certificación Liderazgo Orientado a Equipos, Softtek",
-        "anio": "2023"
-      },
-      {
-        "nombre": "Certificación Liderazgo Orientado a las Personas, Softtek",
-        "anio": "2022"
-      }
-    ]
+    {
+      "empresa": "Softtek - Coppel",
+      "puesto": "Data Management Engineer - Senior",
+      "fecha_inicio": "1 septiembre 2022",
+      "fecha_fin": "31 octubre 2022",
+      "actividades_principales": [
+        "Proyecto Cartera Ominicanal: Construcción de las interfaces ETL en IBM InfoSphere DataStage con respecto a los procesos de migración de datos de las tablas ctl_clientesdomiciliadospendientes, ctl_holguradomiciliacion, y Cattiendas.Obtención de los scripts de creación de las tablas de cartera en línea de la base de datos carteraetl que se ocupan en el proyecto.Generación del script de creación de las tablas de la base de datos en cartera en línea sin primary key ni foreign keys. Elaboración de un resumen con respecto al análisis de las estructuras de las tablas de cartera en línea.Modificación del job sequencer sec_MP_CargaCtIMigracionHistorica para incluir la tabla de cattiendas.Creación de scripts SQL para el conteo de las tablas de salida de la migración para la validación de las cargas Validaciones de conexión a los diferentes ambientes y bases de datos relacionadas con el proyecto."
+      ]
+    },
+    {
+      "empresa": "Softtek - MetLife MÉXICO",
+      "puesto": "Data Management Engineer - Expert",
+      "fecha_inicio": "1 noviembre 2021",
+      "fecha_fin": "31 agosto 2022",
+      "actividades_principales": [
+        "Proyecto LDTI: Diseño y construcción de las interfaces ETL en Informática PowerCenter 9.6 con respecto a los procesos del proyecto LDTI como Cashf low MET99 Inforce y Outforce, Cashflow Tradicional Metlife Inforce y Outforce, Cashflow Tradicional Alico Inforce, Actuals Pensiones Privadas Inforce y Outforce, y Actuals Pensiones Privadas Anualidades.Construcción y Adaptación de Shells (shell sripting AIX) para las interfaces de Cashflow MET99 Inforce y Cashf low MET99 Outforce.Sesiones de inducción a los consultores que se fueron integrando al proyecto con respecto al desarrollo de las interfaces ETL, creación de Change Request en Service Now, y al empaquetado de los componentes de las interfaces ETL en Micro Focus StarTeam. Creación y seguimiento de los Change Request (CHG) en Service Now para la liberación de los componentes ETL en los ambientes de UAT y Productivo de Informática PowerCenter.Empaquetado en Micro Focus StarTeamde los componentes de las interfaces ETL construidas para su liberación en los ambientes de UAT y Productivo de Informática PowerCenter.LDTI es un proyecto regulatorio el cuál consistió en la generación de una serie de reportes destinados a Metlife USA."
+      ]
+    },
+    {
+      "empresa": "Softtek - IMSS",
+      "puesto": "Data Management Engineer - Senior",
+      "fecha_inicio": "4 mayo 2020",
+      "fecha_fin": "29 octubre 2021",
+      "actividades_principales": [
+        "Aseguramiento de la Calidad (QA), Bitácoras de Actividades asignaciones en el Instituto: Revisión de la calidad de los documentos correspondientes a la bitácora de actividades que se reportan al Instituto Mexicano del Seguro Social durante el período 12/2020 - 09/2021.Contactar a los consultores para aclaración de dudas con respecto a sus bitácoras de actividades.Apoyo en la elaboración de las bitácoras de actividades que se encuentran pendientes.",
+        "Gobierno de Datos: Análisis de la Calidad de los Datos correspondiente al Catálogo Único de Unidades Médicas en Servicio con Productividad. Reuniones con el usuario de negocio para conocer el proceso del llenado del Catálogo Único de Unidades Médicas en Servicio con Productividad.Elaboración del Resumen Ejecutivo de los hallazgos de Calidad Catálogo Único de Unidades Médicas en Servicio con Productividad.Elaboración del documento de Lineamientos Funcionales de Calidad para el llenado del Catálogo Único de Unidades Médicas en Servicio con Productividad.Elaboración de la Matriz Relación Origen Destino para la automatización del Catálogo Único de Unidades Médicas en Servicio con Productividad.",
+        "Proyecto Herramienta de Calidad y de Limpieza de Datos: Desarrollo en el lenguaje de programación Python versión 3.x del módulo de pareo o matching, el cual identifica los registros únicos y los registros similares de un origen de datos o entre dos orígenes de datos.Aplicación de pruebas unitarias y de volumen del módulo desarrollado.",
+        "Proyecto Herramienta de Calidad y de Limpieza de Datos: Desarrollo en el lenguaje de programación Python versión 3.x de los módulos de Perfilamiento, Limpieza y de Estandarización de Datos usando como librería principal Pandas, así como el desarrollo del menú principal de cada módulo con sus correspondientes sub menús, el desarrollo de procedimientos y de funciones correspondientes al Perfilamiento de Datos, y del desarrollo de procedimientos y de funciones correspondientes a la Limpieza y Calidad de Datos.Generación de reportes correspondientes al módulo de Perfilamiento de Datos y del módulo de Limpieza y de Estandarización de Datos."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde 03 noviembre de 1997 hasta 30 abril de 2020",
+  "resumen_laboral": "Durante este período me desempeñé como Data Management Engineer, Technical Leader y Software Engineer, asumiendo responsabilidades de diseño y construcción de procesos ETL, integración y migración de datos, documentación técnica y capacitación. Coordiné actividades de equipos de desarrollo, participé en el análisis de requisitos y en pruebas unitarias e integrales, y apoyé la puesta en marcha en producción. Mis tareas incluyeron mantenimiento y optimización de jobs ETL, generación de entregables técnicos y transferencia de conocimiento a usuarios y consultores.",
+  "estudios": {
+    "carrera": "Licenciatura en INFORMÁTICA Administrativa",
+    "lugar": "Universidad Tecnológica de México",
+    "periodo": "enero 1994 - diciembre 1998"
   },
-  {
-    "nombre": "Antonio Garcia Torres",
-    "rol_propuesto": "Desarrollador Senior BI",
-    "resumen_profesional": "Amplia trayectoria en diseño y desarrollo de soluciones de datos y procesos ETL para entornos on-premise y cloud.\nExperiencia en integración de fuentes heterogéneas, modelado dimensional y construcción de data lakes y datamarts.\nDominio de herramientas como IBM DataStage, Azure Data Factory, Databricks y plataformas de bases de datos relacionales.\nCapacidad para documentar orígenes de datos, definir reglas de negocio y optimizar procesos para soporte analítico.\n\nHistorial de liderazgo técnico en proyectos de BI, coordinación de equipos multidisciplinarios y gestión de migraciones de plataformas analíticas.\nEnfoque en garantizar calidad de datos, rendimiento de procesos ETL y entrega de indicadores para la toma de decisiones.\nSólida experiencia en generación de reportes y dashboards con Power BI y en la migración de soluciones desde QlikView.\nOrientación a la mejora continua mediante pruebas de concepto y adopción de arquitecturas escalables.",
-    "experiencia_laboral": [
-      {
-        "empresa": "AXA",
-        "puesto": "Data Analyst",
-        "fecha_inicio": "agosto 2025",
-        "fecha_fin": "noviembre 2025",
-        "actividades_principales": [
-          "Analizar orígenes de datos para la migración de los sistemas de productos vida al nuevo modelo operativo.",
-          "Diseñar el DataLake para el nuevo modelo operativo."
-        ]
-      },
-      {
-        "empresa": "Walmart",
-        "puesto": "Arquitecto de Datos",
-        "fecha_inicio": "diciembre 2024",
-        "fecha_fin": "febrero 2025",
-        "actividades_principales": [
-          "Diseñar la arquitectura de datos para los procesos de cálculo de bono, analizando fuentes y reglas de negocio.",
-          "Documentar orígenes de datos y relaciones entre fuentes y procesos para la provisión del bono."
-        ]
-      },
-      {
-        "empresa": "Citi",
-        "puesto": "Modelador",
-        "fecha_inicio": "2023",
-        "fecha_fin": "2024",
-        "actividades_principales": [
-          "Modelar en capa semántica modelos tipo estrella y analizar reglas de negocio para indicadores financieros.",
-          "Construir modelos en Erwin y generar DDLs de modelos estrella en Teradata."
-        ]
-      },
-      {
-        "empresa": "Nacional Monte De Piedad",
-        "puesto": "Desarrollo de Procesos ETL en Azure Data Factory y Databricks",
-        "fecha_inicio": "jun 2022",
-        "fecha_fin": "jul 2022",
-        "actividades_principales": [
-          "Desarrollar procesos ETL en Azure Data Factory y Databricks para préstamos prendarios consumiendo información desde Blob Storage."
-        ]
-      },
-      {
-        "empresa": "COPPEL",
-        "puesto": "Desarrollos de Procesos ETL en DataStage",
-        "fecha_inicio": "junio 2021",
-        "fecha_fin": "septiembre 2021",
-        "actividades_principales": [
-          "Desarrollar procesos ETL en DataStage 11.7, SQL Server y Postgres para migración de cartera a nuevo repositorio."
-        ]
-      },
-      {
-        "empresa": "Liverpool (PoC)",
-        "puesto": "Desarrollo de Pruebas de Concepto de Integración de Información",
-        "fecha_inicio": "marzo 2020",
-        "fecha_fin": "abril 2020",
-        "actividades_principales": [
-          "Desarrollar pruebas de concepto de integración de información de la cadena de suministro para entrega de datos analíticos y transaccionales."
-        ]
-      },
-      {
-        "empresa": "BANOBRAS",
-        "puesto": "Desarrollador ODI",
-        "fecha_inicio": "septiembre 2019",
-        "fecha_fin": "abril 2020",
-        "actividades_principales": [
-          "Diseñar modelos de datos en Oracle 12c y construir procesos ELT en ODI 12c para flujos de Mercados."
-        ]
-      },
-      {
-        "empresa": "UANL Centro De Desarrollo Mexico",
-        "puesto": "Líder de Proyecto",
-        "fecha_inicio": "septiembre 2010",
-        "fecha_fin": "junio 2019",
-        "actividades_principales": [
-          "Administrar proyectos de BI y coordinar equipos para la migración de información entre sistemas legados y nueva plataforma."
-        ]
-      }
-    ],
-    "ajuste_puesto_liderazgo": {
-      "empresa": "",
-      "puesto": "",
-      "fecha_inicio": "",
-      "fecha_fin": "",
-      "actividades_principales": []
+  "certificaciones": [
+    {
+      "nombre": "Analyzing Data with Python",
+      "anio": "2020"
     },
-    "periodo_resumen_laboral": "La experiencia abarca desde septiembre de 2003 hasta septiembre de 2010",
-    "resumen_laboral": "Durante este período se desempeñaron funciones como Gerente de Infraestructura, Consultor DataStage y Desarrollador DataStage, asumiendo responsabilidades en administración de plataformas, gestión de servicios contratados y desarrollo de procesos ETL. Se trabajó en diseño y mantenimiento de datamarts y sistemas web, soporte a procesos de negocio y generación de reportes de gestión para la toma de decisiones. Las tareas incluyeron coordinación técnica con proveedores y gestión operativa de infraestructuras.",
-    "estudios": {
-      "carrera": "Ingeniero en Computación",
-      "lugar": "Instituto Politécnico Nacional",
-      "periodo": "septiembre 1991 - junio 1995"
+    {
+      "nombre": "Fundamentos de Python",
+      "anio": "2024"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Cloud Particioner Essentials"
     },
-    "certificaciones_y_cursos": [
-      {
-        "nombre": "Scrum Fundamentals Certified",
-        "anio": "2022"
-      },
-      {
-        "nombre": "Cloud Data Governance and Catalog (CDGC) Fundation Series Certification",
-        "anio": ""
-      },
-      {
-        "nombre": "Data Engineering Foundation 2023_2024 Knowledge Check - Module 1_ Data Architecture",
-        "anio": ""
-      },
-      {
-        "nombre": "Data Engineering Foundation 2023_2024 Knowledge Check - Module 2_ Data Ingestion",
-        "anio": ""
-      },
-      {
-        "nombre": "Data Engineering Foundation 2023_2024 Knowledge Check - Module 3_ Data Integration",
-        "anio": ""
-      },
-      {
-        "nombre": "Data Engineering Foundation 2023_2024 Knowledge Check - Module 4_ Advanced Data",
-        "anio": ""
-      },
-      {
-        "nombre": "NLP_Natural_Language_Processing_with_Python",
-        "anio": ""
-      },
-      {
-        "nombre": "Python_3_Deep_Dive_Part_1_Functional",
-        "anio": ""
-      },
-      {
-        "nombre": "Python_3_Deep_Dive_Part_2_Iterators_Generators",
-        "anio": ""
-      },
-      {
-        "nombre": "Python_3_Deep_Dive_Part_3_Dictionaries_Sets_Json",
-        "anio": ""
-      },
-      {
-        "nombre": "The_Complete_Python_Bootcamp_From_Zero_to_Hero_in_Python",
-        "anio": ""
-      }
-    ]
-  },
-  {
-    "nombre": "Claudio Roberto Diaz Mandujano",
-    "rol_propuesto": "Desarrollador Senior BI",
-    "resumen_profesional": "Posee más de 22 años de experiencia en integración de datos y construcción de procesos ETL en entornos on-premise y cloud.\nEspecializado en el diseño y mantenimiento de pipelines ETL, modelado multidimensional y documentación técnica detallada.\nResponsable de liderar equipos técnicos, coordinar entregas y asegurar la calidad y trazabilidad de los datos mediante runbooks y validaciones.\nOrientado a consolidar soluciones que soporten la explotación analítica y la transferencia de conocimiento entre equipos.\n\nConocimiento en herramientas como Informatica PowerCenter, IBM InfoSphere DataStage, Oracle PL/SQL y Oracle Data Integrator.\nDocumentación y catalogación de artefactos en AWS Glue, Glue Data Catalog y Amazon Athena, y traducción de consultas entre motores SQL.\nUso de Python y librerías como Pandas para perfilamiento, limpieza y matching de datos, además de scripts de automatización en Linux.\nExperiencia en despliegue y operación de jobs ETL en ambientes UAT y productivo, con monitoreo y gestión de incidentes.",
-    "experiencia_laboral": [
-      {
-        "empresa": "Softtek - FashionPhile",
-        "puesto": "Data Management Engineer Senior",
-        "fecha_inicio": "febrero 2025",
-        "fecha_fin": "noviembre 2025",
-        "actividades_principales": [
-          "Documentar artefactos desarrollados en AWS Glue y registrar metadatos en Glue Data Catalog y Amazon Athena",
-          "Revisar y mejorar el modelo de datos multidimensional en Amazon RedShift"
-        ]
-      },
-      {
-        "empresa": "Softtek - Citi Banamex",
-        "puesto": "Data Management Engineer OnPrem ETL Sr",
-        "fecha_inicio": "octubre 2024",
-        "fecha_fin": "enero 2025",
-        "actividades_principales": [
-          "Realizar deploy y configuración de jobs de limpieza de datos de Informatica Cloud Data Quality en servidores Linux",
-          "Atender incidentes de nivel 1 y revisar logs de Informática Cloud Data Quality para análisis de errores."
-        ]
-      },
-      {
-        "empresa": "Softtek - Nacional Monte De Piedad",
-        "puesto": "Data Management Engineer - Expert",
-        "fecha_inicio": "noviembre 2022",
-        "fecha_fin": "marzo 2023",
-        "actividades_principales": [
-          "Diseñar y construir mapas ETL en Informatica PowerCenter para agregar nuevos indicadores y dimensiones.",
-          "Elaborar documentación técnica, planes de instalación, requerimientos de prueba y pruebas unitarias."
-        ]
-      },
-      {
-        "empresa": "Softtek - Coppel",
-        "puesto": "Data Management Engineer - Senior",
-        "fecha_inicio": "septiembre 2022",
-        "fecha_fin": "octubre 2022",
-        "actividades_principales": [
-          "Construir interfaces ETL en IBM InfoSphere DataStage y generar scripts SQL para validación"
-        ]
-      },
-      {
-        "empresa": "Softtek - MetLife MÉXICO",
-        "puesto": "Data Management Engineer - Expert",
-        "fecha_inicio": "noviembre 2021",
-        "fecha_fin": "agosto 2022",
-        "actividades_principales": [
-          "Diseñar y construir interfaces ETL en Informática PowerCenter para procesos del proyecto regulatorio LDTI.",
-          "Empaquetar componentes ETL y gestionar Change Requests en ServiceNow para liberaciones en UAT y producción."
-        ]
-      },
-      {
-        "empresa": "Softtek - IMSS",
-        "puesto": "Data Management Engineer - Senior",
-        "fecha_inicio": "septiembre 2020",
-        "fecha_fin": "febrero 2021",
-        "actividades_principales": [
-          "Desarrollar el módulo de pareo (matching) en Python para identificar registros únicos y similares.",
-          "Aplicar pruebas unitarias y de volumen al módulo de matching para validar desempeño y precisión."
-        ]
-      },
-      {
-        "empresa": "Softtek",
-        "puesto": "Data Management Engineer - Senior",
-        "fecha_inicio": "mayo 2020",
-        "fecha_fin": "agosto 2020",
-        "actividades_principales": [
-          "Desarrollar módulos de perfilamiento, limpieza y estandarización de datos en Python usando Pandas"
-        ]
-      },
-      {
-        "empresa": "Softtek - Banobras",
-        "puesto": "Data Management Engineer - Senior",
-        "fecha_inicio": "agosto 2020",
-        "fecha_fin": "abril 2021",
-        "actividades_principales": [
-          "Construir procesos ETL en Oracle Data Integrator para integración operativa y conciliaciones de mercados.",
-          "Generar cuadros comparativos para conciliaciones y documentar procesos ETL y paquetes de ejecución."
-        ]
-      },
-      {
-        "empresa": "Softtek - Seguros Banorte",
-        "puesto": "Data Management Engineer - Expert",
-        "fecha_inicio": "junio 2019",
-        "fecha_fin": "agosto 2019",
-        "actividades_principales": [
-          "Diseñar y construir procesos ETL en Informatica PowerCenter para la migración de información hacia Acsel/x.",
-          "Elaborar documentación técnica de las interfaces ETL relacionadas con recibos, pólizas y movimientos."
-        ]
-      },
-      {
-        "empresa": "Softtek - MetLife Argentina",
-        "puesto": "Data Management Engineer - Expert",
-        "fecha_inicio": "noviembre 2018",
-        "fecha_fin": "mayo 2019",
-        "actividades_principales": [
-          "Soportar y mantener interfaces ETL en Informatica PowerCenter para generación de archivos hacia Big Data.",
-          "Elaborar documentación técnica y ejecutar pruebas unitarias de las interfaces mantenidas."
-        ]
-      }
-    ],
-    "ajuste_puesto_liderazgo": {
-      "empresa": "",
-      "puesto": "",
-      "fecha_inicio": "",
-      "fecha_fin": "",
-      "actividades_principales": []
+    {
+      "nombre": "Cloud_Data_Integration_PC"
     },
-    "periodo_resumen_laboral": "La experiencia abarca desde noviembre de 1997 hasta octubre de 2018",
-    "resumen_laboral": "Durante este período se desempeñaron funciones como Software Engineer, Technical Leader y Data Management Engineer en proyectos de integración, migración y calidad de datos. Las responsabilidades incluyeron diseño y mantenimiento de procesos ETL, generación de documentación técnica, capacitación y transferencia de conocimiento, así como soporte a producción y coordinación técnica de equipos de trabajo.",
-    "estudios": {
-      "carrera": "Licenciatura en INFORMÁTICA Administrativa",
-      "lugar": "Universidad Tecnológica de México",
-      "periodo": "enero 1994 - diciembre 1998"
+    {
+      "nombre": "Data Engineer on AWS - Batch"
     },
-    "certificaciones_y_cursos": [
-      {
-        "nombre": "Cloud Particioner Essentials",
-        "anio": ""
-      },
-      {
-        "nombre": "Cloud_Data_Integration_PC",
-        "anio": ""
-      },
-      {
-        "nombre": "Data Engineer on AWS - Batch",
-        "anio": ""
-      },
-      {
-        "nombre": "Data Engineer on AWS - Data warehouse",
-        "anio": ""
-      },
-      {
-        "nombre": "Data Engineer on AWS - Foundations",
-        "anio": ""
-      },
-      {
-        "nombre": "Data Engineer on AWS - Streaming",
-        "anio": ""
-      },
-      {
-        "nombre": "Databricks Fundamentals Analyzing Data with Python",
-        "anio": "2020"
-      },
-      {
-        "nombre": "Fundamentos de Python",
-        "anio": "2024"
-      }
-    ]
-  }
-]
+    {
+      "nombre": "Data Engineer on AWS - Data warehouse"
+    },
+    {
+      "nombre": "Data Engineer on AWS - Foundations"
+    },
+    {
+      "nombre": "Data Engineer on AWS - Streaming"
+    },
+    {
+      "nombre": "Databricks Fundamentals"
+    }
+  ]
+}

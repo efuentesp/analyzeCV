@@ -1,0 +1,1471 @@
+Horus Ramses García San Miguel
+Teléfonos de contacto: 55 47 82 07 55
+E-mail: horus.1987z@gmail.com
+Fecha de Nacimiento: 26/09/1987
+Delegación o Municipio: Cuauhtémoc
+Resumen
+Especialista en aseguramiento de calidad con más de 10 años de experiencia en sectores altamente regulados como banca y gobierno, responsable de alcanzar y garantizar que los productos, el rendimiento, los sistemas y los procesos se apliquen a los estándares y requisitos establecidos. Experto en liderar estrategias QA alineadas a normativas, compliance y objetivos organizacionales. Con enfoque en eficiencia operativa, mitigación de riesgos y cumplimiento de estándares de calidad en ambientes complejos, usando metodologías y herramientas que permitan alcanzar los requerimientos del negocio.
+
+Certificaciones:
+• TMMi Foundation, • ISTQB Foundation, • ISTQB Advanced – Test Manager, • Scrum Fundamentals Certified
+
+Colaboración con clientes:
+• Aleatica
+• Citibanamex
+• Infonavit
+• AT&T México
+• IMSS
+
+Responsabilidades desempeñadas:
+• Gestión de equipos multidisciplinarios bajo metodologías ágiles y tradicionales (Waterfall)
+• Supervisión de pruebas funcionales, no funcionales, de regresión, smoke y sanity en proyectos críticos
+• Administración de entornos de pruebas y coordinación de ciclos de testing
+• Diseño e implementación de estrategias de pruebas
+• Definición, seguimiento y mejora de KPIs de calidad y métricas operativas
+• Evaluación continua de procesos de QA bajo el marco TMMi para incrementar la madurez organizacional
+• Coordinación de actividades de pruebas de aceptación del usuario (UAT) con áreas funcionales y clientes
+• Elaboración de planes de pruebas, cronogramas y matrices de trazabilidad de requerimientos
+• Aseguramiento del cumplimiento normativo y de estándares de calidad en ambientes regulados
+• Soporte a auditorías relacionadas con calidad, procesos y entregables
+• Colaboración con áreas de desarrollo, arquitectura y seguridad para garantizar entregables sin defectos críticos
+• Facilitación de retrospectivas QA y sesiones de mejora continua para aumentar eficiencia del equipo
+• Gestión de proveedores de servicios de testing y aseguramiento de calidad
+EXPERIENCIA PROFESIONAL:
+Nombre de empresa:
+Softtek - IMSS | País:
+México | País:
+México | Puesto:
+Analista Tester/Aseguramiento de Calidad | Fecha: De
+Agosto 2025 | A:
+Enero 2026
+Actividades: 	
+
+         Análisis de Requisitos
+Reunir y entender los requerimientos funcionales y no funcionales del sistema.
+Participar en reuniones con stakeholders para aclarar dudas y validar especificaciones.
+Elaborar documentos como casos de uso, historias de usuario o especificaciones funcionales.
+Identificar criterios de aceptación y condiciones de prueba.
+
+         Diseño de Pruebas
+Diseñar casos de prueba detallados (test cases) con pasos, datos de entrada, resultados esperados y prerequisitos.
+Definir matrices de trazabilidad entre requerimientos y pruebas.
+Estimar el esfuerzo de pruebas y planificar actividades de testing.
+Preparar ambientes de prueba y datos de prueba.
+
+        Ejecución de Pruebas
+Ejecutar pruebas funcionales, de regresión, de integración, de sistema y de aceptación.
+Registrar resultados de pruebas y documentar defectos encontrados.
+Validar correcciones y realizar pruebas de revalidación. | Actividades: 	
+
+         Análisis de Requisitos
+Reunir y entender los requerimientos funcionales y no funcionales del sistema.
+Participar en reuniones con stakeholders para aclarar dudas y validar especificaciones.
+Elaborar documentos como casos de uso, historias de usuario o especificaciones funcionales.
+Identificar criterios de aceptación y condiciones de prueba.
+
+         Diseño de Pruebas
+Diseñar casos de prueba detallados (test cases) con pasos, datos de entrada, resultados esperados y prerequisitos.
+Definir matrices de trazabilidad entre requerimientos y pruebas.
+Estimar el esfuerzo de pruebas y planificar actividades de testing.
+Preparar ambientes de prueba y datos de prueba.
+
+        Ejecución de Pruebas
+Ejecutar pruebas funcionales, de regresión, de integración, de sistema y de aceptación.
+Registrar resultados de pruebas y documentar defectos encontrados.
+Validar correcciones y realizar pruebas de revalidación. | Actividades: 	
+
+         Análisis de Requisitos
+Reunir y entender los requerimientos funcionales y no funcionales del sistema.
+Participar en reuniones con stakeholders para aclarar dudas y validar especificaciones.
+Elaborar documentos como casos de uso, historias de usuario o especificaciones funcionales.
+Identificar criterios de aceptación y condiciones de prueba.
+
+         Diseño de Pruebas
+Diseñar casos de prueba detallados (test cases) con pasos, datos de entrada, resultados esperados y prerequisitos.
+Definir matrices de trazabilidad entre requerimientos y pruebas.
+Estimar el esfuerzo de pruebas y planificar actividades de testing.
+Preparar ambientes de prueba y datos de prueba.
+
+        Ejecución de Pruebas
+Ejecutar pruebas funcionales, de regresión, de integración, de sistema y de aceptación.
+Registrar resultados de pruebas y documentar defectos encontrados.
+Validar correcciones y realizar pruebas de revalidación. | Actividades: 	
+
+         Análisis de Requisitos
+Reunir y entender los requerimientos funcionales y no funcionales del sistema.
+Participar en reuniones con stakeholders para aclarar dudas y validar especificaciones.
+Elaborar documentos como casos de uso, historias de usuario o especificaciones funcionales.
+Identificar criterios de aceptación y condiciones de prueba.
+
+         Diseño de Pruebas
+Diseñar casos de prueba detallados (test cases) con pasos, datos de entrada, resultados esperados y prerequisitos.
+Definir matrices de trazabilidad entre requerimientos y pruebas.
+Estimar el esfuerzo de pruebas y planificar actividades de testing.
+Preparar ambientes de prueba y datos de prueba.
+
+        Ejecución de Pruebas
+Ejecutar pruebas funcionales, de regresión, de integración, de sistema y de aceptación.
+Registrar resultados de pruebas y documentar defectos encontrados.
+Validar correcciones y realizar pruebas de revalidación. | Actividades: 	
+
+         Análisis de Requisitos
+Reunir y entender los requerimientos funcionales y no funcionales del sistema.
+Participar en reuniones con stakeholders para aclarar dudas y validar especificaciones.
+Elaborar documentos como casos de uso, historias de usuario o especificaciones funcionales.
+Identificar criterios de aceptación y condiciones de prueba.
+
+         Diseño de Pruebas
+Diseñar casos de prueba detallados (test cases) con pasos, datos de entrada, resultados esperados y prerequisitos.
+Definir matrices de trazabilidad entre requerimientos y pruebas.
+Estimar el esfuerzo de pruebas y planificar actividades de testing.
+Preparar ambientes de prueba y datos de prueba.
+
+        Ejecución de Pruebas
+Ejecutar pruebas funcionales, de regresión, de integración, de sistema y de aceptación.
+Registrar resultados de pruebas y documentar defectos encontrados.
+Validar correcciones y realizar pruebas de revalidación. | Actividades: 	
+
+         Análisis de Requisitos
+Reunir y entender los requerimientos funcionales y no funcionales del sistema.
+Participar en reuniones con stakeholders para aclarar dudas y validar especificaciones.
+Elaborar documentos como casos de uso, historias de usuario o especificaciones funcionales.
+Identificar criterios de aceptación y condiciones de prueba.
+
+         Diseño de Pruebas
+Diseñar casos de prueba detallados (test cases) con pasos, datos de entrada, resultados esperados y prerequisitos.
+Definir matrices de trazabilidad entre requerimientos y pruebas.
+Estimar el esfuerzo de pruebas y planificar actividades de testing.
+Preparar ambientes de prueba y datos de prueba.
+
+        Ejecución de Pruebas
+Ejecutar pruebas funcionales, de regresión, de integración, de sistema y de aceptación.
+Registrar resultados de pruebas y documentar defectos encontrados.
+Validar correcciones y realizar pruebas de revalidación.
+Herramientas: | Herramientas: | Bizagi Modeler
+Draw.oi
+Configure JAVA 
+Microsoft Office | Bizagi Modeler
+Draw.oi
+Configure JAVA 
+Microsoft Office | Bizagi Modeler
+Draw.oi
+Configure JAVA 
+Microsoft Office | Bizagi Modeler
+Draw.oi
+Configure JAVA 
+Microsoft Office
+Nombre de empresa:
+Softtek | País:
+México | País:
+México | Puesto:
+Funcional Tester/Aseguramiento de Calidad - ALIATICA | Fecha: De
+Mayo 2025 | A:
+Junio 2025
+Actividades: 	
+Participación en proyecto de SAP GUI S/4 HANA, ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos siguientes:
+
+* Cuentas por cobrar
+* Finanzas 
+* Cuentas de mayor
+
+Generación de documentación para evidencia de pruebas
+Generación de prompt para plantilla de evidenacias. | Actividades: 	
+Participación en proyecto de SAP GUI S/4 HANA, ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos siguientes:
+
+* Cuentas por cobrar
+* Finanzas 
+* Cuentas de mayor
+
+Generación de documentación para evidencia de pruebas
+Generación de prompt para plantilla de evidenacias. | Actividades: 	
+Participación en proyecto de SAP GUI S/4 HANA, ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos siguientes:
+
+* Cuentas por cobrar
+* Finanzas 
+* Cuentas de mayor
+
+Generación de documentación para evidencia de pruebas
+Generación de prompt para plantilla de evidenacias. | Actividades: 	
+Participación en proyecto de SAP GUI S/4 HANA, ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos siguientes:
+
+* Cuentas por cobrar
+* Finanzas 
+* Cuentas de mayor
+
+Generación de documentación para evidencia de pruebas
+Generación de prompt para plantilla de evidenacias. | Actividades: 	
+Participación en proyecto de SAP GUI S/4 HANA, ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos siguientes:
+
+* Cuentas por cobrar
+* Finanzas 
+* Cuentas de mayor
+
+Generación de documentación para evidencia de pruebas
+Generación de prompt para plantilla de evidenacias. | Actividades: 	
+Participación en proyecto de SAP GUI S/4 HANA, ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos siguientes:
+
+* Cuentas por cobrar
+* Finanzas 
+* Cuentas de mayor
+
+Generación de documentación para evidencia de pruebas
+Generación de prompt para plantilla de evidenacias.
+Herramientas: | Herramientas: | SAP GUI S/4 HANA
+Copilot
+Word | SAP GUI S/4 HANA
+Copilot
+Word | SAP GUI S/4 HANA
+Copilot
+Word | SAP GUI S/4 HANA
+Copilot
+Word
+Nombre de empresa:
+Softtek | País:
+México | País:
+México | Puesto:
+QA Manager / Líder de Proyecto del Servicio de Aseguramiento de la Calidad de los Aplicativos – Citibanamex | Fecha: De
+Mayo 2022 | A:
+Mayo 2025
+Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de Requerimientos y UH: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Elaboración del Test Exit Report.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas mobile IOS y Android.
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Solicitud de engagement para ambientes y datos
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes.
+Adminstración de defectos
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador. | Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de Requerimientos y UH: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Elaboración del Test Exit Report.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas mobile IOS y Android.
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Solicitud de engagement para ambientes y datos
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes.
+Adminstración de defectos
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador. | Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de Requerimientos y UH: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Elaboración del Test Exit Report.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas mobile IOS y Android.
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Solicitud de engagement para ambientes y datos
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes.
+Adminstración de defectos
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador. | Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de Requerimientos y UH: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Elaboración del Test Exit Report.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas mobile IOS y Android.
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Solicitud de engagement para ambientes y datos
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes.
+Adminstración de defectos
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador. | Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de Requerimientos y UH: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Elaboración del Test Exit Report.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas mobile IOS y Android.
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Solicitud de engagement para ambientes y datos
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes.
+Adminstración de defectos
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador. | Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de Requerimientos y UH: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Elaboración del Test Exit Report.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas mobile IOS y Android.
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Solicitud de engagement para ambientes y datos
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes.
+Adminstración de defectos
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador.
+Herramientas: | Herramientas: | JIRA
+Eclipse
+TFS
+ALM
+ALM Complementos para excel
+SQL developer
+Beyond Compare
+PlanView
+Paquetería de Microsoft office
+Service Now
+Architecture Center
+Confluence
+TMUE | JIRA
+Eclipse
+TFS
+ALM
+ALM Complementos para excel
+SQL developer
+Beyond Compare
+PlanView
+Paquetería de Microsoft office
+Service Now
+Architecture Center
+Confluence
+TMUE | JIRA
+Eclipse
+TFS
+ALM
+ALM Complementos para excel
+SQL developer
+Beyond Compare
+PlanView
+Paquetería de Microsoft office
+Service Now
+Architecture Center
+Confluence
+TMUE | JIRA
+Eclipse
+TFS
+ALM
+ALM Complementos para excel
+SQL developer
+Beyond Compare
+PlanView
+Paquetería de Microsoft office
+Service Now
+Architecture Center
+Confluence
+TMUE
+Nombre de empresa
+Softtek | Nombre de empresa
+Softtek | País
+México | Puesto
+Líder de Proyecto del Servicio de Aseguramiento de la Calidad de los Aplicativos – INFONAVIT | Fecha: De
+Octubre 2020 | A:
+Abril 2022
+Actividades: 
+
+Gestionar y administrar al equipo de pruebas para alcanzar y garantizar que los productos, los sistemas y los requerimientos del cliente sean cumplidos de manera satisfactoria y con base a las métricas establecidas. 
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Análisis de Casos de Uso, Documentos de Entendimiento, y diagramas de flujo para el diseño y ejecución de matrices funcionales.
+Generación de entregables tales como, bitácora de actividades, Base de conocimiento, matrices de prueba, documento de evidencia de pruebas, Testware Funcional, Matriz de Trazabilidad, Documento de Estrategia y plan de mejora, Lecciones aprendidas, presentación de Métricas y seguimiento del servicio, Presentación de estatus de Ejecución, reporte de estatus y ejecución por proyecto y reporte de defectos por proyecto.
+Ejecución de pruebas Funcionales, pruebas no funcionales, pruebas de regresión, pruebas SIT, UAT y pruebas y pruebas de Humo. | Actividades: 
+
+Gestionar y administrar al equipo de pruebas para alcanzar y garantizar que los productos, los sistemas y los requerimientos del cliente sean cumplidos de manera satisfactoria y con base a las métricas establecidas. 
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Análisis de Casos de Uso, Documentos de Entendimiento, y diagramas de flujo para el diseño y ejecución de matrices funcionales.
+Generación de entregables tales como, bitácora de actividades, Base de conocimiento, matrices de prueba, documento de evidencia de pruebas, Testware Funcional, Matriz de Trazabilidad, Documento de Estrategia y plan de mejora, Lecciones aprendidas, presentación de Métricas y seguimiento del servicio, Presentación de estatus de Ejecución, reporte de estatus y ejecución por proyecto y reporte de defectos por proyecto.
+Ejecución de pruebas Funcionales, pruebas no funcionales, pruebas de regresión, pruebas SIT, UAT y pruebas y pruebas de Humo. | Actividades: 
+
+Gestionar y administrar al equipo de pruebas para alcanzar y garantizar que los productos, los sistemas y los requerimientos del cliente sean cumplidos de manera satisfactoria y con base a las métricas establecidas. 
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Análisis de Casos de Uso, Documentos de Entendimiento, y diagramas de flujo para el diseño y ejecución de matrices funcionales.
+Generación de entregables tales como, bitácora de actividades, Base de conocimiento, matrices de prueba, documento de evidencia de pruebas, Testware Funcional, Matriz de Trazabilidad, Documento de Estrategia y plan de mejora, Lecciones aprendidas, presentación de Métricas y seguimiento del servicio, Presentación de estatus de Ejecución, reporte de estatus y ejecución por proyecto y reporte de defectos por proyecto.
+Ejecución de pruebas Funcionales, pruebas no funcionales, pruebas de regresión, pruebas SIT, UAT y pruebas y pruebas de Humo. | Actividades: 
+
+Gestionar y administrar al equipo de pruebas para alcanzar y garantizar que los productos, los sistemas y los requerimientos del cliente sean cumplidos de manera satisfactoria y con base a las métricas establecidas. 
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Análisis de Casos de Uso, Documentos de Entendimiento, y diagramas de flujo para el diseño y ejecución de matrices funcionales.
+Generación de entregables tales como, bitácora de actividades, Base de conocimiento, matrices de prueba, documento de evidencia de pruebas, Testware Funcional, Matriz de Trazabilidad, Documento de Estrategia y plan de mejora, Lecciones aprendidas, presentación de Métricas y seguimiento del servicio, Presentación de estatus de Ejecución, reporte de estatus y ejecución por proyecto y reporte de defectos por proyecto.
+Ejecución de pruebas Funcionales, pruebas no funcionales, pruebas de regresión, pruebas SIT, UAT y pruebas y pruebas de Humo. | Actividades: 
+
+Gestionar y administrar al equipo de pruebas para alcanzar y garantizar que los productos, los sistemas y los requerimientos del cliente sean cumplidos de manera satisfactoria y con base a las métricas establecidas. 
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Análisis de Casos de Uso, Documentos de Entendimiento, y diagramas de flujo para el diseño y ejecución de matrices funcionales.
+Generación de entregables tales como, bitácora de actividades, Base de conocimiento, matrices de prueba, documento de evidencia de pruebas, Testware Funcional, Matriz de Trazabilidad, Documento de Estrategia y plan de mejora, Lecciones aprendidas, presentación de Métricas y seguimiento del servicio, Presentación de estatus de Ejecución, reporte de estatus y ejecución por proyecto y reporte de defectos por proyecto.
+Ejecución de pruebas Funcionales, pruebas no funcionales, pruebas de regresión, pruebas SIT, UAT y pruebas y pruebas de Humo. | Actividades: 
+
+Gestionar y administrar al equipo de pruebas para alcanzar y garantizar que los productos, los sistemas y los requerimientos del cliente sean cumplidos de manera satisfactoria y con base a las métricas establecidas. 
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Análisis de Casos de Uso, Documentos de Entendimiento, y diagramas de flujo para el diseño y ejecución de matrices funcionales.
+Generación de entregables tales como, bitácora de actividades, Base de conocimiento, matrices de prueba, documento de evidencia de pruebas, Testware Funcional, Matriz de Trazabilidad, Documento de Estrategia y plan de mejora, Lecciones aprendidas, presentación de Métricas y seguimiento del servicio, Presentación de estatus de Ejecución, reporte de estatus y ejecución por proyecto y reporte de defectos por proyecto.
+Ejecución de pruebas Funcionales, pruebas no funcionales, pruebas de regresión, pruebas SIT, UAT y pruebas y pruebas de Humo.
+Herramientas: | Paquetería de Microsoft office
+SQL Server
+Xmind
+FSCapture
+Yed
+Beyond compare
+Notepad++ | Paquetería de Microsoft office
+SQL Server
+Xmind
+FSCapture
+Yed
+Beyond compare
+Notepad++ | Paquetería de Microsoft office
+SQL Server
+Xmind
+FSCapture
+Yed
+Beyond compare
+Notepad++ | Paquetería de Microsoft office
+SQL Server
+Xmind
+FSCapture
+Yed
+Beyond compare
+Notepad++ | Paquetería de Microsoft office
+SQL Server
+Xmind
+FSCapture
+Yed
+Beyond compare
+Notepad++
+Nombre de empresa:
+Softtek | País:
+México | País:
+México | Puesto:
+Líder de Proyecto del Servicio de Aseguramiento de la Calidad de los Aplicativos – Citibanamex | Fecha: De
+Mayo 2019 | A:
+Octubre 2020
+Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de FRD y BRD: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Pruebas de RollBack 
+Solicitud de ambientación y datos.
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes productivos.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador. | Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de FRD y BRD: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Pruebas de RollBack 
+Solicitud de ambientación y datos.
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes productivos.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador. | Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de FRD y BRD: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Pruebas de RollBack 
+Solicitud de ambientación y datos.
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes productivos.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador. | Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de FRD y BRD: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Pruebas de RollBack 
+Solicitud de ambientación y datos.
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes productivos.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador. | Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de FRD y BRD: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Pruebas de RollBack 
+Solicitud de ambientación y datos.
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes productivos.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador. | Actividades: 	
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción, administración de los proyectos y gestión de pruebas.
+Uso de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y revisión de FRD y BRD: Documentación que se utiliza para el análisis y diseño de casos de prueba.
+Elaboración de Plan de plan de pruebas, identificando el cálculo de esfuerzo, recursos requeridos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente. Creación y seguimiento de proyectos (Ciclo de Vida del Proyecto en ALM).
+Elaboración de Matriz de pruebas.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Ejecución de Pruebas:
+SIT
+UAT
+Pruebas de Aceptación (Establecidas por el cliente) 
+Pruebas Negativas
+Pruebas de Regresión
+Pruebas de Código
+Pruebas de configuración 
+Pruebas de estándares de desarrollo 
+Pruebas Unitarias 
+Pruebas de RollBack 
+Solicitud de ambientación y datos.
+Revisión de riesgos identificados con el equipo de trabajo y juntas con el Cliente para plantear acciones o cambios de estrategia.
+Creación de Informes de métricas y tableros de indicadores sobre el estado actual de los proyectos.
+Gestión de reuniones para seguimiento y control de los proyectos para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Seguimiento a incidentes productivos.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador.
+Herramientas: | Herramientas: | JIRA
+Eclipse
+TFS
+ALM
+SQL Server 2014
+Beyond Compare
+PlanView
+Paquetería de Microsoft office | JIRA
+Eclipse
+TFS
+ALM
+SQL Server 2014
+Beyond Compare
+PlanView
+Paquetería de Microsoft office | JIRA
+Eclipse
+TFS
+ALM
+SQL Server 2014
+Beyond Compare
+PlanView
+Paquetería de Microsoft office | JIRA
+Eclipse
+TFS
+ALM
+SQL Server 2014
+Beyond Compare
+PlanView
+Paquetería de Microsoft office
+Nombre de empresa:
+Softtek | País:
+México | País:
+México | Puesto:
+QA Manager del Servicio de Aseguramiento de la Calidad de los Aplicativos – AT&T | Fecha: De
+Junio 2018 | A:
+Abril 2019
+Actividades:
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción y administración de los proyectos enviados por el cliente. 
+Gestión del proceso de pruebas establecido con el cliente.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Propuesta e implementación de mejoras en el proceso de pruebas.
+Elaboración de Plan de plan de pruebas, identificando esfuerzos, recursos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Revisión y seguimiento de proyectos (Ciclo de Vida del Proyecto en CLM).
+Seguimiento y atención a las auditorias interna del proyecto a través de PPM.
+Análisis y verificación con el equipo de trabajo de los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Aseguramiento de la calidad Revisión de artefactos:
+Estimaciones
+Reporte de Pruebas Estáticas de Requerimientos
+Estimación por Puntos de Casos de Prueba (TCP)
+Registro y Análisis de Riesgos
+Reporte de Ambigüedades
+Plan de pruebas (CLM)
+Análisis de datos CLM para informes gerenciales.
+Creación y comunicación de Informes diarios sobre el estado actual de los proyectos:
+Planeación 
+Análisis   
+Diseño
+Ejecución
+Finalización
+Revisión y seguimiento a estatus diarios de pruebas y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador.
+Elaboración de plan de comunicación y escalamientos con el cliente.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva | Actividades:
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción y administración de los proyectos enviados por el cliente. 
+Gestión del proceso de pruebas establecido con el cliente.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Propuesta e implementación de mejoras en el proceso de pruebas.
+Elaboración de Plan de plan de pruebas, identificando esfuerzos, recursos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Revisión y seguimiento de proyectos (Ciclo de Vida del Proyecto en CLM).
+Seguimiento y atención a las auditorias interna del proyecto a través de PPM.
+Análisis y verificación con el equipo de trabajo de los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Aseguramiento de la calidad Revisión de artefactos:
+Estimaciones
+Reporte de Pruebas Estáticas de Requerimientos
+Estimación por Puntos de Casos de Prueba (TCP)
+Registro y Análisis de Riesgos
+Reporte de Ambigüedades
+Plan de pruebas (CLM)
+Análisis de datos CLM para informes gerenciales.
+Creación y comunicación de Informes diarios sobre el estado actual de los proyectos:
+Planeación 
+Análisis   
+Diseño
+Ejecución
+Finalización
+Revisión y seguimiento a estatus diarios de pruebas y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador.
+Elaboración de plan de comunicación y escalamientos con el cliente.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva | Actividades:
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción y administración de los proyectos enviados por el cliente. 
+Gestión del proceso de pruebas establecido con el cliente.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Propuesta e implementación de mejoras en el proceso de pruebas.
+Elaboración de Plan de plan de pruebas, identificando esfuerzos, recursos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Revisión y seguimiento de proyectos (Ciclo de Vida del Proyecto en CLM).
+Seguimiento y atención a las auditorias interna del proyecto a través de PPM.
+Análisis y verificación con el equipo de trabajo de los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Aseguramiento de la calidad Revisión de artefactos:
+Estimaciones
+Reporte de Pruebas Estáticas de Requerimientos
+Estimación por Puntos de Casos de Prueba (TCP)
+Registro y Análisis de Riesgos
+Reporte de Ambigüedades
+Plan de pruebas (CLM)
+Análisis de datos CLM para informes gerenciales.
+Creación y comunicación de Informes diarios sobre el estado actual de los proyectos:
+Planeación 
+Análisis   
+Diseño
+Ejecución
+Finalización
+Revisión y seguimiento a estatus diarios de pruebas y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador.
+Elaboración de plan de comunicación y escalamientos con el cliente.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva | Actividades:
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción y administración de los proyectos enviados por el cliente. 
+Gestión del proceso de pruebas establecido con el cliente.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Propuesta e implementación de mejoras en el proceso de pruebas.
+Elaboración de Plan de plan de pruebas, identificando esfuerzos, recursos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Revisión y seguimiento de proyectos (Ciclo de Vida del Proyecto en CLM).
+Seguimiento y atención a las auditorias interna del proyecto a través de PPM.
+Análisis y verificación con el equipo de trabajo de los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Aseguramiento de la calidad Revisión de artefactos:
+Estimaciones
+Reporte de Pruebas Estáticas de Requerimientos
+Estimación por Puntos de Casos de Prueba (TCP)
+Registro y Análisis de Riesgos
+Reporte de Ambigüedades
+Plan de pruebas (CLM)
+Análisis de datos CLM para informes gerenciales.
+Creación y comunicación de Informes diarios sobre el estado actual de los proyectos:
+Planeación 
+Análisis   
+Diseño
+Ejecución
+Finalización
+Revisión y seguimiento a estatus diarios de pruebas y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador.
+Elaboración de plan de comunicación y escalamientos con el cliente.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva | Actividades:
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción y administración de los proyectos enviados por el cliente. 
+Gestión del proceso de pruebas establecido con el cliente.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Propuesta e implementación de mejoras en el proceso de pruebas.
+Elaboración de Plan de plan de pruebas, identificando esfuerzos, recursos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Revisión y seguimiento de proyectos (Ciclo de Vida del Proyecto en CLM).
+Seguimiento y atención a las auditorias interna del proyecto a través de PPM.
+Análisis y verificación con el equipo de trabajo de los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Aseguramiento de la calidad Revisión de artefactos:
+Estimaciones
+Reporte de Pruebas Estáticas de Requerimientos
+Estimación por Puntos de Casos de Prueba (TCP)
+Registro y Análisis de Riesgos
+Reporte de Ambigüedades
+Plan de pruebas (CLM)
+Análisis de datos CLM para informes gerenciales.
+Creación y comunicación de Informes diarios sobre el estado actual de los proyectos:
+Planeación 
+Análisis   
+Diseño
+Ejecución
+Finalización
+Revisión y seguimiento a estatus diarios de pruebas y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador.
+Elaboración de plan de comunicación y escalamientos con el cliente.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva | Actividades:
+Líder de pruebas para la administración y manejo del equipo de pruebas interno y del cliente.
+Recepción y administración de los proyectos enviados por el cliente. 
+Gestión del proceso de pruebas establecido con el cliente.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Propuesta e implementación de mejoras en el proceso de pruebas.
+Elaboración de Plan de plan de pruebas, identificando esfuerzos, recursos y métricas, para utilizarlo como herramienta de seguimiento y estatus del proyecto en las revisiones continúas con el Cliente.
+Revisión y seguimiento de proyectos (Ciclo de Vida del Proyecto en CLM).
+Seguimiento y atención a las auditorias interna del proyecto a través de PPM.
+Análisis y verificación con el equipo de trabajo de los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y regresión en diferentes ambientes
+Aseguramiento de la calidad Revisión de artefactos:
+Estimaciones
+Reporte de Pruebas Estáticas de Requerimientos
+Estimación por Puntos de Casos de Prueba (TCP)
+Registro y Análisis de Riesgos
+Reporte de Ambigüedades
+Plan de pruebas (CLM)
+Análisis de datos CLM para informes gerenciales.
+Creación y comunicación de Informes diarios sobre el estado actual de los proyectos:
+Planeación 
+Análisis   
+Diseño
+Ejecución
+Finalización
+Revisión y seguimiento a estatus diarios de pruebas y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador.
+Elaboración de plan de comunicación y escalamientos con el cliente.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva
+Herramientas: | Herramientas: | CLM Collaborative Lifecycle Management – IBM
+Paquetería de Microsoft office | CLM Collaborative Lifecycle Management – IBM
+Paquetería de Microsoft office | CLM Collaborative Lifecycle Management – IBM
+Paquetería de Microsoft office | CLM Collaborative Lifecycle Management – IBM
+Paquetería de Microsoft office
+Nombre de empresa:
+Softtek | País:
+México | País:
+México | Puesto:
+Líder de Proyecto del Servicio de Aseguramiento de la Calidad de los Aplicativos – IMSS | Fecha: De
+Febrero 2016 | A:
+Mayo 2018
+Actividades: 
+Líder de pruebas para la administración y coordinación del equipo de pruebas.
+Responsable de la gestión de pruebas.
+Diseño y administración de plan de pruebas a través sesiones de trabajo con el cliente para estimar las métricas y los recursos a asignar de tiempo, costo y colaboradores por cada aplicativo y fase de trabajo.
+Administración y ejecución de pruebas funcionales y no funcionales, regresión y automatizadas sobre los aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Revisión, análisis y administración de riesgos e incidentes identificados de los aplicativos.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Análisis y verificación con el equipo de calidad y del Cliente sobre los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas automatizadas en diferentes ambientes.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Producción y responsable de los artefactos generados bajo la metodología del MAAGTIC_SI
+Revisión de requerimientos
+Revisión de Casos de Uso 
+Elaboración de diagramas de flujo
+Diagramas de Casos de Uso
+Diagrama de Actividades
+Diagrama de contexto
+Especificaciones suplementarias 
+Contrato de aplicaciones 
+Revisión de reglas de negoción
+Elaboración de la matriz de trazabilidad
+Peer review a documentación en PPM
+Revisión del Prototipos de Interfaz Gráfica (PIG)
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva de acuerdo a los resultados, hallazgos y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador | Actividades: 
+Líder de pruebas para la administración y coordinación del equipo de pruebas.
+Responsable de la gestión de pruebas.
+Diseño y administración de plan de pruebas a través sesiones de trabajo con el cliente para estimar las métricas y los recursos a asignar de tiempo, costo y colaboradores por cada aplicativo y fase de trabajo.
+Administración y ejecución de pruebas funcionales y no funcionales, regresión y automatizadas sobre los aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Revisión, análisis y administración de riesgos e incidentes identificados de los aplicativos.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Análisis y verificación con el equipo de calidad y del Cliente sobre los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas automatizadas en diferentes ambientes.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Producción y responsable de los artefactos generados bajo la metodología del MAAGTIC_SI
+Revisión de requerimientos
+Revisión de Casos de Uso 
+Elaboración de diagramas de flujo
+Diagramas de Casos de Uso
+Diagrama de Actividades
+Diagrama de contexto
+Especificaciones suplementarias 
+Contrato de aplicaciones 
+Revisión de reglas de negoción
+Elaboración de la matriz de trazabilidad
+Peer review a documentación en PPM
+Revisión del Prototipos de Interfaz Gráfica (PIG)
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva de acuerdo a los resultados, hallazgos y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador | Actividades: 
+Líder de pruebas para la administración y coordinación del equipo de pruebas.
+Responsable de la gestión de pruebas.
+Diseño y administración de plan de pruebas a través sesiones de trabajo con el cliente para estimar las métricas y los recursos a asignar de tiempo, costo y colaboradores por cada aplicativo y fase de trabajo.
+Administración y ejecución de pruebas funcionales y no funcionales, regresión y automatizadas sobre los aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Revisión, análisis y administración de riesgos e incidentes identificados de los aplicativos.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Análisis y verificación con el equipo de calidad y del Cliente sobre los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas automatizadas en diferentes ambientes.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Producción y responsable de los artefactos generados bajo la metodología del MAAGTIC_SI
+Revisión de requerimientos
+Revisión de Casos de Uso 
+Elaboración de diagramas de flujo
+Diagramas de Casos de Uso
+Diagrama de Actividades
+Diagrama de contexto
+Especificaciones suplementarias 
+Contrato de aplicaciones 
+Revisión de reglas de negoción
+Elaboración de la matriz de trazabilidad
+Peer review a documentación en PPM
+Revisión del Prototipos de Interfaz Gráfica (PIG)
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva de acuerdo a los resultados, hallazgos y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador | Actividades: 
+Líder de pruebas para la administración y coordinación del equipo de pruebas.
+Responsable de la gestión de pruebas.
+Diseño y administración de plan de pruebas a través sesiones de trabajo con el cliente para estimar las métricas y los recursos a asignar de tiempo, costo y colaboradores por cada aplicativo y fase de trabajo.
+Administración y ejecución de pruebas funcionales y no funcionales, regresión y automatizadas sobre los aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Revisión, análisis y administración de riesgos e incidentes identificados de los aplicativos.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Análisis y verificación con el equipo de calidad y del Cliente sobre los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas automatizadas en diferentes ambientes.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Producción y responsable de los artefactos generados bajo la metodología del MAAGTIC_SI
+Revisión de requerimientos
+Revisión de Casos de Uso 
+Elaboración de diagramas de flujo
+Diagramas de Casos de Uso
+Diagrama de Actividades
+Diagrama de contexto
+Especificaciones suplementarias 
+Contrato de aplicaciones 
+Revisión de reglas de negoción
+Elaboración de la matriz de trazabilidad
+Peer review a documentación en PPM
+Revisión del Prototipos de Interfaz Gráfica (PIG)
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva de acuerdo a los resultados, hallazgos y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador | Actividades: 
+Líder de pruebas para la administración y coordinación del equipo de pruebas.
+Responsable de la gestión de pruebas.
+Diseño y administración de plan de pruebas a través sesiones de trabajo con el cliente para estimar las métricas y los recursos a asignar de tiempo, costo y colaboradores por cada aplicativo y fase de trabajo.
+Administración y ejecución de pruebas funcionales y no funcionales, regresión y automatizadas sobre los aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Revisión, análisis y administración de riesgos e incidentes identificados de los aplicativos.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Análisis y verificación con el equipo de calidad y del Cliente sobre los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas automatizadas en diferentes ambientes.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Producción y responsable de los artefactos generados bajo la metodología del MAAGTIC_SI
+Revisión de requerimientos
+Revisión de Casos de Uso 
+Elaboración de diagramas de flujo
+Diagramas de Casos de Uso
+Diagrama de Actividades
+Diagrama de contexto
+Especificaciones suplementarias 
+Contrato de aplicaciones 
+Revisión de reglas de negoción
+Elaboración de la matriz de trazabilidad
+Peer review a documentación en PPM
+Revisión del Prototipos de Interfaz Gráfica (PIG)
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva de acuerdo a los resultados, hallazgos y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador | Actividades: 
+Líder de pruebas para la administración y coordinación del equipo de pruebas.
+Responsable de la gestión de pruebas.
+Diseño y administración de plan de pruebas a través sesiones de trabajo con el cliente para estimar las métricas y los recursos a asignar de tiempo, costo y colaboradores por cada aplicativo y fase de trabajo.
+Administración y ejecución de pruebas funcionales y no funcionales, regresión y automatizadas sobre los aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo con el requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Revisión, análisis y administración de riesgos e incidentes identificados de los aplicativos.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Análisis y verificación con el equipo de calidad y del Cliente sobre los casos y las matrices de pruebas
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Ejecución de Pruebas automatizadas en diferentes ambientes.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Producción y responsable de los artefactos generados bajo la metodología del MAAGTIC_SI
+Revisión de requerimientos
+Revisión de Casos de Uso 
+Elaboración de diagramas de flujo
+Diagramas de Casos de Uso
+Diagrama de Actividades
+Diagrama de contexto
+Especificaciones suplementarias 
+Contrato de aplicaciones 
+Revisión de reglas de negoción
+Elaboración de la matriz de trazabilidad
+Peer review a documentación en PPM
+Revisión del Prototipos de Interfaz Gráfica (PIG)
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva de acuerdo a los resultados, hallazgos y métricas obtenidas.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y distribución de cargas de trabajo a cada colaborador
+Herramientas: | Herramientas: | Project 2013
+Team Foundation Server.
+FastStone Capture 6.9
+SQLDeveloper
+Papyrus
+Virtual box
+Microsoft Vicio
+Pencil | Project 2013
+Team Foundation Server.
+FastStone Capture 6.9
+SQLDeveloper
+Papyrus
+Virtual box
+Microsoft Vicio
+Pencil | Project 2013
+Team Foundation Server.
+FastStone Capture 6.9
+SQLDeveloper
+Papyrus
+Virtual box
+Microsoft Vicio
+Pencil | Project 2013
+Team Foundation Server.
+FastStone Capture 6.9
+SQLDeveloper
+Papyrus
+Virtual box
+Microsoft Vicio
+Pencil
+Nombre de empresa:
+INAP | País:
+México | País:
+México | Puesto:
+Líder de Proyecto del Servicio de Aseguramiento de la Calidad de los Aplicativos – IMSS | Fecha: De
+Marzo 2010 | A:
+Febrero 2016
+Actividades:
+Líder de pruebas para la administración y coordinación del equipo de pruebas interno y del IMSS.
+Responsable de la gestión de pruebas.
+Elaboración de propuestas y planes de trabajo para ejecución de pruebas funcionales y control de ciclos de prueba, indicando los recursos, calendario de eventos y métricas a utilizar, acorde a la planeación estratégica del cliente.
+Administración y ejecución de pruebas funcionales y no funcionales sobre el aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Ejecución de Pruebas de Humo.
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y de regresión en ambientes pre-productivos.
+Evaluación y análisis del funcionamiento de los sistemas a desarrollar.
+Validación de requerimientos y construcción de escenario de pruebas basado en requerimiento.
+Casos de uso en el formato que maneja el instituto MAAGTIC o en la metodología que requiera en particular.
+Revisión de Casos de Uso, así como de reglas de negocio, como parte de análisis para elaboración y ejecución de pruebas.
+Validación de información productiva vs pre-productiva.
+Elaboración de diagramas de flujo.
+Pruebas de Usabilidad de los aplicativos.
+Elaboración y análisis de las matrices de prueba y casos de prueba.
+Revisión y corrección de scripts de pruebas en los formatos MAAGTIC.
+Detección, registro y gestión de errores.
+Revisión, Análisis y atención de riesgos identificados y de incidentes en los aplicativos.
+Atención a incidentes reportados por el área usuaria.
+Ejecución de pruebas de Aceptación con el área usuaria.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Elaboración de presentaciones efectivas para estatus del sistema.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas 
+Control de versiones
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Elaboración y análisis de matrices para la ejecución de pruebas, así como de los casos de prueba para las pruebas funcionales en los diferentes aplicativos y Módulos de PeopleSoft.
+Coordinación y aplicación de pruebas.
+Validación y aprobación de errores de los aplicativos PeopleSoft.
+Monitoreo del Servidor PSNT (Repositorio de los archivos Crystal y nVisión).
+Reporte de métricas e incidencias, cifras control de Registros Migrados, cifras control documentación MAAGTIC.
+Creación y Gestión de la estructura organizacional para el control operativo, Técnico y funcional de las correcciones técnicas, funcionales y operativas de cada integrante del proyecto. 
+Coordinación de pruebas funcionales entre los diferentes Módulos-aplicativos Migrados y seguimiento de la prueba concluida, errónea hasta su liberación.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y re distribución de cargas de trabajo a cada colaborador. | Actividades:
+Líder de pruebas para la administración y coordinación del equipo de pruebas interno y del IMSS.
+Responsable de la gestión de pruebas.
+Elaboración de propuestas y planes de trabajo para ejecución de pruebas funcionales y control de ciclos de prueba, indicando los recursos, calendario de eventos y métricas a utilizar, acorde a la planeación estratégica del cliente.
+Administración y ejecución de pruebas funcionales y no funcionales sobre el aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Ejecución de Pruebas de Humo.
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y de regresión en ambientes pre-productivos.
+Evaluación y análisis del funcionamiento de los sistemas a desarrollar.
+Validación de requerimientos y construcción de escenario de pruebas basado en requerimiento.
+Casos de uso en el formato que maneja el instituto MAAGTIC o en la metodología que requiera en particular.
+Revisión de Casos de Uso, así como de reglas de negocio, como parte de análisis para elaboración y ejecución de pruebas.
+Validación de información productiva vs pre-productiva.
+Elaboración de diagramas de flujo.
+Pruebas de Usabilidad de los aplicativos.
+Elaboración y análisis de las matrices de prueba y casos de prueba.
+Revisión y corrección de scripts de pruebas en los formatos MAAGTIC.
+Detección, registro y gestión de errores.
+Revisión, Análisis y atención de riesgos identificados y de incidentes en los aplicativos.
+Atención a incidentes reportados por el área usuaria.
+Ejecución de pruebas de Aceptación con el área usuaria.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Elaboración de presentaciones efectivas para estatus del sistema.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas 
+Control de versiones
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Elaboración y análisis de matrices para la ejecución de pruebas, así como de los casos de prueba para las pruebas funcionales en los diferentes aplicativos y Módulos de PeopleSoft.
+Coordinación y aplicación de pruebas.
+Validación y aprobación de errores de los aplicativos PeopleSoft.
+Monitoreo del Servidor PSNT (Repositorio de los archivos Crystal y nVisión).
+Reporte de métricas e incidencias, cifras control de Registros Migrados, cifras control documentación MAAGTIC.
+Creación y Gestión de la estructura organizacional para el control operativo, Técnico y funcional de las correcciones técnicas, funcionales y operativas de cada integrante del proyecto. 
+Coordinación de pruebas funcionales entre los diferentes Módulos-aplicativos Migrados y seguimiento de la prueba concluida, errónea hasta su liberación.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y re distribución de cargas de trabajo a cada colaborador. | Actividades:
+Líder de pruebas para la administración y coordinación del equipo de pruebas interno y del IMSS.
+Responsable de la gestión de pruebas.
+Elaboración de propuestas y planes de trabajo para ejecución de pruebas funcionales y control de ciclos de prueba, indicando los recursos, calendario de eventos y métricas a utilizar, acorde a la planeación estratégica del cliente.
+Administración y ejecución de pruebas funcionales y no funcionales sobre el aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Ejecución de Pruebas de Humo.
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y de regresión en ambientes pre-productivos.
+Evaluación y análisis del funcionamiento de los sistemas a desarrollar.
+Validación de requerimientos y construcción de escenario de pruebas basado en requerimiento.
+Casos de uso en el formato que maneja el instituto MAAGTIC o en la metodología que requiera en particular.
+Revisión de Casos de Uso, así como de reglas de negocio, como parte de análisis para elaboración y ejecución de pruebas.
+Validación de información productiva vs pre-productiva.
+Elaboración de diagramas de flujo.
+Pruebas de Usabilidad de los aplicativos.
+Elaboración y análisis de las matrices de prueba y casos de prueba.
+Revisión y corrección de scripts de pruebas en los formatos MAAGTIC.
+Detección, registro y gestión de errores.
+Revisión, Análisis y atención de riesgos identificados y de incidentes en los aplicativos.
+Atención a incidentes reportados por el área usuaria.
+Ejecución de pruebas de Aceptación con el área usuaria.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Elaboración de presentaciones efectivas para estatus del sistema.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas 
+Control de versiones
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Elaboración y análisis de matrices para la ejecución de pruebas, así como de los casos de prueba para las pruebas funcionales en los diferentes aplicativos y Módulos de PeopleSoft.
+Coordinación y aplicación de pruebas.
+Validación y aprobación de errores de los aplicativos PeopleSoft.
+Monitoreo del Servidor PSNT (Repositorio de los archivos Crystal y nVisión).
+Reporte de métricas e incidencias, cifras control de Registros Migrados, cifras control documentación MAAGTIC.
+Creación y Gestión de la estructura organizacional para el control operativo, Técnico y funcional de las correcciones técnicas, funcionales y operativas de cada integrante del proyecto. 
+Coordinación de pruebas funcionales entre los diferentes Módulos-aplicativos Migrados y seguimiento de la prueba concluida, errónea hasta su liberación.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y re distribución de cargas de trabajo a cada colaborador. | Actividades:
+Líder de pruebas para la administración y coordinación del equipo de pruebas interno y del IMSS.
+Responsable de la gestión de pruebas.
+Elaboración de propuestas y planes de trabajo para ejecución de pruebas funcionales y control de ciclos de prueba, indicando los recursos, calendario de eventos y métricas a utilizar, acorde a la planeación estratégica del cliente.
+Administración y ejecución de pruebas funcionales y no funcionales sobre el aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Ejecución de Pruebas de Humo.
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y de regresión en ambientes pre-productivos.
+Evaluación y análisis del funcionamiento de los sistemas a desarrollar.
+Validación de requerimientos y construcción de escenario de pruebas basado en requerimiento.
+Casos de uso en el formato que maneja el instituto MAAGTIC o en la metodología que requiera en particular.
+Revisión de Casos de Uso, así como de reglas de negocio, como parte de análisis para elaboración y ejecución de pruebas.
+Validación de información productiva vs pre-productiva.
+Elaboración de diagramas de flujo.
+Pruebas de Usabilidad de los aplicativos.
+Elaboración y análisis de las matrices de prueba y casos de prueba.
+Revisión y corrección de scripts de pruebas en los formatos MAAGTIC.
+Detección, registro y gestión de errores.
+Revisión, Análisis y atención de riesgos identificados y de incidentes en los aplicativos.
+Atención a incidentes reportados por el área usuaria.
+Ejecución de pruebas de Aceptación con el área usuaria.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Elaboración de presentaciones efectivas para estatus del sistema.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas 
+Control de versiones
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Elaboración y análisis de matrices para la ejecución de pruebas, así como de los casos de prueba para las pruebas funcionales en los diferentes aplicativos y Módulos de PeopleSoft.
+Coordinación y aplicación de pruebas.
+Validación y aprobación de errores de los aplicativos PeopleSoft.
+Monitoreo del Servidor PSNT (Repositorio de los archivos Crystal y nVisión).
+Reporte de métricas e incidencias, cifras control de Registros Migrados, cifras control documentación MAAGTIC.
+Creación y Gestión de la estructura organizacional para el control operativo, Técnico y funcional de las correcciones técnicas, funcionales y operativas de cada integrante del proyecto. 
+Coordinación de pruebas funcionales entre los diferentes Módulos-aplicativos Migrados y seguimiento de la prueba concluida, errónea hasta su liberación.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y re distribución de cargas de trabajo a cada colaborador. | Actividades:
+Líder de pruebas para la administración y coordinación del equipo de pruebas interno y del IMSS.
+Responsable de la gestión de pruebas.
+Elaboración de propuestas y planes de trabajo para ejecución de pruebas funcionales y control de ciclos de prueba, indicando los recursos, calendario de eventos y métricas a utilizar, acorde a la planeación estratégica del cliente.
+Administración y ejecución de pruebas funcionales y no funcionales sobre el aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Ejecución de Pruebas de Humo.
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y de regresión en ambientes pre-productivos.
+Evaluación y análisis del funcionamiento de los sistemas a desarrollar.
+Validación de requerimientos y construcción de escenario de pruebas basado en requerimiento.
+Casos de uso en el formato que maneja el instituto MAAGTIC o en la metodología que requiera en particular.
+Revisión de Casos de Uso, así como de reglas de negocio, como parte de análisis para elaboración y ejecución de pruebas.
+Validación de información productiva vs pre-productiva.
+Elaboración de diagramas de flujo.
+Pruebas de Usabilidad de los aplicativos.
+Elaboración y análisis de las matrices de prueba y casos de prueba.
+Revisión y corrección de scripts de pruebas en los formatos MAAGTIC.
+Detección, registro y gestión de errores.
+Revisión, Análisis y atención de riesgos identificados y de incidentes en los aplicativos.
+Atención a incidentes reportados por el área usuaria.
+Ejecución de pruebas de Aceptación con el área usuaria.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Elaboración de presentaciones efectivas para estatus del sistema.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas 
+Control de versiones
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Elaboración y análisis de matrices para la ejecución de pruebas, así como de los casos de prueba para las pruebas funcionales en los diferentes aplicativos y Módulos de PeopleSoft.
+Coordinación y aplicación de pruebas.
+Validación y aprobación de errores de los aplicativos PeopleSoft.
+Monitoreo del Servidor PSNT (Repositorio de los archivos Crystal y nVisión).
+Reporte de métricas e incidencias, cifras control de Registros Migrados, cifras control documentación MAAGTIC.
+Creación y Gestión de la estructura organizacional para el control operativo, Técnico y funcional de las correcciones técnicas, funcionales y operativas de cada integrante del proyecto. 
+Coordinación de pruebas funcionales entre los diferentes Módulos-aplicativos Migrados y seguimiento de la prueba concluida, errónea hasta su liberación.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y re distribución de cargas de trabajo a cada colaborador. | Actividades:
+Líder de pruebas para la administración y coordinación del equipo de pruebas interno y del IMSS.
+Responsable de la gestión de pruebas.
+Elaboración de propuestas y planes de trabajo para ejecución de pruebas funcionales y control de ciclos de prueba, indicando los recursos, calendario de eventos y métricas a utilizar, acorde a la planeación estratégica del cliente.
+Administración y ejecución de pruebas funcionales y no funcionales sobre el aplicativos (ambientes: Desarrollo, Pruebas y Productivo) en sus diferentes ciclos de vida y versiones liberadas.
+Aplicación de metodologías de prueba de acuerdo al requerimiento del cliente o con base a la práctica de QA.
+Elaboración y seguimiento de actividades a través de plan de actividades Project.
+Ejecución de Pruebas de Humo.
+Ejecución de Pruebas funcionales, no funcionales, automatizadas y de regresión en ambientes pre-productivos.
+Evaluación y análisis del funcionamiento de los sistemas a desarrollar.
+Validación de requerimientos y construcción de escenario de pruebas basado en requerimiento.
+Casos de uso en el formato que maneja el instituto MAAGTIC o en la metodología que requiera en particular.
+Revisión de Casos de Uso, así como de reglas de negocio, como parte de análisis para elaboración y ejecución de pruebas.
+Validación de información productiva vs pre-productiva.
+Elaboración de diagramas de flujo.
+Pruebas de Usabilidad de los aplicativos.
+Elaboración y análisis de las matrices de prueba y casos de prueba.
+Revisión y corrección de scripts de pruebas en los formatos MAAGTIC.
+Detección, registro y gestión de errores.
+Revisión, Análisis y atención de riesgos identificados y de incidentes en los aplicativos.
+Atención a incidentes reportados por el área usuaria.
+Ejecución de pruebas de Aceptación con el área usuaria.
+Comparación de set de Datos como resultado de Migraciones y actualizaciones.
+Conducción y ejecución de pruebas de aceptación con el área usuaria. 
+Elaboración de presentaciones efectivas para estatus del sistema.
+Elaboración de Documentación MAAGTIC SI, como:
+Plan de pruebas 
+Control de versiones
+Escenarios de prueba
+Reportes de Revisión 
+Evidencia de prueba
+Consolidado de hallazgos
+Casos de prueba
+Cartas de Aceptación de Prueba
+Listas de Verificación 
+Consolidados de Hallazgos
+Elaboración y análisis de matrices para la ejecución de pruebas, así como de los casos de prueba para las pruebas funcionales en los diferentes aplicativos y Módulos de PeopleSoft.
+Coordinación y aplicación de pruebas.
+Validación y aprobación de errores de los aplicativos PeopleSoft.
+Monitoreo del Servidor PSNT (Repositorio de los archivos Crystal y nVisión).
+Reporte de métricas e incidencias, cifras control de Registros Migrados, cifras control documentación MAAGTIC.
+Creación y Gestión de la estructura organizacional para el control operativo, Técnico y funcional de las correcciones técnicas, funcionales y operativas de cada integrante del proyecto. 
+Coordinación de pruebas funcionales entre los diferentes Módulos-aplicativos Migrados y seguimiento de la prueba concluida, errónea hasta su liberación.
+Gestión de reuniones para evaluar la calidad de los entregables y la evaluación del servicio Administrado con el cliente para el análisis y reorientación de estrategia de pruebas o definición de una nueva.
+Revisión de objetivos y resultados de los colaboradores, del equipo, y re distribución de cargas de trabajo a cada colaborador.
+Herramientas: | Herramientas: | Project 2013
+Team Foundation Server.
+FastStone Capture 6.9
+SQLDeveloper
+Papyrus
+Virtual box
+Microsoft Vicio
+Pencil | Project 2013
+Team Foundation Server.
+FastStone Capture 6.9
+SQLDeveloper
+Papyrus
+Virtual box
+Microsoft Vicio
+Pencil | Project 2013
+Team Foundation Server.
+FastStone Capture 6.9
+SQLDeveloper
+Papyrus
+Virtual box
+Microsoft Vicio
+Pencil | Project 2013
+Team Foundation Server.
+FastStone Capture 6.9
+SQLDeveloper
+Papyrus
+Virtual box
+Microsoft Vicio
+Pencil
+EDUCACIÓN:
+Carrera | Lugar | Fechas | Grado máximo de estudios
+(Titulado, pasante, trunco)
+Ingeniería en Tecnologías de
+la Información y Comunicación | Universidad Tecnológica de Nezahualcóyotl | 2013 | Titulado
+Tec. sup. univer. en Tecnologías de la Información y Comun. Área Redes y Telecomunicaciones | Universidad Tecnológica de Nezahualcóyotl | 2011 | Titulado
+LOGROS ACADÉMICOS:
+Nombre del Curso, Diplomados, Certificaciones | Lugar | Fechas
+Scrum Fundamentals (Certificado) | CDMX | (2022)
+TMMi Foundations (Certificado) | CDMX | (2021)
+ISTQB Advance Test Manager (Certificado) | CDMX | (2020)
+ISTQB Fundamental (Certificado) | CDMX | (2019)
+SCRUM Master (Diploma) | CDMX | (2018)
+CCNA CISCO I, II, III y IV | Edo. De Mexico | (2007 – 2009)
+IDIOMAS:
+HABILIDADES TÉCNICAS/ADMINISTRATIVAS:
+Perfil Primario: | QA Lead
+Perfil Secundario: | Tester
+Sistemas Operativos: | Windows
+Lenguajes de Programación: | Java Básico, Visual Basic y SQL
+Bases de Datos: | SQL Server, DB2 SQL y Access
+Otros: | Parqueteria Microsoft Office, PEOPLESOFT EPM, PEOPLETOOLS 8.41 y 8.49, Bizagi, CMMI, UML, Visio, RBPM, Project Manager, CLM, ALM, JIRA, PPM, Eclipse, TFS.

@@ -1,16 +1,34 @@
-Horus
+NOMBRE
+Karla Paola Pulido Guillén
+
+MAIL
+
+
+GENERO
+
+
+FECHA NACIMIENTO
+
+
+RFC
+
+
+CURP
+
+
+NO CEDULA
+2334215
+
+FECHA CEDULA
+10/7/1996
+
 
 CURSOS
-
+ITIL Foundation Certificate in IT Service Management 
 
 
 CERTIFICACIONES
-"ISTQB Certified Tester Advanced Level - Test Manager 27/10/2020"
-
-
-
-
-
-
-
+PMP Project Management Professional - Noviembre 2017 Noviembre 2026
+Scrum Alliance - Julio 2026
+ITIL Foundation Certificate in IT Service Management - Agosto 2019 Junio 2027
 

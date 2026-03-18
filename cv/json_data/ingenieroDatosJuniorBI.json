@@ -1,30 +1,69 @@
-
 {
   "nombre": "Sinuhe Mazuti Osorio Rivero",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "13643273",
+  "fecha_cedula": "16/08/2023",
   "rol_propuesto": "Ingeniero de Datos BI Junior",
-  "resumen_profesional": "Experiencia en diseño e implementación de procesos ETL y grafos para integración de datos.\nDesarrollo y mantenimiento de pipelines con Ab Initio y Databricks para transformaciones a gran escala.\nGestión de entornos Control Center y ejecución y monitoreo de jobs en Linux.\nManejo de DML y scripting (.ksh, .bash) para automatización de procesos.\n\nParticipación en análisis y diseño técnico orientado a eficiencia y escalabilidad.\nProcesamiento de volúmenes de datos superiores a 290 millones de registros.\nMigración y sincronización de bases entre MySQL, SQL Server y Azure para optimizar disponibilidad.\nEnfoque en calidad de entrega y resolución de incidentes y change requests.",
+  "resumen_profesional": "Cuento con al menos dos años de experiencia en el análisis de grandes volúmenes de datos y en el desarrollo de soluciones de inteligencia de negocio. He trabajado diseñando y ejecutando procesos Extraer, Transformar y Cargar (ETL) y soluciones de integración de datos que aseguran continuidad operativa y entregas en tiempo y forma.\n\nHe liderado desarrollos y adaptaciones de grafos Extraer, Transformar y Cargar (ETL) y flujos en entornos OnPremise y en plataformas de procesamiento distribuido, optimizando cargas y transformaciones para escalabilidad. Trabajo con diseño técnico, migraciones de bases de datos y programación en Python y Spark SQL para garantizar calidad y eficiencia en la ingesta y procesamiento de datos.",
   "experiencia_laboral": [
     {
       "empresa": "Softtek",
-      "puesto": "Consultor ETL Ab Initio Jr",
-      "fecha_inicio": "noviembre 2023",
-      "fecha_fin": "Presente",
+      "puesto": "Consultor Extraer, Transformar y Cargar (ETL) Ab Initio Jr",
+      "fecha_inicio": "1 noviembre 2023",
+      "fecha_fin": "Actual",
       "actividades_principales": [
-       "Actuar como líder técnico del proyecto, proponer e implementar soluciones para requerimientos de negocio mediante grafos ETL.",
-        "Crear y modificar grafos complejos para la manipulación de datos.",
-        "Procesar grandes volúmenes de datos (más de 290 millones de registros).",
-        "Ambientar y configurar entornos de desarrollo.",
-        "Levantar requerimientos de procesos ETL.",
-        "Analizar y diseñar técnicamente procesos ETL.",
-        "Crear y modificar Data Manipulation Language (DML).",
-        "Desarrollar y mantener scripts (.ksh y .bash) y archivos pset.",
-        "Monitorear y ejecutar jobs manualmente en Control Center.",
-        "Gestionar Change Requests, incidentes y atención a Data Concerns."
+        "Diseño, construcción, optimización y mantenimiento de soluciones e infraestructuras que recolectan, almacenan, procesan y permiten el acceso a grandes volúmenes de datos de forma eficiente, segura y escalable; habilidades en diseño e implementación de procesos Extraer, Transformar y Cargar (ETL)/ELT, definición y mantenimiento de estructuras de almacenamiento y optimización de cargas y consultas.",
+        "Soy líder técnico del proyecto y responsable de proponer e implementar soluciones para requerimientos de negocio mediante grafos Extraer, Transformar y Cargar (ETL).",
+        "Creo y modifico grafos complejos para la manipulación de datos.",
+        "Proceso grandes volúmenes de datos (+290M registros).",
+        "Ambientación y configuración inicial de entorno de desarrollo.",
+        "Realizo el levantamiento de requerimientos de procesos Extraer, Transformar y Cargar (ETL).",
+        "Realizo análisis de diseño técnico.",
+        "Creo nuevos grafos y modifico grafos existentes.",
+        "Creo y modifico Data Manipulation Language (DML).",
+        "Efectúo CheckIn y Check Out a proyectos.",
+        "Creo, analizo y modifico planes.",
+        "Creo, analizo y modifico archivos pset.",
+        "Creo, analizo y modifico scripts (.ksh y .bash).",
+        "Monitoreo y ejecuto manualmente jobs en Control Center.",
+        "Atiendo Data Concerns (DC).",
+        "Gestiono Change Requests e Incidentes.",
+        "Promuevo TAG entre ambientes Pruebas de Aceptación de Usuario (UAT) y PROD.",
+        "Creé el sistema “Actas de Entrega - Recepción”.",
+        "Hice la propuesta de diseño Entidad-Relación de base de datos.",
+        "Desarrollé consultas para la creación de base de datos.",
+        "Hice la configuración inicial del entorno Asp.Net Core.",
+        "Programé el sistema inicial utilizando C# y siguiendo el patrón de diseño MVC.",
+        "Migré de bases de datos MySQL de un entorno IaaS a un entorno SaaS (Azure Database for MySQL).",
+        "Migré de base de datos MySQL a SQL Server del sistema “Lista Diaria de Notificaciones”.",
+        "Hice usp de manejadores de base de datos Workbench y SSMS.",
+        "Modifiqué secciones de código escritos en PHP."
+      ]
+    },
+    {
+      "empresa": "Comisión Federal de Competencia Económica (COFECE)",
+      "puesto": "Analista de Datos y Desarrollador Web Backend Jr",
+      "fecha_inicio": "1 abril 2022",
+      "fecha_fin": "31 octubre 2023",
+      "actividades_principales": [
+        "Creé el sistema “Actas de Entrega - Recepción”.",
+        "Hice la propuesta de diseño Entidad-Relación de base de datos.",
+        "Desarrollé consultas para la creación de base de datos.",
+        "Hice la configuración inicial del entorno Asp.Net Core.",
+        "Programé el sistema inicial utilizando C# y siguiendo el patrón de diseño MVC.",
+        "Migré de bases de datos MySQL de un entorno IaaS a un entorno SaaS (Azure Database for MySQL).",
+        "Migré de base de datos MySQL a SQL Server del sistema “Lista Diaria de Notificaciones”.",
+        "Hice usp de manejadores de base de datos Workbench y SSMS.",
+        "Modifiqué secciones de código escritos en PHP."
       ]
     }
   ],
-  "periodo_resumen_laboral": "La experiencia abarca desde abril de 2022 hasta noviembre de 2023",
-  "resumen_laboral": "Durante este período se desempeñaron funciones como Analista de Datos y Desarrollador Web Backend Jr. Se llevaron a cabo actividades de diseño y desarrollo de sistemas orientados a la gestión de información, migración de bases de datos entre entornos y configuración de entornos de desarrollo. Se asumieron responsabilidades en el aseguramiento de la continuidad operativa, la entrega de proyectos y el cumplimiento de objetivos de coordinación técnica, contribuyendo a la mejora de procesos y la adaptación a entornos en la nube.",
+  "periodo_resumen_laboral": "",
+  "resumen_laboral": "",
   "estudios": {
     "carrera": "Ingeniería en Computación",
     "lugar": "Facultad de Ingeniería, UNAM",
@@ -32,10 +71,20 @@
   },
   "certificaciones": [],
   "cursos": [
-    { "nombre": "Azure Data Factory For Data Engineers" },
-    { "nombre": "Azure Databricks and Spark For Data Engineers" },
-    { "nombre": "Fundamentos de Python 1 [Cisco Networking Academy]" },
-    { "nombre": "Fundamentos de Python 2 [Cisco Networking Academy]" },
-    { "nombre": "Introducción a la Ciencia de Datos [Cisco Networking Academy]" }
+    {
+      "nombre": "Azure Data FactorAzure Data Factory For Data Engineers"
+    },
+    {
+      "nombre": "Azure Databricks and Spark For Data Engineers"
+    },
+    {
+      "nombre": "Fundamentos de Python 1 [Cisco Networking Academy]"
+    },
+    {
+      "nombre": "Fundamentos de Python 2 [Cisco Networking Academy]"
+    },
+    {
+      "nombre": "Introducción a la Ciencia de Datos [Cisco Networking Academy]"
+    }
   ]
 }

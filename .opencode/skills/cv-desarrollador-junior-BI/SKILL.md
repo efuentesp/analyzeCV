@@ -1,24 +1,21 @@
 ---
 name: cv-desarrollador-junior-BI
-description: description: Analiza CVs y devuelve únicamente un JSON estructurado para el rol de Desarrollador Junior BI.
+description: Analiza CVs y devuelve únicamente un JSON estructurado para el rol de Desarrollador Junior BI.
 metadata:
   author: raquelizue
   version: "1.0.0"
 ---
 
-# SAT CV Extractor — Ingeniero de Datos Junior BI
+# SAT CV Extractor — Desarrollador Junior BI
 
-Analizar todo el CV y devolver únicamente un JSON válido con la estructura definida.  
-No agregar texto fuera del JSON.  
-No explicar.  
-No comentar.
+Analizar todo el CV y devolver únicamente un JSON válido con la estructura definida sin agregar texto fuera del JSON y sin comentar o explicar líneas.
 
 ---
 
 # REGLAS GENERALES
 
 - Usar solo información explícita.
-- No inferir, asumir, reinterpretar ni ampliar.
+- No inferir, asumir, reinterpretar ni ampliar información.
 - No inventar fechas, duraciones ni métricas.
 - No dividir experiencias.
 - No dividir actividades.
@@ -27,25 +24,63 @@ No comentar.
   - `[]` para arreglos
 - No agregar campos.
 - No modificar estructura.
+- **Debe redactarse todo estrictamente en primera persona.**
 
----
+- Los campos `fecha_inicio` y `fecha_fin` deben expresarse como: 
+**{día en número} {mes en texto completo} {año}**
+- Ejemplo de formato final:  15 marzo 2024
 
-## Formato de fechas laborales
-
-Los campos `fecha_inicio` y `fecha_fin` deben expresarse como:
-
-**{mes en texto completo} {año}**
+## Normalización de meses
 
 Si el mes aparece abreviado en el CV, expandirlo:
-
 ene→enero, feb→febrero, mar→marzo, abr→abril, may→mayo, jun→junio, jul→julio, ago→agosto, sep→septiembre, oct→octubre, nov→noviembre, dic→diciembre.
 
-Ejemplo:
+Ejemplo:  
 ene 2025 → enero 2025
 
-Si no se especifica mes, dejar solo el año.
+## Regla cuando no se especifica el mes
 
-No inferir meses ni modificar el año.
+Si el CV **solo indica el año**:
+
+- Para `fecha_inicio` usar **enero**.
+- Para `fecha_fin` usar **diciembre**.
+
+Ejemplo:  
+2021 →  
+fecha_inicio: **2 enero 2021** *(primer día laborable disponible entre el 1 y el 4)*  
+fecha_fin: **31 diciembre 2021**
+
+## Regla para `fecha_inicio`
+
+Si el CV **no especifica el día**, asignar un día **entre el 1 y el 4 del mes**, asegurando que sea **día laborable (lunes a viernes)**.
+
+Reglas:
+- Seleccionar el primer día laborable disponible entre el 1 y el 4.
+- No modificar el mes ni el año indicados en el CV.
+
+Ejemplo:  
+marzo 2022 → **1 marzo 2022** *(si es laborable)*
+
+## Regla para `fecha_fin`
+
+Si el CV **no especifica el día**, asignar **siempre el último día del mes correspondiente**.
+
+Ejemplos:
+
+marzo 2024 → 31 marzo 2024  
+abril 2023 → 30 abril 2023  
+febrero 2025 → 28 febrero 2025
+
+No inferir ni modificar el **año** indicado en el CV.
+
+# REGLA DE SELECCIÓN DE ESTUDIOS
+
+En el campo `estudios` se debe registrar **únicamente el grado de nivel licenciatura o equivalente**.
+
+Reglas:
+- Seleccionar únicamente estudios cuyo nivel sea **Licenciatura, Ingeniería o equivalente universitario**.
+- No incluir **posgrados** como Maestrías, MBA, Doctorados, Especialidades o diplomados.
+- Si el CV contiene licenciatura y posgrado: Registrar **solo la licenciatura**.
 
 ---
 
@@ -53,20 +88,31 @@ No inferir meses ni modificar el año.
 
 El campo **resumen_profesional** debe generarse bajo las siguientes reglas obligatorias:
 
-- Solo debe existir un único Resumen Profesional para todo el CV.
-- Debe considerar la totalidad de la experiencia laboral descrita.
-- Debe estar redactado en narración impersonal, con tono objetivo y formal.
-- No utilizar pronombres personales.
-- No incluir certificaciones ni formación académica.
-- No mencionar grados académicos explícitamente.
-- No iniciar con “Profesional con…”, “Ingeniero con…”, etc.
-- No inventar información.
-- No agregar métricas no explícitas.
+# Frase inicial obligatoria
 
-## Alineación con el rol
+El resumen **debe iniciar obligatoriamente con una paráfrasis muy ligera** (variación aproximada de 5 palabras) de la siguiente redacción base:
+
+"Tengo al menos 2 años de experiencia en desarrollo de servicios y aplicaciones web (Frontend y Backend), dashboards, interactivos, tableros, informes automáticos, reportes."
+
+Reglas para la paráfrasis:
+- La estructura general debe mantenerse.
+- Solo se permite una **variación ligera de vocabulario (aprox. 5 palabras)**.
+- No debe agregar información que no exista en el CV.
+- Esta frase funciona como **apertura del resumen profesional**.
+
+# Desarrollo del resumen
+
+Después de la frase inicial, el resumen debe continuar con **dos párrafos narrativos** que sinteticen la experiencia del perfil.
+
+Reglas:
+- Deben generarse **dos párrafos**.
+- Cada párrafo debe tener **máximo 4 renglones**.
+- El resumen completo **no debe superar 160 palabras**.
+- Debe redactarse en **prosa continua**.
+
+## Reglas de contenido
 
 El resumen debe reflejar experiencia en:
-
   - Desarrollo de soluciones BI mediante lenguajes de programación.
   - Construcción e implementación de componentes funcionales.
   - Desarrollo, mantenimiento o soporte de procesos ETL.
@@ -75,28 +121,28 @@ El resumen debe reflejar experiencia en:
   - Uso de herramientas de BI (como Databricks o Fabric).
   - Participación en soluciones analíticas o de inteligencia de negocio.
 
-Debe proyectar:
-  - Perfil junior con base técnica sólida
-  - Enfoque en ejecución
-  - Participación activa en construcción de soluciones
+El resumen **no debe**:
+- Incluir certificaciones, cursos ni formación académica.
+- Inventar información.
+- Redactarse como lista de funciones o actividades.
+- Estructurarse como enumeración explícita o implícita.
+- Separar ideas en líneas independientes por actividad.
+- Repetir la misma estructura gramatical en oraciones consecutivas.
 
-## Estructura obligatoria
+## Criterios de claridad
 
-- Dos párrafos de 4 reglones cada uno,
-- Máximo de 140 palabras en total.
-- Prosa continua.
-- No formato de lista.
-- No múltiples oraciones consecutivas iniciadas en infinitivo.
-- Redacción ejecutiva, no operativa.
+El resumen debe:
+- Ser claro y comprensible para lectores no técnicos.
+- Sintetizar el perfil resaltando el valor aportado en términos de continuidad de servicios y cumplimiento de procesos.
+- Proyectar **seniority** cuando la experiencia lo respalde.
 
 ---
 
-# FASE 2 — FILTRADO (SOLO SI rol_propuesto = "Ingeniero de Datos BI Junior")
+# FASE 2 — FILTRADO (SOLO SI rol_propuesto = "Desarrollador Junior BI")
 
 ## Criterio de relevancia
 
 Una experiencia es válida solo si contiene evidencia explícita de:
-
 - Desarrollo de soluciones tecnológicas o componentes BI
 - Programación orientada al manejo o procesamiento de datos
 - Desarrollo o mantenimiento de procesos ETL
@@ -109,14 +155,7 @@ Una experiencia es válida solo si contiene evidencia explícita de:
 
 Si no hay evidencia explícita → OMITIR.
 
-No reinterpretar:
-
-- Soporte técnico general  
-- Testing  
-- Funciones administrativas  
-- Soporte funcional  
-
-como desarrollo BI.
+No reinterpretar soporte técnico general, testing, o funciones administrativas como desarrollo BI.
 
 ---
 
@@ -126,7 +165,9 @@ como desarrollo BI.
 2. Agregar experiencias completas.
 3. Detener cuando la suma alcance o supere ~2 años.
 4. No recortar experiencias.
-5. No agregar más después de superar el umbral.
+5. Si una es 1 año y otra 3 → incluir ambas.
+
+**Si solo se agregó una experiencia, agregar las siguientes dos en orden cronológico, sin importar duración, para asegurar diversidad de experiencias.**
 
 Si no hay experiencia relevante:
 
@@ -134,23 +175,21 @@ Si no hay experiencia relevante:
 "experiencia_laboral": []
 ```
 
+---
+
 # FASE 2.1 — RESUMEN CONSOLIDADO DE EXPERIENCIA NO SELECCIONADA
 
 ## Regla general
 
 Si existen experiencias laborales que:
-
-- No fueron incluidas en `experiencia_laboral` tras aplicar la regla de filtrado de FASE 2.
+- No fueron incluidas en `experiencia_laboral` tras aplicar la regla de filtrado correspondiente.
 - Sí existen explícitamente en el CV.
 
 No deben listarse individualmente.
-
 Deben consolidarse en:
 
 - `periodo_resumen_laboral`
 - `resumen_laboral`
-
----
 
 ## periodo_resumen_laboral
 
@@ -159,49 +198,34 @@ Construir una frase con el siguiente formato obligatorio:
 "La experiencia abarca desde {fecha más antigua} hasta {fecha más reciente}"
 
 Reglas:
-
+- Usar las reglas de formato de fechas definidas en esta guía para determinar las fechas a usar.
 - Tomar la `fecha_inicio` más antigua y la `fecha_fin` más reciente únicamente de las experiencias no seleccionadas.
-- Expresar el mes en texto y el año en formato numérico (ejemplo: diciembre de 2021).
-- Si alguna fecha está incompleta → usar solo el año.
+- Expresar el mes en texto y el año y el día en formato numérico (ejemplo: 01 diciembre de 2021).
 - No calcular duración en este campo.
 - No agregar texto adicional.
 - No modificar el formato de la frase.
 
----
-
 ## resumen_laboral
 
 Redactar un párrafo en prosa que:
-
 - Sea claro y fácil de entender para un lector no técnico.
 - Use lenguaje sencillo y natural.
 - Sea formal y objetivo.
-- No use primera persona.
-- No incluya actividades técnicas detalladas.
-- No incluya métricas.
-- No invente información.
-- No amplíe funciones.
+- Usar primera persona.
+- No incluya actividades técnicas detalladas o métricas.
 
 Debe:
-
 - Explicar de manera general qué tipo de responsabilidades se asumieron.
 - Mencionar los roles desempeñados (solo nombres de puesto).
-- Mencionar la empresa solo si es la misma en todas las experiencias; si no, omitirla.
+- Omitir nombres de empresas.
 - No iniciar con "Profesional" o "Especialista".
 - Iniciar obligatoriamente con:
-  - "Durante este período..."  
-  o  
-  - "En este periodo se desempeñaron funciones como..."
+  - "Durante este período..."  o  "En este periodo se desempeñaron funciones como..."
 
 Formato obligatorio:
-
-- Texto continuo (sin listas).
-- Mínimo 60 palabras.
-- Máximo 110 palabras.
+- Texto continuo (sin listas) con una extensión de **60 a 110 palabras**.
 - No incluir fechas específicas dentro del párrafo.
 - No repetir el texto de `periodo_resumen_laboral`.
-
----
 
 ## Caso sin experiencias excluidas
 
@@ -212,76 +236,128 @@ Si no existen experiencias fuera de `experiencia_laboral`:
 "resumen_laboral": ""
 ```
 
-# FASE 3 — ACTIVIDADES
+# REGLA ESPECIAL — PARÁFRASIS INICIAL DE LA PRIMERA EXPERIENCIA
 
-Aplicar únicamente sobre las experiencias seleccionadas en FASE 2.
+Antes de listar cualquier actividad dentro de `actividades_principales` de la **primera experiencia laboral**, se debe agregar una **paráfrasis muy ligera** de la siguiente redacción base:
 
----
+"Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que sean funcionales, utilizando diversos lenguajes de programación.
+Cuento con habilidades en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, desarrollo, doy mantenimiento y brindo soporte a procesos ETL (Extract, Transform, Load), y manejo herramientas de BI como Databricks y Fabric."
 
-## Reglas de redacción
-
-- Narración impersonal.
-- Verbos en infinitivo.
-- Redacción formal y objetiva.
-- No usar primera persona.
-- No inventar ni ampliar información.
-- No dividir ni combinar actividades.
-- No reinterpretar funciones ambiguas como ingeniería de datos.
-
----
-
-## Límites
-
-### Por puesto
-
-- Máximo 10 actividades.
-- No hay mínimo por puesto.
-- Si hay más de 10, priorizar:
-  1. Más relacionadas con ingeniería de datos.
-  2. Más técnicas.
-  3. Más recientes.
-
-### Global obligatorio
-
-Total de actividades (todas las experiencias seleccionadas):
-- Mínimo 10.
-- Máximo 14.
-- No crear actividades para cumplir el mínimo.
+## Reglas de la paráfrasis
+- Debe ser una **paráfrasis ligera** con un cambio aproximado de **15 palabras como máximo**.
+- Debe **mantener el mismo significado general**.
+- Debe **redactarse en primera persona**.
+- No debe agregar información que no esté implícita en la redacción base.
+- Debe colocarse **como la primera actividad dentro de `actividades_principales` de la primera experiencia laboral**.
+- Esta redacción **debe aparecer antes de cualquier otra actividad**.
 
 ---
 
-## Distribución
+# FASE 3 — GENERACIÓN Y CONSOLIDACIÓN DE ACTIVIDADES
 
-- Si hay 1 sola experiencia → hasta 10 actividades.
-- Si hay 2 o más experiencias → cualquier distribución es válida.
-- Solo debe cumplirse que el total final esté entre 10 y 14.
+Esta fase se aplica **únicamente a las experiencias seleccionadas en FASE 2**.
+El objetivo es:
+1. Generar `actividades_principales` para cada experiencia.
+2. Consolidar todas las actividades dentro de la **primera experiencia (la más reciente)**.
 
----
+# Reglas de redacción
 
-## Procedimiento (orden obligatorio)
+Todas las actividades deben cumplir:
+- Redacción clara y formal.
+- Redacción **en primera persona**.
+- No reinterpretar funciones ambiguas.
+- No dividir, fusionar ni transformar actividades originales.
 
-1. Aplicar regla de 2 años (FASE 2).
-2. Aplicar máximo 10 actividades por puesto.
-3. Verificar total global.
-   - Si >14 → reducir por relevancia y recencia.
-   - Si 10–14 → mantener.
-   - Si <10 → mantener sin crear nuevas.
+# Regla de consolidación
 
----
+La **primera experiencia laboral (la más reciente)** funciona como **contenedor consolidado de actividades**.
 
-## Jerarquía
+Debe contener, en este orden:
+1. **Paráfrasis inicial obligatoria**  
+   (definida en `REGLA ESPECIAL — PARÁFRASIS INICIAL DE LA PRIMERA EXPERIENCIA`)
+2. **Actividades originales de esa experiencia**
+3. **Actividades de todas las demás experiencias seleccionadas**
 
-1️⃣ Regla 2 años  
-2️⃣ Total global 10–14  
-3️⃣ Máximo 10 por puesto  
+Las actividades de las experiencias posteriores se agregan **sin modificar su redacción**.
 
----
+# Procedimiento
+
+### 1. Ordenar experiencias
+
+Ordenar las experiencias seleccionadas **de la más reciente a la más antigua**.
+
+### 2. Generar actividades por experiencia
+
+Para cada experiencia:
+- Extraer sus actividades del CV.
+- Mantenerlas dentro de su experiencia correspondiente.
+
+### 3. Construir actividades de la primera experiencia
+
+La primera experiencia debe construirse así:
+1. Insertar la **paráfrasis inicial**.
+2. Agregar sus **actividades originales**.
+3. Agregar **todas las actividades de las demás experiencias**, respetando el orden cronológico:
+- experiencia 2  
+- experiencia 3  
+- experiencia 4  
+- etc.
+
+# Reglas de consistencia
+
+Durante la consolidación:
+- No eliminar actividades.
+- No resumir actividades.
+- No combinar actividades.
+- No modificar el orden interno de las actividades de cada experiencia.
+- No modificar la redacción.
+- No duplicar actividades.
+
+# Ejemplo conceptual
+
+```json
+{
+  "experiencia_laboral": [
+    {
+      "empresa": "Empresa A",
+      "puesto": "Líder Técnico",
+      "fecha_inicio": "...",
+      "fecha_fin": "...",
+      "actividades_principales": [
+        "Paráfrasis inicial de liderazgo técnico...",
+        "Actividad propia experiencia A",
+        "Actividad propia experiencia A",
+        "Actividad experiencia B",
+        "Actividad experiencia B",
+        "Actividad experiencia C"
+      ]
+    },
+    {
+      "empresa": "Empresa B",
+      "puesto": "Desarrollador",
+      "fecha_inicio": "...",
+      "fecha_fin": "...",
+      "actividades_principales": [
+        "Actividad experiencia B",
+        "Actividad experiencia B"
+      ]
+    }
+  ]
+}
+```
 
 # FORMATO DE SALIDA
 
 ```json
 {
   "nombre": "",
+  "mail":"",
+  "genero":"",
+  "fecha_nacimiento":"",
+  "rfc":"",
+  "curp":"",
+  "no_cedula":"",
+  "fecha_cedula":"",
   "rol_propuesto": "",
   "resumen_profesional": "",
   "experiencia_laboral": [
@@ -293,13 +369,6 @@ Total de actividades (todas las experiencias seleccionadas):
       "actividades_principales": []
     }
   ],
-  "ajuste_puesto_liderazgo": {
-      "empresa": "",
-      "puesto": "",
-      "fecha_inicio": "",
-      "fecha_fin": "",
-      "actividades_principales": []
-  },
   "periodo_resumen_laboral": "",
   "resumen_laboral": "",
   "estudios": {
@@ -307,7 +376,7 @@ Total de actividades (todas las experiencias seleccionadas):
     "lugar": "",
     "periodo": ""
   },
-"certificaciones": [
+  "certificaciones": [
     {
       "nombre": "",
       "anio": ""
@@ -320,4 +389,3 @@ Total de actividades (todas las experiencias seleccionadas):
   ]
 }
 ```
----

@@ -1,0 +1,446 @@
+
+
+--- Página 1 (OCR) ---
+
+2/19/2026 Lourdes Beatriz Cajica Maceda
+
+Powered by P eightfold.ai
+
+Lourdes Beatriz Cajica Maceda
+
+Data Modeler Relational Database Tr
+Mexico
+
+% lourdes.cajicaOsofttek.com
+J +522212830660
+
+(O 2años de experiencia total
+
+E Software Engineer, Softtek 2023-2025 (2 años)
+
+Software Developer Intern, Softt ek - Constellation Brands 2022-2023 (11 meses)
+Technical Consultant Intern, SunGard Higher Education 2022-2022 (3 meses)
+
+Summer Research Intern, CIMAT 2021-2021 (4 meses)
+
+Assistant Analyst Intern, Instituto TECNOLÓGICO y de Estudios Superiores de 2021-...
+ITESM Bachelors, 2022
+
+á
+/ HTML 30 ,Linux, CSS, C++, Java 2 0, Python 40 ,SQL
+
+2) Empleado Actual
+F Arriba Latin American Escuela:1TESM
+
+Github
+Java$criptº Pythonº HTML 3 Java 2 NetLogo 1
+
+Ver Más
+
+Perfil resumen
+
+Experiencia
+
+
+--- Página 2 (OCR) ---
+
+2/19/2026 Lourdes Beatriz Cajica Maceda
+
+Software Engineer
+Softtek
+
+jun 2023 - oct 2025 (2 años, 5 meses)
+
+Y Software
+
+Software Engineer| Innovation Team
+eDeveloping multiple features for an application that processes large-scale projects using LLM
+technologies.
+
+eDeveloped a module that handles similarity search in with FAISS in Python for chatbots, for the Softtek SDK.
+
+Software Develo per Intern
+Softtek - Constellation Brands
+ago 2022 - jun 2023 (11 meses)
+
+Software Developer Intern | Integrations Team
+
+eDeveloped an MS PowerApp application to handle tickets of issues within the development team. The
+app used MS SharePoint lists as a database and an MS Power Automate flow to generate CSV reports.
+eImplemented atesting protocolin a PowerApp application using the PowerApps' Test Studio.
+eHelped implement an error handling and alerts protocolin all AWS Glue Jobs and Lambda Functions
+With Python and a Lambda Function that connects through a hookto a MS Teams team.
+
+Technical Consultant Intern
+
+Ellucian
+
+E jan --
+allucian ene 2022 - mar 2022 (3 meses)
+
+Technical Consultant Intern | Financial Aid Module Team
+eAttended meetings with multiple USA-based clients to help themwith their specific needs.
+eDiscussed with other consultants different approaches to each case.
+
+Summer Research Intern
+
+w CIMAT
+
+CIMAT 1un2021 - sep 2021 (4 meses)
+
+Project in conjunction with the UNAM Instituto de Neurobiología.Activities:- Preprocessed markers in key frames
+from multiple videos. - Trained a deep learning model to extrapolate the markers to the fullvideos with the
+DeepLabCut software. - Plot afirst draft of the position difference of the markers in allvideos. Technologies:-
+DeepLabCut - Google Collab Programming Languages:- Python
+
+
+--- Página 3 (OCR) ---
+
+2/19/2026 Lourdes Beatriz Cajica Maceda
+
+Assistant Analyst Intern
+
+ene 2021 - jul 2021 (7 meses)
+
+ITESM's Mujeres en Ingeniería y Ciencia (MIC) Southern TeamWorked with Dr. Claudia V. Pérez-Lezama doing
+
+some research for the development of the MIC project.Activities:- Do state of art research about project and
+strategies to attract, motive and keep women in STEM. - Interview institutes and companies to get to know
+their projects and strategies about inclusion and mentorship. - Wrote a report about the findings.
+
+Educación
+
+Maestría en Ciencias, Ciencias Computacionales
+| Instituto Nacional de Astrofísica óptica y ELECTRÓNICA
+ago 2024to Present
+
+Exchange Program
+
+ITMO REEO
+
+ene 2021 to feb 2021
+
+Competitive Programming and Cybersecurity Bootcamp.
+
+BSc. Computer Science and Technology
+
+ago 2017 to dic 2022
+
+GPA 93.24/100. Honorific Mention and best GPA of my major.Specialization: Software Development.Student
+Groups: Women+Tech, Google DSC.
+
+Insignias
+XBeKind - Given by Arelly Aurora Zúñiga Becerril on octubre 23, 2025 at 6:41 pm
+
+"Al priorizar tu salud mental, siembras la semilla de un mundo mejor. Asistir a la semana de A tu
+salud Mental es acto de amor para tiy los que te rodean ¡Gracias! Well-Being /P8amp;C "
+
+
+--- Página 4 (OCR) ---
+
+2/19/2026 Lourdes Beatriz Cajica Maceda
+
+Habilidades
+
+AWS Lambda — C/C++ ETL (Extract/Transform/Load) * Git * GitHub ' JavaScript ' MS Power Apps
+
+MS Power Automation * Google Collab  AwsGlue Openai ' Python ' | Python Automation | Chatbots
+Error Handling |  Firebase — Amazon Web Services (AWS) API ' Powerapps — Microsoft Power Platform
+C++ | CSS . Software Development | Linux | Language Skills — HTML'  Database * Java SQL
+
+Teamwork — Problem Solving » Efective Communication ' | Planning é: Organization  PowerApps | Llms
+
+Información Personal
+
+M%  lourdes.cajicaOsofttek.com
+» +522212830660
+m linkedin.com/in/lourdes-cajica
+
+() sithub.com/lulugato12
+
+() Actividad de GitHub
+
+*º lulugato12
+» Miembro desde 2018
+Última actividad agosto 2025
+
+Java$criptº Pythonº HTML 3 Java 2 NetLogo 1
+
+Ver Más
+32 11 -
+REPOS FOLLOWERS GISTS
+hola
+
+https://github.com/lulugato12/hola — HTML
+Este es mi primer sitio web :)
+agosto 2024 780KB
+
+
+--- Página 5 (OCR) ---
+
+2/19/2026 Lourdes Beatriz Cajica Maceda
+
+saludos
+
+https://github.com/lulugato12/saludos — HTML
+
+Este es mi primer sitio web :)
+
+agosto 2024 780KB
+
+mi-pagina
+
+https://github.com/lulugato12/mi-pagina  HTML
+agosto 2024 778KB
+
+testing-python
+https://github.com/lulugato12/testing-python — Python
+agosto 2023
+
+game_api
+
+https://github.com/lulugato12/game_api — Javascript
+enero2023 206KB 11
+
+lourdescajica
+https://github.com/lulugato12/l0urdescajica — Javascript
+abril 2021 10MB
+
+CATNESS
+
+https://github.com/lulugato12/CATNESS — Python
+Methods for transcription networks analysis.
+diciembre 2024 38KB 1
+
+mis_datos
+
+https://github.com/lulugato12/mis_datos
+julio 2022 3MB
+
+netZooPy
+
+https://github.com/lulugato12/netZooPy
+netZooPy is a network biology package implemented in Python.
+junio 2022 189MB
+
+sistemas_inteligentes_final
+https://github.com/lulugato12/sistemas_inteligentes_final — Python
+junio 2022 2KB
+
+anima_list
+
+https://github.com/lulugato12/anima_list — Javascript
+final_project_web
+junio 2022 4MB
+
+
+--- Página 6 (OCR) ---
+
+2/19/2026 Lourdes Beatriz Cajica Maceda
+
+sugarscape
+
+https://github.com/lulugato12/sugarscape NetLogo
+marzo 2022 20KB
+
+parcial2_ labweb
+https://github.com/lulugato12/parcial?_labweb — Javascript
+mayo 2022 161KB
+
+scripts
+
+https://github.com/lulugato12/scripts — Python
+
+Scripts miscelaneous for managing data from GDC and STRING
+octubre 2021 2MB
+
+connect-it
+
+https://github.com/lulugato12/connect-it — Javascript
+marzo 2022 37MB
+
+shiny-octo-pancake
+https://github.com/lulugato12/shiny-octo-pancake
+
+marzo 2022
+
+parciallLabWeb
+https://github.com/lulugato12/parciallLabWeb — Javascript
+marzo 2022 34MB
+
+project-demo
+https://github.com/lulugato12/project-demo
+
+marzo 2022 1KB
+
+plots
+
+https://github.com/lulugato12/plots
+
+diciembre 2021 386KB
+
+APi-Kanban
+
+https://github.com/lulugato12/APi-Kanban — Javascript
+diciembre 2021 109KB 1
+
+crash-course-python
+https://github.com/lulugato12/crash-course-python — JupyterNotebook
+Curso práctico de Python en libretas de Jupyter
+
+marzo 2021 28KB
+
+sugarscape_v1
+
+https://github.com/lulugato12/sugarscape_v1
+
+
+--- Página 7 (OCR) ---
+
+2/19/2026 Lourdes Beatriz Cajica Maceda
+
+diciembre 2021 85KB 1
+
+course_notes
+
+https://github.com/lulugato12/c0urse_notes
+Personal notes fromallthe courses I've taken.
+diciembre 2020
+
+backend-proyecto-final
+https://github.com/lulugato12/backend-proyecto-final — Javascript
+diciembre 2020 92KB
+
+amp.dev
+
+https://github.com/lulugato12/amp.dev
+The AMP Project Website.
+noviembre 2020 1113MB
+
+Verano Matematicas2020
+https://github.com/lulugato12/VeranoMatematicas2020
+Repositorio con material del curso: Introducción al Análisis de Redes Complejas de la X Escuela de Verano de
+Matemáticas - Aprendizaje Automático en Biología de Sistemas
+agosto 2020 23MB
+
+lab2
+
+https://github.com/lulugato12/lab2 — Java
+
+septiembre 2019 19KB 14
+
+lab1
+
+https://github.com/lulugato12/lab1
+
+febrero2022 1KB
+
+crud_hotel_v1
+
+https://github.com/lulugato12/crud_hotel_v1 PHP
+Proyecto final de Bases de Datos. Aplicación web para administrar un hotel.
+junio 2019 108KB
+
+dns
+
+https://github.com/lulugato12/dns — Java
+Proyecto final de Fundamentos de Redes. Simulación del protocolo DNS.
+diciembre 2021 61KB 1
+
+create-your-own-adventure
+
+https://github.com/lulugato12/create-your-own-adventure — shell
+marzo 2019 8MB
+
+
+--- Página 8 (OCR) ---
+
+2/19/2026 Lourdes Beatriz Cajica Maceda
+
+Fluid-Concepts-and-Creative-Analogies
+
+https://github.com/lulugato12/Fluid-Concepts-and-Creative-Analogies
+octubre 2019 81MB
+
+
+--- Página 9 (OCR) ---
+
+LOURDES BEATRIZ CAJICA MACEDA
+
+CURRICULUM VITAE
+lilusa12egmail.com linkedin.com/in/lourdes-cajica +522212830660
+Education:
+Instituto Nacional de Astrofísica, Óptica y Electrónica August 2024 - Present
+MSc. Computer Science GPA 99.86/100
+Instituto Tecnológico y de Estudio Superiores de Monterrey August 2017 - December 2022
+BSc. Computer Science and Technology - Honorific Mention GPA 93.24/100
+Specialization in Software Development
+ITMO University - Exchange Program January - February 2021
+Competitive Programming and Cybersecurity Bootcamp GPA 100/100
+Experience:
+Softtek June 2023 - Present
+
+Software Engineer| Innovation Team
+
+e Deve
+
+oping multiple features for an application that processes large-scale projects using LLM
+
+technologies.
+
+e Deve
+
+'oped a module to create document chatbots, using the OpenAl and FAISS libraries in Python,
+
+with FastAPI.
+
+Softtek -
+
+Constellation Brands August 2022 - June 2023
+
+Software Developer Intern | Integrations Team
+
+e Deve
+
+'oped an MS PowerApp application to handle tickets of issues within the development team. The
+
+app used MS SharePoint lists as a database and an MS Power Automate flow to generate CSV reports.
+e Implemented a testing protocol in a PowerApp application using the PowerApps' Test Studio.
+e Helped implement an error handling and alerts protocol in all AWS Glue Jobs and Lambda Functions
+
+with Python and a Lambda Function that connects through a hook to a MS Teams team.
+
+Ellucian
+
+January - March 2022
+
+Technical Consultant Intern | Financial Aid Module Team
+e Attended meetings with multiple USA-based clients to help them with their specific needs.
+
+e Discu
+
+ssed with other consultants different approaches to each case.
+
+Major Projects:
+
+Web Development Final Project: Animalist January - June 2022
+e Developed an API with DJango and GraphQL, and an API to call a Classification Model with FastAPI.
+
+e Designed and created a database with PostgreSQL and deployed the three services with Docker in a
+Centos 7 server in AWS.
+
+Skills:
+
+Programming Languages
+Python (advanced), C/C++ (intermediate), Linux Shell (intermediate), Javascript (intermediate), Java
+
+(basic).
+
+Technologies
+MS PowerApps (advanced), MS Power Automate Flows (intermediate), AWS Lambda Functions
+(intermediate), AWS Glue Jobs (intermediate), Git/GitHub (intermediate), HTML/CSS (basic), Firebase
+
+(basic).
+
+Languages
+Spanish (native), English (B2+, 603 TOEFLITP).

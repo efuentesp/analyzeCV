@@ -9,7 +9,7 @@ from typing import Any, Dict, List
 # No se definen clases manuales; se usa pydantic.create_model para validación ligera.
 
 TEMPLATE_PATH = os.path.join("PLANTILLA-DE-CV.docx")
-JSON_PATH = os.path.join("cv", "json_data", "testers.json")
+JSON_PATH = os.path.join("cv", "json_data", "liderTecnico.json")
 OUTPUT_DIR = os.path.join("cv", "final_cv")
 
 def load_json(path: str) -> Dict[str, Any]:
@@ -40,6 +40,13 @@ def prepare_context(data: Dict[str, Any]) -> Dict[str, Any]:
         # Mapeo de alias comunes -> clave esperada
         aliases = {
             "nombre": ["nombre", "name"],
+            "mail": ["mail", "email", "correo", "correo_electronico"],
+            "genero": ["genero", "sexo", "gender"],
+            "fecha_nacimiento": ["fecha_nacimiento", "fechaNacimiento", "birth_date", "dob", "fecha_de_nacimiento"],
+            "fecha_cedula": ["fecha_cedula", "fechaCedula", "fecha_de_cedula", "fecha-cedula"],
+            "rfc": ["rfc"],
+            "curp": ["curp"],
+            "no_cedula": ["no_cedula", "numero_cedula", "cedula", "no-cedula", "noCedula"],
             "rol_propuesto": ["rol_propuesto", "rol", "role", "rolPropuesto"],
             "resumen_profesional": ["resumen_profesional", "perfil", "profile", "summary"],
             "experiencia_laboral": ["experiencia_laboral", "experiencia", "experience", "work_experience"],
@@ -68,6 +75,13 @@ def prepare_context(data: Dict[str, Any]) -> Dict[str, Any]:
     CVModel = create_model(
         "CVModel",
         nombre=(str, ...),
+        mail=(str, ""),
+        genero=(str, ""),
+        fecha_nacimiento=(str, ""),
+        fecha_cedula=(str, ""),
+        rfc=(str, ""),
+        curp=(str, ""),
+        no_cedula=(str, ""),
         rol_propuesto=(str, ...),
         resumen_profesional=(str, ...),
         experiencia_laboral=(list, []),

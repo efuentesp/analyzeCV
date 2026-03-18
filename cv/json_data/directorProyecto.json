@@ -1,0 +1,123 @@
+{
+  "nombre": "Karla Paola Pulido Guillén",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "2334215",
+  "fecha_cedula": "10/7/1996",
+  "rol_propuesto": "Director de Proyecto",
+  "resumen_profesional": "Tengo al menos cinco años de experiencia en dirección de proyectos similares al objeto de la presente licitación. En mi trayectoria he dirigido servicios administrados y fábricas de software para clientes del sector público, asegurando gobernanza y cumplimiento de SLA mediante prácticas de AppDev, AMS, ITIS, Aseguramiento de la Calidad (QA) y arquitectura. Coordino equipos multidisciplinarios y células ágiles, reporto estatus a la dirección y gestiono la relación con clientes y escalaciones.\n\nMi enfoque se centra en la continuidad operativa, la gestión financiera del proyecto y la mejora de la rentabilidad, manteniendo procesos, controles de cambio y transferencia de operación cuando corresponde. Trabajo estrechamente con Oficina de Gestión de Proyectos (PMO), líderes y especialistas para alinear entregables y garantizar la satisfacción del cliente.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek",
+      "puesto": "Director de Proyecto - PENSIONISSSTE Fábrica de Software",
+      "fecha_inicio": "31 diciembre 2025",
+      "fecha_fin": "A la fecha",
+      "actividades_principales": [
+        "Coordino las actividades de gerentes, Oficina de Gestión de Proyectos (PMO), líderes, especialistas técnicos y administrativos que integran el proyecto y realizo la revisión mensual de los servicios; en sitio o bajo demanda.",
+        "Gestiono los servicios en el marco del contrato del PENSIONISSSTE “Actualización Tecnológica de la Base de Datos y el Sistema Central Operativo del PENSIONISSSTE”.",
+        "El servicio/proyecto que gestiono incluye la práctica de AppDev, AMS, ITIS y Arquitectura a través de un Gerente de entrega de proyectos (Delivery Manager) y varios equipos especializados conformados en células ágiles para cada solicitud de los servicios del contrato.",
+        "Gestiono los servicios en el marco del contrato del IFT “Renovación de los servicios de Fábrica de Software”.",
+        "Este servicio/proyecto incluye la práctica de AppDev, AMS y BI a través de un Gerente de entrega de proyectos (Delivery Manager) y varios equipos especializados.",
+        "Realizo el seguimiento a la prestación de los proyectos/servicios.",
+        "Reporto el estatus de los servicios/proyectos a la Dirección de Gobierno de Softtek.",
+        "Recibo y canalizo las escalaciones hechas por el cliente.",
+        "Escalo con el cliente los problemas y riesgos relacionados al servicio/proyecto que se presta.",
+        "Garantizo la satisfacción del cliente.",
+        "Aseguro el apego de los equipos de trabajo a los procesos, lineamientos y marcos definidos.",
+        "Superviso la rentabilidad del equipo de trabajo en los niveles establecidos.",
+        "Mantengo la cobranza en los niveles establecidos.",
+        "Registro y actualizo el estado financiero del proyecto a través del sistema MyOperations.",
+        "Aseguro el cumplimiento de Niveles de Servicio para mantener deductivas y penalizaciones en el mínimo y proveer evidencias para sustentar su cumplimiento.",
+        "Coordino la construcción de equipo y el fortalecimiento de los equipos de trabajo, retroalimentación de los colaboradores.",
+        "Busco colaboradores adicionales cuando es necesario, por ejemplo, equipos de especialistas o personas por cuestiones u oportunidades específicas.",
+        "Gestiono los servicios en el marco del contrato del IFT “Servicios administrados de nube híbrida y soporte operative”.",
+        "Coordino el análisis y diagnóstico de la operación y gestión actual, así como la implementación de la plataforma WSO2.",
+        "Dirijo la fase de estabilización en donde se generó la documentación técnica de los portales y sistemas, la documentación de los procesos de IT, la puesta en marcha de una CMDB y la entrega y puesta a punto de las suscripciones de software (Mongo DB, WSO2, Dynatrace, CHKMK).",
+        "Dirijo la fase de operación con la gestión y monitoreo de los portales, sistemas y plataformas de TIC del IFT.",
+        "Atiendo requerimientos específicos, es decir proyectos solicitados como migración de plataformas, actualización de versiones, etc.",
+        "Lidero la fase de cierre que abarca un periodo de 2 meses para realizar la transferencia de la operación al IFT o a quien éste designe.",
+        "Gestioné los servicios del contrato INFONAVIT, incluyendo análisis, diseño y ejecución de pruebas de software funcionales y no funcionales (desempeño, cargas, estrés, concurrencia) en ambiente de pruebas (QA).",
+        "Realicé el seguimiento a la prestación de los proyectos/servicios.",
+        "Reporté el estatus de los servicios/proyectos a la Dirección de Gobierno de Softtek."
+      
+      ]
+    },
+    {
+      "empresa": "Softtek",
+      "puesto": "Director de Proyecto - IFT – CRT Fábrica de Software",
+      "fecha_inicio": "01 julio 2024",
+      "fecha_fin": "16 febrero 2026",
+      "actividades_principales": [
+        "Gestiono los servicios en el marco del contrato del IFT “Renovación de los servicios de Fábrica de Software”.",
+        "Este servicio/proyecto incluye la práctica de AppDev, AMS y BI a través de un Gerente de entrega de proyectos (Delivery Manager) y varios equipos especializados.",
+        "Realizo el seguimiento a la prestación de los proyectos/servicios.",
+        "Reporto el estatus de los servicios/proyectos a la Dirección de Gobierno de Softtek.",
+        "Recibo y canalizo las escalaciones hechas por el cliente.",
+        "Escalo con el cliente los problemas y riesgos relacionados al servicio/proyecto que se presta.",
+        "Garantizo la satisfacción del cliente.",
+        "Aseguro el apego de los equipos de trabajo a los procesos, lineamientos y marcos definidos.",
+        "Superviso la rentabilidad del equipo de trabajo en los niveles establecidos.",
+        "Mantengo la cobranza en los niveles establecidos.",
+        "Registro y actualizo el estado financiero del proyecto a través del sistema MyOperations.",
+        "Aseguro el cumplimiento de Niveles de Servicio para mantener deductivas y penalizaciones en el mínimo y proveer evidencias para sustentar su cumplimiento.",
+        "Coordino la construcción de equipo y el fortalecimiento de los equipos de trabajo, retroalimentación de los colaboradores.",
+        "Busco colaboradores adicionales cuando es necesario, por ejemplo, equipos de especialistas o personas por cuestiones u oportunidades específicas."
+      
+    ]
+    },
+    {
+      "empresa": "Softtek",
+      "puesto": "Director de Proyecto - IFT- CRT ITIS",
+      "fecha_inicio": "01 enero 2022",
+      "fecha_fin": "16 febrero 2026",
+      "actividades_principales": [
+        "Gestiono los servicios en el marco del contrato del IFT “Servicios administrados de nube híbrida y soporte operative”.",
+        "Coordino el análisis y diagnóstico de la operación y gestión actual, así como la implementación de la plataforma WSO2.",
+        "Dirijo la fase de estabilización en donde se generó la documentación técnica de los portales y sistemas, la documentación de los procesos de IT, la puesta en marcha de una CMDB y la entrega y puesta a punto de las suscripciones de software (Mongo DB, WSO2, Dynatrace, CHKMK).",
+        "Dirijo la fase de operación con la gestión y monitoreo de los portales, sistemas y plataformas de TIC del IFT.",
+        "Atiendo requerimientos específicos, es decir proyectos solicitados como migración de plataformas, actualización de versiones, etc.",
+        "Lidero la fase de cierre que abarca un periodo de 2 meses para realizar la transferencia de la operación al IFT o a quien éste designe."
+      ]
+    },
+    {
+      "empresa": "Softtek",
+      "puesto": "Director de proyecto INFONAVIT ",
+      "fecha_inicio": "01 noviembre 2020",
+      "fecha_fin": "30 abril 2022",
+      "actividades_principales": [
+        "Gestioné los servicios del contrato INFONAVIT, incluyendo análisis, diseño y ejecución de pruebas de software funcionales y no funcionales (desempeño, cargas, estrés, concurrencia) en ambiente de pruebas (QA).",
+        "Realicé el seguimiento a la prestación de los proyectos/servicios.",
+        "Reporté el estatus de los servicios/proyectos a la Dirección de Gobierno de Softtek."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde 05 julio de 2004 hasta 30 octubre de 2020",
+  "resumen_laboral": "Durante este período asumí responsabilidades de coordinación y gestión de proyectos y contratos, desempeñando roles como Gerente de Sistemas y Procesos, Líder de Proyecto, Gerente de entrega de proyectos (Delivery Manager) y Gerente de Digitalización. Me encargué del cumplimiento de requisitos contractuales, control de presupuestos, selección y contratación de equipos, estandarización de procesos y entrega de evidencias para cierres contractuales. Trabajé en la integración entre equipos internos y del cliente para cumplir compromisos y optimizar la operación.",
+  "estudios": {
+    "carrera": "Licenciatura en Sistemas de Información Administrativos",
+    "lugar": "Instituto Tecnológico y De Estudios Superiores de Monterrey | Campus Ciudad de México",
+    "periodo": "1991 - 1995"
+  },
+  "certificaciones": [
+    {
+      "nombre": "PMP Project Management Professional - Profesional en Gestión de Proyectos (PMP)",
+      "anio": "2017-2026"
+    },
+    {
+      "nombre": "Scrum Alliance",
+      "anio": "2026"
+    },
+    {
+      "nombre": "ITIL Foundation Certificate in IT Service Management - Biblioteca de Infraestructura de Tecnologías de Información (ITIL)",
+      "anio": "2019-2027"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "ITIL Foundation Certificate in IT Service Management - Biblioteca de Infraestructura de Tecnologías de Información (ITIL)"
+    }
+  ]
+}

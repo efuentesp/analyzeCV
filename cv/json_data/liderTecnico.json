@@ -1,46 +1,78 @@
 {
   "nombre": "Rosain Castillo Eng",
-  "rol_propuesto": "Lider Tecnico",
-  "resumen_profesional": "Profesional con experiencia en dirigir equipos técnicos en la implementación y operación de soluciones orientadas a disponibilidad y seguridad.\nCoordinar la integración de componentes y la adaptación de legados para garantizar continuidad de servicio.\nSupervisar el aseguramiento de la calidad y el cumplimiento de controles de seguridad como PCI DSS.\nFacilitar la comunicación entre áreas técnicas y de negocio para alinear objetivos de entrega.\n\nGestionar proyectos tecnológicos definiendo pruebas, estimaciones y requisitos de infraestructura.\nAdemás, promueve estándares de arquitectura y prácticas de despliegue para entornos en la nube y on-premise.\nImpulsa la automatización y la entrega coordinada de releases en equipos distribuidos.\nPrioriza la evaluación de riesgos y la planificación para minimizar impactos operativos.",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "7444528",
+  "fecha_cedula": "3/20/2012",
+  "rol_propuesto": "Líder Técnico",
+  "resumen_profesional": "Tengo al menos 5 años de experiencia en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas.\nDominio en las tecnologías de la Arquitectura de Referencia (AR)  y/o tecnologías open source.\nAdicional:\nAl menos 3 años de experiencia en desarrollo en metodologías ágiles\n\nTengo amplia experiencia coordinando equipos técnicos para la entrega de soluciones críticas en entornos de integración y migración, incluyendo definición de mensajes Organización Internacional de Normalización (ISO-8583) y reemplazo de componentes de cifrado. Me enfoco en asegurar la calidad del software y la correcta implementación de soluciones, así como en la estimación y planificación de esfuerzos.\n\nDirijo iniciativas de automatización y despliegue con contenedores, orquestación y pipelines de publicación, y participo en la definición de arquitecturas de alta disponibilidad y estándares de desarrollo. Trabajo en la coordinación entre áreas técnicas y no técnicas para garantizar la continuidad operacional y cumplimiento de controles.",
   "experiencia_laboral": [
     {
       "empresa": "Softtek - Walmart de México y Centroamérica",
-      "puesto": "Tech Lead",
-      "fecha_inicio": "junio 2020",
+      "puesto": "Líder Técnico",
+      "fecha_inicio": "1 junio 2020",
       "fecha_fin": "Actual",
       "actividades_principales": [
-        "Definir las pruebas y tiempos de respuesta del software de cifrado para cumplir con los controles PCI DSS.",
-        "Solicitar los requerimientos de hardware para la ambientación de legados que utilizan el software de cifrado.",
-        "Ambientar los legados y sus endpoints para realizar pruebas end to end y validar el funcionamiento del cifrado.",
-        "Estimar tiempo y esfuerzo necesarios para la actualización de componentes que utilizan el software de cifrado.",
-        "Definir el mensaje ISO8583 para el cambio de autorizador del legado de renovación de membresías (sustitución de EPay por Authentic).",
-        "Coordinar al equipo de desarrollo para la actualización del código al nuevo software de cifrado.",
-        "Diseñar un modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta.",
-        "Planificar y coordinar pruebas de integración y despliegue relacionadas con la implementación del cifrado.",
-        "Supervisar la ejecución de las pruebas end to end para asegurar la calidad de la solución.",
-        "Alinear requisitos funcionales y técnicos con controles de seguridad aplicables al procesamiento de tarjetas."
+        "Dirijo y coordino equipos técnicos implementando y optimizando tecnologías para alcanzar objetivos estratégicos de desarrollo. Aseguro la calidad del software, la correcta implementación de las soluciones y el uso adecuado de herramientas y buenas prácticas. Actúo como enlace entre el equipo técnico y otras áreas del proyecto. Garantizo la integración de los componentes técnicos y los alineo con la arquitectura y la seguridad del SAT. Habilidades en: Gestión de Proyectos, Liderazgo.",
+        "Defino las pruebas y tiempos de respuesta del software que sustituirá el mecanismo de cifrado de tarjetas bancarias que deben cumplir con los controles de PCI DSS.",
+        "Solicito los requerimientos de hardware que se requieren para la ambientación de legados que utilizan el software de cifrado.",
+        "Ambiento los legados y sus endpoints para realizar pruebas end to end y garantizar el correcto funcionamiento del cifrado.",
+        "Estimo el tiempo y esfuerzo que se requiere para actualizar los componentes que utilizan el software de cifrado.",
+        "Defino el mensaje Organización Internacional de Normalización (ISO-8583) para el cambio de autorizador del legado de renovación de membresías, sustituyendo EPay por Authentic.",
+        "Coordino el equipo de desarrollo para actualizar el código para el uso del nuevo software de cifrado.",
+        "Diseño modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta.",
+        "Configuré RDS para PostgreSQL.",
+        "Configuré y ejecuté SonaQube con Docker en una instancia de EC2.",
+        "Configuré Dockerfile para crear la imagen del front (React) y del back (ASP.NET Core).",
+        "Configuré AWS Fargate para la ejecución de los contenedores de front y back.",
+        "Automaticé la publicación de los contenedores del front y el back (Azure DevOps).",
+        "Coordinar la etapa de análisis de los procesos de conciliación de la dependencia.",
+        "Elaboración del cronograma.",
+        "Incorporación de recursos al equipo.",
+        "Elaboración del Plan de Desarrollo de Proyecto (PDP).",
+        "Revisión de métricas.",
+        "Monitoreo y registro de riesgos.",
+        "Presentación de avances con el cliente."
+      ]
+    },
+    {
+      "empresa": "Softtek - Element Fleet Management",
+      "puesto": "Líder Técnico",
+      "fecha_inicio": "2 enero 2020",
+      "fecha_fin": "31 mayo 2020",
+      "actividades_principales": [
+        "Configuré RDS para PostgreSQL.",
+        "Configuré y ejecuté SonaQube con Docker en una instancia de EC2.",
+        "Configuré Dockerfile para crear la imagen del front (React) y del back (ASP.NET Core).",
+        "Configuré AWS Fargate para la ejecución de los contenedores de front y back.",
+        "Automaticé la publicación de los contenedores del front y el back (Azure DevOps)."
+      ]
+    },
+    {
+      "empresa": "Softtek - BANOBRAS",
+      "puesto": "Project Manager",
+      "fecha_inicio": "3 junio 2019",
+      "fecha_fin": "31 diciembre 2019",
+      "actividades_principales": [
+        "Coordinar la etapa de análisis de los procesos de conciliación de la dependencia.",
+        "Elaboración del cronograma.",
+        "Incorporación de recursos al equipo.",
+        "Elaboración del Plan de Desarrollo de Proyecto (PDP).",
+        "Revisión de métricas.",
+        "Monitoreo y registro de riesgos.",
+        "Presentación de avances con el cliente."
       ]
     }
   ],
-  "periodo_resumen_laboral": "febrero 2006 - mayo 2020",
-  "resumen_laboral": "Durante este período se desempeñaron funciones de gestión y coordinación de proyectos y equipos en entornos de desarrollo y mantenimiento de software, incluyendo planificación de recursos, seguimiento de cronogramas, evaluación de métricas y control de riesgos. También se asumieron roles de consultoría técnica y arquitectura para migraciones y mejoras de plataforma, así como actividades de capacitación y soporte a equipos. Las responsabilidades se orientaron a garantizar entregables, supervisar la calidad y facilitar la comunicación entre áreas técnicas y de negocio.",
+  "periodo_resumen_laboral": "La experiencia abarca desde 01 febrero de 2006 hasta 31 mayo de 2019",
+  "resumen_laboral": "Durante este período me desempeñé en roles como .NET Developer, .NET Consultant, Software Architect y Project Manager. Asumí responsabilidades de planificación y estimación de tareas, gestión de recursos, seguimiento de cronogramas y presentación de avances. Participé en actividades de soporte, migración de sistemas y definición de estándares, así como en la capacitación y coordinación de equipos. Mis funciones incluyeron la supervisión de métricas y la ejecución de proyectos orientados a la mejora de procesos y reducción de defectos.",
   "estudios": {
     "carrera": "Ingeniería en Sistemas Computacionales",
     "lugar": "Universidad Tecnológica de México",
-    "periodo": "2005"
-  },
-  "ajuste_puesto_liderazgo": {
-    "empresa": "Softtek - BBVA",
-    "puesto": ".NET Consultant",
-    "fecha_inicio": "mayo 2016",
-    "fecha_fin": "marzo 2017",
-    "actividades_principales": [
-      "Migrar sistema de Visual Basic 6.0 a Java.",
-      "Ambientar sistema para depuración e identificación de flujos de negocio.",
-      "Elaborar diagramas y casos de uso de las funciones identificadas en el sistema.",
-      "Identificar y documentar funciones comunes en módulos de negocio diferentes.",
-      "Registrar tiempos, tamaños, defectos y revisiones en Process Dashboard for PSP Team."
-    ]
+    "periodo": "CDMX/2005"
   },
   "certificaciones": [],
   "cursos": [

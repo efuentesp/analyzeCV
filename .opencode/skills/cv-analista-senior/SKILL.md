@@ -8,17 +8,14 @@ metadata:
 
 # SAT CV Extractor - Analista Senior
 
-Analizar todo el CV y devolver únicamente un JSON válido con la estructura definida.  
-No agregar texto fuera del JSON.  
-No explicar.  
-No comentar.
+Analizar todo el CV y devolver únicamente un JSON válido con la estructura definida sin agregar texto fuera del JSON y sin comentar o explicar líneas.
 
 ---
 
 # REGLAS GENERALES
 
 - Usar solo información explícita.
-- No inferir, asumir, reinterpretar ni ampliar.
+- No inferir, asumir, reinterpretar ni ampliar información.
 - No inventar fechas, duraciones ni métricas.
 - No dividir experiencias.
 - No dividir actividades.
@@ -27,25 +24,63 @@ No comentar.
   - `[]` para arreglos
 - No agregar campos.
 - No modificar estructura.
+- **Debe redactarse todo estrictamente en primera persona.**
 
----
+- Los campos `fecha_inicio` y `fecha_fin` deben expresarse como: 
+**{día en número} {mes en texto completo} {año}**
+- Ejemplo de formato final:  15 marzo 2024
 
-## Formato de fechas laborales
-
-Los campos `fecha_inicio` y `fecha_fin` deben expresarse como:
-
-**{mes en texto completo} {año}**
+## Normalización de meses
 
 Si el mes aparece abreviado en el CV, expandirlo:
-
 ene→enero, feb→febrero, mar→marzo, abr→abril, may→mayo, jun→junio, jul→julio, ago→agosto, sep→septiembre, oct→octubre, nov→noviembre, dic→diciembre.
 
-Ejemplo:
+Ejemplo:  
 ene 2025 → enero 2025
 
-Si no se especifica mes, dejar solo el año.
+## Regla cuando no se especifica el mes
 
-No inferir meses ni modificar el año.
+Si el CV **solo indica el año**:
+
+- Para `fecha_inicio` usar **enero**.
+- Para `fecha_fin` usar **diciembre**.
+
+Ejemplo:  
+2021 →  
+fecha_inicio: **2 enero 2021** *(primer día laborable disponible entre el 1 y el 4)*  
+fecha_fin: **31 diciembre 2021**
+
+## Regla para `fecha_inicio`
+
+Si el CV **no especifica el día**, asignar un día **entre el 1 y el 4 del mes**, asegurando que sea **día laborable (lunes a viernes)**.
+
+Reglas:
+- Seleccionar el primer día laborable disponible entre el 1 y el 4.
+- No modificar el mes ni el año indicados en el CV.
+
+Ejemplo:  
+marzo 2022 → **1 marzo 2022** *(si es laborable)*
+
+## Regla para `fecha_fin`
+
+Si el CV **no especifica el día**, asignar **siempre el último día del mes correspondiente**.
+
+Ejemplos:
+
+marzo 2024 → 31 marzo 2024  
+abril 2023 → 30 abril 2023  
+febrero 2025 → 28 febrero 2025
+
+No inferir ni modificar el **año** indicado en el CV.
+
+# REGLA DE SELECCIÓN DE ESTUDIOS
+
+En el campo `estudios` se debe registrar **únicamente el grado de nivel licenciatura o equivalente**.
+
+Reglas:
+- Seleccionar únicamente estudios cuyo nivel sea **Licenciatura, Ingeniería o equivalente universitario**.
+- No incluir **posgrados** como Maestrías, MBA, Doctorados, Especialidades o diplomados.
+- Si el CV contiene licenciatura y posgrado: Registrar **solo la licenciatura**.
 
 ---
 
@@ -53,54 +88,48 @@ No inferir meses ni modificar el año.
 
 El campo **resumen_profesional** debe generarse bajo las siguientes reglas obligatorias:
 
-- Solo debe existir un único Resumen Profesional para todo el CV.
-- Debe considerar la totalidad de la experiencia laboral descrita, sin distinción de empresas.
-- Debe estar redactado en narración impersonal, con tono objetivo y formal.
-- No debe utilizar pronombres personales como: "yo", "mi", "nosotros", "nuestro".
-- Debe enfocarse en logros, contribuciones, responsabilidades clave y competencias relevantes al rol de Analista Senior, no en el sujeto.
-- Debe destacar lo solicitado en el Requerimiento del Rol.
-- No debe incluir certificaciones, cursos, capacitaciones ni formación académica.
-- No debe mencionar grados de estudio de forma explícita (ej. licenciatura, ingeniería, maestría, doctorado o similares).
-- No debe iniciar con fórmulas como “Profesional con…”, “Gerente con…”, “Líder con…”.
-- No debe inventar información.
-- No debe agregar métricas si no están explícitas en el CV.
+# Frase inicial obligatoria
 
-## Reglas de alineación con el rol
+El resumen **debe iniciar obligatoriamente con una paráfrasis muy ligera** (variación aproximada de 5 palabras) de la siguiente redacción base:
 
-## Reglas de alineación con el rol
+"Cuento con al menos 5 años de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y soluciones de Inteligencia de Negocio, así como en la gestión y coordinación de equipos de trabajo."
 
-El resumen debe reflejar experiencia en:
+Reglas para la paráfrasis:
+- La estructura general debe mantenerse.
+- Solo se permite una **variación ligera de vocabulario (aprox. 5 palabras)**.
+- No debe agregar información que no exista en el CV.
+- Esta frase funciona como **apertura del resumen profesional**.
 
-- Gestión y control de documentación asociada a la prestación de servicios.
-- Preparación, organización y validación de expedientes o entregables documentales.
-- Coordinación con áreas internas y externas para la correcta formalización de documentos.
-- Recopilación y verificación de firmas que respalden evidencias de servicio (solo si está explícito).
-- Seguimiento al cumplimiento de requisitos documentales establecidos por el cliente o la organización.
-- Control de calidad y consistencia de la documentación antes de su entrega formal.
-- Administración de evidencias que sustenten los servicios prestados.
-- Manejo de herramientas o plataformas de gestión documental (solo si se mencionan explícitamente).
-- Aseguramiento de trazabilidad y resguardo adecuado de la documentación generada.
+# Desarrollo del resumen
 
-Debe dar a entender el cumplimiento integral de la función, enfocándose en la gestión, control y formalización documental, sin replicar la redacción original de las funciones ni convertirlo en una lista operativa.
+Después de la frase inicial, el resumen debe continuar con **dos párrafos narrativos** que sinteticen la experiencia del perfil.
 
-## Reglas de estructura obligatorias
+Reglas:
+- Deben generarse **dos párrafos**.
+- Cada párrafo debe tener **máximo 4 renglones**.
+- El resumen completo **no debe superar 160 palabras**.
+- Debe redactarse en **prosa continua**.
 
-- Debe tener una extensión total de dos párrafos con 4 renglones cada uno con un máximo de 140 palabras en total.
-- Debe estar redactado en prosa continua.
-- Cada párrafo debe ser un bloque narrativo fluido.
-- No debe redactarse como lista de funciones o actividades.
-- No debe estructurarse como enumeración explícita ni implícita.
-- No debe separar ideas en líneas independientes por actividad.
-- No debe presentar múltiples oraciones consecutivas iniciadas en infinitivo (ej. "Coordinar", "Supervisar", "Gestionar").
-- No debe repetir la misma estructura gramatical en oraciones consecutivas.
-- Las responsabilidades deben integrarse dentro de una narrativa ejecutiva, no en formato descriptivo operativo.
-- Debe leerse como una introducción ejecutiva del perfil profesional, no como detalle operativo de tareas.
+## Reglas de contenido
+
+El resumen debe:
+- Considerar la totalidad de la experiencia laboral descrita.
+- Debe integrar de manera estratégica las capacidades clave asociadas al análisis de requerimientos, demostrando coherencia con responsabilidades como levantamiento y documentación de requerimientos complejos, coordinación con equipos de desarrollo, QA y negocio, validación funcional, interlocución con usuarios, liderazgo de analistas junior y gestión integral de los requerimientos del proyecto.
+
+El resumen **no debe**:
+- Incluir certificaciones, cursos ni formación académica.
+- Inventar información.
+- Redactarse como lista de funciones o actividades.
+- Estructurarse como enumeración explícita o implícita.
+- Separar ideas en líneas independientes por actividad.
+- Repetir la misma estructura gramatical en oraciones consecutivas.
 
 ## Criterios de claridad
 
-- Debe ser claro y comprensible para lectores no técnicos.
-- Debe sintetizar el perfil profesional resaltando el valor aportado en términos de continuidad de servicios y cumplimiento de procesos.
-- Debe proyectar seniority cuando la experiencia lo respalde.
+El resumen debe:
+- Ser claro y comprensible para lectores no técnicos.
+- Sintetizar el perfil resaltando el valor aportado en términos de continuidad de servicios y cumplimiento de procesos.
+- Proyectar **seniority** cuando la experiencia lo respalde.
 
 ---
 
@@ -108,36 +137,28 @@ Debe dar a entender el cumplimiento integral de la función, enfocándose en la 
 
 ## Criterio de relevancia
 
-## Criterio de relevancia
-
-Una experiencia es válida solo si contiene evidencia explícita de al menos una de las siguientes acciones o responsabilidades:
-
-- Gestión, control o administración de documentación relacionada con la prestación de servicios.
-- Preparación, integración u organización de expedientes o entregables documentales.
-- Recopilación y validación de firmas que respalden evidencias de servicio.
-- Coordinación con áreas internas o externas para la formalización y entrega de documentación.
-- Seguimiento al cumplimiento de requisitos documentales establecidos por el cliente o la organización.
-- Verificación de consistencia, integridad y calidad de la documentación antes de su entrega.
-- Resguardo, control y trazabilidad de evidencias documentales.
-- Uso de herramientas o plataformas de gestión documental (solo si está explícito).
+Una experiencia es válida solo si contiene evidencia explícita de:
+- Levantamiento y documentación de requerimientos funcionales o de negocio.
+- Análisis y validación de requerimientos con usuarios o áreas de negocio.
+- Coordinación con equipos de desarrollo, QA o testers.
+- Ejecución o seguimiento de validación funcional (pruebas de aceptación, QA).
+- Interlocución directa con usuarios o stakeholders.
+- Liderazgo o coordinación de analistas junior.
+- Gestión integral o seguimiento de requerimientos dentro de un proyecto.
+- Uso de metodologías o herramientas de análisis (Design Thinking, UML, metodologías ágiles o tradicionales).
 
 Si no hay evidencia explícita → OMITIR.
 
-No reinterpretar:
-
-- Actividades administrativas generales sin responsabilidad sobre control o entrega documental.
-- Digitalización o archivo básico sin validación, control o seguimiento.
-- Apoyo operativo sin participación en la formalización o verificación de documentación.
-- Gestión de información sin relación directa con evidencias de servicios prestados.
+No reinterpretar actividades administrativas generales sin responsabilidad sobre control o entrega documental.
 
 ## Regla prioritaria: 5 años acumulados
-
-1. Ordenar experiencias relevantes de la más reciente a la más antigua.
-2. Agregar experiencias completas.
-3. Detener cuando la suma alcance o supere ~5 años.
-4. No recortar experiencias.
+1. Ordenar experiencias relevantes de la más reciente a la más antigua.  
+2. Agregar experiencias completas.  
+3. Detener cuando la suma alcance o supere ~5 años.  
+4. No recortar experiencias.  
 5. Si una es 3 años y otra 4 → incluir ambas.
-6. No agregar más después de superar el umbral.
+
+**Si solo se agregó una experiencia, agregar las siguientes dos en orden cronológico, sin importar duración, para asegurar diversidad de experiencias.**
 
 Si no hay experiencia relevante:
 
@@ -145,154 +166,183 @@ Si no hay experiencia relevante:
 "experiencia_laboral": []
 ```
 
----
+# FASE 2.1 — RESUMEN CONSOLIDADO DE EXPERIENCIA NO SELECCIONADA
 
-## Resumen consolidado de experiencia no seleccionada
+## Regla general
 
-Si existen experiencias laborales que no fueron incluidas en `experiencia_laboral` tras aplicar la regla de filtrado, deben consolidarse en:
+Si existen experiencias laborales que:
+- No fueron incluidas en `experiencia_laboral` tras aplicar la regla de filtrado de FASE 2.
+- Sí existen explícitamente en el CV.
+
+No deben listarse individualmente.
+Deben consolidarse en:
 
 - `periodo_resumen_laboral`
 - `resumen_laboral`
 
-Reglas para `periodo_resumen_laboral` y `resumen_laboral` siguen la misma lógica que en la skill base: fechas más antigua y más reciente, redacción formal, sin métricas ni detalles operativos.
+## periodo_resumen_laboral
 
+Construir una frase con el siguiente formato obligatorio:
 
----
+"La experiencia abarca desde {fecha más antigua} hasta {fecha más reciente}"
 
-# FASE 2.2 — AJUSTE POR PUESTO DE NIVEL SUPERIOR
+Reglas:
+- Tomar la `fecha_inicio` más antigua y la `fecha_fin` más reciente únicamente de las experiencias no seleccionadas.
+- Expresar el mes en texto y el año y el día en formato numérico (ejemplo: 01 diciembre de 2021).
+- No calcular duración en este campo.
+- No agregar texto adicional.
+- No modificar el formato de la frase.
 
-## Regla condicional
+## resumen_laboral
 
-## Regla condicional
+Redactar un párrafo en prosa que:
+- Sea claro y fácil de entender para un lector no técnico.
+- Use lenguaje sencillo y natural.
+- Sea formal y objetivo.
+- Usar primera persona.
+- No incluya actividades técnicas detalladas o métricas.
 
-Si dentro de `experiencia_laboral` (resultado de FASE 2) la experiencia más reciente tiene un puesto que denote mayor nivel de responsabilidad en gestión documental, tales como:
+Debe:
+- Explicar de manera general qué tipo de responsabilidades se asumieron.
+- Mencionar los roles desempeñados (solo nombres de puesto).
+- Omitir nombres de empresas.
+- No iniciar con "Profesional" o "Especialista".
+- Iniciar obligatoriamente con:
+  - "Durante este período..."  o  "En este periodo se desempeñaron funciones como..."
 
-- Analista Senior de Entrega Documental  
-- Coordinador de Entrega Documental  
-- Líder de Gestión Documental  
-- Supervisor de Control Documental  
-- Cualquier puesto que incluya las siglas Sr, SR o Senior  
+Formato obligatorio:
+- Texto continuo (sin listas) con una extensión de **60 a 110 palabras**.
+- No incluir fechas específicas dentro del párrafo.
+- No repetir el texto de `periodo_resumen_laboral`.
 
-Entonces debe ejecutarse la siguiente validación adicional.
+## Caso sin experiencias excluidas
 
----
-
-## Validación adicional
-
-1. Revisar las experiencias excluidas.
-
-2. Buscar la experiencia más cercana a la actualidad cuyo puesto sea de nivel operativo en gestión o entrega documental, tales como:
-
-   - Analista de Entrega Documental  
-   - Analista Documental  
-   - Analista de Control Documental  
-   - Auxiliar Documental  
-   - Analista Junior de Documentación  
-   - Rol equivalente sin nivel Senior  
-   
-3. Si existe:
-
-   - No modificar `experiencia_laboral`.
-   - No alterar la regla de 5 años.
-   - No alterar FASE 3.
-   - Generar una nueva sección llamada `ajuste_puesto_liderazgo`.
-   - Copiar exactamente los campos:
-     - `empresa`
-     - `puesto`
-     - `fecha_inicio`
-     - `fecha_fin`
-   - Generar exactamente 5 actividades en `actividades_principales`.
-   - Aplicar las reglas de redacción de FASE 3 (verbos en infinitivo, narración impersonal, sin inventar información).
-   - No generar más ni menos de 5 actividades.
-   - Estas actividades no forman parte del conteo global de FASE 3.
-
-4. Si no existe experiencia operativa:
+Si no existen experiencias fuera de `experiencia_laboral`:
 
 ```json
-"ajuste_puesto_liderazgo": {
-  "empresa": "",
-  "puesto": "",
-  "fecha_inicio": "",
-  "fecha_fin": "",
-  "actividades_principales": []
-}
+"periodo_resumen_laboral": "",
+"resumen_laboral": ""
 ```
 
-# FASE 3 — ACTIVIDADES
+# REGLA ESPECIAL — PARÁFRASIS INICIAL DE LA PRIMERA EXPERIENCIA
 
-Aplicar únicamente sobre las experiencias seleccionadas en FASE 2.
+Antes de listar cualquier actividad dentro de `actividades_principales` de la **primera experiencia laboral**, se debe agregar una **paráfrasis muy ligera** de la siguiente redacción base:
 
-## Reglas de redacción
+"Analicé propuestas de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos. Coordiné actividades con desarrolladores, testers y áreas de negocio, realicé validación funcional mediante pruebas de aceptación y seguimiento a QA, y mantuve interlocución directa con usuarios. Además, coordiné a analistas junior y aseguré un entendimiento integral de los requerimientos del proyecto asignado. Apliqué habilidades de liderazgo, identificación de problemas y propuesta de soluciones, utilizando herramientas y metodologías de análisis como Design Thinking y UML, así como comunicación efectiva con distintas audiencias y elaboración de documentación en marcos de trabajo tradicionales y ágiles."
 
-- Narración impersonal.
-- Verbos en infinitivo.
-- Redacción formal y objetiva.
-- No usar primera persona.
-- No inventar ni ampliar información.
-- No dividir ni combinar actividades.
-- No reinterpretar funciones ambiguas como desarrollo BI.
+## Reglas de la paráfrasis
+- Debe ser una **paráfrasis ligera** con un cambio aproximado de **15 a 20 palabras como máximo**.
+- Debe **mantener el mismo significado general**.
+- Debe **redactarse en primera persona**.
+- No debe agregar información que no esté implícita en la redacción base.
+- Debe colocarse **como la primera actividad dentro de `actividades_principales` de la primera experiencia laboral**.
+- Esta redacción **debe aparecer antes de cualquier otra actividad**.
 
-## Límites
+# FASE 3 — GENERACIÓN Y CONSOLIDACIÓN DE ACTIVIDADES
 
-### Por puesto
+Esta fase se aplica **únicamente a las experiencias seleccionadas en FASE 2**.
+El objetivo es:
+1. Generar `actividades_principales` para cada experiencia.
+2. Consolidar todas las actividades dentro de la **primera experiencia (la más reciente)**.
 
-- Máximo 10 actividades.
-- No hay mínimo por puesto.
-- Si hay más de 10, priorizar:
-  1. Más relacionadas con desarrollo BI.
-  2. Más técnicas.
-  3. Más recientes.
+# Reglas de redacción
 
-### Global obligatorio
+Todas las actividades deben cumplir:
+- Redacción clara y formal.
+- Redacción **en primera persona**.
+- No reinterpretar funciones ambiguas.
+- No dividir, fusionar ni transformar actividades originales.
 
-Total de actividades (todas las experiencias consolidadas):
-- Mínimo 10.
-- Máximo 14.
-- No crear actividades para cumplir el mínimo
+# Regla de consolidación
 
-## Distribución
+La **primera experiencia laboral (la más reciente)** funciona como **contenedor consolidado de actividades**.
 
-- Si hay 1 sola experiencia → hasta 10 actividades.
-- Si hay 2 o más experiencias → cualquier distribución es válida.
-- Solo debe cumplirse que el total final esté entre 10 y 14.
+Debe contener, en este orden:
+1. **Paráfrasis inicial obligatoria**  
+   (definida en `REGLA ESPECIAL — PARÁFRASIS INICIAL DE LA PRIMERA EXPERIENCIA`)
+2. **Actividades originales de esa experiencia**
+3. **Actividades de todas las demás experiencias seleccionadas**
 
-## Procedimiento (orden obligatorio)
+Las actividades de las experiencias posteriores se agregan **sin modificar su redacción**.
 
-1. Aplicar regla de 5 años (FASE 2).
-2. Consolidar experiencias con el mismo `nombre_empresa` (ver regla 4).
-3. Aplicar máximo 10 actividades por empresa consolidada.
-4. Verificar total global:
-   - Si >14 → reducir por relevancia y recencia.
-   - Si 10–14 → mantener.
-   - Si <10 → mantener sin crear nuevas.
+# Procedimiento
 
-## Consolidación por empresa
+### 1. Ordenar experiencias
 
-Si existen múltiples experiencias con el mismo `nombre_empresa` (coincidencia exacta y sensible a mayúsculas/minúsculas), deben consolidarse en un único registro antes de validar el total global.
+Ordenar las experiencias seleccionadas **de la más reciente a la más antigua**.
 
-La consolidación debe cumplir:
+### 2. Generar actividades por experiencia
 
-- Conservar la fecha de inicio más antigua.
-- Conservar la fecha de fin más reciente.
-- Unificar todas las actividades en una sola lista.
-- Aplicar el máximo de 10 actividades para esa empresa, priorizando:
-  1. Más relacionadas con desarrollo BI.
-  2. Más técnicas.
-  3. Más recientes.
+Para cada experiencia:
+- Extraer sus actividades del CV.
+- Mantenerlas dentro de su experiencia correspondiente.
 
-Después de consolidar, continuar con la validación del total global (10–14).
+### 3. Construir actividades de la primera experiencia
 
-## Jerarquía
+La primera experiencia debe construirse así:
+1. Insertar la **paráfrasis inicial**.
+2. Agregar sus **actividades originales**.
+3. Agregar **todas las actividades de las demás experiencias**, respetando el orden cronológico:
+- experiencia 2  
+- experiencia 3  
+- experiencia 4  
+- etc.
 
-1️⃣ Regla 5 años  
-2️⃣ Total global 10–14  
-3️⃣ Máximo 10 por puesto 
+# Reglas de consistencia
+
+Durante la consolidación:
+- No eliminar actividades.
+- No resumir actividades.
+- No combinar actividades.
+- No modificar el orden interno de las actividades de cada experiencia.
+- No modificar la redacción.
+- No duplicar actividades.
+
+# Ejemplo conceptual
+
+```json
+{
+  "experiencia_laboral": [
+    {
+      "empresa": "Empresa A",
+      "puesto": "Líder Técnico",
+      "fecha_inicio": "...",
+      "fecha_fin": "...",
+      "actividades_principales": [
+        "Paráfrasis inicial de liderazgo técnico...",
+        "Actividad propia experiencia A",
+        "Actividad propia experiencia A",
+        "Actividad experiencia B",
+        "Actividad experiencia B",
+        "Actividad experiencia C"
+      ]
+    },
+    {
+      "empresa": "Empresa B",
+      "puesto": "Desarrollador",
+      "fecha_inicio": "...",
+      "fecha_fin": "...",
+      "actividades_principales": [
+        "Actividad experiencia B",
+        "Actividad experiencia B"
+      ]
+    }
+  ]
+}
+```
 
 # FORMATO DE SALIDA
 
 ```json
 {
   "nombre": "",
+  "mail":"",
+  "genero":"",
+  "fecha_nacimiento":"",
+  "rfc":"",
+  "curp":"",
+  "no_cedula":"",
+  "fecha_cedula":"",
   "rol_propuesto": "",
   "resumen_profesional": "",
   "experiencia_laboral": [

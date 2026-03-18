@@ -8,17 +8,14 @@ metadata:
 
 # SAT CV Extractor - Ingeniero de Datos Senior (BI)
 
-Analizar todo el CV y devolver únicamente un JSON válido con la estructura definida.  
-No agregar texto fuera del JSON.  
-No explicar.  
-No comentar.
+Analizar todo el CV y devolver únicamente un JSON válido con la estructura definida sin agregar texto fuera del JSON y sin comentar o explicar líneas.
 
 ---
 
 # REGLAS GENERALES
 
 - Usar solo información explícita.
-- No inferir, asumir, reinterpretar ni ampliar.
+- No inferir, asumir, reinterpretar ni ampliar información.
 - No inventar fechas, duraciones ni métricas.
 - No dividir experiencias.
 - No dividir actividades.
@@ -27,25 +24,63 @@ No comentar.
   - `[]` para arreglos
 - No agregar campos.
 - No modificar estructura.
+- **Debe redactarse todo estrictamente en primera persona.**
 
----
+- Los campos `fecha_inicio` y `fecha_fin` deben expresarse como: 
+**{día en número} {mes en texto completo} {año}**
+- Ejemplo de formato final:  15 marzo 2024
 
-## Formato de fechas laborales
-
-Los campos `fecha_inicio` y `fecha_fin` deben expresarse como:
-
-**{mes en texto completo} {año}**
+## Normalización de meses
 
 Si el mes aparece abreviado en el CV, expandirlo:
-
 ene→enero, feb→febrero, mar→marzo, abr→abril, may→mayo, jun→junio, jul→julio, ago→agosto, sep→septiembre, oct→octubre, nov→noviembre, dic→diciembre.
 
-Ejemplo:
+Ejemplo:  
 ene 2025 → enero 2025
 
-Si no se especifica mes, dejar solo el año.
+## Regla cuando no se especifica el mes
 
-No inferir meses ni modificar el año.
+Si el CV **solo indica el año**:
+
+- Para `fecha_inicio` usar **enero**.
+- Para `fecha_fin` usar **diciembre**.
+
+Ejemplo:  
+2021 →  
+fecha_inicio: **2 enero 2021** *(primer día laborable disponible entre el 1 y el 4)*  
+fecha_fin: **31 diciembre 2021**
+
+## Regla para `fecha_inicio`
+
+Si el CV **no especifica el día**, asignar un día **entre el 1 y el 4 del mes**, asegurando que sea **día laborable (lunes a viernes)**.
+
+Reglas:
+- Seleccionar el primer día laborable disponible entre el 1 y el 4.
+- No modificar el mes ni el año indicados en el CV.
+
+Ejemplo:  
+marzo 2022 → **1 marzo 2022** *(si es laborable)*
+
+## Regla para `fecha_fin`
+
+Si el CV **no especifica el día**, asignar **siempre el último día del mes correspondiente**.
+
+Ejemplos:
+
+marzo 2024 → 31 marzo 2024  
+abril 2023 → 30 abril 2023  
+febrero 2025 → 28 febrero 2025
+
+No inferir ni modificar el **año** indicado en el CV.
+
+# REGLA DE SELECCIÓN DE ESTUDIOS
+
+En el campo `estudios` se debe registrar **únicamente el grado de nivel licenciatura o equivalente**.
+
+Reglas:
+- Seleccionar únicamente estudios cuyo nivel sea **Licenciatura, Ingeniería o equivalente universitario**.
+- No incluir **posgrados** como Maestrías, MBA, Doctorados, Especialidades o diplomados.
+- Si el CV contiene licenciatura y posgrado: Registrar **solo la licenciatura**.
 
 ---
 
@@ -53,49 +88,48 @@ No inferir meses ni modificar el año.
 
 El campo **resumen_profesional** debe generarse bajo las siguientes reglas obligatorias:
 
-- Solo debe existir un único Resumen Profesional para todo el CV.
-- Debe considerar la totalidad de la experiencia laboral descrita, sin distinción de empresas.
-- Debe estar redactado en narración impersonal, con tono objetivo y formal.
-- No debe utilizar pronombres personales como: "yo", "mi", "nosotros", "nuestro".
-- Debe enfocarse en logros, contribuciones, responsabilidades clave y habilidades, no en el sujeto.
-- Debe destacar lo solicitado en el Requerimiento del Rol.
-- No debe incluir certificaciones, cursos, capacitaciones ni formación académica.
-- No debe mencionar grados de estudio de forma explícita (ej. licenciatura, ingeniería, maestría, doctorado o similares).
-- No debe iniciar con fórmulas como “Profesional con…”, “Ingeniero con…”, “Licenciado con…”.
-- No debe inventar información.
-- No debe agregar métricas si no están explícitas en el CV.
+# Frase inicial obligatoria
 
-## Reglas de alineación con el rol
+El resumen **debe iniciar obligatoriamente con una paráfrasis muy ligera** (variación aproximada de 5 palabras) de la siguiente redacción base:
 
-El resumen debe reflejar experiencia en:
+"Al menos 5 años en el análisis de grandes volúmenes de datos y desarrollo de soluciones de Inteligencia de Negocio."
 
-- Diseño e implementación de procesos ETL/ELT.
-- Construcción y mantenimiento de estructuras de almacenamiento de datos.
-- Procesamiento de grandes volúmenes de información.
-- Optimización de cargas y consultas.
-- Uso de bases de datos y herramientas de integración de datos.
-- Participación en soluciones de Inteligencia de Negocio.
-- Debe dar a entender el cumplimiento integral de la función, sin replicar su redacción original ni convertirla en lista operativa.
+Reglas para la paráfrasis:
+- La estructura general debe mantenerse.
+- Solo se permite una **variación ligera de vocabulario (aprox. 5 palabras)**.
+- No debe agregar información que no exista en el CV.
+- Esta frase funciona como **apertura del resumen profesional**.
 
-## Reglas de estructura obligatorias
+# Desarrollo del resumen
 
-- Debe tener una extensión total de dos parrafos con 4 renglones cada uno con un máximo de 140 palabras en total.
-- Debe estar redactado en prosa continua.
-- Cada párrafo debe ser un bloque narrativo fluido.
-- No debe redactarse como lista de funciones o actividades.
-- No debe estructurarse como enumeración explícita ni implícita.
-- No debe separar ideas en líneas independientes por actividad.
-- No debe presentar múltiples oraciones consecutivas iniciadas en infinitivo (ej. "Diseñar", "Implementar", "Analizar").
-- No debe repetir la misma estructura gramatical en oraciones consecutivas.
-- Las responsabilidades deben integrarse dentro de una narrativa ejecutiva, no en formato descriptivo operativo.
-- Debe leerse como una introducción ejecutiva del perfil profesional, no como detalle técnico de tareas.
-- Si el contenido puede dividirse fácilmente en actividades independientes sin perder sentido, debe reescribirse en formato narrativo.
+Después de la frase inicial, el resumen debe continuar con **dos párrafos narrativos** que sinteticen la experiencia del perfil.
+
+Reglas:
+- Deben generarse **dos párrafos**.
+- Cada párrafo debe tener **máximo 4 renglones**.
+- El resumen completo **no debe superar 160 palabras**.
+- Debe redactarse en **prosa continua**.
+
+## Reglas de contenido
+
+El resumen debe:
+- Considerar la totalidad de la experiencia laboral descrita.
+- Debe integrar de manera estratégica las capacidades clave asociadas al rol, demostrando coherencia con responsabilidades como diseño de soluciones de datos, modelado, procesos ETL, aseguramiento de calidad, integración, análisis y liderazgo técnico.
+
+El resumen **no debe**:
+- Incluir certificaciones, cursos ni formación académica.
+- Inventar información.
+- Redactarse como lista de funciones o actividades.
+- Estructurarse como enumeración explícita o implícita.
+- Separar ideas en líneas independientes por actividad.
+- Repetir la misma estructura gramatical en oraciones consecutivas.
 
 ## Criterios de claridad
 
-- Debe ser claro y comprensible para lectores no técnicos.
-- Debe sintetizar el perfil profesional resaltando el valor aportado.
-- Debe proyectar seniority cuando la experiencia lo respalde.
+El resumen debe:
+- Ser claro y comprensible para lectores no técnicos.
+- Sintetizar el perfil resaltando el valor aportado en términos de continuidad de servicios y cumplimiento de procesos.
+- Proyectar **seniority** cuando la experiencia lo respalde.
 
 ---
 
@@ -104,32 +138,20 @@ El resumen debe reflejar experiencia en:
 ## Criterio de relevancia
 
 Una experiencia es válida solo si contiene evidencia explícita de:
-
-- Diseño o construcción de infraestructuras de datos
-- Desarrollo o mantenimiento de pipelines de datos
-- Implementación de procesos ETL o ELT
-- Procesamiento de grandes volúmenes de datos
-- Modelado de estructuras de almacenamiento de datos (Data Warehouse, Data Lake u otros repositorios)
-- Optimización de cargas, procesamiento o consultas de datos
-- Integración de múltiples fuentes de información
-- Automatización de flujos de datos
-- Manejo de bases de datos relacionales o no relacionales orientadas a analítica
-- Uso de herramientas o lenguajes asociados al procesamiento de datos
-- Implementación de soluciones escalables de datos
-- Versionamiento de código (Git)
-- Participación en proyectos de ingeniería de datos
-- Coordinación técnica o liderazgo en iniciativas de datos
+- Diseño y construcción de soluciones de datos  
+- Desarrollo y mantenimiento de infraestructuras de datos  
+- Procesamiento y manejo de grandes volúmenes de datos  
+- Diseño e implementación de procesos ETL/ELT  
+- Integración y transformación de datos  
+- Construcción y mantenimiento de data warehouses o data lakes  
+- Optimización de carga, procesamiento y consulta de datos  
+- Aseguramiento de eficiencia, escalabilidad y seguridad en soluciones de datos  
+- Modelado de datos para soluciones de Inteligencia de Negocio  
+- Acceso y disponibilidad de datos para análisis  
 
 Si no hay evidencia explícita → OMITIR.
 
-No reinterpretar:
-
-- Soporte técnico  
-- Testing  
-- Reportería básica  
-- Administración de sistemas  
-
-como Ingeniería de Datos.
+No reinterpretar soporte técnico, testing o administración de sistemas como ingeniería de datos. 
 
 ---
 
@@ -140,7 +162,8 @@ como Ingeniería de Datos.
 3. Detener cuando la suma alcance o supere ~5 años.
 4. No recortar experiencias.
 5. Si una es 3 años y otra 4 → incluir ambas.
-6. No agregar más después de superar el umbral.
+
+**Si solo se agregó una experiencia, agregar las siguientes dos en orden cronológico, sin importar duración, para asegurar diversidad de experiencias.**
 
 Si no hay experiencia relevante:
 
@@ -148,23 +171,21 @@ Si no hay experiencia relevante:
 "experiencia_laboral": []
 ```
 
+---
+
 # FASE 2.1 — RESUMEN CONSOLIDADO DE EXPERIENCIA NO SELECCIONADA
 
 ## Regla general
 
 Si existen experiencias laborales que:
-
-- No fueron incluidas en `experiencia_laboral` tras aplicar la regla de filtrado correspondiente.
+- No fueron incluidas en `experiencia_laboral` tras aplicar la regla de filtrado de FASE 2.
 - Sí existen explícitamente en el CV.
 
 No deben listarse individualmente.
-
 Deben consolidarse en:
 
 - `periodo_resumen_laboral`
 - `resumen_laboral`
-
----
 
 ## periodo_resumen_laboral
 
@@ -173,56 +194,34 @@ Construir una frase con el siguiente formato obligatorio:
 "La experiencia abarca desde {fecha más antigua} hasta {fecha más reciente}"
 
 Reglas:
-
+- Usar las reglas de formato de fechas definidas en esta guía para determinar las fechas a usar.
 - Tomar la `fecha_inicio` más antigua y la `fecha_fin` más reciente únicamente de las experiencias no seleccionadas.
-- Expresar el mes en texto y el año en formato numérico (ejemplo: diciembre de 2009).
-- Si alguna fecha está incompleta → usar solo el año.
+- Expresar el mes en texto y el año y el día en formato numérico (ejemplo: 01 diciembre de 2021).
 - No calcular duración en este campo.
 - No agregar texto adicional.
 - No modificar el formato de la frase.
 
----
-
 ## resumen_laboral
 
 Redactar un párrafo en prosa que:
-
-- Sea claro, directo y fácil de entender para un lector no técnico.
+- Sea claro y fácil de entender para un lector no técnico.
 - Use lenguaje sencillo y natural.
-- Evite palabras rebuscadas o expresiones rimbombantes.
-- Sea formal pero cercano.
-- No use primera persona.
-- No incluya actividades técnicas detalladas.
-- No incluya métricas.
-- No invente información.
-- No amplíe funciones.
+- Sea formal y objetivo.
+- Usar primera persona.
+- No incluya actividades técnicas detalladas o métricas.
 
 Debe:
-
 - Explicar de manera general qué tipo de responsabilidades se asumieron.
-- Reflejar evolución o crecimiento solo si es evidente.
 - Mencionar los roles desempeñados (solo nombres de puesto).
-- Mencionar la empresa solo si es la misma en todas las experiencias; si no, omitirla.
-- No debe iniciar con "Profesional" o "Especialista".
-- Iniciar con "Durante este período..." o "En este periodo se desempeñaron funciones como...".
+- Omitir nombres de empresas.
+- No iniciar con "Profesional" o "Especialista".
+- Iniciar obligatoriamente con:
+  - "Durante este período..."  o  "En este periodo se desempeñaron funciones como..."
 
 Formato obligatorio:
-
-- Texto continuo (sin listas).
-- Mínimo 60 palabras.
-- Máximo 110 palabras.
-- Redacción fluida y comprensible para cualquier cliente.
-
----
-
-## Restricciones generales
-
-- No listar experiencias individualmente.
+- Texto continuo (sin listas) con una extensión de **60 a 110 palabras**.
 - No incluir fechas específicas dentro del párrafo.
 - No repetir el texto de `periodo_resumen_laboral`.
-- No generar esta sección si no existen experiencias excluidas.
-
----
 
 ## Caso sin experiencias excluidas
 
@@ -232,133 +231,129 @@ Si no existen experiencias fuera de `experiencia_laboral`:
 "periodo_resumen_laboral": "",
 "resumen_laboral": ""
 ```
-# FASE 2.2 — AJUSTE POR PUESTO DE NIVEL SUPERIOR
 
-## Regla condicional
+# REGLA ESPECIAL — PARÁFRASIS INICIAL DE LA PRIMERA EXPERIENCIA
 
-Si dentro de `experiencia_laboral` (resultado de FASE 2) la experiencia más reciente tiene un puesto que denote nivel superior, tales como:
+Antes de listar cualquier actividad dentro de `actividades_principales` de la **primera experiencia laboral**, se debe agregar una **paráfrasis muy ligera** de la siguiente redacción base:
 
-  - Arquitecto de Datos  
-  - Líder de Ingeniería de Datos  
-  - Data Engineering Lead  
-  - Gerente de Datos  
-  - Coordinador de Datos  
-  - Jefe de Ingeniería de Datos  
-  - Tech Lead  
-  - Head of Data  
-  - O cualquier puesto que implique liderazgo o la nomenclatura Sr, SR o Senior.
+"Diseño, construyo, optimizo y mantengo infraestructuras y soluciones tecnológicas que recolectan, almacenan, procesan y permiten acceder a grandes volúmenes de datos de manera eficiente, segura y escalable.
+Cuento con habilidades en el diseño e implementación de procesos ETL/ELT para el procesamiento de grandes volúmenes de información, así como en la definición, construcción y mantenimiento de estructuras de almacenamiento que aseguran la eficiencia de las soluciones de Inteligencia de Negocio. Además, optimizo la carga, el procesamiento y la consulta de grandes volúmenes de datos."
 
-Entonces debe ejecutarse la siguiente validación adicional.
+## Reglas de la paráfrasis
+- Debe ser una **paráfrasis ligera** con un cambio aproximado de **15 palabras como máximo**.
+- Debe **mantener el mismo significado general**.
+- Debe **redactarse en primera persona**.
+- No debe agregar información que no esté implícita en la redacción base.
+- Debe colocarse **como la primera actividad dentro de `actividades_principales` de la primera experiencia laboral**.
+- Esta redacción **debe aparecer antes de cualquier otra actividad**.
 
 ---
 
-## Validación adicional
+# FASE 3 — GENERACIÓN Y CONSOLIDACIÓN DE ACTIVIDADES
 
-1. Revisar las experiencias excluidas.  
-2. Buscar la experiencia más cercana a la actualidad cuyo puesto sea de nivel operativo, tales como:
-   - Ingeniero de Datos  
-   - Data Engineer  
-   - ETL Developer  
-   - Data Integration Engineer  
-   - BI Data Engineer
-   - Desarrollador de Datos  
-   - O cualquier puesto que no implique liderazgo o que no tenga la nomenclatura Sr, SR o Senior.
+Esta fase se aplica **únicamente a las experiencias seleccionadas en FASE 2**.
+El objetivo es:
+1. Generar `actividades_principales` para cada experiencia.
+2. Consolidar todas las actividades dentro de la **primera experiencia (la más reciente)**.
 
-3. Si existe:
-   - No modificar `experiencia_laboral`.
-   - No alterar la regla de 5 años.
-   - No alterar FASE 3.
-   - Generar una nueva sección llamada `ajuste_puesto_liderazgo`.
-   - Copiar:
-     - empresa
-     - puesto
-     - fecha_inicio
-     - fecha_fin
-   - Generar exactamente 5 actividades en `actividades_principales`.
-   - Aplicar reglas de redacción de FASE 3.
-   - No generar más ni menos de 5 actividades.
-   - Estas actividades no forman parte del conteo global de FASE 3.
+# Reglas de redacción
 
-4. Si no existe experiencia operativa:
+Todas las actividades deben cumplir:
+- Redacción clara y formal.
+- Redacción **en primera persona**.
+- No reinterpretar funciones ambiguas.
+- No dividir, fusionar ni transformar actividades originales.
+
+# Regla de consolidación
+
+La **primera experiencia laboral (la más reciente)** funciona como **contenedor consolidado de actividades**.
+
+Debe contener, en este orden:
+1. **Paráfrasis inicial obligatoria**  
+   (definida en `REGLA ESPECIAL — PARÁFRASIS INICIAL DE LA PRIMERA EXPERIENCIA`)
+2. **Actividades originales de esa experiencia**
+3. **Actividades de todas las demás experiencias seleccionadas**
+
+Las actividades de las experiencias posteriores se agregan **sin modificar su redacción**.
+
+# Procedimiento
+
+### 1. Ordenar experiencias
+
+Ordenar las experiencias seleccionadas **de la más reciente a la más antigua**.
+
+### 2. Generar actividades por experiencia
+
+Para cada experiencia:
+- Extraer sus actividades del CV.
+- Mantenerlas dentro de su experiencia correspondiente.
+
+### 3. Construir actividades de la primera experiencia
+
+La primera experiencia debe construirse así:
+1. Insertar la **paráfrasis inicial**.
+2. Agregar sus **actividades originales**.
+3. Agregar **todas las actividades de las demás experiencias**, respetando el orden cronológico:
+- experiencia 2  
+- experiencia 3  
+- experiencia 4  
+- etc.
+
+# Reglas de consistencia
+
+Durante la consolidación:
+- No eliminar actividades.
+- No resumir actividades.
+- No combinar actividades.
+- No modificar el orden interno de las actividades de cada experiencia.
+- No modificar la redacción.
+- No duplicar actividades.
+
+# Ejemplo conceptual
 
 ```json
-"ajuste_puesto_liderazgo": {
-  "empresa": "",
-  "puesto": "",
-  "fecha_inicio": "",
-  "fecha_fin": "",
-  "actividades_principales": []
+{
+  "experiencia_laboral": [
+    {
+      "empresa": "Empresa A",
+      "puesto": "Líder Técnico",
+      "fecha_inicio": "...",
+      "fecha_fin": "...",
+      "actividades_principales": [
+        "Paráfrasis inicial de liderazgo técnico...",
+        "Actividad propia experiencia A",
+        "Actividad propia experiencia A",
+        "Actividad experiencia B",
+        "Actividad experiencia B",
+        "Actividad experiencia C"
+      ]
+    },
+    {
+      "empresa": "Empresa B",
+      "puesto": "Desarrollador",
+      "fecha_inicio": "...",
+      "fecha_fin": "...",
+      "actividades_principales": [
+        "Actividad experiencia B",
+        "Actividad experiencia B"
+      ]
+    }
+  ]
 }
 ```
-# FASE 3 — ACTIVIDADES
-
-Aplicar únicamente sobre las experiencias seleccionadas en FASE 2.
-
-## Reglas de redacción
-
-- Narración impersonal.  
-- Verbos en infinitivo.  
-- Redacción formal y objetiva.  
-- No usar primera persona.  
-- No inventar ni ampliar información.  
-- No dividir ni combinar actividades.  
-- No reinterpretar funciones ambiguas como ingeniería de datos.  
-
----
-
-## Límites
-
-### Por puesto
-
-- Máximo 10 actividades.  
-- No hay mínimo por puesto.  
-- Si hay más de 10 → priorizar:
-  1. Más relacionadas con ingeniería de datos y pipelines.  
-  2. Más técnicas.  
-  3. Más recientes.  
-
-### Global obligatorio
-
-Total de actividades (todas las experiencias):
-- Mínimo 10  
-- Máximo 14  
-- No crear actividades para cumplir el mínimo.  
-
----
-
-## Distribución
-
-- Si hay 1 sola experiencia → hasta 10 actividades.  
-- Si hay 2 o más experiencias → cualquier distribución es válida.  
-- Solo debe cumplirse que el total final esté entre 10 y 14.  
-
----
-
-## Procedimiento
-
-1. Aplicar regla de 5 años (FASE 2).  
-2. Aplicar máximo 10 por puesto.  
-3. Verificar total global.  
-   - Si >14 → reducir por relevancia y recencia.  
-   - Si 10–14 → mantener.  
-   - Si <10 → mantener sin crear nuevas. 
-4. Si existen varias experiencias con el mismo nombre de empresa, deben consolidarse en una sola. Se debe conservar un único registro, tomando como fecha de inicio la más antigua y como fecha de fin la más reciente. Las actividades deben integrarse en una sola lista, respetando el máximo de 10 y priorizando las más relevantes y recientes.
-
----
-
-## Jerarquía
-
-1️⃣ Regla 5 años  
-2️⃣ Total global 10–14  
-3️⃣ Máximo 10 por puesto  
-
----
 
 # FORMATO DE SALIDA
 
 ```json
 {
   "nombre": "",
+  "mail":"",
+  "genero":"",
+  "fecha_nacimiento":"",
+  "rfc":"",
+  "curp":"",
+  "no_cedula":"",
+  "fecha_cedula":"",
   "rol_propuesto": "",
   "resumen_profesional": "",
   "experiencia_laboral": [
@@ -370,13 +365,6 @@ Total de actividades (todas las experiencias):
       "actividades_principales": []
     }
   ],
-  "ajuste_puesto_liderazgo": {
-      "empresa": "",
-      "puesto": "",
-      "fecha_inicio": "",
-      "fecha_fin": "",
-      "actividades_principales": []
-  },
   "periodo_resumen_laboral": "",
   "resumen_laboral": "",
   "estudios": {
@@ -384,7 +372,7 @@ Total de actividades (todas las experiencias):
     "lugar": "",
     "periodo": ""
   },
-"certificaciones": [
+  "certificaciones": [
     {
       "nombre": "",
       "anio": ""
@@ -397,31 +385,3 @@ Total de actividades (todas las experiencias):
   ]
 }
 ```
----
-<!-- 
-# FASE 5 — SALIDA A ARCHIVO (ESCRITURA / REEMPLAZO)
-
-Esta skill, además de devolver únicamente el JSON especificado en la FASE de salida, debe garantizar que el objeto resultante se persista en el archivo del proyecto
-`cv/json_data/desarrolladorSeniorBI.json` siguiendo las reglas estrictas que se describen a continuación.
-
-Reglas obligatorias para la escritura:
-
-- Ruta de destino (workspace‑relative): `cv/json_data/desarrolladorSeniorBI.json`.
-- El archivo contiene un arreglo JSON (lista) de objetos; si el archivo no existe, crear el archivo con un arreglo que contenga solamente el objeto resultante.
-- Identificador único para coincidencia: el campo `nombre` del objeto generado (comparación exacta, sensible a mayúsculas/minúsculas).
-- Si en el arreglo existe un objeto con el mismo `nombre` → reemplazar ese objeto completo por el JSON generado.
-- Si no existe un objeto con el mismo `nombre` → agregar el objeto generado al final del arreglo.
-- No modificar el orden ni el contenido de otros objetos existentes excepto cuando se reemplaza el objeto coincidente.
-- Mantener formato JSON válido; no agregar texto fuera del JSON en el archivo.
-
-Comportamiento esperado de la skill al ejecutar la salida:
-
-1. Generar y devolver únicamente el JSON del CV según las fases y reglas anteriores.
-2. Paralelamente (o inmediatamente después), abrir `cv/json_data/desarrolladorSeniorBI.json` y aplicar la regla de reemplazo/append descrita.
-3. Escribir el archivo resultante como un arreglo JSON con formato legible (indentación de 2 espacios).
-
-Notas operacionales:
-
-- No inferir ni modificar campos del JSON generado para hacer match; usar exactamente el valor de `nombre` presente en la salida.
-- Si el skill no tiene permisos de escritura o ocurre un error IO, la skill debe *no* devolver ningún texto adicional aparte del JSON; en su lugar debe fallar silenciosamente (registrar el error en logs internos) — las políticas de este skill no permiten salida libre de texto para reportar errores.
-- Esta sección es parte integral del contrato del skill: cualquier invocador puede asumir que, tras ejecutar correctamente la skill, el registro del `nombre` suministrado estará presente en `cv/json_data/desarrolladorSeniorBI.json` (creado o actualizado). -->

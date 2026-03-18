@@ -80,11 +80,11 @@ def insertar_primeras_paginas(docx_path: str, pdf_files: list[str]) -> None:
 
 if __name__ == "__main__":
 
-    docx_path = r"cv/final_cv/Horus Ramses Garcia San Miguel - CV_generado.docx"
+    docx_path = r"cv/final_cv/David Barrera Munoz - CV_generado.docx"
 
     pdf_files = [
-        r"cv/templates_input/testers/Cédula profesional Horus.pdf",
-        # r"cv/templates_input/testers/Título David Romero Muñoz.pdf"
+        r"cv/templates_input/testers/Cedula_Prof-David Barrera Muñoz.pdf",
+        r"cv/templates_input/testers/Título-DavidBarrera.pdf"
     ]
 
     try:

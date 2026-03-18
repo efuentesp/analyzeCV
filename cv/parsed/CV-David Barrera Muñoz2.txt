@@ -1,0 +1,245 @@
+
+
+--- Página 1 ---
+
+  
+Líder QA  
+   
+SKILLS  
+-Liderazgo y Coordinación de 
+Equipos de QA  
+-Definición e Implementación de  
+Estrategias y Procesos de Pruebas  
+-Metodologías TSP, SCRUM, 
+ISTQB, CFP  
+-Herramientas de Gestión de 
+Pruebas como ALM, JIRA, Redmine  
+-Automatización y desarrollo de 
+Testware, Selenium básico, Frida 
+básico  
+-Manejo avanzado de bases de 
+datos SQL, Oracle, DB2 y María DB  
+   
+IDIOMAS  
+Inglés Básico  
+   
+EDUCACIÓN  Y 
+FORMACIÓN  
+Ciudad de México  
+Licenciatura en Ingeniería de  
+Sistemas Computacionales  
+2007  
+México  David Barrera Muñoz   
+   
+RESUMEN  
+Soy un profesional con 1 2 años de experiencia como Líder de Pruebas y 4 años 
+como Líder en Aseguramiento de Calidad. Tengo dominio en diseño e 
+implementación de estrategias de pruebas, manejo de métricas, coordinación y 
+coaching de equipos , así como en la definición y validación de procesos de calidad para 
+proyectos complejos. Poseo habilidades destacadas en comunicación, resolución de 
+problemas y trabajo colaborativo. Manejo metodologías ágiles, certificaciones ISTQB y 
+SCRUM, y conocimient o en herramientas  como ALM, JIRA y SQL, orientado a entregar 
+productos confiables y sin hallazgos.   
+   
+EXPERIENCIA PROFESIONAL  
+QA Coordinador, Líder QA – CitiBanamex (Softtek) | 
+Mitikah y Remoto  
+Junio 2022 – Febre ro 2026  
+Como líder y coordinador de QA, he dirigido múltiples proyectos como S016, Saldo cero, 
+Anexo64, Devolución de pagos, entre otros, gestionando integralmente el proceso de 
+pruebas desde la planificación hasta el reporte final. Mi enfoque ha sido monitorear y 
+controlar herramientas de gestión de pruebas y proyectos , así como dar coaching 
+y liderar al equipo para asegurar la calidad en todo momento. Realizo una gestión rigurosa 
+de riesgos, defectos, y cambios de negocio, garantizando la alineación con los están dares 
+del cliente y recuperando la confianza mediante una comunicación efectiva y entrega de 
+resultados óptimos.  
+• Monitoreo y control de herramientas de gestión de pruebas y proyectos.  
+• Generación y análisis detallado de métricas de calidad y desempeño.  
+• Planificación de tiempos y actividades con gestión proactiva de riesgos y cambios.  
+• Gestión integral de defectos y coaching al equipo de pruebas.  
+• Diseño, ejecución y seguimiento de pruebas funcionales, integrales, regresivas y 
+UAT.  
+• Comunicación continua y detallada con el cliente sobre el estado del proyecto.  
+• Implementación de procesos de mejora continua en planificación y ejecución de 
+pruebas.  
+• Fomento de sinergia, motivación y empatía en el equipo de QA.  
+Tools/Skills:  ALM, JIRA, Unisys, IBM, ADMWIN, Tectia, Autosys, Gestión de métricas, 
+Análisis de riesgos, Coaching a equipos, Planificación estratégica.  
+  
+
+--- Página 2 ---
+
+Líder de Pruebas – 
+Instituto Mexicano del 
+Seguro Social 
+(Softtek) | Toreo  
+Junio 2020 – Mayo 2022  
+Lideré el diseño y ejecución de 
+planes de pruebas para múltiples proyectos sanitarios y administrativos, incluyendo la Nueva Normalidad, Facturación DIDT, 
+Oncología APOP, y sistemas integrales como SICARH y RECI. He coordinado a diversos 
+equipos para garantizar la ejecución funcional e integral de pruebas apoyando ademá s la 
+transición a pruebas UAT y la conciliación de hallazgos para optimizar la calidad y 
+continuidad operativa sin interrupciones.  
+• Elaboración y actualización constante del Plan de Pruebas para proyectos 
+complejos.  
+• Diseño y ejecución de pruebas funcionales e integrales exitosas.  
+• Gestión y seguimiento de incidencias y defectos en colaboración con análisis y desarrollo.  
+• Coordinación estratégica y administrativa de tareas y recursos para asegurar entregas sin penalizaciones.  
+• Revisión minuciosa de insumos y establecimiento de métricas detalladas y estadísticas.  
+• Apoyo en la capacitación de equipos para uso de herramientas especializadas como Testware y SQL.  
+• Diseño de instrumentos de validación y automatización parcial para pruebas. Tools/Skills:  Testware, Metodología de Pruebas, 
+Proceso de Calidad y control de productos y servicios, SQL, Liderazgo de equipo, Análisis de resultados, Coordinación 
+multidisciplinaria.  
+  
+QA Manager – Nacional Monte de Piedad (Softtek) | Toreo  
+Octubre 2019 – Febrero 2020  
+Dirigí la taylorización del proceso de pruebas y garantías, alineando los estándares internos con los requerimientos del clie nte. 
+Desarrollé y mantuve planes de calidad y administración de configuración, asegurando sistemas robustos y confiables que evita ron 
+penalizaciones. Gestioné la comunicación y coordinación con la fábrica de pruebas, y promoví la ejecución de pruebas UAT con un 
+seguimiento riguroso a hallazgos y conciliación con equipos externos e internos.  
+• Diseño e implementación de procesos estandarizados de pruebas y garantías.  
+• Elaboración y presentación de reportes de métricas y calidad al cliente.  
+• Coordinación y gestión eficaz del equipo de pruebas para asegurar cumplimiento de objetivos.  
+• Seguimiento a hallazgos con implementación de mejoras continuas.  
+• Acompañamiento y gestión de pruebas UAT con usuarios clave.  
+
+--- Página 3 ---
+
+Tools/Skills:  Testware, Metodología de Pruebas, Gestión de calidad, Administración de 
+configuración, Coordinación de equipos, Reportes de auditoría.  
+  
+Líder de Calidad Interna – Banobras (Softtek) | Eugenia – 
+Santa Fe  
+Agosto 2018 – Octubre 2019  
+Me encargué de revisar el apego al proceso compartido de aseguramiento de la calidad, 
+definiendo planes e informes internos y externos que posibilitaron un despliegue efectivo de 
+técnicas y procesos de control. Dirigí auditorías internas y participé en aud itorías externas, 
+capacitando y consultando al equipo para fortalecer sus capacidades y alineamiento con los 
+estándares establecidos, logrando una mejora continua y conciliación efectiva de hallazgos.  
+• Definición y revisión rigurosa de planes de calidad internos y externos.  
+• Ejecución y coordinación de auditorías de calidad en productos y procesos.  
+• Capacitación continua y consultoría al equipo de calidad interna.  
+• Conciliación de hallazgos con equipos externos para resolución rápida.  
+• Manejo estratégico de reportes y comunicaciones clave para la mejora de procesos. 
+Tools/Skills:  SQL, Proceso de Calidad, Auditoría de Calidad, Coordinación de equipos, 
+Capacitación técnica, Control y aseguramiento de la calidad.  
+  
+Ingeniero de Pruebas – Bancomer Avalúos (Softtek) | 
+Parques Polanco  
+Enero 2018 – Junio 2018  
+Diseñé y ejecuté estrategias de pruebas aplicando metodologías ágiles como SCRUM para 
+asegurar la estabilidad y calidad funcional del sistema. Generé y ajusté datos de prueba para 
+distintos tipos de pruebas incluyendo regresión, smoke y UAT, colaborando es trechamente con 
+los usuarios para lograr liberaciones sin hallazgos críticos. El diseño de pruebas se basó en 
+entrevistas con desarrolladores y documentación base, demostrando adaptabilidad y enfoque 
+a la excelencia.  
+• Creación y mantenimiento de testware ágil y adaptable a requerimientos cambiantes.  
+• Ejecución de pruebas funcionales, de regresión y antes de impacto.  
+• Generación y ajuste de datos para pruebas UAT con usuarios finales.  
+• Gestión efectiva de hallazgos con seguimiento y cierre oportuno.  
+• Adopción de SCRUM como metodología para optimizar procesos de prueba. 
+Tools/Skills:  C100, C204, C109, Oracle, SQL, DB2, Java básico, Python básico, Metodologías 
+Ágiles, Gestión de hallazgos.  
+  
+Ingeniero de Pruebas y Soporte Post Liberación – Bancomer 
+Fiduciario (Softtek) | Eugenia y Torre Bancomer (Reforma)  
+Marzo 2017 – Enero 2018  
+Brindé apoyo estratégico y operativo en el módulo de Inmuebles y Tesorería liderando la 
+elaboración de pruebas basadas en análisis profundos, elaborando matrices y testware, así 
+como administrando el levantamiento y seguimiento riguroso de hallazgos. Despu és de la 
+liberación, proporcioné soporte a pruebas UAT y gestión de incidencias, asegurando la 
+satisfacción y correcto funcionamiento del sistema para los usuarios finales.  
+• Apoyo a líder de pruebas en definición y seguimiento estratégico de pruebas.  
+• Desarrollo y ejecución de matrices, planes y casos de prueba rigurosos.  
+• Gestión de hallazgos con seguimiento detallado usando Redmine.  
+• Soporte post liberación con diagnóstico y resolución de incidencias en módulos clave.  
+• Asesoría continua al cliente para el correcto uso de sistemas entregados. Tools/Skills:  
+C100, C204, C109, Testware, Redmine, Gestión de incidencias, Soporte UAT, Análisis de 
+negocio.  
+  Certificación  ISTQB  
+Foundation Level  
+2013  
+México (en línea)  
+Certificación RPA Starter  
+2019  
+México (en línea)  
+Certificación  SCRUM  
+Fundamentals  
+2022  
+
+--- Página 4 ---
+
+Líder de Aseguramiento y Control de Calidad – SAT 
+(Softtek) | Eugenia, SAT Reloj  
+Julio 2015 – Marzo 2017  
+Supervisé el apego riguroso a los procesos de aseguramiento de calidad definidos por SAT, 
+logrando una reducción significativa de hallazgos de 7000 a 800. Establecí y coordiné la 
+elaboración, revisión y entrega puntual de documentos clave de calidad, fomen tando 
+auditorías internas y externas. Capacite y asesoré a equipos para garantizar la entrega de 
+productos en tiempo y forma, evitando penalizaciones y mejorando continuamente la calidad 
+del proceso.  
+• Definición y gestión del plan de calidad y productos relacionados.  
+• Implementación de auditorías internas y acompañamiento a auditorías externas.  
+• Control y seguimiento efectivo de hallazgos para mejora continua.  
+• Capacitación constante al equipo en procesos y estandarización de calidad.  
+• Entrega puntual de documentación y cumplimiento del 100% en calidad. 
+Tools/Skills:  SQL, Proceso de Calidad, Auditoría, Capacitación, Gestión documental, 
+Coordinación de equipos.  
+  
+Ingeniero de Pruebas – SAT (Softtek) | Eugenia, SAT Reloj  
+Marzo 2015 – Julio 2015  
+Responsable de la ejecución y validación de pruebas integrales y funcionales para asegurar 
+la continuidad operativa y cumplimiento de estándares BI. Definí listas de verificación para 
+productos BI y realicé revisiones y validaciones enfocadas en la calidad  y entrega puntual, 
+con énfasis en pruebas exploratorias para anticipar y mitigar riesgos.  
+• Definición y aplicación de checklists para productos BI y controles de calidad.  
+• Ejecución de pruebas funcionales, integrales y exploratorias.  
+• Garantía de entregas puntuales y productos con alta calidad.  
+Tools/Skills:  SQL, Estándares BI, Pruebas funcionales, Continuidad operativa.  
+  
+Líder de Pruebas / Ingeniero de Pruebas – Bancomer  
+(Softtek) | Softtek Eugenia  
+2011 – Diciembre 2014  
+He desempeñado funciones como líder y ejecutor de pruebas en múltiples proyectos 
+complejos, aplicando metodologías TSP y PSP para garantizar la calidad y cumplimiento. 
+Planifiqué, diseñé y coordiné la ejecución de pruebas funcionales, integrales, smoke y 
+regresión, manteniendo una comunicación constante y negociando tiempos y estrategias 
+para la entrega oportuna. Además, capacite equipos, elaboré reportes estadísticos detallados 
+y aseguré la estabilización del análisis funcional para diversos módulos bancar ios.  
+• Implementación estricta de metodologías PSP y TSP para procesos de prueba.  
+• Elaboración de planes de pruebas y administración de equipos y ejecuciones.  
+• Diseño y ejecución de casos de prueba funcionales, integrales y de smoke.  
+• Negociación efectiva de tiempos y ajustes estratégicos de pruebas.  
+• Reporte detallado y estadístico de resultados y hallazgos de pruebas.  
+• Preparación y formación de nuevos líderes de pruebas en proyectos clave. 
+Tools/Skills:  SQL, JAVA, DB2, Metodologías PSP/TSP, ISTQB, Gestión de proyectos, 
+Reportes estadísticos, Liderazgo de equipos.  
+  
+Ingeniero de Pruebas – Ford (Softtek) | Softtek Eugenia, 
+SAT Reloj  
+2011  
+Ejecuté pruebas de compatibilidad de navegadores (IE6 e IE8) para asegurar el correcto 
+funcionamiento de sistemas Ford, gestionando y dando seguimiento a los hallazgos 
+encontrados para garantizar entregas puntuales y de alta calidad mediante pruebas 
+explor atorias detalladas.  
+
+--- Página 5 ---
+
+• Ejecución de pruebas de compatibilidad en entornos diversos.  
+• Levantamiento y seguimiento continuo de hallazgos para resolución efectiva.  
+Tools/Skills:  Testware, Pruebas exploratorias, Gestión de hallazgos, Entregas puntuales.  
+  
+Líder de Pruebas / Ingeniero de Pruebas – Secretaría de Gobernación (Softtek) | 
+Secretaría de Gobernación  
+Diciembre 2009 – 2011  
+Dirigí y ejecuté estrategias de pruebas minuciosas con enfoque integral y funcional en múltiples módulos y proyectos de la Se cretaría. 
+Implementé planes detallados, diseños técnicas como árbol de escenarios, matriz funcional y scripts para asegurar la cali dad libre 
+de hallazgos en UAT. Realicé pruebas smoke, de seguridad y concurrencia, garantizando entregas puntuales y productos robustos  
+para los diferentes sistemas administrativos y funcionales.  
+• Elaboración y gestión de planes y diseños de prueba complejos.  
+• Ejecución de pruebas de seguridad, funcionales, integrales y de concurrencia.  
+• Inspección rigurosa de insumos y elaboración de casos de prueba personalizados.  
+• Coordinación y supervisión para asegurar entregas sin hallazgos en UAT.  
+• Aplicación de metodologías de testing avanzadas para sistemas gubernamentales. Tools/Skills:  Oracle, Java, SQL, 
+Diseño de pruebas, Pruebas de seguridad, Coordinación de aprobación, Gestión de calidad.  
+  
