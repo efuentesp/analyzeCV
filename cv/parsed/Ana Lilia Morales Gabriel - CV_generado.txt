@@ -1,0 +1,104 @@
+Ana Lilia Morales Gabriel
+Analista de entrega documental
+EXPERIENCIA PROFESIONAL
+Dispongo de más de cinco años de experiencia en entrega documental. Como analista de entrega documental, me ocupo de documentar, sintetizar y analizar información proveniente de diversas fuentes, garantizando su integración, organización y entrega conforme a los lineamientos establecidos.
+
+He participado en múltiples proyectos de tecnología para los sectores público y privado, apoyando la definición y revisión de artefactos, la coordinación con equipos de desarrollo y Aseguramiento de la Calidad (QA), y el aseguramiento de la trazabilidad documental. Aporto continuidad de servicio mediante control de evidencias, gestión de cambios y validación de entregables orientados al cumplimiento de procesos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek - CITIBANAMEX | Puesto
+BA | Desde:
+1 junio 2021 | Hasta: 
+Actual
+Actividades Principales | • Efectué la entrega documental y recopilé las firmas que respaldan las evidencias de los servicios prestados.
+• Ejecuté la entrega documental mensual y recopilé las firmas necesarias que sustentan las evidencias de los servicios prestados.
+• Compilo y normalizo las evidencias destinadas a la Carpeta Consolidada de Servicios y a la carpeta de entregas mensuales.
+• Completo las listas de cotejo por fase (Análisis, Diseño, Desarrollo, Pruebas y Liberación).
+• Integro reportes y VoBo como evidencia previa a la liberación.
+• Preparo la evidencia de entrega del paquete para su integración.
+• Aplico control de versiones y gestiono metadatos (fecha/folio/autor) en todos los archivos de la carpeta.
+• Verifico la consistencia entre nombres, fechas y folios de todos los documentos del paquete.
+• Genero el reporte ejecutivo mensual con KPIs, backlog y liberaciones para su envío.
+• Gestiono aclaraciones documentales posteriores a la revisión, asegurando la trazabilidad de los cambios.
+• Preparo la evidencia de Toma de Operación (accesos ≤60 días, enlace ≤120 días, conectividad, acta) para la carpeta del mes correspondiente.
+• Ejecuto la pre-revisión de formato, ortografía y firmas, y valido listas de distribución y acuses.
+• Gestiono entre 1 y 3 proyectos con un esfuerzo total de 15,000 a 20,000 horas, asegurando la entrega documental mensual y la recopilación de firmas que sustentan las evidencias de los servicios prestados. Doy seguimiento a los entregables y reporto avances a los administradores del proyecto y al cliente.
+• He usado la certificación The Complete Lenguaje Unificado de Modelado (UML) course : Learn to design  Lenguaje Unificado de Modelado (UML) Diagrams como apoyo para diagramación Lenguaje Unificado de Modelado (UML)/BPMN y flujos.
+• He usado la certificación Prácticas de Ofimática como soporte para la documentación operativa, métricas y cronogramas.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• ISP: Inicializo la gestión documental del proyecto, definiendo lineamientos, estructura de carpetas y requisitos de evidencias.
+• PTO: Doy seguimiento a la entrega documental, validando avances, controlando versiones y asegurando el cumplimiento los criterios establecidos.
+• PCR: Gestiono y documento cambios en entregables, asegurando su trazabilidad, actualización y correcta integración en la documentación.
+• FPT: Formalizo la terminación del proyecto mediante la integración, validación y entrega final de la documentación con sus respectivas evidencias y firmas.
+• Apoyo al líder en análisis de requerimientos.
+• Realización de épicas e historias de usuario.
+• Acompañamiento en sesiones de revisión de documentación con el usuario.
+• Apoyo en el análisis de casos de prueba a ejecutar.
+• Revisión de evidencias de casos de prueba ejecutados por el equipo de Aseguramiento de la Calidad (QA).
+• Mantenimiento de cuentas.
+• Participación en la fase de análisis y pruebas para el área de Tarjetas de Crédito.
+• Uso básico de Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos).
+• Realicé el levantamiento de requerimientos.
+• Realicé el análisis.
+• Elaboré los casos de uso.
+• Elaboré los prototipos.
+• Elaboré contratos entre aplicaciones.
+• Elaboré el modelo de dominio.
+• Elaboré diagramas de contexto, casos de uso, estados y flujo.
+• Brindé soporte al equipo de desarrollo en la fase de diseño.
+• Realicé estimaciones por juicio de experto.
+• Definí y planeé las tareas del equipo de análisis.
+• Revisé los artefactos generados por los analistas a mi cargo.
+• Acompañé en sesiones de revisión de documentación con el usuario.
+Empresa
+Softtek - Banorte | Puesto
+Analista de Negocio / Analista de Sistemas | Desde:
+1 abril 2020 | Hasta: 
+31 mayo 2021
+Actividades Principales | • Realicé el levantamiento de requerimientos.
+• Realicé el análisis.
+• Elaboré los casos de uso.
+• Elaboré los prototipos.
+• Elaboré contratos entre aplicaciones.
+• Elaboré el modelo de dominio.
+• Elaboré diagramas de contexto, casos de uso, estados y flujo.
+• Brindé soporte al equipo de desarrollo en la fase de diseño.
+• Realicé estimaciones por juicio de experto.
+• Definí y planeé las tareas del equipo de análisis.
+• Revisé los artefactos generados por los analistas a mi cargo.
+• Acompañé en sesiones de revisión de documentación con el usuario.
+HERRAMIENTAS CONOCIDAS
+- Waterfall
+- Struts
+- Spring Framework
+- Scrum
+- Oracle Database
+- MySQL
+- JSP
+- JSF
+- Java Servlets
+- Java 9
+- Java 8
+- HTML5
+- Hibernate
+- Functional Testing
+- CMMi
+- Business Process Model  Notation (BPMN)
+- Business Process Mapping
+- Business Analyst Role
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 1 agosto 2005 hasta 30 marzo 2020
+Durante este período asumí responsabilidades centradas en documentación, análisis y soporte a equipos técnicos, desempeñándome en roles como analista de negocio, desarrollador, analista-programador y líder funcional. Ejecuté levantamiento y análisis de requerimientos, elaboración de artefactos (casos de uso, prototipos y diagramas), soporte en pruebas y control de entregables. Mi trabajo se orientó a garantizar la trazabilidad y calidad de la documentación necesaria para la operación y entrega de soluciones tecnológicas.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Sistemas Computacionales - 1 agosto 2001 a 31 agosto 2005 | Escuela Superior de Cómputo (ESCOM) | CDMX | Cédula Profesional
+5320541
+16/11/2007
+CURSOS
+- The Complete UML course : Learn to design  UML Diagrams
+- Prácticas de Ofimática
+______________________________________
+Ana Lilia Morales Gabriel
+Analista de entrega documental | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

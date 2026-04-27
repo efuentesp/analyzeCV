@@ -1,0 +1,86 @@
+Othon Suarez Velasco
+Desarrollador Junior BI
+FUNCIONES
+Desarrollo e implemento sistemas mediante el uso de lenguajes de programación, realizando su puesta a punto para asegurar su correcto funcionamiento. Cuento con experiencia en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, participo en el desarrollo, mantenimiento y soporte de procesos ETL (Extract, Transform, Load) y utilizo herramientas de Business Intelligence como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.
+Me especializo en el modelado de datos, en la optimización de consultas y en la transformación de procesos; desarrollo, pruebo y migro flujos ETL en entornos Linux/Unix (Sistemas operativos para administración y automatización) y con AutoSys. Colaboro en proyectos bancarios y corporativos aplicando buenas prácticas para asegurar la calidad de los datos y la entrega puntual de reportes.
+EXPERIENCIA PROFESIONAL
+Tengo más de 2 años de experiencia en el desarrollo de servicios y aplicaciones web (Frontend y Backend), dashboards, interactivos, tableros, informes automáticos y reportes.
+
+Genero soluciones de Inteligencia de Negocio mediante el diseño e implementación de procesos Extraer, Transformar y Cargar (ETL) y componentes de datos, trabajando con herramientas como Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos) e Informatica PowerCenter (Plataforma ETL para integración de datos), y gestionando bases de datos Oracle Database (Motor de base de datos empresarial) y Teradata para asegurar la integridad y disponibilidad de la información. Me especializo en modelado de datos, optimización de consultas y transformación de procesos, desarrollando, probando y migrando flujos Extraer, Transformar y Cargar (ETL) en entornos Linux/Unix (Sistemas operativos para administración y automatización) y AutoSys; colaboro en proyectos bancarios y corporativos aplicando buenas prácticas para garantizar la calidad de los datos y la correcta entrega de reportes.
+EXPERIENCIA LABORAL
+Empresa
+Softtek Banamex | Puesto
+Analista Desarrollador ETL | Desde:
+1 agosto 2025 | Hasta: 
+31 octubre 2025
+Actividades Principales | • Creo paquetes de software, los implemento y los pongo en funcionamiento para garantizar su operatividad, empleando diversos lenguajes de programación. Tengo habilidades en bases de datos relacionales y no relacionales y aplico técnicas de diseño para el modelado de datos. Además, desarrollo, mantengo y doy soporte a procesos ETL (Extraer, Transformar y Cargar) y utilizo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.
+• Desarrollo e implemento sistemas y componentes de software para soluciones de Inteligencia de Negocio.
+• Apoyo en la puesta a punto y correcto funcionamiento de las soluciones desarrolladas.
+• Desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL) para la integración y transformación de datos.
+• Colaboro en el modelado de datos utilizando bases de datos relacionales y no relacionales.
+• Apoyo en la construcción de estructuras de datos para soluciones analíticas y de BI.
+• Utilizo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric para el procesamiento y análisis de información.
+• Atiendo incidencias básicas y doy soporte a los procesos y soluciones implementadas.
+• Aplico buenas prácticas de desarrollo y lineamientos definidos por el equipo.
+• Colaboro con equipos de trabajo para asegurar la correcta ejecución de las soluciones.
+• Documento procesos, desarrollos y configuraciones para asegurar su entendimiento y mantenimiento.
+• Resuelvo problemas relacionados con el desarrollo, integración y procesamiento de datos en soluciones de Inteligencia de Negocio, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en el desarrollo de soluciones BI.
+• He aplicado el curso The Complete Python Bootcamp: From Zero to Hero in Python para desarrollar scripts y soluciones utilizando Python desde nivel básico hasta intermedio
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Analicé, modifiqué, ajusté y probé procesos Extraer, Transformar y Cargar (ETL) para generar los reportes del área de seguros con las nuevas reglas de negocio.
+• Definí y extraje reglas de negocio de acuerdo con las necesidades del área.
+• Analicé flujos de información y procesos Extraer, Transformar y Cargar (ETL).
+• Corregí reglas de negocio en procesos Extraer, Transformar y Cargar (ETL) y ejecuté pruebas unitarias.
+• Elaboré documentación de procesos.
+• Generé reportes del área de seguros.
+• Desarrollé procesos Extraer, Transformar y Cargar (ETL) para el proyecto de Taller de Ofertas implementados en Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos).
+• Analicé y definí requerimientos y reglas de negocio según las necesidades del usuario.
+• Realicé pruebas unitarias a servicios web desarrollados.
+• Diseñé, modelé y creé objetos en base de datos Oracle Database (Motor de base de datos empresarial).
+• Desarrollé stored procedures para procesamiento y optimización de datos.
+• Ejecuté pruebas unitarias y validaciones para garantizar la calidad de los procesos desarrollados.
+• Desarrollé y probé flujos, migré requerimientos a ambientes Pruebas de Integración de Sistemas (SIT), Pruebas de Aceptación de Usuario (UAT) y producción.
+Empresa
+Softtek - Banorte | Puesto
+Consultor ETL AB Initio | Desde:
+1 septiembre 2023 | Hasta: 
+31 julio 2025
+Actividades Principales | • Desarrollé procesos Extraer, Transformar y Cargar (ETL) para el proyecto de Taller de Ofertas implementados en Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos).
+• Analicé y definí requerimientos y reglas de negocio según las necesidades del usuario.
+• Realicé pruebas unitarias a servicios web desarrollados.
+• Diseñé, modelé y creé objetos en base de datos Oracle Database (Motor de base de datos empresarial).
+• Desarrollé stored procedures para procesamiento y optimización de datos.
+• Ejecuté pruebas unitarias y validaciones para garantizar la calidad de los procesos desarrollados.
+• Desarrollé y probé flujos, migré requerimientos a ambientes Pruebas de Integración de Sistemas (SIT), Pruebas de Aceptación de Usuario (UAT) y producción.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- The Complete Python Bootcamp: From Zero to Hero in Python
+- AB Initio
+- Informatica PowerCenter
+- Linux/Unix
+- Oracle Database
+- Teradata
+- PL/SQL
+- AutoSys
+- SnowFlake
+- Oracle Data Integrator
+- DB2
+- Python
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 julio de 2008 hasta 31 agosto de 2023
+Durante este período me desempeñé en roles como Jefe de Departamento de Desarrollo de Sistemas, Consultor PL SQL/Informatica Power Center, Consultor Extraer, Transformar y Cargar (ETL) Informatica PowerCenter (Plataforma ETL para integración de datos), Consultor Informatica Power Center/Oracle, Consultor BA/Oracle Data Integrator y Consultor Calidad de Datos. Asumí responsabilidades de diseño y modelado de bases de datos, análisis y optimización de procesos Extraer, Transformar y Cargar (ETL) y PL/SQL, atención y corrección de incidencias, y documentación técnica, colaborando con equipos multidisciplinarios para asegurar la continuidad operativa.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniero en Sistemas Computacionales - julio 2004 - julio 2008 | ESCOM, IPN | Cédula Profesional
+7756949
+5/10/2012
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- The Complete Python Bootcamp: From Zero to Hero in Python
+______________________________________
+Othon Suarez Velasco
+Desarrollador Junior BI | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

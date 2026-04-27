@@ -1,0 +1,116 @@
+Aurora Vargas Palomares
+PERFILE
+Analista de Sistemas
+Auditor de Seguridad
+EXPERIENCIA PROFESIONAL
+CITI BANAMEX	CDMX ­ Security Auditor ­ Competente	De: Nov, 2023 a: Actualmente
+Descripción:
+Atención y participación de sesiones TISO, para hacer análisis y validación de alcance a proyectos de solución para determinar su apego y cumplimiento a las políticas y estándares del banco.
+Seguimiento a proyectos de liberación a producción con issues o inconsistencias detectadas.
+Análisis y validación de Epicas/ Maintenance request/Implementation Approval/US en la plataforma JIRA para su correcta documentación y aprobación.
+Análisis y validación de cuestionarios en la plataforma del banco RRP, para evaluar alcance y detectar riesgos en el proyecto de solución que libera a producción.
+Validación de reportes VA (Vulnerability Assesment) de aplicaciones con mayor riesgo de ciberataques, para confirmar que no tenga vulnerabilidades detectadas.
+Validación de reportes Blackduck y Sonar Q, para asegurar que no cuente con riesgos de seguridad detectados antes de ser liberado a producción.
+Administración y registro de control, para el seguimiento de los proyectos, Time Triggers y SDM para visualizar cargas, pendientes, tiempos de respuesta y sus aprobaciones, con la finalidad de estar en correcto apego a métricas de atención del servicio.
+Análisis y validación de cuestionarios de tipo Time Trigger en la plataforma del banco RRP, para hacer de forma periódica una evaluación total del aplicativo en ambiente productivo y determinar que cumple con todas las políticas y estándares del banco.
+Análisis y validación de cuestionarios de tipo SDM en la plataforma del banco RRP, para hacer de forma periódica una evaluación total del aplicativo en ambientes bajos (QA, UAT, DEV) y determinar que cumple con todas las políticas y estándares del banco.
+Análisis y seguimiento a métricas de indicadores de seguridad detectados por global, para su corrección y solución con el Application Manager del CSI reportado.
+Herramientas:
+JIRA, Oracle, API Security, JSON
+Softtek (BMV)	Ciudad de México ­ Software Engineer ­	De: Feb, 2023 a: Nov, 2023
+Senior Description:
+·      Análisis, validación y atención de problemas en aplicaciones de INDEVAL.
+·      Análisis y apoyo a la atención de las vulnerablidades identificadas de los sistemas de INDEVAL.
+·      Análisis y validación de defectos reportados de los sistemas de INDEVAL.
+·      Realización de pruebas funcionales en los diferentes sistemas de INDEVAL.
+·      Generación de documentación para la entrega al cliente de los problemas, vulnerabilidades o defectos reportados.
+Herramientas:
+Oracle, Microsoft Office, XML
+Softtek (Proyecto IMSS)	Ciudad de México ­ Ingeniero de software	De: Abr, 2016 a: Dic, 2022
+Descripción:
+Atención a servicios de tipo solicitudes de usuario, monitoreos e incidentes para su análisis y validación de las aplicaciones SIMF, SINOLAVE,MPEC, FEPAC CIMA y ECE del IMSS.
+Análisis, diseño y construcción de scripts para la extracción de información de BD SQL Server y Oracle para la creación de reportes ademanda del usuario.
+Análisis, diseño y construcción de escenarios para la ejecución de pruebas de estrés con la herramienta Apache Jmeter, para la validación delos sistemas y módulos solicitados, con la finalidad de confirmar la resistencia del servidor y código fuente, para la obtención del rendimiento del procesador, base de datos y red, así como también la generación de documentación del análisis detallado y conclusión de dichas pruebas. * Generación y validación de documentación aplicativa Maagtic de los sistemas IMSS, siendo la encargada de asegurar la calidad de la documentación aplicativa de las divisiones DSDICDS y DSDIOH para el cumplimiento de SLAs en los repositorios IMSS y Softtek.
+Encargada y responsable de impartir capacitación al equipo de colaboradores de continuidad operativa de las divisiones DSDICDS y DSDIOHpara la alineación de procesos y cumplimiento de SLAs.
+Implementación y validación de despliegues a producción para la aplicación de cambios al sistema SIMF a nivel nacional.
+Análisis, diseño y construcción de scripts de BD Oracle para la atención de solicitudes del sistema Sinolave.
+Atención y solución a incidentes reportados del sistema ECE, así como también la generación y entrega de reportes semanales de 1N, 2N y3N.
+Operación de la solución analítica que realiza la extracción de información mensual de los diferentes sistemas IMSS para la realización de lascargas a las bases de datos SQL Server de MPEC mediante la herramienta ODI Studio para su tratamiento y análisis.
+Análisis y actualización de scripts Hive y SQL Server para mejorar el resultado de las consultas con la finalidad de reducir tiempo de ejecucióny rendimiento del procesador.
+Generación de diagramas UML de casos de uso, de actividades y de secuencia para plasmar el flujo y comportamiento de los procesos a bajoy alto nivel de MPEC.
+Diseño e implementación de propuestas de mejora a los sistemas, para la reducción de tickets, de esfuerzo y tiempo.
+Diseño e implementación de propuestas e innovación para mejorar la arquitectura y rendimiento de las soluciones analíticas.* Implementación de mantenimientos menores para la evolución de los componentes ETL de la solución analítica.
+Generación de respaldos de la base de datos MPEC.
+Desarrollo y operación de las bases de datos de Continuidad Operativa.
+Herramientas:
+Java, Oracle, SQL Server, JSF, Microsoft Office, Jmeter, ODI Studio, Hive, PL SQL, XML, UML
+Softtek (Proyecto Bancomer)	Ciudad de México ­ Ingeniero de software	De: Jul, 2013 a: Abr, 2016
+Descripción:
+Líder técnico y responsable del soporte y mantenimiento de 11 aplicaciones (IMAX) de Bancomer desarrollados en Java, los cuales son dealta criticidad que operan 24x7 para el manejo de imágenes digitalizadas.
+Atención directa a usuarios operativos de IMAX, para la solución de problemas del sistema y/o servicio.
+Compromiso en el cumplimiento de los niveles de servicio de cada aplicación IMAX, debido a que ninguna debía estar fuera de servicio másde 2 hrs.
+Análisis de logs y base de datos para la solución de incidencias.
+Generación de documentación de usuario y técnica.
+Análisis y detección de bugs del sistema para su solución.
+Monitoreo a servidores de aplicaciones y de base de datos.
+Creación y mantenimiento a usuarios Microstrategy.
+Levantamiento de requerimientos Remedy.
+Instalación de componentes vía IPC (Informática Power Center).
+Herramientas:
+Java, HTML, Javascript, Oracle, SSH, Navicat, Microstrategy, IPC (Informática Power Center)., PHP
+Grupo Salinas (Banco Azteca)	Ciudad de México ­ Desarrollador Software	De: Mar, 2012 a: Jul, 2013
+Description:
+Líder técnico y responsable del soporte y mantenimiento del portal “Banca Empresarial Azteca”, específicamente de los países México, Perú,Brasil y Guatemala.
+Creación de nuevos desarrollos, así como el mantenimiento los sistemas.
+Análisis de logs para detectar la falla aplicativa reportada.
+Implementación (deploy) del proyecto en servidores Unix y Windows.
+Pruebas en ambientes previos (Tester).
+Atención a usuarios finales y de negocio.
+Solución a incidencias bajo presión.
+Creación y mantenimiento de objetos de base de datos Oracle.
+Involucramiento en la creación y manteamiento de la infraestructura de los servidores.* Monitoreo a servidores de aplicaciones y de base de datos.
+Herramientas:
+Java, HTML, Javascript, XML, PL­SQL, Oracle 11, SSH, Ajax, JQuery, Servlets, EJBs, Struts, Spring, Jboss, Eclipse, MS Visual Basic For
+Applications, JavaServer Pages (JSP)
+EDUCACIÓN
+Instituto Tecnológico de Zacatepec
+Licenciatura en Informática
+DESARROLLO PROFESIONAL | Zacatepec, Morelos | De: Ago, 2007 a: Dic, 2011
+Certification: Scrum Fundamentals | SCRUMstudy | Nov, 2021
+LENGUAJES
+Inglés	Autoevaluado	Intermedio - Superior 51­79%
+HERRAMIENTAS
+XML	 	Proficient (2­4 YoE)
+UML	 	Expert (6­8 YoE)
+Struts	 	Proficient (2­4 YoE)
+SSH	 	Proficient (2­4 YoE)
+SQL Server	 	Senior (4­6 YoE)
+Spring	 	Proficient (2­4 YoE)
+Servlets	 	Proficient (2­4 YoE)
+PL­SQL	 	Senior (4­6 YoE)
+PL SQL	 	Senior (4­6 YoE)
+PHP	 	Proficient (2­4 YoE)
+Oracle 11	 	Senior (4­6 YoE)
+Oracle	 	Senior (4­6 YoE)
+Oracle	 	Senior (4­6 YoE)
+ODI Studio	 	Expert (6­8 YoE)
+Navicat	 	Proficient (2­4 YoE)
+MS Visual Basic For Applications	 	Proficient (2­4 YoE)
+Microstrategy	 	Proficient (2­4 YoE)
+Microsoft Office	 	Master (+8 YoE)
+JSON	 	Proficient (2­4 YoE)
+JSF	 	Proficient (2­4 YoE)
+JQuery	 	Proficient (2­4 YoE)
+Jmeter	 	Expert (6­8 YoE)
+JIRA	 	Proficient (2­4 YoE)
+Jboss	 	Proficient (2­4 YoE)
+JavaServer Pages (JSP)	 	Proficient (2­4 YoE)
+Javascript	 	Senior (4­6 YoE)
+Java	 	Proficient (2­4 YoE)
+IPC (Informática Power Center).	 	Junior (1­2 YoE)
+HTML	 	Senior (4­6 YoE)
+Hive	 	Senior (4­6 YoE)
+EJBs	 	Proficient (2­4 YoE)
+Eclipse	 	Senior (4­6 YoE)
+API Security	 	Proficient (2­4 YoE)
+Ajax	 	Proficient (2­4 YoE)

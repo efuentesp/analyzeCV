@@ -1,3 +1,4 @@
+[
 {
   "nombre": "Rosain Castillo Eng",
   "mail": "",
@@ -6,49 +7,71 @@
   "rfc": "",
   "curp": "",
   "no_cedula": "7444528",
-  "fecha_cedula": "3/20/2012",
+  "fecha_cedula": "20 marzo 2012",
   "rol_propuesto": "Líder Técnico",
-  "resumen_profesional": "Tengo al menos 5 años de experiencia en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas.\nDominio en las tecnologías de la Arquitectura de Referencia (AR)  y/o tecnologías open source.\nAdicional:\nAl menos 3 años de experiencia en desarrollo en metodologías ágiles\n\nTengo amplia experiencia coordinando equipos técnicos para la entrega de soluciones críticas en entornos de integración y migración, incluyendo definición de mensajes Organización Internacional de Normalización (ISO-8583) y reemplazo de componentes de cifrado. Me enfoco en asegurar la calidad del software y la correcta implementación de soluciones, así como en la estimación y planificación de esfuerzos.\n\nDirijo iniciativas de automatización y despliegue con contenedores, orquestación y pipelines de publicación, y participo en la definición de arquitecturas de alta disponibilidad y estándares de desarrollo. Trabajo en la coordinación entre áreas técnicas y no técnicas para garantizar la continuidad operacional y cumplimiento de controles.",
+  "resumen_profesional": "Tengo al menos 5 años de experiencia en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas. Dominio en las tecnologías de la Arquitectura de Referencia (AR)  y/o tecnologías open source. Adicional, tengo al menos 3 años de experiencia en desarrollo en metodologías ágiles. Me encargo de la planificación, control y seguimiento de la fase de construcción, asegurando la implementación y el uso de una arquitectura de software sólida, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación mediante el uso y adaptación de frameworks y estándares, además de brindar asesoría al equipo técnico en la resolución de tareas complejas.\n\nDirijo equipos técnicos y coordino la entrega de soluciones que integran arquitecturas, seguridad y plataformas en la nube; trabajo en proyectos que requieren cumplimiento de PCI DSS (Estándar de seguridad para datos de tarjetas) e integración de Organización Internacional de Normalización (ISO 8583 - Protocolo de mensajería para transacciones financieras), y gestiono la adopción de contenedores y pipelines para automatizar despliegues. Mi enfoque está en garantizar continuidad operativa, integridad de datos y cumplimiento de requisitos no funcionales.\n\nPlanifico y superviso actividades de construcción, pruebas de extremo a extremo y migraciones, así como el seguimiento de métricas y riesgos. Coordino equipos multidisciplinarios, facilito la integración entre áreas y priorizo entregables por iteración para asegurar la calidad y el cumplimiento de plazos.",
   "experiencia_laboral": [
     {
       "empresa": "Softtek - Walmart de México y Centroamérica",
-      "puesto": "Líder Técnico",
+      "puesto": "Tech Lead",
       "fecha_inicio": "1 junio 2020",
       "fecha_fin": "Actual",
       "actividades_principales": [
-        "Dirijo y coordino equipos técnicos implementando y optimizando tecnologías para alcanzar objetivos estratégicos de desarrollo. Aseguro la calidad del software, la correcta implementación de las soluciones y el uso adecuado de herramientas y buenas prácticas. Actúo como enlace entre el equipo técnico y otras áreas del proyecto. Garantizo la integración de los componentes técnicos y los alineo con la arquitectura y la seguridad del SAT. Habilidades en: Gestión de Proyectos, Liderazgo.",
-        "Defino las pruebas y tiempos de respuesta del software que sustituirá el mecanismo de cifrado de tarjetas bancarias que deben cumplir con los controles de PCI DSS.",
-        "Solicito los requerimientos de hardware que se requieren para la ambientación de legados que utilizan el software de cifrado.",
-        "Ambiento los legados y sus endpoints para realizar pruebas end to end y garantizar el correcto funcionamiento del cifrado.",
-        "Estimo el tiempo y esfuerzo que se requiere para actualizar los componentes que utilizan el software de cifrado.",
-        "Defino el mensaje Organización Internacional de Normalización (ISO-8583) para el cambio de autorizador del legado de renovación de membresías, sustituyendo EPay por Authentic.",
-        "Coordino el equipo de desarrollo para actualizar el código para el uso del nuevo software de cifrado.",
-        "Diseño modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta.",
-        "Configuré RDS para PostgreSQL.",
-        "Configuré y ejecuté SonaQube con Docker en una instancia de EC2.",
-        "Configuré Dockerfile para crear la imagen del front (React) y del back (ASP.NET Core).",
-        "Configuré AWS Fargate para la ejecución de los contenedores de front y back.",
-        "Automaticé la publicación de los contenedores del front y el back (Azure DevOps).",
-        "Coordinar la etapa de análisis de los procesos de conciliación de la dependencia.",
-        "Elaboración del cronograma.",
-        "Incorporación de recursos al equipo.",
-        "Elaboración del Plan de Desarrollo de Proyecto (PDP).",
-        "Revisión de métricas.",
+        "Dirijo y coordino equipos de trabajo implementando y optimizando tecnologías para cumplir los objetivos estratégicos de desarrollo. Aseguro la calidad del software, la correcta implementación de las soluciones y el uso adecuado de herramientas y buenas prácticas. Actúo como puente entre el equipo técnico y otras áreas del proyecto o de la institución. Garantizo la integración de los componentes técnicos y los alineo con la arquitectura y la seguridad del SAT. Habilidades en: Gestión de Proyectos, Liderazgo.",
+        "Comprendo la propuesta de negocio y las necesidades del cliente.",
+        "Defino un plan de trabajo detallado para la fase de construcción.",
+        "Estimo las tareas de programación.",
+        "Colaboro con el arquitecto en la definición de la arquitectura y la solución técnica.",
+        "Aseguro la aplicación de estándares de codificación y de base de datos.",
+        "Asesoro y coordino a ingenieros de software.",
+        "Aseguro el uso de subsistemas de soporte y la correcta implementación del framework para garantizar el cumplimiento de los requerimientos no funcionales (seguridad, disponibilidad, escalabilidad, mantenibilidad y desempeño, entre otros).",
+        "Administro la configuración de los productos de construcción (CTR).",
+        "Desarrollo y/o coordino implementaciones de referencia.",
+        "Aseguro la aplicación de checklists para la revisión de los productos.",
+        "Coordino la integración de macro-componentes a la arquitectura.",
+        "Defino prioridades para la construcción en cada iteración.",
+        "Fomento la aplicación de patrones de diseño.",
+        "Participo en la definición del esquema de integración de las aplicaciones.",
+        "He participado en proyectos de más de 20 mil horas, donde apoyo en la definición de soluciones para requerimientos no funcionales y aseguro el correcto desempeño del sistema. Además, planeo y coordino equipos de más de 15 ingenieros de software, garantizando una ejecución eficiente de las actividades.",
+        "He usado la certificación Scrum Alliance como fundamento para aplicar metodologías ágiles basadas en Scrum, considerando roles, eventos y artefactos.",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.",
+        "STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.",
+        "STE: Ejecuto escenarios de prueba.",
+        "INT: Diseño y preparo testware.",
+        "UAT: Apoyo en las actividades de pruebas del usuario.",
+        "Defino las pruebas y los tiempos de respuesta del software que sustituirá el mecanismo de cifrado de tarjetas bancarias para cumplir con los controles de PCI DSS (Estándar de seguridad para datos de tarjetas).",
+        "Solicito los requerimientos de hardware necesarios para la ambientación de legados que utilizan el software de cifrado.",
+        "Realizo la ambientación de los legados y sus endpoints para ejecutar pruebas de extremo a extremo y garantizar el correcto funcionamiento del cifrado.",
+        "Estimo el tiempo y esfuerzo requerido para actualizar los componentes que utilizan el software de cifrado.",
+        "Defino el mensaje ISO-8583 (Protocolo de mensajería para transacciones financieras) para el cambio de autorizador del legado de renovación de membresías, sustituyendo EPay por Authentic.",
+        "Coordino el equipo de desarrollo para actualizar el código al uso del nuevo software de cifrado.",
+        "Diseño un modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta.",
+        "Configuro RDS para PostgreSQL (Base de datos relacional avanzada).",
+        "Configuro y ejecuto SonarQube con Docker (Contenerización de aplicaciones) en una instancia de EC2.",
+        "Configuro Dockerfile para crear las imágenes del front (React) y del back (ASP.NET Core (Framework para APIs y aplicaciones web)).",
+        "Configuro AWS (Plataforma de servicios en la nube) Fargate para la ejecución de los contenedores de front y back.",
+        "Automatizo la publicación de los contenedores del front y del back mediante Azure DevOps (Plataforma de gestión ágil y CI/CD).",
+        "Coordino la etapa de análisis de procesos de conciliación de la dependencia.",
+        "Elaboro el cronograma utilizando MS Project (Planificación de cronogramas, ruta crítica, cargas y costos).",
+        "Incorporo recursos al equipo.",
+        "Elaboro el Plan de Desarrollo de Proyecto (PDP).",
+        "Reviso métricas.",
         "Monitoreo y registro de riesgos.",
-        "Presentación de avances con el cliente."
+        "Presento avance."
       ]
     },
     {
       "empresa": "Softtek - Element Fleet Management",
-      "puesto": "Líder Técnico",
+      "puesto": "Tech Lead",
       "fecha_inicio": "2 enero 2020",
       "fecha_fin": "31 mayo 2020",
       "actividades_principales": [
-        "Configuré RDS para PostgreSQL.",
-        "Configuré y ejecuté SonaQube con Docker en una instancia de EC2.",
-        "Configuré Dockerfile para crear la imagen del front (React) y del back (ASP.NET Core).",
-        "Configuré AWS Fargate para la ejecución de los contenedores de front y back.",
-        "Automaticé la publicación de los contenedores del front y el back (Azure DevOps)."
+        "Configuro RDS para PostgreSQL (Base de datos relacional avanzada).",
+        "Configuro y ejecuto SonarQube con Docker (Contenerización de aplicaciones) en una instancia de EC2.",
+        "Configuro Dockerfile para crear las imágenes del front (React) y del back (ASP.NET Core (Framework para APIs y aplicaciones web)).",
+        "Configuro AWS (Plataforma de servicios en la nube) Fargate para la ejecución de los contenedores de front y back.",
+        "Automatizo la publicación de los contenedores del front y del back mediante Azure DevOps (Plataforma de gestión ágil y CI/CD)."
       ]
     },
     {
@@ -57,24 +80,55 @@
       "fecha_inicio": "3 junio 2019",
       "fecha_fin": "31 diciembre 2019",
       "actividades_principales": [
-        "Coordinar la etapa de análisis de los procesos de conciliación de la dependencia.",
-        "Elaboración del cronograma.",
-        "Incorporación de recursos al equipo.",
-        "Elaboración del Plan de Desarrollo de Proyecto (PDP).",
-        "Revisión de métricas.",
+        "Coordino la etapa de análisis de procesos de conciliación de la dependencia.",
+        "Elaboro el cronograma utilizando MS Project (Planificación de cronogramas, ruta crítica, cargas y costos).",
+        "Incorporo recursos al equipo.",
+        "Elaboro el Plan de Desarrollo de Proyecto (PDP).",
+        "Reviso métricas.",
         "Monitoreo y registro de riesgos.",
-        "Presentación de avances con el cliente."
+        "Presento avance."
       ]
     }
   ],
   "periodo_resumen_laboral": "La experiencia abarca desde 01 febrero de 2006 hasta 31 mayo de 2019",
-  "resumen_laboral": "Durante este período me desempeñé en roles como .NET Developer, .NET Consultant, Software Architect y Project Manager. Asumí responsabilidades de planificación y estimación de tareas, gestión de recursos, seguimiento de cronogramas y presentación de avances. Participé en actividades de soporte, migración de sistemas y definición de estándares, así como en la capacitación y coordinación de equipos. Mis funciones incluyeron la supervisión de métricas y la ejecución de proyectos orientados a la mejora de procesos y reducción de defectos.",
+  "resumen_laboral": "Durante este período asumí roles como .NET Developer, .NET Consultant, Project Manager, Software Architect y Catedrático, desempeñando responsabilidades de desarrollo y mantenimiento, migración y actualización de plataformas, planificación y seguimiento de proyectos, coordinación de equipos y ejecución de pruebas. Me encargué de garantizar la continuidad operativa, la migración tecnológica, la optimización de procesos y la implementación de controles de calidad mediante métricas y seguimiento, manteniendo comunicación con áreas de negocio y equipos distribuidos.",
   "estudios": {
     "carrera": "Ingeniería en Sistemas Computacionales",
     "lugar": "Universidad Tecnológica de México",
     "periodo": "CDMX/2005"
   },
-  "certificaciones": [],
+  "herramientas": [
+    {
+      "nombre": "SonarQube"
+    },
+    {
+      "nombre": "Docker"
+    },
+    {
+      "nombre": "EC2"
+    },
+    {
+      "nombre": "AWS"
+    },
+    {
+      "nombre": "Azure DevOps"
+    },
+    {
+      "nombre": "PostgreSQL"
+    },
+    {
+      "nombre": "ASP.NET Core"
+    },
+    {
+      "nombre": "React"
+    }
+  ],
+  "certificaciones": [
+    {
+      "nombre": "Certified Scrum Master - ScrumAlliance",
+      "anio": "2026-2028"
+    }
+  ],
   "cursos": [
     {
       "nombre": "Crear Página Web con HTML y CSS"
@@ -89,4 +143,187 @@
       "nombre": "The Complete Guide to HTML"
     }
   ]
+},
+{
+  "nombre": "Hugo Francisco Esteban Luz",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "",
+  "fecha_cedula": "",
+  "rol_propuesto": "Lider Tecnico",
+  "resumen_profesional": "Tengo al menos 5 años de experiencia en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas.\nDominio en las tecnologías de la Arquitectura de Referencia (AR)  y/o tecnologías open source. Adicional, tengo al menos 3 años de experiencia en desarrollo en metodologías ágiles. Me encargo de la planificación, control y seguimiento de la fase de construcción, asegurando la implementación y el uso de una arquitectura de software sólida, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación mediante el uso y adaptación de frameworks y estándares, además de brindar asesoría al equipo técnico en la resolución de tareas complejas.\nTengo amplia experiencia liderando equipos en proyectos bancarios, retail y de facturación electrónica, proponiendo y diseñando arquitecturas orientadas a microservicios y mejoras para despliegues y desempeño. Coordino refinamiento de historias, la integración con proveedores y la definición de flujos críticos, asegurando continuidad operativa y calidad en la entrega.\nMi experiencia técnica incluye desarrollo en C# (Lenguaje de programación para desarrollo backend), .NET Framework y .NET Core, Web API, MVC y arquitecturas Onion/Clean; uso de Docker (Contenerización de aplicaciones), gestión de código con Git (Control de versiones distribuido)/Bitbucket (Repositorio de código y colaboración) y prácticas DevOps. Gestión sprints, revisiones de código, pruebas funcionales y despliegues a producción forman parte de mi trabajo cotidiano, orientado a soluciones escalables y mantenibles.",
+  "funciones": "Dirijo y coordino equipos de trabajo mediante la implementación y optimización de tecnologías para alcanzar los objetivos estratégicos de desarrollo, asegurando la calidad del software, la correcta implementación de las soluciones y el uso adecuado de herramientas y buenas prácticas. Actúo como enlace entre el equipo técnico y otras áreas del proyecto o de la institución, y garantizo la integración de los componentes técnicos alineándolos con la arquitectura y los lineamientos de seguridad del SAT. Cuento con habilidades en gestión de proyectos y liderazgo.\nDirijo equipos en proyectos del sector bancario, retail y facturación electrónica, diseñando soluciones orientadas a microservicios y proponiendo mejoras para despliegues y rendimiento. Coordino el refinamiento de historias de usuario, la integración con proveedores y la ejecución de pruebas funcionales para garantizar la continuidad y calidad del servicio.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek - Walmart",
+      "puesto": "Technical Leader",
+      "fecha_inicio": "1 septiembre 2020",
+      "fecha_fin": "A la fecha",
+      "actividades_principales": [
+        "Dirijo y coordino equipos de trabajo implementando y optimizando tecnologías para alcanzar objetivos estratégicos de desarrollo. Aseguro la calidad del software, la correcta implementación de soluciones y el uso adecuado de herramientas y buenas prácticas; me desempeño como enlace entre el equipo técnico y otras áreas, garantizando la integración de componentes técnicos alineados con la arquitectura y la seguridad del SAT. Habilidades en: Gestión de Proyectos, Liderazgo.",
+        "Comprendo la propuesta de negocio y las necesidades del cliente.",
+        "Defino un plan de trabajo detallado para la fase de construcción.",
+        "Estimo las tareas de programación.",
+        "Colaboro con el arquitecto en la definición de la arquitectura y la solución técnica.",
+        "Aseguro la aplicación de estándares de codificación y de base de datos.",
+        "Asesoro y coordino a ingenieros de software.",
+        "Aseguro el uso de subsistemas de soporte y la correcta implementación del framework para el cumplimiento de requerimientos no funcionales (seguridad, disponibilidad, escalabilidad, mantenibilidad y desempeño).",
+        "Administro la configuración de los productos de construcción (CTR).",
+        "Desarrollo y coordino implementaciones de referencia.",
+        "Aseguro la aplicación de checklists para la revisión de los productos.",
+        "Coordino la integración de macro-componentes a la arquitectura.",
+        "Defino prioridades para la construcción en cada iteración.",
+        "Fomento la aplicación de patrones de diseño.",
+        "Participo en la definición del esquema de integración de las aplicaciones.",
+        "He participado en proyectos de más de 20 mil horas, donde apoyo en la definición de soluciones para requerimientos no funcionales y aseguro el correcto desempeño del sistema; además, planeo y coordino equipos de más de 15 ingenieros de software para garantizar una ejecución eficiente de las actividades.",
+        "He usado el curso Java Message Service (JMS) Fundamentals para implementar mensajería asíncrona y desacoplada en aplicaciones Java empresariales mediante JMS",
+        "He usado la certificación Certified ScrumMaster® (CSM) para aplicar el marco de trabajo Scrum en la gestión de proyectos ágiles, facilitando ceremonias, promoviendo la colaboración del equipo y asegurando la entrega de valor",
+        "Participo en los procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek.",
+        "CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.",
+        "STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.",
+        "STE: Ejecuto escenarios de prueba.",
+        "INT: Diseño y preparo testware.",
+        "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de pruebas del usuario.",
+        "Entiendo y refino Historias de Usuario con áreas de BA, Aseguramiento de la Calidad (QA) y DB.",
+        "Genero documentación técnica para especificaciones e integraciones.",
+        "Propongo desarrollos basados en patrones de diseño enfocados en funcionalidad.",
+        "Desarrollo en C# (Lenguaje de programación para desarrollo backend) (.NET Framework 4.6), .NET Core, .NET Standard; implemento WebApi y front Razor.",
+        "Desarrollo siguiendo arquitectura Onion, MVC y Clean.",
+        "Desarrollo y ejecuto pruebas funcionales.",
+        "Gestiono ramas en Git (Control de versiones distribuido) para múltiples proyectos (GitHub, GitFlow), realizo revisiones de código y apruebo Pull Requests.",
+        "Lidero equipo de desarrollo de múltiples proyectos, coordinando a 6 personas en .NET y .NET Core.",
+        "Genero, asigno y hago seguimiento a sprints (Scrum).",
+        "Documento e implemento en producción, y elaboro especificaciones técnicas para integraciones con proveedores.",
+        "Analizo requerimientos del Banco de México para CoDi y adecuo el negocio a las especificaciones requeridas.",
+        "Preparo el desarrollo de la app para certificación con Banco de México.",
+        "Diseño el core de la app (módulo CoDi) desarrollado en .NET WCF y bases de datos SQL (Lenguaje para gestión y consulta de bases de datos relacionales), estableciendo buenas prácticas y generando pruebas funcionales.",
+        "Genero historias de usuario por flujo (App, Core) y coordino tareas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) basadas en dichas historias.",
+        "Estimo horas de desarrollo con el equipo y coordino recursos (4 para Xamarin, 2 para Core .NET).",
+        "Ejecuto pruebas de desarrollo enfocadas en experiencia de usuario y funcionalidad.",
+        "Hago seguimiento a pruebas y mejoras por usuario.",
+        "Coordiné tareas con varios equipos en proyectos de banca empresarial en rol de arquitecto y Chief Scrum Master.",
+        "Facilito insumos (datos para pruebas, ambientes) y actúo como facilitador técnico para NodeJS y revisión de desarrollos en .NET.",
+        "Gestión de equipo en fábrica de software: supervisión diaria, reporte de actividades y seguimiento a gerencia.",
+        "Implementé manejo de Git (Control de versiones distribuido) para proyecto de App CoDi en Xamarin y Core de CoDi en .NET.",
+        "Introduje seguimiento ágil con reuniones diarias y establecí pruebas funcionales al core de CoDi.",
+        "Desarrollo en C# (Lenguaje de programación para desarrollo backend) .NET Core 2.0 aplicando arquitectura en capas.",
+        "Configuro clientes de Identity Server para autenticación y autorización.",
+        "Despliego aplicaciones en Docker (Contenerización de aplicaciones) para Windows y Linux.",
+        "Desarrollo servicios REST (WebApi) y pruebas funcionales.",
+        "Implemento cifrado de mensajes y manejo de ramas en Git (Control de versiones distribuido) con Team Services y Pull Requests.",
+        "Realizo análisis de requerimientos y generación de diagramas de procesos.",
+        "Contribuí a la certificación de Web API con First Data integrando prácticas DevOps (Team Services)."
+      ]
+    },
+    {
+      "empresa": "Grupo Financiero Inbursa",
+      "puesto": "Analista de Sistemas (Lider de desarrollo)",
+      "fecha_inicio": "30 noviembre 2018",
+      "fecha_fin": "31 diciembre 2020",
+      "actividades_principales": [
+        "Analizo requerimientos del Banco de México para CoDi y adecuo el negocio a las especificaciones requeridas.",
+        "Preparo el desarrollo de la app para certificación con Banco de México.",
+        "Diseño el core de la app (módulo CoDi) desarrollado en .NET WCF y bases de datos SQL (Lenguaje para gestión y consulta de bases de datos relacionales), estableciendo buenas prácticas y generando pruebas funcionales.",
+        "Genero historias de usuario por flujo (App, Core) y coordino tareas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) basadas en dichas historias.",
+        "Estimo horas de desarrollo con el equipo y coordino recursos (4 para Xamarin, 2 para Core .NET).",
+        "Ejecuto pruebas de desarrollo enfocadas en experiencia de usuario y funcionalidad.",
+        "Hago seguimiento a pruebas y mejoras por usuario.",
+        "Coordiné tareas con varios equipos en proyectos de banca empresarial en rol de arquitecto y Chief Scrum Master.",
+        "Facilito insumos (datos para pruebas, ambientes) y actúo como facilitador técnico para NodeJS y revisión de desarrollos en .NET.",
+        "Gestión de equipo en fábrica de software: supervisión diaria, reporte de actividades y seguimiento a gerencia.",
+        "Implementé manejo de Git (Control de versiones distribuido) para proyecto de App CoDi en Xamarin y Core de CoDi en .NET.",
+        "Introduje seguimiento ágil con reuniones diarias y establecí pruebas funcionales al core de CoDi."
+      ]
+    },
+    {
+      "empresa": "Gesfor",
+      "puesto": "Desarrollador .Net Sr",
+      "fecha_inicio": "1 noviembre 2017",
+      "fecha_fin": "29 noviembre 2018",
+      "actividades_principales": [
+        "Desarrollo en C# (Lenguaje de programación para desarrollo backend) .NET Core 2.0 aplicando arquitectura en capas.",
+        "Configuro clientes de Identity Server para autenticación y autorización.",
+        "Despliego aplicaciones en Docker (Contenerización de aplicaciones) para Windows y Linux.",
+        "Desarrollo servicios REST (WebApi) y pruebas funcionales.",
+        "Implemento cifrado de mensajes y manejo de ramas en Git (Control de versiones distribuido) con Team Services y Pull Requests.",
+        "Realizo análisis de requerimientos y generación de diagramas de procesos.",
+        "Contribuí a la certificación de Web API con First Data integrando prácticas DevOps (Team Services)."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde 01 septiembre de 2012 hasta 30 octubre de 2017",
+  "resumen_laboral": "Durante este período asumí responsabilidades técnicas y de coordinación en roles como Desarrollador .Net, Analista de Sistemas y Desarrollador Net. Me enfoqué en desarrollo de aplicaciones, análisis de requerimientos, corrección de incidencias y soporte funcional, participando en la implementación de sistemas de facturación electrónica y en la administración de bases de datos. Asumí tareas de supervisión de entregables, gestión de código y apoyo a clientes para asegurar la correcta operación de las soluciones.",
+  "estudios": {
+    "carrera": "Lic. En Ingeniería en Sistemas Computacionales",
+    "lugar": "Universidad Multicultural CUDEC",
+    "periodo": "2010 – 2014"
+  },
+  "herramientas": [
+    {
+      "nombre": "C#"
+    },
+    {
+      "nombre": ".NET Framework"
+    },
+    {
+      "nombre": ".NET Core"
+    },
+    {
+      "nombre": "WebApi"
+    },
+    {
+      "nombre": "MVC"
+    },
+    {
+      "nombre": "Docker"
+    },
+    {
+      "nombre": "Git"
+    },
+    {
+      "nombre": "Bitbucket"
+    },
+    {
+      "nombre": "SQL Server"
+    },
+    {
+      "nombre": "Oracle Web Center"
+    },
+    {
+      "nombre": "Node JS"
+    },
+    {
+      "nombre": "AngularJS"
+    },
+    {
+      "nombre": "Visual Studio"
+    },
+    {
+      "nombre": "Xamarin"
+    },
+    {
+      "nombre": "Identity Server"
+    },
+    {
+      "nombre": "NGINX"
+    },
+    {
+      "nombre": "Team Services"
+    }
+  ],
+  "certificaciones": [
+    {
+      "nombre": "Certified ScrumMaster® (CSM) – Scrum Alliance 2026-2028",
+      "anio": "2026"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Java Message Service JMS Fundamentals"
+    }
+  ]
 }
+]

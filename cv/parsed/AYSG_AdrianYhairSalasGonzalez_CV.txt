@@ -1,0 +1,65 @@
+Adrian Yhair Salas Gonzalez
+PERFIL
+Como profesional con más de 14 años de experiencia, me he especializado en el desarrollo de modelos de datos que se alinean con las estrategias de los clientes para la entrega de valor real que se traduce en rentabilidad. Haciendo uso del análisis de datos y procesos nos permiten crear soluciones efectivas para la toma de decisiones. Usualmente participo en el ciclo completo del desarrollo de las aplicaciones, desde el análisis de los requerimientos, entendimiento de los procesos y los datos, hasta el diseño, la programación e implementación de la solución. Participo en el ciclo completo ETL, pruebas, entrenamiento a usuarios y mantenimiento de las soluciones. Participo de forma efectiva en resolución de problemas.
+EXPERIENCIA PROFESIONAL
+Softtek	HO ­ Sr Data Analyst & Support	De: Oct, 2023 A: La Fecha Descripción:
+Implementación de nuevas aplicaciones.
+Atención de incidencias y tareas, manteniendo el SLA hasta un 95 %.
+Creación de documentación de procesos empresariales.
+Soporte para informes utilizando Microsoft Report Builder.
+Soporte para aplicaciones Qlik Sense.
+Administración de QMC (aplicaciones, tareas, flujos, nodos, roles, reglas de seguridad, etc.).
+Administración de Vizlib.
+Administración del servidor QlikSense.
+Herramientas/Habilidades:
+Rackspace Tecnology	HO ­ Sr BI Developer	De: Mar, 2022 A: Jun, 2023 Descripción:
+Migración de más de 60 paneles de control de Qlik Sense a Tableau.
+Traduje la aplicación Tickets de Power BI a Tableau.
+Presté apoyo al departamento de ingresos y a la administración de ventas, trabajando
+en estrecha colaboración con las partes interesadas para transformar sus necesidades en requisitos técnicos, añadiendo nuevas funciones a la aplicación Customer Revenue Achievement.
+Traduje vistas, tablas, CTE y consultas complejas de SQL Server a GCP.
+Traduje la aplicación Inventory Forecasting de Python a Tableau.
+Herramientas/Habilidades:
+Tafer Resorts	Puerto Vallarta ­ Sr BI Developer	De: Oct, 2015 A: Mar, 2022 Descripción:
+Creación del Departamento de Inteligencia Empresarial.
+Desarrollo de más de 10 aplicaciones Qlik.
+Desarrollo de 6 aplicaciones Power BI utilizando las mejores prácticas y elementos visuales personalizados para ventas hoteleras, recursos humanos, encuestas y
+alimentos y bebidas.
+Automatización de informes utilizando Microsoft Power Automate y Power BI Report Builder.
+Creación de medidas utilizando expresiones DAX. Extracción, transformación y carga de datos utilizando Power Query.
+Extracción de datos de múltiples fuentes, como SQL Server, Sybase DB, archivos Excel, tablas web, archivos csv y otros.
+Integración de datos utilizando las mejores prácticas, transformación optimizada, recargas parciales, código reutilizable y aplicación de starschema.
+Análisis de sistemas, definición de requisitos, documentación y gestión de proyectos.
+Diseño y desarrollo de paneles de control, definición de KPI, cuadros de mando, informes de autoservicio, análisis avanzados y orientación a la experiencia del usuario.
+Diseño y entrega de paneles de control intuitivos e información detallada.
+Mejores objetivos: aplicación de RR. HH., aplicación de finanzas, aplicación de construcción, ventas de F&B.
+El mejor logro fue la integración de datos de doce hoteles diferentes, lo que permitió ofrecer una potente herramienta a toda la empresa, incorporando análisis avanzados para crear: aplicación de ventas de hoteles.
+Herramientas/Habilidades:
+Grupo Vidanta	Nuevo Vallarta ­ BI Developer	De: Jun, 2013 A: Oct, 2015 Descripción:
+Participación en la integración de múltiples sistemas de ventas y migración a la plataforma Time Share Ware. Participación en el diseño, desarrollo e implementación de modelos QlikView para la toma de decisiones y informes de gestión. Soporte de modelos QV, administración de la consola QlikView. Planificación de proyectos e
+implementación de metodologías de desarrollo. Uso e implementación de las mejores prácticas en el ciclo de desarrollo del proyecto. Gestión de recursos de consultoría y gestión de personal. Análisis de requisitos de ventas,
+cobros y reservas. Desarrollo de modelos de datos, migración de información, integración y
+modelado de datos. Gestión del almacén de datos, gestión de paquetes de transformación de datos. Integración
+y modelado de información mediante SQL SIS. Integración de datos de diferentes fuentes. Análisis de bases de datos relacionales.
+Procesamiento de información mediante SQL Server Integration Services. Diseño, desarrollo e
+implementación de informes operativos mediante la herramienta BI Publisher de ORACLE. Así como la administración de OBIEE (Oracle Business Intelligence Enterprise Edition).
+Herramientas/Habilidades:
+EDUCACIÓN
+Instituto Tecnologico de Tepic Licenciatura | Tepic, Nayarit | De: Aug, 2004 A: Dec, 2009
+IDIOMAS
+English | Auto Evaluado | No Evaluado
+HABILIDADES TÉCNICAS/GERENCIALES
+QlikView/QlikSense Servers QlikView
+QlikSense
+Microsoft SQL Management Studio (SSMS) Microsoft SQL (T-SQL)
+Microsoft Power BI ETL Testing
+DAX
+Azure Data Factory | Master (+8 YoE)
+Master (+8 YoE)
+Master (+8 YoE)
+Master (+8 YoE)
+Master (+8 YoE)
+Senior (4-6 YoE)
+Proficient (2-4 YoE)
+Proficient (2-4 YoE)
+Junior (1-2 YoE)

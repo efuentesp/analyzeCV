@@ -1,0 +1,101 @@
+Sergio Paulo Morales Hernández
+Profile
+19 años de experiencia trabajando con tecnología Java.
+6 años de experiencia trabajando con C# y ASP.NET.
+18 años como arquitecto de software diseñando aplicaciones para varias plataformas. Esto incluye trabajo en todas las fases del Desarrollo de software como recolección de requerimientos, análisis, diseño, desarrollo, pruebas, despliegue y mantenimiento.
+12 años de experiencia lidereando equipos de desarrollo de software y DevOps.
+EXPERIENCIA PROFESIONAL:
+Cuenta Softtek / 
+IMSS | Trabajo Remoto Puebla | Application Support Engineer L3 Java Sr | Desde Ago 2025 | Hasta Febrero 2026
+Experiencia funcional: | Mejoras al Sistema web de reporte de almacén.
+Habilitar la función de personalización de columnas en los reportes del sistema. | Mejoras al Sistema web de reporte de almacén.
+Habilitar la función de personalización de columnas en los reportes del sistema. | Mejoras al Sistema web de reporte de almacén.
+Habilitar la función de personalización de columnas en los reportes del sistema. | Mejoras al Sistema web de reporte de almacén.
+Habilitar la función de personalización de columnas en los reportes del sistema.
+Herramientas: | Java, Spring Boot, Oracle. | Java, Spring Boot, Oracle. | Java, Spring Boot, Oracle. | Java, Spring Boot, Oracle.
+Cuenta Softtek / Southwest | Trabajo Remoto Puebla | Ingeniero de Dev Ops / Lider de equipo | Desde Nov 2022 | Hasta May 2025
+Experiencia funcional: | Atender tickets del equipo de desarrollo para los ambientes de desarrollo como cambios en configuraciones, despliegue de sistemas y actualizaciones de datos.
+Gestionar un equipo de DevOps con la responsabilidad de mantener los ambientes de Dev y QA disponibles y actualizados
+Crear flujos para despliegues automatizados utilizando Gitlab, scripts bash y Ansible.
+Crear tableros de monitoreo con AppDynamics | Atender tickets del equipo de desarrollo para los ambientes de desarrollo como cambios en configuraciones, despliegue de sistemas y actualizaciones de datos.
+Gestionar un equipo de DevOps con la responsabilidad de mantener los ambientes de Dev y QA disponibles y actualizados
+Crear flujos para despliegues automatizados utilizando Gitlab, scripts bash y Ansible.
+Crear tableros de monitoreo con AppDynamics | Atender tickets del equipo de desarrollo para los ambientes de desarrollo como cambios en configuraciones, despliegue de sistemas y actualizaciones de datos.
+Gestionar un equipo de DevOps con la responsabilidad de mantener los ambientes de Dev y QA disponibles y actualizados
+Crear flujos para despliegues automatizados utilizando Gitlab, scripts bash y Ansible.
+Crear tableros de monitoreo con AppDynamics | Atender tickets del equipo de desarrollo para los ambientes de desarrollo como cambios en configuraciones, despliegue de sistemas y actualizaciones de datos.
+Gestionar un equipo de DevOps con la responsabilidad de mantener los ambientes de Dev y QA disponibles y actualizados
+Crear flujos para despliegues automatizados utilizando Gitlab, scripts bash y Ansible.
+Crear tableros de monitoreo con AppDynamics
+Herramientas: | Gitlab, Ansible, AppDynamics, Linux, Jira. | Gitlab, Ansible, AppDynamics, Linux, Jira. | Gitlab, Ansible, AppDynamics, Linux, Jira. | Gitlab, Ansible, AppDynamics, Linux, Jira.
+Softtek / Southwest Account | Trabajo Remoto Puebla | Desarrollador/Scrum Master/Release Manager | Desde Sept 2018 | Hasta Nov 2022
+Experiencia funcional: | Participación como desarrollador Java, Scrum Master temporal y Release Manager. Contacto de soporte diario para ambientes de Dev y QA.
+Trabajé actualizando y mejorando sistemas java legados para los sistemas de vuelos y planeación.
+Como Scrum Master, agregué nuevos procesos para tener trazabilidad de los despliegues más recientes.
+Diseño e implementación de un sistema para mostrar el estado de las planeaciones de vuelo en los diferentes ambientes.
+Soporte diario y resolución de problemas en sistemas requeridos para vuelo en ambientes de desarrollo. | Participación como desarrollador Java, Scrum Master temporal y Release Manager. Contacto de soporte diario para ambientes de Dev y QA.
+Trabajé actualizando y mejorando sistemas java legados para los sistemas de vuelos y planeación.
+Como Scrum Master, agregué nuevos procesos para tener trazabilidad de los despliegues más recientes.
+Diseño e implementación de un sistema para mostrar el estado de las planeaciones de vuelo en los diferentes ambientes.
+Soporte diario y resolución de problemas en sistemas requeridos para vuelo en ambientes de desarrollo. | Participación como desarrollador Java, Scrum Master temporal y Release Manager. Contacto de soporte diario para ambientes de Dev y QA.
+Trabajé actualizando y mejorando sistemas java legados para los sistemas de vuelos y planeación.
+Como Scrum Master, agregué nuevos procesos para tener trazabilidad de los despliegues más recientes.
+Diseño e implementación de un sistema para mostrar el estado de las planeaciones de vuelo en los diferentes ambientes.
+Soporte diario y resolución de problemas en sistemas requeridos para vuelo en ambientes de desarrollo. | Participación como desarrollador Java, Scrum Master temporal y Release Manager. Contacto de soporte diario para ambientes de Dev y QA.
+Trabajé actualizando y mejorando sistemas java legados para los sistemas de vuelos y planeación.
+Como Scrum Master, agregué nuevos procesos para tener trazabilidad de los despliegues más recientes.
+Diseño e implementación de un sistema para mostrar el estado de las planeaciones de vuelo en los diferentes ambientes.
+Soporte diario y resolución de problemas en sistemas requeridos para vuelo en ambientes de desarrollo.
+Herramientas: | Spring Tools Suite IDE, Websphere, BitBucket, Jenkins, Rundeck, JVisualVM, Gitlab, Jira. | Spring Tools Suite IDE, Websphere, BitBucket, Jenkins, Rundeck, JVisualVM, Gitlab, Jira. | Spring Tools Suite IDE, Websphere, BitBucket, Jenkins, Rundeck, JVisualVM, Gitlab, Jira. | Spring Tools Suite IDE, Websphere, BitBucket, Jenkins, Rundeck, JVisualVM, Gitlab, Jira.
+Softtek / AB InBev Account | Trabajo Remoto Puebla | Desarrolloador / Lider de equipo | Desde Dic 2016 | Hasta Sept 2018
+Experiencia funcional: | Participé en Proyecto WMS Block by Pallet como desarrollador, líder de equipo y líder técnico.
+Colaboré con el análisis funcional y diseño técnico de la solución.
+Coordiné el equipo de desarrollo.
+Desarrollo de Código PL/SQL para las reglas de negocio.
+Implementación de una solución centralizada entre las cerveceras para permitir visibilidad. | Participé en Proyecto WMS Block by Pallet como desarrollador, líder de equipo y líder técnico.
+Colaboré con el análisis funcional y diseño técnico de la solución.
+Coordiné el equipo de desarrollo.
+Desarrollo de Código PL/SQL para las reglas de negocio.
+Implementación de una solución centralizada entre las cerveceras para permitir visibilidad. | Participé en Proyecto WMS Block by Pallet como desarrollador, líder de equipo y líder técnico.
+Colaboré con el análisis funcional y diseño técnico de la solución.
+Coordiné el equipo de desarrollo.
+Desarrollo de Código PL/SQL para las reglas de negocio.
+Implementación de una solución centralizada entre las cerveceras para permitir visibilidad. | Participé en Proyecto WMS Block by Pallet como desarrollador, líder de equipo y líder técnico.
+Colaboré con el análisis funcional y diseño técnico de la solución.
+Coordiné el equipo de desarrollo.
+Desarrollo de Código PL/SQL para las reglas de negocio.
+Implementación de una solución centralizada entre las cerveceras para permitir visibilidad.
+Herramientas: | Eclipse IDE, Websphere, GitHub. | Eclipse IDE, Websphere, GitHub. | Eclipse IDE, Websphere, GitHub. | Eclipse IDE, Websphere, GitHub.
+Softtek / AB InBev Account | Trabajo Remoto Puebla | Desarollador | Desde Abr 2016 | Hasta Dic 2016
+Experiencia funcional: | Participé en el Proyecto WMS Interleaving como recurso técnico.
+Implementé la solución de Interleaving en 4 cerveceras.
+Trabajé en la resolución de defectos y resolución de problemas de la aplicación. Implemente estos cambios usando Java y PL/SQL Oracle. | Participé en el Proyecto WMS Interleaving como recurso técnico.
+Implementé la solución de Interleaving en 4 cerveceras.
+Trabajé en la resolución de defectos y resolución de problemas de la aplicación. Implemente estos cambios usando Java y PL/SQL Oracle. | Participé en el Proyecto WMS Interleaving como recurso técnico.
+Implementé la solución de Interleaving en 4 cerveceras.
+Trabajé en la resolución de defectos y resolución de problemas de la aplicación. Implemente estos cambios usando Java y PL/SQL Oracle. | Participé en el Proyecto WMS Interleaving como recurso técnico.
+Implementé la solución de Interleaving en 4 cerveceras.
+Trabajé en la resolución de defectos y resolución de problemas de la aplicación. Implemente estos cambios usando Java y PL/SQL Oracle.
+Herramientas: | Eclipse IDE, Websphere, GitHub. | Eclipse IDE, Websphere, GitHub. | Eclipse IDE, Websphere, GitHub. | Eclipse IDE, Websphere, GitHub.
+Softtek / Penske Account | Trabajo Remoto Puebla | Desarrollador | Desde Sept 2013 | Hasta Feb 2016
+Experiencia funcional: | Desarrollo de aplicación móviles usando Android.
+Diseño y desarrollo de soluciones móviles para aplicaciones de logística. | Desarrollo de aplicación móviles usando Android.
+Diseño y desarrollo de soluciones móviles para aplicaciones de logística. | Desarrollo de aplicación móviles usando Android.
+Diseño y desarrollo de soluciones móviles para aplicaciones de logística. | Desarrollo de aplicación móviles usando Android.
+Diseño y desarrollo de soluciones móviles para aplicaciones de logística.
+Herramientas: | Eclipse IDE, Android SDK, Android Studio. | Eclipse IDE, Android SDK, Android Studio. | Eclipse IDE, Android SDK, Android Studio. | Eclipse IDE, Android SDK, Android Studio.
+Educación:
+Escuela | CIudad | Fechas
+Universidad de las Américas Puebla – Maestría en Ciencias de la Computación | Puebla, Mx. | 2008 – 2012
+Universidad de las Américas Puebla – Licenciatura en Ingeniería en Sistemas Computacionales | Puebla, Mx. | 2001 – 2006
+Idiomas:
+Inglés 80% // Español
+Habilidades técnicas/gestión:
+Rol primario: | Ingeniero de Software.
+Roles secundarios: | Arquitecto de Software, Analista, Gerente de Proyecto, Desarrollador, Lider de equipo, ingeniero de DevOps.
+Hardware: | Ethernet LAN, switches, routers.
+Sistemas Operativos: | Windows, Linux.
+Lenguajes de programación: | C#, Java SE, EE, ME, JavaScript, HTML, XML, PHP.
+Bases de datos: | Oracle, SQL Server, MySQL.
+Servidores de aplicaciones: | IIS, Apache HTTP, Apache Tomcat, IBM Websphere.
+Otros: | Desarrollo para Android (Java).

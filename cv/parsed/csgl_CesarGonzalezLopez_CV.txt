@@ -1,0 +1,196 @@
+
+
+--- Página 1 (OCR) ---
+
+Softtek'
+
+PERFIL
+
+Cesar Gonzalez Lopez
+
+Orientado a cumplir con los objetivos de la Empresa y Área de Sistemas.
+
+Diseñar Arquitectura de nuevas Aplicaciones, Administrar proyectos de Desarrollo y Soporte L2/L3, Análisis de Requerimientos, Realizar
+propuestas y estimaciones de nuevos Desarrollos. Apoyo a solución de Incidentes, Crecer Técnicamente a Equipo de Desarrolladores,
+Implementar Aplicaciones a nivel Global.
+
+EXPERIENCIA PROFESIONAL
+
+Softtek Monterrey - Digital Office De: Feb, 2016 A: La Fecha
+Descripción:
+
+Diseñar Arquitectura de nuevas Aplicaciones, Administrar proyectos de Desarrollo y Soporte L2/L3, Análisis de Requerimientos, Realizar
+propuestas y estimaciones de nuevos Desarrollos. Apoyo a solución de Incidentes, Crecer Técnicamente a Equipo de Desarrolladores.
+
+Herramientas/Habilidades:
+
+.NET Framework 4 (and up), Microsoft SQL Management Studio (SSMS), C4, .NET Core Framework, Oracle PL-SQL, .NET Framework 3.5
+(and above), Javascript, Angular 2+, ITIL , CMMi, Scrum
+
+Softtek Monterrey - HEB De: May, 2015 A: Jan, 2016
+Descripción:
+
+Se apoyo con desarrollos Frontend y optimización de procesos en BD.
+
+Herramientas/Habilidades:
+
+Oracle PL-SQL, Cif, .NET Framework 3.5 (and above)
+
+Deintec Monterrey NL - Software Engineer - Senior De: Jun, 2014 A: Apr, 2015
+Descripción:
+
+Desarrollar aplicaciones para mejorar procesos en líneas de Producción y sistema de Accionistas.
+
+Herramientas/Habilidades:
+
+ASP.NET MVC Framework, Microsoft SQL Server, Bootstrap, C4, Windows Presentation Foundation (WPF), Entity Framework
+
+Invercap Afore Monterrey NL. - Software Engineer - Senior De: Mar, 2013 A: May, 2014
+Descripción:
+
+Desarrollar Sofware para el área financiera y procesos Internos.
+
+Herramientas/Habilidades:
+
+Microsoft SQL Server, MS Visual Basic.NET (VB.NET), C4, Javascript, JQuery
+
+Antar Eslabon Systems Monterrey NL. - Software Engineer - Senior De: Feb, 2011 A: Mar, 2013
+Descripción:
+
+Desarrollar Software para Gobierno y Sector Privado. Web y Windows Form.
+
+Herramientas/Habilidades:
+.NET Framework 3.5 (and above), Oracle PL-SQL, Microsoft SQL Server, MS Visual Basic 6, Crystal Reports
+
+E-Software Solution Monterrey NL. - Software Engineer - De: Sep, 2010 A: Jan, 2011
+Proficient
+
+Descripción:
+
+Desarrollar Software para Empresa Siderúrgica
+
+
+--- Página 2 (OCR) ---
+
+Herramientas/Habilidades:
+
+.NET Framework 3.5 (and above), Microsoft SQL Server
+
+Sistemas Computacionales Integrados
+
+Descripción:
+
+Desarrollos y Mantenimientos de softwares para puntos de venta.
+
+Herramientas/Habilidades:
+
+.NET Framework 3.5 (and above), Ctf, Microsoft SQL Server, Mobility Services
+
+EDUCACIÓN
+
+Benemerita Universidad Autonoma de
+
+Puebla
+Master
+
+Curse la maestría en Administración obteniendo el Certificado pero no el grado.
+
+Instituto Tecnologico de Puebla
+
+Licentiate
+
+Computer Science
+
+DESARROLLO PROFESIONAL
+
+Course: Fundamentals SQL SERVER and NET
+
+IDIOMAS
+
+English
+
+HABILIDADES TÉCNICAS/GERENCIALES
+
+Windows Presentation Foundation (WPF)
+
+Scrum
+Oracle PL-SQL
+
+MS Visual Basic.NET (VB.NET)
+
+MS Visual Basic 6
+MS Azure Server
+Mobility Services
+Microsoft SQL Server
+
+Microsoft SQL Management Studio (SSMS)
+
+JQuery
+Javascript
+
+ITIL
+
+IBM Informix 4GL
+Entity Framework
+Crystal Reports
+CMMi
+
+CH
+
+Bootstrap
+ASP.NET MVC Framework
+ASP.NET
+Angular 2+
+
+Ajax
+
+Auto Evaluado
+
+Monterrey NL - Software Engineer - Junior
+
+ITESM
+
+De: Feb, 2010 A: Aug, 2010
+
+De: Jun, 2003 A: Jul, 2005
+
+De: Jul, 1997 A: Jun, 2001
+
+Aug, 2009
+Upper Intermediate 51-79%
+
+Proficient (2-4 YoE)
+Junior (1-2 YoE)
+Senior (4-6 YoE)
+Senior (4-6 YoE)
+
+Proficient (2-4 YoE)
+
+Proficient (2-4 YoE)
+Junior (1-2 YoE)
+Master (+8 YoE)
+Expert (6-8 YoE)
+Senior (4-6 YoE)
+Master (+8 YoE)
+Junior (1-2 YoE)
+Junior (1-2 YoE)
+
+Proficient (2-4 YoE)
+
+Trainee (0-1 YoE)
+Trainee (0-1 YoE)
+Expert (6-8 YoE)
+
+Proficient (2-4 YoE)
+Master (+8 YoE)
+Master (+8 YoE)
+
+Trainee (0-1 YoE)
+Senior (4-6 YoE)
+
+
+--- Página 3 (OCR) ---
+
+.NET Framework 4 (and up) Master (+8 YoE)
+.NET Framework 3.5 (and above) Master (+8 YoE)
+.NET Core Framework Senior (4-6 YoE)

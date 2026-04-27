@@ -1,0 +1,89 @@
+Edrei Arturo Graciano Alcaraz
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Tengo al menos 3 años de experiencia en centros de desarrollo de software. Domino tecnologías de arquitectura de referencia y herramientas de código abierto. Realizo y mantengo código para garantizar el cumplimiento de especificaciones, siguiendo estándares, arquitecturas y frameworks definidos.
+
+En mi trayectoria me he especializado en mantenimiento y soporte de aplicaciones, resolución de incidencias y en la implementación de mejoras que aseguran la continuidad del servicio. Trabajo estrechamente con equipos técnicos para diagnosticar, corregir y desplegar soluciones en entornos productivos, cuidando la calidad y los tiempos de entrega.
+
+Aplico buenas prácticas de control de versiones y pruebas, contribuyendo a la estabilidad de aplicaciones frontend y backend y a la optimización de bases de datos para lograr operaciones más eficientes.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+App Maint Engineer Web Other (Py,Php) PR | Desde:
+28 septiembre 2021 | Hasta: 
+A la fecha
+Actividades Principales | • Mantengo y doy soporte a los aplicativos dominando múltiples lenguajes de programación. Habilidades en: resolución de problemas, versionamiento del código (Git (Control de versiones distribuido)) y en el desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.
+• Utilizo e implemento de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.
+• Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).
+• He usado la certificación Azure DevOps de Cero a Experto como plataforma de gestión ágil y CI/CD.
+• He aplicado la certificación C# Intermediate: Classes, Interfaces and OOP como lenguaje de programación para desarrollo backend.
+• He usado la certificación PostgreSQL. Curso completo de PostgreSQL. Aprende desde cero, como base para el uso de datos relacionales avanzados.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Colaboré en 4 proyectos donde manejé las mejoras en un servicio de AMS al sistema de O3.
+• Implementé y mantuve el backend en Python con el framework Flask.
+• Desarrollé frontend en dos aplicativos utilizando Angular (Framework frontend para aplicaciones SPA) y desarrollos con Flutter para Web, Android e iOS.
+• Realicé tareas de gestión, análisis y optimización de la base de datos para la operación (MySQL, SQL Server (Motor de base de datos para consultas y validaciones)).
+• Migré servicios a nuevas APIs para comunicación con interfaces externas (SOAP, REST).
+• Desarrollé aplicaciones móviles con Flutter.
+• Desarrollé Front-End (HTML, CSS, JS, jQuery (Librería para manipulación del DOM)).
+• Actué como líder técnico de proyecto.
+• Apoyé en el diseño y análisis de requerimientos.
+• Desarrollé en PHP (Lenguaje de desarrollo web).
+• Desarrollé en ASP.NET Core (Framework para APIs y aplicaciones web).
+• Integré el equipo de análisis con desarrollo e identifiqué requerimientos futuros y mejoras en el proceso.
+Empresa
+ND Negocios Digitales | Puesto
+Ingeniero de Software | Desde:
+1 noviembre 2019 | Hasta: 
+27 septiembre 2021
+Actividades Principales | • Desarrollé aplicaciones móviles con Flutter.
+• Desarrollé Front-End (HTML, CSS, JS, jQuery (Librería para manipulación del DOM)).
+• Actué como líder técnico de proyecto.
+• Apoyé en el diseño y análisis de requerimientos.
+• Desarrollé en PHP (Lenguaje de desarrollo web).
+• Desarrollé en ASP.NET Core (Framework para APIs y aplicaciones web).
+• Integré el equipo de análisis con desarrollo e identifiqué requerimientos futuros y mejoras en el proceso.
+HERRAMIENTAS CONOCIDAS
+- .NET Core
+- Angular JS
+- C#
+- Flutter
+- Git
+- MySQL
+- Python
+- Google Cloud Platform
+- Adobe Illustrator
+- Lucidchart
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 mayo de 2015 hasta 31 julio de 2019
+Durante este período asumí responsabilidades relacionadas con levantamiento de requerimientos, diseño y desarrollo de plataformas y portales. Me desempeñé como Ingeniero de Sistemas y participé en actividades de análisis, diseño de bases de datos y desarrollo de interfaces. Colaboré en la implementación de soluciones para gestión de recursos humanos, contribuyendo a organizar y disponer la información de manera eficiente para los líderes.
+FORMACIÓN ACADÉMICA:
+Licenciatura en Sistemas Computacionales - 1 septiembre 2015 - 30 abril 2018 | Instituto de Estudios Superiores de Chiapas | Cédula Profesional
+12001977
+25/05/2020
+CURSOS
+- Azure DevOps de Cero a Experto
+- C# Intermediate: Classes, Interfaces and OOP
+- PostgreSQL. Curso completo de PostgreSQL. Aprende desde cero
+______________________________________
+Edrei Arturo Graciano Alcaraz
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

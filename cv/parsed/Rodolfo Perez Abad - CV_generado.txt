@@ -1,0 +1,188 @@
+Rodolfo Pérez Abad
+Arquitecto Experto
+FUNCIONES
+Valido que cada componente interactúe de forma sistémica en todas las iteraciones de un proyecto para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades, y propongo soluciones a las necesidades de manera integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, y evaluación y optimización del rendimiento del sistema mediante la selección de las tecnologías más adecuadas.
+Me he desempeñado como Arquitecto Empresarial, Arquitecto de Soluciones, Arquitecto SOA, Líder de desarrollo, Scrum Master, Project Manager y Gerente de entrega de proyectos (Delivery Manager) en sectores público y privado, participando en la implementación de prácticas de arquitectura empresarial, la generación de modelos de negocio y aplicaciones, y el establecimiento de procesos de arquitectura, desarrollo y operación. He diseñado soluciones para integración de sistemas, firma electrónica, nómina, plataformas SOA y modernización tecnológica, cuidando la congruencia entre componentes y el flujo de negocio e información, y he acompañado equipos multidisciplinarios en el levantamiento de requerimientos, la definición de arquitecturas y el seguimiento de la implementación para alinear la solución tecnológica con las necesidades del cliente.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 3 años de experiencia en centros de desarrollo de software. Además, cuento con 5 años de experiencia en análisis de sistemas y manejo de equipos de trabajo. Soy responsable de la definición de la arquitectura de software a implementar, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación, definiendo y adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de tareas complejas.
+
+Me he desempeñado como Arquitecto Empresarial, Arquitecto de Soluciones, Arquitecto SOA, Líder de desarrollo, Scrum Master, Project Manager y Gerente de entrega de proyectos (Delivery Manager) en sectores público y privado. He participado en la implementación de prácticas de arquitectura empresarial, la generación de modelos de negocio y aplicaciones, y el establecimiento de procesos de arquitectura, desarrollo y operación.
+
+He diseñado soluciones para integración de sistemas, firma electrónica, nómina, plataformas SOA y modernización tecnológica, cuidando la congruencia entre componentes, flujo de negocio e información. También he acompañado equipos multidisciplinarios en el levantamiento de requerimientos, la definición de arquitecturas y el seguimiento de la implementación para alinear la solución tecnológica con las necesidades del cliente.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Arquitecto Empresarial | Desde:
+31 diciembre 2019 | Hasta: 
+A la fecha
+Actividades Principales | • Valido que cada componente interactúe de manera sistémica en todas las iteraciones de un proyecto, para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades. Propongo soluciones a las necesidades de forma integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, evaluación y optimización del rendimiento del sistema eligiendo las tecnologías más adecuadas.
+• Defino la arquitectura y la solución técnica a partir de la propuesta de negocio y las necesidades del cliente.
+• Defino los estándares de codificación y de base de datos.
+• Defino los patrones de diseño y funcionales.
+• Brindo asesoría a Líderes Técnicos.
+• Defino los subsistemas de soporte.
+• Defino la administración de la configuración para la construcción.
+• Defino implementaciones de referencia.
+• Defino checklist para pruebas de escritorio del diseño generado.
+• Valido la integración de macro-componentes a la arquitectura.
+• Recomiendo prioridades para la construcción necesaria en cada iteración.
+• Valido la integración sistémica de componentes para asegurar la congruencia con el flujo de negocio y de información.
+• Participo en fases de visión, levantamiento de requisitos y definición de arquitectura de negocio, sistemas de información y arquitectura tecnológica.
+• Establezco procesos de control y aseguro el cumplimiento de estándares de arquitectura en los proyectos.
+• Utilizo herramientas de modelado como ArchiMate, Sparx EA y Visio (Herramienta de diagramación técnica) para documentar arquitecturas.
+• Participo en proyectos de migración a la nube, modernización de aplicaciones e integración de sistemas, aplicando TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura)) como marco de referencia.
+• Comunico arquitecturas y roadmaps a directivos, equipos técnicos y usuarios clave.
+• Demuestro la alineación de las soluciones tecnológicas propuestas con los objetivos del negocio.
+• Integro TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura)) con metodologías ágiles (Scrum, SAFe) y tradicionales (PMI, PRINCE2).
+• He participado en proyectos mayores a 20 mil horas, donde soluciono requerimientos no funcionales complejos, identifico y mitigo riesgos técnicos, y aseguro el desempeño correcto del sistema.
+• He usado la certificación TOGAF 9 Certified 2021 como marco de arquitectura empresarial para aplicar ADM y gobierno de arquitectura.
+• He usado la certificación Certified ScrumMaster (CSM) 2015-2017 como fundamento para aplicar metodologías ágiles basadas en Scrum, considerando roles, eventos y artefactos.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• ARC: Encabezo las actividades de diseño de la arquitectura y su implementación, generando sus productos entregables.
+• SFD: Proveo patrones funcionales y estándares de interfaz de usuario.
+• DBI: Proveo estimados de volumen y requerimientos de desempeño.
+• CIS: Valido los entregables de la especificación detallada de componentes.
+• CTR: Doy seguimiento a los estándares utilizados en el desarrollo de componentes.
+• INT: Valido los ambientes de despliegue para la integración del sistema.
+• DOC: Proveo entradas para la documentación técnica.
+• Proyecto de implementación de practica de AE para Walmart México
+• Entrevistas con los dueños de los procesos de negocio y aplicaciones para la recopilación de información
+• Generación de modelos para la arquitectura de aplicaciones
+• Apoyo en la generación de modelos para la arquitectura de negocio
+• Homologación de modelos en las diferentes capas de arquitectura empresarial
+• Diseño e implementación de un ckecklist de calidad de los modelos generados
+• Implementación de las bases de la práctica de Arquitectura Empresarial para Walmart México con enfoque TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))
+• Diseño soluciones tecnológicas con base en la PKI (Public Key Infrastructure) de la empresa
+• Diseño soluciones integrando la PKI de la empresa a diferentes sistemas o plataformas de Firma Electrónica Avanzada
+• Establezco procesos de trabajo de arquitectura con base en las mejores prácticas (TOGAF, ITIL, COBIT, PMBOK, ISO 20000)
+• Doy seguimiento a la implementación de la PKI con equipos de desarrollo, pruebas y operaciones
+• Realizo visitas a clientes para levantamiento de requerimientos y diseño de la solución
+• Diseño la arquitectura de referencia de la solución PKI de la empresa
+• Diseño la solución de validación de credencial para votar ante INE
+• Integro la PKI de la empresa con el sistema de Onboarding Digital de SUMA México
+• Diseño y doy seguimiento a la implementación de una app móvil que entrega fotografías con valor probatorio
+• Entrego el proyecto de Expediente Electrónico utilizando la PKI de la empresa y Blockchain ante COCACYT
+• Genero alianzas estratégicas para la empresa con compañías internacionales como Segucom
+• Diseño la arquitectura de negocio y aplicaciones
+• Planifico las tareas asignadas a los equipos de desarrollo
+• Comprendo las necesidades del Product Owner y apoyo en su desglose en User Stories
+• Planifico y doy seguimiento a los Sprints de Scrum
+• Doy seguimiento al Product Backlog y Sprint Backlog
+• Implanto el proceso de ITIL (Mesa de Ayuda)
+• Gestiono equipos multidisciplinarios
+• Implanto SuccessFactors en la nube para la compañía
+• Ejecuto la migración de versión de la plataforma tecnológica del sistema principal (Portal, BPM, Broker, WAS)
+• Implanto el modelo 4+1 como referencia para la generación del documento de arquitectura de software
+• Implanto ServiceNow en la nube como herramienta de gestión de procesos bajo el marco ITIL
+Empresa
+Seguridata Privada S.A de C.V | Puesto
+Pre-Sales Software Architect | Desde:
+2 enero 2017 | Hasta: 
+30 diciembre 2019
+Actividades Principales | • Diseño soluciones tecnológicas con base en la PKI (Public Key Infrastructure) de la empresa
+• Diseño soluciones integrando la PKI de la empresa a diferentes sistemas o plataformas de Firma Electrónica Avanzada
+• Establezco procesos de trabajo de arquitectura con base en las mejores prácticas (TOGAF, ITIL, COBIT, PMBOK, ISO 20000)
+• Doy seguimiento a la implementación de la PKI con equipos de desarrollo, pruebas y operaciones
+• Realizo visitas a clientes para levantamiento de requerimientos y diseño de la solución
+• Diseño la arquitectura de referencia de la solución PKI de la empresa
+• Diseño la solución de validación de credencial para votar ante INE
+• Integro la PKI de la empresa con el sistema de Onboarding Digital de SUMA México
+• Diseño y doy seguimiento a la implementación de una app móvil que entrega fotografías con valor probatorio
+• Entrego el proyecto de Expediente Electrónico utilizando la PKI de la empresa y Blockchain ante COCACYT
+• Genero alianzas estratégicas para la empresa con compañías internacionales como Segucom
+Empresa
+Grupo Nacional Provincial (GNP) | Puesto
+Arquitecto de Soluciones | Desde:
+1 junio 2015 | Hasta: 
+31 diciembre 2016
+Actividades Principales | • Diseño la arquitectura de negocio y aplicaciones
+• Planifico las tareas asignadas a los equipos de desarrollo
+• Comprendo las necesidades del Product Owner y apoyo en su desglose en User Stories
+• Planifico y doy seguimiento a los Sprints de Scrum
+• Doy seguimiento al Product Backlog y Sprint Backlog
+• Implanto el proceso de ITIL (Mesa de Ayuda)
+• Gestiono equipos multidisciplinarios
+• Implanto SuccessFactors en la nube para la compañía
+• Ejecuto la migración de versión de la plataforma tecnológica del sistema principal (Portal, BPM, Broker, WAS)
+• Implanto el modelo 4+1 como referencia para la generación del documento de arquitectura de software
+• Implanto ServiceNow en la nube como herramienta de gestión de procesos bajo el marco ITIL
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- TOGAF 9 Certified 2021
+- Certified ScrumMaster (CSM) 2015-2017
+- Google Ad-words
+- Visio
+- Draw.io
+- Archi
+- Project
+- suite office
+- System Architect
+- Streak
+- Jira
+- SAP Business One
+- Zoho
+- Activiti BPM
+- services now
+- Selenium
+- IBM BPM
+- Plataforma Wso2
+- Oracle
+- DB2
+- Mongo DB
+- JBPM
+- JMeter
+- IBM Asset Management
+- J2EE
+- Spring
+- .Net
+- Struts
+- Ibatis
+- Documentum
+- Eclipse
+- Toad
+- Spoon Ketle
+- WAS
+- Tomcat
+- Oracle Pl
+- UML
+- XPath
+- Postgress
+- Essbase
+- JSF
+- Hibernate
+- JDeveloper
+- Squirrel
+- Windows
+- Linux
+- IoS
+- Java
+- C
+- Informix
+- TOGAF
+- ITIL
+- COBIT
+- ISO 27000
+- ISO 20000
+- MAGTICSIC
+- DevOps
+- PmBok
+- Archimate
+- BPMN
+- SOA
+- ESB
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 junio de 2006 hasta 28 febrero de 2015
+Durante este período me desempeñé como Consultor, Information Specialist, Arquitecto Empresarial, Arquitecto de Soluciones y Director de área. Asumí responsabilidades de análisis, diseño e implementación de soluciones, definición de modelos tecnológicos y arquitecturas, coordinación de equipos multidisciplinarios, levantamiento de requerimientos y seguimiento de proyectos. También participé en servicios web, procesos de integración, prácticas de arquitectura, gestión de tecnología de la información, atención de necesidades institucionales y apoyo a la operación, manteniendo alineación entre negocio, información y componentes del sistema.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en Sistemas computacionales - 2000 – 2005 | E.S.COM IPN | Cédula Profesional
+5281565
+26/09/2007
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- TOGAF 9 Certified 2021 | 2021
+- Certified ScrumMaster (CSM) 2015-2017 | 2015-2017
+______________________________________
+Rodolfo Pérez Abad
+Arquitecto Experto | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

@@ -1,0 +1,79 @@
+Cynthia Maricela Flores Villaseñor
+Analista Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, soy responsable de descubrir, sintetizar y analizar información proveniente de diversas fuentes, incluyendo herramientas, procesos, documentación y partes interesadas.
+
+Soy ingeniero en sistemas con experiencia en administración de proyectos y análisis funcional; he trabajado en entornos tanto de sector público como privado aplicando metodologías ágiles y prácticas para optimizar procesos. Me enfoco en entregar documentación técnica y funcional de calidad, mantener continuidad de servicio y colaborar con equipos para garantizar la implementación de soluciones alineadas a las necesidades del negocio.
+EXPERIENCIA LABORAL
+Empresa
+Element | Puesto
+Business Analyst Senior | Desde:
+1 noviembre 2022 | Hasta: 
+Actualmente
+Actividades Principales | • Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Competencias en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora, Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.
+• Entiendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.
+• Involucro a las partes interesadas para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.
+• Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a las partes interesadas ejecutar sus procesos de negocio con eficacia y facilidad.
+• Diseño la solución funcional que satisface los requerimientos de las partes interesadas, junto con la estrategia de implementación necesaria para generar valor al negocio.
+• Aseguro que la solución sea aprobada conscientemente por las partes interesadas, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.
+• He usado la certificación Experiencia de Usuario (UX): Máster en Diseño web y Experiencia de Usuario como curso de diseño UX y experiencia de usuario.
+• He aplicado la certificación Domina SCRUM con JIRA (Herramienta de gestión ágil y seguimiento de issues/sprints) Agile - Metodologías Ágiles como curso de Scrum aplicado con JIRA (Herramienta de gestión ágil y seguimiento de issues/sprints) para la gestión ágil y seguimiento de sprints.
+• He usado la certificación The Complete Lenguaje Unificado de Modelado (UML) Course: Learn to Design UML Diagrams como curso de modelado de sistemas con UML.
+• He aplicado el curso Metodologías Ágiles como formación en principios y prácticas ágiles para la planificación, gestión y seguimiento de proyectos, utilizando enfoques iterativos e incrementales para mejorar la entrega de valor y la colaboración en equipos de trabajo.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+GUI: Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.
+INT: Proveo las entradas necesarias para la integración de sistemas.
+STD: Participo en las actividades de diseño de pruebas de sistema.
+STE: Participo en la ejecución de las pruebas de sistema.
+DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+UAT: Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.
+• Defino requerimientos.
+• Realizo análisis del negocio.
+• Apoyo en la definición y priorización del backlog y genero refinamientos.
+• Genero documentación de análisis (Historias de Usuario, Diseño funcional, Manual de usuario, Modelos de Dominio).
+• Realizo descubrimiento y análisis de requerimientos, y genero estimaciones.
+• Atiendo el análisis de múltiples requerimientos con dependencias funcionales o técnicas entre ellos.
+• Documento el análisis y lo presento al cliente.
+• Analizo impactos y afectaciones en los requerimientos.
+• Genero estimaciones para la fase de análisis y para los controles de cambio.
+Empresa
+Softtek Cliente COPPEL | Puesto
+Analista | Desde:
+2 noviembre 2020 | Hasta: 
+31 octubre 2022
+Actividades Principales | • Realizo descubrimiento y análisis de requerimientos, y genero estimaciones.
+• Atiendo el análisis de múltiples requerimientos con dependencias funcionales o técnicas entre ellos.
+• Documento el análisis y lo presento al cliente.
+• Analizo impactos y afectaciones en los requerimientos.
+• Genero estimaciones para la fase de análisis y para los controles de cambio.
+HERRAMIENTAS CONOCIDAS
+- Jira
+- Lenguaje Unificado de Modelado (UML)
+- Experiencia de Usuario (UX)
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 enero de 2015 hasta 31 octubre de 2020
+Durante este período asumí responsabilidades vinculadas principalmente a roles de Líder de Proyecto, Analista y Analista funcional. Me encargué de la definición y documentación de requerimientos, la planificación y control de entregables, la identificación de riesgos y la comunicación con partes interesadas. Trabajé en la coordinación de equipos, en la evaluación de impactos y en la mejora de procesos para asegurar la continuidad de servicios y la correcta ejecución de proyectos sin depender de nombres de empresas específicas.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Sistemas Computacionales - septiembre 2004 - agosto 2009 | TESOEM | Cédula Profesional
+8174002
+20/04/2013
+CURSOS
+- UX: Máster en Diseño web y Experiencia de Usuario
+- Metodologías Ágiles
+- Domina SCRUM con JIRA Agile - Metodologías Ágiles
+- The Complete UML Course: Learn to Design UML Diagrams
+______________________________________
+Cynthia Maricela Flores Villaseñor
+Analista Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

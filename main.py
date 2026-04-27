@@ -9,7 +9,7 @@ from typing import Any, Dict, List
 # No se definen clases manuales; se usa pydantic.create_model para validación ligera.
 
 TEMPLATE_PATH = os.path.join("PLANTILLA-DE-CV.docx")
-JSON_PATH = os.path.join("cv", "json_data", "liderTecnico.json")
+JSON_PATH = os.path.join("cv", "json_data", "arquitectoExperto.json")
 OUTPUT_DIR = os.path.join("cv", "final_cv")
 
 def load_json(path: str) -> Dict[str, Any]:
@@ -56,6 +56,7 @@ def prepare_context(data: Dict[str, Any]) -> Dict[str, Any]:
             "certificaciones_y_cursos": ["certificaciones_y_cursos", "certs", "certificacionesCursos"],
             "certificaciones": ["certificaciones", "certs"],
             "cursos": ["cursos", "courses", "curso"],
+            "funciones": ["funciones", "funcion", "functions", "funcs"],
             "ajuste_puesto_liderazgo": ["ajuste_puesto_liderazgo", "ajuste_puesto", "ajuste", "ajustePuestoLiderazgo"]
         }
 
@@ -92,6 +93,8 @@ def prepare_context(data: Dict[str, Any]) -> Dict[str, Any]:
         certificaciones_y_cursos=(list, []),
         certificaciones=(list, []),
         cursos=(list, []),
+        funciones=(Any, []),
+        herramientas=(list, []),
         ajuste_puesto_liderazgo=(dict, {}),
     )
 
@@ -276,6 +279,52 @@ def prepare_context(data: Dict[str, Any]) -> Dict[str, Any]:
     context["cursos"] = cursos_list
     context["certificaciones_display"] = [f"{c['nombre']} ({c['anio']})" if c.get('anio') else c['nombre'] for c in certs_list]
     context["cursos_display"] = [c['nombre'] for c in cursos_list]
+    # Procesar sección `herramientas` (lista de objetos o strings con campo 'nombre')
+    raw_herramientas = context.get("herramientas")
+    herr_list = []
+    if isinstance(raw_herramientas, list):
+        for it in raw_herramientas:
+            if isinstance(it, dict):
+                nombre = it.get("nombre") or it.get("name") or ""
+            elif isinstance(it, str):
+                nombre = it
+            else:
+                nombre = str(it)
+            herr_list.append({"nombre": nombre})
+
+    context["herramientas"] = herr_list
+    context["herramientas_display"] = [h.get('nombre', '') for h in herr_list]
+    # Procesar nueva sección `funciones` — puede venir como string, lista de strings o lista de objetos
+    raw_funciones = context.get("funciones")
+    funciones_list = []
+    if isinstance(raw_funciones, list):
+        for it in raw_funciones:
+            if isinstance(it, dict):
+                nombre = it.get("nombre") or it.get("funcion") or it.get("name") or ""
+            elif isinstance(it, str):
+                nombre = it
+            else:
+                nombre = str(it)
+            funciones_list.append({"nombre": nombre})
+    elif isinstance(raw_funciones, str):
+        # separar por líneas y por comas si aplica
+        lines = [ln.strip() for ln in raw_funciones.splitlines() if ln.strip()]
+        if not lines and "," in raw_funciones:
+            lines = [p.strip() for p in raw_funciones.split(",") if p.strip()]
+        for ln in lines:
+            funciones_list.append({"nombre": ln})
+
+    # Crear representaciones útiles: lista simple, display y texto formateado
+    funciones_display = [f.get('nombre', '') for f in funciones_list]
+    # Representación textual SIN guiones - (una línea por función). Si no hay, dejar espacio.
+    funciones_text = "\n".join([fd for fd in funciones_display]) if funciones_display else " "
+
+    # Mantener la lista estructurada en otra clave y asignar a `funciones` una cadena
+    # para compatibilidad con plantillas que hacen {{ funciones }} y esperan texto legible
+    context["funciones_list"] = funciones_list
+    context["funciones_display"] = funciones_display
+    context["funciones_text"] = funciones_text
+    context["funciones"] = funciones_text
     estudios = context.get("estudios", {}) or {}
     carrera_raw = estudios.get("carrera", "")
     # separar líneas y limpiar
@@ -341,6 +390,11 @@ def prepare_context(data: Dict[str, Any]) -> Dict[str, Any]:
     for k in ("certificaciones", "cursos", "certificaciones_y_cursos"):
         if k in context and _lista_solo_vacia(context.get(k)):
             context[k] = []
+    # comprobar también `funciones_list` para tratar listas sólo con elementos vacíos
+    if "funciones_list" in context and _lista_solo_vacia(context.get("funciones_list")):
+        context["funciones_list"] = []
+        # si la lista estructurada está vacía, aseguramos que la representación textual quede vacía
+        context["funciones"] = []
 
     # Después de normalizar vacíos, establecer ajuste_puesto_liderazgo a None si no había contenido
     if not ajuste_was_meaningful:

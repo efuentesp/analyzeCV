@@ -1,0 +1,158 @@
+Anabel Lopez Martinez
+Lider Técnico de atención de incidentes
+FUNCIONES
+Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos, evaluando la situación, tomando decisiones críticas y asegurando una comunicación efectiva para la resolución de incidentes. Cuento con habilidades en toma de decisiones y liderazgo.
+He coordinado servicios de AMS y equipos de atención para cuentas de los sectores financiero, retail y salud, dando seguimiento a incidencias, mantenimientos y problemas en operación. Tomo decisiones ante fallas, administro riesgos, mantengo la comunicación con clientes y líderes operativos, y aseguro el cumplimiento del alcance, presupuesto y compromisos del servicio.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 5 años de experiencia en desarrollo de software, liderazgo técnico y atención y resolución de problemas. Poseo dominio de tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source. Adicionalmente, tengo 3 años de experiencia trabajando bajo metodologías ágiles.
+
+He coordinado servicios AMS y equipos de atención para cuentas de los sectores financiero, retail y salud, dando seguimiento a incidencias, mantenimientos y problemas en operación. Tomo decisiones ante fallas, administro riesgos, mantengo la comunicación con clientes y líderes operativos, y aseguro el cumplimiento del alcance, presupuesto y compromisos del servicio.
+
+También he fortalecido el entendimiento del negocio como Business Analyst, traduciendo necesidades en requerimientos, procesos, casos de uso y pruebas. Esta combinación me permite sostener la continuidad operativa, orientar a los equipos de trabajo y favorecer soluciones alineadas con procesos, metodología y atención efectiva de incidentes.
+EXPERIENCIA LABORAL
+Empresa
+Bolsa Mexicana de Valores - Softtek | Puesto
+Service Manager | Desde:
+1 abril 2025 | Hasta: 
+13 abril 2026
+Actividades Principales | • Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos. Evalúo la situación, tomo decisiones críticas y aseguro la comunicación efectiva para resolver el incidente. Tengo habilidades en toma de decisiones y liderazgo. Como líder técnico de atención de incidentes, planifico, controlo y doy seguimiento a la fase de resolución y estabilización, asegurando la correcta implementación de soluciones alineadas a la arquitectura de software, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación utilizando y/o adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de incidentes complejos para garantizar la continuidad operativa.
+• Comprendo la propuesta de negocio y las necesidades del cliente, aplicándolas en la atención y resolución de incidentes en entornos productivos, especialmente en servicios y plataformas críticas.
+• Defino planes de trabajo detallados para la atención de incidentes, priorizando actividades conforme a su severidad (P1-P4) y asegurando el cumplimiento de SLA/OLA.
+• Estimo y asigno tareas técnicas necesarias para la resolución de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.
+• Colaboro con el arquitecto en la definición de soluciones técnicas durante incidentes, asegurando alineación con la arquitectura y estándares establecidos.
+• Aseguro la aplicación de estándares de codificación y bases de datos durante la implementación de soluciones correctivas.
+• Asesoro y coordino a ingenieros de software en la atención de incidentes, especialmente en escenarios críticos o de alta complejidad.
+• Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atención de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeño.
+• Administro la configuración de los componentes involucrados en la solución de incidentes, asegurando control y trazabilidad de cambios.
+• Desarrollo y/o coordino implementaciones de solución (fixes, hotfixes) para restaurar servicios afectados.
+• Aseguro la aplicación de checklists en la validación de soluciones antes de su liberación a producción.
+• Coordino la integración de componentes técnicos dentro de la arquitectura para garantizar una recuperación estable del servicio.
+• Defino prioridades en cada iteración de atención de incidentes, enfocándome en minimizar el impacto al negocio.
+• Promuevo la aplicación de patrones de diseño en las soluciones implementadas para evitar recurrencias.
+• Participo en la definición de esquemas de integración entre aplicaciones durante la resolución de incidentes.
+• Coordino la atención de incidentes críticos (Major Incidents), liderando convocatorias, toma de decisiones técnicas y comunicación durante la contingencia.
+• Identifico la causa raíz de incidentes y lidero análisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.
+• Trabajo en entornos de operación continua, asegurando la estabilidad y continuidad del servicio después de la resolución de incidentes.
+• Actúo como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.
+• Genero resultados medibles en la mejora de la operación, reduciendo tiempos de atención, reincidencias e impacto al negocio.
+• Mantengo una trayectoria continua en roles de atención y gestión de incidentes, consolidando experiencia en entornos productivos.
+• He participado en proyectos de más de 20 mil horas, donde lidero la atención de incidentes y defino soluciones para requerimientos no funcionales, asegurando la estabilidad y el correcto desempeño de los sistemas en producción. Además, planifico y coordino equipos de más de 15 ingenieros de software durante la resolución de incidentes, garantizando una ejecución eficiente y oportuna de las actividades.
+• He aprovechado la certificación AWS Certified Cloud Practitioner para aplicar fundamentos de computación en la nube, servicios de AWS, seguridad y modelos de costos
+• He aplicado la certificación Professional Scrum Master I para demostrar y poner en práctica los fundamentos del marco de trabajo Scrum, incluyendo roles, eventos, artefactos y principios definidos en la Scrum Guide
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.
+• STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.
+• STE: Ejecuto escenarios de prueba.
+• INT: Diseño y preparo testware.
+• UAT: Apoyo en las actividades de pruebas del usuario.
+• Soy responsable del proyecto AMS para las empresas de Indeval, CCV/CCD y Asigna (planificación, administración, seguimiento, resolución de incidencias, mantenimientos y problemas, gestión de riesgos, recursos físicos y técnicos, aplicación y adaptación de la metodología).
+• Soy responsable de la negociación del proyecto / servicio (compromisos, cambios de alcance, tiempo, esfuerzo, solución propuesta), así como de su aprobación.
+• Soy responsable del proyecto / servicio para cumplir los requisitos acordados con el cliente, manteniéndolo dentro del alcance y presupuesto acordado.
+• Soy responsable de la toma de decisiones dentro del proyecto / servicio.
+• Soy responsable del contacto, comunicación, informes de progreso y estado del proyecto / servicio con el cliente, líder / gerente de operación y equipos de trabajo.
+• Soy responsable de la atención del servicio AMS-L3 para el equipo de Omnicanal (planificación, administración, seguimiento, resolución de problemas, aplicación y adaptación de la metodología).
+• Soy responsable de la resolución de problemas (compromisos, cambios de alcance, tiempo, esfuerzo, solución propuesta), así como de su aprobación.
+• Soy responsable de la toma de decisiones dentro del servicio y de la ejecución de acciones correctivas.
+• Soy responsable del contacto, comunicación, informes de progreso y estado del servicio con cliente, líder y equipos de trabajo.
+• Soy responsable del equipo de trabajo (capacidad para la entrega de equipos, entorno de trabajo, resolución de problemas, motivación, orientación, retroalimentación y reconocimiento, cultural e identidad de Softtek).
+• Soy responsable del proyecto AMS para el equipo de Monitor Logístico (planificación, administración, seguimiento, resolución de incidencias, mantenimientos y problemas, gestión de riesgos, recursos físicos y técnicos, aplicación y adaptación de la metodología).
+• Traduzco las necesidades de negocio en requerimientos funcionales y no funcionales.
+• Analizo y diseño diagramas de procesos AS-IS y TO-BE.
+• Identifico reglas de negocio.
+• Diseño casos de uso.
+• Defino pantallas y flujo operativo.
+• Genero la matriz de Pruebas de Aceptación de Usuario (UAT) y ejecuto las mismas.
+• Identifico y manejo issues.
+• Apoyo en la identificación y resolución de incidencias funcionales y operativas.
+• Soy responsable de la negociación del proyecto (compromisos, cambios de alcance, tiempo, esfuerzo, solución propuesta).
+• Soy responsable del equipo funcional (resolución de problemas, orientación, retroalimentación).
+Empresa
+Coppel - Softtek | Puesto
+Lider de Torre | Desde:
+1 agosto 2023 | Hasta: 
+31 octubre 2024
+Actividades Principales | • Soy responsable de la atención del servicio AMS-L3 para el equipo de Omnicanal (planificación, administración, seguimiento, resolución de problemas, aplicación y adaptación de la metodología).
+• Soy responsable de la resolución de problemas (compromisos, cambios de alcance, tiempo, esfuerzo, solución propuesta), así como de su aprobación.
+• Soy responsable de la toma de decisiones dentro del servicio y de la ejecución de acciones correctivas.
+• Soy responsable del contacto, comunicación, informes de progreso y estado del servicio con cliente, líder y equipos de trabajo.
+• Soy responsable del equipo de trabajo (capacidad para la entrega de equipos, entorno de trabajo, resolución de problemas, motivación, orientación, retroalimentación y reconocimiento, cultural e identidad de Softtek).
+Empresa
+Axo - Softtek | Puesto
+Service Manager | Desde:
+30 noviembre 2022 | Hasta: 
+31 marzo 2023
+Actividades Principales | • Soy responsable del proyecto AMS para el equipo de Monitor Logístico (planificación, administración, seguimiento, resolución de incidencias, mantenimientos y problemas, gestión de riesgos, recursos físicos y técnicos, aplicación y adaptación de la metodología).
+Empresa
+(Liverpool)-Softtek | Puesto
+Service Manager / Business Analyst/ Líder Funcional | Desde:
+1 julio 2020 | Hasta: 
+29 noviembre 2022
+Actividades Principales | • Traduzco las necesidades de negocio en requerimientos funcionales y no funcionales.
+• Analizo y diseño diagramas de procesos AS-IS y TO-BE.
+• Identifico reglas de negocio.
+• Diseño casos de uso.
+• Defino pantallas y flujo operativo.
+• Genero la matriz de Pruebas de Aceptación de Usuario (UAT) y ejecuto las mismas.
+• Identifico y manejo issues.
+• Apoyo en la identificación y resolución de incidencias funcionales y operativas.
+• Soy responsable de la negociación del proyecto (compromisos, cambios de alcance, tiempo, esfuerzo, solución propuesta).
+• Soy responsable del equipo funcional (resolución de problemas, orientación, retroalimentación).
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- AWS Certified Cloud Practitioner
+- Professional Scrum Master I (PSM I)
+- Jira
+- Oracle SQL
+- Azure DevOps
+- Miro
+- Google GCP
+- Visio para diagramación de procesos.
+- MSQL Server Management Studio
+- WhiteBoard
+- Bizagi para diagramación de procesos.
+- IBM BPM, BAW
+- MS Project
+- PVTool para planeación de costos.
+- Axure
+- PPM como tracking tool
+- Pugh Matrix
+- RCA
+- FMEA
+- PDP
+- MS Visio
+- Fishbone
+- Start UML
+- Visio
+- Balsamiq
+- Linux
+- MSDos
+- Java
+- Javascript
+- SQL Server
+- Oracle
+- Bizagi
+- Oracle BPA
+- Axure RP
+- Enterprise Architect
+- Oracle BPM 10g
+- Start Uml
+- Paqueteria Office
+- Microsoft project
+- Microsoft Visio
+- Ext-js
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 02 enero de 2009 hasta 30 junio de 2020
+Durante este período, me desempeñé como Service Manager, Business Analyst, Diseñador de procesos de negocio, Líder Funcional y Consultor de procesos. Asumí responsabilidades de análisis de necesidades, definición de requerimientos, diseño de procesos, documentación funcional, atención de incidencias y seguimiento operativo. También colaboré con equipos de trabajo y con áreas gerenciales para impulsar mejoras, apoyar decisiones del servicio y promover soluciones que facilitaran la operación y el entendimiento del negocio.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en Informática - Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas (UPIICSA-IPN) - 2004-2009 | Ciudad de México | Cédula Profesional
+7848357
+22/11/2012
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- AWS Certified Cloud Practitioner | 2026-2029
+- Professional Scrum Master I (PSM I) | 2023
+______________________________________
+Anabel Lopez Martinez
+Lider Técnico de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

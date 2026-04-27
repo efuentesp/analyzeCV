@@ -1,171 +1,803 @@
-
 [
   {
     "nombre": "Daniel Rendon Velazquez",
-    "rol_propuesto": "Ingeniero de Datos BI Junior",
-    "resumen_profesional": "Experiencia en desarrollo y mantenimiento de aplicaciones orientadas a datos, con énfasis en procesos ETL y gestión de calidad de datos. Participación en análisis de requisitos y definición de reglas de negocio. Manejo de herramientas de integración y bases de datos relacionales. Capacidad para colaborar en entornos ágiles.\n\nEnfoque en la construcción y operación de flujos ETL, optimización de código y monitoreo de procesos productivos. Desarrollo de componentes para extracción, transformación y carga. Uso de Oracle Forms/Reports, Java, SQL y Python en soluciones integradas. Orientación a la entrega y soporte técnico.",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "",
+    "fecha_cedula": "",
+    "rol_propuesto": "Desarrollador Junior BI",
+    "resumen_profesional": "Cuento con al menos 2 años de experiencia en el desarrollo de servicios y aplicaciones web (frontend y backend), dashboards, tableros e informes automáticos. Genero soluciones de Inteligencia de Negocio mediante el desarrollo y mantenimiento de procesos y componentes de datos, implementando flujos Extraer, Transformar y Cargar (ETL) y modelos de información conforme a especificaciones técnicas y buenas prácticas, apoyando en la calidad y correcta ejecución de las soluciones bajo supervisión.\n\nTengo experiencia en análisis y desarrollo de procesos Extraer, Transformar y Cargar (ETL), manejo de herramientas de integración y bases de datos relacionales. Trabajo en colaboración con partes interesadas para convertir requisitos en soluciones técnicas, participo en la implementación y mantenimiento de procesos de datos y entrego componentes que facilitan el análisis y la continuidad operacional.",
+    "funciones": "Desarrollo e implemento sistemas mediante el uso de lenguajes de programación, realizando su puesta a punto para asegurar su correcto funcionamiento. Cuento con experiencia en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, participo en el desarrollo, mantenimiento y soporte de procesos ETL (Extract, Transform, Load) y utilizo herramientas de Business Intelligence como Databricks y Fabric.\n\nParticipo en la creación y mejora de pipelines ETL, en el modelado de datos y en la generación de informes para apoyar la toma de decisiones, colaborando con equipos técnicos y con stakeholders para convertir requerimientos en soluciones funcionales y confiables.",
     "experiencia_laboral": [
       {
         "empresa": "Softtek",
         "puesto": "Data Management Engineer OnPrem ETL PR",
-        "fecha_inicio": "noviembre 2023",
-        "fecha_fin": "presente",
+        "fecha_inicio": "01 noviembre 2023",
+        "fecha_fin": "Actual",
         "actividades_principales": [
-          "Analizar procesos para aplicaciones de negocio",
-          "Actualizar y optimizar código existente para cumplir reglas de negocio",
-          "Desarrollar y mantener aplicaciones Oracle",
-          "Colaborar con stakeholders para asegurar que el software cumpla necesidades operativas",
-          "Desarrollar aplicaciones web en Java y jQuery",
-          "Desarrollar y consumir Web Services y trabajar con XML",
-          "Desarrollar en JavaScript y AJAX",
-          "Trabajar con SQL para consultas y manipulación de datos",
-          "Utilizar Oracle Forms 12c y Reports 12c en el desarrollo y mantenimiento",
-          "Desarrollar y gestionar procesos ETL OnPrem"
+          "Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que sean funcionales, utilizando diversos lenguajes de programación. Cuento con habilidades en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, desarrollo, doy mantenimiento y brindo soporte a procesos Extraer, Transformar y Cargar (ETL), y manejo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.",
+          "Desarrollo e implemento sistemas y componentes de software para soluciones de Inteligencia de Negocio.",
+          "Apoyo en la puesta a punto y correcto funcionamiento de las soluciones desarrolladas.",
+          "Desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL) para la integración y transformación de datos.",
+          "Colaboro en el modelado de datos utilizando bases de datos relacionales y no relacionales.",
+          "Apoyo en la construcción de estructuras de datos para soluciones analíticas y de BI.",
+          "Utilizo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric para el procesamiento y análisis de información.",
+          "Atiendo incidencias básicas y doy soporte a los procesos y soluciones implementadas.",
+          "Aplico buenas prácticas de desarrollo y lineamientos definidos por el equipo.",
+          "Colaboro con equipos de trabajo para asegurar la correcta ejecución de las soluciones.",
+          "Documento procesos, desarrollos y configuraciones para asegurar su entendimiento y mantenimiento.",
+          "Resuelvo problemas relacionados con el desarrollo, integración y procesamiento de datos en soluciones de Inteligencia de Negocio, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en el desarrollo de soluciones BI.",
+          "He aplicado el Curso de Python para desarrollar scripts y soluciones básicas utilizando los fundamentos del lenguaje Python.",
+          "He puesto en práctica el curso Diseño de Bases de Datos Relacionales para modelar y estructurar bases de datos relacionales aplicando buenas prácticas de normalización.",
+          "He aplicado el curso JavaScript TOTAL – De Cero a Programador Web en 18 Días para desarrollar funcionalidades dinámicas en aplicaciones web utilizando JavaScript.",
+          "He puesto en práctica el curso Oracle SQL Performance Tuning Masterclass (2025) para optimizar consultas y mejorar el rendimiento de bases de datos Oracle mediante técnicas de tuning SQL.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Realizo análisis de procesos para aplicaciones de negocio.",
+          "Actualizo y optimizo código existente para asegurar el cumplimiento de las reglas de negocio.",
+          "Utilizo Forms 12c y Reports 12c para el desarrollo y mantenimiento de aplicaciones Oracle.",
+          "Desarrollé soluciones y componentes usando Forms 12c y Reports 12c.",
+          "Trabajé con MySQL para tareas relacionadas con consultas y soporte de datos.",
+          "Participé en el análisis y ajustes de reportes y formularios para aplicaciones empresariales."
+        ]
+      },
+      {
+        "empresa": "General Electric",
+        "puesto": "Oracle Developer",
+        "fecha_inicio": "01 marzo 2024",
+        "fecha_fin": "31 diciembre 2024",
+        "actividades_principales": [
+          "Desarrollé soluciones y componentes usando Forms 12c y Reports 12c.",
+          "Trabajé con MySQL para tareas relacionadas con consultas y soporte de datos.",
+          "Participé en el análisis y ajustes de reportes y formularios para aplicaciones empresariales."
         ]
       }
     ],
-    "periodo_resumen_laboral": "La experiencia abarca desde octubre de 2013 hasta diciembre de 2024",
-    "resumen_laboral": "Durante este período se desempeñaron funciones como Oracle Developer, ABAP Developer, Project Leader y Process Developer. Las responsabilidades incluyeron desarrollo y mantenimiento de módulos ERP, generación de reportes ejecutivos, implementación de funcionalidades en SAP WM y soporte en procesos de extracción y transformación de datos. También se asumieron tareas de gestión de proyectos, levantamiento de requerimientos y coordinación con equipos multidisciplinarios para garantizar la operación de sistemas empresariales.",
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 octubre de 2013 hasta 30 noviembre de 2023",
+    "resumen_laboral": "Durante este período asumí responsabilidades en desarrollo y mantenimiento de aplicaciones, administración de entornos y liderazgo de proyectos. Me desempeñé en puestos como Líder de Proyecto, Software Engineer y Oracle Developer, realizando actividades de desarrollo de Extraer, Transformar y Cargar (ETL), análisis de reglas de negocio, generación de reportes ejecutivos y soporte de módulos ERP. Participé en la mejora de procesos, gestión de equipos y documentación técnica para asegurar la continuidad operativa y la calidad de las soluciones.",
     "estudios": {
       "carrera": "Ingeniería en Computación",
-      "lugar": "Centro Universitario Valle de México UAEM",
+      "lugar": "Centro Universitario Valle de México UAEM, Estado de México",
       "periodo": "febrero 2005 - julio 2010"
     },
-    "certificaciones": [
-      { "nombre": "PYTHON", "anio": "2018" }
-    ],
-    "cursos": [
-      { "nombre": "Diseño de bases de datos relacionales" },
-      { "nombre": "Oracle SQL Performance Tuning Masterclass" },
-      { "nombre": "JavaScript Totall" }
-    ]
-  },
-  {
-    "nombre": "David Jesus Rios García",
-    "rol_propuesto": "Ingeniero de Datos BI Junior",
-    "resumen_profesional": "Especializado en Big Data, aprendizaje automático y computación en la nube, con experiencia en operacionalización y despliegue de modelos predictivos.\nParticipación en diseño y mantenimiento de pipelines ETL e integración de datos desde múltiples fuentes.\nExperiencia en programación con Python, Spark y manejo de bases de datos relacionales y NoSQL.\nEnfoque en asegurar calidad, rendimiento y automatización de procesos de datos.\n\nExperiencia en desarrollo de software orientado a modelos y componentes de datos, incluyendo implementación de módulos y optimizaciones.\nExperiencia en documentación, control de versiones, pruebas en QA y despliegue en entornos productivos.\nParticipación en investigación y adopción de tecnologías emergentes para mejorar soluciones analíticas.\nPerfil orientado a ejecución técnica en proyectos de datos con enfoque en entrega y soporte post-implementación.",
-    "experiencia_laboral": [
+    "herramientas": [
       {
-        "empresa": "Citibanamex",
-        "puesto": "Machine Learning Engineer",
-        "fecha_inicio": "abril 2023",
-        "fecha_fin": "diciembre 2024",
-        "actividades_principales": [
-          "Evaluar la eficacia de modelos mediante métricas apropiadas y realizar ajustes según sea necesario.",
-          "Implementar módulos de software para modelos existentes.",
-          "Seleccionar y optimizar modelos para abordar problemas específicos.",
-          "Supervisar el rendimiento de modelos en producción y realizar actualizaciones.",
-          "Desarrollar y mantener pipelines ETL e integrar datos de múltiples sistemas.",
-          "Mantenerse al tanto de avances tecnológicos y proponer mejoras al equipo."
-        ]
+        "nombre": "Informatica PowerCenter"
       },
       {
-        "empresa": "Nacional Monte de Piedad",
-        "puesto": "Data Engineer",
-        "fecha_inicio": "julio 2022",
-        "fecha_fin": "abril 2023",
-        "actividades_principales": [
-          "Diseñar, construir y mantener pipelines ETL.",
-          "Integrar datos de diversas fuentes garantizando consistencia y calidad.",
-          "Optimizar el rendimiento de operaciones de procesamiento de datos.",
-          "Implementar soluciones automatizadas para agilizar procesos.",
-          "Crear y mantener documentación de arquitectura de datos y procesos ETL."
-        ]
+        "nombre": "Informatica Developer 10.5.4"
+      },
+      {
+        "nombre": "Oracle Forms/Reports"
+      },
+      {
+        "nombre": "Oracle PL/SQL"
+      },
+      {
+        "nombre": "SQL Developer"
+      },
+      {
+        "nombre": "MySQL"
+      },
+      {
+        "nombre": "Forms 12c"
+      },
+      {
+        "nombre": "Reports 12c"
+      },
+      {
+        "nombre": "Python"
+      },
+      {
+        "nombre": "Power BI"
+      },
+      {
+        "nombre": "ABAP"
       }
     ],
-    "periodo_resumen_laboral": "La experiencia abarca desde enero de 2021 hasta abril de 2022",
-    "resumen_laboral": "Durante este período se desempeñaron funciones como Desarrollador Full Stack, ejecutando actividades relacionadas con el análisis de requisitos, desarrollo de aplicaciones web y diseño de APIs. Se realizó implementación de reportes personalizados y gestión de fuentes de datos para soportar aplicaciones móviles, además de brindar soporte técnico y operativos de funcionamiento. La labor incluyó colaboración con equipos multidisciplinarios para entregar soluciones orientadas al cliente y mantener continuidad operativa de las aplicaciones.",
-    "estudios": {
-      "carrera": "Licenciatura en Ingeniería en Computación",
-      "lugar": "Universidad Politécnica del Valle de México",
-      "periodo": "septiembre 2017 - diciembre 2020"
-    },
-    "certificaciones": [
-      { "nombre": "PythonInstitute_PCEP", "anio": "2024" }
-    ],
-    "cursos": [
-      { "nombre": "Desarrollador Back-end" },
-      { "nombre": "Desarrollador Front-end" }
-    ]
-  },
-  {
-    "nombre": "Juan Carlos Rivera Gonzalez",
-    "rol_propuesto": "Ingeniero de Datos BI Junior",
-    "resumen_profesional": "Con más de diez años de experiencia en visualización de datos y analítica de negocio.\nParticipación en desarrollo y automatización de dashboards y soluciones de consumo de datos.\nExperiencia en modelado de datos, procesos ETL y manejo de bases de datos relacionales y servidores BI.\nEnfoque en ejecución, cumplimiento de entregables y trabajo colaborativo en equipos técnicos.\n\nCapacidad para construir componentes semánticos y publicar fuentes para consumo analítico.\nParticipación en levantamiento de requerimientos, documentación y aseguramiento de calidad de datos.\nTrabajo con herramientas de visualización, flujos ETL y administración de servidores BI.\nPerfil orientado a la implementación y operación de soluciones analíticas.",
-    "experiencia_laboral": [
-      {
-        "empresa": "Grupo SALAV",
-        "puesto": "Especialista de Inteligencia de Negocios - SOFTTEK",
-        "fecha_inicio": "octubre 2025",
-        "fecha_fin": "diciembre 2025",
-        "actividades_principales": [
-          "Ejecutar un Assessment Estratégico enfocado en Inteligencia de Negocios",
-          "Entrevistar a personal clave de negocio y TI para levantamiento de información"
-        ]
-      },
-      {
-        "empresa": "Nissan",
-        "puesto": "Data Visualization Engineer Senior - SOFTTEK",
-        "fecha_inicio": "enero 2025",
-        "fecha_fin": "marzo 2025",
-        "actividades_principales": [
-          "Construir modelos de datos en la capa semántica de Tableau Desktop",
-          "Generar y publicar fuentes de datos en Tableau Server"
-        ]
-      },
-      {
-        "empresa": "Instituto Federal de Telecomunicaciones",
-        "puesto": "Business Analyst Senior - SOFTTEK",
-        "fecha_inicio": "agosto 2024",
-        "fecha_fin": "diciembre 2024",
-        "actividades_principales": [
-          "Desarrollar análisis del caso de negocio para implementación de Gobierno de Datos",
-          "Elaborar documentación técnica y funcional para requerimientos del Market Place"
-        ]
-      },
-      {
-        "empresa": "Walmart",
-        "puesto": "Data Visualization Engineer Senior - SOFTTEK",
-        "fecha_inicio": "mayo 2024",
-        "fecha_fin": "agosto 2024",
-        "actividades_principales": [
-          "Diseñar arquitectura de datos para el monitoreo de aplicaciones",
-          "Construir y optimizar flujos ETL utilizando Tableau Prep"
-        ]
-      },
-      {
-        "empresa": "Walmart México",
-        "puesto": "Data Solutioner - SOFTTEK",
-        "fecha_inicio": "diciembre 2023",
-        "fecha_fin": "mayo 2024",
-        "actividades_principales": [
-          "Analizar la mecánica de cálculo de bonos y documentar procesos integrales",
-          "Diseñar y generar scripts de negocio que soporten el proceso de cálculo"
-        ]
-      },
-      {
-        "empresa": "Ford",
-        "puesto": "Especialista de Presentación de INFORMACIÓN (Visualización) - SOFTTEK",
-        "fecha_inicio": "febrero 2023",
-        "fecha_fin": "noviembre 2023",
-        "actividades_principales": [
-          "Coordinar la migración de tableros del portal Dealer Performance a Qlik Sense",
-          "Levantar requerimientos y desarrollar tableros interactivos centrados en métricas y KPI's"
-        ]
-      }
-    ],
-    "periodo_resumen_laboral": "La experiencia abarca desde junio de 2008 hasta enero de 2023",
-    "resumen_laboral": "Durante este período se desempeñaron funciones como Especialista de Presentación de Información, Consultor BI y Analista de Negocio. Se asumieron responsabilidades de planificación y gestión de proyectos IT, levantamiento de requerimientos, generación y administración de tableros de control, migración y estabilización de aplicaciones BI y administración de servidores. Las tareas se orientaron a proporcionar visibilidad operativa y de negocio mediante soluciones de información y asegurar continuidad operativa.",
-    "estudios": {
-      "carrera": "Ingeniería en Sistemas Computacionales",
-      "lugar": "UNITEC Universidad Tecnológica de México",
-      "periodo": "enero 1996 - diciembre 2000"
-    },
     "certificaciones": [],
     "cursos": [
-      { "nombre": "MySQL for Data Analytics and Business Intelligence" },
-      { "nombre": "Power BI - Análisis de Datos Business Intelligence" },
-      { "nombre": "Python" }
+      {
+        "nombre": "Curso de Python - Platzi"
+      },
+      {
+        "nombre": "Diseño de Bases de Datos Relacionales"
+      },
+      {
+        "nombre": "JavaScript TOTAL – De Cero a Programador Web en 18 Días"
+      },
+      {
+        "nombre": "Oracle SQL Performance Tuning Masterclass (2025)"
+      }
+    ]
+  },
+  {
+  "nombre": "Juan Carlos Rivera Gonzalez",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "3813699",
+  "fecha_cedula": "16/04/2003",
+  "rol_propuesto": "Desarrollador Junior BI",
+  "resumen_profesional": "Tengo más de 2 años de experiencia en desarrollo de servicios y aplicaciones web (Frontend y Backend), dashboards, interactivos, tableros, informes automáticos y reportes. Genero soluciones de Inteligencia de Negocio mediante el desarrollo y mantenimiento de procesos y componentes de datos, implementando flujos Extraer, Transformar y Cargar (ETL) y modelos de información conforme a especificaciones técnicas, apegándome a estándares, arquitecturas y buenas prácticas de desarrollo, apoyando la calidad y correcta ejecución de las soluciones bajo supervisión.\n\nCuento con amplia experiencia en visualización de datos, construcción y automatización de dashboards con herramientas como Tableau, QlikView, Qlik Sense y Power BI, y en el manejo de bases de datos relacionales como SQL Server (Motor de base de datos para consultas y validaciones) y Snowflake. He liderado proyectos en industrias de retail, automotriz, seguros y banca, diseñando modelos de datos y fuentes publicadas para facilitar el análisis autónomo por usuarios de negocio.\n\nTrabajo en el desarrollo y mantenimiento de procesos Extraer, Transformar y Cargar (ETL) y en la implementación de capas semánticas y flujos de consumo que garantizan datos confiables y actualizados para la toma de decisiones. Me enfoco en documentar soluciones, automatizar cargas y asegurar continuidad operativa, colaborando con equipos multidisciplinarios y aplicando buenas prácticas para mantener la calidad de los entregables.",
+  "funciones": "Desarrollo e implemento sistemas mediante el uso de lenguajes de programación, realizando su puesta a punto para asegurar su correcto funcionamiento. Cuento con experiencia en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, participo en el desarrollo, mantenimiento y soporte de procesos Extraer, Transformar y Cargar (ETL) (Extraer, Transformar y Cargar (ETL)) y utilizo herramientas de Business Intelligence como Databricks y Fabric.\n\nMe dedico al desarrollo y soporte de procesos Extraer, Transformar y Cargar (ETL) y a la implementación de capas semánticas y flujos de consumo que entregan datos fiables y actualizados para apoyar la toma de decisiones. Me concentro en documentar soluciones, automatizar cargas y asegurar la continuidad operativa, colaborando con equipos multidisciplinarios y aplicando buenas prácticas para mantener la calidad de los entregables.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Grupo SALAV",
+      "puesto": "Especialista de Inteligencia de Negocios",
+      "fecha_inicio": "01 octubre 2025",
+      "fecha_fin": "31 diciembre 2025",
+      "actividades_principales": [
+        "Creo sistemas (paquetes de software), los implemento y los pongo a punto para que funcionen correctamente, empleando diversos lenguajes de programación. Tengo habilidades en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL), y manejo herramientas de BI como Databricks y Fabric.",
+        "Desarrollo e implemento sistemas y componentes de software para soluciones de Inteligencia de Negocio.",
+        "Apoyo en la puesta a punto y correcto funcionamiento de las soluciones desarrolladas.",
+        "Desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL) para la integración y transformación de datos.",
+        "Colaboro en el modelado de datos utilizando bases de datos relacionales y no relacionales.",
+        "Apoyo en la construcción de estructuras de datos para soluciones analíticas y de BI.",
+        "Utilizo herramientas de BI como Databricks y Fabric para el procesamiento y análisis de información.",
+        "Atiendo incidencias básicas y doy soporte a los procesos y soluciones implementadas.",
+        "Aplico buenas prácticas de desarrollo y lineamientos definidos por el equipo.",
+        "Colaboro con equipos de trabajo para asegurar la correcta ejecución de las soluciones.",
+        "Documento procesos, desarrollos y configuraciones para asegurar su entendimiento y mantenimiento.",
+        "Resuelvo problemas relacionados con el desarrollo, integración y procesamiento de datos en soluciones de Inteligencia de Negocio, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en el desarrollo de soluciones BI.",    
+        "He aplicado el curso SQL – MySQL for Data Analytics and Business Intelligence para analizar datos y generar información relevante para la toma de decisiones mediante consultas SQL en MySQL.",
+        "He puesto en práctica el curso Power BI – Análisis de Datos y Business Intelligence para crear reportes interactivos y dashboards orientados al análisis de datos empresariales.",
+        "He aplicado el curso The Complete Python Bootcamp: From Zero to Hero in Python para desarrollar scripts y soluciones utilizando Python desde nivel básico hasta intermedio.",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "CIS: Elaboro la especificación detallada de componentes.",
+        "CTR: Realizo la construcción de componentes.",
+        "DOC: Genero la documentación técnica.",
+        "Entrevisté a personal clave de negocio y Tecnología de la Información (TI) para el levantamiento de información con la finalidad de identificar el modelo de negocio actual, problemáticas actuales, fuentes de información, reportes, tableros de control, KPI's, arquitectura tecnológica actual, así como el inventario de aplicaciones para el soporte de procesos.",
+        "Analicé la información recopilada para el estudio de la operación actual y sus problemáticas.",
+        "Documenté los hallazgos y requerimientos de información.",
+        "Como parte del diagnóstico evalué acciones agrupadas en iniciativas o proyectos del grupo, identifiqué los proyectos de inteligencia de negocios, los proyectos de mejora.",
+        "Participé en la generación de entregables como el documento de la situación actual de grupo SALAV, la arquitectura de alto nivel, matriz de requerimientos de las diferentes áreas de negocio, definición de nivel objetivo de inteligencia de negocio, la hoja de ruta de iniciativas sugeridas, Quick Wins.",
+        "Desarrollé un tablero de control para dar visibilidad de las prioridades para la atención de los requerimientos por cada área de negocio.",
+        "En esta posición, me encargué de la construcción detallada de modelos de datos en la capa semántica de Tableau Desktop, así como de la generación y publicación de fuentes de datos en el servidor de Tableau, facilitando que los usuarios pudieran crear sus propios tableros de control.",
+        "Diseñé y construí modelos de datos optimizados en la capa semántica de Tableau Desktop para facilitar el análisis.",
+        "Generé y publiqué fuentes de datos en Tableau Server garantizando disponibilidad y actualización constante.",
+        "Implementé una capa de consumo que habilita la creación autónoma de dashboards por los usuarios.",
+        "Proporcioné visibilidad completa sobre contratos y relaciones comerciales con impacto directo en la estrategia corporativa.",
+        "Asumí la responsabilidad de realizar un análisis exhaustivo del caso de negocio para la implementación del Gobierno de Datos, siendo pieza clave en la generación de un glosario de términos de negocio y la documentación precisa de requerimientos para el Market Place.",
+        "Desarrollé un análisis detallado del caso de negocio para fortalecer el Gobierno de Datos.",
+        "Elaboré documentación técnica y funcional para los requerimientos del Market Place.",
+        "Realicé evaluaciones rigurosas de la calidad de datos y propuse recomendaciones para su mejora.",
+        "Diseñé controles y mecanismos de monitoreo para la garantía de la calidad de los datos.",
+        "Evalué plataformas existentes y generé benchmarks para optimizar procesos y la utilización de tecnologías.",
+        "Lideré el análisis completo del proceso de monitoreo de aplicaciones y diseñé una arquitectura de datos efectiva para el monitoreo de D£A.",
+        "Construí flujos Extraer, Transformar y Cargar (ETL) utilizando Tableau Prep y desarrollé tableros de control en Tableau Desktop que permitieron a los directores acceder a información actualizada automáticamente mediante la integración con Tableau Server.",
+        "Analicé profundamente el proceso de monitoreo de aplicaciones para optimizar su eficiencia.",
+        "Diseñé la arquitectura de datos para el monitoreo y reporte eficiente de DÉA.",
+        "Construí y optimicé flujos Extraer, Transformar y Cargar (ETL) en Tableau Prep para automatizar la carga de datos.",
+        "Desarrollé tableros de control dinámicos en Tableau Desktop para el análisis de los datos.",
+        "Automaticé la carga y actualización de datos desde Tableau Server asegurando disponibilidad constante.",
+        "Analicé en detalle la mecánica de cálculo de bonos para Walmart, evidenciando la necesidad de scripts claros y documentación precisa para facilitar el trabajo del equipo de desarrollo.",
+        "Levanté y analicé detalladamente la mecánica de cálculo de bonos para Walmart.",
+        "Diseñé y generé scripts de negocio que soportan el proceso de cálculo.",
+        "Documenté los procesos integrales de Business plan, Forecast, distribución atiendas y el proceso de dispersión.",
+        "Coordiné los recursos del equipo de visualización para realizar la migración exitosa de los tableros de control del portal Dealer Performance de Ford México a Qlik Sense.",
+        "Encabecé el levantamiento de requerimientos, análisis, diseño, desarrollo, documentación e implementación de Tableros de control con base en métricas y KPI's logrando la completa satisfacción del cliente.",
+        "Coordiné y lideré el equipo de desarrollo para la migración de tableros a Qlik Sense.",
+        "Levanté requerimientos para adaptación y mejora continua.",
+        "Diseñé y construí tableros interactivos centrados en métricas clave.",
+        "Implementé cuidadosamente para maximizar valor y satisfacción del usuario final."
+      ]
+    },
+    {
+      "empresa": "Nissan",
+      "puesto": "Data Visualization Engineer Senior - SOFTTEK",
+      "fecha_inicio": "02 enero 2025",
+      "fecha_fin": "31 marzo 2025",
+      "actividades_principales": [
+        "En esta posición, me encargué de la construcción detallada de modelos de datos en la capa semántica de Tableau Desktop, así como de la generación y publicación de fuentes de datos en el servidor de Tableau, facilitando que los usuarios pudieran crear sus propios tableros de control.",
+        "Diseñé y construí modelos de datos optimizados en la capa semántica de Tableau Desktop para facilitar el análisis.",
+        "Generé y publiqué fuentes de datos en Tableau Server garantizando disponibilidad y actualización constante.",
+        "Implementé una capa de consumo que habilita la creación autónoma de dashboards por los usuarios.",
+        "Proporcioné visibilidad completa sobre contratos y relaciones comerciales con impacto directo en la estrategia corporativa."
+      ]
+    },
+    {
+      "empresa": "Instituto Federal de Telecomunicaciones",
+      "puesto": "Business Analyst Senior - SOFTTEK",
+      "fecha_inicio": "02 agosto 2024",
+      "fecha_fin": "31 diciembre 2024",
+      "actividades_principales": [
+        "Asumí la responsabilidad de realizar un análisis exhaustivo del caso de negocio para la implementación del Gobierno de Datos, siendo pieza clave en la generación de un glosario de términos de negocio y la documentación precisa de requerimientos para el Market Place.",
+        "Desarrollé un análisis detallado del caso de negocio para fortalecer el Gobierno de Datos.",
+        "Elaboré documentación técnica y funcional para los requerimientos del Market Place.",
+        "Realicé evaluaciones rigurosas de la calidad de datos y propuse recomendaciones para su mejora.",
+        "Diseñé controles y mecanismos de monitoreo para la garantía de la calidad de los datos.",
+        "Evalué plataformas existentes y generé benchmarks para optimizar procesos y la utilización de tecnologías."
+      ]
+    },
+    {
+      "empresa": "Walmart",
+      "puesto": "Data Visualization Engineer Senior - SOFTTEK",
+      "fecha_inicio": "31 mayo 2024",
+      "fecha_fin": "01 agosto 2024",
+      "actividades_principales": [
+        "Lideré el análisis completo del proceso de monitoreo de aplicaciones y diseñé una arquitectura de datos efectiva para el monitoreo de D£A.",
+        "Construí flujos Extraer, Transformar y Cargar (ETL) utilizando Tableau Prep y desarrollé tableros de control en Tableau Desktop que permitieron a los directores acceder a información actualizada automáticamente mediante la integración con Tableau Server.",
+        "Analicé profundamente el proceso de monitoreo de aplicaciones para optimizar su eficiencia.",
+        "Diseñé la arquitectura de datos para el monitoreo y reporte eficiente de DÉA.",
+        "Construí y optimicé flujos Extraer, Transformar y Cargar (ETL) en Tableau Prep para automatizar la carga de datos.",
+        "Desarrollé tableros de control dinámicos en Tableau Desktop para el análisis de los datos.",
+        "Automaticé la carga y actualización de datos desde Tableau Server asegurando disponibilidad constante."
+      ]
+    },
+    {
+      "empresa": "Walmart",
+      "puesto": "Data Solutioner - SOFTTEK",
+      "fecha_inicio": "01 diciembre 2023",
+      "fecha_fin": "30 mayo 2024",
+      "actividades_principales": [
+        "Analicé en detalle la mecánica de cálculo de bonos para Walmart, evidenciando la necesidad de scripts claros y documentación precisa para facilitar el trabajo del equipo de desarrollo.",
+        "Levanté y analicé detalladamente la mecánica de cálculo de bonos para Walmart.",
+        "Diseñé y generé scripts de negocio que soportan el proceso de cálculo.",
+        "Documenté los procesos integrales de Business plan, Forecast, distribución atiendas y el proceso de dispersión."
+      ]
+    },
+    {
+      "empresa": "Ford",
+      "puesto": "Especialista de Presentación de INFORMACIÓN (Visualización) BI/BA (Líder Técnico) - SOFTTEK",
+      "fecha_inicio": "01 febrero 2023",
+      "fecha_fin": "30 noviembre 2023",
+      "actividades_principales": [
+        "Coordiné los recursos del equipo de visualización para realizar la migración exitosa de los tableros de control del portal Dealer Performance de Ford México a Qlik Sense.",
+        "Encabecé el levantamiento de requerimientos, análisis, diseño, desarrollo, documentación e implementación de Tableros de control con base en métricas y KPI's logrando la completa satisfacción del cliente.",
+        "Coordiné y lideré el equipo de desarrollo para la migración de tableros a Qlik Sense.",
+        "Levanté requerimientos para adaptación y mejora continua.",
+        "Diseñé y construí tableros interactivos centrados en métricas clave.",
+        "Implementé cuidadosamente para maximizar valor y satisfacción del usuario final."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde 01 junio de 2008 hasta 02 enero de 2023",
+  "resumen_laboral": "Durante este período asumí responsabilidades principalmente en el diseño y construcción de soluciones de inteligencia y visualización de datos. Me desempeñé en roles como Especialista de Presentación de Información (Visualización) BI/BA, Consultor BI en QlikView y Qlik Sense, Consultor Senior BI y Analista de Negocio, realizando levantamiento de requerimientos, desarrollo de dashboards, administración de servidores QlikView y documentación técnica para asegurar continuidad operativa y soporte a áreas de negocio.",
+  "estudios": {
+    "carrera": "Ingeniería en Sistemas Computacionales",
+    "lugar": "Unitec",
+    "periodo": "Enero - 1996 | Diciembre - 2000"
+  },
+  "herramientas": [
+    {
+      "nombre": "Tableau Desktop"
+    },
+    {
+      "nombre": "Tableau Server"
+    },
+    {
+      "nombre": "Tableau Prep"
+    },
+    {
+      "nombre": "QlikView"
+    },
+    {
+      "nombre": "Qlik Sense"
+    },
+    {
+      "nombre": "Microsoft SQL Server (T-SQL)"
+    },
+    {
+      "nombre": "Power BI"
+    },
+    {
+      "nombre": "Snowflake"
+    },
+    {
+      "nombre": "Tableau Cloud"
+    },
+    {
+      "nombre": "JIRA"
+    }
+  ],
+  "certificaciones": [],
+  "cursos": [
+    {
+      "nombre": "SQL – MySQL for Data Analytics and Business Intelligence"
+    },
+    {
+      "nombre": "Curso Power BI – Análisis de Datos y Business Intelligence"
+    },
+    {
+      "nombre": "The Complete Python Bootcamp: From Zero to Hero in Python"
+    }
+  ]
+  },
+  {
+  "nombre": "Othon Suarez Velasco",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "7756949",
+  "fecha_cedula": "5/10/2012",
+  "rol_propuesto": "Desarrollador Junior BI",
+  "resumen_profesional": "Tengo más de 2 años de experiencia en el desarrollo de servicios y aplicaciones web (Frontend y Backend), dashboards, interactivos, tableros, informes automáticos y reportes.\n\nGenero soluciones de Inteligencia de Negocio mediante el diseño e implementación de procesos Extraer, Transformar y Cargar (ETL) y componentes de datos, trabajando con herramientas como Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos) e Informatica PowerCenter (Plataforma ETL para integración de datos), y gestionando bases de datos Oracle Database (Motor de base de datos empresarial) y Teradata para asegurar la integridad y disponibilidad de la información. Me especializo en modelado de datos, optimización de consultas y transformación de procesos, desarrollando, probando y migrando flujos Extraer, Transformar y Cargar (ETL) en entornos Linux/Unix (Sistemas operativos para administración y automatización) y AutoSys; colaboro en proyectos bancarios y corporativos aplicando buenas prácticas para garantizar la calidad de los datos y la correcta entrega de reportes.",
+  "funciones": "Desarrollo e implemento sistemas mediante el uso de lenguajes de programación, realizando su puesta a punto para asegurar su correcto funcionamiento. Cuento con experiencia en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, participo en el desarrollo, mantenimiento y soporte de procesos ETL (Extract, Transform, Load) y utilizo herramientas de Business Intelligence como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.\n\nMe especializo en el modelado de datos, en la optimización de consultas y en la transformación de procesos; desarrollo, pruebo y migro flujos ETL en entornos Linux/Unix (Sistemas operativos para administración y automatización) y con AutoSys. Colaboro en proyectos bancarios y corporativos aplicando buenas prácticas para asegurar la calidad de los datos y la entrega puntual de reportes.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek Banamex",
+      "puesto": "Analista Desarrollador ETL",
+      "fecha_inicio": "1 agosto 2025",
+      "fecha_fin": "31 octubre 2025",
+      "actividades_principales": [
+        "Creo paquetes de software, los implemento y los pongo en funcionamiento para garantizar su operatividad, empleando diversos lenguajes de programación. Tengo habilidades en bases de datos relacionales y no relacionales y aplico técnicas de diseño para el modelado de datos. Además, desarrollo, mantengo y doy soporte a procesos ETL (Extraer, Transformar y Cargar) y utilizo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.",
+        "Desarrollo e implemento sistemas y componentes de software para soluciones de Inteligencia de Negocio.",
+        "Apoyo en la puesta a punto y correcto funcionamiento de las soluciones desarrolladas.",
+        "Desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL) para la integración y transformación de datos.",
+        "Colaboro en el modelado de datos utilizando bases de datos relacionales y no relacionales.",
+        "Apoyo en la construcción de estructuras de datos para soluciones analíticas y de BI.",
+        "Utilizo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric para el procesamiento y análisis de información.",
+        "Atiendo incidencias básicas y doy soporte a los procesos y soluciones implementadas.",
+        "Aplico buenas prácticas de desarrollo y lineamientos definidos por el equipo.",
+        "Colaboro con equipos de trabajo para asegurar la correcta ejecución de las soluciones.",
+        "Documento procesos, desarrollos y configuraciones para asegurar su entendimiento y mantenimiento.",
+        "Resuelvo problemas relacionados con el desarrollo, integración y procesamiento de datos en soluciones de Inteligencia de Negocio, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en el desarrollo de soluciones BI.",
+        "He aplicado el curso The Complete Python Bootcamp: From Zero to Hero in Python para desarrollar scripts y soluciones utilizando Python desde nivel básico hasta intermedio",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "CIS: Elaboro la especificación detallada de componentes.",
+        "CTR: Realizo la construcción de componentes.",
+        "DOC: Genero la documentación técnica.",
+        "Analicé, modifiqué, ajusté y probé procesos Extraer, Transformar y Cargar (ETL) para generar los reportes del área de seguros con las nuevas reglas de negocio.",
+        "Definí y extraje reglas de negocio de acuerdo con las necesidades del área.",
+        "Analicé flujos de información y procesos Extraer, Transformar y Cargar (ETL).",
+        "Corregí reglas de negocio en procesos Extraer, Transformar y Cargar (ETL) y ejecuté pruebas unitarias.",
+        "Elaboré documentación de procesos.",
+        "Generé reportes del área de seguros.",
+        "Desarrollé procesos Extraer, Transformar y Cargar (ETL) para el proyecto de Taller de Ofertas implementados en Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos).",
+        "Analicé y definí requerimientos y reglas de negocio según las necesidades del usuario.",
+        "Realicé pruebas unitarias a servicios web desarrollados.",
+        "Diseñé, modelé y creé objetos en base de datos Oracle Database (Motor de base de datos empresarial).",
+        "Desarrollé stored procedures para procesamiento y optimización de datos.",
+        "Ejecuté pruebas unitarias y validaciones para garantizar la calidad de los procesos desarrollados.",
+        "Desarrollé y probé flujos, migré requerimientos a ambientes Pruebas de Integración de Sistemas (SIT), Pruebas de Aceptación de Usuario (UAT) y producción."  
+      ]
+    },
+    {
+      "empresa": "Softtek - Banorte",
+      "puesto": "Consultor ETL AB Initio",
+      "fecha_inicio": "1 septiembre 2023",
+      "fecha_fin": "31 julio 2025",
+      "actividades_principales": [
+        "Desarrollé procesos Extraer, Transformar y Cargar (ETL) para el proyecto de Taller de Ofertas implementados en Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos).",
+        "Analicé y definí requerimientos y reglas de negocio según las necesidades del usuario.",
+        "Realicé pruebas unitarias a servicios web desarrollados.",
+        "Diseñé, modelé y creé objetos en base de datos Oracle Database (Motor de base de datos empresarial).",
+        "Desarrollé stored procedures para procesamiento y optimización de datos.",
+        "Ejecuté pruebas unitarias y validaciones para garantizar la calidad de los procesos desarrollados.",
+        "Desarrollé y probé flujos, migré requerimientos a ambientes Pruebas de Integración de Sistemas (SIT), Pruebas de Aceptación de Usuario (UAT) y producción."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde 01 julio de 2008 hasta 31 agosto de 2023",
+  "resumen_laboral": "Durante este período me desempeñé en roles como Jefe de Departamento de Desarrollo de Sistemas, Consultor PL SQL/Informatica Power Center, Consultor Extraer, Transformar y Cargar (ETL) Informatica PowerCenter (Plataforma ETL para integración de datos), Consultor Informatica Power Center/Oracle, Consultor BA/Oracle Data Integrator y Consultor Calidad de Datos. Asumí responsabilidades de diseño y modelado de bases de datos, análisis y optimización de procesos Extraer, Transformar y Cargar (ETL) y PL/SQL, atención y corrección de incidencias, y documentación técnica, colaborando con equipos multidisciplinarios para asegurar la continuidad operativa.",
+  "estudios": {
+    "carrera": "Ingeniero en Sistemas Computacionales",
+    "lugar": "ESCOM, IPN",
+    "periodo": "julio 2004 - julio 2008"
+  },
+  "herramientas": [
+    {
+      "nombre": "AB Initio"
+    },
+    {
+      "nombre": "Informatica PowerCenter"
+    },
+    {
+      "nombre": "Linux/Unix"
+    },
+    {
+      "nombre": "Oracle Database"
+    },
+    {
+      "nombre": "Teradata"
+    },
+    {
+      "nombre": "PL/SQL"
+    },
+    {
+      "nombre": "AutoSys"
+    },
+    {
+      "nombre": "SnowFlake"
+    },
+    {
+      "nombre": "Oracle Data Integrator"
+    },
+    {
+      "nombre": "DB2"
+    },
+    {
+      "nombre": "Python"
+    }
+  ],
+  "certificaciones": [],
+  "cursos": [
+    {
+      "nombre": "The Complete Python Bootcamp: From Zero to Hero in Python"
+    }
+  ]
+  },
+  {
+  "nombre": "Berenice Dominguez Sanchez",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "10151643",
+  "fecha_cedula": "24/11/2016",
+  "rol_propuesto": "Desarrollador Junior BI",
+  "resumen_profesional": "Tengo más de 2 años de experiencia en desarrollo de servicios y aplicaciones web (frontend y backend), dashboards, tableros e informes automáticos.\n\nMi trabajo se centra en generar soluciones de Inteligencia de Negocio mediante la construcción y mantenimiento de procesos y componentes de datos; implemento flujos Extraer, Transformar y Cargar (ETL), diseño modelos de información y garantizo la calidad y cumplimiento de estándares y arquitecturas.\n\nColaboro con equipos multidisciplinarios en entornos ágiles, participando en la definición de políticas de gobierno de datos, en el diseño de arquitecturas de datos y en el soporte operativo de plataformas cloud para consumo analítico.",
+  "funciones": "Desarrollo e implemento sistemas mediante el uso de lenguajes de programación, realizando su puesta a punto para asegurar su correcto funcionamiento. Cuento con experiencia en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, participo en el desarrollo, mantenimiento y soporte de procesos Extraer, Transformar y Cargar (ETL) y utilizo herramientas de Business Intelligence como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.\n\nMe enfoco en producir soluciones de Inteligencia de Negocio mediante la creación y mantenimiento de procesos y componentes de datos, implementando flujos Extraer, Transformar y Cargar (ETL), modelado de información y asegurando la calidad y cumplimiento de estándares y arquitecturas.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek",
+      "puesto": "Data Governance Consultant PR",
+      "fecha_inicio": "31 octubre de 2024",
+      "fecha_fin": "A la fecha",
+      "actividades_principales": [
+        "Creo paquetes de software, los implemento y realizo su puesta a punto para que funcionen, usando distintos lenguajes de programación. Cuento con habilidades en bases de datos relacionales y no relacionales, así como en técnicas de modelado de datos. Además, desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL), y manejo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.",
+        "Desarrollo e implemento sistemas y componentes de software para soluciones de Inteligencia de Negocio.",
+        "Apoyo en la puesta a punto y correcto funcionamiento de las soluciones desarrolladas.",
+        "Desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL) para la integración y transformación de datos.",
+        "Colaboro en el modelado de datos utilizando bases de datos relacionales y no relacionales.",
+        "Apoyo en la construcción de estructuras de datos para soluciones analíticas y de Business Intelligence.",
+        "Utilizo herramientas de Business Intelligence como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric para el procesamiento y análisis de información.",
+        "Atiendo incidencias básicas y doy soporte a los procesos y soluciones implementadas.",
+        "Aplico buenas prácticas de desarrollo y lineamientos definidos por el equipo.",
+        "Colaboro con equipos de trabajo para asegurar la correcta ejecución de las soluciones.",
+        "Documento procesos, desarrollos y configuraciones para asegurar su entendimiento y mantenimiento.",
+        "Resuelvo problemas relacionados con el desarrollo, integración y procesamiento de datos en soluciones de Inteligencia de Negocio, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en el desarrollo de soluciones BI.",
+        "He aplicado el curso The Complete Python Bootcamp: From Zero to Hero in Python para desarrollar scripts y soluciones utilizando Python desde nivel básico hasta intermedio",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "CIS: Elaboro la especificación detallada de componentes.",
+        "CTR: Realizo la construcción de componentes.",
+        "DOC: Genero la documentación técnica.",
+        "Implementé las mejores prácticas del DAMA-DMBOK Segunda Edición 2024.",
+        "Evangelicé Gobierno de Datos con curso institucional.",
+        "Contruí y actualicé políticas, estándares y anexos.",
+        "Construí y dí mantenimiento a Sharepoint Enterprise Data Governance.",
+        "Discovery de roles de gobierno de datos y certificación de ingesta de información.",
+        "Herramientas: GCP BigQuery, Confluence (Documentación colaborativa y base de conocimiento), Jira (Herramienta de gestión ágil y seguimiento de issues/sprints). Excel (Herramienta de análisis de datos), Microsoft Office (Documentación operativa, métricas y cronogramas), Microsoft Office (Documentación operativa, métricas y cronogramas) y Sharepoint.",
+        "A partir de febrero de 2025, estoy participando en el Centro de Excelencia (COE) de Gobierno de Datos y Master Data Management (MDM). Contribuí en la elaboración del Data Governance Playbook y en el diseño de enfoques estratégicos para la implementación de gobierno de datos.",
+        "Octubre 2025 a 15 de diciembre: Colaboré en Gobierno de datos para el cliente Grupo Salav en la definición de la Estrategia de Inteligencia de Negocio, participando en la creación de artefactos clave como: Agenda de entrevistas, Radiografía del estado actual y Nivel esperado de Inteligencia de Negocio. Participé en las sesiones de Discovery para realizar el assessment de Grupo SALAV.",
+        "Fuí responsable como Product Owner del diseño y entrega de un Data Lake para e-commerce y T1 envíos, asegurando escalabilidad y eficiencia en la plataforma AWS (Plataforma de servicios en la nube).",
+        "Participé en el descubrimiento, ingesta de datos, almacenamiento, procesamiento y transformación, gobernanza de datos, consumo y analítica.",
+        "Herramientas: AWS (Plataforma de servicios en la nube): Database Migration Service (DMS), IAM (Identity and Access Management), Amazon Athena, Amazon Redshift, Quicksight, Amazon S3 (Simple Storage Service), Amazon VPC (Virtual Private Cloud) y Amazon EC2 (Elastic Compute Cloud).",
+        "Establecí convenciones de nombre de buckets, esquemas y tablas; administré Quicksight y diseñé casos de uso para creación de dashboards.",
+        "Construí la estrategia de datos y participé en la definición de la arquitectura del Data Lake, administré IAM y gestioné usuarios y políticas por capa (Raw, Staging, Client).",
+        "Realicé discovery de fuentes de información, definí la ingesta y formé en cadencia con AWS (Plataforma de servicios en la nube); administré la consola y coordiné con especialistas AWS."
+      ]
+    },
+    {
+      "empresa": "Claroshop",
+      "puesto": "Big Data Manager",
+      "fecha_inicio": "2 diciembre de 2023",
+      "fecha_fin": "30 octubre de 2024",
+      "actividades_principales": [
+        "Fuí responsable como Product Owner del diseño y entrega de un Data Lake para e-commerce y T1 envíos, asegurando escalabilidad y eficiencia en la plataforma AWS (Plataforma de servicios en la nube).",
+        "Participé en el descubrimiento, ingesta de datos, almacenamiento, procesamiento y transformación, gobernanza de datos, consumo y analítica.",
+        "Herramientas: AWS (Plataforma de servicios en la nube): Database Migration Service (DMS), IAM (Identity and Access Management), Amazon Athena, Amazon Redshift, Quicksight, Amazon S3 (Simple Storage Service), Amazon VPC (Virtual Private Cloud) y Amazon EC2 (Elastic Compute Cloud).",
+        "Establecí convenciones de nombre de buckets, esquemas y tablas; administré Quicksight y diseñé casos de uso para creación de dashboards.",
+        "Construí la estrategia de datos y participé en la definición de la arquitectura del Data Lake, administré IAM y gestioné usuarios y políticas por capa (Raw, Staging, Client).",
+        "Realicé discovery de fuentes de información, definí la ingesta y formé en cadencia con AWS (Plataforma de servicios en la nube); administré la consola y coordiné con especialistas AWS."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde 02 enero de 2010 hasta 1 diciembre de 2023",
+  "resumen_laboral": "Durante este período asumí responsabilidades principalmente en áreas de análisis de datos y actuaría. Ejercí roles como Becario de la Oficina de Suscripción, Auxiliar en el área de Administración, Analista Actuarial, Jefe de Departamento de la Dirección de Análisis Estadístico y Senior Actuary. Me encargué de la administración de bases de datos, elaboración y entrega de reportes regulatorios, modelado estadístico, generación de indicadores y apoyo en procesos de suscripción y valoración técnica, colaborando con equipos multidisciplinarios.",
+  "estudios": {
+    "carrera": "Maestría en Ciencia e Ingeniería de la Computación",
+    "lugar": "Universidad Nacional Autónoma de México",
+    "periodo": "enero de 2022 - enero de 2024"
+  },
+  "herramientas": [
+    {
+      "nombre": "GCP BigQuery"
+    },
+    {
+      "nombre": "Confluence (Documentación colaborativa y base de conocimiento)"
+    },
+    {
+      "nombre": "Jira (Herramienta de gestión ágil y seguimiento de issues/sprints)"
+    },
+    {
+      "nombre": "Amazon S3"
+    },
+    {
+      "nombre": "Amazon Redshift"
+    },
+    {
+      "nombre": "Amazon Athena"
+    },
+    {
+      "nombre": "AWS (Plataforma de servicios en la nube)"
+    },
+    {
+      "nombre": "Quicksight"
+    },
+    {
+      "nombre": "Cloudera (Hive, Impala)"
+    },
+    {
+      "nombre": "RStudio"
+    },
+    {
+      "nombre": "Python"
+    },
+    {
+      "nombre": "MySQL"
+    },
+    {
+      "nombre": "Visual FoxPro"
+    },
+    {
+      "nombre": "SPSS"
+    },
+    {
+      "nombre": "Tableau"
+    }
+  ],
+  "certificaciones": [],
+  "cursos": [
+    {
+      "nombre": "The Complete Python Bootcamp: From Zero to Hero in Python"
+    }
+  ]
+  
+  },
+  {
+    "nombre": "Hector Edmundo Ortega Correa",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "6094843",
+    "fecha_cedula": "10/8/2009",
+    "rol_propuesto": "Desarrollador Junior BI",
+    "resumen_profesional": "Tengo más de 2 años de experiencia en desarrollo de servicios y aplicaciones web, dashboards interactivos, tableros, informes automáticos y reportes. Genero soluciones de Inteligencia de Negocio mediante el desarrollo y mantenimiento de procesos y componentes de datos, implementando flujos de Extraer, Transformar y Cargar (ETL) y modelos de información conforme a especificaciones técnicas, apegándome a estándares, arquitecturas y buenas prácticas de desarrollo, apoyando la calidad y la correcta ejecución de las soluciones bajo supervisión.\n\nMe especializo en análisis, integración y explotación de información para tableros e indicadores, con experiencia en SQL Server (Motor de base de datos para consultas y validaciones), Oracle, SSIS (Herramienta ETL de Microsoft para integración de datos), ODI, SAS y Tableau. He participado en la construcción de capas Staging, ODS y Data Mart, así como en la documentación de reglas de negocio, matrices origen-destino y procesos de carga y transformación de datos.\n\nTambién he colaborado en migración de tableros, automatización de consultas, validación de cifras y soporte a procesos analíticos en telecomunicaciones, salud, banca, seguros y retail. Mi experiencia combina modelado de datos, integración de fuentes, monitoreo operativo y generación de información para apoyar la toma de decisiones.",
+    "funciones": "Desarrollo e implemento sistemas mediante el uso de lenguajes de programación, realizando su puesta a punto para asegurar su correcto funcionamiento. Cuento con experiencia en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, participo en el desarrollo, mantenimiento y soporte de procesos ETL (Extract, Transform, Load) y utilizo herramientas de Business Intelligence como Databricks y Fabric.\n\nMe enfoco en el análisis, integración y explotación de información para tableros e indicadores, con experiencia en SQL Server, Oracle, SSIS, ODI, SAS y Tableau. También he participado en la construcción de capas Staging, ODS y Data Mart, así como en la documentación de reglas de negocio, matrices origen-destino y procesos de carga y transformación de datos.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek CDMX - IFT",
+        "puesto": "Analista",
+        "fecha_inicio": "1 febrero 2023",
+        "fecha_fin": "30 abril 2024",
+        "actividades_principales": [
+          "Creo sistemas de software, los implemento y realizo su puesta a punto para que sean funcionales, utilizando diversos lenguajes de programación. Cuento con habilidades en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, desarrollo, doy mantenimiento y brindo soporte a procesos de Extraer, Transformar y Cargar (ETL), y manejo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.",
+          "Desarrollo e implemento sistemas y componentes de software para soluciones de Inteligencia de Negocio.",
+          "Apoyo en la puesta a punto y el correcto funcionamiento de las soluciones desarrolladas.",
+          "Desarrollo, mantengo y doy soporte a procesos de Extraer, Transformar y Cargar (ETL) para la integración y transformación de datos.",
+          "Colaboro en el modelado de datos utilizando bases de datos relacionales y no relacionales.",
+          "Apoyo en la construcción de estructuras de datos para soluciones analíticas y de BI.",
+          "Utilizo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric para el procesamiento y análisis de información.",
+          "Atiendo incidencias básicas y doy soporte a los procesos y soluciones implementadas.",
+          "Aplico buenas prácticas de desarrollo y lineamientos definidos por el equipo.",
+          "Colaboro con equipos de trabajo para asegurar la correcta ejecución de las soluciones.",
+          "Documento procesos, desarrollos y configuraciones para asegurar su entendimiento y mantenimiento.",
+          "Resuelvo problemas relacionados con el desarrollo, integración y procesamiento de datos en soluciones de Inteligencia de Negocio, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en el desarrollo de soluciones BI.",
+          "He aplicado el curso Analítica de Datos para la Toma de Decisiones usando Excel para analizar información y apoyar la toma de decisiones mediante herramientas de Excel",
+          "He aplicado el curso Power BI – Análisis de Datos y Business Intelligence para crear reportes y dashboards orientados al análisis de datos empresariales",
+          "He puesto en práctica el curso Azure Data Factory for Data Engineers para desarrollar pipelines de datos utilizando Azure Data Factory en un proyecto práctico",
+          "He puesto en práctica el curso Azure Databricks & Spark for Data Engineers para procesar y transformar datos utilizando Spark y Databricks",
+          "He aplicado el curso Beginner’s Guide to Data & Data Analytics para comprender los fundamentos del análisis de datos y su aplicación en entornos reales",
+          "He aplicado el curso Data Visualization & Storytelling para comunicar resultados de análisis de datos mediante visualizaciones efectivas",
+          "He puesto en práctica el curso Master en Power BI DAX para desarrollar métricas y modelos analíticos avanzados utilizando DAX",
+          "He aplicado el curso MongoDB – Aprende Base de Datos NoSQL desde cero para modelar y consultar bases de datos NoSQL utilizando MongoDB",
+          "He aplicado el curso Power Query para transformar y preparar datos en Excel y Power BI mediante procesos ETL",
+          "He aplicado el curso SAP HANA para comprender la arquitectura y el uso de la plataforma SAP HANA en entornos empresariales",
+          "He puesto en práctica el curso QlikView Avanzado para desarrollar soluciones analíticas avanzadas utilizando QlikView",
+          "He aplicado el curso Comienza con QlikView para diseñar dashboards y aplicaciones analíticas desde cero",
+          "He aplicado el curso Business English: Meetings para mejorar la comunicación profesional en reuniones de trabajo en inglés",
+          "He aplicado el curso Business English: Networking para fortalecer habilidades de comunicación en contextos profesionales y de networking",
+          "He aplicado el curso IICS Cloud Data Integration Services para desarrollar integraciones de datos en la nube utilizando Informatica",
+          "He usado el curso Hands‑On Essentials – Data Warehouse para aplicar fundamentos de modelado y análisis de datos en entornos Snowflake",
+          "He aplicado el curso ODI 11g Hands On Tutorials para desarrollar e implementar integraciones de datos utilizando Oracle Data Integrator 11g",
+          "He usado el curso QlikView Developer para desarrollar soluciones analíticas y dashboards utilizando la plataforma QlikView",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Analizo los procedimientos para consolidar, procesar y publicar la información proporcionada por Operadores nacionales de telecomunicaciones, así como de reguladores internacionales de la industria, para la alimentación de tableros y dashboards en el portal BIT - Banco de Información de Telecomunicaciones.",
+          "Analizo las secciones del Portal BIT para la identificación de tableros y dashboards requeridos, así como el nivel de complejidad para su desarrollo e implementación, de acuerdo al sector o sección correspondiente.",
+          "Reviso y analizo los procesos automatizados actuales en la plataforma SAS del cliente, así como los diferentes módulos que conforman el portal BIT, para crear la estructura de los 3 esquemas de bases de datos, capa Staging, ODS y Data Mart, en los servidores de Desarrollo de SQL Server (Motor de base de datos para consultas y validaciones).",
+          "Realizo la carga de fuentes de información e insumos, a través de scripts implementados con PowerShell, hacia la capa Staging del servidor de Desarrollo.",
+          "Creo scripts para las transformaciones de datos desde la capa ODS y Data Mart.",
+          "Desarrollo procesos de Extraer, Transformar y Cargar (ETL) en SSIS (Herramienta ETL de Microsoft para integración de datos) para la extracción, transformación y carga de información hacia los 3 esquemas de bases de datos, capa Staging, ODS y Data Mart, en los servidores de Aseguramiento de la Calidad (QA) de SQL Server (Motor de base de datos para consultas y validaciones).",
+          "Documento fuentes de información, archivos de presentación que conforman el acervo estadístico del Instituto, catálogos de claves de información del IFT y archivos de trabajo complementarios para los procesos de telecomunicaciones fijas y móviles.",
+          "Documento reglas de negocio y workflows, a partir de los scripts existentes dentro de la plataforma SAS.",
+          "Documento matrices Origen-Destino para integrar la capa Staging dentro del servidor de Desarrollo.",
+          "Apoyo en actividades de monitoreo de usuarios, sesiones y procesos actuales en la instancia de SQL Server (Motor de base de datos para consultas y validaciones) Aseguramiento de la Calidad (QA).",
+          "Analizo, desarrollo y documento procesos para la integración de datos proveniente de 164 archivos de presentación entregados por los Operadores de telecomunicaciones, partiendo desde la etapa de carga y validación de datos hasta la conformación de tablas finales con cifras validadas.",
+          "Llevo a cabo las sesiones de entendimiento técnico y Knowledge Transfer de los procesos desarrollados con los usuarios finales.",
+          "Analizo los procesos involucrados para la generación mensual del Tablero de Indicadores para la Dirección de Innovación y Desarrollo Tecnológico, y que hoy es controlado por la División de Arquitectura, en el cual se concentra la medición de diversos Trámites y Servicios Digitales administrados por el Instituto.",
+          "Documento matriz Origen-Destino para el repositorio de información que conforma el Data Mart AFICOBRANZA, utilizado para consulta de los usuarios del Instituto.",
+          "Genero manualmente métricas para diversos Trámites y Servicios Digitales, a través de informes o reportes solicitados por las distintas coordinaciones y divisiones del Instituto.",
+          "Apoyo en actividades para la migración de tableros analíticos desarrollados a partir de versiones antiguas de Tableau y su actualización a versiones más recientes de la plataforma, así como en la creación de perfiles para el acceso a los mismos, incluyendo permisos y definición de grupos de usuarios y roles.",
+          "Apoyo en actividades de análisis para la migración de información de la Base de Datos del aplicativo SIMOC hacia el sistema de aplicaciones de procesamiento distribuido de datos Hadoop, incluyendo revisión de entidades y campos con los usuarios responsables del aplicativo, llenado de matriz de ingesta para fuente de datos, automatización de fuente PAU en Hadoop, codificación de archivos Sqoop, Hql y shell en plataforma MobaXterm (Terminal SSH con herramientas UNIX), y configuración de objetos y rutas dentro de la plataforma online NiFi del Instituto.",
+          "Analizo y defino los requerimientos y las reglas de negocio para automatizar la consulta de cifras del Informe de Labores y Programa de Actividades del Instituto Mexicano del Seguro Social, el cual concentra el performance de un conjunto de Trámites y Servicios Digitales administrados por la Dirección de Innovación y Desarrollo Tecnológico.",
+          "Apoyo en actividades para el desarrollo de un proceso automatizado en Oracle Data Integrator, que permita extraer los datos correspondientes a los Cursos en Línea del Instituto."
+        ]
+      },
+      {
+        "empresa": "Softtek Ciudad de México",
+        "puesto": "Proyecto IMSS Inteligente los Datos Hablan",
+        "fecha_inicio": "2 diciembre 2019",
+        "fecha_fin": "31 diciembre 2022",
+        "actividades_principales": [
+          "Analizo los procesos involucrados para la generación mensual del Tablero de Indicadores para la Dirección de Innovación y Desarrollo Tecnológico, y que hoy es controlado por la División de Arquitectura, en el cual se concentra la medición de diversos Trámites y Servicios Digitales administrados por el Instituto.",
+          "Documento matriz Origen-Destino para el repositorio de información que conforma el Data Mart AFICOBRANZA, utilizado para consulta de los usuarios del Instituto.",
+          "Genero manualmente métricas para diversos Trámites y Servicios Digitales, a través de informes o reportes solicitados por las distintas coordinaciones y divisiones del Instituto.",
+          "Apoyo en actividades para la migración de tableros analíticos desarrollados a partir de versiones antiguas de Tableau y su actualización a versiones más recientes de la plataforma, así como en la creación de perfiles para el acceso a los mismos, incluyendo permisos y definición de grupos de usuarios y roles.",
+          "Apoyo en actividades de análisis para la migración de información de la Base de Datos del aplicativo SIMOC hacia el sistema de aplicaciones de procesamiento distribuido de datos Hadoop, incluyendo revisión de entidades y campos con los usuarios responsables del aplicativo, llenado de matriz de ingesta para fuente de datos, automatización de fuente PAU en Hadoop, codificación de archivos Sqoop, Hql y shell en plataforma MobaXterm (Terminal SSH con herramientas UNIX), y configuración de objetos y rutas dentro de la plataforma online NiFi del Instituto.",
+          "Analizo y defino los requerimientos y las reglas de negocio para automatizar la consulta de cifras del Informe de Labores y Programa de Actividades del Instituto Mexicano del Seguro Social, el cual concentra el performance de un conjunto de Trámites y Servicios Digitales administrados por la Dirección de Innovación y Desarrollo Tecnológico.",
+          "Apoyo en actividades para el desarrollo de un proceso automatizado en Oracle Data Integrator, que permita extraer los datos correspondientes a los Cursos en Línea del Instituto."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 septiembre de 2009 hasta 1 diciembre de 2019",
+    "resumen_laboral": "Durante este período me desempeñé en funciones como Analista de Help Desk, Analista de Bases de Datos, Consultor SQL (Lenguaje para gestión y consulta de bases de datos relacionales) y Analista de Data Mining. Asumí responsabilidades relacionadas con soporte operativo, análisis y explotación de información, documentación de procesos, mantenimiento de tableros, automatización de cargas y seguimiento de requerimientos para reportes e indicadores. También colaboré en actividades de integración de datos, validación de información, atención de incidencias y generación de insumos para distintas áreas de negocio, fortaleciendo mi experiencia en inteligencia de negocio y operación de datos.",
+    "estudios": {
+      "carrera": "Licenciatura en Informática",
+      "lugar": "Tecnológico de Estudios Superiores de Ixtapaluca, Ixtapaluca, Estado de México",
+      "periodo": "agosto 2004 - febrero 2009"
+    },
+    "herramientas": [
+      {
+        "nombre": "SAS Enterprise Guide"
+      },
+      {
+        "nombre": "Microsoft SQL Server"
+      },
+      {
+        "nombre": "Microsoft SQL Server Integration Services (SSIS)"
+      },
+      {
+        "nombre": "PowerShell"
+      },
+      {
+        "nombre": "Oracle SQL Developer"
+      },
+      {
+        "nombre": "WinSCP"
+      },
+      {
+        "nombre": "Tableau Desktop"
+      },
+      {
+        "nombre": "Oracle Data Integrator 11g"
+      },
+      {
+        "nombre": "MobaXterm"
+      },
+      {
+        "nombre": "DBeaver"
+      },
+      {
+        "nombre": "Hadoop"
+      },
+      {
+        "nombre": "NiFi"
+      },
+      {
+        "nombre": "Oracle SQL Developer Data Modeler"
+      },
+      {
+        "nombre": "HP Vertica"
+      },
+      {
+        "nombre": "Informatica Analyst"
+      },
+      {
+        "nombre": "Informatica Developer"
+      },
+      {
+        "nombre": "Informatica Power Center Express"
+      },
+      {
+        "nombre": "Reporting Services 2010"
+      },
+      {
+        "nombre": "SAP HANA Studio"
+      },
+      {
+        "nombre": "SAP Business Objects"
+      },
+      {
+        "nombre": "IBM Informix"
+      },
+      {
+        "nombre": "Teradata DB 13"
+      },
+      {
+        "nombre": "Cognos Power Play 7"
+      },
+      {
+        "nombre": "Cognos Impromptu Administrator 7.4"
+      },
+      {
+        "nombre": "SharePoint 2007"
+      },
+      {
+        "nombre": "Eclipse"
+      },
+      {
+        "nombre": "Excel 2007"
+      },
+      {
+        "nombre": "Access 2007"
+      },
+      {
+        "nombre": "Internet Information Services (IIS) 6.0"
+      }
+    ],
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "Analítica de Datos para la Toma de Decisiones usando Excel"
+      },
+      {
+        "nombre": "Curso Power BI - Análisis de Datos y Business Intelligence"
+      },
+      {
+        "nombre": "Azure Data Factory for Data Engineers - Project on Covid-19"
+      },
+      {
+        "nombre": "Azure Databricks & Spark for Data Engineers: Hands-on Project"
+      },
+      {
+        "nombre": "Beginner's Guide to Data & Data Analytics (SF Data School)"
+      },
+      {
+        "nombre": "Data Visualization & Storytelling"
+      },
+      {
+        "nombre": "Master en Power BI DAX"
+      },
+      {
+        "nombre": "MongoDB - Aprende Base de Datos NoSQL desde cero"
+      },
+      {
+        "nombre": "Power Query - Transformación de datos en Excel y Power BI"
+      },
+      {
+        "nombre": "SAP HANA: La nueva plataforma tecnológica de SAP"
+      },
+      {
+        "nombre": "QlikView Avanzado: Mejora tus habilidades con QlikView"
+      },
+      {
+        "nombre": "Comienza con QlikView: Aprende diseñando"
+      },
+      {
+        "nombre": "Business English: Meetings (University of Washington - Coursera)"
+      },
+      {
+        "nombre": "Business English: Networking (University of Washington - Coursera)"
+      },
+      {
+        "nombre": "IICS: Cloud Data Integration Services R41 (onDemand)"
+      },
+      {
+        "nombre": "ODI 11g Hands On Tutorials"
+      },
+      {
+        "nombre": "QlikView Developer - Certificado Desarrollador QlikView"
+      },
+      {
+        "nombre": "Hands-On Essentials - Data Warehouse (Snowflake)"
+      }
     ]
   }
 ]

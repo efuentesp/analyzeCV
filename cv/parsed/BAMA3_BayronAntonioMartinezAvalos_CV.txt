@@ -1,0 +1,70 @@
+Bayron Antonio Martinez Avalos
+PERFIL
+Ingeniero en Computación,
+Experiencia en Java y Tibco
+EXPERIENCIA PROFESIONAL
+Citi	México ­ Especialista desarrollador TIBCO	De: Jul, 2023 A: Feb, 2026
+Descripción:
+Responsabilidades:
+·Administración y construcción de soluciones de negocio TIBCO.
+·Probar, versionar, empaquetar y promover los servicios a Dev, SIT, QA/UAT y Producción.
+· Generación de documentos de diseño, solución de negocio, Matriz y ejecución de casos de prueba, definición de esquemas.
+·Automatización de despliegues a producción con BitBucket, TeamCity, UrbanCode Deploy. CI/CD
+. Generación de CR´s desde ServiceNow para liberación de configuraciones en servidores UAT, COB, PROD . Generación de INC desde Service Now.
+Conocimientos y Herramientas Técnicas:
+TIBCO (BW, EMS, Administrator), XML, Schemas, MQ, Oracle), Certificados, GIT, Team City, BB, SOA Habilidades:
+Procesos y Calidad CITIBanamex, desarrollo Middleware, pruebas, versionamiento y automatización despliegue,
+Logros:
+·      Haber ejecutado de manera exitosa CI/CD con TIBCO, se llevo a cabo la configuración de TeamCity, UrbanUdeploy, y BitBuket para poder liberar piezas de código de TIBCO.
+·      Liberación de proyecto PII masking data, encargado de uno de los servicios (tibco) para enmascarar datos personales mediante una integración Java como solución.
+Herramientas/Habilidades:
+Tibco, EMS, Java, JIRA, BitBucket, Teamcity, UrbanCode Udeploy, CI/CD, LightSpeed, ServiceNow
+Instituto Nacional Electoral México ­ Profesional en Desarrollo de Software Descripción:
+Desarrollador Java, dando soporte al aplicativo Sistema Nacional de Registro (SNR).
+Herramientas/Habilidades:
+Java, JSON, jasperReport, hibernet, ORM, MVC, Maven, Eclipse, JSF, SVN, BD ORACLE | De: Sep, 2021 A: Jul, 2023
+Grupo Salinas	México ­ Desarrollador TIBCO
+Descripción:
+Desarrollador TIbco, para envio masivo de campañas Elektra, Banco Azteca.
+Herramientas/Habilidades:
+Tibco, EMS, Base Datos, MongoDB, Stored Procedure, TIbco Administrator, Java | De: Aug, 2019 A: Aug, 2021
+TecAdvisors	México ­ Desarrollador Java | De: Dec, 2016 A: Aug, 2019
+Descripción:
+Desarrollador como BackEnd
+Herramientas/Habilidades:
+Java, Oracle, AWS, JSON, Servicios WEB, REST, SOAP, JDeveloper, HSM Oracle Cloud
+EDUCACIÓN
+Universidad Autónoma del Estado de	Estado de México	De: Apr, 2011 A: Aug, 2016
+México
+Licenciatura en Ingeniería en
+Computación
+Licenciatura en Ingeniería en Computación
+IDIOMAS
+English	Auto Evaluado	Beginner 11­30%
+HABILIDADES TÉCNICAS/GERENCIALES
+UrbanCode Udeploy	 	Junior (1­2 YoE)
+TIbco Administrator	 	Proficient (2­4 YoE)
+Tibco	 	Junior (1­2 YoE)
+Teamcity	 	Junior (1­2 YoE)
+SVN	 	Proficient (2­4 YoE)
+Stored Procedure	 	Junior (1­2 YoE)
+SOAP	 	Proficient (2­4 YoE)
+Servicios WEB	 	Proficient (2­4 YoE)
+ServiceNow	 	Junior (1­2 YoE)
+REST	 	Proficient (2­4 YoE)
+ORM	 	Junior (1­2 YoE)
+Oracle	 	Junior (1­2 YoE)
+MVC	 	Proficient (2­4 YoE)
+MongoDB	 	Junior (1­2 YoE)
+Maven	 	Proficient (2­4 YoE)
+LightSpeed	 	Junior (1­2 YoE)
+JSON	 	Proficient (2­4 YoE)
+JSF	 	Proficient (2­4 YoE)
+JIRA	 	Junior (1­2 YoE)
+JDeveloper	 Junior (1­2 YoE) Java	 Senior (4­6 YoE) jasperReport	 Junior (1­2 YoE) HSM Oracle Cloud Trainee (0­1 YoE) hibernet	 Junior (1­2 YoE) EMS	 Junior (1­2 YoE)
+Eclipse	 	Senior (4­6 YoE)
+CI/CD	 	Junior (1­2 YoE)
+BitBucket	 	Junior (1­2 YoE)
+BD ORACLE	 	Junior (1­2 YoE)
+Base Datos	 	Proficient (2­4 YoE)
+AWS	 	Junior (1­2 YoE)

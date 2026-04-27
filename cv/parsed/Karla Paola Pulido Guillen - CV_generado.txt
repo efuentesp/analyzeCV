@@ -1,0 +1,102 @@
+Karla Paola Pulido Guillén
+Director de Proyecto
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 5 años de experiencia dirigiendo proyectos similares al objeto de la presente licitación. Me responsabilizo de definir las estrategias para el inicio, planificación, diseño, ejecución, seguimiento, control y cierre de un programa de proyectos; considerando las restricciones en alcance, tiempo, calidad, costos, riesgos y satisfacción del cliente, así como los recursos disponibles.
+
+Tengo experiencia extensa en la gobernanza y dirección de servicios administrados y fábricas de software en el sector público. Gestión la continuidad operativa y el cumplimiento de SLA’s, coordinando prácticas como AppDev, AMS, ITIS, Aseguramiento de la Calidad (QA) y Arquitectura, asegurando seguimiento financiero y cumplimiento de procesos. Coordino la Oficina de Gestión de Proyectos (PMO), gerentes y especialistas para mantener la entrega de servicios y la satisfacción del cliente.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Director de Proyecto -  PENSIONISSSTE Fábrica de Software | Desde:
+31 diciembre de 2025 | Hasta: 
+Actual
+Actividades Principales | • Coordino las actividades de gerentes, Oficina de Gestión de Proyectos (PMO), líderes, especialistas técnicos y personal administrativo del proyecto, y realizo la revisión mensual de los servicios, tanto en sitio como bajo demanda.
+• Colaboro en la definición y presentación del programa de proyectos.
+• Defino los objetivos del programa de proyectos de acuerdo con la solicitud.
+• Establezco la estrategia de ejecución del programa de proyectos.
+• Reviso la sincronía y orquestación de los proyectos del programa.
+• Colaboro en la integración del equipo crítico y estratégico.
+• Gestiono los recursos estratégicos.
+• Genero estrategias para resolver contingencias del programa.
+• Mi nivel de experiencia corresponde a 1 o 2 programas (por programa hasta 5 proyectos), con entre 100,000 y 200,000 Hrs., con 120 a 300 participantes en adelante; reporto a Alta Dirección y cuento con 10 años en el rol.
+• He usado la certificación ITIL Foundation como marco de mejores prácticas para la gestión de servicios de TI, aplicando procesos de incidentes, problemas, cambios, catálogo de servicios y CMDB para apoyar la continuidad operativa y el cumplimiento de niveles de servicio.
+• He usado la certificación PMP como estándar en dirección de proyectos para definir y controlar alcance, tiempo, costo, calidad, riesgos y la gestión de interesados durante el ciclo de vida del proyecto.
+• He usado la certificación Scrum Alliance como fundamento para aplicar prácticas ágiles de gestión de proyectos, organizando el trabajo por sprints y facilitando la colaboración del equipo.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+ENG: Colaboro en la elaboración de la estrategia de solución del requerimiento del cliente.
+ISP: Establezco la estrategia de ejecución del programa de proyectos.
+PTO: Realizo el seguimiento al programa de proyectos.
+FPT: Establezco la estrategia de cierre del programa de proyectos.
+PCR: Establezco la estrategia de control de cambios en los proyectos del programa.
+• Gestiono los servicios en el marco del contrato del PENSIONISSSTE “Actualización Tecnológica de la Base de Datos y el Sistema Central Operativo del PENSIONISSSTE”. Este servicio/proyecto incluye la práctica de AppDev, AMS, ITIS y Arquitectura de Softtek a través de un Gerente de entrega de proyectos (Delivery Manager) y varios equipos especializados conformados en células ágiles para cada solicitud de cada uno de los servicios del contrato.
+• Realizo el seguimiento a la prestación de los proyectos/servicios.
+• Reporto el estatus de los servicios/proyectos a la Dirección de Gobierno de Softtek.
+• Recibo y canalizo las escalaciones hechas por el cliente.
+• Escalo con el cliente los problemas y riesgos relacionados al servicio/proyecto que se presta.
+• Velo por la satisfacción del cliente.
+• Aseguro el apego de los equipos de trabajo a los procesos, lineamientos y marcos definidos.
+• Aseguro la rentabilidad del equipo de trabajo en los niveles establecidos.
+• Mantengo la cobranza en los niveles establecidos.
+• Registro y actualizo el estado financiero del proyecto a través del sistema MyOperations (Sistema para estado financiero de proyectos (márgenes, cobranza, rentabilidad)).
+• Aseguro el cumplimiento de Niveles de Servicio para mantener deductivas y penalizaciones en el mínimo y proveer evidencias para sustentar su cumplimiento.
+• Coordino la construcción de equipo y el fortalecimiento de los equipos de trabajo, y doy retroalimentación a los colaboradores.
+• Busco colaboradores adicionales cuando sea necesario, por ejemplo, equipos de especialistas o personas por cuestiones u oportunidades específicas.
+• Gestiono los servicios en el marco del contrato del IFT “Renovación de los servicios de Fábrica de Software”. Este servicio/proyecto incluye la práctica de AppDev, AMS y BI de Softtek a través de un Gerente de entrega de proyectos (Delivery Manager) y varios equipos especializados. El contrato se dividió en 2 partidas con los siguientes servicios:
+• Gestiono los servicios en el marco del contrato del IFT “Servicios administrados de nube híbrida y soporte operativo”. Este servicio/proyecto incluye la práctica de ITIS de Softtek a través de un Gerente de entrega de proyectos (Delivery Manager) y varios equipos especializados. El contrato se dividió en 5 partes principales:
+• Realizo un análisis y diagnóstico de la operación y gestión actual, así como la implementación de la plataforma WSO2 (Plataforma/middleware (API Management, integración)).
+• Lidero una fase de Estabilización en donde se generó la documentación técnica de los portales y sistemas, así como la documentación de los procesos de Tecnología de la Información (TI), la puesta en marcha de una CMDB y la entrega y puesta a punto de las suscripciones de software (MongoDB (Base de datos NoSQL), WSO2 (Plataforma/middleware (API Management, integración)), Dynatrace (APM/observabilidad para monitoreo de rendimiento y trazas), CHKMK (Plataforma de monitoreo de infraestructura/servicios)).
+• Dirijo una fase de Operación con la gestión y monitoreo de los portales, sistemas y plataformas de TIC del IFT.
+• Atiendo requerimientos específicos, es decir proyectos que nos pueda solicitar el IFT como migración de plataformas, actualización de versiones, etc.
+• Planifico y ejecuto una fase de cierre que abarcará un periodo de 2 meses para realizar la transferencia de la operación al IFT o a quien este designe.
+• Gestiono los servicios en el marco del contrato del INFONAVIT. Este servicio/proyecto incluye la práctica de Aseguramiento de la Calidad (QA) de Softtek a través de un Gerente de entrega de proyectos (Delivery Manager) y un equipo especializado.
+• El objeto del contrato era contar con los servicios de análisis, diseño y ejecución de pruebas de software, funcionales y no funcionales (desempeño, cargas, estrés, concurrencia) en ambiente de pruebas (Aseguramiento de la Calidad (QA)), gestionar la atención de requerimientos solicitados por las áreas de negocio y Tecnología de la Información (TI) del Infonavit y generar una base de conocimiento basada en matrices y escenarios de prueba por tipo de servicio y línea de negocio, con el fin de mitigar riesgos operativos antes de liberar a ambientes productivos.
+Empresa
+Softtek | Puesto
+Director de Proyecto -  IFT – CRT Fábrica de Software | Desde:
+01 julio de 2024 | Hasta: 
+16 febrero de 2026
+Actividades Principales | • Gestiono los servicios en el marco del contrato del IFT “Renovación de los servicios de Fábrica de Software”. Este servicio/proyecto incluye la práctica de AppDev, AMS y BI de Softtek a través de un Gerente de entrega de proyectos (Delivery Manager) y varios equipos especializados. El contrato se dividió en 2 partidas con los siguientes servicios:
+Empresa
+Softtek | Puesto
+Director de Proyecto -  IFT- CRT ITIS | Desde:
+01 enero de 2022 | Hasta: 
+16 febrero de 2026
+Actividades Principales | • Gestiono los servicios en el marco del contrato del IFT “Servicios administrados de nube híbrida y soporte operativo”. Este servicio/proyecto incluye la práctica de ITIS de Softtek a través de un Gerente de entrega de proyectos (Delivery Manager) y varios equipos especializados. El contrato se dividió en 5 partes principales:
+• Realizo un análisis y diagnóstico de la operación y gestión actual, así como la implementación de la plataforma WSO2 (Plataforma/middleware (API Management, integración)).
+• Lidero una fase de Estabilización en donde se generó la documentación técnica de los portales y sistemas, así como la documentación de los procesos de Tecnología de la Información (TI), la puesta en marcha de una CMDB y la entrega y puesta a punto de las suscripciones de software (MongoDB (Base de datos NoSQL), WSO2 (Plataforma/middleware (API Management, integración)), Dynatrace (APM/observabilidad para monitoreo de rendimiento y trazas), CHKMK (Plataforma de monitoreo de infraestructura/servicios)).
+• Dirijo una fase de Operación con la gestión y monitoreo de los portales, sistemas y plataformas de TIC del IFT.
+• Atiendo requerimientos específicos, es decir proyectos que nos pueda solicitar el IFT como migración de plataformas, actualización de versiones, etc.
+• Planifico y ejecuto una fase de cierre que abarcará un periodo de 2 meses para realizar la transferencia de la operación al IFT o a quien este designe.
+Empresa
+Softtek | Puesto
+Director de proyecto INFONAVIT | Desde:
+01 noviembre de 2020 | Hasta: 
+30 abril de 2022
+Actividades Principales | • Gestiono los servicios en el marco del contrato del INFONAVIT. Este servicio/proyecto incluye la práctica de Aseguramiento de la Calidad (QA) de Softtek a través de un Gerente de entrega de proyectos (Delivery Manager) y un equipo especializado.
+• El objeto del contrato era contar con los servicios de análisis, diseño y ejecución de pruebas de software, funcionales y no funcionales (desempeño, cargas, estrés, concurrencia) en ambiente de pruebas (Aseguramiento de la Calidad (QA)), gestionar la atención de requerimientos solicitados por las áreas de negocio y Tecnología de la Información (TI) del Infonavit y generar una base de conocimiento basada en matrices y escenarios de prueba por tipo de servicio y línea de negocio, con el fin de mitigar riesgos operativos antes de liberar a ambientes productivos.
+HERRAMIENTAS CONOCIDAS
+- MyOperations
+- WSO2
+- Mongo DB
+- Dynatrace
+- CHKMK
+- CMDB
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 05 julio de 2004 hasta 30 octubre de 2020
+Durante este período asumí responsabilidades de coordinación y gestión de proyectos y contratos, desempeñando roles como Gerente de Sistemas y Procesos, Líder de Proyecto, Gerente de entrega de proyectos (Delivery Manager) y Gerente de Digitalización. Me encargué del cumplimiento de requisitos contractuales, control de presupuestos, selección y contratación de equipos, estandarización de procesos y entrega de evidencias para cierres contractuales. Trabajé en la integración entre equipos internos y del cliente para cumplir compromisos y optimizar la operación.
+FORMACIÓN ACADÉMICA:
+Licenciatura en Sistemas de Información Administrativos (LSCA) - 1991 - 1995 | Instituto Tecnológico y De Estudios Superiores de Monterrey | Campus Ciudad de México | Cédula Profesional
+2334215
+10/7/1996
+CERTIFICACIONES
+- PMP Project Management Professional - Profesional en Gestión de Proyectos (PMP) | 2017-2026
+- Scrum Alliance | 2026
+- ITIL Foundation Certificate in IT Service Management - Biblioteca de Infraestructura de Tecnologías de Información (ITIL) | 2019-2027
+CURSOS
+- ITIL Foundation Certificate in IT Service Management - Biblioteca de Infraestructura de Tecnologías de Información (ITIL)
+______________________________________
+Karla Paola Pulido Guillén
+Director de Proyecto | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

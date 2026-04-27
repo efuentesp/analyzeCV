@@ -1,0 +1,181 @@
+Martha Patricia Martínez Flores
+Gerente de Operación
+FUNCIONES
+Coordino actividades de personal especialista y técnico para asegurar el cumplimiento de los procesos y garantizar la continuidad de los servicios.
+Dirijo servicios y proyectos de desarrollo, mantenimiento y transformación para instituciones públicas y empresas privadas, definiendo procesos de operación, estrategias de atención, métricas de calidad, reportes ejecutivos y seguimiento financiero. Mi experiencia se centra en asegurar la continuidad operativa, ordenar la ejecución y mantener la relación con clientes, proveedores y equipos multidisciplinarios.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 5 años de experiencia comprobada en la gestión de proyectos grandes o críticos y con más de 3 años de experiencia comprobada en proyectos de desarrollo ágil. Realizo labores de mentoreo y coaching para que los líderes de proyecto a mi cargo lleven una gestión completa y correcta, cumpliendo los compromisos de calendario, esfuerzo, presupuesto y calidad acordados con el cliente.
+
+He dirigido servicios y proyectos de desarrollo, mantenimiento y transformación para instituciones públicas y empresas privadas, definiendo procesos de operación, estrategias de atención, métricas de calidad, reportes ejecutivos y seguimiento financiero. Mi experiencia se enfoca en asegurar continuidad operativa, ordenar la ejecución y mantener la relación con clientes, proveedores y equipos multidisciplinarios.
+
+También he coordinado células y equipos amplios en iniciativas de seguridad, assessment, mantenimiento mayor y evolución de aplicaciones, integrando marcos PMI, Scrum, CMMI (Modelo de madurez para procesos de desarrollo y servicios), PDSS, MAAGTIC-SI (Estándar gubernamental para artefactos de QA) e ITIL (Marco de mejores prácticas para gestión de servicios de TI (incidentes, problemas, cambios, niveles de servicio, catálogo, CMDB, etc.)). Acompaño la toma de decisiones, gestiono riesgos e impulso entregas alineadas a servicio, calidad y resultados.
+EXPERIENCIA LABORAL
+Empresa
+Softtek Instituto Federal de Telecomunicaciones | Puesto
+Project Manager | Desde:
+1 julio 2024 | Hasta: 
+A la fecha
+Actividades Principales | • Coordino actividades de personal especialista y técnico para el cumplimiento de procesos y garantizar la continuidad de los servicios.
+• Participo en la elaboración de propuestas.
+• Reviso y autorizo propuestas que en el futuro estaré a cargo de operar.
+• Elijo y asigno al líder de proyecto para la ejecución de los mismos.
+• Gestiono y autorizo la asignación y desasignación de recursos humanos, materiales y financieros para la gestión de proyectos.
+• Respaldo y autorizo la toma de decisiones de los líderes de proyecto a mi cargo.
+• Reporto datos financieros a la organización sobre el avance de los proyectos a mi cargo (costos, devengado, etc.).
+• Superviso las actividades de gestión de los líderes de proyecto, dirijo y corrijo en caso de ser necesario.
+• Establezco los lineamientos de operación, así como la estrategia global de mis proyectos.
+• Informo de manera consolidada y periódica, tanto a los mandos superiores como a los equipos de trabajo, los resultados obtenidos.
+• Comunico a los equipos de trabajo las noticias más relevantes dispuestas en la organización.
+• Mantengo activa la relación con el cliente y funjo como punto de contacto y de escalación en los proyectos a mi cargo.
+• Gestiono entre 1 y 3 proyectos con un esfuerzo total que oscila entre más de 5,000 y hasta 10,000 horas. Coordino equipos de entre 10 y 15 participantes y administro a un conjunto de líderes con menor seniority. Asimismo, reporto avances y resultados a PM (integrador), DM y cliente, a nivel de gerencia media.
+• He aplicado la certificación ITIL® Foundation Certificate in IT Service Management para gestionar servicios de TI conforme a mejores prácticas, enfocando la operación en valor, mejora continua y satisfacción del cliente
+• He utilizado la certificación Certified ScrumMaster® (CSM) para facilitar equipos ágiles, coordinar eventos Scrum y promover la colaboración y la entrega incremental de valor
+• He puesto en práctica la certificación Project Management Professional (PMP®) para planificar, ejecutar y controlar proyectos, gestionando alcance, tiempos, costos, riesgos y recursos de forma integral
+• He aprovechado la acreditación como Auditor Interno de Normas ISO 9001:2015 para evaluar el cumplimiento de sistemas de gestión de calidad y apoyar la mejora continua de procesos
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• ISP: Defino el proyecto alineando objetivos, alcance, recursos y equipo.
+• PTO: Doy seguimiento al avance y gestiono desviaciones.
+• FPT: Aseguro un cierre ordenado con entregables y lecciones aprendidas.
+• CHM: Gestiono cambios evaluando impacto e implementación.
+• SCM: Controlo versiones y configuraciones, garantizando trazabilidad.
+• Tailorización de metodología y marco documental para el desarrollo de proyectos, generando los Modelos de Desarrollo para Marco Ágil y para desarrollos Modelo Cascada o Iterativo.
+• Definición de procesos de operación del Servicio de Desarrollo.
+• Definición de las estrategias de atención para las iniciativas acorde a la estrategia de desarrollo de la Institución.
+• Elaboración de Propuestas para desarrollo de aplicativos. con estimaciones basadas en Juicio de Experto y Cosmic Function Points.
+• Responsable del Proyecto de Mantenimiento al Sistema de Numeración y Señalización SNS que consiste en la implementación de 31 trámites del sistema.
+• Responsable de la dirección para los proyectos de Walmart ACE y Hardening de Servidores, consistentes en implementar controles de seguridad para las aplicaciones (14 aplicaciones en ACE, y 83 aplicaciones en Hardening), en donde se llevaron a cabo remediaciones/integraciones necesarias con el fin de que los aplicativos se alineen en compliance a las politicas globales de identity  access managment, gestion y proteccion de datos, así como la validación de soluciones nuevas o modificación de las existentes en el portafolio de Tecnología de la Información (TI).
+• Los controles de seguridad que se implementaron en cada uno de los proyectos fueron los siguientes:
+• Autenticación centralizada
+• Segundo factor de autenticación
+• Provision/Deprovision/UAR (User Access Review)
+• Pistas de auditoría
+• Cuentas de servicio/privilegiadas
+• Password Management
+• SSP (Plan de Seguridad de la Solución)
+• Remplazar Cuentas Locales por Cuentas de Servicio (principal y /o secundaria) en Directorio Activo
+• Implementación del Portal para alertar las cuentas de servicio por expirar (Aplicativo WEB).
+• Coordinar la operación de las diferentes células de trabajo, bajo marcos de trabajo ágiles, con un promedio de 30 consultores participando en la implementación.
+• Administración de riesgos e issues.
+• Gestión de proveedores.
+• Presentación y elaboración de informes ejecutivos para el cliente, y alta Dirección de Softtek
+• Generación y presentación de reportes financieros de los proyectos.
+• Gerente de proyecto para la implementación de SAP Commissions y Agent Performance Management APM para MetLife.
+• Gestión del proveedor Outliers, empresa responsable de la implementación de los módulos de SAP (Commissions y APM).
+• Definición de métricas de calidad para la entrega del Servicio
+• Administración de riesgos e issues.
+• Seguimiento a las pruebas unitarias y Aseguramiento de la Calidad (QA) del cliente.
+• Presentación y elaboración de informes para los usuarios ejecutivos del proyecto y alta Dirección de Softtek
+• Generación y presentación de reportes financieros para el proyecto.
+• Responsable de la dirección del servicio especializado de desarrollo y mantenimiento de aplicaciones para la reaseguradora KOT para su sistema de Siniestros y Actuarial.
+• Gerente de Entrega del servicio de Desarrollo de aplicaciones para el análisis y diseño del sistema de Siniestros y Actuarial.
+• Definición de métricas de calidad para la entrega del Servicio
+• Elaboración de Propuestas para el desarrollo de la aplicación de Siniestros y Actuarial.
+• Administración de riesgos e issues.
+• Presentación y elaboración de informes ejecutivos para la Dirección de sistemas.
+• Generación y presentación de reportes financieros para cada uno de los proyectos en ejecución.
+Empresa
+Softtek Walmart | Puesto
+Gerente de entrega de proyectos (Delivery Manager) | Desde:
+1 octubre 2021 | Hasta: 
+31 octubre 2022
+Actividades Principales | • Responsable del Proyecto de Mantenimiento al Sistema de Numeración y Señalización SNS que consiste en la implementación de 31 trámites del sistema.
+• Responsable de la dirección para los proyectos de Walmart ACE y Hardening de Servidores, consistentes en implementar controles de seguridad para las aplicaciones (14 aplicaciones en ACE, y 83 aplicaciones en Hardening), en donde se llevaron a cabo remediaciones/integraciones necesarias con el fin de que los aplicativos se alineen en compliance a las politicas globales de identity  access managment, gestion y proteccion de datos, así como la validación de soluciones nuevas o modificación de las existentes en el portafolio de Tecnología de la Información (TI).
+• Los controles de seguridad que se implementaron en cada uno de los proyectos fueron los siguientes:
+• Autenticación centralizada
+• Segundo factor de autenticación
+• Provision/Deprovision/UAR (User Access Review)
+• Pistas de auditoría
+• Cuentas de servicio/privilegiadas
+• Password Management
+• SSP (Plan de Seguridad de la Solución)
+• Remplazar Cuentas Locales por Cuentas de Servicio (principal y /o secundaria) en Directorio Activo
+• Implementación del Portal para alertar las cuentas de servicio por expirar (Aplicativo WEB).
+• Coordinar la operación de las diferentes células de trabajo, bajo marcos de trabajo ágiles, con un promedio de 30 consultores participando en la implementación.
+• Administración de riesgos e issues.
+• Gestión de proveedores.
+• Presentación y elaboración de informes ejecutivos para el cliente, y alta Dirección de Softtek
+• Generación y presentación de reportes financieros de los proyectos.
+Empresa
+Softtek MetLife | Puesto
+Gerente de entrega de proyectos (Delivery Manager) | Desde:
+2 noviembre 2020 | Hasta: 
+31 diciembre 2021
+Actividades Principales | • Gerente de proyecto para la implementación de SAP Commissions y Agent Performance Management APM para MetLife.
+• Gestión del proveedor Outliers, empresa responsable de la implementación de los módulos de SAP (Commissions y APM).
+• Definición de métricas de calidad para la entrega del Servicio
+• Administración de riesgos e issues.
+• Seguimiento a las pruebas unitarias y Aseguramiento de la Calidad (QA) del cliente.
+• Presentación y elaboración de informes para los usuarios ejecutivos del proyecto y alta Dirección de Softtek
+• Generación y presentación de reportes financieros para el proyecto.
+Empresa
+Softtek KOT | Puesto
+Gerente de entrega de proyectos (Delivery Manager) | Desde:
+1 septiembre 2020 | Hasta: 
+31 diciembre 2021
+Actividades Principales | • Responsable de la dirección del servicio especializado de desarrollo y mantenimiento de aplicaciones para la reaseguradora KOT para su sistema de Siniestros y Actuarial.
+• Gerente de Entrega del servicio de Desarrollo de aplicaciones para el análisis y diseño del sistema de Siniestros y Actuarial.
+• Definición de métricas de calidad para la entrega del Servicio
+• Elaboración de Propuestas para el desarrollo de la aplicación de Siniestros y Actuarial.
+• Administración de riesgos e issues.
+• Presentación y elaboración de informes ejecutivos para la Dirección de sistemas.
+• Generación y presentación de reportes financieros para cada uno de los proyectos en ejecución.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- ITIL® Foundation Certificate in IT Service Management
+- Certified ScrumMaster® (CSM)
+- Project Management Professional (PMP®)
+- Auditor Interno de Normas ISO 9001:2015
+- MS Project
+- Excel
+- Word
+- PowerPoint
+- PPM
+- Jira
+- Confluence
+- SAFE
+- Oracle SOA
+- OSB
+- Java
+- WordPress
+- ODI Oracle Data Integrator
+- OBIEE Oracle Business Intelligence Enterprise Edition
+- Axway BPM
+- Kintana ITG
+- Visio
+- Bizagi
+- Process Dashboard
+- PPMC
+- Documentum
+- Cognos
+- DataStage
+- Rational Rose
+- Requisite Pro
+- Microsoft SQL Server
+- SAP Commissions
+- Agent Performance Management APM
+- Oracle
+- Erwin
+- Mainframe IBM
+- Cobol
+- DB2 para OS/390
+- JCL
+- CICS
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 agosto de 1991 hasta 30 junio de 2024
+Durante este período me desempeñé como Gerente de entrega de proyectos (Delivery Manager), Gerente de Servicio Fábrica de Software, Gerente de Proyecto, Oficina de Gestión de Proyectos (PMO), Director de proyectos, Consultor de procesos, Líder de Proyecto, Gerente de proyectos ERP SAP y Gerente de proyectos ARS. Asumí responsabilidades de dirección de proyectos, operación de servicios, administración de recursos, seguimiento de procesos, atención a clientes, control de riesgos, elaboración de propuestas y coordinación de equipos de trabajo en distintos entornos. También participé en iniciativas de mantenimiento, soporte, implantación, reingeniería y mejora operativa, procurando el cumplimiento de compromisos y la continuidad de los servicios.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciatura en Ciencias de la Informática - 1985-1989 | Instituto Politécnico Nacional UPIICSA, México, D. F. | Cédula Profesional
+3500673
+07/12/2001
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- ITIL® Foundation Certificate in IT Service Management | 2024-2027
+- Certified ScrumMaster® (CSM) | 2016-2026
+- Project Management Professional (PMP®) | 2007-2026
+CURSOS
+- Auditor Interno de Normas ISO 9001:2015
+______________________________________
+Martha Patricia Martínez Flores
+Gerente de Operación | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

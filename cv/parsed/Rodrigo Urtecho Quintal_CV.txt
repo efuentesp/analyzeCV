@@ -1,0 +1,143 @@
+
+
+--- Página 1 ---
+
+R o d r i g o   U r t e c h o   Q u i n t a l
+P E R F I L
+I n g e n i e r o   d e   S o f t w a r e   e s p e c i a l i z a d o   e n   e l   l e n g u a j e   J a v a ,   s u   F r a m e w o r k   S p r i n g   y   l a   h e r r a m i e n t a   S p r i n g   B o o t .
+E x p e r i e n c i a   C O B O L 7 4   e n   U N I S Y S   p a r a   s i s t e m a   d e   B a n a m e x .  
+T e c n o l o g í a s   W e b   ( H T M L ,   C S S   y   J a v a S c r i p t ) .
+E x p e r i e n c i a   e n   A d m i n i s t r a c i ó n   d e   P r o y e c t o s   d e   S o f t w a r e   e n   p r o y e c t o   d e   S e r v i c i o   S o c i a l .
+T r a b a j o   e n   e q u i p o ,   c o l a b o r a c i ó n ,   c o m u n i c a c i ó n   a s e r t i v a ,   f l e x i b i l i d a d   y   a d a p t a c i ó n   a l   c a m b i o .
+E X P E R I E N C I A   P R O F E S I O N A L
+S o f t t e k   ­   B F S M é r i d a   ­   S o f t w a r e   E n g i n e e r   ­   J u n i o r D e :   A u g ,   2 0 2 5   A :   D e c ,   2 0 2 5
+D e s c r i p c i ó n :
+A c t i v i d a d e s :
+A n á l i s i s   d e   i m p a c t o   d e   p r o g r a m a s   i n v o l u c r a d o s   c o n   p r o c e s o s   r e l a c i o n a d o s   a   A T M s   p o r   i n c r e m e n t o   d e   4   a   5   p o s i c i o n e s   e n   s u
+i d e n t i f i c a d o r .
+M a n t e n i m i e n t o   d e   P r o g r a m a s   e n   L í n e a   y   B a t c h   e n   C O B O L   7 4   e n   U N I S Y S   d e l   S 0 1 8   ( S i s t e m a   d e   A d m i n i s t r a c i ó n   d e   E f e c t i v o )   d e
+B a n a m e x   p o r   p r o y e c t o   I n c r e a s e   I D .
+M a n t e n i m i e n t o   d e   P r o g r a m a   J a v a   B a t c h   p a r a   r e f o r m a t e o   d e   a r c h i v o s .
+E j e c u c i ó n   d e   p r u e b a s   p a r a   v a l i d a c i ó n   d e   m o d i f i c a c i o n e s .
+C o o r d i n a c i ó n   d e l   e q u i p o   i n t e r n o   p a r a   d e s a r r o l l o   y   p r u e b a s .
+C o n s u l t a   y   e d i c i ó n   d e   d a t o s   d e   e n   B a s e   d e   D a t o s   D M S I I ,   p a r a   t e m a s   d e   e j e c u c i ó n   d e   p r u e b a s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+N o t e p a d + + ,   G i t ,   U n i s y s ,   D M S I I ,   C A N D E ,   W O R K B E N C H ,   A D M W I N ,   W e b E n a b l e r ,   C o b o l 7 4 ,   C o o r d i n a c i ó n ,   C o l a b o r a c i ó n ,   J a v a
+S o f t t e k   ­   B F S M é r i d a   ­   J a v a   S o f t w a r e   E n g i n e e r D e :   J a n ,   2 0 2 4   A :   J u l ,   2 0 2 5
+D e s c r i p c i ó n :
+A c t i v i d a d e s :
+A m b i e n t a c i ó n   d e   T o m c a t   8   y   A p a c h e   e n   s e r v i d o r e s   R E H L 8   p a r a   i n s t a l a c i ó n   d e   O p t i c a s h ,   O p t i n e t   y   “ R e f o r m a t e a d o r   W e b ” .
+D e s a r r o l l o   y   m a n t e n i m i e n t o   d e   p r o g r a m a s   J a v a   B a t c h   p a r a   r e f o r m a t e o   d e   a r c h i v o s   y   W e b   p a r a   v i s u a l i z a c i ó n   d e   a r c h i v o s   d e l   S i s t e m a
+O p t i c a s h   p a r a   p r o n o s t i c a c i ó n   d e   e f e c t i v o .
+I m p l e m e n t a c i ó n   d e   h e r r a m i e n t a   d e   a u t o m a t i z a c i ó n   A u t o s y s   y   d e f i n i c i ó n   d e   “ J o b s ”   u s a n d o   J I L   ( J o b   I n f o r m a t i o n   L a n g u a g e ) .
+D e s a r r o l l o   y   m a n t e n i m i e n t o   d e   p r o g r a m a s   S h e l l   p a r a   a u t o m a t i z a c i ó n   d e   t a r e a s .
+I m p l e m e n t a c i ó n   d e   a g e n t e   P i n g A c c e s s   p a r a   S i n g l e   S i g n   O n   e n   s e r v i d o r e s   A p a c h e .
+C o o r d i n a c i ó n   c o n   e q u i p o s   d e   s o p o r t e   d e l   c l i e n t e   a   t r a v é s   d e l   i d i o m a   i n g l é s .
+S o p o r t e   e n   a m b i e n t e s   d e   p r u e b a   y   p r o d u c t i v o .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+E c l i p s e ,   N o t e p a d + + ,   G i t ,   V i s u a l S t u d i o   C o d e ,   T e c t i a ,   J a v a ,   T o m c a t   9 ,   A u t o s y s ,   C o n n e c t : D i r e c t ,   R E H L 8 ,   P i n g A c c e s s
+S o f t t e k M é r i d a   ­   S o f t w a r e   E n g i n e e r   ­   T r a i n e e D e :   N o v ,   2 0 2 3   A :   J a n ,   2 0 2 4
+D e s c r i p c i ó n :
+C o n o c i m i e n t o s   a d q u i r i d o s   a c e r c a   d e   T I S A P ,   U M L ,   P O O ,   P r i n c i p i o s   S O L I D ,   J A V A ,   P o l í t i c a s   y   p r o c e s o s   d e   l a   e m p r e s a   p a r a   E n g a g e m e n t ,
+D e s a r r o l l o   d e   S o f t w a r e   ( P D S S V 3   y   P D S S   A g i l e ) ,   M a r c o   d e   t r a b a j o   á g i l   u s a d o   p o r   l a   e m p r e s a   ( A S F ) ,   S p r i n g   y   S p r i n g   B o o t ,   J P A   p r o v e i d o   p o r
+H i b e r n a t e   p a r a   p e r s i s t e n c i a   d e   d a t o s   e n   B a s e s   d e   D a t o s   c o m o   M y S Q L ,   a s í   c o m o ,   c o m p e t e n c i a s   d e   d e s a r r o l l o   w e b   a   t r a v é s   d e   u n a   l i c e n c i a   d e
+U d e m y   ( H T M L ,   C S S   y   J a v a S c r i p t ) .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+
+--- Página 2 ---
+
+E D U C A C I Ó N
+D E S A R R O L L O   P R O F E S I O N A L
+I D I O M A SS p r i n g   B O O T ,   S p r i n g   F r a m e w o r k ,   S p r i n g   F r a m e w o r k   ­   W e b   S e r v i c e s ,   H i b e r n a t e ,   J a v a   P e r s i s t e n c e   A P I   ( J P A ) ,   H T M L 5 ,   C S S / C S S 3 ,   J a v a s c r i p t ,
+A g i l e
+S e r v i c i o   S o c i a l   U n i v e r s i d a d   A u t ó n o m a   d e
+Y uM é r i d a   ­   P r o j e c t   M a n a g e r   ­   T r a i n e e D e :   J a n ,   2 0 2 3   A :   J u l ,   2 0 2 3
+D e s c r i p c i ó n :
+C o n s t r u c c i ó n   d e   u n   p r o t o t i p o   f u n c i o n a l   d e   a p l i c a c i ó n   m ó v i l   p a r a   e d u c a c i ó n   y   c o n t r o l   d e
+p e r s o n a s   c o n   d i a b e t e s :
+A d m i n i s t r a c i ó n ,   P l a n e a c i ó n ,   A n á l i s i s ,   D i s e ñ o ,   C o n s t r u c c i ó n ,   P r u e b a s
+H e r r a m i e n t a s / H a b i l i d a d e s :
+F l u t t e r ,   D a r t ,   A n d r o i d ,   F i r e B a s e
+P r á c t i c a s   P r o f e s i o n a l e s   U n i v e r s i d a d
+A u t ó n oM é r i d a   ­   S o f t w a r e   E n g i n e e r   ­   T r a i n e e D e :   S e p ,   2 0 2 1   A :   M a r ,   2 0 2 2
+D e s c r i p c i ó n :
+D e s a r r o l l o   d e   P l u g i n   p a r a   i m p l e m e n t a c i ó n   d e   S e g u n d o   F a c t o r   d e   A u t e n t i c a c i ó n   p a r a
+p l a t a f o r m a   d e   a p r e n d i z a j e   M o o d l e   u s a n d o   l a   s o l u c i ó n   F I D O 2   ( W e b A u t h n   d e   W 3 C   y   C T A P   d e   F I D O
+A l l i a n c e )
+H e r r a m i e n t a s / H a b i l i d a d e s :
+P H P ,   M o o d l e ,   J a v a s c r i p t
+P a n i f i c a c i ó n   C a s t i l l o M é r i d a   ­   A u x i l i a r   d e   L o g í s t i c a D e :   D e c ,   2 0 1 9   A :   M a r ,   2 0 2 1
+D e s c r i p c i ó n :
+C o m p r a ,   d i v i s i ó n   y   r e p a r t i c i ó n   d e   i n s u m o s   a   d i f e r e n t e s   s u c u r s a l e s ,   r e v i s i ó n   y   c o n t r o l   d e
+c a l i d a d   d e   p r o d u c c i ó n ,   a d m i n i s t r a c i ó n   d e   i n v e n t a r i o   y ,   c o o r d i n a c i ó n   y   a d m i n i s t r a c i ó n   d e   p e r s o n a l .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+M S   E x c e l
+U n i v e r s i d a d   A u t ó n o m a   d e   Y u c a t á n M é r i d a D e :   A u g ,   2 0 1 9   A :   D e c ,   2 0 2 3
+L i c e n c i a t u r a   e n   I n g e n i e r í a   d e
+S o f t w a r e
+I n g e n i e r í a   d e   S o f t w a r e   ( P a s a n t e ) .   P r o n t a   t i t u l a c i ó n .
+C o u r s e :   J a v a   P r o g r a m m i n g   f o r   C o m p l e t e   B e g i n n e r s U d e m y J a n ,   2 0 2 6
+C o u r s e :   M i c r o s e r v i c e s   A r c h i t e c t u r e   ­   T h e   C o m p l e t e   G u i U d e m y J a n ,   2 0 2 6
+C o u r s e :   M i c r o s e r v i c e s :   D e s i g n i n g   H i g h l y   S c a l a b l e   S y s t U d e m y J a n ,   2 0 2 6
+C o u r s e :   M a s t e r   M i c r o s e r v i c e s   w i t h   S p r i n g   B o o t   a n d   S p r U d e m y J a n ,   2 0 2 6
+C o u r s e :   A p p D e v   B o o t c a m p   R e s k i l l i n g   J a v C o b S o f t t e k J u l ,   2 0 2 4
+C o u r s e :   H T M L ,   C S S ,   J a v a S c r i p t   ( J a v a S c r i p t ,   P r o g r a m a c U d e m y D e c ,   2 0 2 3
+C o u r s e :   P D S S   v 3 ,   P D S S   Á g i l ,   A g i l e   S o f t t e k   F r a m e w o r k M y T a l e n t   ­   S o f t t e k D e c ,   2 0 2 3
+C o u r s e :   D e s a r r o l l o   d e   M i c r o s e r v i c i o s   c o n   J a v a   ( e n   c o l U A D Y J u n ,   2 0 2 3
+C e r t i f i c a t i o n :   G o o g l e ´ s   A p p l y i n g   P r o j e c t   M a n a g e m e n t   i n   t h e   R C o u r s e r a A p r ,   2 0 2 3
+C e r t i f i c a t i o n :   G o o g l e ´ s   A p p l y i n g   P r o j e c t   M a n a g e m e n t   i n   t h e   R C o u r s e r a A p r ,   2 0 2 3
+C e r t i f i c a t i o n :   G o o g l e ´ s   P r o j e c t   E x e c u t i o n :   R u n n i n g   t h e   P r o j e C o u r s e r a M a r ,   2 0 2 3
+C o u r s e :   G o o g l e ´ s   P r o j e c t   P l a n n i n g :   P u t t i n g   A l l   T o g e t h C o u r s e r a F e b ,   2 0 2 3
+C o u r s e :   G o o g l e ´ s   P r o j e c t   I n i t i a t i o n :   S t a r t i n g   a   S u c c e C o u r s e r a F e b ,   2 0 2 3
+C o u r s e :   G o o g l e ´ s   F o u n d a t i o n s   o f   P r o j e c t   M a n a g e m e n C o u r s e r a F e b ,   2 0 2 3
+
+--- Página 3 ---
+
+H A B I L I D A D E S   T É C N I C A S / G E R E N C I A L E SE n g l i s h A u t o   E v a l u a d o A d v a n c e d   8 0 ­ 9 5 %
+G e r m a n A u t o   E v a l u a d o U p p e r   I n t e r m e d i a t e   5 1 ­ 7 9 %
+W O R K B E N C H   T r a i n e e   ( 0 ­ 1   Y o E )
+W e b E n a b l e r   T r a i n e e   ( 0 ­ 1   Y o E )
+V i s u a l S t u d i o   C o d e   S e n i o r   ( 4 ­ 6   Y o E )
+U n i s y s   T r a i n e e   ( 0 ­ 1   Y o E )
+T y p e S c r i p t   T r a i n e e   ( 0 ­ 1   Y o E )
+T o m c a t   9   T r a i n e e   ( 0 ­ 1   Y o E )
+T e c t i a   J u n i o r   ( 1 ­ 2   Y o E )
+S p r i n g   F r a m e w o r k   ­   W e b   S e r v i c e s   T r a i n e e   ( 0 ­ 1   Y o E )
+S p r i n g   F r a m e w o r k   T r a i n e e   ( 0 ­ 1   Y o E )
+S p r i n g   B O O T   T r a i n e e   ( 0 ­ 1   Y o E )
+R E H L 8   J u n i o r   ( 1 ­ 2   Y o E )
+R e a c t J S   T r a i n e e   ( 0 ­ 1   Y o E )
+P o s t g r e S Q L   T r a i n e e   ( 0 ­ 1   Y o E )
+P i n g A c c e s s   T r a i n e e   ( 0 ­ 1   Y o E )
+P H P   T r a i n e e   ( 0 ­ 1   Y o E )
+N o t e p a d + +   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M y S Q L   J u n i o r   ( 1 ­ 2   Y o E )
+M S   E x c e l   T r a i n e e   ( 0 ­ 1   Y o E )
+M o o d l e   T r a i n e e   ( 0 ­ 1   Y o E )
+J u l i a   T r a i n e e   ( 0 ­ 1   Y o E )
+J a v a s c r i p t   T r a i n e e   ( 0 ­ 1   Y o E )
+J a v a   P e r s i s t e n c e   A P I   ( J P A )   T r a i n e e   ( 0 ­ 1   Y o E )
+J a v a   8   J u n i o r   ( 1 ­ 2   Y o E )
+J a v a   J u n i o r   ( 1 ­ 2   Y o E )
+H T M L 5   J u n i o r   ( 1 ­ 2   Y o E )
+H i b e r n a t e   T r a i n e e   ( 0 ­ 1   Y o E )
+G i t   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+F l u t t e r   T r a i n e e   ( 0 ­ 1   Y o E )
+F i r e B a s e   T r a i n e e   ( 0 ­ 1   Y o E )
+E n t e r p r i s e   P r o j e c t   M a n a g e m e n t   T r a i n e e   ( 0 ­ 1   Y o E )
+E c l i p s e   J u n i o r   ( 1 ­ 2   Y o E )
+D M S I I   T r a i n e e   ( 0 ­ 1   Y o E )
+D a r t   T r a i n e e   ( 0 ­ 1   Y o E )
+C S S / C S S 3   T r a i n e e   ( 0 ­ 1   Y o E )
+C o o r d i n a c i ó n   J u n i o r   ( 1 ­ 2   Y o E )
+C o n n e c t : D i r e c t   J u n i o r   ( 1 ­ 2   Y o E )
+C o l a b o r a c i ó n   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+C o b o l 7 4   T r a i n e e   ( 0 ­ 1   Y o E )
+C A N D E   T r a i n e e   ( 0 ­ 1   Y o E )
+A u t o s y s   J u n i o r   ( 1 ­ 2   Y o E )
+A n d r o i d   T r a i n e e   ( 0 ­ 1   Y o E )
+A g i l e   T r a i n e e   ( 0 ­ 1   Y o E )
+A D M W I N   T r a i n e e   ( 0 ­ 1   Y o E )
+
+--- Página 4 (OCR) ---
+

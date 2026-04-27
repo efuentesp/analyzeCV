@@ -1,0 +1,90 @@
+David Jesus Rios García
+Ingeniero de Datos BI Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 2 años de experiencia en el análisis de grandes volúmenes de datos y en el desarrollo de soluciones de Inteligencia de Negocio. Responsable de la construcción de soluciones de datos, asegurando la implementación y uso de arquitecturas de datos para la recolección, almacenamiento y procesamiento de grandes volúmenes de información, participando en la toma de decisiones tecnológicas mediante el uso y/o adaptación de herramientas, frameworks y estándares, así como brindar apoyo al equipo técnico en la optimización y gestión eficiente de los datos para soluciones de Inteligencia de Negocio.
+
+A lo largo de mi trayectoria he participado en el diseño y operación de pipelines ETL (Extraer, Transformar y Cargar), integración de fuentes heterogéneas y despliegue de modelos en producción, enfocándome en garantizar calidad y disponibilidad de datos. Aplico prácticas DevOps Foundation (DFPC) (Prácticas para integración continua, entrega continua y colaboración Dev–Ops) y de monitoreo para mantener la continuidad del servicio y mejorar la eficiencia en procesos de ingesta y procesamiento de datos.
+EXPERIENCIA LABORAL
+Empresa
+Citibanamex | Puesto
+Ingeniero de Aprendizaje Automático | Desde:
+3 abril 2023 | Hasta: 
+31 diciembre 2024
+Actividades Principales | • Diseño, construyo, optimizo y mantengo infraestructuras y soluciones tecnológicas que recolectan, almacenan, procesan y permiten acceder a grandes volúmenes de datos de manera eficiente, segura y escalable. Cuento con habilidades en el diseño e implementación de procesos ETL (Extraer, Transformar y Cargar) para el procesamiento de grandes volúmenes de información, así como en la definición, construcción y mantenimiento de estructuras de almacenamiento que aseguran la eficiencia de las soluciones de Inteligencia de Negocio.
+• Apoyo en el diseño y construcción de procesos de integración de datos (ETL/ELT).
+• Desarrollo y mantengo pipelines de datos para la ingesta, transformación y carga de información.
+• Colaboro en la definición y mantenimiento de estructuras de almacenamiento (Data Warehouse, Data Lake).
+• Aseguro la calidad, integridad y consistencia de los datos procesados.
+• Optimizo consultas y procesos de carga para mejorar el rendimiento de las soluciones.
+• Apoyo en la documentación de flujos, procesos y modelos de datos.
+• Monitoreo la ejecución de procesos de datos y atiendo incidencias básicas.
+• Colaboro con equipos de BI y analítica para la correcta disponibilidad de la información.
+• Aplico buenas prácticas en el manejo, seguridad y gobierno de datos.
+• Resuelvo problemas relacionados con la integración, procesamiento y calidad de datos, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en soluciones de Ingeniería de Datos para Inteligencia de Negocio.
+• He usado la certificación Python Institute PCEP en el uso de fundamentos del lenguaje Python.
+• He implementado la certificación MDM 101 en la comprensión de fundamentos y soluciones de Master Data Management.
+• He usado la certificación Google Desarrollo Web en la creación de aplicaciones web.
+• He implementado la certificación CONOCER en la gestión del trabajo por proyectos.
+• He usado el curso Desarrollador Front-end en la construcción de interfaces de usuario.
+• He implementado el curso Desarrollador Back-end en el desarrollo de lógica y servicios del lado del servidor.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Valido y evalúo la eficacia de los modelos mediante métricas apropiadas y realizo ajustes según sea necesario.
+• Desarrollo software e implemento módulos en modelos existentes.
+• Diseño modelos, selecciono y optimizo los modelos apropiados para abordar los problemas en cuestión.
+• Automatizo procesos e implemento soluciones automatizadas.
+• Creo y mantengo documentación detallada de la arquitectura de datos, procesos Extraer, Transformar y Cargar (ETL) y otros aspectos relevantes para el negocio.
+• Superviso el rendimiento de los modelos en producción, realizando actualizaciones y ajustes para mantener su efectividad.
+• Investigo y me mantengo al tanto de avances tecnológicos que puedan mejorar el desarrollo de modelos y propongo mejoras al equipo.
+• Diseñé, construí y mantuve pipelines Extraer, Transformar y Cargar (ETL) para la gestión y procesamiento de datos.
+• Integré datos de sistemas y fuentes diversas, asegurando consistencia y calidad a lo largo del proceso.
+• Optimicé el rendimiento de las operaciones de procesamiento de datos y automatizé soluciones para agilizar procesos.
+• Me mantuve al día con las últimas tecnologías y evalué su potencial de implementación, además de crear y mantener documentación detallada de la arquitectura de datos y procesos ETL (Extraer, Transformar y Cargar)
+Empresa
+Nacional Monte de Piedad | Puesto
+Ingeniero de Datos | Desde:
+1 julio 2022 | Hasta: 
+30 abril 2023
+Actividades Principales | • Diseñé, construí y mantuve pipelines Extraer, Transformar y Cargar (ETL) para la gestión y procesamiento de datos.
+• Integré datos de sistemas y fuentes diversas, asegurando consistencia y calidad a lo largo del proceso.
+• Optimicé el rendimiento de las operaciones de procesamiento de datos y automatizé soluciones para agilizar procesos.
+• Me mantuve al día con las últimas tecnologías y evalué su potencial de implementación, además de crear y mantener documentación detallada de la arquitectura de datos y procesos ETL (Extraer, Transformar y Cargar)
+HERRAMIENTAS CONOCIDAS
+- Hive
+- Hadoop
+- NoSQL
+- Python
+- Spark
+- PySpark
+- Git
+- Microsoft SQL Server
+- PostgreSQL
+- Azure
+- Azure Databricks
+- Azure Data Factory
+- Azure Data Lake
+- ETL
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 02 enero de 2021 hasta 30 abril de 2022
+Durante este período asumí responsabilidades relacionadas con el desarrollo y soporte de aplicaciones web, diseño y gestión de bases de datos y generación de reportes. Me desempeñé como Desarrollador Full Stack, participando en la implementación de funcionalidades, optimización de fuentes de datos y creación de APIs. Mantuve colaboración con equipos de producto para asegurar la continuidad operativa y la correcta integración con aplicaciones móviles.
+FORMACIÓN ACADÉMICA:
+Licenciatura en Ingeniería en Computación - septiembre 2017 - diciembre 2020 | Universidad Politécnica del Valle de México | Cédula Profesional
+12708100
+8/2/2022
+CERTIFICACIONES
+- Python | 2025
+- Python Institute PCEP | 2024
+- MDM 101 - MDM Solution Fundamentals | 2025
+- Google DesarrolloWeb | 2023
+- Conocer GestionDeTrabajoPorProyectos | 2020
+CURSOS
+- Desarrollador Front-end
+- Desarrollador Back-end
+______________________________________
+David Jesus Rios García
+Ingeniero de Datos BI Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

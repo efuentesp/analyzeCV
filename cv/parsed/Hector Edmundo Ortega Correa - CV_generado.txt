@@ -1,0 +1,163 @@
+Hector Edmundo Ortega Correa
+Desarrollador Junior BI
+FUNCIONES
+Desarrollo e implemento sistemas mediante el uso de lenguajes de programación, realizando su puesta a punto para asegurar su correcto funcionamiento. Cuento con experiencia en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, participo en el desarrollo, mantenimiento y soporte de procesos ETL (Extract, Transform, Load) y utilizo herramientas de Business Intelligence como Databricks y Fabric.
+Me enfoco en el análisis, integración y explotación de información para tableros e indicadores, con experiencia en SQL Server, Oracle, SSIS, ODI, SAS y Tableau. También he participado en la construcción de capas Staging, ODS y Data Mart, así como en la documentación de reglas de negocio, matrices origen-destino y procesos de carga y transformación de datos.
+EXPERIENCIA PROFESIONAL
+Tengo más de 2 años de experiencia en desarrollo de servicios y aplicaciones web, dashboards interactivos, tableros, informes automáticos y reportes. Genero soluciones de Inteligencia de Negocio mediante el desarrollo y mantenimiento de procesos y componentes de datos, implementando flujos de Extraer, Transformar y Cargar (ETL) y modelos de información conforme a especificaciones técnicas, apegándome a estándares, arquitecturas y buenas prácticas de desarrollo, apoyando la calidad y la correcta ejecución de las soluciones bajo supervisión.
+
+Me especializo en análisis, integración y explotación de información para tableros e indicadores, con experiencia en SQL Server (Motor de base de datos para consultas y validaciones), Oracle, SSIS (Herramienta ETL de Microsoft para integración de datos), ODI, SAS y Tableau. He participado en la construcción de capas Staging, ODS y Data Mart, así como en la documentación de reglas de negocio, matrices origen-destino y procesos de carga y transformación de datos.
+
+También he colaborado en migración de tableros, automatización de consultas, validación de cifras y soporte a procesos analíticos en telecomunicaciones, salud, banca, seguros y retail. Mi experiencia combina modelado de datos, integración de fuentes, monitoreo operativo y generación de información para apoyar la toma de decisiones.
+EXPERIENCIA LABORAL
+Empresa
+Softtek CDMX - IFT | Puesto
+Analista | Desde:
+1 febrero 2023 | Hasta: 
+30 abril 2024
+Actividades Principales | • Creo sistemas de software, los implemento y realizo su puesta a punto para que sean funcionales, utilizando diversos lenguajes de programación. Cuento con habilidades en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, desarrollo, doy mantenimiento y brindo soporte a procesos de Extraer, Transformar y Cargar (ETL), y manejo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.
+• Desarrollo e implemento sistemas y componentes de software para soluciones de Inteligencia de Negocio.
+• Apoyo en la puesta a punto y el correcto funcionamiento de las soluciones desarrolladas.
+• Desarrollo, mantengo y doy soporte a procesos de Extraer, Transformar y Cargar (ETL) para la integración y transformación de datos.
+• Colaboro en el modelado de datos utilizando bases de datos relacionales y no relacionales.
+• Apoyo en la construcción de estructuras de datos para soluciones analíticas y de BI.
+• Utilizo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric para el procesamiento y análisis de información.
+• Atiendo incidencias básicas y doy soporte a los procesos y soluciones implementadas.
+• Aplico buenas prácticas de desarrollo y lineamientos definidos por el equipo.
+• Colaboro con equipos de trabajo para asegurar la correcta ejecución de las soluciones.
+• Documento procesos, desarrollos y configuraciones para asegurar su entendimiento y mantenimiento.
+• Resuelvo problemas relacionados con el desarrollo, integración y procesamiento de datos en soluciones de Inteligencia de Negocio, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en el desarrollo de soluciones BI.
+• He aplicado el curso Analítica de Datos para la Toma de Decisiones usando Excel para analizar información y apoyar la toma de decisiones mediante herramientas de Excel
+• He aplicado el curso Power BI – Análisis de Datos y Business Intelligence para crear reportes y dashboards orientados al análisis de datos empresariales
+• He puesto en práctica el curso Azure Data Factory for Data Engineers para desarrollar pipelines de datos utilizando Azure Data Factory en un proyecto práctico
+• He puesto en práctica el curso Azure Databricks  Spark for Data Engineers para procesar y transformar datos utilizando Spark y Databricks
+• He aplicado el curso Beginner’s Guide to Data  Data Analytics para comprender los fundamentos del análisis de datos y su aplicación en entornos reales
+• He aplicado el curso Data Visualization  Storytelling para comunicar resultados de análisis de datos mediante visualizaciones efectivas
+• He puesto en práctica el curso Master en Power BI DAX para desarrollar métricas y modelos analíticos avanzados utilizando DAX
+• He aplicado el curso MongoDB – Aprende Base de Datos NoSQL desde cero para modelar y consultar bases de datos NoSQL utilizando MongoDB
+• He aplicado el curso Power Query para transformar y preparar datos en Excel y Power BI mediante procesos ETL
+• He aplicado el curso SAP HANA para comprender la arquitectura y el uso de la plataforma SAP HANA en entornos empresariales
+• He puesto en práctica el curso QlikView Avanzado para desarrollar soluciones analíticas avanzadas utilizando QlikView
+• He aplicado el curso Comienza con QlikView para diseñar dashboards y aplicaciones analíticas desde cero
+• He aplicado el curso Business English: Meetings para mejorar la comunicación profesional en reuniones de trabajo en inglés
+• He aplicado el curso Business English: Networking para fortalecer habilidades de comunicación en contextos profesionales y de networking
+• He aplicado el curso IICS Cloud Data Integration Services para desarrollar integraciones de datos en la nube utilizando Informatica
+• He usado el curso Hands‑On Essentials – Data Warehouse para aplicar fundamentos de modelado y análisis de datos en entornos Snowflake
+• He aplicado el curso ODI 11g Hands On Tutorials para desarrollar e implementar integraciones de datos utilizando Oracle Data Integrator 11g
+• He usado el curso QlikView Developer para desarrollar soluciones analíticas y dashboards utilizando la plataforma QlikView
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Analizo los procedimientos para consolidar, procesar y publicar la información proporcionada por Operadores nacionales de telecomunicaciones, así como de reguladores internacionales de la industria, para la alimentación de tableros y dashboards en el portal BIT - Banco de Información de Telecomunicaciones.
+• Analizo las secciones del Portal BIT para la identificación de tableros y dashboards requeridos, así como el nivel de complejidad para su desarrollo e implementación, de acuerdo al sector o sección correspondiente.
+• Reviso y analizo los procesos automatizados actuales en la plataforma SAS del cliente, así como los diferentes módulos que conforman el portal BIT, para crear la estructura de los 3 esquemas de bases de datos, capa Staging, ODS y Data Mart, en los servidores de Desarrollo de SQL Server (Motor de base de datos para consultas y validaciones).
+• Realizo la carga de fuentes de información e insumos, a través de scripts implementados con PowerShell, hacia la capa Staging del servidor de Desarrollo.
+• Creo scripts para las transformaciones de datos desde la capa ODS y Data Mart.
+• Desarrollo procesos de Extraer, Transformar y Cargar (ETL) en SSIS (Herramienta ETL de Microsoft para integración de datos) para la extracción, transformación y carga de información hacia los 3 esquemas de bases de datos, capa Staging, ODS y Data Mart, en los servidores de Aseguramiento de la Calidad (QA) de SQL Server (Motor de base de datos para consultas y validaciones).
+• Documento fuentes de información, archivos de presentación que conforman el acervo estadístico del Instituto, catálogos de claves de información del IFT y archivos de trabajo complementarios para los procesos de telecomunicaciones fijas y móviles.
+• Documento reglas de negocio y workflows, a partir de los scripts existentes dentro de la plataforma SAS.
+• Documento matrices Origen-Destino para integrar la capa Staging dentro del servidor de Desarrollo.
+• Apoyo en actividades de monitoreo de usuarios, sesiones y procesos actuales en la instancia de SQL Server (Motor de base de datos para consultas y validaciones) Aseguramiento de la Calidad (QA).
+• Analizo, desarrollo y documento procesos para la integración de datos proveniente de 164 archivos de presentación entregados por los Operadores de telecomunicaciones, partiendo desde la etapa de carga y validación de datos hasta la conformación de tablas finales con cifras validadas.
+• Llevo a cabo las sesiones de entendimiento técnico y Knowledge Transfer de los procesos desarrollados con los usuarios finales.
+• Analizo los procesos involucrados para la generación mensual del Tablero de Indicadores para la Dirección de Innovación y Desarrollo Tecnológico, y que hoy es controlado por la División de Arquitectura, en el cual se concentra la medición de diversos Trámites y Servicios Digitales administrados por el Instituto.
+• Documento matriz Origen-Destino para el repositorio de información que conforma el Data Mart AFICOBRANZA, utilizado para consulta de los usuarios del Instituto.
+• Genero manualmente métricas para diversos Trámites y Servicios Digitales, a través de informes o reportes solicitados por las distintas coordinaciones y divisiones del Instituto.
+• Apoyo en actividades para la migración de tableros analíticos desarrollados a partir de versiones antiguas de Tableau y su actualización a versiones más recientes de la plataforma, así como en la creación de perfiles para el acceso a los mismos, incluyendo permisos y definición de grupos de usuarios y roles.
+• Apoyo en actividades de análisis para la migración de información de la Base de Datos del aplicativo SIMOC hacia el sistema de aplicaciones de procesamiento distribuido de datos Hadoop, incluyendo revisión de entidades y campos con los usuarios responsables del aplicativo, llenado de matriz de ingesta para fuente de datos, automatización de fuente PAU en Hadoop, codificación de archivos Sqoop, Hql y shell en plataforma MobaXterm (Terminal SSH con herramientas UNIX), y configuración de objetos y rutas dentro de la plataforma online NiFi del Instituto.
+• Analizo y defino los requerimientos y las reglas de negocio para automatizar la consulta de cifras del Informe de Labores y Programa de Actividades del Instituto Mexicano del Seguro Social, el cual concentra el performance de un conjunto de Trámites y Servicios Digitales administrados por la Dirección de Innovación y Desarrollo Tecnológico.
+• Apoyo en actividades para el desarrollo de un proceso automatizado en Oracle Data Integrator, que permita extraer los datos correspondientes a los Cursos en Línea del Instituto.
+Empresa
+Softtek Ciudad de México | Puesto
+Proyecto IMSS Inteligente los Datos Hablan | Desde:
+2 diciembre 2019 | Hasta: 
+31 diciembre 2022
+Actividades Principales | • Analizo los procesos involucrados para la generación mensual del Tablero de Indicadores para la Dirección de Innovación y Desarrollo Tecnológico, y que hoy es controlado por la División de Arquitectura, en el cual se concentra la medición de diversos Trámites y Servicios Digitales administrados por el Instituto.
+• Documento matriz Origen-Destino para el repositorio de información que conforma el Data Mart AFICOBRANZA, utilizado para consulta de los usuarios del Instituto.
+• Genero manualmente métricas para diversos Trámites y Servicios Digitales, a través de informes o reportes solicitados por las distintas coordinaciones y divisiones del Instituto.
+• Apoyo en actividades para la migración de tableros analíticos desarrollados a partir de versiones antiguas de Tableau y su actualización a versiones más recientes de la plataforma, así como en la creación de perfiles para el acceso a los mismos, incluyendo permisos y definición de grupos de usuarios y roles.
+• Apoyo en actividades de análisis para la migración de información de la Base de Datos del aplicativo SIMOC hacia el sistema de aplicaciones de procesamiento distribuido de datos Hadoop, incluyendo revisión de entidades y campos con los usuarios responsables del aplicativo, llenado de matriz de ingesta para fuente de datos, automatización de fuente PAU en Hadoop, codificación de archivos Sqoop, Hql y shell en plataforma MobaXterm (Terminal SSH con herramientas UNIX), y configuración de objetos y rutas dentro de la plataforma online NiFi del Instituto.
+• Analizo y defino los requerimientos y las reglas de negocio para automatizar la consulta de cifras del Informe de Labores y Programa de Actividades del Instituto Mexicano del Seguro Social, el cual concentra el performance de un conjunto de Trámites y Servicios Digitales administrados por la Dirección de Innovación y Desarrollo Tecnológico.
+• Apoyo en actividades para el desarrollo de un proceso automatizado en Oracle Data Integrator, que permita extraer los datos correspondientes a los Cursos en Línea del Instituto.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Analítica de Datos para la Toma de Decisiones usando Excel
+- Curso Power BI - Análisis de Datos y Business Intelligence
+- Azure Data Factory for Data Engineers - Project on Covid-19
+- Azure Databricks  Spark for Data Engineers: Hands-on Project
+- Beginner's Guide to Data  Data Analytics (SF Data School)
+- Data Visualization  Storytelling
+- Master en Power BI DAX
+- MongoDB - Aprende Base de Datos NoSQL desde cero
+- Power Query - Transformación de datos en Excel y Power BI
+- SAP HANA: La nueva plataforma tecnológica de SAP
+- QlikView Avanzado: Mejora tus habilidades con QlikView
+- Comienza con QlikView: Aprende diseñando
+- Business English: Meetings (University of Washington - Coursera)
+- Business English: Networking (University of Washington - Coursera)
+- IICS: Cloud Data Integration Services R41 (onDemand)
+- ODI 11g Hands On Tutorials
+- QlikView Developer - Certificado Desarrollador QlikView
+- Hands-On Essentials - Data Warehouse (Snowflake)
+- SAS Enterprise Guide
+- Microsoft SQL Server
+- Microsoft SQL Server Integration Services (SSIS)
+- PowerShell
+- Oracle SQL Developer
+- WinSCP
+- Tableau Desktop
+- Oracle Data Integrator 11g
+- MobaXterm
+- DBeaver
+- Hadoop
+- NiFi
+- Oracle SQL Developer Data Modeler
+- HP Vertica
+- Informatica Analyst
+- Informatica Developer
+- Informatica Power Center Express
+- Reporting Services 2010
+- SAP HANA Studio
+- SAP Business Objects
+- IBM Informix
+- Teradata DB 13
+- Cognos Power Play 7
+- Cognos Impromptu Administrator 7.4
+- SharePoint 2007
+- Eclipse
+- Excel 2007
+- Access 2007
+- Internet Information Services (IIS) 6.0
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 septiembre de 2009 hasta 1 diciembre de 2019
+Durante este período me desempeñé en funciones como Analista de Help Desk, Analista de Bases de Datos, Consultor SQL (Lenguaje para gestión y consulta de bases de datos relacionales) y Analista de Data Mining. Asumí responsabilidades relacionadas con soporte operativo, análisis y explotación de información, documentación de procesos, mantenimiento de tableros, automatización de cargas y seguimiento de requerimientos para reportes e indicadores. También colaboré en actividades de integración de datos, validación de información, atención de incidencias y generación de insumos para distintas áreas de negocio, fortaleciendo mi experiencia en inteligencia de negocio y operación de datos.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciatura en Informática - agosto 2004 - febrero 2009 | Tecnológico de Estudios Superiores de Ixtapaluca, Ixtapaluca, Estado de México | Cédula Profesional
+6094843
+10/8/2009
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Analítica de Datos para la Toma de Decisiones usando Excel
+- Curso Power BI - Análisis de Datos y Business Intelligence
+- Azure Data Factory for Data Engineers - Project on Covid-19
+- Azure Databricks  Spark for Data Engineers: Hands-on Project
+- Beginner's Guide to Data  Data Analytics (SF Data School)
+- Data Visualization  Storytelling
+- Master en Power BI DAX
+- MongoDB - Aprende Base de Datos NoSQL desde cero
+- Power Query - Transformación de datos en Excel y Power BI
+- SAP HANA: La nueva plataforma tecnológica de SAP
+- QlikView Avanzado: Mejora tus habilidades con QlikView
+- Comienza con QlikView: Aprende diseñando
+- Business English: Meetings (University of Washington - Coursera)
+- Business English: Networking (University of Washington - Coursera)
+- IICS: Cloud Data Integration Services R41 (onDemand)
+- ODI 11g Hands On Tutorials
+- QlikView Developer - Certificado Desarrollador QlikView
+- Hands-On Essentials - Data Warehouse (Snowflake)
+______________________________________
+Hector Edmundo Ortega Correa
+Desarrollador Junior BI | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

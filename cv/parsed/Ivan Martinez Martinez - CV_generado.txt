@@ -1,0 +1,199 @@
+Ivan Martinez Martinez
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+He participado en soporte, mantenimiento y mejora de microservicios y aplicativos empresariales, atendiendo incidentes, vulnerabilidades, actualizaciones de código y despliegues en distintos ambientes. También colaboro en el análisis de código, stored procedures, pruebas funcionales y ajustes de interfaces para mantener la continuidad operativa y responder a los requerimientos de los usuarios.
+EXPERIENCIA PROFESIONAL
+Tengo más de 2 años de experiencia en programación con tecnologías de la Arquitectura de Referencia y de código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación de sistemas y en su puesta en funcionamiento mediante lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y tiempos establecidos dentro del plan de trabajo.
+
+He participado en soporte, mantenimiento y evolución de microservicios y aplicativos empresariales, atendiendo incidentes, vulnerabilidades, actualizaciones de código y despliegues en distintos ambientes. También he colaborado en el análisis de código, stored procedures, pruebas funcionales y adecuaciones de interfaces para dar continuidad operativa y responder a los requerimientos de los usuarios.
+
+Además, he contribuido en el desarrollo de nuevas funcionalidades, mantenimientos menores y documentación técnica dentro de equipos de trabajo, utilizando principalmente Java (Lenguaje de programación para desarrollo de aplicaciones) y tecnologías relacionadas. Mi trayectoria muestra participación constante en actividades de análisis, construcción y puesta en funcionamiento de soluciones, con apego a procesos, colaboración y seguimiento de buenas prácticas.
+EXPERIENCIA LABORAL
+Empresa
+Softtek asignado a la cuenta Banamex | Puesto
+Desarrollador | Desde:
+1 diciembre 2023 | Hasta:
+Actividades Principales | • Creo sistemas de software, los implemento y realizo su puesta a punto para que funcionen correctamente, todo ello mediante lenguajes de programación. Tengo habilidades en conceptos de programación y trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización, horarios, registro de actividades, estándares y buenas prácticas.
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso Sistema de Inventario de Activos con Visual Basic .NET y SQL para desarrollar aplicaciones de escritorio orientadas a la gestión de activos utilizando VB.NET y SQL
+• He puesto en práctica el curso Aprende Java con 100 ejercicios prácticos para reforzar la programación en Java mediante ejercicios aplicados e interfaces con JavaFX
+• He aplicado el curso Java 8 en adelante para utilizar características modernas del lenguaje Java a partir de la versión 8 en el desarrollo de aplicaciones
+• He puesto en práctica el curso Java a profundidad para profundizar en conceptos avanzados del lenguaje Java y su uso en aplicaciones robustas
+• He aplicado el curso Learn TIBCO BW 5 para implementar integraciones de servicios utilizando un ESB low‑code orientado a arquitecturas empresariales
+• He aplicado el curso Master Spring Boot 3  Spring Framework 6 with Java para desarrollar aplicaciones backend modernas en Java utilizando Spring Boot y Spring Framework
+• He puesto en práctica el curso Curso completo de programación C# en .NET para desarrollar aplicaciones utilizando el lenguaje C# y la plataforma .NET
+• He aplicado el curso Curso de Visual Studio Code para mejorar la productividad en el desarrollo de software mediante el uso eficiente del editor VS Code
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Realicé soporte a microservicios.
+• Realicé resolución de incidentes.
+• Realicé resolución de vulnerabilidades.
+• Realicé migración de microservicios de Java (Lenguaje de programación para desarrollo de aplicaciones) 8 a Java (Lenguaje de programación para desarrollo de aplicaciones) 17.
+• Realicé análisis de código y Stored Procedure.
+• Realicé despliegues en los ambientes DEV, Pruebas de Aceptación de Usuario (UAT) y PROD.
+• Desarrollé nuevas funcionalidades en los microservicios.
+• Realicé mantenimiento a los aplicativos solucionando los problemas, deprecados, vulnerabilidades.
+• Realicé resolución de problemas presentados por el usuario.
+• Realicé resolución de vulnerabilidades.
+• Actualicé código deprecado pasando a la versión 8.
+• Realicé análisis de código.
+• Realicé pruebas funcionales.
+• Realicé mantenimiento y soporte a la aplicación PCCA.
+• Realicé análisis de código del Portal Web PCCA y microservicios.
+• Preparé ambiente de desarrollo Aseguramiento de la Calidad (QA) y Pruebas de Aceptación de Usuario (UAT).
+• Realicé despliegue del Portal PCC en ambientes Aseguramiento de la Calidad (QA) y Pruebas de Aceptación de Usuario (UAT).
+• Realicé cambio de Look and Feel del Portal Web PCCA.
+• Realicé análisis y desarrollo para mantenimientos menores de acuerdo con los requerimientos del usuario.
+• Realicé análisis para el desarrollo de nuevas funcionalidades para el proyecto Carta Porte.
+• Realicé maquetado para nuevas pantallas para el sistema Carta Porte de acuerdo con los requerimientos.
+• Elaboré documentación técnica.
+• Elaboré diagramas de arquitectura.
+• Realicé pruebas unitarias.
+• Realicé análisis para el desarrollo de nuevas funcionalidades para el proyecto Tracking Status.
+• Desarrollé nuevas funcionalidades para el sistema Mis Compras de acuerdo con los requerimientos.
+• Realicé análisis para la creación de nuevas tablas.
+• Realicé modificaciones a stored procedure para los nuevos requerimientos.
+• Desarrollé diagramas Lenguaje Unificado de Modelado (UML).
+• Realicé acompañamiento de las pruebas Pruebas de Aceptación de Usuario (UAT).
+Empresa
+Softtek asignado a la cuenta BMV | Puesto
+Desarrollador | Desde:
+1 febrero 2023 | Hasta: 
+30 septiembre 2023
+Actividades Principales | • Realicé mantenimiento a los aplicativos solucionando los problemas, deprecados, vulnerabilidades.
+• Realicé resolución de problemas presentados por el usuario.
+• Realicé resolución de vulnerabilidades.
+• Actualicé código deprecado pasando a la versión 8.
+• Realicé análisis de código.
+• Realicé pruebas funcionales.
+Empresa
+Softtek asignado a la cuenta IMSS | Puesto
+Desarrollador | Desde:
+1 agosto 2022 | Hasta: 
+31 diciembre 2022
+Actividades Principales | • Realicé mantenimiento y soporte a la aplicación PCCA.
+• Realicé análisis de código del Portal Web PCCA y microservicios.
+• Preparé ambiente de desarrollo Aseguramiento de la Calidad (QA) y Pruebas de Aceptación de Usuario (UAT).
+• Realicé despliegue del Portal PCC en ambientes Aseguramiento de la Calidad (QA) y Pruebas de Aceptación de Usuario (UAT).
+• Realicé cambio de Look and Feel del Portal Web PCCA.
+• Realicé análisis y desarrollo para mantenimientos menores de acuerdo con los requerimientos del usuario.
+Empresa
+Softtek asignado a la cuenta DHL | Puesto
+Desarrollador | Desde:
+31 enero 2022 | Hasta: 
+30 junio 2022
+Actividades Principales | • Realicé análisis para el desarrollo de nuevas funcionalidades para el proyecto Carta Porte.
+• Realicé maquetado para nuevas pantallas para el sistema Carta Porte de acuerdo con los requerimientos.
+• Elaboré documentación técnica.
+• Elaboré diagramas de arquitectura.
+• Realicé pruebas unitarias.
+Empresa
+Softtek asignado a la cuenta Element | Puesto
+Desarrollador | Desde:
+1 septiembre 2021 | Hasta: 
+28 enero 2022
+Actividades Principales | • Realicé análisis para el desarrollo de nuevas funcionalidades para el proyecto Tracking Status.
+• Desarrollé nuevas funcionalidades para el sistema Mis Compras de acuerdo con los requerimientos.
+• Realicé análisis para la creación de nuevas tablas.
+• Realicé modificaciones a stored procedure para los nuevos requerimientos.
+• Desarrollé diagramas Lenguaje Unificado de Modelado (UML).
+• Realicé acompañamiento de las pruebas Pruebas de Aceptación de Usuario (UAT).
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Sistema de Inventario de Activos con Visual Basic .NET y SQL
+- Aprende Java con 100 ejercicios prácticos (Incluye JavaFX)
+- Java 8 en adelante, actualizando el lenguaje
+- Java a profundidad
+- Learn TIBCO BW 5: a low‑code ESB for Services Integration
+- [NEW] Master Spring Boot 3  Spring Framework 6 with Java
+- Curso completo programación C# en .NET y muchísimo más
+- Curso de Visual Studio Code: 80 Trucos de productividad
+- Java
+- Java EE
+- JSF
+- Struts 1
+- Struts 2
+- Spring MVC
+- Spring Boot
+- JSP
+- Servlets
+- jQuery
+- JavaScript
+- CSS
+- HTML 5
+- ASP clásico
+- Git
+- SQL Server
+- BlackDuck
+- Jenkins
+- Oracle
+- Maven
+- JBoss
+- Prime Faces
+- Apache Tomcat
+- .NET Core
+- JPA
+- Visual Studio
+- Visual Studio Code
+- Umbrello
+- Informix
+- IIS
+- Hibernate
+- AngularJS
+- SoapUI
+- Eclipse
+- SqlDeveloper
+- React
+- Redux
+- Bootstrap
+- Jest
+- Enzyme
+- SonarQube
+- BlueMix
+- Pivotal Cloud Foundry
+- SyBase
+- MongoDB
+- Elixir
+- Nginx
+- Swing
+- PhpMyAdmin
+- MySQL
+- Centos
+- Windows
+- Linux
+- Log4J
+- iBatis
+- UML
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 agosto de 2016 hasta 31 julio de 2021
+Durante este período me desempeñé como Desarrollador, Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones), Desarrollador Front, Ingeniero de Soporte y Programador Analista Java (Lenguaje de programación para desarrollo de aplicaciones), asumiendo responsabilidades orientadas al desarrollo, mantenimiento, soporte y mejora de aplicaciones. Participé en la atención de requerimientos, documentación, pruebas y seguimiento de actividades dentro de equipos de trabajo, colaborando en la continuidad operativa y en la entrega de soluciones para distintos contextos. También apoyé procesos de capacitación y acompañamiento funcional, manteniendo un enfoque de cumplimiento, orden y trabajo conjunto.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en Sistemas Computacionales - Septiembre 2005-agosto 2010 | Tecnológico de Estudios Superiores del Oriente del Estado de México | Cédula Profesional
+9642420
+14/12/2015
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Sistema de Inventario de Activos con Visual Basic .NET y SQL
+- Aprende Java con 100 ejercicios prácticos (Incluye JavaFX)
+- Java 8 en adelante, actualizando el lenguaje
+- Java a profundidad
+- Learn TIBCO BW 5: a low‑code ESB for Services Integration
+- [NEW] Master Spring Boot 3  Spring Framework 6 with Java
+- Curso completo programación C# en .NET y muchísimo más
+- Curso de Visual Studio Code: 80 Trucos de productividad
+______________________________________
+Ivan Martinez Martinez
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

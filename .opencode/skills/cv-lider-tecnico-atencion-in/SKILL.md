@@ -12,88 +12,16 @@ Analizar todo el CV y devolver únicamente un JSON válido con la estructura def
 
 ---
 
-# REGLAS GENERALES
+## REGLAS GENERALES DE PROCESAMIENTO
 
-- Usar solo información explícita.
-- No inferir, asumir, reinterpretar ni ampliar información.
-- No inventar fechas, duraciones ni métricas.
-- No dividir experiencias.
-- No dividir actividades.
-- Si un dato no existe:
-  - `""` para strings
-  - `[]` para arreglos
-- No agregar campos.
-- No modificar estructura.
-- **Debe redactarse todo estrictamente en primera persona.**
+Carga y lee completamente el archivo:
+`./steps/01-reglas-generales.md`
 
-## Formato de fechas laborales
-
-- Los campos `fecha_inicio` y `fecha_fin` deben expresarse como: 
-**{día en número} {mes en texto completo} {año}**
-- Ejemplo de formato final:  15 marzo 2024
-
-## Normalización de meses
-
-Si el mes aparece abreviado en el CV, expandirlo:
-
-ene→enero, feb→febrero, mar→marzo, abr→abril, may→mayo, jun→junio, jul→julio, ago→agosto, sep→septiembre, oct→octubre, nov→noviembre, dic→diciembre.
-
-Ejemplo:  
-ene 2025 → enero 2025
-
----
-
-## Regla cuando no se especifica el mes
-
-Si el CV **solo indica el año**:
-
-- Para `fecha_inicio` usar **enero**.
-- Para `fecha_fin` usar **diciembre**.
-
-Ejemplo:  
-2021 →  
-fecha_inicio: **2 enero 2021** *(primer día laborable disponible entre el 1 y el 4)*  
-fecha_fin: **31 diciembre 2021**
-
----
-
-## Regla para `fecha_inicio`
-
-Si el CV **no especifica el día**, asignar un día **entre el 1 y el 4 del mes**, asegurando que sea **día laborable (lunes a viernes)**.
-
-Reglas:
-- Seleccionar el primer día laborable disponible entre el 1 y el 4.
-- No modificar el mes ni el año indicados en el CV.
-
-Ejemplo:  
-marzo 2022 → **1 marzo 2022** *(si es laborable)*
-
----
-
-## Regla para `fecha_fin`
-
-Si el CV **no especifica el día**, asignar **siempre el último día del mes correspondiente**.
-
-Ejemplos:
-
-marzo 2024 → 31 marzo 2024  
-abril 2023 → 30 abril 2023  
-febrero 2025 → 28 febrero 2025
-
-No inferir ni modificar el **año** indicado en el CV.
-
----
-
-# REGLA DE SELECCIÓN DE ESTUDIOS
-
-En el campo `estudios` se debe registrar **únicamente el grado de nivel licenciatura o equivalente**.
-
-Reglas:
-- Seleccionar únicamente estudios cuyo nivel sea **Licenciatura, Ingeniería o equivalente universitario**.
-- No incluir **posgrados** como Maestrías, MBA, Doctorados, Especialidades o diplomados.
-- Si el CV contiene licenciatura y posgrado: Registrar **solo la licenciatura**.
-
----
+Estas reglas son **obligatorias y prioritarias**.
+Posteriormente:
+- Continúa con la ejecución de este documento.
+- Aplica ambas fuentes de instrucciones de forma conjunta.
+- En caso de conflicto, las reglas generales tienen prioridad.
 
 # FASE 1 — GENERACIÓN DEL RESUMEN PROFESIONAL
 
@@ -101,14 +29,13 @@ El campo **resumen_profesional** debe generarse bajo las siguientes reglas oblig
 
 # Frase inicial obligatoria
 
-El resumen **debe iniciar obligatoriamente con una paráfrasis muy ligera** (variación aproximada de 5 palabras) de la siguiente redacción base:
+El resumen **debe iniciar obligatoriamente con el siguiente parrafo**
 
-"Cuento con al menos 5 años de experiencia en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas. Domino las tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías de código abierto.
-Adicional: cuento con 3 años de experiencia en desarrollo en metodologías ágiles."
+"Cuento con más de 5 años de experiencia en desarrollo de software, liderazgo técnico y atención y resolución de problemas. Poseo dominio de tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source. Adicionalmente, tengo 3 años de experiencia trabajando bajo metodologías ágiles."
 
 Reglas para la paráfrasis:
 - La estructura general debe mantenerse.
-- Solo se permite una **variación ligera de vocabulario (aprox. 5 palabras)**.
+- Solo se permite una **variación ligera de vocabulario (aprox. 15 palabras)**.
 - No debe agregar información que no exista en el CV.
 - Esta frase funciona como **apertura del resumen profesional**.
 
@@ -117,15 +44,16 @@ Reglas para la paráfrasis:
 Después de la frase inicial, el resumen debe continuar con **dos párrafos narrativos** que sinteticen la experiencia del perfil.
 
 Reglas:
-- Deben generarse **dos párrafos**.
-- Cada párrafo debe tener **máximo 4 renglones**.
-- El resumen completo **no debe superar 160 palabras**.
+- Deben generarse **dos párrafos** cada uno con **máximo 4 renglones**.
+- El resumen completo **no debe superar 180 palabras**.
 - Debe redactarse en **prosa continua**.
 
 ## Reglas de contenido
 
 El resumen debe:
 - Considerar la totalidad de la experiencia laboral descrita.
+- Ser claro y comprensible para lectores no técnicos.
+- Sintetizar el perfil resaltando el valor aportado en términos de continuidad de servicios y cumplimiento de procesos.
 - Enfocarse en liderazgo y coordinación de equipos para la restauración de servicios ante fallas en aplicativos.
 - Destacar la toma de decisiones críticas, gestión de incidentes, comunicación efectiva y responsabilidades clave en la continuidad operativa del servicio.
 
@@ -139,12 +67,38 @@ El resumen **no debe**:
 
 ---
 
-## Criterios de claridad
+# FASE 1.5 — FUNCIONES
 
-El resumen debe:
-- Ser claro y comprensible para lectores no técnicos.
-- Sintetizar el perfil resaltando el valor aportado en términos de continuidad de servicios y cumplimiento de procesos.
-- Proyectar **seniority** cuando la experiencia lo respalde.
+El campo **funciones** debe generarse bajo las siguientes reglas obligatorias:
+
+## Estructura obligatoria
+
+La sección debe construirse en el siguiente orden:
+
+## Primer párrafo (fijo)
+
+Debe utilizarse exactamente la siguiente redacción:
+
+"Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos, evaluando la situación, tomando decisiones críticas y asegurando una comunicación efectiva para la resolución de incidentes. Cuento con habilidades en toma de decisiones y liderazgo."
+
+- No modificar redacción.
+- No parafrasear.
+- No dividir.
+
+## Segundo párrafo (paráfrasis controlada)
+
+Debe generarse exclusivamente a partir del **segundo párrafo construido en FASE 1 (es decir, el párrafo generado como resumen posterior al párrafo inicial obligatorio)**.
+
+Reglas:
+- Debe ser una **paráfrasis ligera**, permitiendo modificar **máximo 10 palabras** respecto al texto original.
+- Debe **conservar íntegramente el significado, intención y alcance** del párrafo base.
+- Debe redactarse en **primera persona**, manteniendo coherencia gramatical y narrativa.
+- **No debe agregar, omitir ni reinterpretar información**.
+- Debe mantenerse como **un solo párrafo continuo**, sin fragmentaciones, listas ni reestructuración del contenido.
+- Debe respetar el **orden lógico de las ideas** del texto original.
+
+---
+
 
 # FASE 2 — FILTRADO (SOLO SI rol_propuesto = "Lider Técnico de atención de incidentes")
 
@@ -183,106 +137,184 @@ Si no hay experiencia relevante:
 
 # FASE 2.1 — RESUMEN CONSOLIDADO DE EXPERIENCIA NO SELECCIONADA
 
-## Regla general
+Carga y lee completamente el archivo:
 
-Si existen experiencias laborales que:
-- No fueron incluidas en `experiencia_laboral` tras aplicar la regla de filtrado de FASE 2.
-- Sí existen explícitamente en el CV.
+`./steps/02.1-resumen-consolidado.md`
 
-No deben listarse individualmente.
-Deben consolidarse en:
-
+Ejecuta todas las instrucciones definidas en ese archivo como parte de esta fase.
+El resultado debe integrarse directamente en la salida final del JSON bajo los campos:
 - `periodo_resumen_laboral`
 - `resumen_laboral`
-
-## periodo_resumen_laboral
-
-Construir una frase con el siguiente formato obligatorio:
-
-"La experiencia abarca desde {fecha más antigua} hasta {fecha más reciente}"
-
-Reglas:
-- Tomar la `fecha_inicio` más antigua y la `fecha_fin` más reciente únicamente de las experiencias no seleccionadas.
-- Expresar el mes en texto y el año y el día en formato numérico (ejemplo: 01 diciembre de 2021).
-- No calcular duración en este campo.
-- No agregar texto adicional.
-- No modificar el formato de la frase.
-
-## resumen_laboral
-
-Redactar un párrafo en prosa que:
-- Sea claro y fácil de entender para un lector no técnico.
-- Use lenguaje sencillo y natural.
-- Sea formal y objetivo.
-- Usar primera persona.
-- No incluya actividades técnicas detalladas o métricas.
-
-Debe:
-- Explicar de manera general qué tipo de responsabilidades se asumieron.
-- Mencionar los roles desempeñados (solo nombres de puesto).
-- Omitir nombres de empresas.
-- No iniciar con "Profesional" o "Especialista".
-- Iniciar obligatoriamente con:
-  - "Durante este período..."  o  "En este periodo se desempeñaron funciones como..."
-
-Formato obligatorio:
-- Texto continuo (sin listas) con una extensión de **60 a 110 palabras**.
-- No incluir fechas específicas dentro del párrafo.
-- No repetir el texto de `periodo_resumen_laboral`.
-
-## Caso sin experiencias excluidas
-
-Si no existen experiencias fuera de `experiencia_laboral`:
-
-```json
-"periodo_resumen_laboral": "",
-"resumen_laboral": ""
-```
 
 # REGLA ESPECIAL — PARÁFRASIS INICIAL DE LA PRIMERA EXPERIENCIA
 
 Antes de listar cualquier actividad dentro de `actividades_principales` de la **primera experiencia laboral**, se debe agregar una **paráfrasis muy ligera** de la siguiente redacción base:
-
+<!-- Funciones del excel y definicion rol pdf -->
 "Dirijo y coordino a equipos de trabajo para restaurar un servicio ante fallas que se presenten en la operación de los aplicativos.
-Evalúo la situación, tomo decisiones críticas y aseguro la comunicación efectiva para resolver el incidente.
-Habilidades en: Toma de decisiones, Liderazgo."
+Evalúo la situación, tomo decisiones críticas y aseguro la comunicación efectiva para resolver el incidente. Habilidades en: Toma de decisiones, Liderazgo. Como líder técnico de atención de incidentes, planifico, controlo y doy seguimiento a la fase de resolución y estabilización, asegurando la correcta implementación de soluciones alineadas a la arquitectura de software, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación utilizando y/o adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de incidentes complejos para garantizar la continuidad operativa."
 
-## Reglas de la paráfrasis
-- Debe ser una **paráfrasis ligera** con un cambio aproximado de **5 a 10 palabras como máximo**.
-- Debe **mantener el mismo significado general**.
-- Debe **redactarse en primera persona**.
-- No debe agregar información que no esté implícita en la redacción base.
-- Debe colocarse **como la primera actividad dentro de `actividades_principales` de la primera experiencia laboral**.
-- Esta redacción **debe aparecer antes de cualquier otra actividad**.
+#### Reglas de la paráfrasis:
+- Debe ser una **paráfrasis ligera** (máximo ~5 palabras modificadas).
+- Debe **mantener el mismo significado**.
+- Debe estar en **primera persona**.
+- No debe **inventar ni agregar información**.
+- Debe colocarse **como la primera actividad** dentro de `actividades_principales`.
+
+---
+
+### 2. Inserción de actividades base adicionales
+
+**Inmediatamente después de la paráfrasis**, se deben agregar una parafrasis de **cada uno de los siguientes puntos como actividades independientes**:
+
+- Comprendo la propuesta de negocio y las necesidades del cliente, aplicándolas en la atención y resolución de incidentes en entornos productivos, especialmente en servicios y plataformas críticas.
+- Defino planes de trabajo detallados para la atención de incidentes, priorizando actividades conforme a su severidad (P1–P4) y asegurando el cumplimiento de SLA/OLA.
+- Estimo y asigno tareas técnicas necesarias para la resolución de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.
+- Colaboro con el arquitecto en la definición de soluciones técnicas durante incidentes, asegurando alineación con la arquitectura y estándares establecidos.
+- Aseguro la aplicación de estándares de codificación y bases de datos durante la implementación de soluciones correctivas.
+- Asesoro y coordino a ingenieros de software en la atención de incidentes, especialmente en escenarios críticos o de alta complejidad.
+- Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atención de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeño.
+- Administro la configuración de los componentes involucrados en la solución de incidentes, asegurando control y trazabilidad de cambios.
+- Desarrollo y/o coordino implementaciones de solución (fixes, hotfixes) para restaurar servicios afectados.
+- Aseguro la aplicación de checklists en la validación de soluciones antes de su liberación a producción.
+- Coordino la integración de componentes técnicos dentro de la arquitectura para garantizar una recuperación estable del servicio.
+- Defino prioridades en cada iteración de atención de incidentes, enfocándome en minimizar el impacto al negocio.
+- Promuevo la aplicación de patrones de diseño en las soluciones implementadas para evitar recurrencias.
+- Participo en la definición de esquemas de integración entre aplicaciones durante la resolución de incidentes.
+- Coordino la atención de incidentes críticos (Major Incidents), liderando convocatorias, toma de decisiones técnicas y comunicación durante la contingencia.
+- Identifico la causa raíz de incidentes y lidero análisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.
+- Trabajo en entornos de operación continua, asegurando la estabilidad y continuidad del servicio después de la resolución de incidentes.
+- Actúo como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.
+- Genero resultados medibles en la mejora de la operación, reduciendo tiempos de atención, reincidencias e impacto al negocio.
+- Mantengo una trayectoria continua en roles de atención y gestión de incidentes, consolidando experiencia en entornos productivos.
+
+#### Reglas:
+- Cada punto debe ser parafraseado de manera ligera (máximo ~3 palabras modificadas).
+- Cada punto debe ser una **actividad separada**.
+- Todas deben estar en **primera persona**.
+- No deben **fusionarse ni agruparse**.
+- Deben colocarse **antes de cualquier otra actividad existente** en la primera experiencia laboral.
+
+---
+
+### 3. Inserción de descripción de nivel de experiencia
+
+**Después de los puntos de la sección 2**, se debe agregar como **una actividad adicional independiente** el siguiente texto con una ligera paráfrasis:
+<!-- seniority del rol del pdf path carrera -->
+> "He participado en proyectos de más de 20 mil horas, donde lidero la atención de incidentes y defino soluciones para requerimientos no funcionales, asegurando la estabilidad y el correcto desempeño de los sistemas en producción. Además, planifico y coordino equipos de más de 15 ingenieros de software durante la resolución de incidentes, garantizando una ejecución eficiente y oportuna de las actividades."
+
+#### Reglas:
+- Debe ser parafraseado de manera ligera (máximo ~15 palabras modificadas).
+- Debe respetarse como **una sola actividad**.
+- Debe colocarse **antes de cualquier otra actividad original** de la experiencia.
+
+---
+
+### 4. Inserción de certificaciones y cursos
+
+Agregar como **actividades independientes** cada certificación o curso identificado en:
+`@cv/templates_input/certificaciones_cursos.txt`
+Para cada elemento, se debe buscar su descripción correspondiente en:
+`@cv/templates_input/herramientas_perfil.txt`
+
+#### Formato obligatorio:
+
+> "He usado la certificación [NOMBRE] {conector} [DESCRIPCIÓN]"
+
+#### Reglas:
+
+- Sustituye {conector} por unenlace natural, por ejemplo:
+  - como, para, que me ha permitido, etc.
+- Generar **una actividad por cada certificación y curso** identificado en `certificaciones_cursos.txt`.
+- Para cada elemento, realizar una **búsqueda por coincidencia de nombre** en `certificaciones.txt`.
+- La **descripción debe obtenerse del archivo de descripciones**, pero puede ajustarse mínimamente para integrarse de forma natural en la oración.
+- No inventar descripciones si no existe coincidencia.
+- Si **no se encuentra descripción**, no generar la actividad.
+- Mantener siempre la redacción en **primera persona**.
+- No duplicar certificaciones o cursos.
+- Insertar estas actividades **antes de cualquier actividad original**.
+- Mantener un orden consistente (orden de aparición en `certificaciones_cursos.txt`).
+
+#### Regla de correspondencia (muy importante):
+
+- La coincidencia debe ser por **nombre semánticamente equivalente**, por ejemplo:
+  - "Scrum Alliance" ↔ "Scrum Foundation (2020)"
+- Se permite normalizar:
+  - eliminar años  
+  - eliminar sufijos como "Foundation", "Certification", etc.  
+- No usar coincidencias ambiguas o dudosas.
+
+#### Ejemplo esperado:
+
+Entrada:
+- Scrum Alliance
+
+Definición encontrada:
+- Scrum Foundation (2020) → Fundamentos de metodologías ágiles basadas en Scrum, roles, eventos y artefactos
+
+Salida:
+
+> "He usado la certificación Scrum Alliance como fundamento para aplicar metodologías ágiles basadas en Scrum, considerando roles, eventos y artefactos."
+
+### 5. Inserción de procesos en los que participo
+
+**Después del punto 4**, se debe agregar el siguiente bloque como **actividades independientes**, respetando el orden:
+
+- Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+- CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.
+- STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.
+- STE: Ejecuto escenarios de prueba.
+- INT: Diseño y preparo testware.
+- UAT: Apoyo en las actividades de pruebas del usuario.
+
+#### Reglas:
+- Cada elemento debe representarse como una **actividad separada**.
+- Debe respetarse **exactamente el orden**.
+- Debe colocarse **antes de cualquier otra actividad original**.
+
+---
 
 # FASE 3 — GENERACIÓN Y CONSOLIDACIÓN DE ACTIVIDADES
 
 Esta fase se aplica **únicamente a las experiencias seleccionadas en FASE 2**.
-El objetivo es:
+
+## Objetivo
 1. Generar `actividades_principales` para cada experiencia.
 2. Consolidar todas las actividades dentro de la **primera experiencia (la más reciente)**.
 
-# Reglas de redacción
+---
+
+## Reglas de redacción
 
 Todas las actividades deben cumplir:
 - Redacción clara y formal.
 - Redacción **en primera persona**.
 - No reinterpretar funciones ambiguas.
 - No dividir, fusionar ni transformar actividades originales.
+- Respetar la redacción original de las actividades extraídas del CV.
 
-# Regla de consolidación
+---
+
+## Regla de consolidación
 
 La **primera experiencia laboral (la más reciente)** funciona como **contenedor consolidado de actividades**.
 
-Debe contener, en este orden:
-1. **Paráfrasis inicial obligatoria**  
-   (definida en `REGLA ESPECIAL — PARÁFRASIS INICIAL DE LA PRIMERA EXPERIENCIA`)
-2. **Actividades originales de esa experiencia**
+Debe construirse respetando estrictamente el siguiente orden:
+
+1. **Bloque obligatorio inicial completo**  
+   (definido en `REGLA ESPECIAL — PARÁFRASIS INICIAL DE LA PRIMERA EXPERIENCIA`, incluye):
+   - Paráfrasis inicial  
+   - Actividades base (parafraseadas)  
+   - Descripción de nivel de experiencia  
+   - Certificaciones y cursos  
+   - Procesos en los que participo  
+
+2. **Actividades originales de la primera experiencia**
+
 3. **Actividades de todas las demás experiencias seleccionadas**
 
-Las actividades de las experiencias posteriores se agregan **sin modificar su redacción**.
+---
 
-# Procedimiento
+## Procedimiento
 
 ### 1. Ordenar experiencias
 
@@ -293,29 +325,38 @@ Ordenar las experiencias seleccionadas **de la más reciente a la más antigua**
 Para cada experiencia:
 - Extraer sus actividades del CV.
 - Mantenerlas dentro de su experiencia correspondiente.
+- No modificar su redacción.
 
-### 3. Construir actividades de la primera experiencia
+### 3. Construcción de la primera experiencia (consolidación)
 
-La primera experiencia debe construirse así:
-1. Insertar la **paráfrasis inicial**.
+La primera experiencia debe construirse de la siguiente manera:
+
+1. Insertar el **bloque obligatorio completo** definido en la REGLA ESPECIAL (en el orden exacto).
 2. Agregar sus **actividades originales**.
 3. Agregar **todas las actividades de las demás experiencias**, respetando el orden cronológico:
+
 - experiencia 2  
 - experiencia 3  
 - experiencia 4  
 - etc.
 
-# Reglas de consistencia
+## Reglas de consistencia
 
 Durante la consolidación:
 - No eliminar actividades.
 - No resumir actividades.
 - No combinar actividades.
 - No modificar el orden interno de las actividades de cada experiencia.
-- No modificar la redacción.
+- No modificar la redacción de las actividades originales.
 - No duplicar actividades.
+- El bloque definido en la REGLA ESPECIAL es **obligatorio y no puede alterarse ni reordenarse**.
 
-# Ejemplo conceptual
+## Regla de prioridad
+
+En caso de conflicto:
+- La **REGLA ESPECIAL — PARÁFRASIS INICIAL DE LA PRIMERA EXPERIENCIA** tiene **prioridad absoluta** sobre cualquier otra instrucción de esta fase.
+
+## Ejemplo conceptual
 
 ```json
 {
@@ -326,7 +367,18 @@ Durante la consolidación:
       "fecha_inicio": "...",
       "fecha_fin": "...",
       "actividades_principales": [
-        "Paráfrasis inicial de liderazgo técnico...",
+        "Paráfrasis inicial...",
+        "Actividad base 1...",
+        "Actividad base 2...",
+        "Actividad base 3...",
+        "Nivel de experiencia...",
+        "He usado la certificación X ...",
+        "He usado la certificación Y ...",
+        "ENG: ...",
+        "ISP: ...",
+        "PTO: ...",
+        "FPT: ...",
+        "PCR: ...",
         "Actividad propia experiencia A",
         "Actividad propia experiencia A",
         "Actividad experiencia B",
@@ -350,44 +402,5 @@ Durante la consolidación:
 
 # FORMATO DE SALIDA
 
-```json
-{
-  "nombre": "",
-  "mail":"",
-  "genero":"",
-  "fecha_nacimiento":"",
-  "rfc":"",
-  "curp":"",
-  "no_cedula":"",
-  "fecha_cedula":"",
-  "rol_propuesto": "",
-  "resumen_profesional": "",
-  "experiencia_laboral": [
-    {
-      "empresa": "",
-      "puesto": "",
-      "fecha_inicio": "",
-      "fecha_fin": "",
-      "actividades_principales": []
-    }
-  ],
-  "periodo_resumen_laboral": "",
-  "resumen_laboral": "",
-  "estudios": {
-    "carrera": "",
-    "lugar": "",
-    "periodo": ""
-  },
-  "certificaciones": [
-    {
-      "nombre": "",
-      "anio": ""
-    }
-  ],
-  "cursos": [
-    {
-      "nombre": ""
-    }
-  ]
-}
-```
+El resultado final debe cumplir exactamente con lo definido en `./steps/03-formato-salida.md`.
+Cualquier desviación en estructura o campos se considera inválida.

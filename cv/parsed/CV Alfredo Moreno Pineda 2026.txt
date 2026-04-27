@@ -1,0 +1,723 @@
+
+
+--- Página 1 ---
+
+Alfredo Moreno Pineda  
+Lic.moren o.alfredo@outlook.com  
+55 1696 6867  
+linkedin.com/in/alfredo -moreno -p 
+ 
+Resumen : 
+ 
+Data Architect  Practitioner Level , Enterprise Architect  Practitioner Level , Business Analyst, Graph Data 
+Modeling Specialist , Project Manager Expert & Safe Agilist  & Data Scientist . 
+ 
+Certified Data Management Professional  Associate  by DAMA international ; TOGAF® 9 Certified ;  
+Certified SAFe® 5 Agili st; EXIN IT Service Management Foundation Certified;  Business Intelligence 
+Foundation Professional Certification BIFPC; y certificado profesional de Scrum Foundations SFPC.  
+LeanIX Certified Enterprise Architecture Practitioner ; . 
+Miembro de la The  Association of Enterprise Architects (#60984145) &  EXIN IT Service Management 
+Foundation Certified  
+ 
+33 años de experiencia en TI, en áreas como la gestión de proyectos , la consultoría de sistemas; análisis 
+de procesos de negocio ; diseño, desarrollo e implementación de sistemas y reingeniería de procesos  
+por mencio nar algunas . 
+ 
+Entrenamiento en Arquitectura Empresarial, BPM,  arquitetura de datos así como Liderazgo orientado 
+a personas, Six Sigma (Yellow Belt), Lean; y en Procesos de Desarrollo de Software Ágiles. Y una 
+certificación en ITIL /ITSM Fundamentals (MCP -ID: 7035229).  
+ 
+Cuento con  maestría en ciencias de datos,  tres  diplomado s y entrenamientos en temas de Customer 
+Centricity . 
+ 
+ 
+ 
+EXPERIENCIA PROFESIONAL:  
+ 
+EMPRESA:   
+Softtek  
+ CIUDAD:  
+México DF  PUESTO:  
+Head of SAT  INICIO  
+Abril 2016  FINAL  
+Actual  
+Actividades generales:  
+ 
+Cargo : Head of Digital Solutions Architecture  Team (SAT ) for M exican Market  (marzo 2024 – 
+actualidad ) 
+• Responsable de las propuestas de soluciones Digitales para el mercado mexicano . 
+ 
+Cargo : Enterprise Architect & Business Consultant  (mayo2020 – marzo 2024) 
+• Aplicación del método ADM del TOGAF para obtener la arquitectura empresarial As -Is (Mapa 
+de capacidades, procesos y aplicaciones) de la Unidad de Negocio de los clientes , 
+Contrastando contra los marcos de referencia de industria Gas& Oil, ARTS , y Cobit; así como 
+APQC . 
+• Aplicación de m ejora de procesos de negocio (BPM) 
+
+--- Página 2 ---
+
+• Generación de propuestas de servicios de Arquitectura Empresarial para diversos clientes 
+para los sector es de Gobierno, Retail, CPG , Seguros  y Financiero . 
+ 
+Cargo : Delivery Manager Digital  (julio2019 – mayo 2020)  
+Cliente: Walmart  Mex, Walmart CAM, Nissan, NMP  
+• Entrega de proyectos de Modernización a Nube, de Arquitectura Empresarial, de BPM , de 
+Racionalización de Aplicaciones, de Resolución de Vulnerabilidades  y de Integraciones . 
+ 
+ 
+Client e: Hamilton Beach Brand Inc.  
+Responsabilidades:  
+• Dirigí un esfuerzo de evaluación del proceso de facturación electrónica del cliente (utilizando 
+metodología CVA), el cual evaluamos este proceso, con el fin de identificar oportunidades de 
+mejora junto con un portafolio de recomendaciones.  
+• Dirigí un esfuerzo de control de daños para recuperar la Operación de Facturación 
+Electrónica en la sucursal de México  
+ 
+Cargo    Acting Delivery Manager  
+Periodo  jun. de 2019 – actualidad  
+Responsabilidades  
+• Delivery Manager de la práctica del COE DAF  
+• Elaboración de Propuestas para proyectos de Tecnología y Arquitectura Empresarial  
+• Gestión para el cierre de servicio 2019 de proyecto de Arquitectura Empresarial en Walmart  
+ 
+Cargo  Director del Servicio de Proyectos BPM para Banorte  
+Periodo  ene. de 2019 – may. de 2019  
+Responsabilidades  
+• Responsable de la entrega del servicio para la atención de proyectos de desarrollo con BPM 
+de IBM para el área de TI de Desarrollo de Proyectos de Captación.  
+• Gestión de 4 células ágiles para la atención de proyectos  
+ 
+ 
+Cargo  Líder de los Líderes de Ejecución en Banorte  
+Periodo  nov. de 2018 – ene. de 2019  
+Responsabilidades:  
+• Entrevistar a los candidatos al rol de Líder de Ejecución  
+• Capacitar, Dirigir, Guiar, Administrar a ocho los Líderes de Ejecución  
+• Establecer puntos de Control y Revisión para asegurar la salud de los proyectos que cada 
+Líder de Ejecución tenía a su cargo; así como de garantizar el cumplimiento de la realización 
+de todas las actividades obligatorias del rol de Líder de Ejecución.  
+• Apoyarles en la definición de estrategias e implementación de tácticas para superar issues.  
+• Realizar Peer Reviews a las presentaciones de avance ejecutivas y a las estimaciones y 
+presentaciones para la solicitud de presupuesto de proyectos ante el comité.  
+• Los últimos 3 meses, tuve un encargo especial de la Directora de proyectos de Captación y 
+Colocación para llevar el control de los incidentes como  Incident Manager de una célula 
+SWAT . 
+ 
+
+--- Página 3 ---
+
+Cargo  Líder de Ejecución en Banorte  
+Periodo ene. de 2018 – oct. de 2018  
+Responsabilidades:  
+• Asegurar que la implementación de la solución se lleva a cabo con base a la definición de 
+requerimientos y CTQ.  
+• Responsable junto con el cliente de la orquestación en la atención de requerimientos.  
+• Guía del equipo en los aspectos de negocio y de administración del proyecto.  
+• Participación en la estimación de soluciones de desarrollo de ciclo completo con el apoyo del 
+líder técnico.  
+• Identificar riesgos y administra su mitigación.  
+• Generar el Plan de proyecto.  
+• Presentar Iniciativas para aprobación.  
+• Reportar estatus y genera la presentación a comités.  
+• Dar seguimiento a instalaciones / despliegues en ambientes previos y de producción.  
+• Participar en sesiones de trabajo bajo demanda con distintos equipos involucrados en el 
+proyecto.  
+• Participar en las sesiones de comité de Arquitectura.  
+• Gestionar / dar seguimiento a la obtención de vobos.  
+• Gestionar los riesgos, pendientes y problemas registrados en el proyecto.  
+• Asegurar de que los participantes cumplan con el reporte de avance semanal de sus tareas.  
+• Gestionar temas de Proceso (cumplimientos).  
+ 
+ 
+Cargos:  
+• Administrador de portafolio de proyectos.  
+• Responsable de la entrega del servicio  
+• Project Manager  
+Periodo  abr. de 2016 – ene. de 2018  
+Cuentas  
+Grupo Financiero Interacciones:  
+Líder Responsable de las fases de Análisis y de Quality Assurance; asegurando sus 
+correspondientes entregables de un proyecto denominado Host to Host.  
+ 
+IMSS México  
+Responsable de la entrega del servicio de cuatro proyectos para el área de Incorporación y 
+Recaudación. Coordinando a tres líderes de proyecto dentro del marco de las guías 
+operativas del Instituto; así como del marco documental establecido por el MAAGTIC -SI 
+ 
+Herramientas:  MS Project; PPM , TOGAF, Archimate , VISIO, Excel  
+ 
+ 
+ 
+ 
+     
+     
+EMPRESA:   
+Real Advantage S.A. de C.V.  CIUDAD:  
+México DF  PUESTO:  
+Consultor IT INICIO  
+Julio 2013  FINAL  
+Abril 2016  
+
+--- Página 4 ---
+
+ &System Lead  
+Actividades generales:   
+Con Cliente: Boehringer Ingelheim México   
+Responsable de la atención de Incident Management, Problem Managment and Change Control de los 
+Sistemas de las áreas de Finanzas (Credit & Collection, Accounts Payable, Acccounting, Treasury, Fixed 
+Assets, Client Service)  
+ 
+Herramientas:  MS Project  
+ 
+ 
+     
+EMPRESA:   
+Expertos en Soluciones  CIUDAD:  
+México DF  PUESTO:  
+Administración de 
+Portafolios de 
+Proyectos y de la 
+Oficina de Proyecto s 
+Empresariales (Para 
+Microsoft)  INICIO  
+Julio 2011  FINAL  
+Julio 2013  
+Actividades generales:  
+Responsable de la gestión de las siguientes áreas en la Administración de Proyectos:  
+- Integración de proyectos.  
+- Alcance del proyecto.  
+- Tiempo de proyecto.  
+- Calidad del proyecto.  
+- Recursos Humanos del proyecto.  
+- Comunicaciones del proyecto.  
+- Riesgos del proyecto  
+ 
+Experiencia 
+Funcional:  Instituto de Ingeniería UNAM:  
+-  Gestión y administración del proyecto de Implementación de Sharepoint.  
+Bardahl:  
+-  Gestión y administración del proyecto de Implementación de Sharepoint.  
+Stendhal Pharma México.  
+-  Gestión y administración del proyecto de Implementación de Sharepoint Online y 
+OnPremise.  
+Instituto Mexicano de Contadores Públicos A.C.:  
+-  Gestión y administración del proyecto  
+- Análisis y Diseño de un sistema para el seguimiento de la norma de registro de 
+control de calidad.  
+-  Modelado de datos.  
+-  Migración de registro de firmas.  
+-  Elaboración de los planes de capacitación y pruebas.  
+-  Capacitación a usuarios finales.  
+Wal-Mart México:  
+- Análisis, diseño y actualización de la solución de Control de Proyectos de la 
+Vicepresidencia de Bienes Raíces de Wal -Mart.  
+- Atención de 56 requerimientos funcionales divididos en 5  temas:  
+
+--- Página 5 ---
+
+o Explotación y Análisis de la Información.  
+o Integridad de la Información.  
+o Mejora Operativa.  
+o Seguridad.  
+o Migración.  
+Atención de 5 Requerimientos no funcionales:  
+- Utilizar el Directorio Activo como base para la autenticación y de autorización de 
+los usuarios.  
+- Optimizar el consumo del ancho de banda por parte de los usuarios de 
+Centroamérica.  
+- Homogeneizar la seguridad en toda la aplicación.  
+- Realizar una migración de la plataforma actual a las nuevas versiones aprobadas 
+por el corporativo de Wal -Mart.  
+- Colocar la solución en un ambiente de alta disponibilidad.  
+ 
+ 
+LATAM SCP (Chile, Argentina y Brasil):  
+- Implementación del sistema de Control de Proyectos versión 1.0.   
+- Implantación de la solución de Bienes Raíces con la funcionalidad actual de México 
+y CAM.  
+- Instalación del aplicativo en sus respectivas infraestructuras independientemente 
+de la solución actual.  
+- Integración de la región de LATAM.  
+- Realizar mejoras operativas para el proceso de creación de folios y la actualización 
+automática de avance de Tareas y Delegaciones.  
+- Realizar la configuración básica del sistema.  
+ 
+Herramientas:  MS Project y SharePoint  
+ 
+ 
+  
+EMPRESA:   
+Softte k CIUDAD:  
+México DF  PUESTO:  
+Project Manager / 
+Gerente de 
+Proyectos  INICIO  
+Enero 2005  FINAL  
+Mayo 2011  
+Actividades generales:   
+Responsable de la gestión de las siguientes áreas en la Dirección de Proyectos:  
+- Integración de proyectos.  
+- Alcance del proyecto.  
+- Tiempo de proyecto.  
+- Calidad del proyecto.  
+- Recursos Humanos del proyecto.  
+- Comunicaciones del proyecto.  
+- Riesgos del proyecto.  
+ 
+ 
+Experiencia - Desarrollo de los planes de inicio, de alcance, de comunicación, de administración 
+
+--- Página 6 ---
+
+Funcional:  de riesgos, de administración de proyecto; aseguramiento de calidad y de 
+administración de la configuración.  
+- Dirección y gestión de la ejecución de los proyectos.  
+- Supervisión y control de trabajos.  
+- Control Integrado de cambios.  
+- Planificación, definición y control de alcances; elaboraciones de EDT.  
+- Definición de actividades, establecimiento de secuencia de actividades; estimación 
+de recursos en las actividades; estimación de la duración de las actividades; 
+elaboración de planes y cronogramas.  
+- Planificación de la calidad, realización de actividades de aseguramiento de calidad, 
+realización de actividades de control de calidad.  
+- Planificación de los recursos humanos, desarrollar y gestionar el equipo del 
+proyecto.  
+- Elaboración de informes y reportes de avance y gestión de los interesados del 
+proyecto.  
+- Identificación de riesgos, seguimiento y control de riesgos.  
+- Interacciones de Negociación con clientes y usuarios.  
+- Validación de interfaces con People Soft  
+- Capacitación de usuarios  
+. 
+Herramientas:  MS Project; PPM  
+ 
+  
+Projectos  Cliente  
+ 
+Cambio de Cultura Organizacional  
+  
+Hewlett Packard  
+Sistema FordComCar (Vehicles serving the company)  Ford  
+Sitio de Colaboración con clientes  Grupo Modelo  
+Sistema de Juegos y Sorteos   Secretaría  de Gobernación  
+Sistema de  CURP – Biometrica  INFOTEC  
+Sistema para INFOTEC – Digital  INFOTEC  
+AMS  INFOTEC  
+Maintenance Systems allegiance 'ALIS'  Grupo Posadas (Ampersand)  
+Mecanismo del Sistema de Ahorro para el Retiro (Oportunidades)  IMSS  
+Sistema de Administración de Farmacias  IMSS  
+Sistema de Suministro del Inventario y Mantenimiento de Medicamentos 
+Genéricos y de Material de Curación  IMSS  
+Sistema de Servicios Sociales Institucionales  IMSS  
+Sistema de Certificado de Evaluación de Obras  IMSS  
+
+--- Página 7 ---
+
+Sistema de Información Periódica del Cuerpo de Control Interno (SIIPOIC)  IMSS  
+Sistema de Registro de tiempos de espera de medición y de la oportunidad de 
+consulta médica  IMSS  
+Sistema de Seguimiento de Compromisos delegacional y Evaluaciones de Alta 
+Especialidad Unidades Médicas  IMSS  
+Integración del sistema de gestión de la información y la atención (SIAG) con los 
+recursos institucionales.  IMSS  
+  
+EMPRESA:   
+DESIS Siglo XXI S.A. de C.V.  CIUDAD:  
+México DF  PUESTO:  
+Líder de Proyectos  INICIO  
+Agosto 2004  FINAL  
+Diciembre 
+2004  
+Actividades generales:   
+Asignaciones de personal, elaboración de planes y estimados; gestión de procesos de planificación y 
+ejecución de proyectos; administración de incidentes y de problemas   
+Experiencia 
+Funcional:  - Gestión de la ejecución de los proyectos.  
+- Supervisión y control de trabajos.  
+- Planificación, definición y control de alcances.  
+- Definición de actividades, establecimiento de secuencia de actividades, estimación 
+de recursos en las actividades; estimación de la duración de las actividades, 
+elaboración de planes.  
+- Planificación de los recursos humanos, desarrollar y gestionar el equipo del 
+proyecto.  
+- Elaboración de informes y reportes de avance y gestión de los interesados del 
+proyecto.  
+- Interacciones de Negociación con clientes y usuarios.  
+Capacitación de usuarios.  
+Herramientas:  MS Project  
+ 
+ 
+ 
+EMPRESA:   
+Real Advantage S.A. de C.V.  
+ CIUDAD:  
+México DF  PUESTO:  
+Consultor Sr. / 
+Director asociado  INICIO  
+Abril 2002  FINAL  
+Agosto 2004  
+Actividades generales:   
+Responsable de la gestión de las siguientes áreas en la Dirección de Proyectos:  
+- Integración de proyectos.  
+- Alcance del proyecto.  
+- Tiempo de proyecto.  
+- Calidad del proyecto.  
+- Recursos Humanos del proyecto.  
+- Comunicaciones del proyecto.  
+- Riesgos del proyecto  
+ 
+Experiencia - Dirección y gestión de la ejecución de los proyectos.  
+
+--- Página 8 ---
+
+Funcional:  - Supervisión y control de trabajos.  
+- Control Integrado de cambios.  
+- Planificación, definición y control de alcances.  
+- Definición de actividades, establecimiento de secuencia de actividades; estimación 
+de recursos en las actividades; estimación de la duración de las actividades; 
+elaboración de planes y cronogramas.  
+- Planificación de la calidad, realización de actividades de aseguramiento de calidad, 
+realización de actividades de control de calidad.  
+- Planificación de los recursos humanos, desarrollar y gestionar el equipo del 
+proyecto.  
+- Elaboración de informes y reportes de avance y gestión de los interesados del 
+proyecto.  
+- Identificación de riesgos, seguimiento y control de riesgos.  
+- Interacciones de Negociación con clientes y usuarios.  
+- Migración de Información de SAP R/3.  
+- Desarrollo de actas de constitución de los proyectos  
+- Estimación de costos, preparación de presupuestos de costos y control de costos.  
+- Planificación de las compras y adquisiciones.  
+- Administración del contrato, cierre del contrato.  
+- Responsable de la facturación.  
+Elaboración de propuestas económicas y técnicas.  
+Herramientas:  MS Project  
+ 
+ 
+ 
+EMPRESA:   
+Servicios en Informática SA de 
+CV 
+ CIUDAD:  
+México DF  PUESTO:  
+Líder de Proyectos / 
+Programador Oracle 
+Experto  INICIO  
+Noviembre 
+1997  FINAL  
+Abril 2002  
+Actividades generales:   
+Responsable de la gestión de las siguientes áreas en la Dirección de Proyectos  
+Programador Oracle experto (PL/SQL y Oracle  Forms); desarrollo de shells en UNIX  
+Experiencia 
+Funcional:  - Dirección y gestión de la ejecución de los proyectos (product & project manager).  
+- Supervisión y control de trabajos.  
+- Definición de actividades; establecimiento de secuencia de actividades; estimación 
+de recursos en las actividades; estimación de la duración de las actividades; 
+elaboración de planes y cronogramas.  
+- Afinación de Base de datos.  
+- Elaboración de informes y reportes de avance y gestión de los interesados del 
+proyecto.  
+- Interacciones de Negociación con clientes y usuarios.  
+- Diseño y desarrollo de interfases con otros sistemas (ERP Oracle Financials (GL 
+Module), Tesorería, Impuestos, Costeo, Presupuestos y Activos Fijos)  
+- Elaboración de propuestas técnicas.  
+- Dar mantenimiento correctivo y preventivo.  
+- Proporcionar capacitación y soporte a los usuarios de México y Argentina  
+- Responsable del plan de pruebas (funcionales e Integrales)  
+
+--- Página 9 ---
+
+- Implementación de notificaciones (alertas) a los usuarios y operadores.  
+- Diseño del plan de mantenimiento de la Base de Datos.  
+- Diseño del plan de recuperación y respaldo de la Base de Datos.  
+- Ejecución de la migración de la Base de Datos de Oracle7 a Oracle8i.  
+- Diseño del diagrama entidad relación (Base de Datos) usando Oracle Designer 2000  
+- Realización de estimaciones basadas en el esfuerzo en horas hombre y en Puntos 
+de Función  
+ 
+Microsoft (bNexus SRL):  
+- Sistema multi país de facturación de transacciones en Internet  (Web / .Net – SQL 
+Server).  
+Promoción  Operación S.A. de CV:  
+- Sistema de costos basados en actividades (Cliente servidor / Oracle forms).  
+Sistema de facturación de transacciones (Cliente servidor / Oracle forms).  
+ 
+Herramientas:  MS Project  
+ 
+ 
+ 
+EMPRESA:   
+Red Hook technology Group 
+Inc. CIUDAD:  
+New York E.U.  PUESTO:  
+Consultor en 
+Informix  INICIO  
+Junio 1996  
+ FINAL  
+Julio 1997  
+Actividades generales:   
+Se realizó consultoría, codificación, pruebas y mantenimiento para una aplicación ERP propietaria 
+(órdenes de compra, inventario, cuentas por cobrar, cuentas por pagar y servicio a cliente)  
+- Interacciones de Negociación con clientes y usuarios.  
+- Dar mantenimiento correctivo y preventivo.  
+- Desarrollo de módulo de registro de información  
+Herramientas:  Informix Suite  
+ 
+ 
+EMPRESA:   
+Sinapsis Sistemas SA / Intecomp 
+S.A. 
+ CIUDAD:  
+México DF  PUESTO:  
+Líder de Proyecto / 
+Programador Oracle 
+experto  INICIO  
+Diciembre 1993  FINAL  
+Mayo 1996  
+Actividades generales:   
+Diseñador, Analista Programador para varias aplicaciones cliente servidor hechas en Informix en distintos 
+ambientes de UNIX.  
+Líder de proyectos en informix.  
+Consultor en Informix.  
+Experiencia 
+Funcional:  Elaboración de propuestas técnicas.  
+Dar mantenimiento correctivo y preventivo.  
+Proporcionar capacitación y soporte a los usuarios.  
+Administrador Senior de Base de datos Informix.  
+Hospital Siglo XXI:  
+- Migración de aplicativo de un sistema  de historial de pacientes.  
+Banco Bancrecer:  
+
+--- Página 10 ---
+
+- Sistema de mesa de ayuda.  
+Instituto Federal Electoral:  
+- Sistema de conteo de votos para las elecciones de 1994.  
+Banco Obrero:  
+- Sistema de ahorro para el retiro.  
+Herramientas:  MS Project; Oracle Suite  
+ 
+EMPRESA:   
+Secretaría de la Contraloría 
+General de la Federación.  
+ CIUDAD:  
+México DF  PUESTO:  
+Jefe de 
+Departamento de 
+Desarrollo de 
+Sistemas  INICIO  
+Agosto 1993  FINAL  
+Diciembre 
+1993  
+Actividades generales:   
+Responsable de los sistemas en producción en la Secretaría de la Contraloría General de la Federación  
+Experiencia 
+Funcional:  - Gestión de la ejecución de los proyectos.  
+- Supervisión y control de trabajos.  
+- Planificación, definición y control de alcances.  
+- Definición de actividades; establecimiento de secuencia de actividades; estimación 
+de recursos en las actividades; estimación de la duración de las actividades; 
+elaboración de planes.  
+- Planificación de los recursos humanos; desarrollar y gestionar el equipo del 
+proyecto.  
+- Elaboración de informes y reportes de avance y gestión de los interesados del 
+proyecto.  
+- Administrador de base de datos.  
+Herramientas:  Informix Suite  
+ 
+EMPRESA:   
+I.S.S.S.T.E.  CIUDAD:  
+México DF  PUESTO:  
+Programador 
+Informix  INICIO  
+Enero 1992  FINAL  
+Diciembre 
+1992  
+ 
+EMPRESA:   
+Genesis Sistemas S.A. de C.V.  CIUDAD:  
+México DF  PUESTO:  
+Programador 
+Informix  INICIO  
+Junio 1991  FINAL  
+Diciembre 
+1991  
+ 
+ 
+IDIOMAS:  
+ 
+Español:  Nativo  
+Inglés:  80% 
+ 
+ 
+ESTUDIOS:  
+ 
+Escuela  Ciudad  Año de inicio y fin  
+U.P.I.I.C.S.A. – Instituto Politécnico Nacional  
+Carrera:  México D.F.  1990 - 1994  
+
+--- Página 11 ---
+
+Licenciado en Ciencias de la Informática (con 
+especialidad en información)  
+UNIR México  
+Maestría : 
+Maestría En Análisis Y Visualización De Datos  Ciudad de México  May  2021  – Oct 2022  
+UNIR México  
+Maestría : 
+Maestría En Inteligencia Artificial  Ciudad de México  Nov 2025 - actualidad  
+ 
+ 
+CONOCIMIENTOS TÉCNICOS:  
+ 
+Perfil Primario:  Arquitecto Empresarial  / Arqutiecto de Datos  
+Perfil Secundario:   
+Roles Desempeñados  que puedo realizar como 
+perfil secundario  No. 
+Project os 
+Account Director & PM  1 
+Account Manager & PM  3 
+Analysis & QA Leader  1 
+Arquitecto Empresarial  3 
+Associate Director  1 
+Delivery Manager  2 
+Delivery Manager (Acting)  2 
+Director of BPM Service  1 
+Execution Leader  1 
+Execution Leader´s Leader  5 
+Functional Leader  2 
+Head of the Systems Development Department  1 
+Incident Manager  1 
+Process Consultant (Leader)  2 
+Programmer  7 
+Project Leader  3 
+Project Manager  19 
+Project Portfolio Manager  3 
+System Lead  1 
+Data Scientist   
+Total  59 
+ 
+ 
+Otros:  HABILIDADES:  
+- Experto en liderazgo de proyectos; ha llevado proyectos de desarrollo con 
+
+--- Página 12 ---
+
+CMM nivel 3 de diversos tamaños (desde 1,000 horas hasta más de 40,000 
+horas hombre) para aplicaciones web (en tecnologías Java, Microsoft y  PHP) 
+y sistemas cliente servidor.  
+- Dominio de RUP y UML.  
+- Experiencia en:  
+▪ Gestión de proyectos:  
+o Procesos de Iniciación.  
+o Procesos de Planificación.  
+o Procesos de Ejecución.  
+o Procesos de Cierre.  
+o Procesos de Seguimiento y Control.  
+▪ Administración de incidentes.  
+▪ Administración de problemas.  
+▪ Administración de cambios.  
+▪ Administración de la configuración.  
+ 
+COMPETENCIAS:  
+- Organización y Planificación.  
+- Trabajo en equipo y Cooperación.  
+- Toma de decisiones  
+- Capacidad para resolver problemas.  
+- Capacidad de iniciativa.  
+- Capacidad de adaptación (y flexibilidad).  
+- Negociación.  
+- Racionalización (Análisis, Síntesis y Crítica).  
+- Habilidad y Capacidad de comunicación.  
+- Gestión y seguimiento cercano.  
+- Responsabilidad y perseverancia.  
+- Resumen: →Hacer que las cosas sucedan.  
+Aprendizaje Continuo  A. Comencé  a trabajar  con algunos  marcos  de Industria  como  ARTS,  COBIT,  
+Gas&Oil  
+ 
+B. Y a aplicar  estos  temas:  
+   * C4 Model  for visualising  software  architecture  
+   * APQC  Process  Classification  Framework  (PCF)  7.2.1  
+   * Taxonomía  de Bloom.  
+ 
+C. Realicé  un Diplomado  Ingeniería del Procesado Masivo de Datos  con duración 
+de 414 horas de mayo a septiembre 2022 .  Autoridad  emisora:  Universidad  de la 
+Rioja  en México  
+ 
+ 
+D. Realicé  un Diplomado  Análisis  y Visualización  de Datos  con duración de 324 
+horas de noviembre 2021 a marzo 2022 .  Autoridad  emisora:  Universidad  de la 
+Rioja  en México  
+ 
+E. Realicé  un Diplomado  en Arquitectura  de Datos  con duración  de 342 hrs de 
+mayo  a septiembre  2021.  Que me habilitaron  skills  para  el rol de Arquitecto  de 
+
+--- Página 13 ---
+
+Datos.  
+ 
+F. Realicé  un Diplomado  más sobre  SoftSkills  y Habilidades  Directivas.  
+ 
+G. Me inicié  en el aprendizaje  de estos  temas  
+   * Neo4j  (modelé  una BD de Grafos  y la creé)  
+   * MongoDB  (Sentencias  para  trabajar  con esta BD no Relacional)  
+   * JSON  (conocer  la estructura  Clave -valor,  haciendo  varios  ejercicios)  
+   * Uso ya estos  lenguajes,  herramientas  y ambientes:  Python,  R, Cypher,  Jupyter  
+Lab, JupyterNotebook,  Git, GitHub,  PyCharm,  RStudio,  WatsonStudio, 
+MongoAtlas, MongoCompass, MongoBooster, Neo4j Desktop, Redis.  
+ 
+ 
+H. Obtuve  estas  certificaciones  adicionales:  
+    1. Certificado  Neo4j  Overview.  Neo4j  GraphAcademy  
+    2. Certificado  Understanding  User  Needs.  University  of Michigan  
+    3. Certificado  Diseño  de Experiencia  en Servicios.  Universidad  Austral  
+    4. Certificado  Digital  Product  Management  - Modern  Fundamentals.  University  
+of Virginia  
+    5. Web  of Science  Academy  - certificates  Peer  Review  
+    6. Certified  Enterprise  Architecture  Practitioner  Level  1 en LeanIX  Academy.  
+    7. Certified  Enterprise  Architecture  Associate  Level  2 en LeanIX  Academy.  
+    8. Renové  mi certificación  como  Certified  SAFe  5 Agilist  en Scaled  Agile.  
+    9. Scrum  Foundation  Professional  Certificate  SFPC  por CertiProf  
+    10. Obtuve  mi badge  "UP-TO-DATE  KNOWLEDGE"  The Open  Group  Certified:  
+TOGAF  Standard  Version  9.2 
+    11. Tramité  mi badge  "LIFELONG  LEARNING"  por CertiProf  
+    12. Business Intelligence Foundation Professional Certification  por CertiProf  
+    13. Data Science Methodology Certificate  por Coursera  
+    14. Graph Analytics for Big Data  por Coursera  
+    15. Data Science Methodology Certificate  por UC San Diego  
+    16. Graph Data Science Certification  por Neo4j  
+    17. Customer -Centric IT Strategy  por University of Virginia Darden School of 
+Business  
+    18. Design Thinking for Innovation  por University of Virginia Darden School of 
+Business  
+ 
+ 
+ 
+H. Me entrené  en estos  temas  y obtuve  un certificado:  
+    1. Con IBM - Herramientas  para  la Ciencia  de Datos;   Autoridad  emisora:  
+Coursera  
+    2. Con Banco  Interamericano  de Desarrollo  (BID)  - Gobierno  Digital;  Autoridad  
+emisora  edX 
+    3. Con IBM - ¿Qué  es la ciencia  de datos?  Autoridad  emisora:  Coursera  
+    4. English  for Career  Development;  Autoridad  emisora  University  of 
+Pennsylvania  – Coursera  
+    5. AWS Educate Introdution to Generative AI ; Autoridad  emisora  AWS  
+
+--- Página 14 ---
+
+    6. AWS Educate Getting Started with Storage ; Autoridad  emisora  AWS  
+ 
+ 
+ 
+I. Completé  estos  Cursos : 
+    1. Data  Analyst  Técnicas  y herramientas  de informes  esencial  
+    2. Aprende  Análisis  de datos  
+    3. Data  science  Cuenta  Historias  con los datos  
+    4. Big Data   Social  Media  Listening  
+    5. Big Data  Visualización  de Datos  
+    6. Big Data  Fundamentos  
+    7. Big Data  Análisis  de datos  
+    8. Big Data  Técnicas  y Conceptos  
+ 
+ 

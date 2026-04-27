@@ -1,0 +1,71 @@
+Cristopher Aldo López Sánchez
+Analista Junior
+EXPERIENCIA PROFESIONAL
+Tengo por lo menos 1 año de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y soluciones de inteligencia de negocio. Como analista de negocio, me ocupo de descubrir, sintetizar y analizar información proveniente de distintas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas.
+
+A lo largo de mi trayectoria he trabajado en la identificación de oportunidades y la optimización de procesos administrativos y contables, proponiendo soluciones que mejoran la continuidad de servicios y el cumplimiento de procesos. Utilizo herramientas como Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) y SAP para facilitar la trazabilidad y la coordinación entre áreas. Trabajo de forma colaborativa con equipos y Partes interesadas para documentar requerimientos y asegurar entregables alineados con métricas y estándares.
+
+Mi enfoque es traducir hallazgos en propuestas concretas y documentadas, asegurando que las soluciones sean factibles y aprobadas por los usuarios, y dando seguimiento a los cambios durante el ciclo de vida de la implementación.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Analista de Negocio | Desde:
+1 septiembre 2022 | Hasta:
+Actividades Principales | • Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, análisis e interpretación de datos, identificación de patrones y oportunidades de mejora, generación de documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.
+• Entiendo las verdaderas necesidades mediante el uso de técnicas de análisis.
+• Involucro a las Partes interesadas para descubrir los requerimientos funcionales, no funcionales y de transición, y los documento de forma completa, clara y consistente.
+• Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas y que permitan a las Partes interesadas ejecutar sus procesos con eficacia.
+• Diseño la solución funcional que satisface los requerimientos de las Partes interesadas, junto con la estrategia de implementación necesaria para generar valor al negocio.
+• Aseguro que la solución sea aprobada conscientemente por las Partes interesadas y que su implementación se lleve a cabo cumpliendo los objetivos planteados.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.
+• He usado la certificación The Complete UML (Lenguaje Unificado de Modelado (UML)) Course: Learn to Design UML (Lenguaje Unificado de Modelado (UML)) Diagrams como apoyo para la diagramación UML (Lenguaje Unificado de Modelado (UML))/BPMN y flujos.
+• He empleado la certificación Domina SCRUM con JIRA Agile – Metodologías Ágiles como fundamento para aplicar metodologías ágiles basadas en Scrum, considerando roles, eventos y artefactos.
+• He usado el curso UX: Máster en Diseño web y Experiencia de Usuario como fundamento para el diseño de interfaces y experiencias digitales centradas en el usuario, considerando usabilidad, accesibilidad y alineación con los objetivos del negocio.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+Interfaz Gráfica de Usuario (GUI): Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.
+INT: Proveo las entradas necesarias para la integración de sistemas.
+STD: Participo en las actividades de diseño de pruebas de sistema.
+STE: Participo en la ejecución de las pruebas de sistema.
+DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+UAT: Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.
+• Como analista de negocio, realizo análisis entre sistemas para garantizar resultados tanto contables como administrativos, asegurando que sean óptimos para la empresa.
+• Mi enfoque está en la atención al detalle y en la gestión de equipos de trabajo, liderando con énfasis en la entrega puntual, cumplimiento de métricas y estándares establecidos.
+• Trabajo colaborativamente para identificar y resolver necesidades empresariales, aportando soluciones estratégicas que mejoran la eficiencia y el rendimiento organizacional.
+• Estuve encargado de la contabilidad general, impuestos y nómina, desarrollando estrategias de administración que mejoraron las ventas en un 25%.
+• Fui responsable de adecuar SAP a la empresa, capacitando al personal en cada departamento que lo requería.
+• Logré los objetivos y métricas requeridas por la empresa matriz ubicada en Europa.
+Empresa
+Estado de México | Puesto
+Contador Senior | Desde:
+1 febrero 2010 | Hasta: 
+30 septiembre 2021
+Actividades Principales | • Estuve encargado de la contabilidad general, impuestos y nómina, desarrollando estrategias de administración que mejoraron las ventas en un 25%.
+• Fui responsable de adecuar SAP a la empresa, capacitando al personal en cada departamento que lo requería.
+• Logré los objetivos y métricas requeridas por la empresa matriz ubicada en Europa.
+HERRAMIENTAS CONOCIDAS
+- JIRA
+- AA for SAP S/4 HANA
+- CRM for SAP S/4 HANA
+- CRM for SAP R/3 ECC
+FORMACIÓN ACADÉMICA:
+Licenciatura en Contador Público - 1 agosto 2006 - 31 julio 2011 | Escuela Superior de Comercio y Administración, Instituto Politécnico Nacional, unidad Santo Tomás | Cédula Profesional
+9744618
+25/5/2016
+CURSOS
+- The Complete UML Course: Learn to Design UML Diagrams
+- Domina SCRUM con JIRA Agile – Metodologías Ágiles
+- UX: Máster en Diseño web y Experiencia de Usuario
+______________________________________
+Cristopher Aldo López Sánchez
+Analista Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

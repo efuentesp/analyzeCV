@@ -1,0 +1,160 @@
+Hillel Romero Monsivais
+Desarrollador BI de atención de incidentes
+FUNCIONES
+Analizo las propuestas de requerimientos de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos, así como en la coordinación con desarrolladores, testers y áreas de negocio. Realizo validaciones funcionales mediante pruebas de aceptación y seguimiento a Pruebas, mantengo interlocución constante con usuarios y coordino las actividades de analistas junior, asegurando un conocimiento integral de los requerimientos del proyecto asignado. Cuento con habilidades de liderazgo, identificación de problemas y propuesta de soluciones, así como dominio en el uso de herramientas y metodologías de análisis como Design Thinking y UML. Además, me comunico eficazmente con diferentes audiencias y elaboro documentación bajo marcos de trabajo tradicionales y ágiles.
+Me he desarrollado como Desarrollador Power Platform, Administrador de SharePoint y Desarrollador Web, participando en el desarrollo de aplicaciones, flujos y reportes con Power BI, además de la atención de incidentes, mejoras funcionales y administración de contenido. He trabajado con SQL Server (Motor de base de datos para consultas y validaciones), SharePoint Lists, Dataverse y herramientas web para construir soluciones orientadas a la operación.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 3 años en desarrollo de soluciones de BI, servicios y aplicaciones web, dashboards interactivos, tableros, informes automáticos y reportes. Domino tecnologías aplicadas a entornos de Inteligencia de Negocio. Analizo, corrijo y doy mantenimiento a procesos y componentes BI para la atención de incidentes, generando y ajustando código conforme a la especificación técnica. Ejecuto actividades de soporte y desarrollo conforme a lo establecido, apegándome a estándares y frameworks definidos, procurando la calidad de la información y la continuidad operativa.
+
+Me he desempeñado como Desarrollador Power Platform, Administrador de SharePoint y Desarrollador Web, participando en el desarrollo de aplicaciones, flujos y reportes con Power BI, así como en la atención de incidentes, mejoras funcionales y administración de contenido. He trabajado con SQL Server (Motor de base de datos para consultas y validaciones), SharePoint Lists, Dataverse y herramientas web para construir soluciones orientadas a la operación.
+
+Aporto una combinación de desarrollo, soporte y seguimiento de requerimientos que me permite atender ajustes, resolver incidencias y mantener la continuidad de los servicios. También cuento con experiencia previa coordinando proyectos y equipos, lo que fortalece mi comunicación con usuarios y mi capacidad para dar seguimiento al trabajo con enfoque en calidad y tiempos comprometidos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Desarrollador Power Platform | Desde:
+1 julio 2019 | Hasta: 
+30 abril 2026
+Actividades Principales | • Mantengo y doy soporte a los aplicativos de Inteligencia de Negocio dominando varios lenguajes de programación. Tengo habilidades en dominio de bases de datos relacionales y no relacionales, técnicas de diseño para el modelado de datos, versionamiento del código y dominio en el diseño y desarrollo de procesos de Extraer, Transformar y Cargar.
+• Diseño, desarrollo y mantengo soluciones de BI (dashboards, reportes, tableros automáticos y servicios web frontend/backend), asegurando al menos 2 años de experiencia en este tipo de implementaciones.
+• Construyo, implemento y pongo en operación componentes y sistemas BI mediante lenguajes de programación, garantizando su correcto funcionamiento en ambientes productivos.
+• Implemento historias de usuario cumpliendo estándares de codificación y ejecuto pruebas unitarias para asegurar la calidad de los desarrollos.
+• Analizo y corrijo hallazgos de seguridad, documentando las remediaciones aplicadas en los componentes BI.
+• Preparo artefactos técnicos y doy soporte a la integración y entrega de paquetes a AVL.
+• Registro y gestiono tareas e incidencias en GitLab, siguiendo flujos de ramas, versionamiento y etiquetado definidos.
+• Documento evidencias de cada fase del desarrollo y soporte para su integración en carpetas y VoBo.
+• Participo en ambientes INT, Pruebas de Aceptación de Usuario (UAT) y PROD, atendiendo y resolviendo defectos hasta obtener VoBo.
+• Mantengo una trayectoria laboral consistente, acumulando al menos 2 años de experiencia en desarrollo BI y atención de incidentes, con fechas claras y sin traslapes.
+• Aplico conocimientos en bases de datos relacionales y no relacionales, modelado de datos, versionamiento con Git (Control de versiones distribuido), desarrollo de aplicaciones web y procesos de Extraer, Transformar y Cargar (ETL)/ELT.
+• Cumplo con tiempos, esfuerzo y calidad comprometidos, generando métricas de ejecución como tickets o historias cerradas por sprint, cobertura de pruebas y cumplimiento en tiempos de atención de incidentes.
+• Atiendo incidentes en entornos productivos de BI, analizando, reproduciendo y corrigiendo fallas mediante bugfix, hotfix y parches.
+• Participo en la resolución de incidentes según su severidad o prioridad, asegurando continuidad operativa y estabilidad de la información.
+• Realizo validaciones técnicas posteriores a cada corrección para garantizar la solución definitiva del incidente.
+• Colaboro con equipos de soporte, pruebas y usuarios técnicos durante la atención de incidentes, asegurando una comunicación efectiva.
+• Documento soluciones técnicas, lecciones aprendidas y contribuyo a bases de conocimiento para mejora continua.
+• Identifico, gestiono y escalo riesgos e issues técnicos que puedan afectar la operación de soluciones BI.
+• Aseguro el cumplimiento de estándares, lineamientos del proyecto y buenas prácticas de desarrollo, calidad y operación.
+• Cuento con sólidos conocimientos en soluciones de BI que me permiten analizar y resolver incidentes complejos mediante el uso de herramientas y procesos establecidos, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos que puedan afectar la calidad de la información y la continuidad operativa; además, valido correcciones, ejecuto pruebas y documento evidencias durante la atención de incidentes. Trabajo de forma autónoma con mínima supervisión, cumpliendo los tiempos comprometidos y manteniendo un alto nivel de especialización en entornos BI.
+• He aplicado la certificación Certified ScrumMaster® (CSM) para facilitar equipos ágiles, coordinar eventos Scrum y promover la mejora continua en la entrega de valor
+• He utilizado la certificación ITIL® Foundation Certificate in IT Service Management para aplicar buenas prácticas en la gestión de servicios de TI orientadas al valor y la mejora continua
+• He puesto en práctica la certificación Microsoft Certified: Azure Developer Associate para desarrollar, implementar y mantener soluciones en la nube utilizando Microsoft Azure
+• He aprovechado la certificación Microsoft Certified: Azure Fundamentals para aplicar conceptos clave de computación en la nube, servicios de Azure, seguridad y modelos de costos
+• He aplicado la certificación Microsoft Certified: Data Analyst Associate para analizar datos, crear modelos analíticos y generar visualizaciones que apoyen la toma de decisiones
+• He utilizado la certificación Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate para configurar y optimizar procesos comerciales mediante Dynamics 365
+• He aplicado la certificación Microsoft Certified: Dynamics 365 Fundamentals (CRM) para comprender y utilizar los principios básicos de gestión de relaciones con clientes
+• He puesto en práctica la certificación Microsoft Certified: Power Platform App Maker Associate para crear aplicaciones y automatizaciones empresariales con Power Platform
+• He utilizado la certificación Microsoft Certified: Power Platform Functional Consultant Associate para diseñar e implementar soluciones empresariales basadas en Power Platform
+• He aplicado la certificación Microsoft Certified: Power BI Data Analyst Associate para modelar datos y desarrollar reportes interactivos con Power BI
+• He aprovechado la certificación Microsoft Certified: Power Platform Developer Associate para desarrollar soluciones personalizadas utilizando componentes avanzados de Power Platform
+• He utilizado la certificación Microsoft Certified: Power Platform Fundamentals para aplicar los fundamentos de automatización, análisis y desarrollo de soluciones empresariales
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro especificaciones detalladas de componentes y servicios, asegurando su alineación con los requerimientos operativos, los niveles de servicio (SLAs) y los estándares definidos.
+• CTR: Coordino y superviso la construcción e implementación de componentes y soluciones, garantizando su correcta integración dentro del modelo de operación del servicio.
+• DOC: Genero y mantengo la documentación técnica y operativa, asegurando la trazabilidad, estandarización y soporte a la continuidad y mejora del servicio.
+• Desarrollador de aplicaciones
+• Fuente de datos: SQL Server (Motor de base de datos para consultas y validaciones), SP lists, dataverse, documentos
+• Elementos como: Multipantallas, Formularios, Galerías, Funciones, etc.
+• Desarrollador de flujos
+• Proceso de aprobación
+• Automatización para otorgar accesos
+• Notificaciones masivas
+• Desarrollador de reportes en Power BI
+• Fuente de datos: SP list and SLQ server
+• Desarrollé mejoras como módulos, funcionalidad, etc.
+• Soluciono de incidents
+• Atiendo peticiones como: Agregar información, cambio en reportes, mejoras de diseño, etc.
+• Resolución de ticket cumpliendo con los estándares de calidad y tiempo
+• Administré proyectos nacionales e internacionales
+• Creé planes de proyectos
+• Hice seguimiento y monitoreo de tareas
+• Realicé demostraciones al cliente
+Empresa
+Softtek | Puesto
+Administrador de SharePoint | Desde:
+1 noviembre 2016 | Hasta: 
+30 abril 2026
+Actividades Principales | • Desarrollé mejoras como módulos, funcionalidad, etc.
+• Soluciono de incidents
+• Atiendo peticiones como: Agregar información, cambio en reportes, mejoras de diseño, etc.
+• Resolución de ticket cumpliendo con los estándares de calidad y tiempo
+Empresa
+SVAM International | Puesto
+Portfolio Project Leader | Desde:
+1 marzo 2013 | Hasta: 
+31 octubre 2016
+Actividades Principales | • Administré proyectos nacionales e internacionales
+• Creé planes de proyectos
+• Hice seguimiento y monitoreo de tareas
+• Realicé demostraciones al cliente
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Certified Scrum Master - ScrumAlliance
+- ITIL Foundation Certificate in IT Service Management
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Data Analyst Associate
+- Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate
+- Microsoft Certified: Dynamics 365 Fundamentals (CRM)
+- Microsoft Certified: Power Platform App Maker Associate
+- Microsoft Certified: Power Platform Functional Consultant Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Certified: Power Platform Developer Associate
+- Microsoft Certified: Power Platform Fundamentals
+- Craft CMS
+- WordPress
+- Drupal
+- Angular JS
+- Power Platform
+- Power Apps
+- Power Automate
+- Power BI
+- SQL Server
+- SharePoint Lists
+- Dataverse
+- SharePoint Online
+- SharePoint 2013
+- SharePoint 2010
+- InfoPath
+- SharePoint Designer
+- SharePoint Shell
+- Microsoft Project
+- Team Foundation Server
+- Microsoft Visio
+- Asana
+- Basecamp
+- Cluster
+- Windows Server
+- Ubuntu
+- C
+- C# .Net
+- JavaScript
+- PHP
+- Java
+- HTML
+- MySQL
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 1 marzo de 2013 hasta 30 abril de 2026
+Durante este período me desempeñé como Desarrollador Web y Project Leader, asumiendo responsabilidades de migración de sitios, administración de contenido, creación de módulos, planeación y seguimiento de proyectos, así como coordinación de equipos de análisis, pruebas y desarrollo. También di seguimiento al ciclo de vida del software, preparé estimaciones, busqué estrategias para acelerar la productividad y participé en actividades de liderazgo y comunicación con clientes para mantener el avance del trabajo y la organización de las tareas.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en sistemas computacionales - 2004-2008 | Instituto Tecnológico de Saltillo | Saltillo, Coah, México | Cédula Profesional
+6466034
+10/05/2010
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Certified Scrum Master - ScrumAlliance | 2026-2028
+- ITIL Foundation Certificate in IT Service Management | 2019
+- Microsoft Certified: Azure Developer Associate | 2022-2023
+- Microsoft Certified: Azure Fundamentals | 2022
+- Microsoft Certified: Data Analyst Associate | 2021-2023
+- Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate | 2022-2023
+- Microsoft Certified: Dynamics 365 Fundamentals (CRM) | 2022
+- Microsoft Certified: Power Platform App Maker Associate | 2021-2024
+- Microsoft Certified: Power Platform Functional Consultant Associate | 2021-2024
+- Microsoft Certified: Power BI Data Analyst Associate | 2021-2024
+- Microsoft Certified: Power Platform Developer Associate | 2022-2023
+- Microsoft Certified: Power Platform Fundamentals | 2021
+______________________________________
+Hillel Romero Monsivais
+Desarrollador BI de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

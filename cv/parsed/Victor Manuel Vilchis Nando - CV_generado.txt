@@ -1,0 +1,166 @@
+Victor Manuel Vilchis Nando
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+He participado en el desarrollo y administración de un sistema ERP web, en la programación de reportes descargables y en la ejecución de pruebas para respaldar su operación. También he colaborado en soporte mediante tickets, respaldo periódico de información y tareas de planeación, manteniendo atención al cumplimiento de procesos y a la continuidad del servicio.
+EXPERIENCIA PROFESIONAL
+Tengo más de 2 años de experiencia en programación con tecnologías de la Arquitectura de Referencia y de código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación de sistemas y en su puesta en marcha mediante el uso de lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y tiempos establecidos dentro del plan de trabajo.
+
+He participado en el desarrollo y gestión de un sistema ERP web, en la programación de reportes descargables y en la ejecución de pruebas para apoyar su operación. También he colaborado en soporte mediante tickets, respaldo periódico de información y actividades de planeación, manteniendo atención al cumplimiento de procesos y a la continuidad del servicio.
+
+Además, he intervenido en el desarrollo de un sistema interno para la gestión de calificaciones y en proyectos realizados para entornos personales y pequeños comercios. Mi experiencia incluye el uso de Java (Lenguaje de programación para desarrollo de aplicaciones), PHP (Lenguaje de desarrollo web), JavaScript, Spring Boot, SQL (Lenguaje para gestión y consulta de bases de datos relacionales) y herramientas de control de versiones, trabajando de manera coordinada para implementar soluciones funcionales y atender requerimientos definidos.
+EXPERIENCIA LABORAL
+Empresa
+Industrias Corrubox | Puesto
+DevOps Engineer - Junior | Desde:
+1 diciembre 2021 | Hasta: 
+31 agosto 2023
+Actividades Principales | • Creo sistemas de software, los implemento y realizo una puesta a punto para que sean funcionales, todo ello mediante lenguajes de programación. Tengo habilidades en conceptos de programación y trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico adecuadamente los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo cuando tengo dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances oportunamente.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización, incluidos horarios, registro de actividades, estándares y buenas prácticas.
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso Querying Microsoft SQL Server SQL Server with Transact-SQL para realizar consultas avanzadas y gestionar bases de datos en SQL Server utilizando Transact-SQL.
+• He puesto en práctica el curso Application Security – The Complete Guide para aplicar principios de seguridad en aplicaciones y mitigar vulnerabilidades.
+• He aplicado el curso 200+ PL/SQL Interview Questions para reforzar conocimientos y resolver casos prácticos relacionados con PL/SQL.
+• He puesto en práctica el curso Clean Code para escribir código limpio, mantenible y alineado con buenas prácticas de desarrollo de software.
+• He aplicado el curso Desarrollo de sistemas web en PHP 7 POO, MySQL, jQuery y Ajax para desarrollar aplicaciones web completas utilizando PHP, MySQL, jQuery y Ajax.
+• He puesto en práctica el curso Docker in AWS – Deploy Java Spring Boot to AWS Fargate  ECS para desplegar aplicaciones Java Spring Boot en AWS utilizando contenedores y servicios como Fargate y ECS.
+• He aplicado el curso Introduction to Java EE para desarrollar aplicaciones empresariales utilizando la plataforma Java EE.
+• He puesto en práctica el curso HPE Fortify – Secure Code Analysis para analizar código y detectar vulnerabilidades utilizando herramientas de seguridad estática.
+• He aplicado el curso Introducción a la programación orientada a objetos con PHP para desarrollar aplicaciones aplicando principios de programación orientada a objetos en PHP.
+• He puesto en práctica el curso Java Programming for Complete Beginners para desarrollar fundamentos de programación utilizando Java.
+• He aplicado el curso JDBC, Servlets and JSP – Java Web Development Fundamentals para desarrollar aplicaciones web en Java utilizando JDBC, Servlets y JSP.
+• He puesto en práctica el curso Java In-Depth: Become a Complete Java Engineer para profundizar en el desarrollo avanzado de aplicaciones con Java.
+• He aplicado el curso Microsoft SQL for Beginners para gestionar bases de datos y ejecutar consultas en SQL Server.
+• He puesto en práctica el curso Oracle PL/SQL Avanzado para desarrollar lógica de base de datos avanzada utilizando PL/SQL.
+• He aplicado el curso Oracle PL/SQL desde cero para adquirir fundamentos en el desarrollo de procedimientos y lógica en bases de datos Oracle.
+• He puesto en práctica el curso Oracle PL/SQL is My Game – EXAM 1Z0-149 para preparar y aplicar conocimientos avanzados de PL/SQL orientados a certificación.
+• He aplicado el curso Oracle SQL para crear, consultar y gestionar bases de datos utilizando el lenguaje SQL en Oracle.
+• He puesto en práctica el curso Microservices with gRPC (Java + Spring Boot + Protobuf) para implementar microservicios utilizando gRPC, Spring Boot y Protobuf.
+• He aplicado el curso Aprende Oracle SQL desde cero para desarrollar habilidades en la creación y consulta de bases de datos con Oracle SQL.
+• He puesto en práctica el curso Aprende PHP desde cero con 36 ejercicios prácticos para desarrollar habilidades en PHP mediante ejercicios aplicados.
+• He aplicado el curso OWASP Top 10 Web Application Security for Absolute Beginners para identificar y mitigar vulnerabilidades comunes en aplicaciones web.
+• He puesto en práctica el curso PL/SQL de ORACLE en Español para desarrollar y gestionar lógica de negocio en bases de datos Oracle.
+• He aplicado el curso PL/SQL by Example – Beginner to Advanced PL/SQL para desarrollar soluciones en PL/SQL desde nivel básico hasta avanzado.
+• He puesto en práctica el curso The Complete PL/SQL Bootcamp – Beginner to Advanced PL/SQL para implementar soluciones completas utilizando PL/SQL.
+• He aplicado el curso The Complete DevOps Engineer Course 2.0 – Java  Kubernetes para implementar prácticas DevOps utilizando Java y Kubernetes.
+• He puesto en práctica el curso Secure Product Lifecycle 101 para aplicar prácticas de seguridad a lo largo del ciclo de vida del desarrollo de software.
+• He aplicado el curso SQL Server Integration Services (SSIS) - An Introduction para desarrollar procesos de integración de datos utilizando SSIS.
+• He puesto en práctica el curso PHP desde cero para desarrollar aplicaciones web utilizando el lenguaje PHP desde nivel básico.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Me desempeñé como desarrollador y gestor de un sistema ERP web; además de mis responsabilidades principales, también me encargué de programar reportes descargables en formatos PDF y Excel (Herramienta de análisis de datos), realizar rutinas de backup periódicas para proteger los datos críticos del sistema y brindar atención y soporte a través de tickets.
+• Asimismo, llevé a cabo pruebas exhaustivas y participé en la planificación y coordinación del proyecto.
+• Me desempeñé como auxiliar en sistemas y adquirí conocimientos y habilidades en diversos ámbitos.
+• Esto incluyó redes, cableado estructurado, instalación de cámaras y antenas, así como brindar soporte técnico y atención a reportes.
+• Además, tuve la oportunidad de participar en el desarrollo de un sistema interno para la gestión de calificaciones.
+Empresa
+Universidad Tecnológica Fidel Velazquez | Puesto
+DevOps Engineer - Junior | Desde:
+1 febrero 2021 | Hasta: 
+31 agosto 2021
+Actividades Principales | • Me desempeñé como auxiliar en sistemas y adquirí conocimientos y habilidades en diversos ámbitos.
+• Esto incluyó redes, cableado estructurado, instalación de cámaras y antenas, así como brindar soporte técnico y atención a reportes.
+• Además, tuve la oportunidad de participar en el desarrollo de un sistema interno para la gestión de calificaciones.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Querying Microsoft SQL Server SQL Server with Transact-SQL
+- Application Security - The Complete Guide
+- 200+ PL/SQL Interview Questions
+- Clean Code
+- Desarrollo de sistemas web en PHP 7 POO, MySQL, jQuery y Ajax
+- Docker in AWS - Deploy Java Spring Boot to AWS Fargate  ECS
+- Introduction to Java EE
+- HPE Fortify - Secure Code Analysis
+- Introducción a la programación orientada a objetos con PHP
+- Java Programming for Complete Beginners
+- JDBC, Servlets and JSP - Java Web Development Fundamentals
+- Java In-Depth: Become a Complete Java Engineer
+- Microsoft SQL for Beginners
+- Oracle PL/SQL Avanzado
+- Oracle PL/SQL desde cero
+- Oracle PL/SQL is My Game - EXAM 1Z0-149
+- Oracle SQL
+- Microservices with gRPC (Java + Spring Boot + Protobuf)
+- Aprende Oracle SQL desde cero
+- Aprende PHP desde cero con 36 ejercicios prácticos
+- OWASP Top 10 Web Application Security for Absolute Beginners
+- PL/SQL de ORACLE en Español
+- PL/SQL by Example - Beginner to Advanced PL/SQL
+- The Complete PL/SQL Bootcamp - Beginner to Advanced PL/SQL
+- The Complete DevOps Engineer Course 2.0 - Java  Kubernetes
+- Secure Product Lifecycle 101
+- SQL Server Integration Services (SSIS)-An Introduction
+- PHP desde cero
+- Java
+- PHP
+- HTML5
+- JavaScript
+- Jenkins
+- Bitbucket
+- Sonar
+- Maven
+- Oracle
+- MongoDB
+- Spring Boot
+- Scrum
+- Agile
+- SQL
+- Ajax
+- JSON
+- CSS
+- Bootstrap
+- jQuery
+- SQL Server
+- Git
+- HTML
+- Firebird
+- APX
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 02 marzo de 2020 hasta 30 septiembre de 2021
+Durante este período me desempeñé como DevOps Engineer - Trainee, participando en proyectos para entornos personales y para pequeños comercios. Asumí funciones orientadas al apoyo en soluciones tecnológicas y al uso de herramientas de desarrollo, lo que me permitió fortalecer mi práctica profesional en contextos diversos. Esta etapa me ayudó a adaptarme a distintos requerimientos de trabajo y a ampliar mi experiencia en actividades vinculadas con la construcción de proyectos.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingenieria en Desarollo de Software - septiembre 2020 a septiembre 2023 | Universidad Tecnológica Fidel Velazquez Estado de México | Cédula Profesional
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Querying Microsoft SQL Server SQL Server with Transact-SQL
+- Application Security - The Complete Guide
+- 200+ PL/SQL Interview Questions
+- Clean Code
+- Desarrollo de sistemas web en PHP 7 POO, MySQL, jQuery y Ajax
+- Docker in AWS - Deploy Java Spring Boot to AWS Fargate  ECS
+- Introduction to Java EE
+- HPE Fortify - Secure Code Analysis
+- Introducción a la programación orientada a objetos con PHP
+- Java Programming for Complete Beginners
+- JDBC, Servlets and JSP - Java Web Development Fundamentals
+- Java In-Depth: Become a Complete Java Engineer
+- Microsoft SQL for Beginners
+- Oracle PL/SQL Avanzado
+- Oracle PL/SQL desde cero
+- Oracle PL/SQL is My Game - EXAM 1Z0-149
+- Oracle SQL
+- Microservices with gRPC (Java + Spring Boot + Protobuf)
+- Aprende Oracle SQL desde cero
+- Aprende PHP desde cero con 36 ejercicios prácticos
+- OWASP Top 10 Web Application Security for Absolute Beginners
+- PL/SQL de ORACLE en Español
+- PL/SQL by Example - Beginner to Advanced PL/SQL
+- The Complete PL/SQL Bootcamp - Beginner to Advanced PL/SQL
+- The Complete DevOps Engineer Course 2.0 - Java  Kubernetes
+- Secure Product Lifecycle 101
+- SQL Server Integration Services (SSIS)-An Introduction
+- PHP desde cero
+______________________________________
+Victor Manuel Vilchis Nando
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

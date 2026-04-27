@@ -1,0 +1,92 @@
+Horus Ramses García San Miguel
+Tester
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 2 años de experiencia en pruebas de software. Me responsabilizo del diseño y ejecución de pruebas funcionales e integrales, así como de la evaluación de sus resultados.
+
+Soy especialista en aseguramiento de calidad con amplia experiencia en sectores regulados, orientado a garantizar continuidad de servicio y cumplimiento de procesos. Lidero la planeación, diseño y ejecución de pruebas, desarrollo Matriz de Trazabilidad (Relación requisito→caso→ejecución→evidencia→defecto) y documentación de evidencia, enfocándome en mitigación de riesgos, eficiencia operativa y colaboración con áreas de desarrollo y clientes para entregar soluciones con baja tasa de fallas.
+EXPERIENCIA LABORAL
+Empresa
+Softtek - IMSS | Puesto
+Analista Tester/Aseguramiento de Calidad | Desde:
+1 agosto 2025 | Hasta: 
+31 enero 2026
+Actividades Principales | • Superviso que se cumplan los requerimientos funcionales establecidos para el producto y que este se encuentre libre de fallas, mediante la planeación y ejecución de pruebas a través de una matriz que permite validar de manera específica el software construido. Cuento con habilidades técnicas en metodologías de pruebas, pensamiento lógico, habilidades de comunicación, atención al detalle, así como adaptabilidad y flexibilidad.
+• Brindo soporte al usuario o cliente durante las pruebas de aceptación.
+• Participo en la elaboración del plan de pruebas.
+• Realizo un análisis de los insumos para obtener la cobertura y los casos de prueba, revisando diagramas, casos de uso, especificaciones y prototipos.
+• Utilizo técnicas para identificar casos de prueba, como partición equivalente, análisis de límites y diagramas de flujo.
+• Diseño los casos de prueba, incluyendo la generación u obtención de datos de prueba y resultados esperados.
+• Ejecuto los casos de prueba validando el resultado real contra el resultado esperado.
+• Documento los defectos identificados en la herramienta correspondiente.
+• Al diseñar las pruebas, utilizo la definición establecida por el Líder de Pruebas sobre los controles adecuados para la validación de datos de entrada y la protección de datos de prueba.
+• Cuento con fuertes habilidades de análisis y un sólido dominio en el diseño de casos de prueba y matrices de prueba. Tengo experiencia en pruebas funcionales y de regresión, donde desarrollo, implemento y analizo los resultados, además de generar y administrar los datos de prueba. También gestiono los ambientes de prueba y su configuración, asegurando que las entregas sean completas y correctas. Poseo conocimientos en bases de datos como SQL (Lenguaje para gestión y consulta de bases de datos relacionales) y Oracle Database (Motor de base de datos empresarial), así como la capacidad de anticipar posibles soluciones ante situaciones complejas. Me distingo por mi alta productividad, precisión en la estimación de tareas y excelentes habilidades de comunicación tanto escrita como verbal.
+• He aplicado la certificación Certified Scrum Master (ScrumAlliance) en la gestión de proyectos bajo el enfoque ágil Scrum.
+• He usado la certificación ISTQB Test Manager Advanced (Gestión avanzada de pruebas y liderazgo) que me ha permitido gestión avanzada de pruebas y liderazgo.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.
+STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.
+STE: Ejecuto escenarios de prueba.
+INT: Diseño y preparo testware.
+UAT: Apoyo en las actividades de pruebas del usuario.
+• Análisis de Requisitos: Reunir y entender los requerimientos funcionales y no funcionales del sistema; participar en reuniones con stakeholders para aclarar dudas y validar especificaciones; elaborar documentos como casos de uso, historias de usuario o especificaciones funcionales; identificar criterios de aceptación y condiciones de prueba.
+• Diseño de Pruebas: Diseñar casos de prueba detallados con pasos, datos de entrada, resultados esperados y prerequisitos; definir Matriz de Trazabilidad (Relación requisito→caso→ejecución→evidencia→defecto); estimar el esfuerzo de pruebas y planificar actividades; preparar ambientes y datos de prueba.
+• Ejecución de Pruebas: Ejecutar pruebas funcionales, de regresión, de integración, de sistema y de aceptación; registrar resultados y documentar defectos; validar correcciones y realizar revalidación.
+• Participé en proyecto de SAP GUI S/4HANA (Interfaz de SAP para pruebas funcionales), ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos de cuentas por cobrar, finanzas y cuentas de mayor.
+• Generé documentación para evidencia de pruebas y desarrollé prompts para plantillas de evidencias.
+• Lideré pruebas para la administración y manejo del equipo de pruebas interno y del cliente; recibo y administro proyectos y gestiono pruebas según requerimientos del cliente.
+• Apliqué metodologías de prueba acorde a las necesidades del cliente; elaboro y reviso requerimientos y documentación (UH/FRD/BRD) para análisis y diseño de casos de prueba.
+• Elaboré planes de pruebas identificando cálculo de esfuerzo, recursos y métricas; creo y doy seguimiento a proyectos en Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos); elaboro Matriz de Trazabilidad (Relación requisito→caso→ejecución→evidencia→defecto) y Informe de Cierre de Pruebas.
+• Ejecuto pruebas de aceptación con el área usuaria; ejecuté pruebas funcionales, no funcionales, automatizadas y de regresión en diferentes ambientes; ejecuté Pruebas de Integración de Sistemas (SIT) y Pruebas de Aceptación de Usuario (UAT) y pruebas móviles.
+• Solicité ambientes y datos, revisé riesgos con el equipo y cliente, creé informes de métricas y tableros de indicadores, y di seguimiento a incidentes y administración de defectos; revisé objetivos y desempeño del equipo y asigné cargas de trabajo.
+Empresa
+Softtek | Puesto
+Funcional Tester/Aseguramiento de Calidad - ALIATICA | Desde:
+5 mayo 2025 | Hasta: 
+30 junio 2025
+Actividades Principales | • Participé en proyecto de SAP GUI S/4HANA (Interfaz de SAP para pruebas funcionales), ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos de cuentas por cobrar, finanzas y cuentas de mayor.
+• Generé documentación para evidencia de pruebas y desarrollé prompts para plantillas de evidencias.
+Empresa
+Softtek | Puesto
+Gerente de Aseguramiento de Calidad (QA Manager) / Líder de Proyecto del Servicio de Aseguramiento de la Calidad de los Aplicativos – Citibanamex | Desde:
+2 mayo 2022 | Hasta: 
+2 mayo 2025
+Actividades Principales | • Lideré pruebas para la administración y manejo del equipo de pruebas interno y del cliente; recibo y administro proyectos y gestiono pruebas según requerimientos del cliente.
+• Apliqué metodologías de prueba acorde a las necesidades del cliente; elaboro y reviso requerimientos y documentación (UH/FRD/BRD) para análisis y diseño de casos de prueba.
+• Elaboré planes de pruebas identificando cálculo de esfuerzo, recursos y métricas; creo y doy seguimiento a proyectos en Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos); elaboro Matriz de Trazabilidad (Relación requisito→caso→ejecución→evidencia→defecto) y Informe de Cierre de Pruebas.
+• Ejecuto pruebas de aceptación con el área usuaria; ejecuté pruebas funcionales, no funcionales, automatizadas y de regresión en diferentes ambientes; ejecuté Pruebas de Integración de Sistemas (SIT) y Pruebas de Aceptación de Usuario (UAT) y pruebas móviles.
+• Solicité ambientes y datos, revisé riesgos con el equipo y cliente, creé informes de métricas y tableros de indicadores, y di seguimiento a incidentes y administración de defectos; revisé objetivos y desempeño del equipo y asigné cargas de trabajo.
+HERRAMIENTAS CONOCIDAS
+- Bizagi Modeler
+- Draw.io
+- Java
+- Microsoft Office
+- SAP GUI S/4HANA
+- Copilot
+- JIRA
+- Eclipse
+- TFS
+- ALM
+- SQL Server
+- Beyond Compare
+- Planview
+- Confluence
+- XMind
+- FastStone Capture
+- Notepad++
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 marzo de 2010 hasta 30 abril de 2022
+Durante este período asumí responsabilidades de gestión y coordinación del servicio de aseguramiento de la calidad, enfocándome en la administración de equipos de pruebas, la planificación y ejecución de ciclos de prueba y la generación de artefactos de prueba. Me desempeñé en roles como Líder de Proyecto del Servicio de Aseguramiento de la Calidad, Gerente de Aseguramiento de Calidad (QA Manager) y Líder de pruebas, donde coordiné equipos, planifiqué y ejecuté pruebas, gestioné hallazgos y promoví auditorías y procesos de mejora. Atiendo la gestión administrativa y organizativa para garantizar entregas oportunas y el cumplimiento de estándares de calidad, trabajando de forma colaborativa con distintos actores para asegurar la estabilidad y conformidad de los productos entregados.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Tecnologías de la Información y Comunicación - 2013 | Universidad Tecnológica de Nezahualcóyotl | Cédula Profesional
+8275769
+20/08/2013
+CERTIFICACIONES
+- Scrum Foundation Professional Certificate (SFPC) | 2020
+CURSOS
+- (ISTQB) Certified Tester Advanced Level - Test Manager - Junta Internacional de Calificaciones de Pruebas de Software
+______________________________________
+Horus Ramses García San Miguel
+Tester | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

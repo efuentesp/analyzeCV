@@ -1,0 +1,119 @@
+Ruben Silva Garcia
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+Además, participo en desarrollos frontend con Angular (Framework frontend para aplicaciones SPA) para construir CRUD dinámicos y en actividades de pruebas y despliegues a producción, preparando insumos y evidencias de pruebas, así como documentación y checklists técnicos que contribuyen a la continuidad y cumplimiento de procesos operativos.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 2 años de experiencia en programación con tecnologías de referencia y de código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación y puesta en funcionamiento de sistemas usando lenguajes de programación y fundamentos de desarrollo, colaboro en equipo y sigo estándares, lineamientos y plazos establecidos en el plan de trabajo.
+He trabajado principalmente con Java (Lenguaje de programación para desarrollo de aplicaciones) y el ecosistema Spring, implementando procesos batch, modelado de bases de datos y generación de documentación técnica para entornos del sector financiero; participo en la creación de componentes backend, integración con repositorios como Bitbucket (Repositorio de código y colaboración) y en la definición de jobs y transferencias de datos con DataX y Control-M.
+Además, he colaborado en desarrollos frontend con Angular (Framework frontend para aplicaciones SPA) para la construcción de CRUD dinámicos y en actividades de pruebas y despliegues a producción, generando insumos y evidencia para pruebas, documentando procesos y checklist técnicos que ayudan a garantizar la continuidad y cumplimiento de procesos operativos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek CDMX | Puesto
+Software Engineer - Junior | Desde:
+01 agosto de 2023 | Hasta: 
+presente
+Actividades Principales | • Creo paquetes de software, los implemento y hago su puesta en punto para que sean funcionales, todo ello a través de lenguajes de programación. Habilidades en; Conceptos de programación, Trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso JSP, Servlets and JDBC for Beginners para desarrollar aplicaciones web en Java conectadas a bases de datos mediante JSP, Servlets y JDBC.
+• He puesto en práctica el curso Master Microservices with Spring Boot and Spring Cloud para diseñar e implementar arquitecturas de microservicios utilizando Spring Boot y Spring Cloud.
+• He aplicado el curso Microservices: Designing Highly Scalable Systems para implementar principios de diseño orientados a la escalabilidad, resiliencia y sistemas distribuidos.
+• He puesto en práctica el curso Microservices Architecture – The Complete Guide para implementar patrones y buenas prácticas de arquitectura de microservicios.
+• He aplicado el curso Principios SOLID y Clean Code para aplicar buenas prácticas de diseño y escribir código limpio, mantenible y de alta calidad.
+• He puesto en práctica el curso Spring MVC For Beginners para desarrollar aplicaciones web en Java utilizando el framework Spring MVC.
+• He aplicado el curso UML Class Diagrams for Programmers para diseñar y documentar estructuras de clases mediante diagramas UML aplicados al desarrollo de software.
+• He puesto en práctica el curso Web Design for Beginners para diseñar e implementar interfaces web utilizando HTML y CSS en escenarios reales.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Cree un CRUD dinámico en Angular (Framework frontend para aplicaciones SPA)
+• Me certifiqué en la tecnología interna de BBV A - APX
+• Me certifiqué en el Marco Ágil Escalable (SAFe) Scaled Agile
+• Manejo la tecnología APX y creación de múltiples procesos batch con cliente BBV A
+• He realizado versionamientos con Bitbucket (Repositorio de código y colaboración)
+• Genero documentación componentes de librerías , jobs , transacciones y objetos de datos de cliente
+• Genero documentación de procesos de pruebas y generación de insumos para evidencias de pruebas
+• Genero documentación para proceso de despliegue a producción (CVT, CRQ, C205, DQ, Checklist técnico)
+• Modelo y diseño de modelos de base de datos con PowerDesigner
+• Levanto tickets para generación de modelos de datos
+• Creo jobs en Control - M
+• Creo y modifico objetos, conectores schemas, para transferencias DataX
+• Participé en el desarrollo de modulos con spring boot y maven para plataforma de control de obras de la CDMX . Implementando generador de reportes , roles de usuario para distintas funciones , mapas , vistas , manejo de archivos multimedia , graficación tiempo real de la cartera financiera .
+• Creé plantilla para aplicaciones web con spring boot .
+• Participé en proyecto generador de reportes con uso de framework Laravel .
+Empresa
+SACMEX CDMX | Puesto
+Software Engineer - Trainee | Desde:
+01 marzo de 2022 | Hasta: 
+30 junio de 2023
+Actividades Principales | • Participé en el desarrollo de modulos con spring boot y maven para plataforma de control de obras de la CDMX . Implementando generador de reportes , roles de usuario para distintas funciones , mapas , vistas , manejo de archivos multimedia , graficación tiempo real de la cartera financiera .
+• Creé plantilla para aplicaciones web con spring boot .
+• Participé en proyecto generador de reportes con uso de framework Laravel .
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- JSP, Servlets and JDBC for Beginners: Build a Database App
+- Master Microservices with Spring Boot and Spring Cloud
+- Microservices: Designing Highly Scalable Systems
+- Microservices Architecture – The Complete Guide
+- Principios SOLID y Clean Code. Escribe código de calidad
+- Spring MVC For Beginners – Build Java Web App in 25 Steps
+- UML Class Diagrams for Programmers
+- Web Design for Beginners: Real World Coding in HTML  CSS
+- Java 8
+- Java 9
+- Spring Framework
+- Spring Boot
+- Hibernate
+- JSP
+- AngularJS
+- Angular (Framework frontend para aplicaciones SPA)
+- HTML5
+- CSS3
+- TypeScript
+- JavaScript
+- Oracle Database (Motor de base de datos empresarial)
+- PostgreSQL (Base de datos relacional avanzada)
+- MySQL
+- Maven
+- GitHub
+- Bitbucket (Repositorio de código y colaboración)
+- Jenkins (Automatización de pipelines CI/CD)
+- JIRA (Herramienta de gestión ágil y seguimiento de issues/sprints)
+- PowerDesigner
+- Control-M
+- DataX
+- Laravel
+- Ajax
+- jQuery
+- Bootstrap
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 julio de 2023 hasta 31 julio de 2023
+Durante este período asumí responsabilidades relacionadas con el desarrollo y validación de capturas y parte de frontend; me desempeñé como Software Engineer - Junior, realizando tareas de implementación de módulos, pruebas y soporte al despliegue. Participé en actividades de programación en Java (Lenguaje de programación para desarrollo de aplicaciones) y uso de frameworks para asegurar el correcto funcionamiento de aplicaciones, colaborando con el equipo en la resolución de incidencias y en la elaboración de documentación técnica que soportó los procesos de entrega.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniero en computación - agosto de 2017 - enero de 2022 | Facultad de Estudios Superiores Aragón, UNAM - Nezahualcóyotl | Cédula Profesional
+13890182
+28/12/2023
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- JSP, Servlets and JDBC for Beginners: Build a Database App
+- Master Microservices with Spring Boot and Spring Cloud
+- Microservices: Designing Highly Scalable Systems
+- Microservices Architecture – The Complete Guide
+- Principios SOLID y Clean Code. Escribe código de calidad
+- Spring MVC For Beginners – Build Java Web App in 25 Steps
+- UML Class Diagrams for Programmers
+- Web Design for Beginners: Real World Coding in HTML  CSS
+______________________________________
+Ruben Silva Garcia
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

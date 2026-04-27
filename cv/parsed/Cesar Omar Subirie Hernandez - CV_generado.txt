@@ -1,0 +1,167 @@
+Cesar Omar Subirie Hernandez
+Desarrollador Senior
+FUNCIONES
+Diseño, construyo y mantengo soluciones tecnológicas, dominando diversos lenguajes de programación y aplicando buenas prácticas en distintas metodologías de desarrollo. Coordino las actividades de desarrolladores Jr y mantengo un conocimiento integral del desarrollo del proyecto asignado. Cuento con habilidades en resolución de problemas y liderazgo.
+Aplico metodologías de desarrollo como Cascada, Agile y SAFe, utilizo herramientas de versionamiento de código como Git, desarrollo servicios y aplicaciones web tanto frontend como backend, y empleo técnicas de optimización de procesos.
+Durante mi trayectoria he participado en el desarrollo y mantenimiento de aplicaciones internas, funcionalidades bancarias y soluciones administrativas para sectores de salud, telecomunicaciones, banca, logística, energía y servicios. He trabajado con Java, .NET, APIs, PrimeFaces, Spring Boot, Spring Batch, Angular y Delphi, favoreciendo la continuidad operativa, la mejora de procesos y la atención de necesidades críticas del negocio. También he coordinado servicios informáticos, supervisado la operación y el mantenimiento de servidores, impulsado estándares de desarrollo y apoyado la capacitación de personal. Gracias a mi experiencia, puedo integrarme con una visión integral del proyecto, colaborar con equipos de desarrollo, resolver problemas técnicos y mantener entregas alineadas con procesos y requerimientos institucionales.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 5 años de experiencia en un centro de desarrollo de software. Asimismo, domino tecnologías de código abierto y de Arquitectura de Referencia.
+Durante mi trayectoria he participado en el desarrollo y mantenimiento de aplicaciones internas, funcionalidades bancarias y soluciones administrativas para sectores de salud, telecomunicaciones, banca, logística, energía y servicios. He trabajado con Java (Lenguaje de programación para desarrollo de aplicaciones), .NET, APIs, PrimeFaces, Spring Boot, Spring Batch, Angular (Framework frontend para aplicaciones SPA) y Delphi, contribuyendo a la continuidad operativa, la mejora de procesos y la atención de necesidades críticas del negocio.
+También he coordinado servicios informáticos, supervisado la operación y el mantenimiento de servidores, impulsado estándares de desarrollo y apoyado la capacitación de personal. Mi experiencia me permite integrarme con visión integral del proyecto, colaborar con equipos de desarrollo, resolver problemas técnicos y sostener entregas alineadas con procesos y requerimientos institucionales.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Software Developer Sr | Desde:
+31 julio 2025 | Hasta: 
+31 enero 2026
+Actividades Principales | • Diseño, construyo y mantengo soluciones tecnológicas dominando distintos lenguajes de programación, así como la adopción de buenas prácticas en diversas metodologías de desarrollo. Coordino las actividades de desarrolladores junior y mantengo un conocimiento integral del desarrollo del proyecto asignado. Cuento con habilidades en resolución de problemas y liderazgo, así como experiencia en metodologías de desarrollo (Cascada, Agile, Marco Ágil Escalable (SAFe)), versionamiento de código con Git (Control de versiones distribuido), desarrollo de servicios y aplicaciones web (frontend y backend) y en técnicas de optimización de procesos.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas, asegurando una experiencia mínima de 5 años en centros de desarrollo y el dominio de tecnologías de Arquitectura de Referencia y tecnologías open source.
+• Participo en la implementación y puesta en operación de sistemas, colaborando en ambientes INT/Pruebas de Aceptación de Usuario (UAT)/PROD y asegurando la solución de defectos hasta su VoBo.
+• Aplico estándares, lineamientos, frameworks y componentes definidos por la arquitectura, incluyendo el uso de GitLab bajo flujos institucionales de ramas, etiquetas, MR y pipelines.
+• Valido que las especificaciones técnicas sean claras y completas, manteniendo conocimiento integral del desarrollo del proyecto y apoyando en la coordinación de actividades de desarrolladores Jr cuando es requerido.
+• Cumplo con tiempos, esfuerzo y calidad comprometidos, participando en prácticas de calidad como code review, uso de patrones, pruebas unitarias, así como en la atención de hallazgos SAST y DAST hasta su cierre sin vulnerabilidades críticas.
+• Colaboro activamente con el equipo, participando en la preparación de evidencias de fase para carpetas y en el soporte a procesos de dictamen.
+• Identifico, comunico y escalo impedimentos, riesgos e incidencias, asegurando la continuidad del desarrollo y la correcta ejecución del proyecto.
+• Acato políticas, lineamientos y acuerdos organizacionales, manteniendo consistencia en fechas laborales, correcta documentación y redacción en primera persona.
+• Aplico habilidades de resolución de problemas y liderazgo, utilizando metodologías de desarrollo como Cascada, Agile y Marco Ágil Escalable (SAFe).
+• Utilizo herramientas de versionamiento como Git (Control de versiones distribuido) y desarrollo servicios y aplicaciones web tanto frontend como backend, aplicando técnicas de optimización de procesos.
+• Mantengo trazabilidad y coherencia en mi experiencia profesional, asegurando que la cronología laboral cumpla con al menos 5 años requeridos y sin inconsistencias en fechas.
+• Cuantifico mi desempeño mediante métricas de impacto, como número de microservicios y APIs desarrollados, volumen de transacciones, optimización de consultas y reducción de tiempos de respuesta en ambientes productivos.
+• Diseño, construyo y mantengo soluciones tecnológicas utilizando diversos lenguajes de programación y aplicando buenas prácticas en metodologías de desarrollo.
+• Coordino las actividades de desarrolladores Jr y mantengo un conocimiento integral del desarrollo del proyecto asignado.
+• Aplico habilidades de resolución de problemas y liderazgo, utilizando metodologías como Cascada, Agile y Marco Ágil Escalable (SAFe), herramientas de versionamiento como Git (Control de versiones distribuido), desarrollo de servicios y aplicaciones web frontend y backend, y técnicas de optimización de procesos.
+• Resuelvo problemas complejos dentro del desarrollo de software utilizando soluciones existentes, aplicando mejores prácticas en todo momento; cuento con sólidos conocimientos y experiencia que me permiten identificar, notificar y prevenir riesgos que puedan afectar los resultados esperados; trabajo de manera autónoma con mínima supervisión, asegurando la entrega de resultados en los tiempos comprometidos y manteniendo un alto nivel de especialización.
+• He aplicado el curso Docker for the Absolute Beginner – Hands On – DevOps para contenerizar aplicaciones y comprender los fundamentos de DevOps utilizando Docker
+• He utilizado el curso de HTML5 desde cero para estructurar y desarrollar sitios web aplicando estándares modernos de HTML
+• He puesto en práctica el curso Master SQL: De cero a experto en Bases de Datos para diseñar, consultar y gestionar bases de datos relacionales mediante SQL
+• He aprovechado el curso Comienza con MongoDB para modelar y administrar bases de datos NoSQL utilizando MongoDB
+• He aplicado el curso OpenShift 4 desde cero para desplegar y administrar aplicaciones contenerizadas sobre plataformas basadas en Kubernetes
+• He utilizado el curso PostgreSQL de Cero a Avanzado para administrar bases de datos PostgreSQL utilizando pgAdmin y herramientas de línea de comandos
+• He puesto en práctica el curso Principios SOLID y Clean Code para mejorar la calidad, mantenibilidad y diseño del código en aplicaciones de software
+• He aplicado el curso Privileged Access Management (PAM) with CyberArk para comprender y aplicar controles de acceso privilegiado orientados a la seguridad de la información
+• He aprovechado la certificación Certified ScrumMaster® (CSM) para facilitar equipos ágiles, coordinar eventos Scrum y promover la entrega continua de valor en proyectos
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Participé con el Instituto Mexicano del Seguro Social (IMSS) para desarrollo de aplicaciones y soporte de aplicaciones internas con Java (Lenguaje de programación para desarrollo de aplicaciones) y PrimeFaces.
+• Participé con el Instituto Federal de Telecomunicaciones (IFT) para desarrollo de aplicaciones internas de seguimiento de ejercicios de riesgos con Java (Lenguaje de programación para desarrollo de aplicaciones) y PrimeFaces.
+• Participé con Banco Coppel para desarrollo de funcionalidades de domiciliación para su core back end bancario con Java (Lenguaje de programación para desarrollo de aplicaciones) y APIs.
+• Participé en equipos de desarrollo de aplicaciones de logística de viajes, producto interno de seguimiento vía satelital de viajes de los productos del cliente, reportes y envío de correos con .NET.
+• Participé en equipos de desarrollo de aplicaciones de logística de aduanas, cliente local de servicio aduanero, reportes administrativos con .NET.
+• Participé en el desarrollo de un microservicio de obtención de datos de sensores para un equipo multinacional con cliente USA, usando Java (Lenguaje de programación para desarrollo de aplicaciones), Spring Boot y Spring Batch.
+• Realicé investigación para aplicación de normas de seguridad para el ambiente Microsoft Azure (Plataforma cloud para desarrollo e infraestructura) de la gestión de aplicaciones en Giga Tech (Caps).
+Empresa
+Softtek | Puesto
+Software Developer Sr | Desde:
+31 julio 2024 | Hasta: 
+30 julio 2025
+Actividades Principales | • Participé con el Instituto Federal de Telecomunicaciones (IFT) para desarrollo de aplicaciones internas de seguimiento de ejercicios de riesgos con Java (Lenguaje de programación para desarrollo de aplicaciones) y PrimeFaces.
+Empresa
+Softtek | Puesto
+Software Engineer Web Java Sr | Desde:
+1 julio 2021 | Hasta: 
+30 julio 2024
+Actividades Principales | • Participé con Banco Coppel para desarrollo de funcionalidades de domiciliación para su core back end bancario con Java (Lenguaje de programación para desarrollo de aplicaciones) y APIs.
+Empresa
+Giga Tech | Puesto
+Ingeniero de Desarrollo | Desde:
+1 enero 2020 | Hasta: 
+31 marzo 2021
+Actividades Principales | • Participé en equipos de desarrollo de aplicaciones de logística de viajes, producto interno de seguimiento vía satelital de viajes de los productos del cliente, reportes y envío de correos con .NET.
+• Participé en equipos de desarrollo de aplicaciones de logística de aduanas, cliente local de servicio aduanero, reportes administrativos con .NET.
+• Participé en el desarrollo de un microservicio de obtención de datos de sensores para un equipo multinacional con cliente USA, usando Java (Lenguaje de programación para desarrollo de aplicaciones), Spring Boot y Spring Batch.
+• Realicé investigación para aplicación de normas de seguridad para el ambiente Microsoft Azure (Plataforma cloud para desarrollo e infraestructura) de la gestión de aplicaciones en Giga Tech (Caps).
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Certified ScrumMaster® (CSM)
+- Docker for the Absolute Beginner – Hands On – DevOps
+- Curso de HTML5 desde cero: El más completo en Español
+- Master SQL: De cero a experto en Bases de Datos
+- Comienza con MongoDB: Curso de MongoDB desde cero
+- OpenShift 4 desde cero
+- PostgreSQL de Cero a Avanzado (pgAdmin4 y Shell)
+- Principios SOLID y Clean Code
+- Privileged Access Management (PAM) with CyberArk
+- .NET Core Framework
+- .NET Framework 4
+- ABAP para SAP R/3 ECC
+- Angular 2+
+- Coldfusion
+- Delphi
+- Hibernate
+- Informix
+- Java
+- Java 8
+- Java 11
+- JBoss
+- JSON
+- OAuth
+- PostgreSQL
+- Postman
+- REST
+- Eclipse
+- Lombok
+- Apache Tomcat
+- Red Hat
+- Primavera Project Planner
+- Swagger
+- Feign
+- Suite Atlassian
+- Visual Studio Code
+- Oracle
+- Oracle Database
+- SAP PM
+- SAP MM
+- Alfresco
+- PrimeFaces
+- Apache Maven
+- Java Persistence API
+- JBoss Application Server
+- Red Hat Enterprise Linux
+- CSS
+- API RESTful
+- Desarrollo de Microservicios
+- Java Spring Boot
+- Spring Batch
+- Bootstrap
+- Git
+- HTML5
+- JDBC
+- JUnit
+- Enterprise Java Beans (EJB)
+- Java Message Service (JMS)
+- Java Servlets
+- JavaServer Faces (JSF)
+- JavaServer Pages (JSP)
+- JavaScript
+- MySQL
+- Programación Orientada a Objetos
+- WebLogic Server
+- WebSphere Server
+- Spring Framework
+- Azure
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 mayo de 2003 hasta 31 diciembre de 2019
+Durante este período me desempeñé como Analista Técnico Programador, Coordinador del Servicio Informático, Supervisor Sr., Responsable de Programación de Lenguajes y Freelance, asumiendo funciones de desarrollo, mantenimiento, coordinación operativa y atención a necesidades internas de distintas áreas. También participé en la supervisión de servicios informáticos, soporte a la operación, mejora de procesos, administración de plataformas y construcción de aplicaciones administrativas. Esta etapa fortaleció mi capacidad para colaborar con usuarios, organizar actividades, dar continuidad a servicios y atender requerimientos institucionales y operativos.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniero en Sistemas Computacionales - enero 1998 - diciembre 2002 | Instituto Tecnológico de Veracruz | Cédula Profesional
+3939746
+09/09/2003
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Certified ScrumMaster® (CSM) | 2026-2028
+CURSOS
+- Docker for the Absolute Beginner – Hands On – DevOps
+- Curso de HTML5 desde cero: El más completo en Español
+- Master SQL: De cero a experto en Bases de Datos
+- Comienza con MongoDB: Curso de MongoDB desde cero
+- OpenShift 4 desde cero
+- PostgreSQL de Cero a Avanzado (pgAdmin4 y Shell)
+- Principios SOLID y Clean Code
+- Privileged Access Management (PAM) with CyberArk
+______________________________________
+Cesar Omar Subirie Hernandez
+Desarrollador Senior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

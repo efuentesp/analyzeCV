@@ -1,0 +1,160 @@
+Jhonatan Israel Ocampo Cortina
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Cuento con al menos 3 años de experiencia en centro de desarrollo de software. Domino tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías de código abierto. Genero el código necesario y doy mantenimiento correctivo y adicional para cumplir con la especificación técnica, ejecutando el proceso de desarrollo de software conforme a lo acordado y apegándome a los estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos establecidos en el plan de trabajo.
+
+Tengo amplia experiencia en atención y resolución de incidentes en entornos productivos, diseño técnico de soluciones y remediación de vulnerabilidades. Trabajo tanto en desarrollo backend como en soporte de aplicaciones, colaborando con equipos Aseguramiento de la Calidad (QA) y operaciones para restaurar servicios y aplicar correcciones seguras.
+
+Mi enfoque es garantizar la continuidad del servicio mediante diagnósticos precisos, parches y pruebas posteriores, aportando transferencia de conocimiento y cumplimiento de acuerdos de calidad.
+EXPERIENCIA LABORAL
+Empresa
+Coppel | Puesto
+Application Maintenance Solution Architect (L3) Senior. | Desde:
+1 octubre 2025 | Hasta: 
+A la fecha
+Actividades Principales | • Mantengo y doy soporte a los aplicativos dominando varios lenguajes de programación. Tengo habilidades en Resolución de problemas, Versionamiento del código (Git (Control de versiones distribuido)) y dominio en el desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño, desarrollo y ejecuto pruebas unitarias de componentes a partir de las especificaciones técnicas.
+• Utilizo e implemento adecuadamente el framework, subsistemas y componentes reutilizables definidos por la arquitectura, considerando aspectos de seguridad de la información.
+• Verifico que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, registrando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización, incluyendo políticas, registros de horas y estándares.
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).
+• He usado el curso Docker in AWS – Deploy Java Spring Boot to AWS Fargate  ECS para contenerizar y desplegar aplicaciones Spring Boot en AWS utilizando ECS y Fargate.
+• He usado el curso Introduction to Java EE para aprender los fundamentos del desarrollo de aplicaciones empresariales usando Java EE.
+• He usado el curso Ultimate Elasticsearch 8, Kibana, Logstash, Beats para implementar soluciones de búsqueda, análisis y monitoreo utilizando el stack ELK.
+• He usado la certificación ITIL® Foundation Certificate in IT Service Management 2019 como Marco de mejores prácticas para gestión de servicios de TI (incidentes, problemas, cambios, niveles de servicio, catálogo, CMDB, etc.).
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Diseño técnico de soluciones.
+• Resolución de problema / mejora complejos.
+• Toma de decisiones para implemetar soluciones técnicas.
+• Seguimiento de folios problema / mejora.
+• Aprobación y Respaldo de las soluciones técnicas a los folios problema / mejora.
+• Soluciones técnicas a problemas derivados por el proceso CI / CD.
+• Solución de vulnerabilidades / code smell / clean code.
+• Análisis de problemas e incidentes en Cadena de Suministros
+• Pruebas de componentes.
+• Aseguramiento de la Calidad (QA)
+• Documentación de pruebas
+• Notas de instalacion
+• Diseño de diagramas de la solución.
+• Remediación de vulnerabilidades de seguridad.
+• Análisis de solución a cada una de las vulnerabilidades.
+• Diseño de propuesta de solución para cada una de las vulnerabilidades.
+• Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.
+• Líder técnico para la atención de vulnerabilidades de los aplicativos de Grupo Bolsa Mexicana de Valores.
+• Desarrollo del backend e implementación para la exposición de servicios web REST para su consumo desde la parte frontend.
+• Actualización tecnológica para los aplicativos del Grupo BMV.
+• Ingeniero de Soporte para atención de incidencias en ambientes productivos de los aplicativos de Grupo BMV.
+• Trasferencias de conocimiento a colaboradores de la arquitectura y ambientación local del servidor para ejecución de pruebas unitarias de los aplicativos de Grupo BMV.Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Hibernate, EJB 3, Servicios web REST, Maven, Java (Lenguaje de programación para desarrollo de aplicaciones) 1.6, 1.7 y 1.8, patrones de diseño, SQL (Lenguaje para gestión y consulta de bases de datos relacionales) avanzado.
+• Ingeniero de Soporte para la gestión del servicio de aplicativos dentro del Instituto.
+• Atención de incidencias en ambientes productivos.
+• Desarrollo de Mantenimiento Menores.
+• Desarrollo de servicios web.
+• Desarrollo de procesos batrch para la sincronización de información.
+• Trasferencias de conocimiento de la arquitectura y ambientación local del aplicativos de pensionesy el aplicativo de sincronización de pensiones, a integrantes de nevo ingreso.
+• Ejecución y monitoreo de procesos batch.
+• Configuración de procesos calendarizados.
+• Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, Servicios web SOAP, Maven, Java (Lenguaje de programación para desarrollo de aplicaciones) 1.6, patrón de diseño Specification, SQL (Lenguaje para gestión y consulta de bases de datos relacionales) básico.
+Empresa
+Coppel | Puesto
+Application Maintenance Functional Tester (L3) Senior. | Desde:
+4 marzo 2024 | Hasta: 
+30 septiembre 2025
+Actividades Principales | • Análisis de problemas e incidentes en Cadena de Suministros
+• Pruebas de componentes.
+• Aseguramiento de la Calidad (QA)
+• Documentación de pruebas
+• Notas de instalacion
+• Diseño de diagramas de la solución.
+Empresa
+Banorte | Puesto
+Application Maintenance Engineer (L3) Senior. | Desde:
+2 octubre 2023 | Hasta: 
+29 febrero 2024
+Actividades Principales | • Remediación de vulnerabilidades de seguridad.
+• Análisis de solución a cada una de las vulnerabilidades.
+• Diseño de propuesta de solución para cada una de las vulnerabilidades.
+• Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.
+• Implementación de invocaciones asíncronas desde la aplicación para actualización de información en pantalla.
+Empresa
+Grupo Bolsa Mexicana de Valores | Puesto
+Application Maintenance Engineer (L3) Senior. | Desde:
+2 marzo 2023 | Hasta: 
+29 septiembre 2023
+Actividades Principales | • Líder técnico para la atención de vulnerabilidades de los aplicativos de Grupo Bolsa Mexicana de Valores.
+• Desarrollo del backend e implementación para la exposición de servicios web REST para su consumo desde la parte frontend.
+• Actualización tecnológica para los aplicativos del Grupo BMV.
+• Ingeniero de Soporte para atención de incidencias en ambientes productivos de los aplicativos de Grupo BMV.
+• Trasferencias de conocimiento a colaboradores de la arquitectura y ambientación local del servidor para ejecución de pruebas unitarias de los aplicativos de Grupo BMV.Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Hibernate, EJB 3, Servicios web REST, Maven, Java (Lenguaje de programación para desarrollo de aplicaciones) 1.6, 1.7 y 1.8, patrones de diseño, SQL (Lenguaje para gestión y consulta de bases de datos relacionales) avanzado.
+Empresa
+IMSS | Puesto
+Application Maintenance Engineer (L3) Senior. | Desde:
+3 febrero 2020 | Hasta: 
+28 febrero 2023
+Actividades Principales | • Ingeniero de Soporte para la gestión del servicio de aplicativos dentro del Instituto.
+• Atención de incidencias en ambientes productivos.
+• Desarrollo de Mantenimiento Menores.
+• Desarrollo de servicios web.
+• Desarrollo de procesos batrch para la sincronización de información.
+• Trasferencias de conocimiento de la arquitectura y ambientación local del aplicativos de pensionesy el aplicativo de sincronización de pensiones, a integrantes de nevo ingreso.
+• Ejecución y monitoreo de procesos batch.
+• Configuración de procesos calendarizados.
+• Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, Servicios web SOAP, Maven, Java (Lenguaje de programación para desarrollo de aplicaciones) 1.6, patrón de diseño Specification, SQL (Lenguaje para gestión y consulta de bases de datos relacionales) básico.
+HERRAMIENTAS CONOCIDAS
+- Java 17
+- Java 21
+- Spring Boot
+- Spring Cloud
+- Spring MVC
+- Spring Core
+- Spring Batch
+- Hibernate
+- Maven
+- Git
+- Kubernetes
+- Google Cloud Platform (GCP)
+- Oracle 11g/19g
+- Microsoft SQL Server
+- DB2
+- Tomcat
+- WebLogic
+- JBoss
+- SVN
+- TFS
+- AngularJs
+- JSF/PrimeFaces
+- log4j
+- Spring WS
+- JMS / Queues
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 marzo de 2012 hasta 01 febrero de 2020
+Durante este período asumí responsabilidades técnicas y de soporte enfocadas en mantenimiento y desarrollo de aplicaciones. Me desempeñé como Analista/Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) Sr., Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) Jr. y Líder Técnico, asumiendo la atención de incidencias en ambientes productivos, desarrollo de servicios web y generación de empaquetados para despliegues. Participé en la actualización tecnológica, capacitación de nuevos integrantes y en la documentación técnica necesaria para asegurar continuidad operativa y transferencia de conocimiento.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Sistemas Computacionales - 2007-2012 | Instituto Tecnológico de Zacatepec, Zacatepec, Morelos, México. | Cédula Profesional
+8018220
+1/4/2013
+CERTIFICACIONES
+- ITIL® Foundation Certificate in IT Service Management | 2019
+CURSOS
+- Docker in AWS – Deploy Java Spring Boot to AWS Fargate  ECS
+- Introduction to Java EE
+- Ultimate Elasticsearch 8, Kibana, Logstash, Beats: ELK Stack
+- Diego TT Exam
+______________________________________
+Jhonatan Israel Ocampo Cortina
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

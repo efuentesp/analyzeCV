@@ -1,0 +1,118 @@
+Erick Daniel Lozoya Rosas
+PERFIL: Desarrollador Full Stack
+Tengo más de cinco años de experiencia en el desarrollo de aplicaciones web con CFML, SQL y C#, así como en la implementación y gestión de soluciones en la nube con AWS. Estoy certificado como AWS Cloud Practitioner, Adobe ColdFusion Professional y Scrum Developer. Me gradué de la Universidad Politécnica de Durango (UNIPOLI) con un grado en Ingeniería de Software en 2019. Mi pasión es crear productos innovadores y de calidad que resuelvan problemas reales y generen valor para los clientes y usuarios. Me considero un profesional comprometido, colaborativo y orientado al aprendizaje continuo. Mi objetivo es seguir creciendo como desarrollador y aportar a la transformación digital de las organizaciones.
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa: Softtek | Nombre de la empresa: Softtek | Lugar: 
+Guadalajara | Puesto: 
+ System Engineer | Desde:  
+Marzo 2021 | A:  
+Actual
+• Trabajo como desarrollador backend utilizando tecnologías como 
+ColdFusion, PHP, ASP, SQL Server y GitLab para dar 
+mantenimiento y actualizar aplicaciones web.
+• Soluciono problemas de código, defectos del sistema y 
+vulnerabilidades utilizando ColdFusion, PHP y ASP en aplicaciones 
+web.
+• Utilizo herramientas de escaneo de vulnerabilidades y defectos como Checkmarx para mejorar la sanidad del código. | • Trabajo como desarrollador backend utilizando tecnologías como 
+ColdFusion, PHP, ASP, SQL Server y GitLab para dar 
+mantenimiento y actualizar aplicaciones web.
+• Soluciono problemas de código, defectos del sistema y 
+vulnerabilidades utilizando ColdFusion, PHP y ASP en aplicaciones 
+web.
+• Utilizo herramientas de escaneo de vulnerabilidades y defectos como Checkmarx para mejorar la sanidad del código. | • Trabajo como desarrollador backend utilizando tecnologías como 
+ColdFusion, PHP, ASP, SQL Server y GitLab para dar 
+mantenimiento y actualizar aplicaciones web.
+• Soluciono problemas de código, defectos del sistema y 
+vulnerabilidades utilizando ColdFusion, PHP y ASP en aplicaciones 
+web.
+• Utilizo herramientas de escaneo de vulnerabilidades y defectos como Checkmarx para mejorar la sanidad del código. | • Trabajo como desarrollador backend utilizando tecnologías como 
+ColdFusion, PHP, ASP, SQL Server y GitLab para dar 
+mantenimiento y actualizar aplicaciones web.
+• Soluciono problemas de código, defectos del sistema y 
+vulnerabilidades utilizando ColdFusion, PHP y ASP en aplicaciones 
+web.
+• Utilizo herramientas de escaneo de vulnerabilidades y defectos como Checkmarx para mejorar la sanidad del código.
+Herramientas: | ColdFusion, C#, PHP, Javascript, Typescript, PostgreSQL, GitLab, TFS | ColdFusion, C#, PHP, Javascript, Typescript, PostgreSQL, GitLab, TFS | ColdFusion, C#, PHP, Javascript, Typescript, PostgreSQL, GitLab, TFS
+Nombre de la empresa: EISEI Innovation | Nombre de la empresa: EISEI Innovation | Lugar: 
+Durango | Puesto: 
+Net Developer | Desde:  
+Mayo 2019 | A:  
+Febrero 2021
+Trabajé como desarrollador backend en un sistema para una compañía de seguros en Perú, donde desarrollé servicios web y aplicaciones web con C# en ASP MVC, utilizando también SQL Server.
+Realicé el desarrollo del rediseño completo de un sistema 
+interno, adaptando las tecnologías a una versión más actualizada.
+ Creé y di mantenimiento a APIs REST utilizando .NET Core para 
+implementarlas en el desarrollo Frontend. | Trabajé como desarrollador backend en un sistema para una compañía de seguros en Perú, donde desarrollé servicios web y aplicaciones web con C# en ASP MVC, utilizando también SQL Server.
+Realicé el desarrollo del rediseño completo de un sistema 
+interno, adaptando las tecnologías a una versión más actualizada.
+ Creé y di mantenimiento a APIs REST utilizando .NET Core para 
+implementarlas en el desarrollo Frontend. | Trabajé como desarrollador backend en un sistema para una compañía de seguros en Perú, donde desarrollé servicios web y aplicaciones web con C# en ASP MVC, utilizando también SQL Server.
+Realicé el desarrollo del rediseño completo de un sistema 
+interno, adaptando las tecnologías a una versión más actualizada.
+ Creé y di mantenimiento a APIs REST utilizando .NET Core para 
+implementarlas en el desarrollo Frontend. | Trabajé como desarrollador backend en un sistema para una compañía de seguros en Perú, donde desarrollé servicios web y aplicaciones web con C# en ASP MVC, utilizando también SQL Server.
+Realicé el desarrollo del rediseño completo de un sistema 
+interno, adaptando las tecnologías a una versión más actualizada.
+ Creé y di mantenimiento a APIs REST utilizando .NET Core para 
+implementarlas en el desarrollo Frontend. | Trabajé como desarrollador backend en un sistema para una compañía de seguros en Perú, donde desarrollé servicios web y aplicaciones web con C# en ASP MVC, utilizando también SQL Server.
+Realicé el desarrollo del rediseño completo de un sistema 
+interno, adaptando las tecnologías a una versión más actualizada.
+ Creé y di mantenimiento a APIs REST utilizando .NET Core para 
+implementarlas en el desarrollo Frontend. | Trabajé como desarrollador backend en un sistema para una compañía de seguros en Perú, donde desarrollé servicios web y aplicaciones web con C# en ASP MVC, utilizando también SQL Server.
+Realicé el desarrollo del rediseño completo de un sistema 
+interno, adaptando las tecnologías a una versión más actualizada.
+ Creé y di mantenimiento a APIs REST utilizando .NET Core para 
+implementarlas en el desarrollo Frontend.
+Herramientas: | Net Core, ASP, C#, SQL Server, Javascript | Net Core, ASP, C#, SQL Server, Javascript | Net Core, ASP, C#, SQL Server, Javascript | Net Core, ASP, C#, SQL Server, Javascript | Net Core, ASP, C#, SQL Server, Javascript
+Nombre de la empresa: Cartwheel Galaxy Inc | Nombre de la empresa: Cartwheel Galaxy Inc | Lugar: 
+Durango | Puesto: 
+Cloud Engineer | Desde:  
+Agosto 2018 | A:  
+Abril 2019
+Trabajé como Ingeniero de la Nube a cargo de las soluciones 
+arquitectónicas con AWS en diversos proyectos.
+ Desempeñé el rol de desarrollador backend, creando servicios 
+REST con Lambda y API Gateway, además de utilizar diferentes servicios como EC2, S3, RDS y DynamoDB, entre otros. | Trabajé como Ingeniero de la Nube a cargo de las soluciones 
+arquitectónicas con AWS en diversos proyectos.
+ Desempeñé el rol de desarrollador backend, creando servicios 
+REST con Lambda y API Gateway, además de utilizar diferentes servicios como EC2, S3, RDS y DynamoDB, entre otros. | Trabajé como Ingeniero de la Nube a cargo de las soluciones 
+arquitectónicas con AWS en diversos proyectos.
+ Desempeñé el rol de desarrollador backend, creando servicios 
+REST con Lambda y API Gateway, además de utilizar diferentes servicios como EC2, S3, RDS y DynamoDB, entre otros. | Trabajé como Ingeniero de la Nube a cargo de las soluciones 
+arquitectónicas con AWS en diversos proyectos.
+ Desempeñé el rol de desarrollador backend, creando servicios 
+REST con Lambda y API Gateway, además de utilizar diferentes servicios como EC2, S3, RDS y DynamoDB, entre otros. | Trabajé como Ingeniero de la Nube a cargo de las soluciones 
+arquitectónicas con AWS en diversos proyectos.
+ Desempeñé el rol de desarrollador backend, creando servicios 
+REST con Lambda y API Gateway, además de utilizar diferentes servicios como EC2, S3, RDS y DynamoDB, entre otros. | Trabajé como Ingeniero de la Nube a cargo de las soluciones 
+arquitectónicas con AWS en diversos proyectos.
+ Desempeñé el rol de desarrollador backend, creando servicios 
+REST con Lambda y API Gateway, además de utilizar diferentes servicios como EC2, S3, RDS y DynamoDB, entre otros.
+Herramientas: | Amazon Web Serivices, C# | Amazon Web Serivices, C# | Amazon Web Serivices, C# | Amazon Web Serivices, C# | Amazon Web Serivices, C#
+ESTUDIOS:
+Escuela:    
+UNIR México | Lugar:   
+Ciudad de México
+Carrera: Maestría en Ciencias Computacionales y Matemáticas Aplicadas (Titulo en tramite) | Fecha de duración:  
+Mayo 2019 a  Octubre 2025
+Escuela:    
+Universidad Politécnica de Durango | Lugar:   
+Durango, Durango.
+Carrera: Ingeniería en Software | Fecha de duración:  
+Noviembre 2016 a Diciembre 2019
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Certified PHP Developer | En línea | 03/07/2023
+Scrum Developer Certified | En línea | 21/01/2023
+Adobe Cerified Professional – Adobe Coldfusion | En línea | 27/08/2022
+AWS Certified Cloud Practitioner | En línea | 07/04/2022
+IDIOMAS:
+Español: | Nativo
+Inglés: | B2
+.
+Perfil principal: | Desarrollador ColdFusion
+Perfil secundario: | Desarrollador Net
+Sistemas operativos: | Windows/Linux
+Lenguajes de programación: | ColdFusion, C#, PHP, Javascript, TypeScript
+Bases de datos: | SQL Server, PostgreSQL, DynamoDB, MySQL
+Otros: | Git, AWS

@@ -1,0 +1,1078 @@
+Israel Sarmiento García
+PERFIL:
+7 años como PM, coordinando equipos, dando seguimiento en todo el ciclo de vida del proyecto 
+Análisis de viabilidad del proyecto: 
+Creación del registro de seguimiento en la herramienta de gestión de la empresa. 
+Análisis previo del alcance del proyecto. 
+Análisis de los riesgos de ejecución del proyecto. 
+Análisis de viabilidad de acuerdo con fechas compromiso y calidad. 
+Actividades de planeación: 
+Análisis del alcance del proyecto, validación de estimaciones de esfuerzo y recursos, definición del plan de proyecto. 
+Ejecución del Proyecto: 
+Asignación de las tareas planificadas a los recursos disponibles. 
+Gestión de controles de cambio. 
+Pruebas y Liberación:
+Seguimiento a pruebas y atención de defectos. 
+Gestión de actividades de liberación.
+Seguimiento y control del trabajo: 
+Seguimiento de tareas e hitos planificados.
+Gestión de entregables (incluido control de la calidad).
+Gestión de incidencias.
+Generación de informes de seguimiento.
+Cierre del Proyecto: 
+Cierre formal del proyecto por parte de todos los actores involucrados en el proyecto (stakeholders).
+Realización del backup del proyecto.
+Sesión de Lecciones aprendidas.
+2 años participando como SCRUM Master y Project Manager aplicando el marco de referencia ágil y tradicional
+1 año participando en el cumplimiento a procesos y alineación a metodologías de ITIL y COBIT.
+4 años de experiencia en el SAT como responsable del aseguramiento de calidad en los entregables de liberación y alineando a los procesos de la metodología Softtek del PDSS y la práctica de AMS y Dev.
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa:
+
+Instituto Mexicano del Seguro Social | Nombre de la empresa:
+
+Instituto Mexicano del Seguro Social | Lugar: 
+
+México | Puesto: 
+Administrador de Proyectos MP/Project Manager/Service Manager Senior | Desde: 
+
+09/03/2021 | A: 
+
+Actual
+Funciones:
+Responsable del control y seguimiento de proyectos
+Alinear el proyecto al Modelo de Trabajo Ágil (MTA) o Modelo de Trabajo Tradicional (MTT)
+Facilitador de reuniones y del equipo de trabajo (Dailys, Check Point, Refinamiento y Retrospectivas)
+Gestionar los obstáculos que impiden o ponen en riesgo alcance del objetivo del sprint
+Elaboración de cronogramas, RoadMaps y matiz de entregables para el control de proyectos
+Elaboración de documentación de la fase inicial
+Reportar avances semanales con las coordinaciones
+Evaluar, planear y coordinar cambios de alcance
+Seguimiento y atención de Riesgos y Problemas
+Organizar y gestionar con equipo de trabajo para realizar entrega de aplicativos a la operación
+Seguimiento a las diferentes áreas para la elaboración documental y lograr el cierre de proyecto
+Generación de bitácoras para reportar actividades realizadas durante la semana
+
+Logros:
+Actualmente llevo el control del proyecto de generación de tableros del NML con el área de Analítica, en el que ya se liberaron 2 de 9 tableros a producción con un margen de desviación de 1%, tengo el proyecto de Imagenología VNA, coordinando con proveedor y área de infraestructura para lograr la ambientación productiva del envío de imágenes al VNA, realicé en colaboración con el equipo Microsoft la liberación del aplicativo SIADE F4 a producción y llevo la gestión del aplicativo CCSGSAT para la entrega a la operación, llevé el control del proyecto del Nuevo Módulo Laboral aplicando el marco de referencia ágil el cual se liberó a producción de manera exitosa y pasó la auditoría al 100%, llevé el seguimiento del proyecto ICSOE con la metodología tradicional se concluyó la entrega documental y se tomó como base para la auditoria de proyectos en proceso de entrega, realicé la entrega a la operación de los siguientes proyectos con un margen de 3 a 4 meses que originalmente se realizaban en 1 año y medio: Sistema de Seguimiento de Casos, REFSMI, TSPI, 140Bis, Encuesta Panel, NMPS, Incapacidad por maternidad no presencial, CIRC, EDS, VIH y PMC | Funciones:
+Responsable del control y seguimiento de proyectos
+Alinear el proyecto al Modelo de Trabajo Ágil (MTA) o Modelo de Trabajo Tradicional (MTT)
+Facilitador de reuniones y del equipo de trabajo (Dailys, Check Point, Refinamiento y Retrospectivas)
+Gestionar los obstáculos que impiden o ponen en riesgo alcance del objetivo del sprint
+Elaboración de cronogramas, RoadMaps y matiz de entregables para el control de proyectos
+Elaboración de documentación de la fase inicial
+Reportar avances semanales con las coordinaciones
+Evaluar, planear y coordinar cambios de alcance
+Seguimiento y atención de Riesgos y Problemas
+Organizar y gestionar con equipo de trabajo para realizar entrega de aplicativos a la operación
+Seguimiento a las diferentes áreas para la elaboración documental y lograr el cierre de proyecto
+Generación de bitácoras para reportar actividades realizadas durante la semana
+
+Logros:
+Actualmente llevo el control del proyecto de generación de tableros del NML con el área de Analítica, en el que ya se liberaron 2 de 9 tableros a producción con un margen de desviación de 1%, tengo el proyecto de Imagenología VNA, coordinando con proveedor y área de infraestructura para lograr la ambientación productiva del envío de imágenes al VNA, realicé en colaboración con el equipo Microsoft la liberación del aplicativo SIADE F4 a producción y llevo la gestión del aplicativo CCSGSAT para la entrega a la operación, llevé el control del proyecto del Nuevo Módulo Laboral aplicando el marco de referencia ágil el cual se liberó a producción de manera exitosa y pasó la auditoría al 100%, llevé el seguimiento del proyecto ICSOE con la metodología tradicional se concluyó la entrega documental y se tomó como base para la auditoria de proyectos en proceso de entrega, realicé la entrega a la operación de los siguientes proyectos con un margen de 3 a 4 meses que originalmente se realizaban en 1 año y medio: Sistema de Seguimiento de Casos, REFSMI, TSPI, 140Bis, Encuesta Panel, NMPS, Incapacidad por maternidad no presencial, CIRC, EDS, VIH y PMC | Funciones:
+Responsable del control y seguimiento de proyectos
+Alinear el proyecto al Modelo de Trabajo Ágil (MTA) o Modelo de Trabajo Tradicional (MTT)
+Facilitador de reuniones y del equipo de trabajo (Dailys, Check Point, Refinamiento y Retrospectivas)
+Gestionar los obstáculos que impiden o ponen en riesgo alcance del objetivo del sprint
+Elaboración de cronogramas, RoadMaps y matiz de entregables para el control de proyectos
+Elaboración de documentación de la fase inicial
+Reportar avances semanales con las coordinaciones
+Evaluar, planear y coordinar cambios de alcance
+Seguimiento y atención de Riesgos y Problemas
+Organizar y gestionar con equipo de trabajo para realizar entrega de aplicativos a la operación
+Seguimiento a las diferentes áreas para la elaboración documental y lograr el cierre de proyecto
+Generación de bitácoras para reportar actividades realizadas durante la semana
+
+Logros:
+Actualmente llevo el control del proyecto de generación de tableros del NML con el área de Analítica, en el que ya se liberaron 2 de 9 tableros a producción con un margen de desviación de 1%, tengo el proyecto de Imagenología VNA, coordinando con proveedor y área de infraestructura para lograr la ambientación productiva del envío de imágenes al VNA, realicé en colaboración con el equipo Microsoft la liberación del aplicativo SIADE F4 a producción y llevo la gestión del aplicativo CCSGSAT para la entrega a la operación, llevé el control del proyecto del Nuevo Módulo Laboral aplicando el marco de referencia ágil el cual se liberó a producción de manera exitosa y pasó la auditoría al 100%, llevé el seguimiento del proyecto ICSOE con la metodología tradicional se concluyó la entrega documental y se tomó como base para la auditoria de proyectos en proceso de entrega, realicé la entrega a la operación de los siguientes proyectos con un margen de 3 a 4 meses que originalmente se realizaban en 1 año y medio: Sistema de Seguimiento de Casos, REFSMI, TSPI, 140Bis, Encuesta Panel, NMPS, Incapacidad por maternidad no presencial, CIRC, EDS, VIH y PMC | Funciones:
+Responsable del control y seguimiento de proyectos
+Alinear el proyecto al Modelo de Trabajo Ágil (MTA) o Modelo de Trabajo Tradicional (MTT)
+Facilitador de reuniones y del equipo de trabajo (Dailys, Check Point, Refinamiento y Retrospectivas)
+Gestionar los obstáculos que impiden o ponen en riesgo alcance del objetivo del sprint
+Elaboración de cronogramas, RoadMaps y matiz de entregables para el control de proyectos
+Elaboración de documentación de la fase inicial
+Reportar avances semanales con las coordinaciones
+Evaluar, planear y coordinar cambios de alcance
+Seguimiento y atención de Riesgos y Problemas
+Organizar y gestionar con equipo de trabajo para realizar entrega de aplicativos a la operación
+Seguimiento a las diferentes áreas para la elaboración documental y lograr el cierre de proyecto
+Generación de bitácoras para reportar actividades realizadas durante la semana
+
+Logros:
+Actualmente llevo el control del proyecto de generación de tableros del NML con el área de Analítica, en el que ya se liberaron 2 de 9 tableros a producción con un margen de desviación de 1%, tengo el proyecto de Imagenología VNA, coordinando con proveedor y área de infraestructura para lograr la ambientación productiva del envío de imágenes al VNA, realicé en colaboración con el equipo Microsoft la liberación del aplicativo SIADE F4 a producción y llevo la gestión del aplicativo CCSGSAT para la entrega a la operación, llevé el control del proyecto del Nuevo Módulo Laboral aplicando el marco de referencia ágil el cual se liberó a producción de manera exitosa y pasó la auditoría al 100%, llevé el seguimiento del proyecto ICSOE con la metodología tradicional se concluyó la entrega documental y se tomó como base para la auditoria de proyectos en proceso de entrega, realicé la entrega a la operación de los siguientes proyectos con un margen de 3 a 4 meses que originalmente se realizaban en 1 año y medio: Sistema de Seguimiento de Casos, REFSMI, TSPI, 140Bis, Encuesta Panel, NMPS, Incapacidad por maternidad no presencial, CIRC, EDS, VIH y PMC | Funciones:
+Responsable del control y seguimiento de proyectos
+Alinear el proyecto al Modelo de Trabajo Ágil (MTA) o Modelo de Trabajo Tradicional (MTT)
+Facilitador de reuniones y del equipo de trabajo (Dailys, Check Point, Refinamiento y Retrospectivas)
+Gestionar los obstáculos que impiden o ponen en riesgo alcance del objetivo del sprint
+Elaboración de cronogramas, RoadMaps y matiz de entregables para el control de proyectos
+Elaboración de documentación de la fase inicial
+Reportar avances semanales con las coordinaciones
+Evaluar, planear y coordinar cambios de alcance
+Seguimiento y atención de Riesgos y Problemas
+Organizar y gestionar con equipo de trabajo para realizar entrega de aplicativos a la operación
+Seguimiento a las diferentes áreas para la elaboración documental y lograr el cierre de proyecto
+Generación de bitácoras para reportar actividades realizadas durante la semana
+
+Logros:
+Actualmente llevo el control del proyecto de generación de tableros del NML con el área de Analítica, en el que ya se liberaron 2 de 9 tableros a producción con un margen de desviación de 1%, tengo el proyecto de Imagenología VNA, coordinando con proveedor y área de infraestructura para lograr la ambientación productiva del envío de imágenes al VNA, realicé en colaboración con el equipo Microsoft la liberación del aplicativo SIADE F4 a producción y llevo la gestión del aplicativo CCSGSAT para la entrega a la operación, llevé el control del proyecto del Nuevo Módulo Laboral aplicando el marco de referencia ágil el cual se liberó a producción de manera exitosa y pasó la auditoría al 100%, llevé el seguimiento del proyecto ICSOE con la metodología tradicional se concluyó la entrega documental y se tomó como base para la auditoria de proyectos en proceso de entrega, realicé la entrega a la operación de los siguientes proyectos con un margen de 3 a 4 meses que originalmente se realizaban en 1 año y medio: Sistema de Seguimiento de Casos, REFSMI, TSPI, 140Bis, Encuesta Panel, NMPS, Incapacidad por maternidad no presencial, CIRC, EDS, VIH y PMC | Funciones:
+Responsable del control y seguimiento de proyectos
+Alinear el proyecto al Modelo de Trabajo Ágil (MTA) o Modelo de Trabajo Tradicional (MTT)
+Facilitador de reuniones y del equipo de trabajo (Dailys, Check Point, Refinamiento y Retrospectivas)
+Gestionar los obstáculos que impiden o ponen en riesgo alcance del objetivo del sprint
+Elaboración de cronogramas, RoadMaps y matiz de entregables para el control de proyectos
+Elaboración de documentación de la fase inicial
+Reportar avances semanales con las coordinaciones
+Evaluar, planear y coordinar cambios de alcance
+Seguimiento y atención de Riesgos y Problemas
+Organizar y gestionar con equipo de trabajo para realizar entrega de aplicativos a la operación
+Seguimiento a las diferentes áreas para la elaboración documental y lograr el cierre de proyecto
+Generación de bitácoras para reportar actividades realizadas durante la semana
+
+Logros:
+Actualmente llevo el control del proyecto de generación de tableros del NML con el área de Analítica, en el que ya se liberaron 2 de 9 tableros a producción con un margen de desviación de 1%, tengo el proyecto de Imagenología VNA, coordinando con proveedor y área de infraestructura para lograr la ambientación productiva del envío de imágenes al VNA, realicé en colaboración con el equipo Microsoft la liberación del aplicativo SIADE F4 a producción y llevo la gestión del aplicativo CCSGSAT para la entrega a la operación, llevé el control del proyecto del Nuevo Módulo Laboral aplicando el marco de referencia ágil el cual se liberó a producción de manera exitosa y pasó la auditoría al 100%, llevé el seguimiento del proyecto ICSOE con la metodología tradicional se concluyó la entrega documental y se tomó como base para la auditoria de proyectos en proceso de entrega, realicé la entrega a la operación de los siguientes proyectos con un margen de 3 a 4 meses que originalmente se realizaban en 1 año y medio: Sistema de Seguimiento de Casos, REFSMI, TSPI, 140Bis, Encuesta Panel, NMPS, Incapacidad por maternidad no presencial, CIRC, EDS, VIH y PMC
+Herramientas: | Project Server, Microsoft Project, Power BI, Teams, Excel | Project Server, Microsoft Project, Power BI, Teams, Excel | Project Server, Microsoft Project, Power BI, Teams, Excel | Project Server, Microsoft Project, Power BI, Teams, Excel | Project Server, Microsoft Project, Power BI, Teams, Excel
+Nombre de la empresa:
+
+Coppel | Nombre de la empresa:
+
+Coppel | Lugar: 
+
+México | Puesto: 
+Administrador de proyecto | Desde: 
+
+20/01/2020 | A: 
+
+11/01/2021
+Funciones:
+Responsable de la generación, administración y seguimiento del plan de trabajo
+Comunicar oportunamente al líder de proyecto y colaboradores sobre el avance de cada una de las tareas y entregables
+Realizar la entrega formal de documentación comprometida en las fases del proyecto
+Apoyar a la DM en la gestión de insumos requeridos para generar la pre-factura 
+Responsable de la elaboración de presentación semanal para comunicar el estatus del proyecto y su avance
+Generación de minuta y seguimiento a los acuerdos
+Revisión semanal de métricas en PPM con el cliente
+Atención de riesgos en conjunto con el líder del proyecto y DM de para el cumplimiento del plan del proyecto
+
+Logros:
+Participé en el proyecto AGORA en gobierno de TI en el que se logró realizar la implementación de los marcos de referencia ITIL4 y COBIT 2019, comunicando avances y desviaciones del plan de trabajo y realizando las entregas documentales para el cierre de actividades garantizando que se cumplieran las tareas planeadas en el tiempo y forma para lograr la facturación exitosa sin desviaciones en fecha. | Funciones:
+Responsable de la generación, administración y seguimiento del plan de trabajo
+Comunicar oportunamente al líder de proyecto y colaboradores sobre el avance de cada una de las tareas y entregables
+Realizar la entrega formal de documentación comprometida en las fases del proyecto
+Apoyar a la DM en la gestión de insumos requeridos para generar la pre-factura 
+Responsable de la elaboración de presentación semanal para comunicar el estatus del proyecto y su avance
+Generación de minuta y seguimiento a los acuerdos
+Revisión semanal de métricas en PPM con el cliente
+Atención de riesgos en conjunto con el líder del proyecto y DM de para el cumplimiento del plan del proyecto
+
+Logros:
+Participé en el proyecto AGORA en gobierno de TI en el que se logró realizar la implementación de los marcos de referencia ITIL4 y COBIT 2019, comunicando avances y desviaciones del plan de trabajo y realizando las entregas documentales para el cierre de actividades garantizando que se cumplieran las tareas planeadas en el tiempo y forma para lograr la facturación exitosa sin desviaciones en fecha. | Funciones:
+Responsable de la generación, administración y seguimiento del plan de trabajo
+Comunicar oportunamente al líder de proyecto y colaboradores sobre el avance de cada una de las tareas y entregables
+Realizar la entrega formal de documentación comprometida en las fases del proyecto
+Apoyar a la DM en la gestión de insumos requeridos para generar la pre-factura 
+Responsable de la elaboración de presentación semanal para comunicar el estatus del proyecto y su avance
+Generación de minuta y seguimiento a los acuerdos
+Revisión semanal de métricas en PPM con el cliente
+Atención de riesgos en conjunto con el líder del proyecto y DM de para el cumplimiento del plan del proyecto
+
+Logros:
+Participé en el proyecto AGORA en gobierno de TI en el que se logró realizar la implementación de los marcos de referencia ITIL4 y COBIT 2019, comunicando avances y desviaciones del plan de trabajo y realizando las entregas documentales para el cierre de actividades garantizando que se cumplieran las tareas planeadas en el tiempo y forma para lograr la facturación exitosa sin desviaciones en fecha. | Funciones:
+Responsable de la generación, administración y seguimiento del plan de trabajo
+Comunicar oportunamente al líder de proyecto y colaboradores sobre el avance de cada una de las tareas y entregables
+Realizar la entrega formal de documentación comprometida en las fases del proyecto
+Apoyar a la DM en la gestión de insumos requeridos para generar la pre-factura 
+Responsable de la elaboración de presentación semanal para comunicar el estatus del proyecto y su avance
+Generación de minuta y seguimiento a los acuerdos
+Revisión semanal de métricas en PPM con el cliente
+Atención de riesgos en conjunto con el líder del proyecto y DM de para el cumplimiento del plan del proyecto
+
+Logros:
+Participé en el proyecto AGORA en gobierno de TI en el que se logró realizar la implementación de los marcos de referencia ITIL4 y COBIT 2019, comunicando avances y desviaciones del plan de trabajo y realizando las entregas documentales para el cierre de actividades garantizando que se cumplieran las tareas planeadas en el tiempo y forma para lograr la facturación exitosa sin desviaciones en fecha. | Funciones:
+Responsable de la generación, administración y seguimiento del plan de trabajo
+Comunicar oportunamente al líder de proyecto y colaboradores sobre el avance de cada una de las tareas y entregables
+Realizar la entrega formal de documentación comprometida en las fases del proyecto
+Apoyar a la DM en la gestión de insumos requeridos para generar la pre-factura 
+Responsable de la elaboración de presentación semanal para comunicar el estatus del proyecto y su avance
+Generación de minuta y seguimiento a los acuerdos
+Revisión semanal de métricas en PPM con el cliente
+Atención de riesgos en conjunto con el líder del proyecto y DM de para el cumplimiento del plan del proyecto
+
+Logros:
+Participé en el proyecto AGORA en gobierno de TI en el que se logró realizar la implementación de los marcos de referencia ITIL4 y COBIT 2019, comunicando avances y desviaciones del plan de trabajo y realizando las entregas documentales para el cierre de actividades garantizando que se cumplieran las tareas planeadas en el tiempo y forma para lograr la facturación exitosa sin desviaciones en fecha. | Funciones:
+Responsable de la generación, administración y seguimiento del plan de trabajo
+Comunicar oportunamente al líder de proyecto y colaboradores sobre el avance de cada una de las tareas y entregables
+Realizar la entrega formal de documentación comprometida en las fases del proyecto
+Apoyar a la DM en la gestión de insumos requeridos para generar la pre-factura 
+Responsable de la elaboración de presentación semanal para comunicar el estatus del proyecto y su avance
+Generación de minuta y seguimiento a los acuerdos
+Revisión semanal de métricas en PPM con el cliente
+Atención de riesgos en conjunto con el líder del proyecto y DM de para el cumplimiento del plan del proyecto
+
+Logros:
+Participé en el proyecto AGORA en gobierno de TI en el que se logró realizar la implementación de los marcos de referencia ITIL4 y COBIT 2019, comunicando avances y desviaciones del plan de trabajo y realizando las entregas documentales para el cierre de actividades garantizando que se cumplieran las tareas planeadas en el tiempo y forma para lograr la facturación exitosa sin desviaciones en fecha.
+Herramientas: | Teams, PPM, Excel y Project | Teams, PPM, Excel y Project | Teams, PPM, Excel y Project | Teams, PPM, Excel y Project | Teams, PPM, Excel y Project
+Nombre de la empresa:
+AT&T-Softtek | Nombre de la empresa:
+AT&T-Softtek | Lugar: 
+México | Puesto: 
+Administrador de proyecto | Desde: 
+08/10/2018 | A: 
+12/12/2019
+Funciones:
+Planeación, coordinación, validación y aseguramiento de que se ejecuten las actividades programadas en el plan de trabajo
+Coordinación de proveedores en la implementación de las diversas fases del proyecto.
+Validación y gestión de entrega de documentación facturable al cliente sobre los servicios realizados en fase de implementación.
+Elaboración de reportes, bitácoras, minutas, presentaciones y seguimiento de actividades de electromecánicos directamente en sedes.
+Seguimiento a la adquisición con proveedores, logística y entrega de elementos suministrados al cliente y gestión de entregas en centrales AT&T.
+Gestión y ejecución de ventanas de mantenimientos e instalación de electromecánicos (identificando y administrando riesgos e issues).
+Gestión y planeación de accesos a las instalaciones del cliente programando las visitas de instalación de equipos.
+Diseño de la logística de instalación de elementos electromecánicos (Plantas Millenium, PDFs y PDBs), Configuración, Etiquetado y Conexión a monitoreo de elementos GE y Medidores Eléctricos.
+Generación de inventarios y administración de insumos 
+
+Logros:
+Participé en el proyecto blauLabs realizando las funciones de Elaboración y Seguimiento a Plan de Trabajo, Seguimiento a Implementación, Identificación y Mitigación de Riesgos, Apoyo en la Toma de Decisiones, Logística de Suministro de equipos, Configuración de Equipos, Generación de Inventarios y seguimiento a carga en blauLabs. | Funciones:
+Planeación, coordinación, validación y aseguramiento de que se ejecuten las actividades programadas en el plan de trabajo
+Coordinación de proveedores en la implementación de las diversas fases del proyecto.
+Validación y gestión de entrega de documentación facturable al cliente sobre los servicios realizados en fase de implementación.
+Elaboración de reportes, bitácoras, minutas, presentaciones y seguimiento de actividades de electromecánicos directamente en sedes.
+Seguimiento a la adquisición con proveedores, logística y entrega de elementos suministrados al cliente y gestión de entregas en centrales AT&T.
+Gestión y ejecución de ventanas de mantenimientos e instalación de electromecánicos (identificando y administrando riesgos e issues).
+Gestión y planeación de accesos a las instalaciones del cliente programando las visitas de instalación de equipos.
+Diseño de la logística de instalación de elementos electromecánicos (Plantas Millenium, PDFs y PDBs), Configuración, Etiquetado y Conexión a monitoreo de elementos GE y Medidores Eléctricos.
+Generación de inventarios y administración de insumos 
+
+Logros:
+Participé en el proyecto blauLabs realizando las funciones de Elaboración y Seguimiento a Plan de Trabajo, Seguimiento a Implementación, Identificación y Mitigación de Riesgos, Apoyo en la Toma de Decisiones, Logística de Suministro de equipos, Configuración de Equipos, Generación de Inventarios y seguimiento a carga en blauLabs. | Funciones:
+Planeación, coordinación, validación y aseguramiento de que se ejecuten las actividades programadas en el plan de trabajo
+Coordinación de proveedores en la implementación de las diversas fases del proyecto.
+Validación y gestión de entrega de documentación facturable al cliente sobre los servicios realizados en fase de implementación.
+Elaboración de reportes, bitácoras, minutas, presentaciones y seguimiento de actividades de electromecánicos directamente en sedes.
+Seguimiento a la adquisición con proveedores, logística y entrega de elementos suministrados al cliente y gestión de entregas en centrales AT&T.
+Gestión y ejecución de ventanas de mantenimientos e instalación de electromecánicos (identificando y administrando riesgos e issues).
+Gestión y planeación de accesos a las instalaciones del cliente programando las visitas de instalación de equipos.
+Diseño de la logística de instalación de elementos electromecánicos (Plantas Millenium, PDFs y PDBs), Configuración, Etiquetado y Conexión a monitoreo de elementos GE y Medidores Eléctricos.
+Generación de inventarios y administración de insumos 
+
+Logros:
+Participé en el proyecto blauLabs realizando las funciones de Elaboración y Seguimiento a Plan de Trabajo, Seguimiento a Implementación, Identificación y Mitigación de Riesgos, Apoyo en la Toma de Decisiones, Logística de Suministro de equipos, Configuración de Equipos, Generación de Inventarios y seguimiento a carga en blauLabs. | Funciones:
+Planeación, coordinación, validación y aseguramiento de que se ejecuten las actividades programadas en el plan de trabajo
+Coordinación de proveedores en la implementación de las diversas fases del proyecto.
+Validación y gestión de entrega de documentación facturable al cliente sobre los servicios realizados en fase de implementación.
+Elaboración de reportes, bitácoras, minutas, presentaciones y seguimiento de actividades de electromecánicos directamente en sedes.
+Seguimiento a la adquisición con proveedores, logística y entrega de elementos suministrados al cliente y gestión de entregas en centrales AT&T.
+Gestión y ejecución de ventanas de mantenimientos e instalación de electromecánicos (identificando y administrando riesgos e issues).
+Gestión y planeación de accesos a las instalaciones del cliente programando las visitas de instalación de equipos.
+Diseño de la logística de instalación de elementos electromecánicos (Plantas Millenium, PDFs y PDBs), Configuración, Etiquetado y Conexión a monitoreo de elementos GE y Medidores Eléctricos.
+Generación de inventarios y administración de insumos 
+
+Logros:
+Participé en el proyecto blauLabs realizando las funciones de Elaboración y Seguimiento a Plan de Trabajo, Seguimiento a Implementación, Identificación y Mitigación de Riesgos, Apoyo en la Toma de Decisiones, Logística de Suministro de equipos, Configuración de Equipos, Generación de Inventarios y seguimiento a carga en blauLabs. | Funciones:
+Planeación, coordinación, validación y aseguramiento de que se ejecuten las actividades programadas en el plan de trabajo
+Coordinación de proveedores en la implementación de las diversas fases del proyecto.
+Validación y gestión de entrega de documentación facturable al cliente sobre los servicios realizados en fase de implementación.
+Elaboración de reportes, bitácoras, minutas, presentaciones y seguimiento de actividades de electromecánicos directamente en sedes.
+Seguimiento a la adquisición con proveedores, logística y entrega de elementos suministrados al cliente y gestión de entregas en centrales AT&T.
+Gestión y ejecución de ventanas de mantenimientos e instalación de electromecánicos (identificando y administrando riesgos e issues).
+Gestión y planeación de accesos a las instalaciones del cliente programando las visitas de instalación de equipos.
+Diseño de la logística de instalación de elementos electromecánicos (Plantas Millenium, PDFs y PDBs), Configuración, Etiquetado y Conexión a monitoreo de elementos GE y Medidores Eléctricos.
+Generación de inventarios y administración de insumos 
+
+Logros:
+Participé en el proyecto blauLabs realizando las funciones de Elaboración y Seguimiento a Plan de Trabajo, Seguimiento a Implementación, Identificación y Mitigación de Riesgos, Apoyo en la Toma de Decisiones, Logística de Suministro de equipos, Configuración de Equipos, Generación de Inventarios y seguimiento a carga en blauLabs. | Funciones:
+Planeación, coordinación, validación y aseguramiento de que se ejecuten las actividades programadas en el plan de trabajo
+Coordinación de proveedores en la implementación de las diversas fases del proyecto.
+Validación y gestión de entrega de documentación facturable al cliente sobre los servicios realizados en fase de implementación.
+Elaboración de reportes, bitácoras, minutas, presentaciones y seguimiento de actividades de electromecánicos directamente en sedes.
+Seguimiento a la adquisición con proveedores, logística y entrega de elementos suministrados al cliente y gestión de entregas en centrales AT&T.
+Gestión y ejecución de ventanas de mantenimientos e instalación de electromecánicos (identificando y administrando riesgos e issues).
+Gestión y planeación de accesos a las instalaciones del cliente programando las visitas de instalación de equipos.
+Diseño de la logística de instalación de elementos electromecánicos (Plantas Millenium, PDFs y PDBs), Configuración, Etiquetado y Conexión a monitoreo de elementos GE y Medidores Eléctricos.
+Generación de inventarios y administración de insumos 
+
+Logros:
+Participé en el proyecto blauLabs realizando las funciones de Elaboración y Seguimiento a Plan de Trabajo, Seguimiento a Implementación, Identificación y Mitigación de Riesgos, Apoyo en la Toma de Decisiones, Logística de Suministro de equipos, Configuración de Equipos, Generación de Inventarios y seguimiento a carga en blauLabs.
+Herramientas: | PPM, Project libre, SVN, SharePoint, Macros (Excel), draw.io (modelado de diagramas de ingeniería) | PPM, Project libre, SVN, SharePoint, Macros (Excel), draw.io (modelado de diagramas de ingeniería) | PPM, Project libre, SVN, SharePoint, Macros (Excel), draw.io (modelado de diagramas de ingeniería) | PPM, Project libre, SVN, SharePoint, Macros (Excel), draw.io (modelado de diagramas de ingeniería) | PPM, Project libre, SVN, SharePoint, Macros (Excel), draw.io (modelado de diagramas de ingeniería)
+Nombre de la empresa:
+IMSS-Softtek | Nombre de la empresa:
+IMSS-Softtek | Lugar: 
+México | Puesto: 
+Administrador de proyecto | Desde: 
+Julio 2017 | A: 
+Agosto 2018
+Funciones:
+Seguimiento a la implementación de proyecto (Admón. de issues y riesgos, plan de trabajo, administración de personal).
+Seguimiento a incidencias y coordinación de entregas con el equipo de desarrollo y pruebas.
+Seguimiento semanal de captura de horas y asignación de tareas en PPM identificando desviaciones para alinear y evaluar el impacto.
+Sesión semanal para el seguimiento y valuación de métricas en PHR (VP, EV, SPI, CPI, revisión del comportamiento anterior (deltas) y modificaciones de línea base).
+Gestión y control de defectos (reporte de defectos), seguimiento a la entrega de producto a QA, considerando la calidad en sus componentes documentales y de código.
+Gestión y control de entregables documentales (Control de Versiones).
+Juntas de seguimiento
+Control y seguimiento de recursos (asignación de lugares, equipos, accesos, etc.).
+Asignación y des-asignación de recursos.
+
+Logros:
+Participé en el proyecto TSPI realizando las funciones de Control y seguimiento de actividades del personal, identificación de riesgos e issues, coordinación de equipo, control y versionamiento de entrega documentales, seguimiento a implementación, identificación y levantamiento de nuevos requerimientos, elaboración y seguimiento al plan de trabajo. | Funciones:
+Seguimiento a la implementación de proyecto (Admón. de issues y riesgos, plan de trabajo, administración de personal).
+Seguimiento a incidencias y coordinación de entregas con el equipo de desarrollo y pruebas.
+Seguimiento semanal de captura de horas y asignación de tareas en PPM identificando desviaciones para alinear y evaluar el impacto.
+Sesión semanal para el seguimiento y valuación de métricas en PHR (VP, EV, SPI, CPI, revisión del comportamiento anterior (deltas) y modificaciones de línea base).
+Gestión y control de defectos (reporte de defectos), seguimiento a la entrega de producto a QA, considerando la calidad en sus componentes documentales y de código.
+Gestión y control de entregables documentales (Control de Versiones).
+Juntas de seguimiento
+Control y seguimiento de recursos (asignación de lugares, equipos, accesos, etc.).
+Asignación y des-asignación de recursos.
+
+Logros:
+Participé en el proyecto TSPI realizando las funciones de Control y seguimiento de actividades del personal, identificación de riesgos e issues, coordinación de equipo, control y versionamiento de entrega documentales, seguimiento a implementación, identificación y levantamiento de nuevos requerimientos, elaboración y seguimiento al plan de trabajo. | Funciones:
+Seguimiento a la implementación de proyecto (Admón. de issues y riesgos, plan de trabajo, administración de personal).
+Seguimiento a incidencias y coordinación de entregas con el equipo de desarrollo y pruebas.
+Seguimiento semanal de captura de horas y asignación de tareas en PPM identificando desviaciones para alinear y evaluar el impacto.
+Sesión semanal para el seguimiento y valuación de métricas en PHR (VP, EV, SPI, CPI, revisión del comportamiento anterior (deltas) y modificaciones de línea base).
+Gestión y control de defectos (reporte de defectos), seguimiento a la entrega de producto a QA, considerando la calidad en sus componentes documentales y de código.
+Gestión y control de entregables documentales (Control de Versiones).
+Juntas de seguimiento
+Control y seguimiento de recursos (asignación de lugares, equipos, accesos, etc.).
+Asignación y des-asignación de recursos.
+
+Logros:
+Participé en el proyecto TSPI realizando las funciones de Control y seguimiento de actividades del personal, identificación de riesgos e issues, coordinación de equipo, control y versionamiento de entrega documentales, seguimiento a implementación, identificación y levantamiento de nuevos requerimientos, elaboración y seguimiento al plan de trabajo. | Funciones:
+Seguimiento a la implementación de proyecto (Admón. de issues y riesgos, plan de trabajo, administración de personal).
+Seguimiento a incidencias y coordinación de entregas con el equipo de desarrollo y pruebas.
+Seguimiento semanal de captura de horas y asignación de tareas en PPM identificando desviaciones para alinear y evaluar el impacto.
+Sesión semanal para el seguimiento y valuación de métricas en PHR (VP, EV, SPI, CPI, revisión del comportamiento anterior (deltas) y modificaciones de línea base).
+Gestión y control de defectos (reporte de defectos), seguimiento a la entrega de producto a QA, considerando la calidad en sus componentes documentales y de código.
+Gestión y control de entregables documentales (Control de Versiones).
+Juntas de seguimiento
+Control y seguimiento de recursos (asignación de lugares, equipos, accesos, etc.).
+Asignación y des-asignación de recursos.
+
+Logros:
+Participé en el proyecto TSPI realizando las funciones de Control y seguimiento de actividades del personal, identificación de riesgos e issues, coordinación de equipo, control y versionamiento de entrega documentales, seguimiento a implementación, identificación y levantamiento de nuevos requerimientos, elaboración y seguimiento al plan de trabajo. | Funciones:
+Seguimiento a la implementación de proyecto (Admón. de issues y riesgos, plan de trabajo, administración de personal).
+Seguimiento a incidencias y coordinación de entregas con el equipo de desarrollo y pruebas.
+Seguimiento semanal de captura de horas y asignación de tareas en PPM identificando desviaciones para alinear y evaluar el impacto.
+Sesión semanal para el seguimiento y valuación de métricas en PHR (VP, EV, SPI, CPI, revisión del comportamiento anterior (deltas) y modificaciones de línea base).
+Gestión y control de defectos (reporte de defectos), seguimiento a la entrega de producto a QA, considerando la calidad en sus componentes documentales y de código.
+Gestión y control de entregables documentales (Control de Versiones).
+Juntas de seguimiento
+Control y seguimiento de recursos (asignación de lugares, equipos, accesos, etc.).
+Asignación y des-asignación de recursos.
+
+Logros:
+Participé en el proyecto TSPI realizando las funciones de Control y seguimiento de actividades del personal, identificación de riesgos e issues, coordinación de equipo, control y versionamiento de entrega documentales, seguimiento a implementación, identificación y levantamiento de nuevos requerimientos, elaboración y seguimiento al plan de trabajo. | Funciones:
+Seguimiento a la implementación de proyecto (Admón. de issues y riesgos, plan de trabajo, administración de personal).
+Seguimiento a incidencias y coordinación de entregas con el equipo de desarrollo y pruebas.
+Seguimiento semanal de captura de horas y asignación de tareas en PPM identificando desviaciones para alinear y evaluar el impacto.
+Sesión semanal para el seguimiento y valuación de métricas en PHR (VP, EV, SPI, CPI, revisión del comportamiento anterior (deltas) y modificaciones de línea base).
+Gestión y control de defectos (reporte de defectos), seguimiento a la entrega de producto a QA, considerando la calidad en sus componentes documentales y de código.
+Gestión y control de entregables documentales (Control de Versiones).
+Juntas de seguimiento
+Control y seguimiento de recursos (asignación de lugares, equipos, accesos, etc.).
+Asignación y des-asignación de recursos.
+
+Logros:
+Participé en el proyecto TSPI realizando las funciones de Control y seguimiento de actividades del personal, identificación de riesgos e issues, coordinación de equipo, control y versionamiento de entrega documentales, seguimiento a implementación, identificación y levantamiento de nuevos requerimientos, elaboración y seguimiento al plan de trabajo.
+Herramientas: | PPM, Project, SVN, SharePoint, Macros (Excel). | PPM, Project, SVN, SharePoint, Macros (Excel). | PPM, Project, SVN, SharePoint, Macros (Excel). | PPM, Project, SVN, SharePoint, Macros (Excel). | PPM, Project, SVN, SharePoint, Macros (Excel).
+Nombre de la empresa:
+SDMA4-Softtek | Nombre de la empresa:
+SDMA4-Softtek | Lugar: 
+México | Puesto: 
+Líder de Calidad | Desde: 
+Mayo 2015 | A: 
+Julio 2017
+Funciones:
+Administración de personal del equipo de EQL (entradas, salidas, permisos, faltas, sobreesfuerzos, capacitaciones, etc.).
+Cumplimiento de SLAs.
+Creación de proceso de atención de liberaciones.
+Coordinar y planear la atención de requerimientos.
+Distribución y apoyo en cargas de trabajo en liberaciones.
+Proveer apoyo para la resolución de conflictos en las entregas.
+Atención a dudas y proveer soluciones a desarrollo para las entregas.
+Participación en PHR, Métricas y RCA.
+Reportes semanales de CO y ND.
+Actualización de BD de liberaciones y rechazos.
+Asistencia quincenal a juntas de seguimiento.
+Aseguramiento en el cumplimiento de procesos.
+Gestión, concentrado, notificación y aprobación de horas.
+Planeación de entregas mensuales (Plan de trabajo mensual de todo el equipo).
+Juntas semanales del equipo para notificaciones, acuerdos, planeaciones, vacaciones, sobreesfuerzos, etc.
+
+Logros:
+En esta asignación forme parte de las principales áreas de la cuenta y forme el equipo de EQL encargado de entregar en tiempo y con calidad la documentación para la entrega a la AVL asegurándome que se cumplieran los SLAs para lograr la instalación de todos los proyectos realizados por fábrica en ambientes productivos. | Funciones:
+Administración de personal del equipo de EQL (entradas, salidas, permisos, faltas, sobreesfuerzos, capacitaciones, etc.).
+Cumplimiento de SLAs.
+Creación de proceso de atención de liberaciones.
+Coordinar y planear la atención de requerimientos.
+Distribución y apoyo en cargas de trabajo en liberaciones.
+Proveer apoyo para la resolución de conflictos en las entregas.
+Atención a dudas y proveer soluciones a desarrollo para las entregas.
+Participación en PHR, Métricas y RCA.
+Reportes semanales de CO y ND.
+Actualización de BD de liberaciones y rechazos.
+Asistencia quincenal a juntas de seguimiento.
+Aseguramiento en el cumplimiento de procesos.
+Gestión, concentrado, notificación y aprobación de horas.
+Planeación de entregas mensuales (Plan de trabajo mensual de todo el equipo).
+Juntas semanales del equipo para notificaciones, acuerdos, planeaciones, vacaciones, sobreesfuerzos, etc.
+
+Logros:
+En esta asignación forme parte de las principales áreas de la cuenta y forme el equipo de EQL encargado de entregar en tiempo y con calidad la documentación para la entrega a la AVL asegurándome que se cumplieran los SLAs para lograr la instalación de todos los proyectos realizados por fábrica en ambientes productivos. | Funciones:
+Administración de personal del equipo de EQL (entradas, salidas, permisos, faltas, sobreesfuerzos, capacitaciones, etc.).
+Cumplimiento de SLAs.
+Creación de proceso de atención de liberaciones.
+Coordinar y planear la atención de requerimientos.
+Distribución y apoyo en cargas de trabajo en liberaciones.
+Proveer apoyo para la resolución de conflictos en las entregas.
+Atención a dudas y proveer soluciones a desarrollo para las entregas.
+Participación en PHR, Métricas y RCA.
+Reportes semanales de CO y ND.
+Actualización de BD de liberaciones y rechazos.
+Asistencia quincenal a juntas de seguimiento.
+Aseguramiento en el cumplimiento de procesos.
+Gestión, concentrado, notificación y aprobación de horas.
+Planeación de entregas mensuales (Plan de trabajo mensual de todo el equipo).
+Juntas semanales del equipo para notificaciones, acuerdos, planeaciones, vacaciones, sobreesfuerzos, etc.
+
+Logros:
+En esta asignación forme parte de las principales áreas de la cuenta y forme el equipo de EQL encargado de entregar en tiempo y con calidad la documentación para la entrega a la AVL asegurándome que se cumplieran los SLAs para lograr la instalación de todos los proyectos realizados por fábrica en ambientes productivos. | Funciones:
+Administración de personal del equipo de EQL (entradas, salidas, permisos, faltas, sobreesfuerzos, capacitaciones, etc.).
+Cumplimiento de SLAs.
+Creación de proceso de atención de liberaciones.
+Coordinar y planear la atención de requerimientos.
+Distribución y apoyo en cargas de trabajo en liberaciones.
+Proveer apoyo para la resolución de conflictos en las entregas.
+Atención a dudas y proveer soluciones a desarrollo para las entregas.
+Participación en PHR, Métricas y RCA.
+Reportes semanales de CO y ND.
+Actualización de BD de liberaciones y rechazos.
+Asistencia quincenal a juntas de seguimiento.
+Aseguramiento en el cumplimiento de procesos.
+Gestión, concentrado, notificación y aprobación de horas.
+Planeación de entregas mensuales (Plan de trabajo mensual de todo el equipo).
+Juntas semanales del equipo para notificaciones, acuerdos, planeaciones, vacaciones, sobreesfuerzos, etc.
+
+Logros:
+En esta asignación forme parte de las principales áreas de la cuenta y forme el equipo de EQL encargado de entregar en tiempo y con calidad la documentación para la entrega a la AVL asegurándome que se cumplieran los SLAs para lograr la instalación de todos los proyectos realizados por fábrica en ambientes productivos. | Funciones:
+Administración de personal del equipo de EQL (entradas, salidas, permisos, faltas, sobreesfuerzos, capacitaciones, etc.).
+Cumplimiento de SLAs.
+Creación de proceso de atención de liberaciones.
+Coordinar y planear la atención de requerimientos.
+Distribución y apoyo en cargas de trabajo en liberaciones.
+Proveer apoyo para la resolución de conflictos en las entregas.
+Atención a dudas y proveer soluciones a desarrollo para las entregas.
+Participación en PHR, Métricas y RCA.
+Reportes semanales de CO y ND.
+Actualización de BD de liberaciones y rechazos.
+Asistencia quincenal a juntas de seguimiento.
+Aseguramiento en el cumplimiento de procesos.
+Gestión, concentrado, notificación y aprobación de horas.
+Planeación de entregas mensuales (Plan de trabajo mensual de todo el equipo).
+Juntas semanales del equipo para notificaciones, acuerdos, planeaciones, vacaciones, sobreesfuerzos, etc.
+
+Logros:
+En esta asignación forme parte de las principales áreas de la cuenta y forme el equipo de EQL encargado de entregar en tiempo y con calidad la documentación para la entrega a la AVL asegurándome que se cumplieran los SLAs para lograr la instalación de todos los proyectos realizados por fábrica en ambientes productivos. | Funciones:
+Administración de personal del equipo de EQL (entradas, salidas, permisos, faltas, sobreesfuerzos, capacitaciones, etc.).
+Cumplimiento de SLAs.
+Creación de proceso de atención de liberaciones.
+Coordinar y planear la atención de requerimientos.
+Distribución y apoyo en cargas de trabajo en liberaciones.
+Proveer apoyo para la resolución de conflictos en las entregas.
+Atención a dudas y proveer soluciones a desarrollo para las entregas.
+Participación en PHR, Métricas y RCA.
+Reportes semanales de CO y ND.
+Actualización de BD de liberaciones y rechazos.
+Asistencia quincenal a juntas de seguimiento.
+Aseguramiento en el cumplimiento de procesos.
+Gestión, concentrado, notificación y aprobación de horas.
+Planeación de entregas mensuales (Plan de trabajo mensual de todo el equipo).
+Juntas semanales del equipo para notificaciones, acuerdos, planeaciones, vacaciones, sobreesfuerzos, etc.
+
+Logros:
+En esta asignación forme parte de las principales áreas de la cuenta y forme el equipo de EQL encargado de entregar en tiempo y con calidad la documentación para la entrega a la AVL asegurándome que se cumplieran los SLAs para lograr la instalación de todos los proyectos realizados por fábrica en ambientes productivos.
+Herramientas: | PPMC, Harvest, Monitor, SVN, Quality Center, SQL | PPMC, Harvest, Monitor, SVN, Quality Center, SQL | PPMC, Harvest, Monitor, SVN, Quality Center, SQL | PPMC, Harvest, Monitor, SVN, Quality Center, SQL | PPMC, Harvest, Monitor, SVN, Quality Center, SQL
+Nombre de la empresa:
+SDMA3-Softtek | Nombre de la empresa:
+SDMA3-Softtek | Lugar: 
+México | Puesto: 
+Líder de Servicio | Desde: 
+Julio 2013 | A: 
+Mayo 2015
+Funciones:
+Atención a requerimiento e incidentes de AMS.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Administración y seguimiento a las actividades de Testing.
+Administración y seguimiento de actividades previas a la liberación de requerimientos e incidentes al laboratorio.
+Creación y actualización de reportes del Control de Liberaciones.
+Análisis y seguimiento de requerimientos e incidentes para su cierre correspondiente.
+Atención de rechazos por defectos.
+Juntas de seguimiento.
+Creación de documentación de apertura de requerimientos.
+Asegurarse que se cumpla la metodología de PDSS.
+Negociación de nuevos requerimientos con el cliente.
+Seguimiento a requerimientos en PPMC.
+
+Logros:
+Gestión, seguimiento y control para la atención de incidencias para mantener la continuidad operativa del servicio. | Funciones:
+Atención a requerimiento e incidentes de AMS.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Administración y seguimiento a las actividades de Testing.
+Administración y seguimiento de actividades previas a la liberación de requerimientos e incidentes al laboratorio.
+Creación y actualización de reportes del Control de Liberaciones.
+Análisis y seguimiento de requerimientos e incidentes para su cierre correspondiente.
+Atención de rechazos por defectos.
+Juntas de seguimiento.
+Creación de documentación de apertura de requerimientos.
+Asegurarse que se cumpla la metodología de PDSS.
+Negociación de nuevos requerimientos con el cliente.
+Seguimiento a requerimientos en PPMC.
+
+Logros:
+Gestión, seguimiento y control para la atención de incidencias para mantener la continuidad operativa del servicio. | Funciones:
+Atención a requerimiento e incidentes de AMS.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Administración y seguimiento a las actividades de Testing.
+Administración y seguimiento de actividades previas a la liberación de requerimientos e incidentes al laboratorio.
+Creación y actualización de reportes del Control de Liberaciones.
+Análisis y seguimiento de requerimientos e incidentes para su cierre correspondiente.
+Atención de rechazos por defectos.
+Juntas de seguimiento.
+Creación de documentación de apertura de requerimientos.
+Asegurarse que se cumpla la metodología de PDSS.
+Negociación de nuevos requerimientos con el cliente.
+Seguimiento a requerimientos en PPMC.
+
+Logros:
+Gestión, seguimiento y control para la atención de incidencias para mantener la continuidad operativa del servicio. | Funciones:
+Atención a requerimiento e incidentes de AMS.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Administración y seguimiento a las actividades de Testing.
+Administración y seguimiento de actividades previas a la liberación de requerimientos e incidentes al laboratorio.
+Creación y actualización de reportes del Control de Liberaciones.
+Análisis y seguimiento de requerimientos e incidentes para su cierre correspondiente.
+Atención de rechazos por defectos.
+Juntas de seguimiento.
+Creación de documentación de apertura de requerimientos.
+Asegurarse que se cumpla la metodología de PDSS.
+Negociación de nuevos requerimientos con el cliente.
+Seguimiento a requerimientos en PPMC.
+
+Logros:
+Gestión, seguimiento y control para la atención de incidencias para mantener la continuidad operativa del servicio. | Funciones:
+Atención a requerimiento e incidentes de AMS.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Administración y seguimiento a las actividades de Testing.
+Administración y seguimiento de actividades previas a la liberación de requerimientos e incidentes al laboratorio.
+Creación y actualización de reportes del Control de Liberaciones.
+Análisis y seguimiento de requerimientos e incidentes para su cierre correspondiente.
+Atención de rechazos por defectos.
+Juntas de seguimiento.
+Creación de documentación de apertura de requerimientos.
+Asegurarse que se cumpla la metodología de PDSS.
+Negociación de nuevos requerimientos con el cliente.
+Seguimiento a requerimientos en PPMC.
+
+Logros:
+Gestión, seguimiento y control para la atención de incidencias para mantener la continuidad operativa del servicio. | Funciones:
+Atención a requerimiento e incidentes de AMS.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Administración y seguimiento a las actividades de Testing.
+Administración y seguimiento de actividades previas a la liberación de requerimientos e incidentes al laboratorio.
+Creación y actualización de reportes del Control de Liberaciones.
+Análisis y seguimiento de requerimientos e incidentes para su cierre correspondiente.
+Atención de rechazos por defectos.
+Juntas de seguimiento.
+Creación de documentación de apertura de requerimientos.
+Asegurarse que se cumpla la metodología de PDSS.
+Negociación de nuevos requerimientos con el cliente.
+Seguimiento a requerimientos en PPMC.
+
+Logros:
+Gestión, seguimiento y control para la atención de incidencias para mantener la continuidad operativa del servicio.
+Herramientas: | Java, SQL Server (2000-2005-2008), PPMC, Harvest, Monitor, Eroom, Quality Center. | Java, SQL Server (2000-2005-2008), PPMC, Harvest, Monitor, Eroom, Quality Center. | Java, SQL Server (2000-2005-2008), PPMC, Harvest, Monitor, Eroom, Quality Center. | Java, SQL Server (2000-2005-2008), PPMC, Harvest, Monitor, Eroom, Quality Center. | Java, SQL Server (2000-2005-2008), PPMC, Harvest, Monitor, Eroom, Quality Center.
+Nombre de la empresa:
+SDMA3-Softtek | Nombre de la empresa:
+SDMA3-Softtek | Lugar: 
+México | Puesto: 
+Líder de Pruebas | Desde: 
+Julio 2012 | A: 
+Julio 2013
+Funciones:
+Atención a requerimiento e incidentes de AMS.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Ambientación de equipos de prueba.
+Instalación de aplicaciones distribuidas en capa.
+Inspección de insumos.
+Diseño de casos de prueba.
+Creación y actualización set de datos.
+Revisión de los casos de prueba.
+Peer Review de los casos de prueba.
+Elaboración y aplicación de Check List.
+Corrección de casos de prueba.
+Entrega de casos de prueba a construcción para ejecución.
+Liberación del diseño de casos de prueba.
+
+Logros:
+Gestión de incidencias y planeación de casos pruebas para garantizar la calidad de los entregables. | Funciones:
+Atención a requerimiento e incidentes de AMS.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Ambientación de equipos de prueba.
+Instalación de aplicaciones distribuidas en capa.
+Inspección de insumos.
+Diseño de casos de prueba.
+Creación y actualización set de datos.
+Revisión de los casos de prueba.
+Peer Review de los casos de prueba.
+Elaboración y aplicación de Check List.
+Corrección de casos de prueba.
+Entrega de casos de prueba a construcción para ejecución.
+Liberación del diseño de casos de prueba.
+
+Logros:
+Gestión de incidencias y planeación de casos pruebas para garantizar la calidad de los entregables. | Funciones:
+Atención a requerimiento e incidentes de AMS.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Ambientación de equipos de prueba.
+Instalación de aplicaciones distribuidas en capa.
+Inspección de insumos.
+Diseño de casos de prueba.
+Creación y actualización set de datos.
+Revisión de los casos de prueba.
+Peer Review de los casos de prueba.
+Elaboración y aplicación de Check List.
+Corrección de casos de prueba.
+Entrega de casos de prueba a construcción para ejecución.
+Liberación del diseño de casos de prueba.
+
+Logros:
+Gestión de incidencias y planeación de casos pruebas para garantizar la calidad de los entregables. | Funciones:
+Atención a requerimiento e incidentes de AMS.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Ambientación de equipos de prueba.
+Instalación de aplicaciones distribuidas en capa.
+Inspección de insumos.
+Diseño de casos de prueba.
+Creación y actualización set de datos.
+Revisión de los casos de prueba.
+Peer Review de los casos de prueba.
+Elaboración y aplicación de Check List.
+Corrección de casos de prueba.
+Entrega de casos de prueba a construcción para ejecución.
+Liberación del diseño de casos de prueba.
+
+Logros:
+Gestión de incidencias y planeación de casos pruebas para garantizar la calidad de los entregables. | Funciones:
+Atención a requerimiento e incidentes de AMS.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Ambientación de equipos de prueba.
+Instalación de aplicaciones distribuidas en capa.
+Inspección de insumos.
+Diseño de casos de prueba.
+Creación y actualización set de datos.
+Revisión de los casos de prueba.
+Peer Review de los casos de prueba.
+Elaboración y aplicación de Check List.
+Corrección de casos de prueba.
+Entrega de casos de prueba a construcción para ejecución.
+Liberación del diseño de casos de prueba.
+
+Logros:
+Gestión de incidencias y planeación de casos pruebas para garantizar la calidad de los entregables. | Funciones:
+Atención a requerimiento e incidentes de AMS.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento.
+Ambientación de equipos de prueba.
+Instalación de aplicaciones distribuidas en capa.
+Inspección de insumos.
+Diseño de casos de prueba.
+Creación y actualización set de datos.
+Revisión de los casos de prueba.
+Peer Review de los casos de prueba.
+Elaboración y aplicación de Check List.
+Corrección de casos de prueba.
+Entrega de casos de prueba a construcción para ejecución.
+Liberación del diseño de casos de prueba.
+
+Logros:
+Gestión de incidencias y planeación de casos pruebas para garantizar la calidad de los entregables.
+Herramientas: | Visual Basic 6.0, .Net, Java, SQL Server (2000-2005-2008), PPM, Harvest, Monitor, Eroom. | Visual Basic 6.0, .Net, Java, SQL Server (2000-2005-2008), PPM, Harvest, Monitor, Eroom. | Visual Basic 6.0, .Net, Java, SQL Server (2000-2005-2008), PPM, Harvest, Monitor, Eroom. | Visual Basic 6.0, .Net, Java, SQL Server (2000-2005-2008), PPM, Harvest, Monitor, Eroom. | Visual Basic 6.0, .Net, Java, SQL Server (2000-2005-2008), PPM, Harvest, Monitor, Eroom.
+Nombre de la empresa:
+ACSI-Softtek | Nombre de la empresa:
+ACSI-Softtek | Lugar: 
+México | Puesto: 
+Líder de Pruebas | Desde: 
+Enero 2010 | A: 
+Julio 2012
+Funciones:
+Definición de procesos de pruebas integrales para homologar actividades entre los grupos.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento para lograr el cierre de éstas en fechas propuestas.
+Definir planes de pruebas con el cliente.
+Monitoreo y seguimiento a los proyectos a liberar.
+Ambientación de equipos de prueba.
+Importación, compilación y ejecución de ETLs.
+Ejecución de pruebas funcionales, conteo, consistencia y performance.
+Aseguramiento y cumplimiento de estándares y lineamientos.
+Automatización de pruebas.
+
+Logros:
+Elaboración de casos pruebas y generación de evidencias del correcto funcionamiento de entregables proporcionados por el área de desarrollo. | Funciones:
+Definición de procesos de pruebas integrales para homologar actividades entre los grupos.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento para lograr el cierre de éstas en fechas propuestas.
+Definir planes de pruebas con el cliente.
+Monitoreo y seguimiento a los proyectos a liberar.
+Ambientación de equipos de prueba.
+Importación, compilación y ejecución de ETLs.
+Ejecución de pruebas funcionales, conteo, consistencia y performance.
+Aseguramiento y cumplimiento de estándares y lineamientos.
+Automatización de pruebas.
+
+Logros:
+Elaboración de casos pruebas y generación de evidencias del correcto funcionamiento de entregables proporcionados por el área de desarrollo. | Funciones:
+Definición de procesos de pruebas integrales para homologar actividades entre los grupos.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento para lograr el cierre de éstas en fechas propuestas.
+Definir planes de pruebas con el cliente.
+Monitoreo y seguimiento a los proyectos a liberar.
+Ambientación de equipos de prueba.
+Importación, compilación y ejecución de ETLs.
+Ejecución de pruebas funcionales, conteo, consistencia y performance.
+Aseguramiento y cumplimiento de estándares y lineamientos.
+Automatización de pruebas.
+
+Logros:
+Elaboración de casos pruebas y generación de evidencias del correcto funcionamiento de entregables proporcionados por el área de desarrollo. | Funciones:
+Definición de procesos de pruebas integrales para homologar actividades entre los grupos.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento para lograr el cierre de éstas en fechas propuestas.
+Definir planes de pruebas con el cliente.
+Monitoreo y seguimiento a los proyectos a liberar.
+Ambientación de equipos de prueba.
+Importación, compilación y ejecución de ETLs.
+Ejecución de pruebas funcionales, conteo, consistencia y performance.
+Aseguramiento y cumplimiento de estándares y lineamientos.
+Automatización de pruebas.
+
+Logros:
+Elaboración de casos pruebas y generación de evidencias del correcto funcionamiento de entregables proporcionados por el área de desarrollo. | Funciones:
+Definición de procesos de pruebas integrales para homologar actividades entre los grupos.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento para lograr el cierre de éstas en fechas propuestas.
+Definir planes de pruebas con el cliente.
+Monitoreo y seguimiento a los proyectos a liberar.
+Ambientación de equipos de prueba.
+Importación, compilación y ejecución de ETLs.
+Ejecución de pruebas funcionales, conteo, consistencia y performance.
+Aseguramiento y cumplimiento de estándares y lineamientos.
+Automatización de pruebas.
+
+Logros:
+Elaboración de casos pruebas y generación de evidencias del correcto funcionamiento de entregables proporcionados por el área de desarrollo. | Funciones:
+Definición de procesos de pruebas integrales para homologar actividades entre los grupos.
+Formación de tester’s a través de seguimiento y capacitación en las actividades desempeñadas.
+Realizar planes de trabajo. Asignación de tareas y seguimiento para lograr el cierre de éstas en fechas propuestas.
+Definir planes de pruebas con el cliente.
+Monitoreo y seguimiento a los proyectos a liberar.
+Ambientación de equipos de prueba.
+Importación, compilación y ejecución de ETLs.
+Ejecución de pruebas funcionales, conteo, consistencia y performance.
+Aseguramiento y cumplimiento de estándares y lineamientos.
+Automatización de pruebas.
+
+Logros:
+Elaboración de casos pruebas y generación de evidencias del correcto funcionamiento de entregables proporcionados por el área de desarrollo.
+Herramientas: | Data Stage, Cognos, Informix, Oracle, SQL Server 2000, ERWin, VB en Excel, Harvest, Monitor, Quality Center. | Data Stage, Cognos, Informix, Oracle, SQL Server 2000, ERWin, VB en Excel, Harvest, Monitor, Quality Center. | Data Stage, Cognos, Informix, Oracle, SQL Server 2000, ERWin, VB en Excel, Harvest, Monitor, Quality Center. | Data Stage, Cognos, Informix, Oracle, SQL Server 2000, ERWin, VB en Excel, Harvest, Monitor, Quality Center. | Data Stage, Cognos, Informix, Oracle, SQL Server 2000, ERWin, VB en Excel, Harvest, Monitor, Quality Center.
+Nombre de la empresa:
+Nextel de México S.A. de C.V.-Softtek | Nombre de la empresa:
+Nextel de México S.A. de C.V.-Softtek | Lugar: 
+México | Puesto: 
+Analista QA
+(Quality Assurance) | Desde: 
+Febrero 2008 | A: 
+Diciembre 2009
+Funciones:
+Asegurarme del cumplimiento de calidad de software en desarrollos internos y de proveedores externos requeridos por las áreas de negocio, para garantizar que estos sean cubiertos en su totalidad apegados a los estándares de desarrollo y operación de Nextel de México.
+Análisis de requerimientos y factibilidad de desarrollo de software.
+Desarrollo de casos de prueba con base en requerimientos de usuarios.
+Ejecución de pruebas de software Instalación, rollback, funcionalidad, con la finalidad de identificar fallas.
+Revisar que la documentación cumpla con las políticas y los estándares definidos en la empresa.
+Seguimiento de proyectos o fallas con las áreas de desarrollo o proveedores externos.
+Creación y Administración de ambientes de Aseguramiento de Calidad.
+Creación de Scripts para pruebas de estrés.
+Creación de información para pruebas de estrés.
+Ejecución de pruebas de software (pruebas de estrés, performance, análisis de código).
+Administración de ambientes de Aseguramiento de Calidad.
+Gestionar con el área operativa y control de cambios la publicación en producción.
+
+Logros:
+Instalación en ambientes virtuales el desarrollo y validar que cumpla con la funcionalidad esperada. | Funciones:
+Asegurarme del cumplimiento de calidad de software en desarrollos internos y de proveedores externos requeridos por las áreas de negocio, para garantizar que estos sean cubiertos en su totalidad apegados a los estándares de desarrollo y operación de Nextel de México.
+Análisis de requerimientos y factibilidad de desarrollo de software.
+Desarrollo de casos de prueba con base en requerimientos de usuarios.
+Ejecución de pruebas de software Instalación, rollback, funcionalidad, con la finalidad de identificar fallas.
+Revisar que la documentación cumpla con las políticas y los estándares definidos en la empresa.
+Seguimiento de proyectos o fallas con las áreas de desarrollo o proveedores externos.
+Creación y Administración de ambientes de Aseguramiento de Calidad.
+Creación de Scripts para pruebas de estrés.
+Creación de información para pruebas de estrés.
+Ejecución de pruebas de software (pruebas de estrés, performance, análisis de código).
+Administración de ambientes de Aseguramiento de Calidad.
+Gestionar con el área operativa y control de cambios la publicación en producción.
+
+Logros:
+Instalación en ambientes virtuales el desarrollo y validar que cumpla con la funcionalidad esperada. | Funciones:
+Asegurarme del cumplimiento de calidad de software en desarrollos internos y de proveedores externos requeridos por las áreas de negocio, para garantizar que estos sean cubiertos en su totalidad apegados a los estándares de desarrollo y operación de Nextel de México.
+Análisis de requerimientos y factibilidad de desarrollo de software.
+Desarrollo de casos de prueba con base en requerimientos de usuarios.
+Ejecución de pruebas de software Instalación, rollback, funcionalidad, con la finalidad de identificar fallas.
+Revisar que la documentación cumpla con las políticas y los estándares definidos en la empresa.
+Seguimiento de proyectos o fallas con las áreas de desarrollo o proveedores externos.
+Creación y Administración de ambientes de Aseguramiento de Calidad.
+Creación de Scripts para pruebas de estrés.
+Creación de información para pruebas de estrés.
+Ejecución de pruebas de software (pruebas de estrés, performance, análisis de código).
+Administración de ambientes de Aseguramiento de Calidad.
+Gestionar con el área operativa y control de cambios la publicación en producción.
+
+Logros:
+Instalación en ambientes virtuales el desarrollo y validar que cumpla con la funcionalidad esperada. | Funciones:
+Asegurarme del cumplimiento de calidad de software en desarrollos internos y de proveedores externos requeridos por las áreas de negocio, para garantizar que estos sean cubiertos en su totalidad apegados a los estándares de desarrollo y operación de Nextel de México.
+Análisis de requerimientos y factibilidad de desarrollo de software.
+Desarrollo de casos de prueba con base en requerimientos de usuarios.
+Ejecución de pruebas de software Instalación, rollback, funcionalidad, con la finalidad de identificar fallas.
+Revisar que la documentación cumpla con las políticas y los estándares definidos en la empresa.
+Seguimiento de proyectos o fallas con las áreas de desarrollo o proveedores externos.
+Creación y Administración de ambientes de Aseguramiento de Calidad.
+Creación de Scripts para pruebas de estrés.
+Creación de información para pruebas de estrés.
+Ejecución de pruebas de software (pruebas de estrés, performance, análisis de código).
+Administración de ambientes de Aseguramiento de Calidad.
+Gestionar con el área operativa y control de cambios la publicación en producción.
+
+Logros:
+Instalación en ambientes virtuales el desarrollo y validar que cumpla con la funcionalidad esperada. | Funciones:
+Asegurarme del cumplimiento de calidad de software en desarrollos internos y de proveedores externos requeridos por las áreas de negocio, para garantizar que estos sean cubiertos en su totalidad apegados a los estándares de desarrollo y operación de Nextel de México.
+Análisis de requerimientos y factibilidad de desarrollo de software.
+Desarrollo de casos de prueba con base en requerimientos de usuarios.
+Ejecución de pruebas de software Instalación, rollback, funcionalidad, con la finalidad de identificar fallas.
+Revisar que la documentación cumpla con las políticas y los estándares definidos en la empresa.
+Seguimiento de proyectos o fallas con las áreas de desarrollo o proveedores externos.
+Creación y Administración de ambientes de Aseguramiento de Calidad.
+Creación de Scripts para pruebas de estrés.
+Creación de información para pruebas de estrés.
+Ejecución de pruebas de software (pruebas de estrés, performance, análisis de código).
+Administración de ambientes de Aseguramiento de Calidad.
+Gestionar con el área operativa y control de cambios la publicación en producción.
+
+Logros:
+Instalación en ambientes virtuales el desarrollo y validar que cumpla con la funcionalidad esperada. | Funciones:
+Asegurarme del cumplimiento de calidad de software en desarrollos internos y de proveedores externos requeridos por las áreas de negocio, para garantizar que estos sean cubiertos en su totalidad apegados a los estándares de desarrollo y operación de Nextel de México.
+Análisis de requerimientos y factibilidad de desarrollo de software.
+Desarrollo de casos de prueba con base en requerimientos de usuarios.
+Ejecución de pruebas de software Instalación, rollback, funcionalidad, con la finalidad de identificar fallas.
+Revisar que la documentación cumpla con las políticas y los estándares definidos en la empresa.
+Seguimiento de proyectos o fallas con las áreas de desarrollo o proveedores externos.
+Creación y Administración de ambientes de Aseguramiento de Calidad.
+Creación de Scripts para pruebas de estrés.
+Creación de información para pruebas de estrés.
+Ejecución de pruebas de software (pruebas de estrés, performance, análisis de código).
+Administración de ambientes de Aseguramiento de Calidad.
+Gestionar con el área operativa y control de cambios la publicación en producción.
+
+Logros:
+Instalación en ambientes virtuales el desarrollo y validar que cumpla con la funcionalidad esperada.
+Herramientas: | Visual Basic 6.0, Toad, PVCS, Eclipse 2.0, Net Beans, QALoad, Beyound Compare, Filezila, VMware, Weblogic, Windows, Office, Consola de Linux | Visual Basic 6.0, Toad, PVCS, Eclipse 2.0, Net Beans, QALoad, Beyound Compare, Filezila, VMware, Weblogic, Windows, Office, Consola de Linux | Visual Basic 6.0, Toad, PVCS, Eclipse 2.0, Net Beans, QALoad, Beyound Compare, Filezila, VMware, Weblogic, Windows, Office, Consola de Linux | Visual Basic 6.0, Toad, PVCS, Eclipse 2.0, Net Beans, QALoad, Beyound Compare, Filezila, VMware, Weblogic, Windows, Office, Consola de Linux | Visual Basic 6.0, Toad, PVCS, Eclipse 2.0, Net Beans, QALoad, Beyound Compare, Filezila, VMware, Weblogic, Windows, Office, Consola de Linux
+Nombre de la empresa:
+Nextel de México S.A. de C.V.-Softtek | Nombre de la empresa:
+Nextel de México S.A. de C.V.-Softtek | Lugar: 
+México | Puesto: 
+Analista AIS
+(Aseguramiento de Integridad de Sistemas) | Desde: 
+Junio 2007 | A: 
+Enero 2008
+Funciones:
+Creación de tickets de mantenimiento y reporte de problemas y la asignación a cada coordinación.
+Analizar y revisar los cambios de la documentación de solicitudes para su correspondiente liberación a QA (Quality Assurance).
+Uso de PVC para subir la documentación correspondiente a cada solicitud y mantener el control de versiones de cambios en la documentación y de componentes.
+Uso de Service Center para el cierre de tickets de CSN.
+Mantener el control y seguimiento del estatus de solicitudes para su correspondiente cierre y publicación en producción.
+Logros:
+Recepción y revisión de documentación para la generación de ticket para la corrección de defectos y hallazgos identificados. | Funciones:
+Creación de tickets de mantenimiento y reporte de problemas y la asignación a cada coordinación.
+Analizar y revisar los cambios de la documentación de solicitudes para su correspondiente liberación a QA (Quality Assurance).
+Uso de PVC para subir la documentación correspondiente a cada solicitud y mantener el control de versiones de cambios en la documentación y de componentes.
+Uso de Service Center para el cierre de tickets de CSN.
+Mantener el control y seguimiento del estatus de solicitudes para su correspondiente cierre y publicación en producción.
+Logros:
+Recepción y revisión de documentación para la generación de ticket para la corrección de defectos y hallazgos identificados. | Funciones:
+Creación de tickets de mantenimiento y reporte de problemas y la asignación a cada coordinación.
+Analizar y revisar los cambios de la documentación de solicitudes para su correspondiente liberación a QA (Quality Assurance).
+Uso de PVC para subir la documentación correspondiente a cada solicitud y mantener el control de versiones de cambios en la documentación y de componentes.
+Uso de Service Center para el cierre de tickets de CSN.
+Mantener el control y seguimiento del estatus de solicitudes para su correspondiente cierre y publicación en producción.
+Logros:
+Recepción y revisión de documentación para la generación de ticket para la corrección de defectos y hallazgos identificados. | Funciones:
+Creación de tickets de mantenimiento y reporte de problemas y la asignación a cada coordinación.
+Analizar y revisar los cambios de la documentación de solicitudes para su correspondiente liberación a QA (Quality Assurance).
+Uso de PVC para subir la documentación correspondiente a cada solicitud y mantener el control de versiones de cambios en la documentación y de componentes.
+Uso de Service Center para el cierre de tickets de CSN.
+Mantener el control y seguimiento del estatus de solicitudes para su correspondiente cierre y publicación en producción.
+Logros:
+Recepción y revisión de documentación para la generación de ticket para la corrección de defectos y hallazgos identificados. | Funciones:
+Creación de tickets de mantenimiento y reporte de problemas y la asignación a cada coordinación.
+Analizar y revisar los cambios de la documentación de solicitudes para su correspondiente liberación a QA (Quality Assurance).
+Uso de PVC para subir la documentación correspondiente a cada solicitud y mantener el control de versiones de cambios en la documentación y de componentes.
+Uso de Service Center para el cierre de tickets de CSN.
+Mantener el control y seguimiento del estatus de solicitudes para su correspondiente cierre y publicación en producción.
+Logros:
+Recepción y revisión de documentación para la generación de ticket para la corrección de defectos y hallazgos identificados. | Funciones:
+Creación de tickets de mantenimiento y reporte de problemas y la asignación a cada coordinación.
+Analizar y revisar los cambios de la documentación de solicitudes para su correspondiente liberación a QA (Quality Assurance).
+Uso de PVC para subir la documentación correspondiente a cada solicitud y mantener el control de versiones de cambios en la documentación y de componentes.
+Uso de Service Center para el cierre de tickets de CSN.
+Mantener el control y seguimiento del estatus de solicitudes para su correspondiente cierre y publicación en producción.
+Logros:
+Recepción y revisión de documentación para la generación de ticket para la corrección de defectos y hallazgos identificados.
+Herramientas: | PVCS, Toad, Herramientas de Office | PVCS, Toad, Herramientas de Office | PVCS, Toad, Herramientas de Office | PVCS, Toad, Herramientas de Office | PVCS, Toad, Herramientas de Office
+Nombre de la empresa:
+Secretaría de Transportes | Nombre de la empresa:
+Secretaría de Transportes | Lugar: 
+México | Puesto: 
+Coordinador interno | Desde: 
+Abril 2005 | A: 
+Febrero 2007
+Funciones:
+Realicé el mantenimiento a la Base de Datos que se encuentra diseñada en Oracle 8i y 9i obteniendo un mejor control para la toma de decisiones oportuna.
+Diseñe CMD’s que reducen la generación reportes en un 20% con un beneficio para la Coordinación de Informática.
+Desarrollé en Visual Basic 6.0 una aplicación que redujo el tiempo de consulta del estatus empresa concesionadas 5 días a un día.
+Transformé la información de las Bases de Datos por medio del Toad para que se elaboren reportes para el control vehicular. 
+Participé resolviendo las contingencias generadas de la aplicación diseñada por UNISYS que valida los trámites a Servicios al Autotransporte.
+Me responsabilicé del servicio del SISCON servidores de la Secretaría.
+Colaboré con el responsable del SITE.
+Asistí al personal de secretaría en soporte técnico.
+	
+Logros:
+Atención de oficios a través de la elaboración de querys para extraer la información de la BD de acuerdo con la solicitud en atención. | Funciones:
+Realicé el mantenimiento a la Base de Datos que se encuentra diseñada en Oracle 8i y 9i obteniendo un mejor control para la toma de decisiones oportuna.
+Diseñe CMD’s que reducen la generación reportes en un 20% con un beneficio para la Coordinación de Informática.
+Desarrollé en Visual Basic 6.0 una aplicación que redujo el tiempo de consulta del estatus empresa concesionadas 5 días a un día.
+Transformé la información de las Bases de Datos por medio del Toad para que se elaboren reportes para el control vehicular. 
+Participé resolviendo las contingencias generadas de la aplicación diseñada por UNISYS que valida los trámites a Servicios al Autotransporte.
+Me responsabilicé del servicio del SISCON servidores de la Secretaría.
+Colaboré con el responsable del SITE.
+Asistí al personal de secretaría en soporte técnico.
+	
+Logros:
+Atención de oficios a través de la elaboración de querys para extraer la información de la BD de acuerdo con la solicitud en atención. | Funciones:
+Realicé el mantenimiento a la Base de Datos que se encuentra diseñada en Oracle 8i y 9i obteniendo un mejor control para la toma de decisiones oportuna.
+Diseñe CMD’s que reducen la generación reportes en un 20% con un beneficio para la Coordinación de Informática.
+Desarrollé en Visual Basic 6.0 una aplicación que redujo el tiempo de consulta del estatus empresa concesionadas 5 días a un día.
+Transformé la información de las Bases de Datos por medio del Toad para que se elaboren reportes para el control vehicular. 
+Participé resolviendo las contingencias generadas de la aplicación diseñada por UNISYS que valida los trámites a Servicios al Autotransporte.
+Me responsabilicé del servicio del SISCON servidores de la Secretaría.
+Colaboré con el responsable del SITE.
+Asistí al personal de secretaría en soporte técnico.
+	
+Logros:
+Atención de oficios a través de la elaboración de querys para extraer la información de la BD de acuerdo con la solicitud en atención. | Funciones:
+Realicé el mantenimiento a la Base de Datos que se encuentra diseñada en Oracle 8i y 9i obteniendo un mejor control para la toma de decisiones oportuna.
+Diseñe CMD’s que reducen la generación reportes en un 20% con un beneficio para la Coordinación de Informática.
+Desarrollé en Visual Basic 6.0 una aplicación que redujo el tiempo de consulta del estatus empresa concesionadas 5 días a un día.
+Transformé la información de las Bases de Datos por medio del Toad para que se elaboren reportes para el control vehicular. 
+Participé resolviendo las contingencias generadas de la aplicación diseñada por UNISYS que valida los trámites a Servicios al Autotransporte.
+Me responsabilicé del servicio del SISCON servidores de la Secretaría.
+Colaboré con el responsable del SITE.
+Asistí al personal de secretaría en soporte técnico.
+	
+Logros:
+Atención de oficios a través de la elaboración de querys para extraer la información de la BD de acuerdo con la solicitud en atención. | Funciones:
+Realicé el mantenimiento a la Base de Datos que se encuentra diseñada en Oracle 8i y 9i obteniendo un mejor control para la toma de decisiones oportuna.
+Diseñe CMD’s que reducen la generación reportes en un 20% con un beneficio para la Coordinación de Informática.
+Desarrollé en Visual Basic 6.0 una aplicación que redujo el tiempo de consulta del estatus empresa concesionadas 5 días a un día.
+Transformé la información de las Bases de Datos por medio del Toad para que se elaboren reportes para el control vehicular. 
+Participé resolviendo las contingencias generadas de la aplicación diseñada por UNISYS que valida los trámites a Servicios al Autotransporte.
+Me responsabilicé del servicio del SISCON servidores de la Secretaría.
+Colaboré con el responsable del SITE.
+Asistí al personal de secretaría en soporte técnico.
+	
+Logros:
+Atención de oficios a través de la elaboración de querys para extraer la información de la BD de acuerdo con la solicitud en atención. | Funciones:
+Realicé el mantenimiento a la Base de Datos que se encuentra diseñada en Oracle 8i y 9i obteniendo un mejor control para la toma de decisiones oportuna.
+Diseñe CMD’s que reducen la generación reportes en un 20% con un beneficio para la Coordinación de Informática.
+Desarrollé en Visual Basic 6.0 una aplicación que redujo el tiempo de consulta del estatus empresa concesionadas 5 días a un día.
+Transformé la información de las Bases de Datos por medio del Toad para que se elaboren reportes para el control vehicular. 
+Participé resolviendo las contingencias generadas de la aplicación diseñada por UNISYS que valida los trámites a Servicios al Autotransporte.
+Me responsabilicé del servicio del SISCON servidores de la Secretaría.
+Colaboré con el responsable del SITE.
+Asistí al personal de secretaría en soporte técnico.
+	
+Logros:
+Atención de oficios a través de la elaboración de querys para extraer la información de la BD de acuerdo con la solicitud en atención.
+Herramientas: | TOAD, Visual Basic 6.0, Herramientas de Office | TOAD, Visual Basic 6.0, Herramientas de Office | TOAD, Visual Basic 6.0, Herramientas de Office | TOAD, Visual Basic 6.0, Herramientas de Office | TOAD, Visual Basic 6.0, Herramientas de Office
+ESTUDIOS:
+Escuela:    
+Universidad Tecnológica de México (UNITEC) | Lugar:  
+México
+Carrera: 
+Ingeniería en Sistemas Computacionales | Fecha de duración: 
+Sep 2000 – Abr 2006
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Postgrado Administración de Medios y Servicios Informáticos. | México | Abr 2007 – Ago 2008
+En preparación para obtener la certificación de PMI 7.0 | México | En proceso
+Fundamentos de Administración de Proyectos-PMP | México | En proceso
+APP DEV - INBAFL - TestingBAs | México | En proceso
+Cosmic Funtion Points | México | En proceso
+Path Básico Jira | México | En proceso
+APP DEV - PM Curso de Planeación | México | 16/02/2023
+APP DEV - Modelos Engagement | México | 04/02/2023
+APP DEV – MS Project Básico | México | 16/02/2023
+Project Management Fundamentals (PMF) | México | En proceso
+Certificación Liderazgo Orientado a las Personas (2ª Ola) | México | 26/02/2023
+Learnship (Nivel 1) | México | En proceso
+Entrenamiento The Influencer | México | 28/10/2022
+Softtekian Empowerment Skill SES - Desarrollo de personas | México | En progreso
+Softtekian Empowerment Skill SES - Solución de problemas | México | En progreso
+Softtekian Empowerment Skill SES - Servicio al Cliente | México | En progreso
+Softtekian Empowerment Skill SES - Negociación | México | En progreso
+Softtekian Empowerment Skill SES - Colaboración | México | En progreso
+Softtekian Empowerment Skill SES - Conocimiento del Negocio | México | En progreso
+Softtekian Empowerment Skill SES - Planeación y Organización | México | En progreso
+Softtekian Empowerment Skill SES - Liderazgo | México | En progreso
+Comunicación efectiva | México | 18/10/2022
+BELA - True Beginner | México | 31/08/2022
+Webinar MS Project Básico | México | 14/06/2022
+Security Awareness 2022 | México | 07/06/2022
+PMO - Conceptos básicos | México | 19/02/2021
+Introducción a la práctica Application Development | México | 25/01/2021
+PDSSV3 | México | 14/01/2021
+Introducción a la Operación | México | 10/07/2020
+PDSS Agile | México | 20/09/2019
+Six Sigma White Belt Español | México | 10/12/2018
+Problem Management | México | 10/12/2018
+PowerSkills - Effective Feedback / Retroalimentación Efectiva | México | 10/12/2018
+Negociación | México | 10/12/2018
+LEAN - Exam | México | 10/12/2018
+LEAN - Curso | México | 10/12/2018
+ITIL v3 Foundation Workshop | México | 10/12/2018
+ITIL v3 Foundation Virtual | México | 10/12/2018
+ITIL v3 Foundation | México | 10/12/2018
+Induction to Operation | México | 10/12/2018
+Induction to Information Security | México | 10/12/2018
+DMAIC Exam | México | 10/12/2018
+Customer Service Workshop II | México | 10/12/2018
+IDIOMAS:
+Español: | Nativo
+Inglés: | Básico
+CONOCIMIENTOS TÉCNICOS:
+Perfil principal: | Administrador de proyectos (PMO, líder de operación, líder de calidad y líder de servicio)
+Perfil secundario: | Líder de Pruebas
+Sistemas operativos: | Windows, Linux (Básico)
+Lenguajes de programación: | Visual Basic 6.0, C++, SQL, HTML, Java (Básico)
+Bases de datos: | Microsoft SQL Server, Oracle 11g, Access
+Otros: | Lenguajes de modelado: Modelo Entidad-Relación

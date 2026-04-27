@@ -1,0 +1,366 @@
+
+{
+  "capacidadRecursosHumanos": {
+    "experiencia": [
+        {
+        "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 5 años de experiencia comprobada en gestión de proyectos o servicios  grandes o críticos alineado al rol ?",
+        "detalle": "Para el rol del Gerente de operación\nAl menos 5 años de experiencia en gestión de proyectos ….",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV acredita funciones de coordinación de actividades de personal especialista y profesional técnico para cumplimiento de procesos y garantizar la continuidad de los servicios  (multi-equipo)?",
+        "detalle": "•Coordinar actividades de personal especialista y profesional técnico para cumplimiento de procesos y garantizar la continuidad de los servicios.",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia revisiones mensuales de los servicios a su cargo (seguimiento operativo y mejora)?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV reporta KPIs operativos (SLA/OLA, TTA/TTR, % de cumplimiento, calidad) atribuibles a su gestión?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV presenta evidencias de liderazgo (tamaño de equipos, turnos/coberturas gestionadas, complejidad multi-proveedor)?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV declara disponibilidad en Cobertura Tipo A y, para proyectos críticos, coberturas A–D, aportando evidencias de experiencia operando bajo dichos esquemas?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia coordinación de la fase de ANÁLISIS (recepción/validación de insumos funcionales, casos de prueba iniciales, solicitar minutas) conforme al Plan Tipo?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia coordinación de la fase de DISEÑO (EDA, FCU/FCUN, MSF y VoBo de arquitectura/áreas técnicas), con trazabilidad de artefactos?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia coordinación de la fase de DESARROLLO (calidad de código, armado y “entrega de paquete a la AVL”), con registros de compilación y control de cambios?",
+        "detalle": "Esta clara en el CV Control de Matriz de Cambios",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia coordinación de PRUEBAS funcionales/integración y consolidación de resultados para VoBo de avance?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia coordinación de LIBERACIÓN (toma aplicativa, transferencia de conocimiento, pedir capacitación a Mesa SAT, CAES y cierre)?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia coordinación de AMBIENTACIONES (Integración, UAT, Producción) (con Torre SAT, SSO, RAPE, AAT/AGACT, incluyendo actas y VoBo)?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV muestra casos liderando sesiones de Resolición de problemas (coordinación, verificación de construcción, ajuste de personalizaciones, cierre de impedimentos)?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV demuestra seguimiento al Plan de Trabajo/WBS por fases (Análisis–Diseño–Desarrollo–Pruebas–Liberación), con control de dependencias, ruta crítica e hitos?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV acredita experiencia aplicando diferentes métodos de estimación ?",
+        "detalle": "Indicar cuáles",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV acredita experiencia integrando y operando mesas de trabajo y/o mesas de servicios?",
+        "detalle": "Indicar cuáles Indicar si a implmentado la consulta a través de Https",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV acredita experiencia en toma de operación de proyectos o servicios  grandes o críticos?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La experiencia suma ≥5 años en gestión de proyectos similares al objeto del SDMA7?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+        "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+        "detalle": "Fechas correctas en el periodo de experiencia: La fecha Desde, debe ser un mes posterior a la última fecha Hasta, los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+        "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV documenta proyectos (grandes/críticos) con coordinación de PMO, múltiples equipos y relación negocio/TI, incluyendo supervisión de servicios mensuales?",
+        "detalle": "Dirección de proyectos grandes o críticos Coordinación de PMO, líderes técnicos, especialistas Gestión de múltiples equipos y entregables Relación con áreas de negocio y TI Supervisión de servicios mensuales / procesos / métricas",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV presenta numeralia (años, FTEs, presupuesto, metodología, resultados medibles) para contextualizar el alcance gestionado?",
+        "detalle": "años, alcance, equipo gestionado, metodología y resultados medibles.",
+        "resultado": ""
+      }
+    ],
+    "dominioDeHerramientas": [
+      {
+        "concepto": "¿El candidato cuenta con certificaciones requeridas?",
+        "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar el dominio de herramientas señaladas - Certificaciones",
+        "detalle": "Acreditar al menos 1 certificación vigente de las siguientes:\n-PMP\n-SCRUM Master\n-ITIL v 4.0\n-Leading SAFE",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar el dominio de herramientas señaladas -Cursos",
+        "detalle": "Acreditar 1 curso de los siguientes:\n-Auditoría de TI.\n-Gestión de servicios en tecnologías de la información (ITIL V4 Foundation).",
+        "resultado": ""
+      }
+    ]
+  },
+  "certificaciones": [
+   {
+      "concepto": "¿El candidato cuenta con la certificación ITIL v4 Foundation viggente?",
+      "detalle": "Acreditar al menos 1 certificación vigente ",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato posee PMP vigente como certificación adicional (si es la seleccionada)?",
+      "detalle": "Acreditar al menos 1 certificación vigente ",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato posee Scrum Master vigente como certificación adicional (si es la seleccionada)?",
+      "detalle": "Acreditar al menos 1 certificación vigente ",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato posee Leading SAFe vigente como certificación adicional (si es la seleccionada)?",
+      "detalle": "Acreditar al menos 1 certificación vigente ",
+      "resultado": ""
+    },
+    {
+      "concepto": "La certificación 1 es legible y vigente ",
+      "detalle": "El documento oficial de cada certificado está en el repositorio Especificar cuál es de las siguientes: PMP, SCRUM Master, ITIL v 4.0, Leading SAFE (debe tener al menos 1)",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Las fechas de emisión y expiración está claramente indicadas?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre coincide exactamente con el CV y la identificación?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La certificación fue verificada en el registro oficial de la entidad emisora (cuando aplique)?",
+      "detalle": "Se hizo la consulta en la entidad oficial",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La certificación tendrá vigencia durante toda la vida del contrato (o existe plan de renovación documentado)?",
+      "detalle": "A partir de que inicie son 24 meses = 731 días naturales",
+      "resultado": ""
+    },
+    {
+      "concepto": "La certificación 2 es legible y vigente ",
+      "detalle": "El documento oficial de cada certificado está en el repositorio Especificar cuál es de las siguientes: PMP, SCRUM Master, ITIL v 4.0, Leading SAFE (debe tener al menos 1)",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Las fechas de emisión y expiración está claramente indicadas?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre coincide exactamente con el CV y la identificación?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La certificación fue verificada en el registro oficial de la entidad emisora (cuando aplique)?",
+      "detalle": "Se hizo la consulta en la entidad oficial",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La certificación tendrá vigencia durante toda la vida del contrato (o existe plan de renovación documentado)?",
+      "detalle": "A partir de que inicie son 24 meses = 731 días naturales",
+      "resultado": ""
+    },
+    {
+      "concepto": "La certificación 3 es legible y vigente ",
+      "detalle": "El documento oficial de cada certificado está en el repositorio Especificar cuál es de las siguientes: PMP, SCRUM Master, ITIL v 4.0, Leading SAFE (debe tener al menos 1)",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Las fechas de emisión y expiración está claramente indicadas?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre coincide exactamente con el CV y la identificación?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La certificación fue verificada en el registro oficial de la entidad emisora (cuando aplique)?",
+      "detalle": "Se hizo la consulta en la entidad oficial",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La certificación tendrá vigencia durante toda la vida del contrato (o existe plan de renovación documentado)?",
+      "detalle": "A partir de que inicie son 24 meses = 731 días naturales",
+      "resultado": ""
+    }
+  ],
+  "cursos": [
+   {
+      "concepto": "¿El candidato adjunta constancia del curso Auditoría de TI?",
+      "detalle": "Incluirlo en caso de que el candidato lo tenga",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato adjunta constancia del curso Gestión de servicios en tecnologías de la información (ITIL V4 Foundation) ?",
+      "detalle": "Incluirlo en caso de que el candidato lo tenga",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato adjunta constancia del curso XXXXXX ?",
+      "detalle": "Incluir en caso de que sumen puntos el nombre de otro curso relacionado con el rol",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    }
+  ],
+  "dominioHerramientas": [
+    {
+      "concepto": "¿El CV acredita dominio de ITSM/ITIL aplicado en operación (Mesa de Servicios, gestión de incidentes/problemas/cambios) y muestra métricas/SLAs/OLAs logradas?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio.\nMencionar ¿cuál?  ITSM / ITIL (Mesa de servicio)\nAclarar que ha sido en proyectos grandes/críticos"
+    },
+    {
+      "concepto": "¿El CV evidencia uso profesional de PPM/Jira/MS Project para seguimiento operativo (PT/WBS, hitos, paquetes en Monitor/Administración de Versiones - AVL y ventanas de liberación)?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio.\nMencionar ¿cuál?  PPM, Jira, MS Project\nAclarar que ha sido en proyectos grandes/críticos"
+    },
+    {
+      "concepto": "¿El CV documenta tableros/KPIs operativos usados para supervisar servicios 24×7?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio.\nMencionar ¿cuál?  Herramientas de seguimiento, monitoreo y control\nAclarar que ha sido en proyectos grandes/críticos"
+    },
+    {
+      "concepto": "¿El CV describe herramientas y formatos de reportería operativa (carpetas/indicadores/auditorías) y su aporte a la gobernanza del servicio?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio.\nMencionar ¿cuál?   Herramientas de reporteo / documentación\nAclarar que ha sido en proyectos grandes/críticos"
+    },
+    {
+      "concepto": "¿El CV acredita uso de GitLab/ALM para versionado, issues/tareas y documentación técnica con trazabilidad de cambios?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio.\nMencionar ¿cuál?   Herramientas de versionado\nAclarar que ha sido en proyectos grandes/críticos"
+    },
+    {
+      "concepto": "¿El CV muestra experiencia con análisis estático de código  y su integración al flujo de pruebas hasta cumplir cero bloqueantes/críticos/altos previo a liberar?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio.\nMencionar ¿cuál?  (SonarQube/criterios Administración de Versiones AVL)\nAclarar que ha sido en proyectos grandes/críticos"
+    },
+    {
+      "concepto": "¿El CV acredita uso de repositorio de artefactos binarios para control de dependencias y paquetes liberables?",
+      "detalle": "Repositorio de artefactos (Nexus Repository / Archiva institucional)"
+    },
+    {
+      "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+      "detalle": "Esta clara en el CV"
+    },
+    {
+      "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+      "detalle": "Esta clara en el CV"
+    }
+  ]
+}

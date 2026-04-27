@@ -1,0 +1,156 @@
+
+
+--- Página 1 ---
+
+M i g u e l   A n g e l   R o d r i g u e z   S o r i a
+P E R F I L
+D e s a r r o l l a d o r   W e b   e n e r g é t i c o   y   p r o a c t i v o   c o n   m á s   d e   7   a ñ o s   d e   e x p e r i e n c i a   e n   l a   g e n e r a c i ó n   d e   a p l i c a c i o n e s   t a n t o   p a r a   s e c t o r   p ú b l i c o   c o m o
+p a r a   s e c t o r   p r i v a d o ,   t e n i e n d o   e n t r e   l a s   m e n c i o n a d a s   l a s   c o r r e s p o n d i e n t e s   a l   á r e a   f i n a n c i e r a .   R e s p o n s a b l e   y   d e   g r a n   a p o y o   e n   l a s   a c t i v i d a d e s
+e n   e q u i p o .
+E n   c u e n t a s   a n t e r i o r e s ,   o b t u v e   u n   g r a n   r e c o n o c i m i e n t o   p o r   p a r t e   d e   n u e s t r o s   c l i e n t e s   a l   h a b e r   o b t e n i d o   e l   d e s a r r o l l o   d e   u n a   a p l i c a c i ó n   a n t e s   d e l
+t i e m p o   e s t i m a d o   a h o r r a n d o   c o n   e l l o   g r a n   p a r t e   d e l   p r e s u p u e s t o   d e s t i n a d o   a   l a   m i s m a .
+E X P E R I E N C I A   P R O F E S I O N A L
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l o   d e   S o f t w a r e D e :   J a n ,   2 0 2 1   A :   J a n ,   2 0 2 6
+D e s c r i p c i ó n :
+P a r t i c i p e   e n   l a   a t e n c i ó n   d e   r e q u e r i m i e n t o   e n   c u e n t a   C I T I ,   p r i n c i p a l m e n t e   F r o n t ­ E n d   e n   d o n d e   s e   a p l i c a r o n   a j u s t e s   d e   m a q u e t a c i ó n   y   e s t i l o s   e n
+u n   d o c u m e n t o   d e   u n a   s o l i c i t u d ,   a s í   m i s m o   r e a l i c é   u n a   m i g r a c i ó n   p a r a   u n   a p l i c a t i v o ,   e n   d o n d e   p r e s e n t a b a   p r o b l e m a s   d e   c o m p a t i b i l i d a d   e n t r e
+n a v e g a d o r e s   I E   y   M i c r o s o f t   E D G E .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+H T M L ,   C S S / C S S 3 ,   A n g u l a r   J S ,   J a v a s c r i p t ,   G i t
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l o   d e   S o f t w a r e D e :   J a n ,   2 0 1 9   A :   D e c ,   2 0 2 0
+D e s c r i p c i ó n :
+P a r t i c i p e   e n   e l   d e s a r r o l l o   d e   u n a   A P I   q u e   p e r m i t e   e l   f i l t r a d o   d e   l o g s   y   l l e n a d o   d e   A r c h i v o s   E x c e l ,   l o s   c u a l e s   n o s   p e r m i t i e r o n   o b t e n e r   r e s u l t a d o s
+e s t a d í s t i c o s   p a r a   e l a b o r a c i ó n   d e   p r e s e n t a c i o n e s   a n t e   c o m i t é ,   a d i c i o n a l m e n t e   t r a b a j é   e n   l a   c r e a c i ó n   d e   a u d i o s   . w a v   p a r a   l a   i n t e g r a c i ó n   e n   l o s
+I V R ´ s ,   a s í   c o m o   e n   m o n i t o r e o   d e   s e r v i c i o s   e n   l o s   E q u i p o s   I V R S .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+V o c a l i z e r E x p r e s s i v e S t u d i o ,   P U T T Y ,   G i t
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l o   d e   S o f t w a r e D e :   N o v ,   2 0 1 8   A :   D e c ,   2 0 1 9
+D e s c r i p c i ó n :
+P a r t i c i p e   e n   e l   d e s a r r o l l o   d e   u n a   m i g r a c i ó n   d e   t e c n o l o g í a ,   e n   d o n d e   s e   m i g r o   d e   F r a m e w o r k   A B A D   ( p r o p i o   d e l   b a n c o   B B V A ) ,   a   l a   t e c n o l o g í a
+d e   F r a m e w o r k   C E L L S   ( p r o p i o   d e l   b a n c o ) ,   s e   v i o   i n v o l u c r a d o   e l   l l a m a d o   d e   l a   A P I   y   e l   l l e n a d o   d e   p a n t a l l a s   d e l   l a d o   F r o n t .   A s í   m i s m o   p a r t i c i p e
+e n   e l   c a m b i o   d e   u n   l o o k   a n d   f e e l   e n   d o n d e   d e s a r r o l l e   a l g u n o s   c o m p o n e n t e s   w e b   d e l   l a d o   F r o n t ,   c o n   e l   m a n e j o   d e   J S P ´ s   y   C S S .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+C C S ,   O r a c l e   S Q L   D e v e l o p e r ,   J a v a s c r i p t ,   A j a x ,   J Q u e r y ,   D i m e n s i o n s ,   R e m e d y ,   G i t
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l o   d e   S o f t w a r e D e :   A p r ,   2 0 1 8   A :   O c t ,   2 0 1 8
+D e s c r i p c i ó n :
+D e s a r r o l l o   d e   M o d u l o   w e b ,   c o n   n o m b r e   d e   F i d u c i a r i o s   P Y M E ,   d e s t i n a d o   a l   m a n e j o   d e   p r o p i e d a d e s   f i d u c i a r i a s ,   e n   d o n d e   s e   b u s c a   c u m p l i r   p o r
+p a r t e   d e l   b a n c o ,   c o n   l a s   d i s p o s i c i o n e s   e s t a b l e c i d a s   p o r   e l   f i d e i c o m i t e n t e .   U t i l i z a n d o   p r o g r a m a c i ó n   J a v a   y   u n   f r a m e w o r k   p r o p i o   d e l   b a n c o .   A s í
+m i s m o   i n v o l u c r a n d o   á r e a s   c o m o   F r o n t ­ E n d   y   B a c k ­ E n d   p a r a   d i c h a   c o n s t r u c c i ó n ,   l a   c u a l   f u e   l l e v a d a   a   c a b o ,   u t i l i z a n d o   l a   m e t o d o l o g í a   d e
+S C R U M .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+J A V A ,   C C S ,   J a v a s c r i p t ,   A j a x ,   H T M L
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l o   d e   S o f t w a r e D e :   D e c ,   2 0 1 6   A :   M a r ,   2 0 1 8
+D e s c r i p c i ó n :
+D e s a r r o l l o   d e   p r o y e c t o   w e b ,   c o n   n o m b r e   T r á m i t e   d e   S o l i c i t u d   d e   P e n s i ó n   p o r   I n t e r n e t   ( T S P I ) ,   d e s t i n a d o   a l   m a n e j o   d e   t r á m i t e s   d e   p e n s i o n e s   e n
+l í n e a   I M S S ,   e n   d o n d e   s e   m a n e j ó   u n   m ó d u l o   c o m p l e t o   d e   F r o n t ­ E n d   y   B a c k ­ E n d ,   u t i l i z a n d o   l a   a r q u i t e c t u r a   e s t a b l e c i d a .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+
+--- Página 2 ---
+
+H i b e r n a t e ,   B o o t s t r a p ,   O r a c l e   S Q L   D e v e l o p e r ,   J S T L
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l o   d e   S o f t w a r e D e :   A u g ,   2 0 1 6   A :   N o v ,   2 0 1 6
+D e s c r i p c i ó n :
+D e s a r r o l l o   y   p r u e b a   d e   p r o y e c t o   I M S S   q u e   t i e n e   p o r   n o m b r e   M a t e r n i d a d   e n   e l   c u a l   s e   m a n e j a n   r e g i s t r o s   d e   c i t a s ,   e s t u d i o s   m é d i c o s ,   r e v i s i ó n   d e
+h i s t ó r i c o   d e   C i t a   M é d i c a ,   e l   s e g u i m i e n t o   o b s t é t r i c o   y   l o s   e s t u d i o s   d e   l a b o r a t o r i o   d e   l a   e m b a r a z a d a .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+S p r i n g   M V C ,   B o o t s t r a p ,   J a v a s c r i p t ,   J S T L ,   E J B ,   A j a x ,   J Q u e r y ,   P r i m e F a c e s
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l o   d e   S o f t w a r e D e :   M a r ,   2 0 1 4   A :   J a n ,   2 0 1 6
+D e s c r i p c i ó n :
+D e s a r r o l l o   y   o p t i m i z a c i ó n   d e   p r o y e c t o s   p a r a   l a   V e n t a n i l l a   Ú n i c a   d e   C o m e r c i o   E x t e r i o r   M e x i c a n a ,   c o n   e l   o b j e t i v o   d e   c u b r i r   p e t i c i o n e s   d e
+i n f o r m a c i ó n   d e   d i f e r e n t e s   d e p e n d e n c i a s   G u b e r n a m e n t a l e s ,   a   t r a v é s   d e   l e n g u a j e   J a v a   y   l o s   f r a m e w o r k s   e s t a b l e c i d o s   e n   e l   p r o y e c t o .  
+H e r r a m i e n t a s / H a b i l i d a d e s :
+H i b e r n a t e ,   S p r i n g   F r a m e w o r k ,   S o a p U I ,   O r a c l e   S Q L   D e v e l o p e r
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l o   d e   S o f t w a r e D e :   S e p ,   2 0 1 3   A :   F e b ,   2 0 1 4
+D e s c r i p c i ó n :
+D e s a r r o l l o ,   O p t i m i z a c i ó n   y   E j e c u c i ó n   d e   C o n s u l t a s   a   B a s e   d e   D a t o s   p a r a   a m b i e n t e   p r o d u c t i v o   d e l   S i s t e m a   V e n t a n i l l a   Ú n i c a   d e   C o m e r c i o
+E x t e r i o r   M e x i c a n a ,   c o n   e l   o b j e t i v o   d e   c u b r i r   p e t i c i o n e s   d e   i n f o r m a c i ó n   d e   d i f e r e n t e s   d e p e n d e n c i a s   G u b e r n a m e n t a l e s ,   a   t r a v é s   d e   l a   h e r r a m i e n t a
+A P E X   ( O r a c l e   A p p l i c a t i o n   E x p r e s s ) .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+O r a c l e   S Q L   D e v e l o p e r ,   A P E X   ( O r a c l e   A p p l i c a t i o n   E x p r e s s ) ,   J a v a   E E   /   J 2 E E
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l a d o r   W E B D e :   J a n ,   2 0 1 3   A :   A u g ,   2 0 1 3
+D e s c r i p c i ó n :
+D e s a r r o l l o   d e   W e b   S e r v i c e s   y   e l a b o r a c i ó n   d e   p r u e b a s   h e r r a m i e n t a   S O A P U I ,   c o n   e l   o b j e t i v o   d e   i n t e r c a m b i a r   i n f o r m a c i ó n   a   t r a v é s   d e   a r c h i v o s
+X M L   e n t r e   d e p e n d e n c i a s   G u b e r n a m e n t a l e s   y   S i s t e m a   V e n t a n i l l a   Ú n i c a   d e   C o m e r c i o   E x t e r i o r   M e x i c a n a ,   p a r a   e l   m a n e j o   d e   t r á m i t e s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+S p r i n g   F r a m e w o r k   ­   W e b   S e r v i c e s ,   S o a p U I ,   X M L
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l a d o r   W E B D e :   A u g ,   2 0 1 2   A :   D e c ,   2 0 1 2
+D e s c r i p c i ó n :
+C l i e n t e   S A T ,   D e s a r r o l l o   d e   p r o c e s o s   a u t o m á t i c o s   p o r   m e d i o   d e   u n a   h e r r a m i e n t a   d e   B I   l l a m a d a   A x w a y   I n t e g r a t o r ,   c o n   e l   o b j e t i v o   d e
+i n t e r c a m b i a r   a r c h i v o s   E D I   c o n   e l   e s t á n d a r   x 1 2   e n t r e   F e r r o v i a r i a s   d e   M é x i c o   y   E s t a d o s   U n i d o s ,   p a r a   e l   c o n t r o l   d e   i m p o r t a c i o n e s   y   e x p o r t a c i o n e s
+m e d i a n t e   l a   V e n t a n i l l a   Ú n i c a   d e   C o m e r c i o   E x t e r i o r   M e x i c a n a .  
+H e r r a m i e n t a s / H a b i l i d a d e s :
+H T M L ,   A X W A Y   I N T E G R A T O R ,   S p r i n g   F r a m e w o r k   ­   W e b   S e r v i c e s ,   J a v a   E E   /   J 2 E E ,   O r a c l e   D a t a b a s e
+S o f t t e k C D M X ,   M é x i c o   ­   D e s a r r o l l o   d e   S o f t w a r e D e :   M a r ,   2 0 1 2   A :   J u l ,   2 0 1 2
+D e s c r i p c i ó n :
+P r o c e s o s   r e l a c i o n a d o s   c o n   e l   d e s a r r o l l o   d e   u n   s i s t e m a   d e   s o f t w a r e :   A n á l i s i s   d e   R e q u e r i m i e n t o s ,   D i s e ñ o ,   D e s a r r o l l o   y   p r u e b a s   u n i t a r i a s   d e
+d i f e r e n t e s   m ó d u l o s   p a r a   e l   g e s t i o n a m i e n t o   d e   B i e n e s   M u e b l e s   E   I n m u e b l e s   c o n   e l   c l i e n t e   B A N C O M E R .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+J a v a s c r i p t ,   H T M L ,   O r a c l e   D a t a b a s e
+A c a d é m i c o C D M X ,   M é x i c o   ­   B I D e :   A u g ,   2 0 1 0   A :   J u n ,   2 0 1 1
+D e s c r i p c i ó n :
+R e s p o n s a b l e   d e   l a   r e i n g e n i e r í a   d e   p r o c e s o s   e n   e l   á r e a   d e   s i s t e m a s   p a r a   u n a   t i e n d a   d e   c a l z a d o .
+C o n s u l t o r í a   d e   s o f t w a r e   e n   g e n e r a l .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+J a v a   E E   /   J 2 E E ,   M i c r o s o f t   S Q L   S e r v e r ,   H T M L ,   A d o b e   E x p e r i e n c e   M a n a g e r   ( A E M ) ,   P H P ,   O r a c l e   D a t a b a s e
+
+--- Página 3 ---
+
+E D U C A C I Ó N
+D E S A R R O L L O   P R O F E S I O N A L
+I D I O M A S
+H A B I L I D A D E S   T É C N I C A S / G E R E N C I A L E SA c a d e m i c o C D M X ,   M é x i c o   ­   D e s a r r o l l a d o r   d e   S o f t w a r e D e :   F e b ,   2 0 0 9   A :   J u l ,   2 0 0 9
+D e s c r i p c i ó n :
+P r o c e s o s   r e l a c i o n a d o s   c o n   l a   r e a l i z a c i ó n   d e   u n   s i s t e m a   d e   s o f t w a r e :   A n á l i s i s   d e   R e q u e r i m i e n t o s ,   D i s e ñ o   y   D e s a r r o l l o .   D e s a r r o l l o   d e l   S i s t e m a
+p a r a   e l   i n v e n t a r i a d o   d e   u n a   m i c r o e m p r e s a   ( F a r m a c i a ) .
+E x p e r i e n c i a   F u n c i o n a l :
+­   R e c o l e c c i ó n   d e   r e q u e r i m i e n t o s   d e   s i s t e m a ,   a n á l i s i s   y   d i s e ñ o   d e   b a s e   d e   d a t o s ,   e s t i m a c i ó n   d e   t i e m p o s ,   c a p a c i t a c i ó n   a l   p e r s o n a l .
+­   C o n o c i m i e n t o s   b á s i c o s   e n   s o p o r t e   t é c n i c o   y   a t e n c i ó n   i n m e d i a t a   a   l o s   c o n s u m i d o r e s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+J a v a s c r i p t ,   H T M L ,   O r a c l e   D a t a b a s e
+U N I V E R S I D A D   J U S T O   S I E R R A C D M X ,   M é x i c o D e :   A u g ,   2 0 1 1   A :   J u l ,   2 0 1 3
+M a e s t r í a
+M a e s t r í a   e n   G e s t i ó n   d e   C o m e r c i o   E l e c t r ó n i c o   ­   T i t u l a d o
+U N I V E R S I D A D   J U S T O   S I E R R A C D M X ,   M é x i c o D e :   A u g ,   2 0 0 7   A :   J u l ,   2 0 1 2
+L i c e n c i a t u r a
+L i c e n c i a d o   e n   I n f o r m á t i c a   A d m i n i s t r a t i v a   ­   T i t u l a d o
+C o u r s e :   A c a d e m i a   A n g u l a r   C I T I S O F T T E K D e c ,   2 0 2 2
+C e r t i f i c a t i o n :   C u r s o   y   E x a m e n   d e   c e r t i f i c a c i ó n   S A F e   4 S o f t t e k O c t ,   2 0 1 8
+C o u r s e :   C u r s o   d e   c e r t i f i c a c i ó n   O r a c l e   J a v a   7   A s s o c i a t D e v e l o p D e c ,   2 0 1 6
+C o u r s e :   D i p l o m a d o   e n   P r o j e c t   M a n a g e m e n t   P r o f e s s i o n a l S t r a t o m i n d s A u g ,   2 0 1 5
+C e r t i f i c a t i o n :   C e r t i f i c a c i ó n   I T I L   F O U N D A T I O N   V 3 S t r a t o m i n d s M a y ,   2 0 1 5
+C o u r s e :   C u r s o   d e   J a v a   p a r a   V U C E M S o f t t e k J a n ,   2 0 1 2
+E n g l i s h A u t o   E v a l u a d o U p p e r   I n t e r m e d i a t e   5 1 ­ 7 9 %
+X M L   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+V o c a l i z e r E x p r e s s i v e S t u d i o   J u n i o r   ( 1 ­ 2   Y o E )
+S p r i n g   M V C   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+S p r i n g   F r a m e w o r k   ­   W e b   S e r v i c e s   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+S p r i n g   F r a m e w o r k   S e n i o r   ( 4 ­ 6   Y o E )
+S o a p U I   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+R e m e d y   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+P U T T Y   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+P r i m e F a c e s   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+P H P   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+O r a c l e   S Q L   D e v e l o p e r   S e n i o r   ( 4 ­ 6   Y o E )
+O r a c l e   D a t a b a s e   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M i c r o s o f t   S Q L   S e r v e r   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+J S T L   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+J Q u e r y   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+J a v a s c r i p t   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+J a v a   E E   /   J 2 E E   S e n i o r   ( 4 ­ 6   Y o E )
+
+--- Página 4 ---
+
+J A V A   S e n i o r   ( 4 ­ 6   Y o E )
+H T M L   S e n i o r   ( 4 ­ 6   Y o E )
+H i b e r n a t e   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+G i t   S e n i o r   ( 4 ­ 6   Y o E )
+E J B   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+D i m e n s i o n s   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+C S S / C S S 3   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+C C S   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+B o o t s t r a p   S e n i o r   ( 4 ­ 6   Y o E )
+A X W A Y   I N T E G R A T O R   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+A P E X   ( O r a c l e   A p p l i c a t i o n   E x p r e s s )   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+A n g u l a r   J S   T r a i n e e   ( 0 ­ 1   Y o E )
+A j a x   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+A d o b e   E x p e r i e n c e   M a n a g e r   ( A E M )   P r o f i c i e n t   ( 2 ­ 4   Y o E )

@@ -1,0 +1,70 @@
+CYNTHIA MARICELA FLORES VILLASEÑOR
+PERFIL
+Ingeniero en Sistemas Computacionales, con perfil de Analista y Líder de proyecto participando en proyectos de sector privado y público. Realizando actividades en Administración de proyectos y Análisis aplicando las mejores prácticas y metodologías para la optimización de procesos.
+Autodidacta, proactiva y orientada a resultados. Capacidad de Administrar proyectos de TI y fomentar el trabajo en equipo para el logro de resultados.
+Los últimos años he participado en proyectos agiles, conozco las funciones de scrum master y he estado como backup del scrum master llevando a cabo las funciones requeridas. Cuento con los conocimientos en el marco de trabajo scrum y estoy enfocada en el crecimiento y aprendizaje sobre los proyectos en los que se implementa.
+EXPERIENCIA PROFESIONAL
+Element	CDMX  Business Analyst  Senior	De: Nov, 2022 A: Actualmente
+Descripción:
+Definición de requerimientos
+Análisis del negocio
+Apoyo en la definición y priorización del Backlog Generación de refinamientos
+Generación de documentación de análisis (Historias de Usuario, Diseño funcional, Manual de usuario, Modelos de Dominio)
+Herramientas/Habilidades:
+Softtek Cliente COPPEL	CDMX  Analista	De: Nov, 2020 A: Oct, 2022
+Descripción:
+Resumen de actividades
+Descubrimiento y Análisis de requerimientos, generación de estimaciones.
+·        Atención del análisis de múltiples requerimientos con dependencia funcionales o técnicas entre ellos.
+·        Documentación de análisis y presentación con el cliente.
+·        Análisis de impactos y afectaciones en los requerimientos.
+Generación de estimaciones para la fase de análisis, para los controles de cambio.
+Softtek Cliente COPPEL	CDMX  Capacitador y Líder de Proyecto	De: Jun, 2018 A: Oct, 2020
+Descripción:
+Resumen de actividades
+Realizar capacitaciones a las personas del área de sistemas del cliente Coppel, referentes a un marco de trabajo para el desarrollo de software.
+Seguimiento de los equipos en la correcta ejecución del nuevo marco del trabajo.
+·        Capacitación a equipos del área de sistemas. (150 Personas capacitadas a lo largo de 2 años)
+·        Seguimiento en la ejecución del nuevo marco de trabajo
+·        Auditoría de los artefactos generados en los procesos de Administración de proyectos, Análisis y Diseño funcional.
+·        Atención y solución de dudas referentes al marco de trabajo.
+Análisis del proceso de desarrollo actual del cliente para definir una estrategia de implementación de mejores prácticas para optimizar sus
+Softtek Cliente NISSAN	CDMX  Líder de Proyecto	De: Dec, 2017 A: May, 2018
+Descripción:
+·        Determinar necesidades y entregables del proyecto ·        Planificar, dirigir y controlar los proyectos
+·        Asegurar que el proyecto se encuentre dentro del alcance, tiempo, presupuesto y calidad. Identificación y comunicación de los Riesgos e Issues del proyecto.
+Softtek Cliente FORD	CDMX  Líder de Proyecto	De: Jun, 2016 A: Nov, 2017
+Descripción:
+·        Determinar necesidades y entregables del proyecto ·
+·        Planificar, dirigir y controlar los proyectos
+·        Asegurar que el proyecto se encuentre dentro del alcance, tiempo, presupuesto y calidad. ·
+·        Identificación y comunicación de los Riesgos e Issues del proyecto.
+·        Administración de 4 proyectos en paralelo
+·        Implementación de Scrum en los proyectos Generación y revisión de propuestas
+Softtek Cliente NISSAN	CDMX  Líder de Proyecto	De: Oct, 2015 A: May, 2016
+Descripción:
+· Determinar necesidades y entregables del proyecto
+· Planificar, dirigir y controlar los proyectos
+· Asegurar que el proyecto se encuentre dentro del alcance, tiempo, presupuesto y calidad.
+· Identificación y comunicación de los Riesgos e Issues del proyecto.
+Generación y revisión de propuestas
+Softtek Cliente NISSAN	CDMX  Analista	De: Jan, 2015 A: Sep, 2015
+Descripción:
+Toma de requerimientos funcionales y no funcionales
+· Generación de la siguiente documentación:
+o Casos de uso
+o Matriz de trazabilidad
+o Matriz de trazabilidad
+o Glosario de términos
+o Requerimientos No Funcionales
+o Características comunes de la aplicación
+o Definición de reglas de negocio
+· Diseño UML:
+o Diagrama de casos de uso
+o Modelo Lógico
+Diagrama de contexto
+EDUCACIÓN
+UVM 
+Maestría en Gestión de tecnologías de la información | CDMX | De: Jan, 2013 A: May, 2016
+TESOEM 
+Ingeniería en Sistemas Computacionales | Estado de México | De: Sep, 2004 A: Aug, 2009

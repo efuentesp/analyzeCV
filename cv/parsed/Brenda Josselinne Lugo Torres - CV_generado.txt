@@ -1,0 +1,111 @@
+Brenda Josselinne Lugo Torres
+Analista Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 1 año de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y soluciones de Inteligencia de Negocio. Como analista de negocio, me encargo de descubrir, sintetizar y analizar información proveniente de herramientas, procesos, documentación y Partes interesadas (stakeholders).
+
+He trabajado en proyectos de modelado y mejora de procesos, definición de reglas de negocio y documentación de entregables funcionales y técnicos, contribuyendo a la continuidad operativa y la generación de entregables para toma de decisiones. Me especializo en identificar dependencias, redactar especificaciones funcionales y colaborar con Partes interesadas (stakeholders) para validar soluciones que reduzcan riesgos y mejoren la operación.
+
+Aplico técnicas de recopilación y representación de requerimientos y facilito la comunicación entre negocio y equipos implementadores para asegurar la correcta implementación de soluciones.
+EXPERIENCIA LABORAL
+Empresa
+Softtek CDMX | Puesto
+Excelencia Operativa AMS L3 | Desde:
+1 septiembre 2022 | Hasta: 
+A la fecha
+Actividades Principales | • Recojo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: recopilación de información, análisis e interpretación de datos, identificación de patrones y oportunidades de mejora, generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.
+• Entiendo las necesidades reales mediante el uso de un conjunto de técnicas de análisis.
+• Involucro a las Partes interesadas (stakeholders) para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de forma completa, clara y consistente.
+• Genero las especificaciones de requerimientos no funcionales, describiendo cualidades y restricciones para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que faciliten la ejecución de procesos de negocio.
+• Diseño la solución funcional que satisface los requerimientos y la estrategia de implementación para generar valor al negocio.
+• Aseguro que la solución sea aprobada por las Partes interesadas (stakeholders) y que su implementación se ejecute sin percances.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.
+• He usado la certificación Agile Business Analysis: Getting / Writing Lean Requirements para aplicar fundamentos de metodologías ágiles para la gestión de proyectos.
+• He usado la certificación BPMN for business analysts para modelado de procesos (BPMN).
+• He usado el curso Business Analysis Fundamentals – ECBA, CCBA, CBAP endorsed para reforzar fundamentos del análisis de negocio.
+• He aplicado el curso Business Analysis Modeling Skills  Techniques para técnicas de modelado en análisis de negocio.
+• He implementado el curso Business Analysis: Working with Use Cases para documentar requerimientos mediante casos de uso.
+• He usado el curso Mastering Data Modeling Fundamentals para prácticas básicas de modelado de datos.
+• He aplicado el curso BPMN 2.0 with Brian: From Beginner to Winner para modelado de procesos con BPMN.
+• He usado el curso The Practical BPMN 2.0 Master Class para fortalecer mis habilidades de modelado BPMN.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+Interfaz Gráfica de Usuario (GUI): Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.
+INT: Proveo las entradas necesarias para la integración de sistemas.
+STD: Participo en las actividades de diseño de pruebas de sistema.
+STE: Participo en la ejecución de las pruebas de sistema.
+DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+UAT: Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.
+• Identifico y mapeo los procesos de negocio clave para las aplicaciones dentro del alcance.
+• Identifico componentes dentro de los problemas reportados.
+• Identifico especificaciones funcionales a partir de historias de usuario o requerimientos técnicos proporcionados para la construcción de soluciones.
+• Documento artefactos propios del análisis y diseño de soluciones.
+• Documento artefactos para la liberación de componentes.
+• Realizo sesiones de entendimiento de negocio con el cliente para abordar los procesos por sprint.
+• Analizo código identificado como regla de negocio por el área de desarrollo.
+• Analizo, identifico y redacto reglas de negocio en lenguaje funcional.
+• Identifico y redacto términos comerciales primarios y secundarios.
+• Clasifico las reglas de negocio en función de sus características.
+• Identifico dependencias entre reglas de negocio.
+• Realizo sesiones de aprobación con el cliente sobre las reglas de negocio y hallazgos identificados.
+• Genero entregables mensuales.
+• Genero archivos de carga para Power BI Viewer.
+• Identifico oportunidades y mejoras en la forma de ejecución.
+Empresa
+Softtek CDMX | Puesto
+Blueprint de Datos Coppel | Desde:
+1 agosto 2021 | Hasta: 
+31 julio 2022
+Actividades Principales | • Realizo sesiones de entendimiento de negocio con el cliente para abordar los procesos por sprint.
+• Analizo código identificado como regla de negocio por el área de desarrollo.
+• Analizo, identifico y redacto reglas de negocio en lenguaje funcional.
+• Identifico y redacto términos comerciales primarios y secundarios.
+• Clasifico las reglas de negocio en función de sus características.
+• Identifico dependencias entre reglas de negocio.
+• Realizo sesiones de aprobación con el cliente sobre las reglas de negocio y hallazgos identificados.
+• Genero entregables mensuales.
+• Genero archivos de carga para Power BI Viewer.
+• Identifico oportunidades y mejoras en la forma de ejecución.
+HERRAMIENTAS CONOCIDAS
+- SonarQube
+- InvGate
+- AMS Model
+- Microsoft SharePoint
+- MS Visual Basic .NET
+- PostgreSQL
+- Microsoft Power BI
+- MS Excel
+- Tortoise SVN
+- Kanban
+- Business Process Model  Notation (BPMN)
+- ARIS Elements
+- Scrum
+- JIRA
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 1 septiembre 2017 hasta 31 julio 2019
+Durante este período asumí responsabilidades vinculadas al análisis y seguimiento operativo, desempeñando roles como Arquitectura de Procesos y Seguimiento de Incidencias. En primera persona, coordiné actividades de levantamiento y documentación de requerimientos, participé en sesiones de apertura y cierre con clientes, y apoyé en la generación de entregables y casos de uso. Adicionalmente, contribuyo al control de calidad de la documentación y al seguimiento de incidencias para asegurar la continuidad del servicio.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Sistemas Computacionales - 1 agosto 2012 - 28 febrero 2017 | TESCIE Estado de México | Cédula Profesional
+10825603
+03/05/2018
+CURSOS
+- Agile Business Analysis: Getting / Writing Lean Requirements
+- BPMN for business analysts
+- Business Analysis Fundamentals – ECBA, CCBA, CBAP endorsed
+- Business Analysis Modeling Skills  Techniques
+- Business Analysis: Working with Use Cases
+- Mastering Data Modeling Fundamentals
+- BPMN 2.0 with Brian: From Beginner to Winner
+- The Practical BPMN 2.0 Master Class
+______________________________________
+Brenda Josselinne Lugo Torres
+Analista Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

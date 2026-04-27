@@ -1,0 +1,692 @@
+Hugo Francisco Esteban Luz
+PERFIL:
+Líder técnico / Desarrollador .Net  con 14 años en área de desarrollo entre ellos 8 años de experiencia como líder técnico para sectores Bancario(Originación ,cobranza,Afore) Retail (Remesas) , Comercial(e-Commerce), Y fiscal (Facturación Electrónica) , los proyectos En los que he participado Destacan: Generación de un programa de escritorio de Facturación electrónica 3.2 (2010), Enrolamiento biometrico de Afore (registro , consulta, traspasos)(2015),Certificación de aplicaciones entre ellas : First Data(Métodos,Cifrados), CoDi (Ruta 1 , 2 y 3 , Desde APP);  Orientado a buenas prácticas, seguimiento oportuno a desarrollos, Enfocado al uso de metodologías Ágiles (Scrum) en Desarrollo. He participado en todo el seguimiento al ciclo de vida del desarrollo de software. Experiencia en desarrollos Web con MVC 5 (razor, Entity framework), Web Api (microservicios, docker,) , método de cifrado punto a punto, Oauth 2.0. En .Net, NetCore He realizado los desarrollos orientados a DevOps, teniendo como parte fundamental del desarrollo las pruebas funcionales.
+Enfocado a identificar Valor al cliente o Desarrollo.
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa:
+Softtek - Walmart | Nombre de la empresa:
+Softtek - Walmart | Lugar: | Puesto:
+Technical Leader | Desde: 
+Sep  2020 | A: 
+Actual
+Proyecto con Walmart para el producto de pago de remesas internacionales, Participe con el rol de lider tecnico donde se realizaron mejoras iterativas por sprint para la calidad de despilegue a producción, Se realizo una reingenieria de los servicios criticos y se propuso una arquitectura orientada a microservicios, Realice diseño y propuestas a nuevos flujos para el proyecto de envios PLD, Remesas como medio de pago, Buscando las mejores practicas en la parte tecnica asi como valor de estadisticas para el negocio, Se documentaron especificaciones tecnicas para integraciones con proveedores como NCR. 
+
+Área Diseño.
+Entendimiento y refinación de Historias de Usuario con areas de BA, QA, DB.
+Generación de Documentación Técnica.
+Propuestas de desarrollo con base a patrones de diseño en Funcionalidad.
+Cuidado de Perfonace de una aplicación de alta transaccionabilidad.
+
+Área Desarrollo.
+Desarrollo C# .net framework  4.6,Netcore 3.1,Net Standar 5, Net Standar 8 . WebApi, Front Razor
+Desarrollo en arquitectura Onion, MVC,Clean
+Desarrollo de Pruebas Funcionales.
+Manejo de Ramas en GIT para Multiples proyectos - GitHub – GitFlow, Reviwer Code, Code Aprove.
+
+Área Administración
+Lider de Equipo de Desarrollo de multiples Proyectos.
+6 Personas en .net y .Netcore
+Generación, Asignación y Seguimiento de Sprints (scrum).
+Documentación e implementación en producción. | Proyecto con Walmart para el producto de pago de remesas internacionales, Participe con el rol de lider tecnico donde se realizaron mejoras iterativas por sprint para la calidad de despilegue a producción, Se realizo una reingenieria de los servicios criticos y se propuso una arquitectura orientada a microservicios, Realice diseño y propuestas a nuevos flujos para el proyecto de envios PLD, Remesas como medio de pago, Buscando las mejores practicas en la parte tecnica asi como valor de estadisticas para el negocio, Se documentaron especificaciones tecnicas para integraciones con proveedores como NCR. 
+
+Área Diseño.
+Entendimiento y refinación de Historias de Usuario con areas de BA, QA, DB.
+Generación de Documentación Técnica.
+Propuestas de desarrollo con base a patrones de diseño en Funcionalidad.
+Cuidado de Perfonace de una aplicación de alta transaccionabilidad.
+
+Área Desarrollo.
+Desarrollo C# .net framework  4.6,Netcore 3.1,Net Standar 5, Net Standar 8 . WebApi, Front Razor
+Desarrollo en arquitectura Onion, MVC,Clean
+Desarrollo de Pruebas Funcionales.
+Manejo de Ramas en GIT para Multiples proyectos - GitHub – GitFlow, Reviwer Code, Code Aprove.
+
+Área Administración
+Lider de Equipo de Desarrollo de multiples Proyectos.
+6 Personas en .net y .Netcore
+Generación, Asignación y Seguimiento de Sprints (scrum).
+Documentación e implementación en producción. | Proyecto con Walmart para el producto de pago de remesas internacionales, Participe con el rol de lider tecnico donde se realizaron mejoras iterativas por sprint para la calidad de despilegue a producción, Se realizo una reingenieria de los servicios criticos y se propuso una arquitectura orientada a microservicios, Realice diseño y propuestas a nuevos flujos para el proyecto de envios PLD, Remesas como medio de pago, Buscando las mejores practicas en la parte tecnica asi como valor de estadisticas para el negocio, Se documentaron especificaciones tecnicas para integraciones con proveedores como NCR. 
+
+Área Diseño.
+Entendimiento y refinación de Historias de Usuario con areas de BA, QA, DB.
+Generación de Documentación Técnica.
+Propuestas de desarrollo con base a patrones de diseño en Funcionalidad.
+Cuidado de Perfonace de una aplicación de alta transaccionabilidad.
+
+Área Desarrollo.
+Desarrollo C# .net framework  4.6,Netcore 3.1,Net Standar 5, Net Standar 8 . WebApi, Front Razor
+Desarrollo en arquitectura Onion, MVC,Clean
+Desarrollo de Pruebas Funcionales.
+Manejo de Ramas en GIT para Multiples proyectos - GitHub – GitFlow, Reviwer Code, Code Aprove.
+
+Área Administración
+Lider de Equipo de Desarrollo de multiples Proyectos.
+6 Personas en .net y .Netcore
+Generación, Asignación y Seguimiento de Sprints (scrum).
+Documentación e implementación en producción. | Proyecto con Walmart para el producto de pago de remesas internacionales, Participe con el rol de lider tecnico donde se realizaron mejoras iterativas por sprint para la calidad de despilegue a producción, Se realizo una reingenieria de los servicios criticos y se propuso una arquitectura orientada a microservicios, Realice diseño y propuestas a nuevos flujos para el proyecto de envios PLD, Remesas como medio de pago, Buscando las mejores practicas en la parte tecnica asi como valor de estadisticas para el negocio, Se documentaron especificaciones tecnicas para integraciones con proveedores como NCR. 
+
+Área Diseño.
+Entendimiento y refinación de Historias de Usuario con areas de BA, QA, DB.
+Generación de Documentación Técnica.
+Propuestas de desarrollo con base a patrones de diseño en Funcionalidad.
+Cuidado de Perfonace de una aplicación de alta transaccionabilidad.
+
+Área Desarrollo.
+Desarrollo C# .net framework  4.6,Netcore 3.1,Net Standar 5, Net Standar 8 . WebApi, Front Razor
+Desarrollo en arquitectura Onion, MVC,Clean
+Desarrollo de Pruebas Funcionales.
+Manejo de Ramas en GIT para Multiples proyectos - GitHub – GitFlow, Reviwer Code, Code Aprove.
+
+Área Administración
+Lider de Equipo de Desarrollo de multiples Proyectos.
+6 Personas en .net y .Netcore
+Generación, Asignación y Seguimiento de Sprints (scrum).
+Documentación e implementación en producción. | Proyecto con Walmart para el producto de pago de remesas internacionales, Participe con el rol de lider tecnico donde se realizaron mejoras iterativas por sprint para la calidad de despilegue a producción, Se realizo una reingenieria de los servicios criticos y se propuso una arquitectura orientada a microservicios, Realice diseño y propuestas a nuevos flujos para el proyecto de envios PLD, Remesas como medio de pago, Buscando las mejores practicas en la parte tecnica asi como valor de estadisticas para el negocio, Se documentaron especificaciones tecnicas para integraciones con proveedores como NCR. 
+
+Área Diseño.
+Entendimiento y refinación de Historias de Usuario con areas de BA, QA, DB.
+Generación de Documentación Técnica.
+Propuestas de desarrollo con base a patrones de diseño en Funcionalidad.
+Cuidado de Perfonace de una aplicación de alta transaccionabilidad.
+
+Área Desarrollo.
+Desarrollo C# .net framework  4.6,Netcore 3.1,Net Standar 5, Net Standar 8 . WebApi, Front Razor
+Desarrollo en arquitectura Onion, MVC,Clean
+Desarrollo de Pruebas Funcionales.
+Manejo de Ramas en GIT para Multiples proyectos - GitHub – GitFlow, Reviwer Code, Code Aprove.
+
+Área Administración
+Lider de Equipo de Desarrollo de multiples Proyectos.
+6 Personas en .net y .Netcore
+Generación, Asignación y Seguimiento de Sprints (scrum).
+Documentación e implementación en producción. | Proyecto con Walmart para el producto de pago de remesas internacionales, Participe con el rol de lider tecnico donde se realizaron mejoras iterativas por sprint para la calidad de despilegue a producción, Se realizo una reingenieria de los servicios criticos y se propuso una arquitectura orientada a microservicios, Realice diseño y propuestas a nuevos flujos para el proyecto de envios PLD, Remesas como medio de pago, Buscando las mejores practicas en la parte tecnica asi como valor de estadisticas para el negocio, Se documentaron especificaciones tecnicas para integraciones con proveedores como NCR. 
+
+Área Diseño.
+Entendimiento y refinación de Historias de Usuario con areas de BA, QA, DB.
+Generación de Documentación Técnica.
+Propuestas de desarrollo con base a patrones de diseño en Funcionalidad.
+Cuidado de Perfonace de una aplicación de alta transaccionabilidad.
+
+Área Desarrollo.
+Desarrollo C# .net framework  4.6,Netcore 3.1,Net Standar 5, Net Standar 8 . WebApi, Front Razor
+Desarrollo en arquitectura Onion, MVC,Clean
+Desarrollo de Pruebas Funcionales.
+Manejo de Ramas en GIT para Multiples proyectos - GitHub – GitFlow, Reviwer Code, Code Aprove.
+
+Área Administración
+Lider de Equipo de Desarrollo de multiples Proyectos.
+6 Personas en .net y .Netcore
+Generación, Asignación y Seguimiento de Sprints (scrum).
+Documentación e implementación en producción.
+Herramientas: | Visual Studio 2022, Visual Code , Bitbucket Git, SQL server 2019 , Oracle Web Center  (Sites, Content), Node JS, AngularJS. | Visual Studio 2022, Visual Code , Bitbucket Git, SQL server 2019 , Oracle Web Center  (Sites, Content), Node JS, AngularJS. | Visual Studio 2022, Visual Code , Bitbucket Git, SQL server 2019 , Oracle Web Center  (Sites, Content), Node JS, AngularJS. | Visual Studio 2022, Visual Code , Bitbucket Git, SQL server 2019 , Oracle Web Center  (Sites, Content), Node JS, AngularJS. | Visual Studio 2022, Visual Code , Bitbucket Git, SQL server 2019 , Oracle Web Center  (Sites, Content), Node JS, AngularJS.
+Nombre de la empresa:
+Grupo Financiero Inbursa | Nombre de la empresa:
+Grupo Financiero Inbursa | Lugar:
+Insurgentes Sur 3500 (Cuicuilco) | Puesto:
+Analista de Sistemas
+ (Lider de desarrollo) | Desde: 
+Nov  2018 | A: 
+2020
+Proyecto CoDi (App Inbursa - Banco de Mexico) (Nov. 2018 – Actual)
+Analisis de Requerimientos de Banco de Mexico Para CoDi, Adecuación de Negocio, Analisis de Vistas Posibles en App, Casos de Uso(A grandes razgos).
+Preparar Desarrollo App a Certificación con Banco de Mexico.
+Diseño de Core de App(Modulo de CoDi), Desarrollado en .net WCF , Bases de Datos SQL, Estableciendo Buenas Practicas en Desarrollo y generación de Pruebas Funcionales, Diagramación BPM de Rutas a implementar. 
+Generación de Historias de Usuario por Flujo (App , Core).
+Coordinación y seguimiento de Tareas(Jira, En Base a Historias de usuario), Estimación de Horas de Desarrollo con Equipo de Desarrollo. 4 Recursos para Xamarin , 2 para Core (.Net).
+Prueba de Desarrollo,(User Experiense, Funcionalidad).
+Seguimiento a Pruebas y Mejoras por Usuario
+
+Proyecto Banca Empresarial (Rol de Arquitecto)(Ago. 2018 – Sep 2019) .
+Coordinación de Tareas con 4 Equipos de distintas Fabricas (Chief Scrum Master)
+Facilitador de Insumos (Datos para pruebas, Ambientes ).
+Facilitador Tecnico para NodeJS, Consumo de Servicios(proxi) Revisión de Desarrollo realizado en .net
+Seguimiento a Proyecto. 
+
+Puesto de Jefe En Fabrica de Software (Nov. 2018 – Agosto 2018). 
+Gestión de Equipo de Desarrollo de Proyecto (CoDi)
+4 Personas en Xamarin
+2 Personas en BackEnd
+Gestion de Equipo de Desarrollo (Portal Banco).
+3 Recursos
+Gestion de Equipo de Desarrollo (Portal Salud Interactiva)
+2 Recursos 
+Supervición y Seguimiento  de Desarrollos (Daily Meeting) .
+Reporte de Actividades y Avances a Gerente de desarrollo. 
+Logros  por áreas y/ o aplicativos:
+Implementar Manejo de Git para proyecto de App CoDi en Xamarin, Core de CoDi en .Net 
+Implementar Introducción de Seguimiento Agil con dayli Meteing’s 
+Implementar Pruebas Funcionales a Core de CoDi.
+Adecucación de App de CoDi para Certificación co Banco de Mexico | Proyecto CoDi (App Inbursa - Banco de Mexico) (Nov. 2018 – Actual)
+Analisis de Requerimientos de Banco de Mexico Para CoDi, Adecuación de Negocio, Analisis de Vistas Posibles en App, Casos de Uso(A grandes razgos).
+Preparar Desarrollo App a Certificación con Banco de Mexico.
+Diseño de Core de App(Modulo de CoDi), Desarrollado en .net WCF , Bases de Datos SQL, Estableciendo Buenas Practicas en Desarrollo y generación de Pruebas Funcionales, Diagramación BPM de Rutas a implementar. 
+Generación de Historias de Usuario por Flujo (App , Core).
+Coordinación y seguimiento de Tareas(Jira, En Base a Historias de usuario), Estimación de Horas de Desarrollo con Equipo de Desarrollo. 4 Recursos para Xamarin , 2 para Core (.Net).
+Prueba de Desarrollo,(User Experiense, Funcionalidad).
+Seguimiento a Pruebas y Mejoras por Usuario
+
+Proyecto Banca Empresarial (Rol de Arquitecto)(Ago. 2018 – Sep 2019) .
+Coordinación de Tareas con 4 Equipos de distintas Fabricas (Chief Scrum Master)
+Facilitador de Insumos (Datos para pruebas, Ambientes ).
+Facilitador Tecnico para NodeJS, Consumo de Servicios(proxi) Revisión de Desarrollo realizado en .net
+Seguimiento a Proyecto. 
+
+Puesto de Jefe En Fabrica de Software (Nov. 2018 – Agosto 2018). 
+Gestión de Equipo de Desarrollo de Proyecto (CoDi)
+4 Personas en Xamarin
+2 Personas en BackEnd
+Gestion de Equipo de Desarrollo (Portal Banco).
+3 Recursos
+Gestion de Equipo de Desarrollo (Portal Salud Interactiva)
+2 Recursos 
+Supervición y Seguimiento  de Desarrollos (Daily Meeting) .
+Reporte de Actividades y Avances a Gerente de desarrollo. 
+Logros  por áreas y/ o aplicativos:
+Implementar Manejo de Git para proyecto de App CoDi en Xamarin, Core de CoDi en .Net 
+Implementar Introducción de Seguimiento Agil con dayli Meteing’s 
+Implementar Pruebas Funcionales a Core de CoDi.
+Adecucación de App de CoDi para Certificación co Banco de Mexico | Proyecto CoDi (App Inbursa - Banco de Mexico) (Nov. 2018 – Actual)
+Analisis de Requerimientos de Banco de Mexico Para CoDi, Adecuación de Negocio, Analisis de Vistas Posibles en App, Casos de Uso(A grandes razgos).
+Preparar Desarrollo App a Certificación con Banco de Mexico.
+Diseño de Core de App(Modulo de CoDi), Desarrollado en .net WCF , Bases de Datos SQL, Estableciendo Buenas Practicas en Desarrollo y generación de Pruebas Funcionales, Diagramación BPM de Rutas a implementar. 
+Generación de Historias de Usuario por Flujo (App , Core).
+Coordinación y seguimiento de Tareas(Jira, En Base a Historias de usuario), Estimación de Horas de Desarrollo con Equipo de Desarrollo. 4 Recursos para Xamarin , 2 para Core (.Net).
+Prueba de Desarrollo,(User Experiense, Funcionalidad).
+Seguimiento a Pruebas y Mejoras por Usuario
+
+Proyecto Banca Empresarial (Rol de Arquitecto)(Ago. 2018 – Sep 2019) .
+Coordinación de Tareas con 4 Equipos de distintas Fabricas (Chief Scrum Master)
+Facilitador de Insumos (Datos para pruebas, Ambientes ).
+Facilitador Tecnico para NodeJS, Consumo de Servicios(proxi) Revisión de Desarrollo realizado en .net
+Seguimiento a Proyecto. 
+
+Puesto de Jefe En Fabrica de Software (Nov. 2018 – Agosto 2018). 
+Gestión de Equipo de Desarrollo de Proyecto (CoDi)
+4 Personas en Xamarin
+2 Personas en BackEnd
+Gestion de Equipo de Desarrollo (Portal Banco).
+3 Recursos
+Gestion de Equipo de Desarrollo (Portal Salud Interactiva)
+2 Recursos 
+Supervición y Seguimiento  de Desarrollos (Daily Meeting) .
+Reporte de Actividades y Avances a Gerente de desarrollo. 
+Logros  por áreas y/ o aplicativos:
+Implementar Manejo de Git para proyecto de App CoDi en Xamarin, Core de CoDi en .Net 
+Implementar Introducción de Seguimiento Agil con dayli Meteing’s 
+Implementar Pruebas Funcionales a Core de CoDi.
+Adecucación de App de CoDi para Certificación co Banco de Mexico | Proyecto CoDi (App Inbursa - Banco de Mexico) (Nov. 2018 – Actual)
+Analisis de Requerimientos de Banco de Mexico Para CoDi, Adecuación de Negocio, Analisis de Vistas Posibles en App, Casos de Uso(A grandes razgos).
+Preparar Desarrollo App a Certificación con Banco de Mexico.
+Diseño de Core de App(Modulo de CoDi), Desarrollado en .net WCF , Bases de Datos SQL, Estableciendo Buenas Practicas en Desarrollo y generación de Pruebas Funcionales, Diagramación BPM de Rutas a implementar. 
+Generación de Historias de Usuario por Flujo (App , Core).
+Coordinación y seguimiento de Tareas(Jira, En Base a Historias de usuario), Estimación de Horas de Desarrollo con Equipo de Desarrollo. 4 Recursos para Xamarin , 2 para Core (.Net).
+Prueba de Desarrollo,(User Experiense, Funcionalidad).
+Seguimiento a Pruebas y Mejoras por Usuario
+
+Proyecto Banca Empresarial (Rol de Arquitecto)(Ago. 2018 – Sep 2019) .
+Coordinación de Tareas con 4 Equipos de distintas Fabricas (Chief Scrum Master)
+Facilitador de Insumos (Datos para pruebas, Ambientes ).
+Facilitador Tecnico para NodeJS, Consumo de Servicios(proxi) Revisión de Desarrollo realizado en .net
+Seguimiento a Proyecto. 
+
+Puesto de Jefe En Fabrica de Software (Nov. 2018 – Agosto 2018). 
+Gestión de Equipo de Desarrollo de Proyecto (CoDi)
+4 Personas en Xamarin
+2 Personas en BackEnd
+Gestion de Equipo de Desarrollo (Portal Banco).
+3 Recursos
+Gestion de Equipo de Desarrollo (Portal Salud Interactiva)
+2 Recursos 
+Supervición y Seguimiento  de Desarrollos (Daily Meeting) .
+Reporte de Actividades y Avances a Gerente de desarrollo. 
+Logros  por áreas y/ o aplicativos:
+Implementar Manejo de Git para proyecto de App CoDi en Xamarin, Core de CoDi en .Net 
+Implementar Introducción de Seguimiento Agil con dayli Meteing’s 
+Implementar Pruebas Funcionales a Core de CoDi.
+Adecucación de App de CoDi para Certificación co Banco de Mexico | Proyecto CoDi (App Inbursa - Banco de Mexico) (Nov. 2018 – Actual)
+Analisis de Requerimientos de Banco de Mexico Para CoDi, Adecuación de Negocio, Analisis de Vistas Posibles en App, Casos de Uso(A grandes razgos).
+Preparar Desarrollo App a Certificación con Banco de Mexico.
+Diseño de Core de App(Modulo de CoDi), Desarrollado en .net WCF , Bases de Datos SQL, Estableciendo Buenas Practicas en Desarrollo y generación de Pruebas Funcionales, Diagramación BPM de Rutas a implementar. 
+Generación de Historias de Usuario por Flujo (App , Core).
+Coordinación y seguimiento de Tareas(Jira, En Base a Historias de usuario), Estimación de Horas de Desarrollo con Equipo de Desarrollo. 4 Recursos para Xamarin , 2 para Core (.Net).
+Prueba de Desarrollo,(User Experiense, Funcionalidad).
+Seguimiento a Pruebas y Mejoras por Usuario
+
+Proyecto Banca Empresarial (Rol de Arquitecto)(Ago. 2018 – Sep 2019) .
+Coordinación de Tareas con 4 Equipos de distintas Fabricas (Chief Scrum Master)
+Facilitador de Insumos (Datos para pruebas, Ambientes ).
+Facilitador Tecnico para NodeJS, Consumo de Servicios(proxi) Revisión de Desarrollo realizado en .net
+Seguimiento a Proyecto. 
+
+Puesto de Jefe En Fabrica de Software (Nov. 2018 – Agosto 2018). 
+Gestión de Equipo de Desarrollo de Proyecto (CoDi)
+4 Personas en Xamarin
+2 Personas en BackEnd
+Gestion de Equipo de Desarrollo (Portal Banco).
+3 Recursos
+Gestion de Equipo de Desarrollo (Portal Salud Interactiva)
+2 Recursos 
+Supervición y Seguimiento  de Desarrollos (Daily Meeting) .
+Reporte de Actividades y Avances a Gerente de desarrollo. 
+Logros  por áreas y/ o aplicativos:
+Implementar Manejo de Git para proyecto de App CoDi en Xamarin, Core de CoDi en .Net 
+Implementar Introducción de Seguimiento Agil con dayli Meteing’s 
+Implementar Pruebas Funcionales a Core de CoDi.
+Adecucación de App de CoDi para Certificación co Banco de Mexico | Proyecto CoDi (App Inbursa - Banco de Mexico) (Nov. 2018 – Actual)
+Analisis de Requerimientos de Banco de Mexico Para CoDi, Adecuación de Negocio, Analisis de Vistas Posibles en App, Casos de Uso(A grandes razgos).
+Preparar Desarrollo App a Certificación con Banco de Mexico.
+Diseño de Core de App(Modulo de CoDi), Desarrollado en .net WCF , Bases de Datos SQL, Estableciendo Buenas Practicas en Desarrollo y generación de Pruebas Funcionales, Diagramación BPM de Rutas a implementar. 
+Generación de Historias de Usuario por Flujo (App , Core).
+Coordinación y seguimiento de Tareas(Jira, En Base a Historias de usuario), Estimación de Horas de Desarrollo con Equipo de Desarrollo. 4 Recursos para Xamarin , 2 para Core (.Net).
+Prueba de Desarrollo,(User Experiense, Funcionalidad).
+Seguimiento a Pruebas y Mejoras por Usuario
+
+Proyecto Banca Empresarial (Rol de Arquitecto)(Ago. 2018 – Sep 2019) .
+Coordinación de Tareas con 4 Equipos de distintas Fabricas (Chief Scrum Master)
+Facilitador de Insumos (Datos para pruebas, Ambientes ).
+Facilitador Tecnico para NodeJS, Consumo de Servicios(proxi) Revisión de Desarrollo realizado en .net
+Seguimiento a Proyecto. 
+
+Puesto de Jefe En Fabrica de Software (Nov. 2018 – Agosto 2018). 
+Gestión de Equipo de Desarrollo de Proyecto (CoDi)
+4 Personas en Xamarin
+2 Personas en BackEnd
+Gestion de Equipo de Desarrollo (Portal Banco).
+3 Recursos
+Gestion de Equipo de Desarrollo (Portal Salud Interactiva)
+2 Recursos 
+Supervición y Seguimiento  de Desarrollos (Daily Meeting) .
+Reporte de Actividades y Avances a Gerente de desarrollo. 
+Logros  por áreas y/ o aplicativos:
+Implementar Manejo de Git para proyecto de App CoDi en Xamarin, Core de CoDi en .Net 
+Implementar Introducción de Seguimiento Agil con dayli Meteing’s 
+Implementar Pruebas Funcionales a Core de CoDi.
+Adecucación de App de CoDi para Certificación co Banco de Mexico
+Herramientas: | Visual Studio 2017, Visual Code , Bitbucket Git, SQL server 2018 , Oracle Web Center  (Sites, Content), Node JS, AngularJS. | Visual Studio 2017, Visual Code , Bitbucket Git, SQL server 2018 , Oracle Web Center  (Sites, Content), Node JS, AngularJS. | Visual Studio 2017, Visual Code , Bitbucket Git, SQL server 2018 , Oracle Web Center  (Sites, Content), Node JS, AngularJS. | Visual Studio 2017, Visual Code , Bitbucket Git, SQL server 2018 , Oracle Web Center  (Sites, Content), Node JS, AngularJS. | Visual Studio 2017, Visual Code , Bitbucket Git, SQL server 2018 , Oracle Web Center  (Sites, Content), Node JS, AngularJS.
+Nombre de la empresa:
+Gesfor | Nombre de la empresa:
+Gesfor | Lugar:
+Alsea , Barranca de Muerto | Puesto:
+ Desarrollador .Net  Sr | Desde: 
+Noviembre 2017 | A: 
+Noviembre 2018
+Indica las áreas y/o aplicativos en los que has participado, describe detalladamente las actividades realizadas:
+Área Desarrollo.
+Desarrollo C# .Net Core2.0  
+Desarrollo en capas 
+Configuración de Clientes Identity Server.
+Delpoy en Docker For Windows & Linux.
+Desarrollo Rest Services (WebApi).
+Desarrollo de Pruebas Funcionales.
+Cifrado de Mensajes.
+Manejo de Ramas en GIT - Team Services -Pull Request 
+Área Administración
+Análisis de Requerimientos.
+Generación de Diagramas de Procesos.
+
+Logros  por áreas y/ o aplicativos:
+Certificación de Web Api con First Data , Desarrollado con Net Core , Integrando con Devops (Team Services) | Indica las áreas y/o aplicativos en los que has participado, describe detalladamente las actividades realizadas:
+Área Desarrollo.
+Desarrollo C# .Net Core2.0  
+Desarrollo en capas 
+Configuración de Clientes Identity Server.
+Delpoy en Docker For Windows & Linux.
+Desarrollo Rest Services (WebApi).
+Desarrollo de Pruebas Funcionales.
+Cifrado de Mensajes.
+Manejo de Ramas en GIT - Team Services -Pull Request 
+Área Administración
+Análisis de Requerimientos.
+Generación de Diagramas de Procesos.
+
+Logros  por áreas y/ o aplicativos:
+Certificación de Web Api con First Data , Desarrollado con Net Core , Integrando con Devops (Team Services) | Indica las áreas y/o aplicativos en los que has participado, describe detalladamente las actividades realizadas:
+Área Desarrollo.
+Desarrollo C# .Net Core2.0  
+Desarrollo en capas 
+Configuración de Clientes Identity Server.
+Delpoy en Docker For Windows & Linux.
+Desarrollo Rest Services (WebApi).
+Desarrollo de Pruebas Funcionales.
+Cifrado de Mensajes.
+Manejo de Ramas en GIT - Team Services -Pull Request 
+Área Administración
+Análisis de Requerimientos.
+Generación de Diagramas de Procesos.
+
+Logros  por áreas y/ o aplicativos:
+Certificación de Web Api con First Data , Desarrollado con Net Core , Integrando con Devops (Team Services) | Indica las áreas y/o aplicativos en los que has participado, describe detalladamente las actividades realizadas:
+Área Desarrollo.
+Desarrollo C# .Net Core2.0  
+Desarrollo en capas 
+Configuración de Clientes Identity Server.
+Delpoy en Docker For Windows & Linux.
+Desarrollo Rest Services (WebApi).
+Desarrollo de Pruebas Funcionales.
+Cifrado de Mensajes.
+Manejo de Ramas en GIT - Team Services -Pull Request 
+Área Administración
+Análisis de Requerimientos.
+Generación de Diagramas de Procesos.
+
+Logros  por áreas y/ o aplicativos:
+Certificación de Web Api con First Data , Desarrollado con Net Core , Integrando con Devops (Team Services) | Indica las áreas y/o aplicativos en los que has participado, describe detalladamente las actividades realizadas:
+Área Desarrollo.
+Desarrollo C# .Net Core2.0  
+Desarrollo en capas 
+Configuración de Clientes Identity Server.
+Delpoy en Docker For Windows & Linux.
+Desarrollo Rest Services (WebApi).
+Desarrollo de Pruebas Funcionales.
+Cifrado de Mensajes.
+Manejo de Ramas en GIT - Team Services -Pull Request 
+Área Administración
+Análisis de Requerimientos.
+Generación de Diagramas de Procesos.
+
+Logros  por áreas y/ o aplicativos:
+Certificación de Web Api con First Data , Desarrollado con Net Core , Integrando con Devops (Team Services) | Indica las áreas y/o aplicativos en los que has participado, describe detalladamente las actividades realizadas:
+Área Desarrollo.
+Desarrollo C# .Net Core2.0  
+Desarrollo en capas 
+Configuración de Clientes Identity Server.
+Delpoy en Docker For Windows & Linux.
+Desarrollo Rest Services (WebApi).
+Desarrollo de Pruebas Funcionales.
+Cifrado de Mensajes.
+Manejo de Ramas en GIT - Team Services -Pull Request 
+Área Administración
+Análisis de Requerimientos.
+Generación de Diagramas de Procesos.
+
+Logros  por áreas y/ o aplicativos:
+Certificación de Web Api con First Data , Desarrollado con Net Core , Integrando con Devops (Team Services)
+Herramientas: | Visual Studio 2017, Net Core , SQL Server 2016, Docker , Docker Swarm , NGINX, Team Services , Scrum | Visual Studio 2017, Net Core , SQL Server 2016, Docker , Docker Swarm , NGINX, Team Services , Scrum | Visual Studio 2017, Net Core , SQL Server 2016, Docker , Docker Swarm , NGINX, Team Services , Scrum | Visual Studio 2017, Net Core , SQL Server 2016, Docker , Docker Swarm , NGINX, Team Services , Scrum | Visual Studio 2017, Net Core , SQL Server 2016, Docker , Docker Swarm , NGINX, Team Services , Scrum
+Nombre de la empresa:
+Excel Consultores | Nombre de la empresa:
+Excel Consultores | Lugar: 
+Prado Norte 256 , Lomas de Chapultepec | Puesto:
+Analista de Sistemas | Desde: 
+Junio  2016 | A: 
+Noviembre  2017
+Funciones:
+Área Desarrollo. 
+Desarrollo C# .Net Framework 4.6.1 
+Desarrollo MVC 5, Entity Framework , Razov  
+Desarrollo HTML 5. Javascript , JQuery, ajax. 
+ASPX Framework 2 y 4. 
+SQL Server (2014) -  Creación de Bases, Tablas, Sored Procedure , Triggers, Funciones, jobs. 
+Desarrollo Windows Services 
+Desarrollo Rest Services (WebApi). 
+Área Administración 
+Análisis de Requerimientos. 
+Generación de Historias de Usuario (Lado Cliente a Proveedor). 
+Generación de Tareas Sobre Historias de Usuario. 
+Estimación de Tiempos. 
+Coordinación de Tareas a Equipo de Desarrollo. 
+Control de Código fuente de Desarrollo Para Versiones Pruebas y Producción. 
+Diagramación de Procesos para Implementación y Desarrollo. 
+Administración de Bases de Datos (Permisos, Respaldos, Versiones) 
+ Logros:
+Implementación de Ambiente de Pruebas y Desarrollo
+Implementación de Control de Codigo Con Bonobo | Funciones:
+Área Desarrollo. 
+Desarrollo C# .Net Framework 4.6.1 
+Desarrollo MVC 5, Entity Framework , Razov  
+Desarrollo HTML 5. Javascript , JQuery, ajax. 
+ASPX Framework 2 y 4. 
+SQL Server (2014) -  Creación de Bases, Tablas, Sored Procedure , Triggers, Funciones, jobs. 
+Desarrollo Windows Services 
+Desarrollo Rest Services (WebApi). 
+Área Administración 
+Análisis de Requerimientos. 
+Generación de Historias de Usuario (Lado Cliente a Proveedor). 
+Generación de Tareas Sobre Historias de Usuario. 
+Estimación de Tiempos. 
+Coordinación de Tareas a Equipo de Desarrollo. 
+Control de Código fuente de Desarrollo Para Versiones Pruebas y Producción. 
+Diagramación de Procesos para Implementación y Desarrollo. 
+Administración de Bases de Datos (Permisos, Respaldos, Versiones) 
+ Logros:
+Implementación de Ambiente de Pruebas y Desarrollo
+Implementación de Control de Codigo Con Bonobo | Funciones:
+Área Desarrollo. 
+Desarrollo C# .Net Framework 4.6.1 
+Desarrollo MVC 5, Entity Framework , Razov  
+Desarrollo HTML 5. Javascript , JQuery, ajax. 
+ASPX Framework 2 y 4. 
+SQL Server (2014) -  Creación de Bases, Tablas, Sored Procedure , Triggers, Funciones, jobs. 
+Desarrollo Windows Services 
+Desarrollo Rest Services (WebApi). 
+Área Administración 
+Análisis de Requerimientos. 
+Generación de Historias de Usuario (Lado Cliente a Proveedor). 
+Generación de Tareas Sobre Historias de Usuario. 
+Estimación de Tiempos. 
+Coordinación de Tareas a Equipo de Desarrollo. 
+Control de Código fuente de Desarrollo Para Versiones Pruebas y Producción. 
+Diagramación de Procesos para Implementación y Desarrollo. 
+Administración de Bases de Datos (Permisos, Respaldos, Versiones) 
+ Logros:
+Implementación de Ambiente de Pruebas y Desarrollo
+Implementación de Control de Codigo Con Bonobo | Funciones:
+Área Desarrollo. 
+Desarrollo C# .Net Framework 4.6.1 
+Desarrollo MVC 5, Entity Framework , Razov  
+Desarrollo HTML 5. Javascript , JQuery, ajax. 
+ASPX Framework 2 y 4. 
+SQL Server (2014) -  Creación de Bases, Tablas, Sored Procedure , Triggers, Funciones, jobs. 
+Desarrollo Windows Services 
+Desarrollo Rest Services (WebApi). 
+Área Administración 
+Análisis de Requerimientos. 
+Generación de Historias de Usuario (Lado Cliente a Proveedor). 
+Generación de Tareas Sobre Historias de Usuario. 
+Estimación de Tiempos. 
+Coordinación de Tareas a Equipo de Desarrollo. 
+Control de Código fuente de Desarrollo Para Versiones Pruebas y Producción. 
+Diagramación de Procesos para Implementación y Desarrollo. 
+Administración de Bases de Datos (Permisos, Respaldos, Versiones) 
+ Logros:
+Implementación de Ambiente de Pruebas y Desarrollo
+Implementación de Control de Codigo Con Bonobo | Funciones:
+Área Desarrollo. 
+Desarrollo C# .Net Framework 4.6.1 
+Desarrollo MVC 5, Entity Framework , Razov  
+Desarrollo HTML 5. Javascript , JQuery, ajax. 
+ASPX Framework 2 y 4. 
+SQL Server (2014) -  Creación de Bases, Tablas, Sored Procedure , Triggers, Funciones, jobs. 
+Desarrollo Windows Services 
+Desarrollo Rest Services (WebApi). 
+Área Administración 
+Análisis de Requerimientos. 
+Generación de Historias de Usuario (Lado Cliente a Proveedor). 
+Generación de Tareas Sobre Historias de Usuario. 
+Estimación de Tiempos. 
+Coordinación de Tareas a Equipo de Desarrollo. 
+Control de Código fuente de Desarrollo Para Versiones Pruebas y Producción. 
+Diagramación de Procesos para Implementación y Desarrollo. 
+Administración de Bases de Datos (Permisos, Respaldos, Versiones) 
+ Logros:
+Implementación de Ambiente de Pruebas y Desarrollo
+Implementación de Control de Codigo Con Bonobo | Funciones:
+Área Desarrollo. 
+Desarrollo C# .Net Framework 4.6.1 
+Desarrollo MVC 5, Entity Framework , Razov  
+Desarrollo HTML 5. Javascript , JQuery, ajax. 
+ASPX Framework 2 y 4. 
+SQL Server (2014) -  Creación de Bases, Tablas, Sored Procedure , Triggers, Funciones, jobs. 
+Desarrollo Windows Services 
+Desarrollo Rest Services (WebApi). 
+Área Administración 
+Análisis de Requerimientos. 
+Generación de Historias de Usuario (Lado Cliente a Proveedor). 
+Generación de Tareas Sobre Historias de Usuario. 
+Estimación de Tiempos. 
+Coordinación de Tareas a Equipo de Desarrollo. 
+Control de Código fuente de Desarrollo Para Versiones Pruebas y Producción. 
+Diagramación de Procesos para Implementación y Desarrollo. 
+Administración de Bases de Datos (Permisos, Respaldos, Versiones) 
+ Logros:
+Implementación de Ambiente de Pruebas y Desarrollo
+Implementación de Control de Codigo Con Bonobo
+Herramientas: | Visual Studio 2015, SQL Server 2014, Bambo Git , Project , | Visual Studio 2015, SQL Server 2014, Bambo Git , Project , | Visual Studio 2015, SQL Server 2014, Bambo Git , Project , | Visual Studio 2015, SQL Server 2014, Bambo Git , Project , | Visual Studio 2015, SQL Server 2014, Bambo Git , Project ,
+Nombre de la empresa:
+Grupo Financiero Inbursa | Nombre de la empresa:
+Grupo Financiero Inbursa | Lugar: 
+Insurgentes Sur 3500 (Cuicuilco) | Puesto:
+Analista de Sistemas | Desde: 
+Abril  2014 | A: 
+Junio   2016
+Funciones:
+Análisis y desarrollo En aplicaciones. 
+Desarrollo de Módulos  acorde a Requisitos de Usuario 
+Análisis de funcionamiento de Herramienta web para la modificación de la misma 
+Análisis y resolución  de Incidencias de Sistema. 
+Programación en VB.Net , C# , Javasript, ASPX. 
+Windows Services ,Rest Services, Web Services. 
+SQL Server (2008,2012,2014) -  Procedimientos Almacenados , funciones 
+
+ Logros:
+Entrar al desarrollo empresarial.
+Generar Valor para Desarrollo en Apps Moviles. | Funciones:
+Análisis y desarrollo En aplicaciones. 
+Desarrollo de Módulos  acorde a Requisitos de Usuario 
+Análisis de funcionamiento de Herramienta web para la modificación de la misma 
+Análisis y resolución  de Incidencias de Sistema. 
+Programación en VB.Net , C# , Javasript, ASPX. 
+Windows Services ,Rest Services, Web Services. 
+SQL Server (2008,2012,2014) -  Procedimientos Almacenados , funciones 
+
+ Logros:
+Entrar al desarrollo empresarial.
+Generar Valor para Desarrollo en Apps Moviles. | Funciones:
+Análisis y desarrollo En aplicaciones. 
+Desarrollo de Módulos  acorde a Requisitos de Usuario 
+Análisis de funcionamiento de Herramienta web para la modificación de la misma 
+Análisis y resolución  de Incidencias de Sistema. 
+Programación en VB.Net , C# , Javasript, ASPX. 
+Windows Services ,Rest Services, Web Services. 
+SQL Server (2008,2012,2014) -  Procedimientos Almacenados , funciones 
+
+ Logros:
+Entrar al desarrollo empresarial.
+Generar Valor para Desarrollo en Apps Moviles. | Funciones:
+Análisis y desarrollo En aplicaciones. 
+Desarrollo de Módulos  acorde a Requisitos de Usuario 
+Análisis de funcionamiento de Herramienta web para la modificación de la misma 
+Análisis y resolución  de Incidencias de Sistema. 
+Programación en VB.Net , C# , Javasript, ASPX. 
+Windows Services ,Rest Services, Web Services. 
+SQL Server (2008,2012,2014) -  Procedimientos Almacenados , funciones 
+
+ Logros:
+Entrar al desarrollo empresarial.
+Generar Valor para Desarrollo en Apps Moviles. | Funciones:
+Análisis y desarrollo En aplicaciones. 
+Desarrollo de Módulos  acorde a Requisitos de Usuario 
+Análisis de funcionamiento de Herramienta web para la modificación de la misma 
+Análisis y resolución  de Incidencias de Sistema. 
+Programación en VB.Net , C# , Javasript, ASPX. 
+Windows Services ,Rest Services, Web Services. 
+SQL Server (2008,2012,2014) -  Procedimientos Almacenados , funciones 
+
+ Logros:
+Entrar al desarrollo empresarial.
+Generar Valor para Desarrollo en Apps Moviles. | Funciones:
+Análisis y desarrollo En aplicaciones. 
+Desarrollo de Módulos  acorde a Requisitos de Usuario 
+Análisis de funcionamiento de Herramienta web para la modificación de la misma 
+Análisis y resolución  de Incidencias de Sistema. 
+Programación en VB.Net , C# , Javasript, ASPX. 
+Windows Services ,Rest Services, Web Services. 
+SQL Server (2008,2012,2014) -  Procedimientos Almacenados , funciones 
+
+ Logros:
+Entrar al desarrollo empresarial.
+Generar Valor para Desarrollo en Apps Moviles.
+Herramientas: | Visual Studio 2010 , SQL server 2008 , | Visual Studio 2010 , SQL server 2008 , | Visual Studio 2010 , SQL server 2008 , | Visual Studio 2010 , SQL server 2008 , | Visual Studio 2010 , SQL server 2008 ,
+Nombre de la empresa:
+ASD en Consultoría y Administración | Nombre de la empresa:
+ASD en Consultoría y Administración | Lugar: 
+Nueces 277,
+Hogar y Seguridad | Puesto:
+Desarrollador Net | Desde: 
+Septiembre  2012 | A: 
+Abril 2014
+Funciones:
+Desarrollo de sistema para Facturación electrónica 
+Desarrollo de Aplicación de sistema de Facturación En Cuanto a distintos requisitos (SAT) 
+Atención a clientes Sobre Temas de Documentos fiscales Digitales Por Internet 
+Corrección de Problemas en cuanto al sistema de facturación 
+Entrevista y reconocimiento de las necesidades de los contribuyentes y clientes  
+Identificación de necesidades en cuanto a Comprobantes fiscales  
+Soporte técnico a equipos de computo 
+ Logros:
+Desarrollo de Sistema de Facturación desde cero. | Funciones:
+Desarrollo de sistema para Facturación electrónica 
+Desarrollo de Aplicación de sistema de Facturación En Cuanto a distintos requisitos (SAT) 
+Atención a clientes Sobre Temas de Documentos fiscales Digitales Por Internet 
+Corrección de Problemas en cuanto al sistema de facturación 
+Entrevista y reconocimiento de las necesidades de los contribuyentes y clientes  
+Identificación de necesidades en cuanto a Comprobantes fiscales  
+Soporte técnico a equipos de computo 
+ Logros:
+Desarrollo de Sistema de Facturación desde cero. | Funciones:
+Desarrollo de sistema para Facturación electrónica 
+Desarrollo de Aplicación de sistema de Facturación En Cuanto a distintos requisitos (SAT) 
+Atención a clientes Sobre Temas de Documentos fiscales Digitales Por Internet 
+Corrección de Problemas en cuanto al sistema de facturación 
+Entrevista y reconocimiento de las necesidades de los contribuyentes y clientes  
+Identificación de necesidades en cuanto a Comprobantes fiscales  
+Soporte técnico a equipos de computo 
+ Logros:
+Desarrollo de Sistema de Facturación desde cero. | Funciones:
+Desarrollo de sistema para Facturación electrónica 
+Desarrollo de Aplicación de sistema de Facturación En Cuanto a distintos requisitos (SAT) 
+Atención a clientes Sobre Temas de Documentos fiscales Digitales Por Internet 
+Corrección de Problemas en cuanto al sistema de facturación 
+Entrevista y reconocimiento de las necesidades de los contribuyentes y clientes  
+Identificación de necesidades en cuanto a Comprobantes fiscales  
+Soporte técnico a equipos de computo 
+ Logros:
+Desarrollo de Sistema de Facturación desde cero. | Funciones:
+Desarrollo de sistema para Facturación electrónica 
+Desarrollo de Aplicación de sistema de Facturación En Cuanto a distintos requisitos (SAT) 
+Atención a clientes Sobre Temas de Documentos fiscales Digitales Por Internet 
+Corrección de Problemas en cuanto al sistema de facturación 
+Entrevista y reconocimiento de las necesidades de los contribuyentes y clientes  
+Identificación de necesidades en cuanto a Comprobantes fiscales  
+Soporte técnico a equipos de computo 
+ Logros:
+Desarrollo de Sistema de Facturación desde cero. | Funciones:
+Desarrollo de sistema para Facturación electrónica 
+Desarrollo de Aplicación de sistema de Facturación En Cuanto a distintos requisitos (SAT) 
+Atención a clientes Sobre Temas de Documentos fiscales Digitales Por Internet 
+Corrección de Problemas en cuanto al sistema de facturación 
+Entrevista y reconocimiento de las necesidades de los contribuyentes y clientes  
+Identificación de necesidades en cuanto a Comprobantes fiscales  
+Soporte técnico a equipos de computo 
+ Logros:
+Desarrollo de Sistema de Facturación desde cero.
+Herramientas: | Visual Studio 2010 , CE SQL server, | Visual Studio 2010 , CE SQL server, | Visual Studio 2010 , CE SQL server, | Visual Studio 2010 , CE SQL server, | Visual Studio 2010 , CE SQL server,
+ESTUDIOS:
+Escuela:   
+Universidad Multicultural CUDEC | Lugar:
+Carrera: 
+Lic. En Ingeniería en Sistemas Computacionales | Fecha de duración: 
+2010 – 2014
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Certificación Internacional Agile Management | UVM | Agosto 2019 (En Proceso)
+Especialidad  En PROYECTOS INFORMATICOS Y TECNOLOGIA WEB | UDEC | 2014
+IDIOMAS:
+Español: | Nativo
+Inglés: | 40%
+.
+Perfil principal: | Lider Tecnico .Net
+Perfil secundario: | Desarrollador de software .Net sr
+Sistemas operativos: | Windows, Linux , Mac OS
+Lenguajes de programación: | C#,.Net , Javascript , SQL, Jquery , NodeJs, Angular
+Bases de datos: | SQL , Qracle
+Esto es una prueba para utilizar el teclado portátil para poder jacer modificaciones y o codificaciones para poder utilizar las características  del teléfono y no de otro lado

@@ -1,0 +1,47 @@
+Gabriela Ocadiz Barron
+PERFIL
+13 meses en Proyecto de Soporte para GE.  Actividades: Soporte de sistema SOA (Service Oriented Architecture) bajor los procesos estándar definidos por el cliente, mantenimiento de workflows y datos en Proficy Workflow Client, respaldo de bases de datos.
+5 meses en Proyecto de Desarrollo para GE Nuclear con Base de Datos Oracle 19c, Oracle Forms and Reports 12c y Oracle PL/SQL.
+18 años como parte del equipo de soporte para GE. Programación de mejoras de código y arreglo de bugs para aplicaciones en Oracle 6i, 8i, 9i, 10g, 12c and 19c, Oracle PL/SQL, Oracle Forms and Reports. Las actividades incluyen documentación, monitoreo de aplicaciones e interfaces, análisis de impacto, manejo de SLAs y Service Now.
+7 años soportando aplicaciones basadas en Tableau e Informatica. Modificación y publicación de reportes de Tableau, monitoreo y ejecución de workflows de Informatica. Manejo de requerimientos en Service Now. Soporte a aplicaciones en JIRA y Confluence.
+EXPERIENCIA PROFESIONAL
+Softtek	CDMX  Software Engineer	From: Enero, 2025 To: Junio, 2025
+Descripción: “SOA Support Project” para GE.
+Proyecto de Soporte para GE.  Actividades: Soporte de sistema SOA (Service Oriented Architecture) bajor los procesos estándar definidos por el cliente, mantenimiento de workflows y datos en Proficy Workflow Client, respaldo de bases de datos
+Herramientas:  SQL Server Management Studio 20.2, Workflow Proficy Client, Oracle SQL Developer, DBeaver, Service Now.
+Softtek	CDMX  Software Engineer	From: Junio, 2024 To: Diciembre, 2024
+Descripción: “Payno to SSO Project” – Proyecto de Desarrollo para GE Nuclear.
+Modificación de formas, reports, componentes SQL, desarrollo de proceso para manejo de nuevos IDs de usuarios. Creación y ejecución de escenarios de prueba.
+Herramientas:  Oracle Database 19c, Oracle Forms and Reports 12c, Oracle PL/SQL, Pro C, GitHub.
+Softtek	Monterrey/CDMX  Software Engineer	From: Diciembre, 2005 To: Junio, 2024
+Descripción: AMS – Soporte de aplicaciones de GE Energy y Nuclear.
+Atención a incidents y requerimientos de acuerdo a los SLAs.  Resolución de Break/Fix basado en la metodología del cliente. Creación y mantenimiento de documentación. Guía a usuarios sobre la funcionalidad de la aplicación. Desarrollo de enhancements menores.
+Herramientas: Oracle 8i, 9i ,10g, 12c, 19c DB, PL/SQL Developer, Oracle Forms and Reports 6i, 12c, 19c, Service Now, CVS, Informatica, Tableau, Atlassian Tools: JIRA, Confluence.
+CAASIM					Pachuca, Hidalgo  Application Developer	               From: Feb, 2001 To: Dic, 2005
+Descripción: Automatización del proceso de Facturación y Contratación de nuevos usuarios en el organismo operador de agua y alcantarillado.
+Herramientas/Habiliades: Oracle 8i, Oracle Forms/Reports 8i.
+EDUCATION
+Universidad Autónoma del Estado de Hidalgo		Pachuca, Hidalgo			             From: Ago, 1996 To: Dic, 2000
+Instituto de Ciencias Básicas e Ingeniería.
+Licenciatura en Computación (Titulada)
+PROFESSIONAL DEVELOPMENT
+Certification: Scrum Master Certified  (SSCRUMStudy)						Jun, 2022
+Certification: Scrum Fundamentals Certified  (SSCRUMStudy)                                                          		May, 2022
+Certification: Microsoft Certified: Azure Fundamentals (Microsoft) 					Dic, 2020
+Oracle 8i Courses: Oracle Developer/Designer/PLSQL, Forms, Reports, DBA, etc.   			2001.
+LANGUAGES
+English 	 		Upper Intermediate 80%
+TECHNICAL/MANAGERIAL SKILLS
+Tableau	 	Senior (4-6 YoE)
+PLSQL	 	Senior (4-6 YoE)
+Oracle SQL Developer	 	Senior (4-6 YoE)
+Oracle Reports	 	Senior (4-6 YoE)
+Oracle Forms/Reports	 	Senior (4-6 YoE)
+Oracle Forms	 	Senior (4-6 YoE)
+Oracle Database	 	Senior (4-6 YoE)
+Oracle	 	Senior (4-6 YoE)
+Microsoft SQL Server	 	Proficient (2-4 YoE)
+JIRA	 	Proficient (2-4 YoE)
+Informatica Power Center	 	Proficient (2-4 YoE)
+Informatica	 	Proficient (2-4 YoE)
+Confluence	 	Proficient (2-4 YoE)

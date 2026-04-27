@@ -1,0 +1,130 @@
+Gema Liliana Ferrera Euan
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+Participo activamente en equipos ágiles (Scrum y Kanban), asisto en refinamientos, planning y revisiones, y contribuyo a mejorar la calidad del código mediante análisis estático y pruebas; aplico buenas prácticas de desarrollo, mantengo comunicación efectiva y cumplo con entregas oportunas para apoyar la continuidad operativa.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 2 años de experiencia en programación en tecnologías de la Arquitectura de Referencia (AR) y tecnologías de código abierto. He desarrollado y puesto en marcha componentes y funcionalidades para aplicaciones Java (Lenguaje de programación para desarrollo de aplicaciones) y soluciones web, participando en la generación de código, ejecución y documentación de pruebas unitarias, y en tareas de integración y despliegue mediante prácticas de CI/CD y control de versiones. 
+
+Colaboro activamente en equipos ágiles (Scrum y Kanban), participando en refinamientos, planning y revisiones; contribuyo a la mejora de la calidad del código mediante análisis estático y pruebas, aplicando buenas prácticas de desarrollo, comunicación efectiva y entrega oportuna para asegurar la continuidad de los servicios.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Software Engineer Beginner | Desde:
+18 de enero del 2024 | Hasta: 
+19 de septiembre del 2024
+Actividades Principales | • Creo paquetes de software, los implemento y ajusto para que funcionen correctamente mediante el uso de lenguajes de programación. Tengo habilidades en conceptos de programación y trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, garantizando su correcta operación en los entornos establecidos.
+• Aplico los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo cuando tengo dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso DevOps, CI/CD for Beginners para comprender e implementar conceptos básicos de integración y entrega continua en flujos de desarrollo de software.
+• He puesto en práctica el curso Crear una Página Web Moderna 2024 con HTML y CSS para diseñar e implementar sitios web modernos utilizando HTML5 y CSS3.
+• He aplicado el curso Introducción a Docker para principiantes para contenerizar aplicaciones y comprender el uso básico de contenedores Docker.
+• He puesto en práctica el curso Introducción a Jira para gestión de proyectos con Kanban para organizar y gestionar proyectos utilizando tableros Kanban en Jira.
+• He aplicado el curso Master IntelliJ IDEA para aumentar la productividad en el desarrollo Java mediante el uso avanzado del IDE IntelliJ IDEA.
+• He puesto en práctica el curso Object Oriented Programming and Design Crash Course para aplicar principios de programación orientada a objetos y diseño de software.
+• He aplicado el curso Curso completo de SQL para crear y ejecutar consultas SQL orientadas a la gestión y análisis de bases de datos relacionales.
+• He puesto en práctica el curso The Complete Guide to HTML para estructurar y desarrollar interfaces web utilizando buenas prácticas de HTML.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Aplico Scrum como marco de trabajo ágil.
+• Entiendo las funcionalidades que se codificarían.
+• Confirmo las aplicaciones impactadas, conectadas y de soporte durante el Refinamiento con base en la solución técnica.
+• Colaboro en el diseño de la solución junto con roles como el Tech Lead y Testers.
+• Genero código fuente de las historias de usuario seleccionadas en el Sprint y gestiono su versionado en los repositorios correspondientes.
+• Ejecuto y documento pruebas unitarias o equivalentes para cada componente de desarrollo.
+• Soluciono los defectos encontrados en pruebas unitarias o funcionales.
+• Participo en sesiones del sprint (daily meetings, refinamiento, planning o estimación de historias de usuario, sprint review, etc).
+• Realizo cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training.
+• Genero diagramas Lenguaje Unificado de Modelado (UML) (clases, secuencia, casos de uso).
+• Genero proyectos con programación orientada a objetos.
+• Implemento técnicas de ingeniería de software aplicadas a la programación (TISAP) en los proyectos, para mejorar la calidad del código.
+• Genero proyectos con Data Access Object (DAO) y Spring Boot/Spring Framework y JPA.
+• Desarrollo 18 proyectos guiados por Udemy, utilizando HTML, CSS y JavaScript.
+• Conozco los versionadores Citi y la herramienta ServiceNow (ITSM para incidencias, cambios y problemas).
+• Apoyo en la programación y mantenimiento de plataformas digitales para la geovisualización y analítica visual de datos generados.
+• Desarrollo formularios y diseño de la plataforma web en frontend.
+• Participo en reuniones internas para seguimiento.
+• Ejecuto pruebas manuales para distintos módulos.
+• Reporto incidencias de los módulos probados.
+• Elaboro manuales de usuario y documentación de casos de prueba.
+Empresa
+Softtek | Puesto
+Software Engineer Trainee | Desde:
+27 de noviembre del 2023 | Hasta: 
+17 de enero del 2024
+Actividades Principales | • Genero diagramas Lenguaje Unificado de Modelado (UML) (clases, secuencia, casos de uso).
+• Genero proyectos con programación orientada a objetos.
+• Implemento técnicas de ingeniería de software aplicadas a la programación (TISAP) en los proyectos, para mejorar la calidad del código.
+• Genero proyectos con Data Access Object (DAO) y Spring Boot/Spring Framework y JPA.
+• Desarrollo 18 proyectos guiados por Udemy, utilizando HTML, CSS y JavaScript.
+• Conozco los versionadores Citi y la herramienta ServiceNow (ITSM para incidencias, cambios y problemas).
+Empresa
+CentroGeo Subsede Yucatán | Puesto
+Programadora | Desde:
+1 marzo del 2020 | Hasta: 
+30 octubre del 2022
+Actividades Principales | • Apoyo en la programación y mantenimiento de plataformas digitales para la geovisualización y analítica visual de datos generados.
+• Desarrollo formularios y diseño de la plataforma web en frontend.
+• Participo en reuniones internas para seguimiento.
+• Ejecuto pruebas manuales para distintos módulos.
+• Reporto incidencias de los módulos probados.
+• Elaboro manuales de usuario y documentación de casos de prueba.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- DevOps, CI/CD (Continuous Integration/Delivery) for Beginners
+- Crear una Página Web Moderna 2024 Desde Cero con HTML y CSS
+- Introducción a Docker para principiantes
+- Introducción a Jira para gestión de proyectos con Kanban
+- Master IntelliJ IDEA | Become a Productive Java Developer
+- Object Oriented Programming and Design Crash Course
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- The Complete Guide to HTML
+- Java (Lenguaje de programación para desarrollo de aplicaciones)
+- Spring Boot
+- JavaScript
+- HTML
+- CSS
+- Oracle SQL Developer
+- MySQL Workbench
+- Git
+- Bitbucket
+- Postman
+- Eclipse
+- MS Visual Studio Code
+- WebLogic
+- Ansible
+- Sonarqube
+- LightSpeed Enterprise (Tekton/Harness)
+- Maven
+- Tomcat
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 septiembre de 2019 hasta 09 abril de 2026
+Durante este período me desempeñé como L3 Technical Support y Documentadora, asumiendo responsabilidades relacionadas con automatización y operación de despliegues, gestión de incidentes, documentación y pruebas. Realicé seguimiento de procesos, elaboración de diagramas y reportes, ejecución de pruebas manuales y reporte de incidencias, además de colaborar en reuniones de coordinación. Trabajé con herramientas de administración y soporte aplicando procedimientos organizacionales y manteniendo comunicación con equipos técnicos para asegurar la continuidad operativa.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciatura en Ciencias de la Computación - Marzo 2024 | Facultad de Matemáticas UADY, Mérida, Yucatán, México | Cédula Profesional
+14584936
+29/11/2024
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- DevOps, CI/CD (Continuous Integration/Delivery) for Beginners
+- Crear una Página Web Moderna 2024 Desde Cero con HTML y CSS
+- Introducción a Docker para principiantes
+- Introducción a Jira para gestión de proyectos con Kanban
+- Master IntelliJ IDEA | Become a Productive Java Developer
+- Object Oriented Programming and Design Crash Course
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- The Complete Guide to HTML
+______________________________________
+Gema Liliana Ferrera Euan
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

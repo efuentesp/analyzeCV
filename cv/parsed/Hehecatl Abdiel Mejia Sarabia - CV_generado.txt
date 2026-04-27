@@ -1,0 +1,132 @@
+Hehecatl Abdiel Mejia Sarabia
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+Mi experiencia incluye trabajo con herramientas de desarrollo, documentación y seguimiento, así como participación en esquemas colaborativos de capacitación y construcción técnica. Me adapto a lineamientos definidos, doy seguimiento a tareas asignadas y contribuyo al funcionamiento de los sistemas mediante prácticas de desarrollo orientadas al cumplimiento de procesos.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 2 años de experiencia en programación con tecnologías de la Arquitectura de Referencia y de código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación de sistemas y en su puesta en operación mediante lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y tiempos establecidos dentro del plan de trabajo.
+
+He participado en proyectos de desarrollo backend y web utilizando Java (Lenguaje de programación para desarrollo de aplicaciones), Spring Framework, Spring Boot, REST, SOAP y bases de datos relacionales, apoyando la construcción, actualización e integración de soluciones para distintos contextos de negocio. También he colaborado en actividades de análisis de requerimientos, estructuración de datos y mejora funcional de aplicaciones.
+
+Mi experiencia incluye trabajo con herramientas de desarrollo, documentación y seguimiento, así como participación en esquemas colaborativos de capacitación y construcción técnica. Me adapto a lineamientos definidos, doy continuidad a tareas asignadas y contribuyo al funcionamiento de los sistemas mediante prácticas de desarrollo orientadas al cumplimiento de procesos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek - BBVA | Puesto
+SDET (Software Development Engineer in pruebas) - Junior | Desde:
+1 diciembre 2023 | Hasta: 
+A la Fecha
+Actividades Principales | • Creo sistemas, los implemento y hago su puesta a punto para que sean funcionales, todo ello mediante lenguajes de programación. Habilidades en conceptos de programación y trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso Crear una Página Web Moderna 2024 Desde Cero con HTML y CSS para diseñar y desarrollar sitios web modernos utilizando HTML y CSS
+• He aplicado el Curso de HTML5 desde cero para estructurar páginas web utilizando HTML5 y buenas prácticas de desarrollo web
+• He puesto en práctica el curso Aprende diseño web de cero a experto con proyectos para desarrollar interfaces web mediante HTML y CSS basadas en proyectos reales
+• He aplicado el curso Estructuras de Datos en JavaScript para implementar estructuras de datos fundamentales en aplicaciones JavaScript
+• He aplicado el curso Master SQL para diseñar, consultar y gestionar bases de datos relacionales desde nivel básico hasta avanzado
+• He puesto en práctica el curso Object Oriented Programming and Design Crash Course para aplicar principios de programación orientada a objetos y diseño de software
+• He aplicado el curso Spring Framework Master Class para desarrollar aplicaciones backend en Java utilizando el framework Spring
+• He aplicado el curso SQL De Principiante a Avanzado para crear, optimizar y ejecutar consultas SQL en bases de datos relacionales
+• He aplicado el curso SQL Curso completo de SQL para ejecutar comandos SQL orientados a la gestión y consulta de bases de datos
+• He puesto en práctica el curso Construye Microservicios con Spring Boot 3 y Spring Cloud para desarrollar arquitecturas de microservicios en Java
+• He aplicado el curso The Complete Guide to HTML para estructurar y desarrollar páginas web utilizando HTML de forma semántica y correcta
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Capacitacion de APX BBVA
+• Desarrollo de funciones en Afore utilizando Thymeleaf con Java (Lenguaje de programación para desarrollo de aplicaciones) 8 y Springboot
+• Posteriormente, actualizacion de proyecto a REST y usando Angular (Framework frontend para aplicaciones SPA)
+• Desarrollo de nueva arquitectura (Confidencial).
+• Selectividad de candidatos para ingreso a semillero
+• Capacitación de los candidatos de semillero o nuevo ingreso para UPAX, empresa de Grupo Salinas
+• Creación de contenido para la capacitación Remota Java (Lenguaje de programación para desarrollo de aplicaciones) Back End
+Empresa
+Softtek - Afore Citibanamex | Puesto
+SDET (Software Development Engineer in pruebas) - Junior | Desde:
+3 julio 2023 | Hasta: 
+31 octubre 2023
+Actividades Principales | • Desarrollo de funciones en Afore utilizando Thymeleaf con Java (Lenguaje de programación para desarrollo de aplicaciones) 8 y Springboot
+• Posteriormente, actualizacion de proyecto a REST y usando Angular (Framework frontend para aplicaciones SPA)
+Empresa
+BBVA México | Puesto
+SOFTWARE ASSOCIATE SOLUTIONS DEVELOPMENT I | Desde:
+2 enero 2023 | Hasta: 
+28 febrero 2023
+Actividades Principales | • Desarrollo de nueva arquitectura (Confidencial).
+Empresa
+Grupo NACHT | Puesto
+Tech Lead | Desde:
+2 enero 2023 | Hasta: 
+31 marzo 2023
+Actividades Principales | • Selectividad de candidatos para ingreso a semillero
+• Capacitación de los candidatos de semillero o nuevo ingreso para UPAX, empresa de Grupo Salinas
+• Creación de contenido para la capacitación Remota Java (Lenguaje de programación para desarrollo de aplicaciones) Back End
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Crear una Página Web Moderna 2024 Desde Cero con HTML y CSS
+- Curso de HTML5 desde cero: El más completo en Español
+- Aprende diseño web de cero a experto con proyectos: HTML + CSS
+- Estructuras de Datos en JavaScript
+- Master SQL: De cero a experto en Bases de Datos
+- Object Oriented Programming and Design Crash Course
+- Spring Framework Master Class - Java Spring the Modern Way
+- Curso SQL: De Principiante a Avanzado
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- Construye Microservicios con Spring Boot 3 y Spring Cloud
+- The Complete Guide to HTML
+- Java 8
+- APX Architecture
+- Angular 2+
+- Oracle Apps DBA
+- Thymeleaf
+- Javascript
+- JIRA
+- Confluence
+- Maven
+- TypeScript
+- PostMan
+- GO/Golang
+- Spring BOOT
+- Spring Framework
+- Oracle Database
+- MS Teams
+- MySQL
+- REST
+- Bootstrap
+- HTML5
+- IntelliJ IDEA
+- AXIS
+- Hibernate
+- MongoDB
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 1 mayo de 2020 hasta 31 julio de 2022
+Durante este período me desempeñé en funciones como Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) y Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) Backend, participando en el desarrollo y mantenimiento de sitios, aplicaciones y servicios web. También colaboré en actividades de análisis de requerimientos, organización de bases de datos, integración de componentes y construcción de soluciones para la parte web y backend. Mi participación incluyó trabajo con servicios, soporte al ciclo de desarrollo y colaboración con equipos bajo esquemas de trabajo definidos.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en sistemas computacionales - Sep 2017 a Dec 2020 | Universidad del Valle de Cuernavaca | Cédula Profesional
+13760402
+16/10/2023
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Crear una Página Web Moderna 2024 Desde Cero con HTML y CSS
+- Curso de HTML5 desde cero: El más completo en Español
+- Aprende diseño web de cero a experto con proyectos: HTML + CSS
+- Estructuras de Datos en JavaScript
+- Master SQL: De cero a experto en Bases de Datos
+- Object Oriented Programming and Design Crash Course
+- Spring Framework Master Class - Java Spring the Modern Way
+- Curso SQL: De Principiante a Avanzado
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- Construye Microservicios con Spring Boot 3 y Spring Cloud
+- The Complete Guide to HTML
+______________________________________
+Hehecatl Abdiel Mejia Sarabia
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

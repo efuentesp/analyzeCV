@@ -1,0 +1,257 @@
+
+{
+  "capacidadRecursosHumanos": {
+    "experiencia": [
+      {
+        "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 5 años de experiencia comprobada en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas. Dominio en las tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source ?",
+        "detalle": "Para el rol del Líder Técnico\nAl menos 5 años de experiencia en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas.\nDominio en las tecnologías de la Arquitectura de Referencia (AR) \ny/o tecnologías open source",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV acredita que almenos tiene 3 años de experiencia comprobada en desarrollo en metodologías ágiles?",
+        "detalle": "Adicional:\nAl menos 3 años de experiencia en desarrollo en metodologías ágiles",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV acredita funciones de dirección y coordinación a equipos de trabajo implementando y optimizando tecnologías para alcanzar objetivos estratégicos de desarrollo, asegurando la calidad del software, la correcta implementación de las soluciones y el uso adecuado de herramientas y buenas prácticas?",
+        "detalle": "Dirigir y coordinar a equipos de trabajo implementando y optimizando tecnologías para alcanzar objetivos estratégicos de desarrollo, asegurando la calidad del software, la correcta implementación de las soluciones y el uso adecuado de herramientas y buenas prácticas. \nActuar como puente entre el equipo técnico y otras áreas del proyecto o de la institución.\nGarantizar la integración de los componentes técnicos y alinearlos a la arquitectura y seguridad del SAT.\nHabilidades en: \nGestión de Proyectos\nLiderazgo",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha definido y controlado prácticas de codificación y ramas en GitLab (MR, code review, políticas)?",
+        "detalle": "Políticas ramas/MR + ejemplos",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha asegurado calidad de código con SAST (SonarQube) y coordinado remediaciones hasta “cero bloqueantes/críticos/altos”?",
+        "detalle": "Reportes SAST + evidencias fixes",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha coordinado pruebas funcionales/integración y de desempeño con reportes y criterios de aceptación?",
+        "detalle": "Plan + Matriz + reportes",
+        "resultado": ""
+      },
+       {
+        "concepto": "¿Ha gestionado ambientes (INT/UAT/PROD) con Torre SAT/SSO/RAPE/AAT, incluyendo troubleshooting?",
+        "detalle": "Actas/VoBo + minutas",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha capacitado al equipo que dará soporte al software que se libera (ej.  Mesa SAT) en aspectos técnicos del servicio previo a la puesta en producción?",
+        "detalle": "Agenda/listas/material",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La experiencia suma ≥5 años en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas. Dominio en las tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+        "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+        "detalle": "Fechas correctas en el periodo de experiencia:\nLa fecha \"Desde\", debe ser un mes posterior a la última fecha \"Hasta\", los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+        "resultado": ""
+      },
+      {
+          "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+          "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+          "resultado": ""
+        },
+        {
+          "concepto": "¿El CV documenta proyectos (grandes/críticos) resaltando habilidades en: \n- Gestión de proyectos\n- Liderazgo?",
+          "detalle": "",
+          "resultado": ""
+        },
+        {
+          "concepto": "¿El CV presenta numeralia (años, FTEs, presupuesto, metodología, resultados medibles) para contextualizar el alcance gestionado?",
+          "detalle": "años, alcance, equipo gestionado, metodología y resultados medibles.",
+          "resultado": ""
+        }
+    ],
+    "competencia": [
+      {
+        "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+        "detalle": "Acreditar la competencia señalada \nEstudios nivel superior acreditable de nivel licenciatura o ingeniería",
+        "resultado": ""
+      }
+    ],
+    "dominioDeHerramientas": [
+      {
+        "concepto": "¿El candidato cuenta con certificaciones requeridas?",
+        "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar el dominio de herramientas senaladas - Certificaciones",
+        "detalle": "Adicional es deseable alguna de las siguientes certificaciones vigente:\nITIL v4\nSCRUM Master ",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar conocimiento comprobable en las tecnologías descritas - Cursos\n• Lenguajes de Programación\n• Cómputo en la nube\n• Bases de Datos\n• Sistemas Operativos\n• Servicios integrales de autenticación:",
+        "detalle": "Conocimiento comprobable en las tecnologías descritas en la introducción del documento Anexo Staff\n• Lenguajes de Programación: Java (open jdk), Ansi, C#, C/, C++, DataStage, Basic, 4GL, SPL, Transact SQL, Python, Scala, R, Rust.\n• Cómputo en la nube: AWS, Azure, Data Factory, Databricks, Dockers/Kubernetes, ARO (Azure Redhat OpenShift), Data Pipelines.\n• Bases de Datos: PostgreSQL, Oracle, MariaDB, IBM, Informix, SQL Server, QVD, Azure SQL, Cassandra, DataLake, DB2.\n• Sistemas Operativos: Linux, Unix, Windows Server, z/OS, Spice.\n• Servicios integrales de autenticación: E-firma, OAuth 2.0, OWIN, SAML2, Omniguard.",
+        "resultado": ""
+      }
+    ]
+  },
+  "certificaciones": [
+    {
+      "concepto": "¿El candidato posee Scrum Master vigente como certificación adicional (si es la seleccionada)?",
+      "detalle": "Acreditar al menos 1 certificación vigente",
+      "resultado": ""
+    },
+    {
+      "concepto": "La certificación 1 es legible y vigente",
+      "detalle": "El documento oficial de cada certificado está en el repositorio\nEspecificar cuál es de las siguientes: \nITIL v4\nSCRUM Master ",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Las fechas de emisión y expiración está claramente indicadas?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre coincide exactamente con el CV y la identificación?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La certificación fue verificada en el registro oficial de la entidad emisora (cuando aplique)?",
+      "detalle": "Se hizo la consulta en la entidad oficial",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La certificación tendrá vigencia durante toda la vida del contrato (o existe plan de renovación documentado)?",
+      "detalle": "A partir de que inicie son 24 meses = 731 días naturales",
+      "resultado": ""
+    }
+  ],
+  "cursos": [
+    {
+    "concepto": "¿El candidato adjunta constancia del curso XXXXXX ?",
+    "detalle": "Incluir en caso de que sumen puntos el nombre de otro curso relacionado con el rol",
+    "resultado": ""
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    }
+  ],
+  "dominioHerramientas": [
+    {
+        "concepto": "¿El CV evidencia uso profesional de Jira/MS Project para la gestión del ciclo de vida ágil, demostrando dominio en la configuración de tableros (Kanban/Scrum), gestión del Backlog (Epics/Stories), medición de velocidad/throughput y coordinación de ceremonias para asegurar liberaciones continuas sin impedimentos",
+        "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio o de proyectos.\nAclarar que ha sido en proyectos grandes/críticos",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV acredita liderazgo técnico en la ejecución de flujos de valor bajo ITIL 4, demostrando la estabilidad de servicios 24x7 mediante la dirección de diagnósticos de causa raíz (Problemas), la supervisión técnica de cambios complejos y la garantía de calidad en el ciclo de vida del software para el cumplimiento de SLAs?",
+        "detalle": "El líder técnico no solo administra el folio del problema; dirige al equipo en el troubleshooting profundo para encontrar la causa raíz técnica y evitar que se repita.\nEn lugar de solo \"habilitar\" el cambio, el líder técnico valida que el impacto técnico sea mínimo y que el plan de implementación sea seguro para la Continuidad Operativa.\nAsegura que las etapas de mantenimiento se cumplan con rigor técnico para que los entregables no reboten en la fase de QA.",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Opera GitLab bajo estándares institucionales (ramas, tags, MR, code review, pipelines)?",
+        "detalle": "Historial MR/commits, política de ramas, pipelines ejecutados",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Utiliza herramientas de gestión de configuración y repositorios de artefactos (Nexus/Archiva) para dependencias y entregables?",
+        "detalle": "Registro de artefactos, checklist de paquete, versionado",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Domina SonarQube (SAST) y gestiona la remediación hasta lograr “cero bloqueantes/críticos/altos” previo a liberación?",
+        "detalle": "Reportes SAST, evidencia de fixes, VoBo de seguridad",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Utiliza herramientas o scripts para ejecutar o coordinar DAST (análisis dinámico) previo a liberación?",
+        "detalle": "Reporte DAST + VoBo + evidencia de re-pruebas",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Opera el sistema Monitor para programar ventanas de liberación, seguimiento de compilación y verificación de estatus del paquete?",
+        "detalle": "Calendarios, bitácoras Monitor, acuse “paquete recibido por AVL”",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Prepara paquetes aplicativos conforme al estándar AVL, usando plantillas y checklists institucionales?",
+        "detalle": "Checklist AVL, manuales, scripts, evidencia de empaquetado",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Gestiona herramientas para troubleshooting técnico (logs, monitoreo, trazas), integrando hallazgos a tickets y minutas de UAT/PROD?",
+        "detalle": "Minutas troubleshooting, capturas de logs, JIRAs/MSSAT",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Administra herramientas de ambientes (INT/UAT/PROD), validando despliegues, configuraciones y VoBo con Torre SAT/SSO/RAPE/AAT?",
+        "detalle": "Actas, VoBo, reportes de ambiente, bitácoras",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Utiliza herramientas de gestión de pruebas (matrices, planillas, dashboards) para consolidar resultados de pruebas funcionales, integración y desempeño?",
+        "detalle": "Plan de pruebas, RPFU, matriz trazabilidad, reportes",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Participa en herramientas de estimación (EUHE 3-puntos, PT, PSE) para CAPA/CAPA V2, asegurando trazabilidad del cálculo?",
+        "detalle": "EUHE (O/M/P), PT (WBS), PSE, CAPA en herramienta",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Opera repositorios colaborativos (SharePoint, Confluence, OneDrive) con control de versiones para documentos técnicos?",
+        "detalle": "Historial de versiones; permisos; evidencia de coedición",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Integra evidencias por fase (capturas, logs, VoBo, matrices) en las carpetas mensuales para dictamen?",
+        "detalle": "Carpeta del mes; checklist; acuse de entrega",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Utiliza herramientas para capacitar a MSSAT (material técnico, sesiones, minutas), previo a PROD?",
+        "detalle": "Material, lista de asistencia, guía técnica",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Gestiona métricas operativas en tableros (SLA/OLA, defectos, velocidad, hallazgos de pruebas) usando herramientas de BI u hojas de cálculo avanzadas?",
+        "detalle": "Dashboard; tabla dinámica; KPIs mensuales",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      }
+  ]
+}

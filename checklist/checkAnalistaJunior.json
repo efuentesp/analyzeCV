@@ -1,0 +1,266 @@
+{
+    "capacidadRecursosHumanos": {
+        "experiencia": [
+            {
+                "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 1 año de experiencia comprobada en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio?",
+                "detalle": "Para el rol del Analista Senior Al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita experiencia en recopilar, analizar y representar los requerimientos solicitados. Documentar la propuesta de solución en los entregables correspondientes?",
+                "detalle": "Recopilar, analizar y representar los requerimientos solicitados. Documentar la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora, Generación de la documentación de requerimientos funcionales y técnicos, Adaptabilidad y flexibilidad",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha levantado y documentado requisitos (plantillas, versiones, control de cambios)?",
+                "detalle": "Formato requisitos + bitácora",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha construido casos y datos de prueba y registrado resultados en las planillas oficiales?",
+                "detalle": "Planillas con resultados",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha preparado evidencias (capturas, actas, marcadores) para la carpeta mensual?",
+                "detalle": "Evidencias + checklist",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha seguido checklists de calidad documental (formato, firmas, consistencia) para dictamen?",
+                "detalle": "Lista de control firmada",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha apoyado en la entrega a AVL (verificación de artefactos, checklist)?",
+                "detalle": "Checklist + acuse",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Acredita experiencia operando bajo Cobertura A y comunicación con Mesa SAT/equipo técnico?",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La experiencia suma ≥1 año en recopilar, analizar y representar los requerimientos solicitados. Documentar la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora, Generación de la documentación de requerimientos funcionales y técnicos, Adaptabilidad y flexibilidad?",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La cronología de periodos laborales suma al menos un 1 año requeridos?",
+                "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+                "detalle": "Fechas correctas en el periodo de experiencia: La fecha \"Desde\", debe ser un mes posterior a la última fecha \"Hasta\", los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+                "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV documenta proyectos (grandes/críticos) resaltando habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora, Generación de la documentación de requerimientos funcionales y técnicos, Adaptabilidad y flexibilidad?",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV presenta numeralia (años, presupuesto, metodología, resultados medibles) para contextualizar el alcance gestionado?",
+                "detalle": "años, alcance, tamaño del equipo de analistas, metodología y resultados medibles.",
+                "resultado": ""
+            }
+        ],
+        "competenciaHabilidadTrabajo": [
+            {
+                "concepto": "¿El candidato cuenta con estudios de carrera técnica de nivel medio superior o nivel superior acreditable de nivel licenciatura o ingeniería?",
+                "detalle": "Acreditar la competencia señalada Estudios nivel superior acreditable de nivel licenciatura o ingeniería",
+                "resultado": ""
+            }
+        ],
+        "dominioHerramientas": [
+            {
+                "concepto": "Acreditar conocimiento comprobable en al menos uno de los siguientes temas: Diagramación y procesos informáticos tales como UML, de flujo, conceptuales, de fase, de bloques. Experiencia de usuario e interfaz de usuario (UX, UI).Metodologías ágiles?",
+                "detalle": "Conocimiento comprobable en al menos uno de los siguientes temas: Diagramación y procesos informáticos tales como UML, de flujo, conceptuales, de fase, de bloques. Experiencia de usuario e interfaz de usuario (UX, UI). Metodologías ágiles",
+                "resultado": ""
+            }
+        ]
+    },
+    "certificaciones": [
+        {
+            "concepto": "¿El candidato cuenta con los documentos que acrediten  certificaciones?",
+            "detalle": "Evidencias escaneadas digitalizadas. Coincidencia en nombre entre CV y documentos. SAT cotejará validez con las instituciones certificadoras. Copia simple, digitalizada preferentemente a color, con información clara y legible de los documentos que acrediten la(s) certificación(es) vigente(s). Certificaciones deben permanecer vigentes durante toda la vigencia del contrato",
+            "resultado": ""
+        }
+    ],
+    "cursos": [
+        {
+            "concepto": "¿El candidato adjunta constancia de cursos de Diagramación y procesos informáticos?",
+            "detalle": "Conocimiento comprobable en al menos uno tales como UML, diagrams de flujo, dicagramas conceptuales, diagramas de fase, diagramas de bloques.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La fecha de emisión del curso está registrada?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+            "detalle": "Preferentemente a color",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La constancia está en español o incluye traducción simple?",
+            "detalle": "En caso de que no, incluir la traducción simple",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+            "detalle": "",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El candidato adjunta constancia de cursos de preparación en Experiencia de usuario e interfaz de usuario (UX, UI)?",
+            "detalle": "Conocimiento comprobable en al menos uno Experiencia de usuario e interfaz de usuario (UX, UI)",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La fecha de emisión del curso está registrada?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+            "detalle": "Preferentemente a color",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La constancia está en español o incluye traducción simple?",
+            "detalle": "En caso de que no, incluir la traducción simple",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+            "detalle": "",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El candidato adjunta constancia de cursos de Metodologías ágiles?",
+            "detalle": "Conocimiento comprobable en al menos uno",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La fecha de emisión del curso está registrada?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+            "detalle": "Preferentemente a color",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La constancia está en español o incluye traducción simple?",
+            "detalle": "En caso de que no, incluir la traducción simple",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+            "detalle": "",
+            "resultado": ""
+        }
+    ],
+    "dominioHerramientas": [
+        {
+            "concepto": "¿Utiliza plantillas básicas para documentar requerimientos funcionales (historias de usuario, requerimientos funcionales, listas de requerimientos)?",
+            "detalle": "Historias de usuario, documentos funcionales simples, formatos DRN/DRF (Documento de Requerimientos de Negocio/Documentos de Requerimientos Funcionales) básicos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Apoya la documentación de requerimientos utilizando herramientas ofimáticas o colaborativas (Word, Excel, Confluence, SharePoint)?",
+            "detalle": "Documentos versionados, repositorios colaborativos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas básicas de modelado funcional (diagramas de flujo, UML básico: casos de uso o actividades)?",
+            "detalle": "Diagramas simples usados en proyectos reales.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Aplica herramientas de análisis para comprender procesos existentes (as-is) y propuestos (to-be)?",
+            "detalle": "Diagramas de proceso, descripciones de flujo.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Registra y actualiza requerimientos en herramientas de gestión (Jira, Azure DevOps, hojas de seguimiento en Excel)?",
+            "detalle": "Backlog, listas de requerimientos, tickets.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Da seguimiento a cambios o ajustes de requerimientos bajo supervisión del Analista Senior o Líder Funcional?",
+            "detalle": "Historial de cambios, tickets actualizados, minutas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Apoya la definición de criterios de aceptación y la validación funcional durante QA/UAT utilizando herramientas de seguimiento?",
+            "detalle": "Criterios en historias, listas de validación, UAT documentado.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Registra incidencias funcionales o defectos en herramientas de control (Jira, ALM, Service Desk)?",
+            "detalle": "Tickets creados/actualizados, estados y comentarios.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas de comunicación y coordinación (correo, Teams, Zoom, herramientas de reuniones) para apoyar sesiones con negocio y equipo técnico?",
+            "detalle": "Minutas, convocatorias, listas de acuerdos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Emplea herramientas colaborativas para compartir avances y documentación con el equipo (SharePoint, OneDrive, Confluence)?",
+            "detalle": "Enlaces a repositorios, control de versiones.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas simples de reporte (Excel, presentaciones) para informar avances, pendientes y observaciones funcionales?",
+            "detalle": "Reportes de avance, presentaciones de estatus.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Actualiza listas de seguimiento o tableros básicos para control de actividades asignadas?",
+            "detalle": "Checklists, tableros simples, bitácoras.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV muestra uso práctico de herramientas aprendidas en cursos o capacitaciones (qué herramienta, para qué se usó, resultado)?",
+            "detalle": "Ejemplo concreto de aplicación en proyecto.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        }
+    ]
+}

@@ -1,0 +1,1338 @@
+[
+   {
+    "nombre": "Cristopher Aldo López Sánchez",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "9744618",
+    "fecha_cedula": "25/5/2016",
+    "rol_propuesto": "Analista Junior",
+    "resumen_profesional": "Tengo por lo menos 1 año de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y soluciones de inteligencia de negocio. Como analista de negocio, me ocupo de descubrir, sintetizar y analizar información proveniente de distintas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas.\n\nA lo largo de mi trayectoria he trabajado en la identificación de oportunidades y la optimización de procesos administrativos y contables, proponiendo soluciones que mejoran la continuidad de servicios y el cumplimiento de procesos. Utilizo herramientas como Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) y SAP para facilitar la trazabilidad y la coordinación entre áreas. Trabajo de forma colaborativa con equipos y Partes interesadas para documentar requerimientos y asegurar entregables alineados con métricas y estándares.\n\nMi enfoque es traducir hallazgos en propuestas concretas y documentadas, asegurando que las soluciones sean factibles y aprobadas por los usuarios, y dando seguimiento a los cambios durante el ciclo de vida de la implementación.",
+    "experiencia_laboral": [
+        {
+        "empresa": "Softtek",
+        "puesto": "Analista de Negocio",
+        "fecha_inicio": "1 septiembre 2022",
+        "fecha_fin": "",
+        "actividades_principales": [
+            "Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, análisis e interpretación de datos, identificación de patrones y oportunidades de mejora, generación de documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.",
+            "Entiendo las verdaderas necesidades mediante el uso de técnicas de análisis.",
+            "Involucro a las Partes interesadas para descubrir los requerimientos funcionales, no funcionales y de transición, y los documento de forma completa, clara y consistente.",
+            "Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.",
+            "Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas y que permitan a las Partes interesadas ejecutar sus procesos con eficacia.",
+            "Diseño la solución funcional que satisface los requerimientos de las Partes interesadas, junto con la estrategia de implementación necesaria para generar valor al negocio.",
+            "Aseguro que la solución sea aprobada conscientemente por las Partes interesadas y que su implementación se lleve a cabo cumpliendo los objetivos planteados.",
+            "Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.",
+            "Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.",
+            "Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.",
+            "He usado la certificación The Complete UML (Lenguaje Unificado de Modelado (UML)) Course: Learn to Design UML (Lenguaje Unificado de Modelado (UML)) Diagrams como apoyo para la diagramación UML (Lenguaje Unificado de Modelado (UML))/BPMN y flujos.",
+            "He empleado la certificación Domina SCRUM con JIRA Agile – Metodologías Ágiles como fundamento para aplicar metodologías ágiles basadas en Scrum, considerando roles, eventos y artefactos.",
+            "He usado el curso UX: Máster en Diseño web y Experiencia de Usuario como fundamento para el diseño de interfaces y experiencias digitales centradas en el usuario, considerando usabilidad, accesibilidad y alineación con los objetivos del negocio.",
+            "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+            "REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.",
+            "SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.",
+            "ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.",
+            "DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.",
+            "CIS: Proveo entradas al proceso y valido la precisión de los entregables.",
+            "Interfaz Gráfica de Usuario (GUI): Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.",
+            "INT: Proveo las entradas necesarias para la integración de sistemas.",
+            "STD: Participo en las actividades de diseño de pruebas de sistema.",
+            "STE: Participo en la ejecución de las pruebas de sistema.",
+            "DOC: Proveo entradas y valido la precisión de los entregables de documentación.",
+            "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.",
+            "Como analista de negocio, realizo análisis entre sistemas para garantizar resultados tanto contables como administrativos, asegurando que sean óptimos para la empresa.",
+            "Mi enfoque está en la atención al detalle y en la gestión de equipos de trabajo, liderando con énfasis en la entrega puntual, cumplimiento de métricas y estándares establecidos.",
+            "Trabajo colaborativamente para identificar y resolver necesidades empresariales, aportando soluciones estratégicas que mejoran la eficiencia y el rendimiento organizacional.",
+            "Estuve encargado de la contabilidad general, impuestos y nómina, desarrollando estrategias de administración que mejoraron las ventas en un 25%.",
+            "Fui responsable de adecuar SAP a la empresa, capacitando al personal en cada departamento que lo requería.",
+            "Logré los objetivos y métricas requeridas por la empresa matriz ubicada en Europa."
+        ]
+        },
+        {
+        "empresa": "Estado de México",
+        "puesto": "Contador Senior",
+        "fecha_inicio": "1 febrero 2010",
+        "fecha_fin": "30 septiembre 2021",
+        "actividades_principales": [
+            "Estuve encargado de la contabilidad general, impuestos y nómina, desarrollando estrategias de administración que mejoraron las ventas en un 25%.",
+            "Fui responsable de adecuar SAP a la empresa, capacitando al personal en cada departamento que lo requería.",
+            "Logré los objetivos y métricas requeridas por la empresa matriz ubicada en Europa."
+        ]
+        }
+    ],
+    "periodo_resumen_laboral": "",
+    "resumen_laboral": "",
+    "estudios": {
+        "carrera": "Licenciatura en Contador Público",
+        "lugar": "Escuela Superior de Comercio y Administración, Instituto Politécnico Nacional, unidad Santo Tomás",
+        "periodo": "1 agosto 2006 - 31 julio 2011"
+    },
+    "herramientas": [
+        {
+        "nombre": "JIRA"
+        },
+        {
+        "nombre": "AA for SAP S/4 HANA"
+        },
+        {
+        "nombre": "CRM for SAP S/4 HANA"
+        },
+        {
+        "nombre": "CRM for SAP R/3 ECC"
+        }
+    ],
+    "certificaciones": [],
+    "cursos": [
+        {
+        "nombre": "The Complete UML Course: Learn to Design UML Diagrams"
+        },
+        {
+        "nombre": "Domina SCRUM con JIRA Agile – Metodologías Ágiles"
+        },
+        {
+        "nombre": "UX: Máster en Diseño web y Experiencia de Usuario"
+        }
+    ]
+    },
+    {
+    "nombre": "Karina Francisco Sanchez",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "",
+    "fecha_cedula": "",
+    "rol_propuesto": "Analista Junior",
+    "resumen_profesional": "Dispongo de por lo menos un año de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y soluciones de Inteligencia de Negocio. Como analista de negocio, me encargo de identificar, sintetizar y evaluar información procedente de distintas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas.\n\nHe trabajado en proyectos de diseño de soluciones y análisis de negocio, levantando y documentando requerimientos, creando historias de usuario y preparando propuestas técnicas para su aprobación. Colaboro estrechamente con equipos técnicos para garantizar continuidad de servicios y calidad en los entregables.\n\nMi enfoque es convertir necesidades de negocio en especificaciones claras y viables: estimar alcance, proponer soluciones sencillas y apoyar la comunicación entre usuarios y desarrolladores, asegurando el control de cambios durante la implementación.",
+    "experiencia_laboral": [
+        {
+        "empresa": "Diseño de Solución Digital Mexico",
+        "puesto": "Solution Architect - Junior",
+        "fecha_inicio": "4 noviembre, 2024",
+        "fecha_fin": "A la Fecha",
+        "actividades_principales": [
+            "Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora, Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.",
+            "Comprendo las verdaderas necesidades usando un conjunto de técnicas de análisis.",
+            "Involucro a las Partes interesadas para descubrir y documentar requerimientos funcionales, no funcionales y de transición de manera completa, clara y consistente.",
+            "Genero especificaciones de requerimientos no funcionales describiendo las cualidades y restricciones que deben considerarse para su implementación.",
+            "Identifico patrones funcionales para diseñar soluciones que permitan a las Partes interesadas ejecutar sus procesos de negocio con eficacia.",
+            "Diseño la solución funcional que satisface los requerimientos de las Partes interesadas y la estrategia de implementación necesaria para generar valor al negocio.",
+            "Aseguro que la solución sea aprobada conscientemente por las stakeholders y que su implementación cumpla con los objetivos planteados.",
+            "Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.",
+            "Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.",
+            "Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.",
+            "He usado el curso Agile Business Analysis: Getting / Writing Lean Requirements como fundamento para la documentación ágil y Lean de requerimientos.",
+            "He aplicado los conocimientos del curso Business Analysis Modeling Skills & Techniques como fundamento para aplicar técnicas de modelado en el análisis de negocio.",
+            "He usado el curso Business Analysis: Working with Use Cases como fundamento para documentar requerimientos mediante casos de uso.",
+            "He implementado el curso Business Analysis Fundamentals – ECBA, CCBA, CBAP endorsed como fundamento para fortalecer el análisis de negocio alineado al IIBA.",
+            "He usado el curso Historias de Usuario – Cómo escribir User Story como fundamento para la redacción de historias de usuario.",
+            "He aplicado el curso Identify & Define the Problem with Business Analysis como fundamento para la definición de problemas de negocio.",
+            "He usado el curso The Complete UML Course: Learn to Design UML Diagrams como fundamento para el modelado de sistemas con UML.",
+            "He utilizado el curso UX: Máster en Diseño web y Experiencia de Usuario como fundamento para el diseño de experiencias centradas en el usuario.",
+            "He usado la certificación Domina SCRUM con Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) Agile – Metodologías Ágiles como fundamento para aplicar metodologías ágiles para la gestión de proyectos.",
+            "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+            "REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.",
+            "SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.",
+            "ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.",
+            "DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.",
+            "CIS: Proveo entradas al proceso y valido la precisión de los entregables.",
+            "Interfaz Gráfica de Usuario (GUI): Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.",
+            "INT: Proveo las entradas necesarias para la integración de sistemas.",
+            "STD: Participo en las actividades de diseño de pruebas de sistema.",
+            "STE: Participo en la ejecución de las pruebas de sistema.",
+            "DOC: Proveo entradas y valido la precisión de los entregables de documentación.",
+            "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.",
+            "Realizo levantamiento de requerimientos",
+            "Realizo estimaciones de proyectos",
+            "Realizo propuestas y presentaciones en Power Point",
+            "Realizo conteo COSMIC",
+            "Hago exposición de propuestas",
+            "Realizo análisis de negocio",
+            "Elaboro historias de usuario",
+            "Documento requerimientos",
+            "Realizo diagramación (casos de uso, modelo de dominio)",
+            "Creo bosquejos y propuestas de diseño",
+            "Elaboro modelos de dominio y diagramas entidad-relación"
+        ]
+        },
+        {
+        "empresa": "CitiBanamex Mexico",
+        "puesto": "Business Analyst - Junior",
+        "fecha_inicio": "2 octubre, 2023",
+        "fecha_fin": "31 octubre, 2024",
+        "actividades_principales": [
+            "Realizo análisis de negocio",
+            "Elaboro historias de usuario",
+            "Documento requerimientos",
+            "Realizo diagramación (casos de uso, modelo de dominio)",
+            "Creo bosquejos y propuestas de diseño",
+            "Elaboro modelos de dominio y diagramas entidad-relación"
+        ]
+        }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 marzo de 2019 hasta 29 septiembre de 2023",
+    "resumen_laboral": "Durante este período asumí responsabilidades relacionadas con roles como Desarrollador Backend, Application Support Engineer y Application Support. Principalmente participé en análisis técnico y de dependencias, diseño y creación de módulos backend, mantenimiento de sistemas y soporte de aplicaciones. Mis tareas incluyeron diseño y creación de bases de datos, pruebas unitarias y documentación de código, siempre con foco en mantener continuidad de servicio y cumplimiento de procesos.",
+    "estudios": {
+        "carrera": "Ingeniería en Tecnologías de la Información",
+        "lugar": "Universidad Tecnológica Fidel Velázquez Mexico",
+        "periodo": "Sep, 2018 - Mar, 2021"
+    },
+    "herramientas": [
+        {
+        "nombre": "Jira"
+        },
+        {
+        "nombre": "Confluence"
+        },
+        {
+        "nombre": "Digital Office"
+        },
+        {
+        "nombre": "Copilot (M365 Copilot)"
+        },
+        {
+        "nombre": "Postman"
+        },
+        {
+        "nombre": "MySQL"
+        },
+        {
+        "nombre": "Laravel 8"
+        },
+        {
+        "nombre": "Vue 3"
+        },
+        {
+        "nombre": "Bootstrap 5"
+        },
+        {
+        "nombre": "PHP"
+        },
+        {
+        "nombre": "HTML5"
+        },
+        {
+        "nombre": "CSS"
+        }
+    ],
+    "certificaciones": [],
+    "cursos": [
+        {
+        "nombre": "Agile Business Analysis: Getting / Writing Lean Requirements"
+        },
+        {
+        "nombre": "Business Analysis Modeling Skills & Techniques"
+        },
+        {
+        "nombre": "Business Analysis: Working with Use Cases"
+        },
+        {
+        "nombre": "Business Analysis Fundamentals – ECBA, CCBA, CBAP endorsed"
+        },
+        {
+        "nombre": "Historias de Usuario – Cómo escribir User Story"
+        },
+        {
+        "nombre": "Identify & Define the Problem with Business Analysis"
+        },
+        {
+        "nombre": "Domina SCRUM con JIRA Agile – Metodologías Ágiles"
+        },
+        {
+        "nombre": "The Complete UML Course: Learn to Design UML Diagrams"
+        },
+        {
+        "nombre": "UX: Máster en Diseño web y Experiencia de Usuario"
+        }
+    ]
+    },
+    {
+    "nombre": "Andrea Hernandez Aguirre",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "8278987",
+    "fecha_cedula": "10/09/2013",
+    "rol_propuesto": "Analista Junior",
+    "resumen_profesional": "Dispongo de al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, soy responsable de descubrir, sintetizar y analizar información proveniente de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas.\n\nTengo experiencia relevante en levantamiento y estructuración de requerimientos, modelado de procesos y Lenguaje Unificado de Modelado (UML), gestión de product backlog y coordinación con equipos técnicos y de negocio para entregar soluciones funcionales. Trabajo en marcos ágiles y tradicionales, priorizando continuidad de servicios, control de cambios y documentación clara para facilitar la implementación y aceptación por los usuarios.\n\nMe enfoco en generar valor mediante optimización de procesos, claridad en la comunicación con Partes interesadas y entrega de artefactos que soporten decisiones y operaciones continuas.",
+    "experiencia_laboral": [
+        {
+        "empresa": "BFS Ingeniería Aplicada (BFS)",
+        "puesto": "ANALISTA DE NEGOCIO",
+        "fecha_inicio": "1 junio 2025",
+        "fecha_fin": "Actualmente",
+        "actividades_principales": [
+            "Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora., Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.",
+            "Entiendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.",
+            "Involucro a los stakeholders para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.",
+            "Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.",
+            "Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a los stakeholders ejecutar sus procesos de negocio con eficacia y facilidad.",
+            "Diseño la solución funcional que satisface los requerimientos de los stakeholders, junto con la estrategia de implementación necesaria para generar valor al negocio.",
+            "Aseguro que la solución sea aprobada conscientemente por los stakeholders, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.",
+            "Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.",
+            "Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.",
+            "He aplicado el conocimiento del curso UX: Máster en Diseño web y Experiencia de Usuario como fundamento para el diseño de interfaces y experiencias digitales centradas en el usuario.",
+            "He usado el curso Domina SCRUM con Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) Agile – Metodologías Ágiles como herramienta para la gestión ágil y seguimiento de issues/sprints.",
+            "He implementado el curso The Complete UML Course: Learn to Design UML Diagrams como herramienta para el análisis y modelado de sistemas mediante diagramas UML.",
+            "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+            "REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.",
+            "SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.",
+            "ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.",
+            "DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.",
+            "CIS: Proveo entradas al proceso y valido la precisión de los entregables.",
+            "Interfaz Gráfica de Usuario (GUI): Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.",
+            "INT: Proveo las entradas necesarias para la integración de sistemas.",
+            "STD: Participo en las actividades de diseño de pruebas de sistema.",
+            "STE: Participo en la ejecución de las pruebas de sistema.",
+            "DOC: Proveo entradas y valido la precisión de los entregables de documentación.",
+            "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.",
+            "Me adapto a la forma de trabajar en los proyectos ya sea siguiendo el método en cascada o siguiendo el marco de referencia SCRUM conforme el tipo de proyecto.",
+            "Elaboro documentación conforme a los lineamientos solicitados en Softtek.",
+            "Atiendo reuniones pos-liberación en conjunto con equipo de desarrollo y líderes para revisión de incidencias productivas.",
+            "Participo en reuniones para definición de la visión del producto.",
+            "Organizo reuniones con usuarios e interesados para la obtención de requisitos funcionales y no funcionales.",
+            "Elaboro la planificación de tareas derivadas del desarrollo del producto.",
+            "Gestiono el Product Backlog.",
+            "Elaboro documentación requerida para el proyecto usando plantillas del Marco Documental de Automatización de procesos (MDAP).",
+            "Creo prototipos de acuerdo al proyecto o iniciativas en las que participo.",
+            "Realizo diversos Diagramas Lenguaje Unificado de Modelado (UML) (Diagramas de Caso de Uso, Diagrama de Actividad, Diagrama de Secuencia).",
+            "Mantengo comunicación con las áreas interesadas del proyecto.",
+            "Elaboro documentos de Base de datos, ejemplo: Diagramas Entidad – Relación, Diccionario de datos y Proyecciones de la Base de datos.",
+            "Elaboro casos de pruebas para revisión de funcionamiento de sistema desarrollado.",
+            "Realizo pruebas en ambiente de desarrollo y Aseguramiento de la Calidad (QA) e informo los resultados al equipo de desarrollo antes de liberarlo al área de pruebas.",
+            "Doy seguimiento a las incidencias de los ambientes de desarrollo, calidad y productivas.",
+            "Colaboré en la realización de prototipos en Justinmind, Balsamiq."
+        ]
+        },
+        {
+        "empresa": "Planet Media S.A de C.V",
+        "puesto": "ANALISTA DE NEGOCIO / Propietario del Producto (Product Owner) / PROJECT MANAGER JR.",
+        "fecha_inicio": "1 diciembre 2018",
+        "fecha_fin": "30 junio 2024",
+        "actividades_principales": [
+            "Participo en reuniones para definición de la visión del producto.",
+            "Organizo reuniones con usuarios e interesados para la obtención de requisitos funcionales y no funcionales.",
+            "Elaboro la planificación de tareas derivadas del desarrollo del producto.",
+            "Gestiono el Product Backlog.",
+            "Elaboro documentación requerida para el proyecto usando plantillas del Marco Documental de Automatización de procesos (MDAP).",
+            "Creo prototipos de acuerdo al proyecto o iniciativas en las que participo.",
+            "Realizo diversos Diagramas Lenguaje Unificado de Modelado (UML) (Diagramas de Caso de Uso, Diagrama de Actividad, Diagrama de Secuencia).",
+            "Mantengo comunicación con las áreas interesadas del proyecto.",
+            "Elaboro documentos de Base de datos, ejemplo: Diagramas Entidad – Relación, Diccionario de datos y Proyecciones de la Base de datos.",
+            "Elaboro casos de pruebas para revisión de funcionamiento de sistema desarrollado.",
+            "Realizo pruebas en ambiente de desarrollo y Aseguramiento de la Calidad (QA) e informo los resultados al equipo de desarrollo antes de liberarlo al área de pruebas.",
+            "Doy seguimiento a las incidencias de los ambientes de desarrollo, calidad y productivas.",
+            "Colaboré en la realización de prototipos en Justinmind, Balsamiq."
+        ]
+        }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 enero de 2013 hasta 30 noviembre de 2016",
+    "resumen_laboral": "Durante este período asumí responsabilidades en roles como Analista Documentador Jr., Propietario del Producto (Product Owner), Consultor y Analista de sistemas. Me encargué de levantamiento y documentación de requerimientos, diseño de prototipos, elaboración de diagramas entidad-relación y casos de prueba, además de ejecutar pruebas y dar soporte a ambientes de desarrollo. Trabajé con herramientas de bases de datos y generación de reportes, apoyando la continuidad operativa y la entrega de artefactos que facilitaron la toma de decisiones y la operación de los sistemas.",
+    "estudios": {
+        "carrera": "Ingeniería en Tecnologías de la Información y Comunicación",
+        "lugar": "UNIVERSIDAD TECNOLÓGICA DE TECÁMAC, México, Estado de México",
+        "periodo": "septiembre 2009 – abril 2013"
+    },
+    "herramientas": [
+        {
+        "nombre": "yEd Graph Editor"
+        },
+        {
+        "nombre": "Bizagi"
+        },
+        {
+        "nombre": "Pencil"
+        },
+        {
+        "nombre": "Visio"
+        },
+        {
+        "nombre": "StarUML"
+        },
+        {
+        "nombre": "Justinmind"
+        },
+        {
+        "nombre": "Balsamiq"
+        },
+        {
+        "nombre": "SQL Server 2008 R2"
+        },
+        {
+        "nombre": "SQL Server Reporting Services 2008"
+        },
+        {
+        "nombre": "Oracle SQL Developer"
+        },
+        {
+        "nombre": "Windows Azure Pack"
+        },
+        {
+        "nombre": "Jira"
+        },
+        {
+        "nombre": "Microsoft Project 2019"
+        }
+    ],
+    "certificaciones": [],
+    "cursos": [
+        {
+        "nombre": "UX: Máster en Diseño web y Experiencia de Usuario"
+        },
+        {
+        "nombre": "Domina SCRUM con JIRA Agile – Metodologías Ágiles"
+        },
+        {
+        "nombre": "The Complete UML Course: Learn to Design UML Diagrams"
+        }
+    ]
+    },
+    {
+        "nombre": "Brenda Josselinne Lugo Torres",
+        "mail": "",
+        "genero": "",
+        "fecha_nacimiento": "",
+        "rfc": "",
+        "curp": "",
+        "no_cedula": "10825603",
+        "fecha_cedula": "03/05/2018",
+        "rol_propuesto": "Analista Junior",
+        "resumen_profesional": "Dispongo de al menos 1 año de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y soluciones de Inteligencia de Negocio. Como analista de negocio, me encargo de descubrir, sintetizar y analizar información proveniente de herramientas, procesos, documentación y Partes interesadas (stakeholders).\n\nHe trabajado en proyectos de modelado y mejora de procesos, definición de reglas de negocio y documentación de entregables funcionales y técnicos, contribuyendo a la continuidad operativa y la generación de entregables para toma de decisiones. Me especializo en identificar dependencias, redactar especificaciones funcionales y colaborar con Partes interesadas (stakeholders) para validar soluciones que reduzcan riesgos y mejoren la operación.\n\nAplico técnicas de recopilación y representación de requerimientos y facilito la comunicación entre negocio y equipos implementadores para asegurar la correcta implementación de soluciones.",
+        "experiencia_laboral": [
+        {
+            "empresa": "Softtek CDMX",
+            "puesto": "Excelencia Operativa AMS L3",
+            "fecha_inicio": "1 septiembre 2022",
+            "fecha_fin": "A la fecha",
+            "actividades_principales": [
+            "Recojo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: recopilación de información, análisis e interpretación de datos, identificación de patrones y oportunidades de mejora, generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.",
+            "Entiendo las necesidades reales mediante el uso de un conjunto de técnicas de análisis.",
+            "Involucro a las Partes interesadas (stakeholders) para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de forma completa, clara y consistente.",
+            "Genero las especificaciones de requerimientos no funcionales, describiendo cualidades y restricciones para su implementación.",
+            "Identifico patrones funcionales para diseñar soluciones que faciliten la ejecución de procesos de negocio.",
+            "Diseño la solución funcional que satisface los requerimientos y la estrategia de implementación para generar valor al negocio.",
+            "Aseguro que la solución sea aprobada por las Partes interesadas (stakeholders) y que su implementación se ejecute sin percances.",
+            "Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.",
+            "Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.",
+            "Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.",
+            "He usado la certificación Agile Business Analysis: Getting / Writing Lean Requirements para aplicar fundamentos de metodologías ágiles para la gestión de proyectos.",
+            "He usado la certificación BPMN for business analysts para modelado de procesos (BPMN).",            
+            "He usado el curso Business Analysis Fundamentals – ECBA, CCBA, CBAP endorsed para reforzar fundamentos del análisis de negocio.",
+            "He aplicado el curso Business Analysis Modeling Skills & Techniques para técnicas de modelado en análisis de negocio.",
+            "He implementado el curso Business Analysis: Working with Use Cases para documentar requerimientos mediante casos de uso.",
+            "He usado el curso Mastering Data Modeling Fundamentals para prácticas básicas de modelado de datos.",
+            "He aplicado el curso BPMN 2.0 with Brian: From Beginner to Winner para modelado de procesos con BPMN.",
+            "He usado el curso The Practical BPMN 2.0 Master Class para fortalecer mis habilidades de modelado BPMN.",
+            "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+            "REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.",
+            "SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.",
+            "ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.",
+            "DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.",
+            "CIS: Proveo entradas al proceso y valido la precisión de los entregables.",
+            "Interfaz Gráfica de Usuario (GUI): Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.",
+            "INT: Proveo las entradas necesarias para la integración de sistemas.",
+            "STD: Participo en las actividades de diseño de pruebas de sistema.",
+            "STE: Participo en la ejecución de las pruebas de sistema.",
+            "DOC: Proveo entradas y valido la precisión de los entregables de documentación.",
+            "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.",
+            "Identifico y mapeo los procesos de negocio clave para las aplicaciones dentro del alcance.",
+            "Identifico componentes dentro de los problemas reportados.",
+            "Identifico especificaciones funcionales a partir de historias de usuario o requerimientos técnicos proporcionados para la construcción de soluciones.",
+            "Documento artefactos propios del análisis y diseño de soluciones.",
+            "Documento artefactos para la liberación de componentes.",
+            "Realizo sesiones de entendimiento de negocio con el cliente para abordar los procesos por sprint.",
+            "Analizo código identificado como regla de negocio por el área de desarrollo.",
+            "Analizo, identifico y redacto reglas de negocio en lenguaje funcional.",
+            "Identifico y redacto términos comerciales primarios y secundarios.",
+            "Clasifico las reglas de negocio en función de sus características.",
+            "Identifico dependencias entre reglas de negocio.",
+            "Realizo sesiones de aprobación con el cliente sobre las reglas de negocio y hallazgos identificados.",
+            "Genero entregables mensuales.",
+            "Genero archivos de carga para Power BI Viewer.",
+            "Identifico oportunidades y mejoras en la forma de ejecución."
+            ]
+        },
+        {
+            "empresa": "Softtek CDMX",
+            "puesto": "Blueprint de Datos Coppel",
+            "fecha_inicio": "1 agosto 2021",
+            "fecha_fin": "31 julio 2022",
+            "actividades_principales": [
+            "Realizo sesiones de entendimiento de negocio con el cliente para abordar los procesos por sprint.",
+            "Analizo código identificado como regla de negocio por el área de desarrollo.",
+            "Analizo, identifico y redacto reglas de negocio en lenguaje funcional.",
+            "Identifico y redacto términos comerciales primarios y secundarios.",
+            "Clasifico las reglas de negocio en función de sus características.",
+            "Identifico dependencias entre reglas de negocio.",
+            "Realizo sesiones de aprobación con el cliente sobre las reglas de negocio y hallazgos identificados.",
+            "Genero entregables mensuales.",
+            "Genero archivos de carga para Power BI Viewer.",
+            "Identifico oportunidades y mejoras en la forma de ejecución."
+            ]
+        }
+        ],
+        "periodo_resumen_laboral": "La experiencia abarca desde 1 septiembre 2017 hasta 31 julio 2019",
+        "resumen_laboral": "Durante este período asumí responsabilidades vinculadas al análisis y seguimiento operativo, desempeñando roles como Arquitectura de Procesos y Seguimiento de Incidencias. En primera persona, coordiné actividades de levantamiento y documentación de requerimientos, participé en sesiones de apertura y cierre con clientes, y apoyé en la generación de entregables y casos de uso. Adicionalmente, contribuyo al control de calidad de la documentación y al seguimiento de incidencias para asegurar la continuidad del servicio.",
+        "estudios": {
+        "carrera": "Ingeniería en Sistemas Computacionales",
+        "lugar": "TESCIE Estado de México",
+        "periodo": "1 agosto 2012 - 28 febrero 2017"
+        },
+        "herramientas": [
+        {
+            "nombre": "SonarQube"
+        },
+        {
+            "nombre": "InvGate"
+        },
+        {
+            "nombre": "AMS Model"
+        },
+        {
+            "nombre": "Microsoft SharePoint"
+        },
+        {
+            "nombre": "MS Visual Basic .NET"
+        },
+        {
+            "nombre": "PostgreSQL"
+        },
+        {
+            "nombre": "Microsoft Power BI"
+        },
+        {
+            "nombre": "MS Excel"
+        },
+        {
+            "nombre": "Tortoise SVN"
+        },
+        {
+            "nombre": "Kanban"
+        },
+        {
+            "nombre": "Business Process Model & Notation (BPMN)"
+        },
+        {
+            "nombre": "ARIS Elements"
+        },
+        {
+            "nombre": "Scrum"
+        },
+        {
+            "nombre": "JIRA"
+        }
+        ],
+        "certificaciones": [],
+        "cursos": [
+        {
+            "nombre": "Agile Business Analysis: Getting / Writing Lean Requirements"
+        },
+        {
+            "nombre": "BPMN for business analysts"
+        },
+        {
+            "nombre": "Business Analysis Fundamentals – ECBA, CCBA, CBAP endorsed"
+        },
+        {
+            "nombre": "Business Analysis Modeling Skills & Techniques"
+        },
+        {
+            "nombre": "Business Analysis: Working with Use Cases"
+        },
+        {
+            "nombre": "Mastering Data Modeling Fundamentals"
+        },
+        {
+            "nombre": "BPMN 2.0 with Brian: From Beginner to Winner"
+        },
+        {
+            "nombre": "The Practical BPMN 2.0 Master Class"
+        }
+        ]
+    },
+    {
+    "nombre": "Diana Trigos Naval",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "",
+    "fecha_cedula": "",
+    "rol_propuesto": "Analista Junior",
+    "resumen_profesional": "Dispongo de al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y soluciones de Inteligencia de Negocio. Como analista de negocio, me encargo de descubrir, sintetizar y analizar información proveniente de herramientas, procesos, documentación y Partes interesadas.\n\nTengo formación práctica en análisis y documentación funcional con trayectoria en proyectos de migración, modelado de datos y diseño de procesos. Aporto continuidad operativa y mejora de procesos mediante levantamiento de requerimientos, elaboración de artefactos (diagramas, casos de uso, diccionarios de datos) y coordinación con desarrolladores y testers para asegurar entregables consistentes y trazables.",
+    "experiencia_laboral": [
+        {
+        "empresa": "Softtek ­ Santander",
+        "puesto": "Business Analyst ­ Proficient",
+        "fecha_inicio": "2 septiembre, 2025",
+        "fecha_fin": "31 octubre, 2025",
+        "actividades_principales": [
+            "Recolecto, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora., Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.",
+            "Entiendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.",
+            "Involucro a los stakeholders para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.",
+            "Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.",
+            "Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a los stakeholders ejecutar sus procesos de negocio con eficacia y facilidad.",
+            "Diseño la solución funcional que satisface los requerimientos de los stakeholders, junto con la estrategia de implementación necesaria para generar valor al negocio.",
+            "Aseguro que la solución sea aprobada conscientemente por los stakeholders, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.",
+            "Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.",
+            "Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.",
+            "Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.",
+            "He usado la certificación Advanced Object Oriented Analysis of Hard Problems using UML para aplicar técnicas de modelado de sistemas con UML.",
+            "He aplicado la certificación Agile Business Analysis: Getting / Writing Lean Requirements para aplicar documentación ágil y Lean de requerimientos.",
+            "He puesto en práctica la certificación BPMN for business analysts para trabajar con modelado de procesos (BPMN).",
+            "He usado la certificación Business Analysis Fundamentals para asimilar fundamentos del análisis de negocio alineados a buenas prácticas profesionales.",
+            "He aplicado la certificación Business Analysis Modeling Skills & Techniques para aplicar técnicas de modelado para análisis de negocio.",
+            "He usado la certificación Business Analysis: Working with Use Cases para estructurar y documentar requisitos mediante casos de uso.",
+            "He aprovechado la certificación Identify & Define the Problem with Business Analysis para identificar y definir problemas de negocio de forma estructurada.",
+            "He usado la certificación UML para Analistas de Negocios para diseñar diagramas Lenguaje Unificado de Modelado (UML).",
+            "He aplicado la certificación Mastering Data Modeling Fundamentals para comprender y practicar fundamentos de modelado de datos.",
+            "He usado la certificación BPMN 2.0 with Brian: From Beginner to Winner para reforzar el modelado de procesos de negocio con BPMN.",
+            "He aplicado la certificación The Practical BPMN 2.0 Master Class para profundizar en el modelado práctico de procesos con BPMN.",
+            "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek: Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+            "REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.",
+            "SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.",
+            "ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.",
+            "DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.",
+            "CIS: Proveo entradas al proceso y valido la precisión de los entregables.",
+            "GUI: Proveo entradas y valido la precisión del diseño de la Interfaz Gráfica de Usuario (GUI).",
+            "INT: Proveo las entradas necesarias para la integración de sistemas.",
+            "STD: Participo en las actividades de diseño de pruebas de sistema.",
+            "STE: Participo en la ejecución de las pruebas de sistema.",
+            "DOC: Proveo entradas y valido la precisión de los entregables de documentación.",
+            "UAT: Apoyo en las actividades de Pruebas de Aceptación de Usuario (UAT) según lo solicitado durante las pruebas de aceptación.",
+            "Realicé mapeo de datos, diagrama de contexto, diagramas de flujo y casos de uso.",
+            "Se crearon mapeos de datos, diagramas de contexto, diagramas de flujo y casos de uso.",
+            "Realicé mapeo y diagrama de procesos, concentrado y preparación de documentación para realizar prompts y obtener diagramas en la IA (Copilot).",
+            "Mapeo de datos y diagramas de procesos, así como la recopilación y preparación de documentación para crear prompts y obtener diagramas mediante IA (Copilot).",
+            "Administración de Backlog, Administración de Control de Producción, Administración de recursos, Análisis de proceso para un nuevo sistema, comprensión del proceso, identificación y definición de problemas en un nuevo sistema, gestión de partes interesadas, historial de usuario de cada proceso, diagrama de estado, diccionario de datos, explicación detallada del proceso a programadores y testers, manuales para usuarios, Experiencia de Usuario (UX), Interfaz de Usuario (UI)",
+            "Backlog, gestión de control de producción, gestión de recursos, análisis de procesos, comprensión de procesos, identificación y definición de problemas, historias de usuario para cada proceso, diagrama de estados, diccionario de datos, explicación detallada de procesos para programadores y testers, manuales de usuario, experiencia de usuario (UX) e interfaz de usuario (UI).",
+            "Administración de Control de Producción, Análisis de proceso para un nuevo sistema, comprensión del proceso, identificación y definición de problemas en un nuevo sistema, historias de usuario de cada proceso, diagrama de estado, diccionario de datos, explicación detallada del proceso a programadores y testers, manuales para usuarios.",
+            "Gestión de control de producción, análisis de procesos, comprensión de procesos, identificación y definición de problemas, historias de usuario para cada proceso, diagrama de estados, diccionario de datos, explicación detallada de procesos para programadores y testers, y manuales de usuario.",    
+            "Se realizó Backlog, Diagrama de Proceso, Diagrama de flujo, con la información proporcionada por el BRD entregado del cliente.",
+            "Se analizó, gestionó, diagramó y propuso el posible backlog para la solución del BRD entregado por el cliente para el proyecto."
+        ]
+        },
+        {
+        "empresa": "Softtek ­ IMSS",
+        "puesto": "Business Analyst ­ Proficient",
+        "fecha_inicio": "2 julio, 2025",
+        "fecha_fin": "1 septiembre, 2025",
+        "actividades_principales": [
+            "Realicé mapeo y diagrama de procesos, concentrado y preparación de documentación para realizar prompts y obtener diagramas en la IA (Copilot).",
+            "Mapeo de datos y diagramas de procesos, así como la recopilación y preparación de documentación para crear prompts y obtener diagramas mediante IA (Copilot)."
+        ]
+        },
+        {
+        "empresa": "Softtek ­ Element Corporation",
+        "puesto": "Business Analyst ­ Proficient",
+        "fecha_inicio": "2 bril, 2025",
+        "fecha_fin": "1 julio, 2025",
+        "actividades_principales": [
+            "Administración de Backlog, Administración de Control de Producción, Administración de recursos, Análisis de proceso para un nuevo sistema, comprensión del proceso, identificación y definición de problemas en un nuevo sistema, gestión de partes interesadas, historial de usuario de cada proceso, diagrama de estado, diccionario de datos, explicación detallada del proceso a programadores y testers, manuales para usuarios, Experiencia de Usuario (UX), Interfaz de Usuario (UI)",
+            "Backlog, gestión de control de producción, gestión de recursos, análisis de procesos, comprensión de procesos, identificación y definición de problemas, historias de usuario para cada proceso, diagrama de estados, diccionario de datos, explicación detallada de procesos para programadores y testers, manuales de usuario, experiencia de usuario (UX) e interfaz de usuario (UI)."
+            ]
+        },
+        {
+        "empresa": "Softtek - DHL",
+        "puesto": "Business Analyst Expert",
+        "fecha_inicio": "4 marzo, 2025",
+        "fecha_fin": "1 abril, 2025",
+        "actividades_principales": [
+            "Administración de Control de Producción, Análisis de proceso para un nuevo sistema, comprensión del proceso, identificación y definición de problemas en un nuevo sistema, historias de usuario de cada proceso, diagrama de estado, diccionario de datos, explicación detallada del proceso a programadores y testers, manuales para usuarios.",
+            "Gestión de control de producción, análisis de procesos, comprensión de procesos, identificación y definición de problemas, historias de usuario para cada proceso, diagrama de estados, diccionario de datos, explicación detallada de procesos para programadores y testers, y manuales de usuario."    
+        ]
+        },
+        {
+        "empresa": "Softtek ­ Element Corporation",
+        "puesto": "Business Analyst ­ Proficient",
+        "fecha_inicio": "2 enero, 2025",
+        "fecha_fin": "3 marzo, 2025",
+        "actividades_principales": [
+            "Se realizó Backlog, Diagrama de Proceso, Diagrama de flujo, con la información proporcionada por el BRD entregado del cliente.",
+            "Se analizó, gestionó, diagramó y propuso el posible backlog para la solución del BRD entregado por el cliente para el proyecto."
+        ]
+        }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 mayo de 2007 hasta 01 noviembre de 2024",
+    "resumen_laboral": "Durante este período asumí responsabilidades relacionadas con análisis, documentación y soporte a proyectos. Me desempeñé en roles como Application Developer, Implement Projects, BI Analyst y Functional Leader. Enfocado en modelado de datos, documentación de procesos y acompañamiento a usuarios, participé en implementación de ERP, migraciones y desarrollo de reportes; brindé soporte a equipos de desarrollo y a usuarios finales, así como elaboración de manuales y coordinación de reuniones para validar requisitos.",
+    "estudios": {
+        "carrera": "Licenciatura en Informática Administrativa",
+        "lugar": "Universidad Emilio Cárdenas (UDEC)",
+        "periodo": "2001 - 2004"
+    },
+    "herramientas": [
+        {
+        "nombre": "Drawio"
+        },
+        {
+        "nombre": "MS Excel"
+        },
+        {
+        "nombre": "MS Word"
+        },
+        {
+        "nombre": "JIRA"
+        },
+        {
+        "nombre": "Confluence"
+        },
+        {
+        "nombre": "DBeaver"
+        },
+        {
+        "nombre": "IA Frida"
+        },
+        {
+        "nombre": "Copilot"
+        },
+        {
+        "nombre": "Web Focus"
+        },
+        {
+        "nombre": "Oracle DB"
+        }
+    ],
+    "certificaciones": [],
+    "cursos": [
+        {
+        "nombre": "Advanced Object Oriented Analysis of Hard Problems using UML"
+        },
+        {
+        "nombre": "Agile Business Analysis: Getting / Writing Lean Requirements"
+        },
+        {
+        "nombre": "BPMN for business analysts"
+        },
+        {
+        "nombre": "Business Analysis Fundamentals"
+        },
+        {
+        "nombre": "Business Analysis Modeling Skills & Techniques"
+        },
+        {
+        "nombre": "Business Analysis: Working with Use Cases"
+        },
+        {
+        "nombre": "Identify & Define the Problem with Business Analysis"
+        },
+        {
+        "nombre": "Mastering Data Modeling Fundamentals"
+        },
+        {
+        "nombre": "BPMN 2.0 with Brian: From Beginner to Winner"
+        },
+        {
+        "nombre": "The Practical BPMN 2.0 Master Class"
+        },
+        {
+        "nombre": "UML para Analistas de Negocios"
+        }
+    ]
+    },
+    {
+        "nombre": "Jessica Irene Ramos Ramírez",
+        "mail": "",
+        "genero": "",
+        "fecha_nacimiento": "",
+        "rfc": "",
+        "curp": "",
+        "no_cedula": "12522238",
+        "fecha_cedula": "10/11/2021",
+        "rol_propuesto": "Analista Junior",
+        "resumen_profesional": "Dispongo de al menos 1 año de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, me ocupo de descubrir, sintetizar y analizar información procedente de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas.\n\nHe trabajado en la identificación y formalización de requerimientos, diseño de pantallas y creación de historias de usuario, así como en la evaluación y seguimiento de cuestionarios y controles de seguridad. Aporto continuidad en el servicio mediante documentación clara, validación con Partes interesadas y soporte a equipos de implementación, buscando siempre mejorar procesos y reducir riesgos operativos.",
+        "experiencia_laboral": [
+            {
+                "empresa": "Softtek - CITI Banamex CDMX",
+                "puesto": "Analista de Seguridad",
+                "fecha_inicio": "1 septiembre 2022",
+                "fecha_fin": "31 enero 2026",
+                "actividades_principales": [
+                    "Recojo, analizo y represento los requerimientos solicitados. Registro la propuesta de solución en los entregables pertinentes. Habilidades en: Recopilación de información, análisis e interpretación de datos, identificación de patrones y oportunidades de mejora, generación de documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.",
+                    "Entiendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.",
+                    "Involucro a los Partes interesadas para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.",
+                    "Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.",
+                    "Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a las Partes interesadas ejecutar sus procesos de negocio con eficacia y facilidad.",
+                    "Diseño la solución funcional que satisface los requerimientos de las Partes interesadas, junto con la estrategia de implementación necesaria para generar valor al negocio.",
+                    "Aseguro que la solución sea aprobada conscientemente por las Partes interesadas, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.",
+                    "Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.",
+                    "Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.",
+                    "Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.",
+                    "He usado la certificación The Complete UML Course: Learn to Design UML Diagrams como curso de modelado de sistemas con Lenguaje Unificado de Modelado (UML).",
+                    "He aplicado la certificación Domina SCRUM con JIRA Agile – Metodologías Ágiles como curso de Scrum aplicado con JIRA.",
+                    "He usado la certificación UX: Máster en Diseño web y Experiencia de Usuario como curso de diseño UX y experiencia de usuario.",
+                    "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+                    "REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.",
+                    "SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.",
+                    "ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.",
+                    "DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.",
+                    "CIS: Proveo entradas al proceso y valido la precisión de los entregables.",
+                    "GUI: Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.",
+                    "INT: Proveo las entradas necesarias para la integración de sistemas.",
+                    "STD: Participo en las actividades de diseño de pruebas de sistema.",
+                    "STE: Participo en la ejecución de las pruebas de sistema.",
+                    "DOC: Proveo entradas y valido la precisión de los entregables de documentación.",
+                    "UAT: Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.",
+                    "Tomo sesiones para ISR (Information Security Review) de los diferentes proyectos.",
+                    "Reviso plataformas (RRP, Jira (Herramienta de gestión ágil y seguimiento de issues/sprints), Confluence (Documentación colaborativa y base de conocimiento), PTS).",
+                    "Asigno preguntas para generar el cuestionario de evaluación de seguridad de cada proyecto.",
+                    "Reviso cuestionarios contestados por el App Manager del CSI.",
+                    "Reviso artefactos en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) (Épicas, US, Small Enhancement).",
+                    "Reviso y doy seguimiento a correos.",
+                    "Reviso estándares y políticas de CITI de acuerdo a la necesidad del proyecto.",
+                    "Evalúo cuestionarios Time Trigger.",
+                    "Evalúo cuestionarios SDM.",
+                    "Evalúo de CART.",
+                    "Evalúo cuestionario ICQ.",
+                    "Reviso cuestionario CCMq para evaluación de terceros.",
+                    "Evalúo Self-Assessment.",
+                    "Realizo análisis de seguridad para diferentes escenarios.",
+                    "Reviso controles compensatorios.",
+                    "Hago seguimiento a Indicadores de Riesgo.",
+                    "Registro y doy seguimiento de status - proyectos para las liberaciones a producción.",
+                    "Analizo el requerimiento del usuario.",
+                    "Identifico y analizo riesgos potenciales para la toma de acciones preventivas.",
+                    "Realizo el diseño de pantallas mediante la creación de maquetas.",
+                    "Creo Historias de Usuario para establecer y formalizar los requerimientos del usuario.",
+                    "Participo en sesiones para presentar las Historias de Usuario generadas.",
+                    "Valido y actualizo tanto las Historias de Usuario como las maquetas de acuerdo con las observaciones del cliente.",
+                    "Presento al equipo de desarrollo las Historias de Usuario validadas por el Propietario del Producto (Product Owner).",
+                    "Brindo soporte a equipos de desarrollo.",
+                    "Realizo sesiones de aclaración de dudas para Historias de Usuario y defectos.",
+                    "Apoyo en análisis de defectos.",
+                    "Apoyo al equipo de desarrollo para pruebas funcionales."
+                ]
+            },
+            {
+                "empresa": "Softtek - Citi Banamex Ciudad de México",
+                "puesto": "Analista de Negocio",
+                "fecha_inicio": "1 noviembre 2021",
+                "fecha_fin": "31 agosto 2022",
+                "actividades_principales": [
+                    "Analizo el requerimiento del usuario.",
+                    "Identifico y analizo riesgos potenciales para la toma de acciones preventivas.",
+                    "Realizo el diseño de pantallas mediante la creación de maquetas.",
+                    "Creo Historias de Usuario para establecer y formalizar los requerimientos del usuario.",
+                    "Participo en sesiones para presentar las Historias de Usuario generadas.",
+                    "Valido y actualizo tanto las Historias de Usuario como las maquetas de acuerdo con las observaciones del cliente.",
+                    "Presento al equipo de desarrollo las Historias de Usuario validadas por el Propietario del Producto (Product Owner).",
+                    "Brindo soporte a equipos de desarrollo.",
+                    "Realizo sesiones de aclaración de dudas para Historias de Usuario y defectos.",
+                    "Apoyo en análisis de defectos.",
+                    "Apoyo al equipo de desarrollo para pruebas funcionales."
+                ]
+            },
+            {
+                "empresa": "AppWhere Banco ACCENDO Ciudad de México",
+                "puesto": "Analista de Negocio",
+                "fecha_inicio": "1 julio 2021",
+                "fecha_fin": "30 septiembre 2021",
+                "actividades_principales": [
+                    "Reviso manuales de usuario para familiarizarme con la plataforma.",
+                    "Analizo los diferentes módulos del sistema.",
+                    "Creo el documento de requerimiento con las funcionalidades de la banca actual y la propuesta de mejora.",
+                    "Realizo los diagramas Lenguaje Unificado de Modelado (UML)."
+                ]
+            }
+        ],
+        "periodo_resumen_laboral": "La experiencia abarca desde 01 septiembre de 2017 hasta 30 junio de 2021",
+        "resumen_laboral": "Durante este período me desempeñé en roles como Analista Funcional y Analista Documental, asumiendo responsabilidades de levantamiento y formalización de requerimientos, elaboración de documentación técnica y funcional, y creación de diagramas y prototipos. Trabajé en la validación de entregables con usuarios y en el soporte a equipos de desarrollo y pruebas, manteniendo la coherencia de la información y control de cambios para garantizar continuidad operacional y calidad en las entregas.",
+        "estudios": {
+            "carrera": "Licenciatura en Ciencias de la Informática",
+            "lugar": "IPN, UPII SAC Ciudad de México",
+            "periodo": "1 agosto 2013 - 31 julio 2017"
+        },
+        "herramientas": [
+            {
+                "nombre": "JIRA"
+            },
+            {
+                "nombre": "Confluence"
+            },
+            {
+                "nombre": "MS Visio"
+            },
+            {
+                "nombre": "Lenguaje Unificado de Modelado (UML)"
+            },
+            {
+                "nombre": "Microsoft Office"
+            },
+            {
+                "nombre": "Lucidchart"
+            },
+            {
+                "nombre": "Modelización de Datos"
+            }
+        ],
+        "certificaciones": [],
+        "cursos": [
+            {
+                "nombre": "The Complete UML Course: Learn to Design UML Diagrams"
+            },
+            {
+                "nombre": "Domina SCRUM con JIRA Agile – Metodologías Ágiles"
+            },
+            {
+                "nombre": "UX: Máster en Diseño web y Experiencia de Usuario"
+            }
+        ]
+    },
+    {
+    "nombre": "Karla Nayeli Miranda Robledo",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "13648610",
+    "fecha_cedula": "8/18/2023",
+    "rol_propuesto": "Analista Junior",
+    "resumen_profesional": "Dispongo de al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, me responsabilizo de descubrir, sintetizar y analizar información procedente de herramientas, procesos, documentación y Partes interesadas.\n\nHe participado en la recopilación e interpretación de necesidades digitales para la automatización de procesos, elaborando historias de usuario, diagramas y documentación funcional que han soportado mejoras operativas. Trabajo con equipos de desarrollo y áreas de negocio para definir requisitos, gestionar sprints con Jira (Herramienta de gestión ágil y seguimiento de issues/sprints), acompañar pruebas Pruebas de Integración de Sistemas (SIT)/Pruebas de Aceptación de Usuario (UAT) y asegurar liberaciones a producción, contribuyendo a la continuidad del servicio y control del alcance.",
+    "experiencia_laboral": [
+        {
+        "empresa": "SCIT IN REAL TIME CDMX",
+        "puesto": "Business Analyst - Senior",
+        "fecha_inicio": "2 octubre 2023",
+        "fecha_fin": "31 marzo 2024",
+        "actividades_principales": [
+            "Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora, Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.",
+            "Entiendo las verdaderas necesidades usando un conjunto de técnicas de análisis.",
+            "Involucro a las Partes interesadas para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta y libre de ambigüedad.",
+            "Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.",
+            "Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a las Partes interesadas ejecutar sus procesos con mayor eficacia.",
+            "Diseño la solución funcional que satisface los requerimientos de las Partes interesadas, junto con la estrategia de implementación necesaria para generar valor al negocio.",
+            "Aseguro que la solución sea aprobada conscientemente por las Partes interesadas, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.",
+            "Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.",
+            "Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.",
+            "Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.",
+            "He usado la certificación Domina SCRUM con JIRA Agile – Metodologías Ágiles que me ha permitido aplicar Scrum con Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+            "He usado la certificación The Complete UML Course: Learn to Design UML Diagrams que me ha permitido diseñar diagramas Lenguaje Unificado de Modelado (UML) para modelado de sistemas.",
+            "He usado la certificación UX: Máster en Diseño web y Experiencia de Usuario que me ha permitido diseñar experiencias web centradas en el usuario.",
+            "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+            "REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.",
+            "SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.",
+            "ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.",
+            "DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.",
+            "CIS: Proveo entradas al proceso y valido la precisión de los entregables.",
+            "GUI: Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.",
+            "INT: Proveo las entradas necesarias para la integración de sistemas.",
+            "STD: Participo en las actividades de diseño de pruebas de sistema.",
+            "STE: Participo en la ejecución de las pruebas de sistema.",
+            "DOC: Proveo entradas y valido la precisión de los entregables de documentación.",
+            "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.",
+            "Elaboro historias de usuario funcionales y técnicas.",
+            "Elaboro diagramas para visualización de los procesos implementados.",
+            "Elaboro manuales de los procesos implementados.",
+            "Creo épicas, tareas para actividades y doy seguimiento de Sprints en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints). Hago seguimiento a pruebas Pruebas de Integración de Sistemas (SIT), Pruebas de Aceptación de Usuario (UAT) y liberación a Producción.",
+            "Soporto errores de tercer nivel a las aplicaciones de seguros AXA.",
+            "Elaboro el análisis de requerimientos y participo en el desarrollo de soluciones y mejoras al sistema de seguros AXA.",
+            "Participo en pruebas de desarrollo, seguimiento de pruebas de integración (Pruebas de Integración de Sistemas (SIT)) y pruebas de aceptación con negocio (Pruebas de Aceptación de Usuario (UAT)).",
+            "Defino requisitos en conjunto con el área de negocio estableciendo la mejor solución y su correcta implementación.",
+            "Defino las historias de usuario.",
+            "Uso Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) para la planeación de actividades y seguimiento a través de sprints; genero reportes y artículos de conocimiento a través de la herramienta SILVA.",
+            "Elaboro manuales de nuevos procesos implementados; realizo CRUD en Oracle Database (Motor de base de datos empresarial) y SQL Server (Motor de base de datos para consultas y validaciones).",
+            "Uso control de versiones TFS (Azure DevOps Server) (Gestión de work items, repos y pipelines; soporte a pruebas) y Git (Control de versiones distribuido); trabajo con Java (Lenguaje de programación para desarrollo de aplicaciones) Enterprise y Progress v8, v9 y v11.",
+            "Utilizo comandos en Linux/Unix (Sistemas operativos para administración y automatización) para la generación de control-m."
+        
+        ]
+        },
+        {
+        "empresa": "Capgemini Mexico",
+        "puesto": "Business Analyst - Senior",
+        "fecha_inicio": "1 diciembre 2016",
+        "fecha_fin": "30 junio 2023",
+        "actividades_principales": [
+            "Soporto errores de tercer nivel a las aplicaciones de seguros AXA.",
+            "Elaboro el análisis de requerimientos y participo en el desarrollo de soluciones y mejoras al sistema de seguros AXA.",
+            "Participo en pruebas de desarrollo, seguimiento de pruebas de integración (Pruebas de Integración de Sistemas (SIT)) y pruebas de aceptación con negocio (Pruebas de Aceptación de Usuario (UAT)).",
+            "Defino requisitos en conjunto con el área de negocio estableciendo la mejor solución y su correcta implementación.",
+            "Defino las historias de usuario.",
+            "Uso Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) para la planeación de actividades y seguimiento a través de sprints; genero reportes y artículos de conocimiento a través de la herramienta SILVA.",
+            "Elaboro manuales de nuevos procesos implementados; realizo CRUD en Oracle Database (Motor de base de datos empresarial) y SQL Server (Motor de base de datos para consultas y validaciones).",
+            "Uso control de versiones TFS (Azure DevOps Server) (Gestión de work items, repos y pipelines; soporte a pruebas) y Git (Control de versiones distribuido); trabajo con Java (Lenguaje de programación para desarrollo de aplicaciones) Enterprise y Progress v8, v9 y v11.",
+            "Utilizo comandos en Linux/Unix (Sistemas operativos para administración y automatización) para la generación de control-m."
+        ]
+        }
+    ],
+    "periodo_resumen_laboral": "",
+    "resumen_laboral": "",
+    "estudios": {
+    "carrera": "Licenciatura en Sistemas Computacionales",
+    "lugar": "Universidad Mexicana CDMX",
+    "periodo": "septiembre 2011 - diciembre 2014"
+    },
+    "herramientas": [
+        {
+        "nombre": "JIRA"
+        },
+        {
+        "nombre": "SILVA"
+        },
+        {
+        "nombre": "Ofimática"
+        },
+        {
+        "nombre": "NotePad++"
+        },
+        {
+        "nombre": "GitHub"
+        },
+        {
+        "nombre": "TFS"
+        },
+        {
+        "nombre": "Visio"
+        },
+        {
+        "nombre": "Ludichart"
+        },
+        {
+        "nombre": "Macro en Excel"
+        }
+    ],
+    "certificaciones": [],
+    "cursos": [
+        {
+        "nombre": "Domina SCRUM con JIRA Agile – Metodologías Ágiles"
+        },
+        {
+        "nombre": "The Complete UML Course: Learn to Design UML Diagrams"
+        },
+        {
+        "nombre": "UX: Máster en Diseño web y Experiencia de Usuario"
+        }
+    ]
+    },
+    {
+      "nombre": "Cynthia Maricela Flores Villaseñor",
+      "mail": "",
+      "genero": "",
+      "fecha_nacimiento": "",
+      "rfc": "",
+      "curp": "",
+      "no_cedula": "8174002",
+      "fecha_cedula": "20/04/2013",
+      "rol_propuesto": "Analista Junior",
+      "resumen_profesional": "Dispongo de al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, soy responsable de descubrir, sintetizar y analizar información proveniente de diversas fuentes, incluyendo herramientas, procesos, documentación y partes interesadas.\n\nSoy ingeniero en sistemas con experiencia en administración de proyectos y análisis funcional; he trabajado en entornos tanto de sector público como privado aplicando metodologías ágiles y prácticas para optimizar procesos. Me enfoco en entregar documentación técnica y funcional de calidad, mantener continuidad de servicio y colaborar con equipos para garantizar la implementación de soluciones alineadas a las necesidades del negocio.",
+      "experiencia_laboral": [
+        {
+          "empresa": "Element",
+          "puesto": "Business Analyst Senior",
+          "fecha_inicio": "1 noviembre 2022",
+          "fecha_fin": "Actualmente",
+          "actividades_principales": [
+            "Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Competencias en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora, Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.",
+            "Entiendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.",
+            "Involucro a las partes interesadas para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.",
+            "Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.",
+            "Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a las partes interesadas ejecutar sus procesos de negocio con eficacia y facilidad.",
+            "Diseño la solución funcional que satisface los requerimientos de las partes interesadas, junto con la estrategia de implementación necesaria para generar valor al negocio.",
+            "Aseguro que la solución sea aprobada conscientemente por las partes interesadas, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.",
+            "Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.",
+            "Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.",
+            "Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.",
+            "He usado la certificación Experiencia de Usuario (UX): Máster en Diseño web y Experiencia de Usuario como curso de diseño UX y experiencia de usuario.",
+            "He aplicado la certificación Domina SCRUM con JIRA (Herramienta de gestión ágil y seguimiento de issues/sprints) Agile - Metodologías Ágiles como curso de Scrum aplicado con JIRA (Herramienta de gestión ágil y seguimiento de issues/sprints) para la gestión ágil y seguimiento de sprints.",
+            "He usado la certificación The Complete Lenguaje Unificado de Modelado (UML) Course: Learn to Design UML Diagrams como curso de modelado de sistemas con UML.",
+            "He aplicado el curso Metodologías Ágiles como formación en principios y prácticas ágiles para la planificación, gestión y seguimiento de proyectos, utilizando enfoques iterativos e incrementales para mejorar la entrega de valor y la colaboración en equipos de trabajo.",
+            "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+            "REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.",
+            "SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.",
+            "ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.",
+            "DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.",
+            "CIS: Proveo entradas al proceso y valido la precisión de los entregables.",
+            "GUI: Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.",
+            "INT: Proveo las entradas necesarias para la integración de sistemas.",
+            "STD: Participo en las actividades de diseño de pruebas de sistema.",
+            "STE: Participo en la ejecución de las pruebas de sistema.",
+            "DOC: Proveo entradas y valido la precisión de los entregables de documentación.",
+            "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.",
+            "Defino requerimientos.",
+            "Realizo análisis del negocio.",
+            "Apoyo en la definición y priorización del backlog y genero refinamientos.",
+            "Genero documentación de análisis (Historias de Usuario, Diseño funcional, Manual de usuario, Modelos de Dominio).",
+            "Realizo descubrimiento y análisis de requerimientos, y genero estimaciones.",
+            "Atiendo el análisis de múltiples requerimientos con dependencias funcionales o técnicas entre ellos.",
+            "Documento el análisis y lo presento al cliente.",
+            "Analizo impactos y afectaciones en los requerimientos.",
+            "Genero estimaciones para la fase de análisis y para los controles de cambio."
+        ]
+        },
+        {
+          "empresa": "Softtek Cliente COPPEL",
+          "puesto": "Analista",
+          "fecha_inicio": "2 noviembre 2020",
+          "fecha_fin": "31 octubre 2022",
+          "actividades_principales": [
+            "Realizo descubrimiento y análisis de requerimientos, y genero estimaciones.",
+            "Atiendo el análisis de múltiples requerimientos con dependencias funcionales o técnicas entre ellos.",
+            "Documento el análisis y lo presento al cliente.",
+            "Analizo impactos y afectaciones en los requerimientos.",
+            "Genero estimaciones para la fase de análisis y para los controles de cambio."
+          ]
+        }
+      ],
+      "periodo_resumen_laboral": "La experiencia abarca desde 01 enero de 2015 hasta 31 octubre de 2020",
+      "resumen_laboral": "Durante este período asumí responsabilidades vinculadas principalmente a roles de Líder de Proyecto, Analista y Analista funcional. Me encargué de la definición y documentación de requerimientos, la planificación y control de entregables, la identificación de riesgos y la comunicación con partes interesadas. Trabajé en la coordinación de equipos, en la evaluación de impactos y en la mejora de procesos para asegurar la continuidad de servicios y la correcta ejecución de proyectos sin depender de nombres de empresas específicas.",
+      "estudios": {
+        "carrera": "Ingeniería en Sistemas Computacionales",
+        "lugar": "TESOEM",
+        "periodo": "septiembre 2004 - agosto 2009"
+      },
+      "herramientas": [
+        { "nombre": "Jira" },
+        { "nombre": "Lenguaje Unificado de Modelado (UML)" },
+        { "nombre": "Experiencia de Usuario (UX)" }
+      ],
+      "certificaciones": [],
+      "cursos": [
+        {
+          "nombre": "UX: Máster en Diseño web y Experiencia de Usuario"
+        },
+        {
+          "nombre": "Metodologías Ágiles"
+        },
+        {
+          "nombre": "Domina SCRUM con JIRA Agile - Metodologías Ágiles"
+        },
+        {
+          "nombre": "The Complete UML Course: Learn to Design UML Diagrams"
+        }
+      ]
+    },
+    {
+    "nombre": "Martha Flor de María Pérez Díaz",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "6430642",
+    "fecha_cedula": "4/20/2010",
+    "rol_propuesto": "Analista Junior",
+    "resumen_profesional": "Dispongo de al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, soy responsable de descubrir, sintetizar y analizar información proveniente de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas (Stakeholders).\n\nHe desarrollado actividades continuas de levantamiento y documentación de requerimientos, diseño funcional y coordinación con equipos de implementación para asegurar continuidad de servicio y control de cambios. Aporto claridad en la especificación de soluciones y apoyo en la ejecución y validación de pruebas.\n\nTrabajo con metodologías ágiles y herramientas de documentación para traducir necesidades del negocio en entregables técnicos que facilitan la implementación y el mantenimiento de soluciones.",
+    "experiencia_laboral": [
+        {
+        "empresa": "Softtek CDMX",
+        "puesto": "Business Analyst - Expert",
+        "fecha_inicio": "1 diciembre 2025",
+        "fecha_fin": "31 enero 2026",
+        "actividades_principales": [
+            "Recolecto, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora., Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.",
+            "Entiendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.",
+            "Involucro a las Partes interesadas (Stakeholders) para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.",
+            "Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.",
+            "Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a las Partes interesadas (Stakeholders) ejecutar sus procesos de negocio con eficacia y facilidad.",
+            "Diseño la solución funcional que satisface los requerimientos de las Partes interesadas (Stakeholders), junto con la estrategia de implementación necesaria para generar valor al negocio.",
+            "Aseguro que la solución sea aprobada conscientemente por las Partes interesadas (Stakeholders), que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.",
+            "Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.",
+            "Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.",
+            "Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.",
+            "He usado la certificación UX: Máster en Diseño web y Experiencia de Usuario como curso de diseño UX y experiencia de usuario.",
+            "He aplicado la certificación Domina SCRUM con JIRA Agile - Metodologías Ágiles como curso de Scrum aplicado con JIRA.",
+            "He usado la certificación The Complete UML Course: Learn to Design UML Diagrams como curso de modelado de sistemas con UML.",
+            "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+            "REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.",
+            "SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.",
+            "ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.",
+            "DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.",
+            "CIS: Proveo entradas al proceso y valido la precisión de los entregables.",
+            "GUI: Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.",
+            "INT: Proveo las entradas necesarias para la integración de sistemas.",
+            "STD: Participo en las actividades de diseño de pruebas de sistema.",
+            "STE: Participo en la ejecución de las pruebas de sistema.",
+            "DOC: Proveo entradas y valido la precisión de los entregables de documentación.",
+            "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.",
+            "Reviso los requisitos y elaboro la documentación del aplicativo DEB/SEF.",
+            "Reviso el aplicativo (reingeniería inversa) para complemento de documentación.",
+            "Coordino en conjunto con el cliente y la IA (ejecución de prompts) la definición de requerimientos; reglas de negocio y entendimiento técnico del aplicativo.",
+            "Revisión de requisitos y documentación de los proyectos para análisis y diseño técnico.",
+            "Coordino en conjunto con el cliente la definición de las necesidades existentes y requerimientos; con conocimiento, contexto general e integral del proyecto.",
+            "Analizo los procesos involucrados en negocios, realizo revisión y seguimiento al levantamiento de requerimientos y documentos generados.",
+            "Elaboro y actualizo documentos, historias de usuario, diseño de la solución, reportes, etc.",
+            "Elaboro documentos técnicos.",
+            "Apoyo al equipo de desarrollo en la elaboración de controles.",
+            "Apoyo en la elaboración de casos de prueba a nivel funcional e integral.",
+            "Planifico, ejecuto y doy seguimiento a pruebas funcionales, integrales y de regresión.",
+            "Hago seguimiento a control de cambios.",
+            "Elaboración de pantallas prototipo."
+        ]
+        },
+        {
+        "empresa": "Softtek CDMX",
+        "puesto": "Business Analyst - Expert",
+        "fecha_inicio": "1 junio 2020",
+        "fecha_fin": "30 noviembre 2025",
+        "actividades_principales": [
+            "Revisión de requisitos y documentación de los proyectos para análisis y diseño técnico.",
+            "Coordino en conjunto con el cliente la definición de las necesidades existentes y requerimientos; con conocimiento, contexto general e integral del proyecto.",
+            "Analizo los procesos involucrados en negocios, realizo revisión y seguimiento al levantamiento de requerimientos y documentos generados.",
+            "Elaboro y actualizo documentos, historias de usuario, diseño de la solución, reportes, etc.",
+            "Elaboro documentos técnicos.",
+            "Apoyo al equipo de desarrollo en la elaboración de controles.",
+            "Apoyo en la elaboración de casos de prueba a nivel funcional e integral.",
+            "Planifico, ejecuto y doy seguimiento a pruebas funcionales, integrales y de regresión.",
+            "Hago seguimiento a control de cambios.",
+            "Elaboración de pantallas prototipo."
+        ]
+        }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 enero de 2008 hasta 30 noviembre de 2018",
+    "resumen_laboral": "Durante este período asumí responsabilidades centradas en la recopilación y documentación de requisitos, diseño funcional y apoyo en pruebas de sistemas. Me desempeñé en roles como Analista de Negocio, Líder Funcional, Analista de Requerimientos, Diseñador de Sistemas, Analista Tester y Supervisor Jr. Realicé actividades de coordinación con usuarios y equipos técnicos, preparación de entregables y control de cambios, manteniendo continuidad operativa y calidad en la entrega sin detallar empresas específicas.",
+    "estudios": {
+        "carrera": "Lic. Informática Administrativa",
+        "lugar": "Universidad Tecnológica de México cdmx",
+        "periodo": "mayo 2005 - agosto 2008"
+    },
+    "herramientas": [
+        {"nombre": "Agile"},
+        {"nombre": "Business Process Mapping"},
+        {"nombre": "Copilot"},
+        {"nombre": "GitHub"},
+        {"nombre": "Confluence"},
+        {"nombre": "MS Teams"},
+        {"nombre": "VMware Horizon"},
+        {"nombre": "Sharepoint"},
+        {"nombre": "draw.io"},
+        {"nombre": "SQL Server"},
+        {"nombre": "Oracle"},
+        {"nombre": "Visio"},
+        {"nombre": "Microsoft Office"},
+        {"nombre": "JIRA"},
+        {"nombre": "VirtualBox"},
+        {"nombre": "Bizagi"},
+        {"nombre": "Eclipse UML"},
+        {"nombre": "JMeter"},
+        {"nombre": "Excel"},
+        {"nombre": "Power Point"}
+    ],
+    "certificaciones": [],
+    "cursos": [
+        {"nombre": "UX: Máster en Diseño web y Experiencia de Usuario"},
+        {"nombre": "Domina SCRUM con JIRA Agile - Metodologías Ágiles"},
+        {"nombre": "The Complete UML Course: Learn to Design UML Diagrams"}
+    ]
+    },
+  {
+  "nombre": "Zuleyma Becerril Orihuela",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "14 julio 1997",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "14128271",
+  "fecha_cedula": "4/24/2024",
+  "rol_propuesto": "Analista Junior",
+  "resumen_profesional": "Dispongo de al menos 1 año de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, me encargo de descubrir, sintetizar y analizar información proveniente de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas.\n\nHe trabajado en la documentación y validación funcional de requerimientos, elaboración de diagramas As-Is/To-Be y diseño de maquetas de pantalla, contribuyendo con la identificación de patrones en incidencias recurrentes para prevenir errores repetitivos y mejorar la comunicación entre negocio y Tecnología de la Información (TI).\n\nApoyo la gestión de backlog y el seguimiento de incidencias, realizo validaciones funcionales en sistemas internos y colaboro con equipos ágiles para entregar especificaciones claras y soluciones prácticas que garanticen la continuidad del servicio y la reducción de fallos repetitivos.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Sofftek",
+      "puesto": "Business Analyst Jr",
+      "fecha_inicio": "24 diciembre 2024",
+      "fecha_fin": "A la fecha",
+      "actividades_principales": [
+        "Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora., Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.",
+        "Comprendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.",
+        "Involucro a las Partes interesadas para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.",
+        "Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.",
+        "Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a las Partes interesadas ejecutar sus procesos de negocio con eficacia y facilidad.",
+        "Diseño la solución funcional que satisface los requerimientos de las Partes interesadas, junto con la estrategia de implementación necesaria para generar valor al negocio.",
+        "Aseguro que la solución sea aprobada conscientemente por las Partes interesadas, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.",
+        "Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.",
+        "Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.",
+        "Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.",
+        "He usado la certificación UX: Máster en Diseño web y Experiencia de Usuario que me ha permitido aplicar conocimientos de diseño UX y experiencia de usuario.",
+        "He aplicado la certificación Domina SCRUM con JIRA Agile - Metodologías Ágiles que me ha permitido aplicar prácticas de Scrum integradas con JIRA.",
+        "He usado la certificación The Complete UML Course: Learn to Design UML Diagrams que me ha permitido diseñar diagramas UML para modelado de sistemas.",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.",
+        "SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.",
+        "ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.",
+        "DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.",
+        "CIS: Proveo entradas al proceso y valido la precisión de los entregables.",
+        "Interfaz Gráfica de Usuario (GUI): Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.",
+        "INT: Proveo las entradas necesarias para la integración de sistemas.",
+        "STD: Participo en las actividades de diseño de pruebas de sistema.",
+        "STE: Participo en la ejecución de las pruebas de sistema.",
+        "DOC: Proveo entradas y valido la precisión de los entregables de documentación.",
+        "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.",
+        "Documento historias de usuario (HU).",
+        "Elaboro diagramas de flujo (As-Is/To-Be).",
+        "Diseño maquetados de pantalla.",
+        "Gestiono y doy seguimiento a incidentes (INC).",
+        "Identifico la causa raíz y detecto incidentes recurrentes.",
+        "Realizo la validación funcional de pólizas y movimientos en sistemas internos (SVI y VT).",
+        "Analizo y documento IAD detallando la situación actual y el comportamiento esperado.",
+        "Administro y doy seguimiento al backlog de incidencias en seguimiento.",
+        "Ejecuto proyectos bajo marcos ágiles.",
+        "Facilito ceremonias de marco de trabajo scrum.",
+        "Gestiono y doy seguimiento a impedimentos.",
+        "Gestiono el backlog en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+        "Documento requerimientos de negocio.",
+        "Elaboro diagramas de flujo y maquetados de pantallas.",
+        "Co-facilito en planeación trimestral.",
+        "Documento procesos y procedimientos de gestión interna.",
+        "Documento manuales de capacitación para nuevos ingresos.",
+        "Elaboro cronogramas de actividades para capacitaciones.",
+        "Apoyo en el proceso de reclutamiento y selección de personal."
+      ]
+    },
+    {
+      "empresa": "Grupo Salinas",
+      "puesto": "Scrum Master y Business analyst",
+      "fecha_inicio": "2 enero 2024",
+      "fecha_fin": "1 diciembre 2024",
+      "actividades_principales": [
+        "Ejecuto proyectos bajo marcos ágiles.",
+        "Facilito ceremonias de marco de trabajo scrum.",
+        "Gestiono y doy seguimiento a impedimentos.",
+        "Gestiono el backlog en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+        "Documento requerimientos de negocio.",
+        "Elaboro diagramas de flujo y maquetados de pantallas.",
+        "Co-facilito en la planeación trimestral."
+      ]
+    },
+    {
+      "empresa": "Hospital Angeles Metropolitano",
+      "puesto": "Residencia profesional",
+      "fecha_inicio": "2 enero 2023",
+      "fecha_fin": "31 diciembre 2023",
+      "actividades_principales": [
+        "Documento procesos y procedimientos de gestión interna.",
+        "Documento manual de capacitación para nuevos ingresos.",
+        "Elaboro cronogramas de actividades para capacitaciones.",
+        "Apoyo en el proceso de reclutamiento y selección de personal."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "",
+  "resumen_laboral": "",
+  "estudios": {
+    "carrera": "Ingeniería en Administración",
+    "lugar": "Instituto Tecnológico de Tláhuac 3",
+    "periodo": "2018 a 2023"
+  },
+  "herramientas": [
+    { "nombre": "Jira" },
+    { "nombre": "Bizagi" },
+    { "nombre": "Figma" },
+    { "nombre": "Confluence" },
+    { "nombre": "Miro" },
+    { "nombre": "Drawio" },
+    { "nombre": "IBM Clear Quest" },
+    { "nombre": "Whimsical" }
+  ],
+  "certificaciones": [],
+  "cursos": [
+    { "nombre": "UX: Máster en Diseño web y Experiencia de Usuario" },
+    { "nombre": "Domina SCRUM con JIRA Agile - Metodologías Ágiles" },
+    { "nombre": "The Complete UML Course: Learn to Design UML Diagrams" }
+  ]
+}
+]

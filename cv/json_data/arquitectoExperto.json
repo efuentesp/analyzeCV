@@ -1,0 +1,1216 @@
+[
+  {
+    "nombre": "Alfredo Moreno Pineda",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "",
+    "fecha_cedula": "",
+    "rol_propuesto": "Arquitecto Experto",
+    "resumen_profesional": "Cuento con más de 3 años de experiencia en centros de desarrollo de software. Además, cuento con más de 5 años de experiencia en análisis de sistemas y manejo de equipos de trabajo. Soy responsable de la definición de la arquitectura de software a implementar, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación, adapto frameworks y estándares y brindo asesoría al equipo técnico en la atención de tareas complejas.\n\nHe liderado iniciativas de arquitectura empresarial, consultoría de negocio, modernización a nube, BPM, racionalización de aplicaciones e integraciones para sectores como gobierno, retail, seguros y financiero. También he coordinado portafolios, entregas y equipos de proyecto, asegurando continuidad operativa, seguimiento de riesgos y cumplimiento de procesos.\n\nMi experiencia también abarca análisis, diseño, desarrollo, migración y soporte de soluciones con enfoque en datos, procesos y operación. He validado la relación entre procesos, capacidades, aplicaciones y componentes para proponer soluciones integradas, identificar dependencias y duplicidades y favorecer decisiones tecnológicas alineadas con el negocio.",
+    "funciones": "Valido que cada componente interactúe de forma sistémica en todas las iteraciones de un proyecto para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades, y propongo soluciones a las necesidades de manera integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, y evaluación y optimización del rendimiento del sistema mediante la selección de las tecnologías más adecuadas.\n\nHe encabezado iniciativas de arquitectura empresarial, consultoría de negocio, modernización a nube, BPM, racionalización de aplicaciones e integraciones para sectores como gobierno, retail, seguros y financiero. También he coordinado portafolios, entregas y equipos de proyecto para asegurar continuidad operativa, seguimiento de riesgos y cumplimiento de procesos. Mi experiencia también comprende análisis, diseño, desarrollo, migración y soporte de soluciones con enfoque en datos, procesos y operación, validando la relación entre procesos, capacidades, aplicaciones y componentes para proponer soluciones integradas, identificar dependencias y duplicidades y favorecer decisiones tecnológicas alineadas con el negocio.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Head of SAT",
+        "fecha_inicio": "4 abril 2016",
+        "fecha_fin": "Actual",
+        "actividades_principales": [
+          "Valido que cada componente interactúe de forma sistémica en todas las iteraciones de un proyecto para asegurar congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades. Propongo soluciones a las necesidades de manera integrada. Tengo habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos y evaluación y optimización del rendimiento del sistema al elegir las tecnologías más adecuadas.",
+          "Defino la arquitectura y la solución técnica con base en la propuesta de negocio y las necesidades del cliente.",
+          "Defino los estándares de codificación y de base de datos.",
+          "Defino los patrones de diseño y funcionales.",
+          "Brindo asesoría a líderes técnicos.",
+          "Defino los subsistemas de soporte.",
+          "Defino la administración de la configuración para la construcción.",
+          "Defino implementaciones de referencia.",
+          "Defino checklist para pruebas de escritorio del diseño generado.",
+          "Valido la integración de macrocomponentes a la arquitectura.",
+          "Recomiendo prioridades para la construcción necesaria en cada iteración.",
+          "Valido la integración sistémica de componentes para asegurar la congruencia con el flujo de negocio y de información.",
+          "Participo en fases de visión, levantamiento de requisitos y definición de arquitectura de negocio, sistemas de información y arquitectura tecnológica.",
+          "Establezco procesos de control y aseguro el cumplimiento de estándares de arquitectura en los proyectos.",
+          "Utilizo herramientas de modelado como ArchiMate, Sparx EA y Visio (Herramienta de diagramación técnica) para documentar arquitecturas.",
+          "Participo en proyectos de migración a la nube, modernización de aplicaciones e integración de sistemas, aplicando Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) como marco de referencia.",
+          "Comunico arquitecturas y roadmaps a directivos, equipos técnicos y usuarios clave.",
+          "Demuestro la alineación de las soluciones tecnológicas propuestas con los objetivos del negocio.",
+          "Integro Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) con metodologías ágiles (Scrum, Marco Ágil Escalable (SAFe)) y tradicionales (Profesional en Gestión de Proyectos (PMP), PRINCE2).",
+          "He participado en proyectos mayores a 20 mil horas, donde soluciono requerimientos no funcionales complejos, identifico y mitigo riesgos técnicos, y aseguro el desempeño correcto del sistema.",
+          "He usado la certificación TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura)) 9 Certified para diseñar, analizar y gestionar arquitecturas empresariales alineadas a los objetivos de negocio y las mejores prácticas",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "ARC: Encabezo las actividades de diseño de la arquitectura y su implementación, generando sus productos entregables.",
+          "SFD: Proveo patrones funcionales y estándares de interfaz de usuario.",
+          "DBI: Proveo estimados de volumen y requerimientos de desempeño.",
+          "CIS: Valido los entregables de la especificación detallada de componentes.",
+          "CTR: Doy seguimiento a los estándares utilizados en el desarrollo de componentes.",
+          "INT: Valido los ambientes de despliegue para la integración del sistema.",
+          "DOC: Proveo entradas para la documentación técnica.",
+          "Me desempeñé como Head of Digital Solutions Architecture Team (SAT) for Mexican Market de marzo 2024 a actualidad.",
+          "Fui responsable de las propuestas de soluciones digitales para el mercado mexicano.",
+          "Me desempeñé como Enterprise Architect & Business Consultant de mayo 2020 a marzo 2024.",
+          "Apliqué el método ADM de Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) para obtener la arquitectura empresarial As-Is (mapa de capacidades, procesos y aplicaciones) de la unidad de negocio de los clientes, contrastando contra los marcos de referencia de industria Gas&Oil, ARTS y COBIT (Marco de gobierno y control de TI (alineación con negocio, medición, riesgos y cumplimiento)), así como APQC.",
+          "Apliqué mejora de procesos de negocio (BPM).",
+          "Generé propuestas de servicios de arquitectura empresarial para diversos clientes de los sectores de gobierno, retail, CPG, seguros y financiero.",
+          "Me desempeñé como Gerente de entrega de proyectos (Delivery Manager) Digital de julio 2019 a mayo 2020.",
+          "Entregué proyectos de modernización a nube, arquitectura empresarial, BPM, racionalización de aplicaciones, resolución de vulnerabilidades e integraciones para Walmart Mex, Walmart CAM, Nissan y NMP.",
+          "Dirigí un esfuerzo de evaluación del proceso de facturación electrónica de Hamilton Beach Brand Inc. utilizando metodología CVA, con el fin de identificar oportunidades de mejora junto con un portafolio de recomendaciones.",
+          "Dirigí un esfuerzo de control de daños para recuperar la operación de facturación electrónica en la sucursal de México.",
+          "Me desempeñé como Acting Gerente de entrega de proyectos (Delivery Manager) de junio 2019 a actualidad.",
+          "Fui Gerente de entrega de proyectos (Delivery Manager) de la práctica del COE DAF.",
+          "Elaboré propuestas para proyectos de tecnología y arquitectura empresarial.",
+          "Gestioné el cierre de servicio 2019 del proyecto de arquitectura empresarial en Walmart.",
+          "Me desempeñé como Director del Servicio de Proyectos BPM para Banorte de enero 2019 a mayo 2019.",
+          "Fui responsable de la entrega del servicio para la atención de proyectos de desarrollo con BPM de IBM para el área de Tecnología de la Información (TI) de Desarrollo de Proyectos de Captación.",
+          "Gestioné 4 células ágiles para la atención de proyectos.",
+          "Me desempeñé como Líder de los Líderes de Ejecución en Banorte de noviembre 2018 a enero 2019.",
+          "Entrevisté a los candidatos al rol de Líder de Ejecución.",
+          "Capacité, dirigí, guié y administré a ocho Líderes de Ejecución.",
+          "Establecí puntos de control y revisión para asegurar la salud de los proyectos que cada Líder de Ejecución tenía a su cargo, así como garantizar el cumplimiento de la realización de todas las actividades obligatorias del rol de Líder de Ejecución.",
+          "Apoyé en la definición de estrategias e implementación de tácticas para superar issues.",
+          "Realicé peer reviews a las presentaciones de avance ejecutivas y a las estimaciones y presentaciones para la solicitud de presupuesto de proyectos ante el comité.",
+          "Durante los últimos 3 meses tuve un encargo especial de la Directora de proyectos de Captación y Colocación para llevar el control de los incidentes como Incident Manager de una célula SWAT.",
+          "Me desempeñé como Líder de Ejecución en Banorte de enero 2018 a octubre 2018.",
+          "Aseguré que la implementación de la solución se llevara a cabo con base en la definición de requerimientos y CTQ.",
+          "Fui responsable junto con el cliente de la orquestación en la atención de requerimientos.",
+          "Guié al equipo en los aspectos de negocio y de administración del proyecto.",
+          "Participé en la estimación de soluciones de desarrollo de ciclo completo con el apoyo del líder técnico.",
+          "Identifiqué riesgos y administré su mitigación.",
+          "Generé el plan de proyecto.",
+          "Presenté iniciativas para aprobación.",
+          "Reporté estatus y generé la presentación a comités.",
+          "Di seguimiento a instalaciones y despliegues en ambientes previos y de producción.",
+          "Participé en sesiones de trabajo bajo demanda con distintos equipos involucrados en el proyecto.",
+          "Participé en las sesiones de comité de arquitectura.",
+          "Gestioné y di seguimiento a la obtención de vistos buenos.",
+          "Gestioné los riesgos, pendientes y problemas registrados en el proyecto.",
+          "Aseguré que los participantes cumplieran con el reporte de avance semanal de sus tareas.",
+          "Gestioné temas de proceso y cumplimientos.",
+          "Me desempeñé como Administrador de portafolio de proyectos, Responsable de la entrega del servicio y Project Manager de abril 2016 a enero 2018.",
+          "Fui líder responsable de las fases de análisis y de Aseguramiento de la Calidad (QA) del proyecto Host to Host para Grupo Financiero Interacciones, asegurando sus correspondientes entregables.",
+          "Fui responsable de la entrega del servicio de cuatro proyectos para el área de Incorporación y Recaudación del IMSS, coordinando a tres líderes de proyecto dentro del marco de las guías operativas del Instituto, así como del marco documental establecido por el MAAGTIC-SI.",
+          "Fui responsable de la atención de Incident Management, Problem Management y Change Control de los sistemas de las áreas de Finanzas de Boehringer Ingelheim México: Credit & Collection, Accounts Payable, Accounting, Treasury, Fixed Assets y Client Service."
+        ]
+      },
+      {
+        "empresa": "Real Advantage S.A. de C.V.",
+        "puesto": "Consultor IT & System Lead",
+        "fecha_inicio": "1 julio 2013",
+        "fecha_fin": "1 abril 2016",
+        "actividades_principales": [
+          "Fui responsable de la atención de Incident Management, Problem Management y Change Control de los sistemas de las áreas de Finanzas de Boehringer Ingelheim México: Credit & Collection, Accounts Payable, Accounting, Treasury, Fixed Assets y Client Service."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 03 junio de 1991 hasta 30 abril de 2016",
+    "resumen_laboral": "Durante este período me desempeñé como Programador Informix, Jefe de Departamento de Desarrollo de Sistemas, Líder de Proyecto, Programador Oracle experto, Consultor en Informix, Líder de Proyectos, Consultor Sr. y Director asociado, Project Manager, Gerente de Proyectos, responsable de portafolio, consultor IT y System Lead. Asumí funciones de desarrollo, soporte, administración de proyectos, coordinación de equipos, atención operativa, control de cambios, gestión de incidentes y problemas, elaboración de propuestas y seguimiento de entregables, manteniendo colaboración con usuarios y áreas de negocio para dar continuidad a la operación y a los proyectos.",
+    "estudios": {
+      "carrera": "Licenciado en Ciencias de la Informática (con especialidad en información)",
+      "lugar": "México D.F.",
+      "periodo": "1990 - 1994"
+    },
+    "herramientas": [
+      {
+        "nombre": "MS Project"
+      },
+      {
+        "nombre": "PPM"
+      },
+      {
+        "nombre": "TOGAF"
+      },
+      {
+        "nombre": "Archimate"
+      },
+      {
+        "nombre": "Visio"
+      },
+      {
+        "nombre": "Excel"
+      },
+      {
+        "nombre": "SharePoint"
+      },
+      {
+        "nombre": "Informix Suite"
+      },
+      {
+        "nombre": "Oracle Suite"
+      },
+      {
+        "nombre": "PL/SQL"
+      },
+      {
+        "nombre": "Oracle Forms"
+      },
+      {
+        "nombre": "UNIX"
+      },
+      {
+        "nombre": "Oracle Designer 2000"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "Python"
+      },
+      {
+        "nombre": "R"
+      },
+      {
+        "nombre": "Cypher"
+      },
+      {
+        "nombre": "Jupyter Lab"
+      },
+      {
+        "nombre": "JupyterNotebook"
+      },
+      {
+        "nombre": "Git"
+      },
+      {
+        "nombre": "GitHub"
+      },
+      {
+        "nombre": "PyCharm"
+      },
+      {
+        "nombre": "RStudio"
+      },
+      {
+        "nombre": "WatsonStudio"
+      },
+      {
+        "nombre": "MongoAtlas"
+      },
+      {
+        "nombre": "MongoCompass"
+      },
+      {
+        "nombre": "MongoBooster"
+      },
+      {
+        "nombre": "Neo4j Desktop"
+      },
+      {
+        "nombre": "Redis"
+      },
+      {
+        "nombre": "MongoDB"
+      },
+      {
+        "nombre": "Neo4j"
+      },
+      {
+        "nombre": "JSON"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "TOGAF 9 Certified",
+        "anio": "2020"
+      }
+    ],
+    "cursos": []
+  },
+  {
+    "nombre": "Edgar Ricardo Ghenno Flores",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "2304344",
+    "fecha_cedula": "10/07/1996",
+    "rol_propuesto": "Arquitecto Experto",
+    "resumen_profesional": "Cuento con más de 3 años de experiencia en centros de desarrollo de software. Además, cuento con 5 años de experiencia en análisis de sistemas y manejo de equipos de trabajo. Soy responsable de definir la arquitectura de software a implementar, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación, definiendo y adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de tareas complejas.\n\nHe participado en consultoría y arquitectura empresarial para definir capacidades, hojas de ruta y soluciones integrales en banca, retail, manufactura, energía y sector público. He alineado procesos, aplicaciones e integración con necesidades de negocio, microservicios, nube y modernización.\n\nHe liderado equipos multidisciplinarios y coordinado trabajo entre negocio, arquitectura y desarrollo para establecer estándares y gobierno de arquitectura. También he identificado dependencias, brechas y oportunidades de mejora para proponer soluciones integradas y comunicar roadmaps de transformación.",
+    "funciones": "Valido que cada componente interactúe de forma sistémica en todas las iteraciones de un proyecto para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades, y propongo soluciones a las necesidades de manera integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, y evaluación y optimización del rendimiento del sistema mediante la selección de las tecnologías más adecuadas.\n\nHe participado en consultoría y arquitectura empresarial para definir capacidades, hojas de ruta y soluciones integrales en banca, retail, manufactura, energía y sector público, alineando procesos, aplicaciones e integración con necesidades de negocio, microservicios, nube y modernización. He liderado equipos multidisciplinarios y coordinado trabajo entre negocio, arquitectura y desarrollo para establecer estándares y gobierno de arquitectura, además de identificar dependencias, brechas y oportunidades de mejora para proponer soluciones integradas y comunicar roadmaps de transformación.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek – Grupo Industrial Saltillo",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "1 abril 2025",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Valido que cada componente interactúe sistémicamente en todas las iteraciones de un proyecto para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades, y propongo soluciones a las necesidades de manera integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, y evaluación y optimización del rendimiento del sistema mediante la elección de las tecnologías más adecuadas.",
+          "Defino la arquitectura y la solución técnica con base en la propuesta de negocio y las necesidades del cliente.",
+          "Defino los estándares de codificación y de bases de datos.",
+          "Defino los patrones de diseño y los funcionales.",
+          "Brindo asesoría a los Líderes Técnicos.",
+          "Defino los subsistemas de soporte.",
+          "Defino la administración de la configuración para construcción.",
+          "Defino implementaciones de referencia.",
+          "Defino checklist para las pruebas de escritorio del diseño generado.",
+          "Valido la integración de macrocomponentes a la arquitectura.",
+          "Recomiendo prioridades para la construcción requerida en cada iteración.",
+          "Valido la integración sistémica de componentes para asegurar la congruencia con el flujo de negocio y de información.",
+          "Participo en fases de visión, levantamiento de requisitos y definición de arquitectura de negocio, sistemas de información y arquitectura tecnológica.",
+          "Establezco procesos de control y aseguro el cumplimiento de los estándares de arquitectura en los proyectos.",
+          "Utilizo herramientas de modelado como ArchiMate, Sparx EA y Visio (Herramienta de diagramación técnica) para documentar arquitecturas.",
+          "Participo en proyectos de migración a la nube, modernización de aplicaciones e integración de sistemas, aplicando Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) como marco de referencia.",
+          "Comunico arquitecturas y roadmaps a directivos, equipos técnicos y usuarios clave.",
+          "Demuestro la alineación de las soluciones tecnológicas propuestas con los objetivos del negocio.",
+          "Integro Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) con metodologías ágiles (Scrum, Marco Ágil Escalable (SAFe)) y tradicionales (Profesional en Gestión de Proyectos (PMP), PRINCE2).",
+          "He participado en proyectos mayores a 20 mil horas, donde soluciono requerimientos no funcionales complejos, identifico y mitigo riesgos técnicos, y aseguro el desempeño correcto del sistema.",
+          "He usado la certificación TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura)) 9 Certified 2013 como marco de arquitectura empresarial para aplicar ADM y gobierno de arquitectura.",
+          "He usado la certificación TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura)) 9 Certified 2014 como marco de arquitectura empresarial para aplicar ADM y gobierno de arquitectura.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "ARC: Encabezo las actividades de diseño de la arquitectura y su implementación, generando sus productos entregables.",
+          "SFD: Proveo patrones funcionales y estándares de interfaz de usuario.",
+          "DBI: Proveo estimados de volumen y requerimientos de desempeño.",
+          "CIS: Valido los entregables de la especificación detallada de componentes.",
+          "CTR: Doy seguimiento a los estándares utilizados en el desarrollo de componentes.",
+          "INT: Valido los ambientes de despliegue para la integración del sistema.",
+          "DOC: Proveo entradas para la documentación técnica.",
+          "Consultoría estratégica para homologación de procesos centrales del negocio que incluyen operaciones en México y Europa y con el fin de poder proponer la sistematización de sus funciones con soluciones integrales abarcando desde el diseño e investigación hasta la comercialización de los productos de la organización.",
+          "Diseño del modelo de capacidades integral de la situación actual de ambas regiones y propuesta de homologación, incluyendo no sólo soluciones homogéneas si no también soluciones que pudieran ser replicadas independientemente de la ubicación geográfica de la operación.",
+          "Identificación de funciones específicas para ser soportadas por un ERP y que sirvieron como base para la licitación vía un RFP de dicha solución",
+          "Realicé consultoría estratégica para la identificación de capacidades y funciones a soportar por la implementación de un nuevo ERP",
+          "Fui responsable de la definición de mapa de capacidades identificando áreas de oportunidad para la optimización de funciones operativas",
+          "Fui responsable de la definición de procesos y sistemas que por medio de racionalización son elegibles para integrar optimizando esfuerzo y costos",
+          "Fui responsable del diseño de una propuesta de modelo de capacidades, identificando nuevas áreas de negocio o integrando otras para mejorar los resultados operativos y de negocio.",
+          "Realicé consultoría estratégica para la identificación de áreas de mejora en la operación de CryoInfra, definición de soluciones con enfoque de RPA y automatización de procesos",
+          "Realicé análisis financiero de ahorro por procesos",
+          "Identifiqué áreas de mayor impacto para la empresa, en costos con la implementación de Robots y automatización de procesos",
+          "Diseñé soluciones RPA usando Frida, plataforma de Softtek  de automatización.",
+          "Diseñé propuestas y enfoques de implementación y ejecución de proyectos de Arquitectura Empresarial para diversos clientes, utilizando el marco de trabajo Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) y estándares de industria de banca como BIAN y retail ARTS, SCOR",
+          "Integrante del equipo de Arquitectura empresarial que se encargó del diseño de la situación actual y futura del proceso de CATMAN para Soriana, enfocado en el modelado de los aplicativos que soportan la operación de dicho proceso y la interacción con el equipo de Blueyonder, que implementará el módulo de CATMAN de esta herramienta",
+          "Hice el descubrimiento y modelado de la vista de “uso de aplicaciones”, donde se incluyen servicios externos de consultoría hecha por terceros",
+          "Coordiné el enfoque de solución, para la colaboración del equipo de Arquitectura Empresarial y Blueyonder."
+        ]
+      },
+      {
+        "empresa": "Softtek – STIVA",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "1 noviembre 2024",
+        "fecha_fin": "28 febrero 2025",
+        "actividades_principales": [
+          "Realicé consultoría estratégica para la identificación de capacidades y funciones a soportar por la implementación de un nuevo ERP",
+          "Fui responsable de la definición de mapa de capacidades identificando áreas de oportunidad para la optimización de funciones operativas",
+          "Fui responsable de la definición de procesos y sistemas que por medio de racionalización son elegibles para integrar optimizando esfuerzo y costos",
+          "Fui responsable del diseño de una propuesta de modelo de capacidades, identificando nuevas áreas de negocio o integrando otras para mejorar los resultados operativos y de negocio."
+        ]
+      },
+      {
+        "empresa": "Softtek – CryoInfra",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "1 enero 2024",
+        "fecha_fin": "31 octubre 2024",
+        "actividades_principales": [
+          "Realicé consultoría estratégica para la identificación de áreas de mejora en la operación de CryoInfra, definición de soluciones con enfoque de RPA y automatización de procesos",
+          "Realicé análisis financiero de ahorro por procesos",
+          "Identifiqué áreas de mayor impacto para la empresa, en costos con la implementación de Robots y automatización de procesos",
+          "Diseñé soluciones RPA usando Frida, plataforma de Softtek  de automatización."
+        ]
+      },
+      {
+        "empresa": "Softtek – Softtek",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "1 junio 2023",
+        "fecha_fin": "31 diciembre 2023",
+        "actividades_principales": [
+          "Diseñé propuestas y enfoques de implementación y ejecución de proyectos de Arquitectura Empresarial para diversos clientes, utilizando el marco de trabajo Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) y estándares de industria de banca como BIAN y retail ARTS, SCOR"
+        ]
+      },
+      {
+        "empresa": "Softtek – Soriana",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "1 febrero 2023",
+        "fecha_fin": "31 mayo 2023",
+        "actividades_principales": [
+          "Integrante del equipo de Arquitectura empresarial que se encargó del diseño de la situación actual y futura del proceso de CATMAN para Soriana, enfocado en el modelado de los aplicativos que soportan la operación de dicho proceso y la interacción con el equipo de Blueyonder, que implementará el módulo de CATMAN de esta herramienta",
+          "Hice el descubrimiento y modelado de la vista de “uso de aplicaciones”, donde se incluyen servicios externos de consultoría hecha por terceros",
+          "Coordiné el enfoque de solución, para la colaboración del equipo de Arquitectura Empresarial y Blueyonder."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 02 octubre de 1995 hasta 31 diciembre de 2022",
+    "resumen_laboral": "Durante este período me desempeñé como Arquitecto de Soluciones, Gerente de arquitectura, Arquitecto Empresarial / Soluciones / SOa, Arquitecto empresarial, Arquitecto de Soluciones, Líder de proyecto y Arquitecto Empresarial y Arquitecto Empresarial, asumiendo responsabilidades de definición de arquitecturas, coordinación de equipos, análisis de procesos, integración de sistemas y alineación entre necesidades del negocio y soluciones tecnológicas. También participé en consultoría estratégica, elaboración de roadmaps, modernización de aplicaciones, implantación de prácticas de arquitectura y seguimiento de iniciativas institucionales y corporativas, manteniendo comunicación con áreas técnicas y de negocio para dar continuidad a los proyectos.",
+    "estudios": {
+      "carrera": "Ingeniería Electrónica",
+      "lugar": "Universidad Autónoma Metropolitana, UAM Iztapalapa",
+      "periodo": "1988 - 1995"
+    },
+    "herramientas": [
+      {
+        "nombre": "Excel"
+      },
+      {
+        "nombre": "Word"
+      },
+      {
+        "nombre": "Mural"
+      },
+      {
+        "nombre": "Archimate"
+      },
+      {
+        "nombre": "Archi"
+      },
+      {
+        "nombre": "PowerPoint"
+      },
+      {
+        "nombre": "UML"
+      },
+      {
+        "nombre": "Sparx Enterprise Architect"
+      },
+      {
+        "nombre": "MS Visio"
+      },
+      {
+        "nombre": "Confluence"
+      },
+      {
+        "nombre": "LeanIX"
+      },
+      {
+        "nombre": "Aris"
+      },
+      {
+        "nombre": "BPMN"
+      },
+      {
+        "nombre": "Kafka"
+      },
+      {
+        "nombre": "SOA Suite Oracle"
+      },
+      {
+        "nombre": "Arquimate"
+      },
+      {
+        "nombre": "Bizagy BPMN"
+      },
+      {
+        "nombre": "Project"
+      },
+      {
+        "nombre": "Visio"
+      },
+      {
+        "nombre": "Software AG Aris"
+      },
+      {
+        "nombre": "Windows"
+      },
+      {
+        "nombre": "Linux"
+      },
+      {
+        "nombre": "Java"
+      },
+      {
+        "nombre": "C"
+      },
+      {
+        "nombre": "C++"
+      },
+      {
+        "nombre": "PHP"
+      },
+      {
+        "nombre": "Javascript"
+      },
+      {
+        "nombre": "JQuery"
+      },
+      {
+        "nombre": "HTML"
+      },
+      {
+        "nombre": "CSS"
+      },
+      {
+        "nombre": "Docker"
+      },
+      {
+        "nombre": "ApiManager"
+      },
+      {
+        "nombre": "DB2"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "MySQL"
+      },
+      {
+        "nombre": "PosgreSQL"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "TOGAF 9 Certified",
+        "anio": "2013"
+      },
+      {
+        "nombre": "TOGAF 9 Certified",
+        "anio": "2014"
+      }
+    ],
+    "cursos": []
+  },
+  {
+    "nombre": "Samuel Barrera Aguilar",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "1641183",
+    "fecha_cedula": "14/10/2013",
+    "rol_propuesto": "Arquitecto Experto",
+    "resumen_profesional": "Cuento con al menos 3 años de experiencia en centros de desarrollo de software. Además, cuento con 5 años de experiencia en análisis de sistemas y manejo de equipos de trabajo. Soy responsable de definir la arquitectura de software a implementar, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación, definiendo y adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de tareas complejas.\n\nHe participado en consultoría de negocio y arquitectura empresarial para banca, seguros, retail, educación, transporte, gobierno y aviación, definiendo capacidades, procesos, aplicaciones e iniciativas de transformación. También he levantado requerimientos, identificado brechas y propuesto soluciones integradas alineadas con necesidades operativas, regulatorias y tecnológicas.\n\nHe coordinado trabajo con usuarios de negocio, equipos técnicos y áreas directivas para estructurar roadmaps, evaluar riesgos, validar integraciones y dar continuidad a proyectos complejos. Mi experiencia también incluye análisis funcional, modernización tecnológica y optimización del desempeño del sistema con enfoque en la congruencia entre procesos, información y componentes.",
+    "funciones": "Valido que cada componente interactúe de forma sistémica en todas las iteraciones de un proyecto para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades, y propongo soluciones a las necesidades de manera integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, y evaluación y optimización del rendimiento del sistema mediante la selección de las tecnologías más adecuadas.\n\nHe participado en consultoría de negocio y arquitectura empresarial para banca, seguros, retail, educación, transporte, gobierno y aviación, definiendo capacidades, procesos, aplicaciones e iniciativas de transformación, además de levantar requerimientos, identificar brechas y proponer soluciones integradas alineadas con necesidades operativas, regulatorias y tecnológicas. También he coordinado trabajo con usuarios de negocio, equipos técnicos y áreas directivas para estructurar roadmaps, evaluar riesgos, validar integraciones y dar continuidad a proyectos complejos, incluyendo análisis funcional, modernización tecnológica y optimización del desempeño del sistema con enfoque en la congruencia entre procesos, información y componentes.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Aeroméxico",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "1 julio 2025",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Valido que cada componente interactúe de forma sistémica en todas las iteraciones de un proyecto para asegurar congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades. Propongo soluciones a las necesidades de manera integrada. Tengo habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos y evaluación y optimización del rendimiento del sistema al elegir las tecnologías más adecuadas.",
+          "Defino la arquitectura y la solución técnica con base en la propuesta de negocio y las necesidades del cliente.",
+          "Defino los estándares de codificación y de base de datos.",
+          "Defino los patrones de diseño y funcionales.",
+          "Brindo asesoría a líderes técnicos.",
+          "Defino los subsistemas de soporte.",
+          "Defino la administración de la configuración para la construcción.",
+          "Defino implementaciones de referencia.",
+          "Defino checklist para pruebas de escritorio del diseño generado.",
+          "Valido la integración de macrocomponentes a la arquitectura.",
+          "Recomiendo prioridades para la construcción necesaria en cada iteración.",
+          "Valido la integración sistémica de componentes para asegurar la congruencia con el flujo de negocio y de información.",
+          "Participo en fases de visión, levantamiento de requisitos y definición de arquitectura de negocio, sistemas de información y arquitectura tecnológica.",
+          "Establezco procesos de control y aseguro el cumplimiento de estándares de arquitectura en los proyectos.",
+          "Utilizo herramientas de modelado como ArchiMate, Sparx EA y Visio (Herramienta de diagramación técnica) para documentar arquitecturas.",
+          "Participo en proyectos de migración a la nube, modernización de aplicaciones e integración de sistemas, aplicando Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) como marco de referencia.",
+          "Comunico arquitecturas y roadmaps a directivos, equipos técnicos y usuarios clave.",
+          "Demuestro la alineación de las soluciones tecnológicas propuestas con los objetivos del negocio.",
+          "Integro Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) con metodologías ágiles (Scrum, Marco Ágil Escalable (SAFe)) y tradicionales (PMI, PRINCE2).",
+          "He participado en proyectos mayores a 20 mil horas, donde soluciono requerimientos no funcionales complejos, identifico y mitigo riesgos técnicos, y aseguro el desempeño correcto del sistema.",
+          "He utilizado el diploma Entrenandos III en Informática para desarrollar y aplicar conocimientos fundamentales en informática, apoyando la operación y gestión de sistemas tecnológicos",
+          "He aplicado la certificación TOGAF 9 Certified para diseñar, analizar y gestionar arquitecturas empresariales alineadas a los objetivos de negocio y las mejores prácticas de The Open Group",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "ARC: Encabezo las actividades de diseño de la arquitectura y su implementación, generando sus productos entregables.",
+          "SFD: Proveo patrones funcionales y estándares de interfaz de usuario.",
+          "DBI: Proveo estimados de volumen y requerimientos de desempeño.",
+          "CIS: Valido los entregables de la especificación detallada de componentes.",
+          "CTR: Doy seguimiento a los estándares utilizados en el desarrollo de componentes.",
+          "INT: Valido los ambientes de despliegue para la integración del sistema.",
+          "DOC: Proveo entradas para la documentación técnica.",
+          "Definición de la arquitectura de negocio y apoyo en la arquitectura tecnológica",
+          "Dar forma a historias de usuario",
+          "Diseñar el proceso de facturación",
+          "Trato directo con usuarios de negocio",
+          "Permitir que sea aplicable a nivel mundial",
+          "Considerar la menor tropicalización para cada país que se considere",
+          "Entendimiento del negocio de cliente, los conceptos contables y fiscales, así como las casuísticas que se presentan en el proceso de ventas de boletos, y finalmente estudio y entendimiento de la legislación fiscal y de protección de datos personales de cada país. Permitiendo crear una solución multi: país, moneda, direcciones y cálculo de impuestos ampliamente configurables",
+          "Le doy forma a su requerimiento",
+        "Realizo el análisis de su situación actual",
+        "Defino la misión y visión",
+        "Defino la arquitectura de negocio corporativa",
+        "Defino la arquitectura tecnológica",
+        "Evalúo las capacidades del personal",
+        "Defino la arquitectura aplicativa",
+        "Analizo los retos actuales del sector educativo frente a la tecnología",
+        "Analizo la coyuntura de migración constante de aplicativos",
+        "Incluyo la presencia mundial de la corporación",
+        "Evalúo los modelos de educación en línea y presencial",
+        "Realizo el análisis de riesgos y dolores operativos",
+        "Aplico un enfoque de arquitectura empresarial y, mediante los Modelos de Madurez y el Modelo HIP de Gartner, mido la situación actual, defino la situación deseada y establezco el camino para alcanzarla a través de quick wins, iniciativas y proyectos, logrando la satisfacción del cliente con resultados que incluyen la incorporación gradual de tecnologías de punta mediante un roadmap",
+        "Comprendo la situación actual respecto a sus sistemas de seguros para permitir la incorporación de un core de Seguros y otro para Reaseguros en modalidad SaaS",
+        "Defino las arquitecturas consideradas para la solución",
+        "Defino la arquitectura de negocio (dominios de negocio)",
+        "Defino la arquitectura aplicativa",
+        "Identifico la solución deseada, incluyendo:",
+        "Defino el modelo de gobernanza",
+        "Defino iPaaS como capa de integración para soluciones SaaS",
+        "Defino la plataforma en la nube y on-premises",
+        "Defino los mecanismos de monitoreo",
+        "Identifico brechas y hallazgos",
+        "Emito recomendaciones, proyectos de solución y pruebas de concepto",
+        "Logro la satisfacción del cliente con los productos y las soluciones recomendadas",  
+        "Comprendo la situación actual de su stack aplicativo para implementar mejoras en su seguridad",
+        "Defino las arquitecturas consideradas para la solución",
+        "Defino la arquitectura aplicativa",
+        "Defino la arquitectura tecnológica",
+        "Identifico la solución deseada, incluyendo:",
+        "Defino el modelo de gobernanza",
+        "Defino la infraestructura",
+        "Defino los lineamientos de seguridad",
+        "Genero una solución estándar para aplicar SSO y MFA a su stack aplicativo",
+        "Desarrollo y pruebo las soluciones",
+        "Coordino células para aplicar la solución estándar y remediar las aplicaciones, identificando y solucionando oportunamente impactos colaterales",
+        "Comprendo la situación actual",
+        "Defino las arquitecturas consideradas para la solución",
+        "Defino la arquitectura de negocio (dominios de negocio)",
+        "Defino la arquitectura aplicativa",
+        "Defino la arquitectura tecnológica",
+        "Identifico la solución deseada, incluyendo:",
+        "Defino el modelo de gobernanza",
+        "Defino iPaaS como capa de integración para soluciones SaaS y on-premises",
+        "Defino la infraestructura",
+        "Defino los lineamientos de seguridad",
+        "Defino la plataforma en la nube y on-premises",
+        "Defino los mecanismos de monitoreo",
+        "Defino la tecnología y el gobierno de datos",
+        "Identifico brechas y hallazgos",
+        "Emito recomendaciones y proyectos de solución",
+        "Logro la satisfacción del cliente, ya que la arquitectura diagramada y la documentación entregada responden a los requerimientos de las diferentes áreas tecnológicas, consolidando el esfuerzo en seis meses para un proyecto con dos años de evolución",
+        "Comprendo la situación objetivo \"TO BE\", con la incorporación de:",
+        "Defino SAP S/4HANA Fashion & Vertical Business como parte de la solución",
+        "Defino XSTORE como sistema para el punto de venta",
+        "Defino Cloudera como bus de integración",
+        "Incorporo una nueva marca con tecnología de vanguardia",
+        "Defino las arquitecturas consideradas para la solución",
+        "Defino la arquitectura de negocio (dominios de negocio)",
+        "Defino la arquitectura aplicativa",
+        "Defino la arquitectura tecnológica",
+        "Identifico la solución deseada \"TO BE\"",
+        "Identifico brechas, hallazgos y recomendaciones",
+        "Genero un mapa arquitectónico de integración a alto nivel para comunicación en foros ejecutivos",
+        "Entrego el diagramado de la arquitectura empresarial en los dominios de negocio y aplicativo, permitiendo visualizar y dar seguimiento al proyecto de transformación en curso",
+        "Realizo el estudio y certificación en la plataforma de seguros",
+        "Participo en sesiones de trabajo desarrolladas totalmente en idioma inglés, con participación de un proveedor de Singapur",
+        "Implanto una solución core asiática para este tipo de seguros",
+        "Comprendo la situación actual \"AS IS\":",
+        "Defino la arquitectura de negocio",
+        "Defino la arquitectura aplicativa",
+        "Defino la arquitectura tecnológica",
+        "Identifico la solución deseada \"TO BE\" con el nuevo aplicativo",
+        "Identifico brechas \"AS IS\" vs \"TO BE\", puntos de dolor y oportunidades",
+        "Genero requerimientos consensuados",
+        "Estimo el cambio de core",
+        "Logro los objetivos de obtener los requerimientos y gaps de la plataforma asiática para elaborar la propuesta alineada a las expectativas del cliente",
+        "Comprendo la situación actual \"AS IS\"",
+        "Defino la arquitectura de negocio",
+        "Defino la arquitectura aplicativa",
+        "Defino la arquitectura tecnológica",
+        "Identifico la solución deseada \"TO BE\"",
+        "Identifico brechas \"AS IS\" vs \"TO BE\", puntos de dolor y oportunidades",
+        "Genero requerimientos consensuados",
+        "Identifico soluciones candidatas",
+        "Evalúo cada solución",
+        "Propongo la mejor solución",
+        "Recibo reconocimiento del cliente y una alta evaluación por el trabajo desarrollado",
+        "Comprendo la problemática del proyecto en curso",
+        "Estudio las especificaciones funcionales",
+        "Identifico brechas",
+        "Negocio con analistas la modificación de las especificaciones",
+        "Entiendo el objetivo de las especificaciones en conjunto con analistas y negocio",
+        "Identifico brechas entre lo esperado y lo que se está desarrollando",
+        "Especifico y diagramo flujos para presentar a los involucrados",
+        "Apoyo a que el negocio plasme su necesidad",
+        "Genero iniciativas de solución ante problemas",
+        "Documento las funcionalidades aún no desarrolladas para aumentar la certeza",
+        "Identifico funcionalidad faltante para lograr entregas de valor al cliente",
+        "Contribuyo al esfuerzo por reemplazar el core bancario de SAP a Mambu con recursos limitados del cliente"
+        ]
+      },
+      {
+        "empresa": "Laureate Internacional Educación",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "2 mayo 2025",
+        "fecha_fin": "30 junio 2025",
+        "actividades_principales": [
+            "Le doy forma a su requerimiento",
+            "Realizo el análisis de su situación actual",
+            "Defino la misión y visión",
+            "Defino la arquitectura de negocio corporativa",
+            "Defino la arquitectura tecnológica",
+            "Evalúo las capacidades del personal",
+            "Defino la arquitectura aplicativa",
+            "Analizo los retos actuales del sector educativo frente a la tecnología",
+            "Analizo la coyuntura de migración constante de aplicativos",
+            "Incluyo la presencia mundial de la corporación",
+            "Evalúo los modelos de educación en línea y presencial",
+            "Realizo el análisis de riesgos y dolores operativos",
+            "Aplico un enfoque de arquitectura empresarial y, mediante los Modelos de Madurez y el Modelo HIP de Gartner, mido la situación actual, defino la situación deseada y establezco el camino para alcanzarla a través de quick wins, iniciativas y proyectos, logrando la satisfacción del cliente con resultados que incluyen la incorporación gradual de tecnologías de punta mediante un roadmap"
+        ]
+      },
+      {
+        "empresa": "Seguros Confianza",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "3 febrero 2025",
+        "fecha_fin": "30 abril 2025",
+        "actividades_principales": [
+            "Comprendo la situación actual respecto a sus sistemas de seguros para permitir la incorporación de un core de Seguros y otro para Reaseguros en modalidad SaaS",
+            "Defino las arquitecturas consideradas para la solución",
+            "Defino la arquitectura de negocio (dominios de negocio)",
+            "Defino la arquitectura aplicativa",
+            "Identifico la solución deseada, incluyendo:",
+            "Defino el modelo de gobernanza",
+            "Defino iPaaS como capa de integración para soluciones SaaS",
+            "Defino la plataforma en la nube y on-premises",
+            "Defino los mecanismos de monitoreo",
+            "Identifico brechas y hallazgos",
+            "Emito recomendaciones, proyectos de solución y pruebas de concepto",
+            "Logro la satisfacción del cliente con los productos y las soluciones recomendadas"
+        ]
+      },
+      {
+        "empresa": "NISSAN México",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "1 noviembre 2024",
+        "fecha_fin": "31 enero 2025",
+        "actividades_principales": [
+            "Comprendo la situación actual de su stack aplicativo para implementar mejoras en su seguridad",
+            "Defino las arquitecturas consideradas para la solución",
+            "Defino la arquitectura aplicativa",
+            "Defino la arquitectura tecnológica",
+            "Identifico la solución deseada, incluyendo:",
+            "Defino el modelo de gobernanza",
+            "Defino la infraestructura",
+            "Defino los lineamientos de seguridad",
+            "Genero una solución estándar para aplicar SSO y MFA a su stack aplicativo",
+            "Desarrollo y pruebo las soluciones",
+            "Coordino células para aplicar la solución estándar y remediar las aplicaciones, identificando y solucionando oportunamente impactos colaterales"
+        ]
+      },
+      {
+        "empresa": "Mobility ADO",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "1 julio 2024",
+        "fecha_fin": "31 octubre 2024",
+        "actividades_principales": [
+        "Comprendo la situación actual",
+        "Defino las arquitecturas consideradas para la solución",
+        "Defino la arquitectura de negocio (dominios de negocio)",
+        "Defino la arquitectura aplicativa",
+        "Defino la arquitectura tecnológica",
+        "Identifico la solución deseada, incluyendo:",
+        "Defino el modelo de gobernanza",
+        "Defino iPaaS como capa de integración para soluciones SaaS y on-premises",
+        "Defino la infraestructura",
+        "Defino los lineamientos de seguridad",
+        "Defino la plataforma en la nube y on-premises",
+        "Defino los mecanismos de monitoreo",
+        "Defino la tecnología y el gobierno de datos",
+        "Identifico brechas y hallazgos",
+        "Emito recomendaciones y proyectos de solución",
+        "Logro la satisfacción del cliente, ya que la arquitectura diagramada y la documentación entregada responden a los requerimientos de las diferentes áreas tecnológicas, consolidando el esfuerzo en seis meses para un proyecto con dos años de evolución"  
+        ]
+      },
+      {
+        "empresa": "Grupo Axo",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "2 mayo 2024",
+        "fecha_fin": "30 junio 2024",
+        "actividades_principales": [
+        "Comprendo la situación objetivo \"TO BE\", con la incorporación de:",
+        "Defino SAP S/4HANA Fashion & Vertical Business como parte de la solución",
+        "Defino XSTORE como sistema para el punto de venta",
+        "Defino Cloudera como bus de integración",
+        "Incorporo una nueva marca con tecnología de vanguardia",
+        "Defino las arquitecturas consideradas para la solución",
+        "Defino la arquitectura de negocio (dominios de negocio)",
+        "Defino la arquitectura aplicativa",
+        "Defino la arquitectura tecnológica",
+        "Identifico la solución deseada \"TO BE\"",
+        "Identifico brechas, hallazgos y recomendaciones",
+        "Genero un mapa arquitectónico de integración a alto nivel para comunicación en foros ejecutivos",
+        "Entrego el diagramado de la arquitectura empresarial en los dominios de negocio y aplicativo, permitiendo visualizar y dar seguimiento al proyecto de transformación en curso"  
+        ]
+      },
+      {
+        "empresa": "CHUBB Seguros CHILE",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "1 marzo 2024",
+        "fecha_fin": "30 abril 2024",
+        "actividades_principales": [
+            "Realizo el estudio y certificación en la plataforma de seguros",
+            "Participo en sesiones de trabajo desarrolladas totalmente en idioma inglés, con participación de un proveedor de Singapur",
+            "Implanto una solución core asiática para este tipo de seguros",
+            "Comprendo la situación actual \"AS IS\":",
+            "Defino la arquitectura de negocio",
+            "Defino la arquitectura aplicativa",
+            "Defino la arquitectura tecnológica",
+            "Identifico la solución deseada \"TO BE\" con el nuevo aplicativo",
+            "Identifico brechas \"AS IS\" vs \"TO BE\", puntos de dolor y oportunidades",
+            "Genero requerimientos consensuados",
+            "Estimo el cambio de core",
+            "Logro los objetivos de obtener los requerimientos y gaps de la plataforma asiática para elaborar la propuesta alineada a las expectativas del cliente"
+        ]
+      },
+      {
+        "empresa": "CHUBB Seguros",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "2 mayo 2023",
+        "fecha_fin": "31 octubre 2023",
+        "actividades_principales": [
+            "Comprendo la situación actual \"AS IS\"",
+            "Defino la arquitectura de negocio",
+            "Defino la arquitectura aplicativa",
+            "Defino la arquitectura tecnológica",
+            "Identifico la solución deseada \"TO BE\"",
+            "Identifico brechas \"AS IS\" vs \"TO BE\", puntos de dolor y oportunidades",
+            "Genero requerimientos consensuados",
+            "Identifico soluciones candidatas",
+            "Evalúo cada solución",
+            "Propongo la mejor solución",
+            "Recibo reconocimiento del cliente y una alta evaluación por el trabajo desarrollado"
+        ]
+      },
+      {
+        "empresa": "Financiera Monte de Piedad",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "1 diciembre 2022",
+        "fecha_fin": "14 abril 2023",
+        "actividades_principales": [
+        "Comprendo la problemática del proyecto en curso",
+        "Estudio las especificaciones funcionales",
+        "Identifico brechas",
+        "Negocio con analistas la modificación de las especificaciones",
+        "Entiendo el objetivo de las especificaciones en conjunto con analistas y negocio",
+        "Identifico brechas entre lo esperado y lo que se está desarrollando",
+        "Especifico y diagramo flujos para presentar a los involucrados",
+        "Apoyo a que el negocio plasme su necesidad",
+        "Genero iniciativas de solución ante problemas",
+        "Documento las funcionalidades aún no desarrolladas para aumentar la certeza",
+        "Identifico funcionalidad faltante para lograr entregas de valor al cliente",
+        "Contribuyo al esfuerzo por reemplazar el core bancario de SAP a Mambu con recursos limitados del cliente"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 03 mayo de 2004 hasta 31 enero de 2024",
+    "resumen_laboral": "Durante este período me desempeñé como Scrum Master de célula PCI, Arquitecto Empresarial, SME Banking / Arquitecto Empresarial, Analista de Negocio Arquitecto, Líder de Analistas, Consultor de BI y Líder Analista de Negocio. Asumí responsabilidades de análisis funcional, levantamiento de información, definición de soluciones, documentación, coordinación con usuarios, seguimiento de procesos y soporte a proyectos de transformación tecnológica. También participé en integración de sistemas, atención de requerimientos, control operativo, desarrollo de productos y acompañamiento a pruebas, manteniendo alineación entre necesidades de negocio, continuidad de servicio y cumplimiento documental.",
+    "estudios": {
+      "carrera": "Licenciatura en Ciencias de la Computación",
+      "lugar": "Universidad Autónoma Metropolitana, División de Ingeniería, CDMEX",
+      "periodo": "1986 - 1990"
+    },
+    "herramientas": [
+      {
+        "nombre": "TOGAF"
+      },
+      {
+        "nombre": "Agile"
+      },
+      {
+        "nombre": "SCRUM"
+      },
+      {
+        "nombre": "AWS"
+      },
+      {
+        "nombre": "Jira"
+      },
+      {
+        "nombre": "Archimate"
+      },
+      {
+        "nombre": "Bizagi"
+      },
+      {
+        "nombre": "ARIS"
+      },
+      {
+        "nombre": "BPMN"
+      },
+      {
+        "nombre": "Project"
+      },
+      {
+        "nombre": "IBM DataStage"
+      },
+      {
+        "nombre": "Windows"
+      },
+      {
+        "nombre": "Linux"
+      },
+      {
+        "nombre": "C"
+      },
+      {
+        "nombre": "Oracle Developer"
+      },
+      {
+        "nombre": "Cobol"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "SQLSERVER"
+      },
+      {
+        "nombre": "DBII"
+      },
+      {
+        "nombre": "DMSII"
+      },
+      {
+        "nombre": "CRM Dynamics"
+      },
+      {
+        "nombre": "ERP Dynamics"
+      },
+      {
+        "nombre": "ERP SAP"
+      },
+      {
+        "nombre": "Power Point"
+      },
+      {
+        "nombre": "Excel"
+      },
+      {
+        "nombre": "SAP S/4HANA Fashion & Vertical Business"
+      },
+      {
+        "nombre": "XSTORE"
+      },
+      {
+        "nombre": "Cloudera"
+      },
+      {
+        "nombre": "Mambu"
+      },
+      {
+        "nombre": "MQ Series"
+      },
+      {
+        "nombre": "CICS"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "TOGAF 9 Certified 2023",
+        "anio": "2023"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "Entrenandos III en Informática"
+      }
+    ]
+  },
+  {
+    "nombre": "Rodolfo Pérez Abad",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "5281565",
+    "fecha_cedula": "26/09/2007",
+    "rol_propuesto": "Arquitecto Experto",
+    "resumen_profesional": "Cuento con más de 3 años de experiencia en centros de desarrollo de software. Además, cuento con 5 años de experiencia en análisis de sistemas y manejo de equipos de trabajo. Soy responsable de la definición de la arquitectura de software a implementar, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación, definiendo y adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de tareas complejas.\n\nMe he desempeñado como Arquitecto Empresarial, Arquitecto de Soluciones, Arquitecto SOA, Líder de desarrollo, Scrum Master, Project Manager y Gerente de entrega de proyectos (Delivery Manager) en sectores público y privado. He participado en la implementación de prácticas de arquitectura empresarial, la generación de modelos de negocio y aplicaciones, y el establecimiento de procesos de arquitectura, desarrollo y operación.\n\nHe diseñado soluciones para integración de sistemas, firma electrónica, nómina, plataformas SOA y modernización tecnológica, cuidando la congruencia entre componentes, flujo de negocio e información. También he acompañado equipos multidisciplinarios en el levantamiento de requerimientos, la definición de arquitecturas y el seguimiento de la implementación para alinear la solución tecnológica con las necesidades del cliente.",
+    "funciones": "Valido que cada componente interactúe de forma sistémica en todas las iteraciones de un proyecto para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades, y propongo soluciones a las necesidades de manera integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, y evaluación y optimización del rendimiento del sistema mediante la selección de las tecnologías más adecuadas.\n\nMe he desempeñado como Arquitecto Empresarial, Arquitecto de Soluciones, Arquitecto SOA, Líder de desarrollo, Scrum Master, Project Manager y Gerente de entrega de proyectos (Delivery Manager) en sectores público y privado, participando en la implementación de prácticas de arquitectura empresarial, la generación de modelos de negocio y aplicaciones, y el establecimiento de procesos de arquitectura, desarrollo y operación. He diseñado soluciones para integración de sistemas, firma electrónica, nómina, plataformas SOA y modernización tecnológica, cuidando la congruencia entre componentes y el flujo de negocio e información, y he acompañado equipos multidisciplinarios en el levantamiento de requerimientos, la definición de arquitecturas y el seguimiento de la implementación para alinear la solución tecnológica con las necesidades del cliente.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Arquitecto Empresarial",
+        "fecha_inicio": "31 diciembre 2019",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Valido que cada componente interactúe de manera sistémica en todas las iteraciones de un proyecto, para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades. Propongo soluciones a las necesidades de forma integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, evaluación y optimización del rendimiento del sistema eligiendo las tecnologías más adecuadas.",
+          "Defino la arquitectura y la solución técnica a partir de la propuesta de negocio y las necesidades del cliente.",
+          "Defino los estándares de codificación y de base de datos.",
+          "Defino los patrones de diseño y funcionales.",
+          "Brindo asesoría a Líderes Técnicos.",
+          "Defino los subsistemas de soporte.",
+          "Defino la administración de la configuración para la construcción.",
+          "Defino implementaciones de referencia.",
+          "Defino checklist para pruebas de escritorio del diseño generado.",
+          "Valido la integración de macro-componentes a la arquitectura.",
+          "Recomiendo prioridades para la construcción necesaria en cada iteración.",
+          "Valido la integración sistémica de componentes para asegurar la congruencia con el flujo de negocio y de información.",
+          "Participo en fases de visión, levantamiento de requisitos y definición de arquitectura de negocio, sistemas de información y arquitectura tecnológica.",
+          "Establezco procesos de control y aseguro el cumplimiento de estándares de arquitectura en los proyectos.",
+          "Utilizo herramientas de modelado como ArchiMate, Sparx EA y Visio (Herramienta de diagramación técnica) para documentar arquitecturas.",
+          "Participo en proyectos de migración a la nube, modernización de aplicaciones e integración de sistemas, aplicando TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura)) como marco de referencia.",
+          "Comunico arquitecturas y roadmaps a directivos, equipos técnicos y usuarios clave.",
+          "Demuestro la alineación de las soluciones tecnológicas propuestas con los objetivos del negocio.",
+          "Integro TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura)) con metodologías ágiles (Scrum, SAFe) y tradicionales (PMI, PRINCE2).",
+          "He participado en proyectos mayores a 20 mil horas, donde soluciono requerimientos no funcionales complejos, identifico y mitigo riesgos técnicos, y aseguro el desempeño correcto del sistema.",
+          "He usado la certificación TOGAF 9 Certified 2021 como marco de arquitectura empresarial para aplicar ADM y gobierno de arquitectura.",
+          "He usado la certificación Certified ScrumMaster (CSM) 2015-2017 como fundamento para aplicar metodologías ágiles basadas en Scrum, considerando roles, eventos y artefactos.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "ARC: Encabezo las actividades de diseño de la arquitectura y su implementación, generando sus productos entregables.",
+          "SFD: Proveo patrones funcionales y estándares de interfaz de usuario.",
+          "DBI: Proveo estimados de volumen y requerimientos de desempeño.",
+          "CIS: Valido los entregables de la especificación detallada de componentes.",
+          "CTR: Doy seguimiento a los estándares utilizados en el desarrollo de componentes.",
+          "INT: Valido los ambientes de despliegue para la integración del sistema.",
+          "DOC: Proveo entradas para la documentación técnica.",
+          "Proyecto de implementación de practica de AE para Walmart México",
+          "Entrevistas con los dueños de los procesos de negocio y aplicaciones para la recopilación de información",
+          "Generación de modelos para la arquitectura de aplicaciones",
+          "Apoyo en la generación de modelos para la arquitectura de negocio",
+          "Homologación de modelos en las diferentes capas de arquitectura empresarial",
+          "Diseño e implementación de un ckecklist de calidad de los modelos generados",
+          "Implementación de las bases de la práctica de Arquitectura Empresarial para Walmart México con enfoque TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))",
+          "Diseño soluciones tecnológicas con base en la PKI (Public Key Infrastructure) de la empresa",
+          "Diseño soluciones integrando la PKI de la empresa a diferentes sistemas o plataformas de Firma Electrónica Avanzada",
+          "Establezco procesos de trabajo de arquitectura con base en las mejores prácticas (TOGAF, ITIL, COBIT, PMBOK, ISO 20000)",
+          "Doy seguimiento a la implementación de la PKI con equipos de desarrollo, pruebas y operaciones",
+          "Realizo visitas a clientes para levantamiento de requerimientos y diseño de la solución",
+          "Diseño la arquitectura de referencia de la solución PKI de la empresa",
+          "Diseño la solución de validación de credencial para votar ante INE",
+          "Integro la PKI de la empresa con el sistema de Onboarding Digital de SUMA México",
+          "Diseño y doy seguimiento a la implementación de una app móvil que entrega fotografías con valor probatorio",
+          "Entrego el proyecto de Expediente Electrónico utilizando la PKI de la empresa y Blockchain ante COCACYT",
+          "Genero alianzas estratégicas para la empresa con compañías internacionales como Segucom",
+          "Diseño la arquitectura de negocio y aplicaciones",
+          "Planifico las tareas asignadas a los equipos de desarrollo",
+          "Comprendo las necesidades del Product Owner y apoyo en su desglose en User Stories",
+          "Planifico y doy seguimiento a los Sprints de Scrum",
+          "Doy seguimiento al Product Backlog y Sprint Backlog",
+          "Implanto el proceso de ITIL (Mesa de Ayuda)",
+          "Gestiono equipos multidisciplinarios",
+          "Implanto SuccessFactors en la nube para la compañía",
+          "Ejecuto la migración de versión de la plataforma tecnológica del sistema principal (Portal, BPM, Broker, WAS)",
+          "Implanto el modelo 4+1 como referencia para la generación del documento de arquitectura de software",
+          "Implanto ServiceNow en la nube como herramienta de gestión de procesos bajo el marco ITIL"
+        ]
+      },
+      {
+        "empresa": "Seguridata Privada S.A de C.V",
+        "puesto": "Pre-Sales Software Architect",
+        "fecha_inicio": "2 enero 2017",
+        "fecha_fin": "30 diciembre 2019",
+        "actividades_principales": [
+        "Diseño soluciones tecnológicas con base en la PKI (Public Key Infrastructure) de la empresa",
+        "Diseño soluciones integrando la PKI de la empresa a diferentes sistemas o plataformas de Firma Electrónica Avanzada",
+        "Establezco procesos de trabajo de arquitectura con base en las mejores prácticas (TOGAF, ITIL, COBIT, PMBOK, ISO 20000)",
+        "Doy seguimiento a la implementación de la PKI con equipos de desarrollo, pruebas y operaciones",
+        "Realizo visitas a clientes para levantamiento de requerimientos y diseño de la solución",
+        "Diseño la arquitectura de referencia de la solución PKI de la empresa",
+        "Diseño la solución de validación de credencial para votar ante INE",
+        "Integro la PKI de la empresa con el sistema de Onboarding Digital de SUMA México",
+        "Diseño y doy seguimiento a la implementación de una app móvil que entrega fotografías con valor probatorio",
+        "Entrego el proyecto de Expediente Electrónico utilizando la PKI de la empresa y Blockchain ante COCACYT",
+        "Genero alianzas estratégicas para la empresa con compañías internacionales como Segucom"  
+        ]
+      },
+      {
+        "empresa": "Grupo Nacional Provincial (GNP)",
+        "puesto": "Arquitecto de Soluciones",
+        "fecha_inicio": "1 junio 2015",
+        "fecha_fin": "31 diciembre 2016",
+        "actividades_principales": [
+            "Diseño la arquitectura de negocio y aplicaciones",
+            "Planifico las tareas asignadas a los equipos de desarrollo",
+            "Comprendo las necesidades del Product Owner y apoyo en su desglose en User Stories",
+            "Planifico y doy seguimiento a los Sprints de Scrum",
+            "Doy seguimiento al Product Backlog y Sprint Backlog",
+            "Implanto el proceso de ITIL (Mesa de Ayuda)",
+            "Gestiono equipos multidisciplinarios",
+            "Implanto SuccessFactors en la nube para la compañía",
+            "Ejecuto la migración de versión de la plataforma tecnológica del sistema principal (Portal, BPM, Broker, WAS)",
+            "Implanto el modelo 4+1 como referencia para la generación del documento de arquitectura de software",
+            "Implanto ServiceNow en la nube como herramienta de gestión de procesos bajo el marco ITIL"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 junio de 2006 hasta 28 febrero de 2015",
+    "resumen_laboral": "Durante este período me desempeñé como Consultor, Information Specialist, Arquitecto Empresarial, Arquitecto de Soluciones y Director de área. Asumí responsabilidades de análisis, diseño e implementación de soluciones, definición de modelos tecnológicos y arquitecturas, coordinación de equipos multidisciplinarios, levantamiento de requerimientos y seguimiento de proyectos. También participé en servicios web, procesos de integración, prácticas de arquitectura, gestión de tecnología de la información, atención de necesidades institucionales y apoyo a la operación, manteniendo alineación entre negocio, información y componentes del sistema.",
+    "estudios": {
+      "carrera": "Ingeniería en Sistemas computacionales",
+      "lugar": "E.S.COM IPN",
+      "periodo": "2000 – 2005"
+    },
+    "herramientas": [
+      {
+        "nombre": "Google Ad-words"
+      },
+      {
+        "nombre": "Visio"
+      },
+      {
+        "nombre": "Draw.io"
+      },
+      {
+        "nombre": "Archi"
+      },
+      {
+        "nombre": "Project"
+      },
+      {
+        "nombre": "suite office"
+      },
+      {
+        "nombre": "System Architect"
+      },
+      {
+        "nombre": "Streak"
+      },
+      {
+        "nombre": "Jira"
+      },
+      {
+        "nombre": "SAP Business One"
+      },
+      {
+        "nombre": "Zoho"
+      },
+      {
+        "nombre": "Activiti BPM"
+      },
+      {
+        "nombre": "services now"
+      },
+      {
+        "nombre": "Selenium"
+      },
+      {
+        "nombre": "IBM BPM"
+      },
+      {
+        "nombre": "Plataforma Wso2"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "DB2"
+      },
+      {
+        "nombre": "Mongo DB"
+      },
+      {
+        "nombre": "JBPM"
+      },
+      {
+        "nombre": "JMeter"
+      },
+      {
+        "nombre": "IBM Asset Management"
+      },
+      {
+        "nombre": "J2EE"
+      },
+      {
+        "nombre": "Spring"
+      },
+      {
+        "nombre": ".Net"
+      },
+      {
+        "nombre": "Struts"
+      },
+      {
+        "nombre": "Ibatis"
+      },
+      {
+        "nombre": "Documentum"
+      },
+      {
+        "nombre": "Eclipse"
+      },
+      {
+        "nombre": "Toad"
+      },
+      {
+        "nombre": "Spoon Ketle"
+      },
+      {
+        "nombre": "WAS"
+      },
+      {
+        "nombre": "Tomcat"
+      },
+      {
+        "nombre": "Oracle Pl"
+      },
+      {
+        "nombre": "UML"
+      },
+      {
+        "nombre": "XPath"
+      },
+      {
+        "nombre": "Postgress"
+      },
+      {
+        "nombre": "Essbase"
+      },
+      {
+        "nombre": "JSF"
+      },
+      {
+        "nombre": "Hibernate"
+      },
+      {
+        "nombre": "JDeveloper"
+      },
+      {
+        "nombre": "Squirrel"
+      },
+      {
+        "nombre": "Windows"
+      },
+      {
+        "nombre": "Linux"
+      },
+      {
+        "nombre": "IoS"
+      },
+      {
+        "nombre": "Java"
+      },
+      {
+        "nombre": "C"
+      },
+      {
+        "nombre": "Informix"
+      },
+      {
+        "nombre": "TOGAF"
+      },
+      {
+        "nombre": "ITIL"
+      },
+      {
+        "nombre": "COBIT"
+      },
+      {
+        "nombre": "ISO 27000"
+      },
+      {
+        "nombre": "ISO 20000"
+      },
+      {
+        "nombre": "MAGTICSIC"
+      },
+      {
+        "nombre": "DevOps"
+      },
+      {
+        "nombre": "PmBok"
+      },
+      {
+        "nombre": "Archimate"
+      },
+      {
+        "nombre": "BPMN"
+      },
+      {
+        "nombre": "SOA"
+      },
+      {
+        "nombre": "ESB"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "TOGAF 9 Certified 2021",
+        "anio": "2021"
+      },
+      {
+        "nombre": "Certified ScrumMaster (CSM) 2015-2017",
+        "anio": "2015-2017"
+      }
+    ],
+    "cursos": []
+  }
+]

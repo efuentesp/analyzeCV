@@ -1,0 +1,117 @@
+Diana Trigos Naval
+Analista Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y soluciones de Inteligencia de Negocio. Como analista de negocio, me encargo de descubrir, sintetizar y analizar información proveniente de herramientas, procesos, documentación y Partes interesadas.
+
+Tengo formación práctica en análisis y documentación funcional con trayectoria en proyectos de migración, modelado de datos y diseño de procesos. Aporto continuidad operativa y mejora de procesos mediante levantamiento de requerimientos, elaboración de artefactos (diagramas, casos de uso, diccionarios de datos) y coordinación con desarrolladores y testers para asegurar entregables consistentes y trazables.
+EXPERIENCIA LABORAL
+Empresa
+Softtek ­ Santander | Puesto
+Business Analyst ­ Proficient | Desde:
+2 septiembre, 2025 | Hasta: 
+31 octubre, 2025
+Actividades Principales | • Recolecto, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora., Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.
+• Entiendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.
+• Involucro a los stakeholders para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.
+• Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a los stakeholders ejecutar sus procesos de negocio con eficacia y facilidad.
+• Diseño la solución funcional que satisface los requerimientos de los stakeholders, junto con la estrategia de implementación necesaria para generar valor al negocio.
+• Aseguro que la solución sea aprobada conscientemente por los stakeholders, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.
+• He usado la certificación Advanced Object Oriented Analysis of Hard Problems using UML para aplicar técnicas de modelado de sistemas con UML.
+• He aplicado la certificación Agile Business Analysis: Getting / Writing Lean Requirements para aplicar documentación ágil y Lean de requerimientos.
+• He puesto en práctica la certificación BPMN for business analysts para trabajar con modelado de procesos (BPMN).
+• He usado la certificación Business Analysis Fundamentals para asimilar fundamentos del análisis de negocio alineados a buenas prácticas profesionales.
+• He aplicado la certificación Business Analysis Modeling Skills  Techniques para aplicar técnicas de modelado para análisis de negocio.
+• He usado la certificación Business Analysis: Working with Use Cases para estructurar y documentar requisitos mediante casos de uso.
+• He aprovechado la certificación Identify  Define the Problem with Business Analysis para identificar y definir problemas de negocio de forma estructurada.
+• He usado la certificación UML para Analistas de Negocios para diseñar diagramas Lenguaje Unificado de Modelado (UML).
+• He aplicado la certificación Mastering Data Modeling Fundamentals para comprender y practicar fundamentos de modelado de datos.
+• He usado la certificación BPMN 2.0 with Brian: From Beginner to Winner para reforzar el modelado de procesos de negocio con BPMN.
+• He aplicado la certificación The Practical BPMN 2.0 Master Class para profundizar en el modelado práctico de procesos con BPMN.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek: Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+GUI: Proveo entradas y valido la precisión del diseño de la Interfaz Gráfica de Usuario (GUI).
+INT: Proveo las entradas necesarias para la integración de sistemas.
+STD: Participo en las actividades de diseño de pruebas de sistema.
+STE: Participo en la ejecución de las pruebas de sistema.
+DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+UAT: Apoyo en las actividades de Pruebas de Aceptación de Usuario (UAT) según lo solicitado durante las pruebas de aceptación.
+• Realicé mapeo de datos, diagrama de contexto, diagramas de flujo y casos de uso.
+• Se crearon mapeos de datos, diagramas de contexto, diagramas de flujo y casos de uso.
+• Realicé mapeo y diagrama de procesos, concentrado y preparación de documentación para realizar prompts y obtener diagramas en la IA (Copilot).
+• Mapeo de datos y diagramas de procesos, así como la recopilación y preparación de documentación para crear prompts y obtener diagramas mediante IA (Copilot).
+• Administración de Backlog, Administración de Control de Producción, Administración de recursos, Análisis de proceso para un nuevo sistema, comprensión del proceso, identificación y definición de problemas en un nuevo sistema, gestión de partes interesadas, historial de usuario de cada proceso, diagrama de estado, diccionario de datos, explicación detallada del proceso a programadores y testers, manuales para usuarios, Experiencia de Usuario (UX), Interfaz de Usuario (UI)
+• Backlog, gestión de control de producción, gestión de recursos, análisis de procesos, comprensión de procesos, identificación y definición de problemas, historias de usuario para cada proceso, diagrama de estados, diccionario de datos, explicación detallada de procesos para programadores y testers, manuales de usuario, experiencia de usuario (UX) e interfaz de usuario (UI).
+• Administración de Control de Producción, Análisis de proceso para un nuevo sistema, comprensión del proceso, identificación y definición de problemas en un nuevo sistema, historias de usuario de cada proceso, diagrama de estado, diccionario de datos, explicación detallada del proceso a programadores y testers, manuales para usuarios.
+• Gestión de control de producción, análisis de procesos, comprensión de procesos, identificación y definición de problemas, historias de usuario para cada proceso, diagrama de estados, diccionario de datos, explicación detallada de procesos para programadores y testers, y manuales de usuario.
+• Se realizó Backlog, Diagrama de Proceso, Diagrama de flujo, con la información proporcionada por el BRD entregado del cliente.
+• Se analizó, gestionó, diagramó y propuso el posible backlog para la solución del BRD entregado por el cliente para el proyecto.
+Empresa
+Softtek ­ IMSS | Puesto
+Business Analyst ­ Proficient | Desde:
+2 julio, 2025 | Hasta: 
+1 septiembre, 2025
+Actividades Principales | • Realicé mapeo y diagrama de procesos, concentrado y preparación de documentación para realizar prompts y obtener diagramas en la IA (Copilot).
+• Mapeo de datos y diagramas de procesos, así como la recopilación y preparación de documentación para crear prompts y obtener diagramas mediante IA (Copilot).
+Empresa
+Softtek ­ Element Corporation | Puesto
+Business Analyst ­ Proficient | Desde:
+2 bril, 2025 | Hasta: 
+1 julio, 2025
+Actividades Principales | • Administración de Backlog, Administración de Control de Producción, Administración de recursos, Análisis de proceso para un nuevo sistema, comprensión del proceso, identificación y definición de problemas en un nuevo sistema, gestión de partes interesadas, historial de usuario de cada proceso, diagrama de estado, diccionario de datos, explicación detallada del proceso a programadores y testers, manuales para usuarios, Experiencia de Usuario (UX), Interfaz de Usuario (UI)
+• Backlog, gestión de control de producción, gestión de recursos, análisis de procesos, comprensión de procesos, identificación y definición de problemas, historias de usuario para cada proceso, diagrama de estados, diccionario de datos, explicación detallada de procesos para programadores y testers, manuales de usuario, experiencia de usuario (UX) e interfaz de usuario (UI).
+Empresa
+Softtek - DHL | Puesto
+Business Analyst Expert | Desde:
+4 marzo, 2025 | Hasta: 
+1 abril, 2025
+Actividades Principales | • Administración de Control de Producción, Análisis de proceso para un nuevo sistema, comprensión del proceso, identificación y definición de problemas en un nuevo sistema, historias de usuario de cada proceso, diagrama de estado, diccionario de datos, explicación detallada del proceso a programadores y testers, manuales para usuarios.
+• Gestión de control de producción, análisis de procesos, comprensión de procesos, identificación y definición de problemas, historias de usuario para cada proceso, diagrama de estados, diccionario de datos, explicación detallada de procesos para programadores y testers, y manuales de usuario.
+Empresa
+Softtek ­ Element Corporation | Puesto
+Business Analyst ­ Proficient | Desde:
+2 enero, 2025 | Hasta: 
+3 marzo, 2025
+Actividades Principales | • Se realizó Backlog, Diagrama de Proceso, Diagrama de flujo, con la información proporcionada por el BRD entregado del cliente.
+• Se analizó, gestionó, diagramó y propuso el posible backlog para la solución del BRD entregado por el cliente para el proyecto.
+HERRAMIENTAS CONOCIDAS
+- Drawio
+- MS Excel
+- MS Word
+- JIRA
+- Confluence
+- DBeaver
+- IA Frida
+- Copilot
+- Web Focus
+- Oracle DB
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 mayo de 2007 hasta 01 noviembre de 2024
+Durante este período asumí responsabilidades relacionadas con análisis, documentación y soporte a proyectos. Me desempeñé en roles como Application Developer, Implement Projects, BI Analyst y Functional Leader. Enfocado en modelado de datos, documentación de procesos y acompañamiento a usuarios, participé en implementación de ERP, migraciones y desarrollo de reportes; brindé soporte a equipos de desarrollo y a usuarios finales, así como elaboración de manuales y coordinación de reuniones para validar requisitos.
+FORMACIÓN ACADÉMICA:
+Licenciatura en Informática Administrativa - 2001 - 2004 | Universidad Emilio Cárdenas (UDEC) | Cédula Profesional
+CURSOS
+- Advanced Object Oriented Analysis of Hard Problems using UML
+- Agile Business Analysis: Getting / Writing Lean Requirements
+- BPMN for business analysts
+- Business Analysis Fundamentals
+- Business Analysis Modeling Skills  Techniques
+- Business Analysis: Working with Use Cases
+- Identify  Define the Problem with Business Analysis
+- Mastering Data Modeling Fundamentals
+- BPMN 2.0 with Brian: From Beginner to Winner
+- The Practical BPMN 2.0 Master Class
+- UML para Analistas de Negocios
+______________________________________
+Diana Trigos Naval
+Analista Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

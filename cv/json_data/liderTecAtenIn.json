@@ -1,0 +1,1201 @@
+[
+  {
+    "nombre": "Agustina Flores Campos",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "12075735",
+    "fecha_cedula": "09/09/2020",
+    "rol_propuesto": "Lider Técnico de atención de incidentes",
+    "resumen_profesional": "Cuento con más de 5 años de experiencia en desarrollo de software, liderazgo técnico y atención y resolución de problemas. Poseo dominio de tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source. Adicionalmente, tengo 3 años de experiencia trabajando bajo metodologías ágiles.\n\nEn mi trayectoria he participado en proyectos de remediación de vulnerabilidades y actualización de versiones para sistemas empresariales, trabajando tanto en front‑end (HTML, CSS, JavaScript) como en back‑end (Java (Lenguaje de programación para desarrollo de aplicaciones), PHP (Lenguaje de desarrollo web), Python) y bases de datos (MySQL, PostgreSQL (Base de datos relacional avanzada)). He liderado equipos y colaborado en la definición e implementación de correcciones que mejoran la seguridad y estabilidad de las aplicaciones.\n\nMe centro en la coordinación técnica y en la toma de decisiones para resolver incidencias, manteniendo comunicación efectiva con equipos multidisciplinarios y brindando apoyo técnico y capacitación a compañeros. Mantengo un enfoque en la calidad del código, la implementación de fixes y la continuidad operativa durante las actividades de remediación.",
+    "funciones": "Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos, evaluando la situación, tomando decisiones críticas y asegurando una comunicación efectiva para la resolución de incidentes. Cuento con habilidades en toma de decisiones y liderazgo.\n\nMe enfoco en coordinar técnicamente y tomar decisiones para resolver incidentes, asegurando comunicación clara con equipos multidisciplinarios, control del proceso de resolución y apoyo en la capacitación técnica del personal.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Software Engineer ­ Proficient",
+        "fecha_inicio": "1 noviembre 2023",
+        "fecha_fin": "31 julio 2024",
+        "actividades_principales": [
+          "Dirijo y coordino a equipos de trabajo para restaurar servicios ante fallas que se presenten en la operación de los aplicativos. Evalúo la situación, tomo decisiones críticas y aseguro la comunicación efectiva para resolver el incidente. Habilidades en: Toma de decisiones, Liderazgo. Como líder técnico de atención de incidentes, planifico, controlo y doy seguimiento a la fase de resolución y estabilización, asegurando la correcta implementación de soluciones alineadas a la arquitectura de software, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación utilizando y/o adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de incidentes complejos para garantizar la continuidad operativa.",
+          "Comprendo la propuesta de negocio y las necesidades del cliente, aplicándolas en la atención y resolución de incidentes en entornos productivos, especialmente en servicios y plataformas críticas.",
+          "Defino planes de trabajo detallados para la atención de incidentes, priorizando actividades conforme a su severidad (P1–P4) y asegurando el cumplimiento de SLA/OLA.",
+          "Estimo y asigno tareas técnicas necesarias para la resolución de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.",
+          "Colaboro con el arquitecto en la definición de soluciones técnicas durante incidentes, asegurando alineación con la arquitectura y estándares establecidos.",
+          "Aseguro la aplicación de estándares de codificación y bases de datos durante la implementación de soluciones correctivas.",
+          "Asesoro y coordino a ingenieros de software en la atención de incidentes, especialmente en escenarios críticos o de alta complejidad.",
+          "Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atención de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeño.",
+          "Administro la configuración de los componentes involucrados en la solución de incidentes, asegurando control y trazabilidad de cambios.",
+          "Desarrollo y/o coordino implementaciones de solución (fixes, hotfixes) para restaurar servicios afectados.",
+          "Aseguro la aplicación de checklists en la validación de soluciones antes de su liberación a producción.",
+          "Coordino la integración de componentes técnicos dentro de la arquitectura para garantizar una recuperación estable del servicio.",
+          "Defino prioridades en cada iteración de atención de incidentes, enfocándome en minimizar el impacto al negocio.",
+          "Promuevo la aplicación de patrones de diseño en las soluciones implementadas para evitar recurrencias.",
+          "Participo en la definición de esquemas de integración entre aplicaciones durante la resolución de incidentes.",
+          "Coordino la atención de incidentes críticos (Major Incidents), liderando convocatorias, toma de decisiones técnicas y comunicación durante la contingencia.",
+          "Identifico la causa raíz de incidentes y lidero análisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.",
+          "Trabajo en entornos de operación continua, asegurando la estabilidad y continuidad del servicio después de la resolución de incidentes.",
+          "Actúo como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.",
+          "Genero resultados medibles en la mejora de la operación, reduciendo tiempos de atención, reincidencias e impacto al negocio.",
+          "Mantengo una trayectoria continua en roles de atención y gestión de incidentes, consolidando experiencia en entornos productivos.",
+          "He participado en proyectos de más de 20 mil horas, donde lidero la atención de incidentes y defino soluciones para requerimientos no funcionales, asegurando la estabilidad y el correcto desempeño de los sistemas en producción. Además, planifico y coordino equipos de más de 15 ingenieros de software durante la resolución de incidentes, garantizando una ejecución eficiente y oportuna de las actividades.",
+          "He usado el curso MS‑ para aplicar casos de uso de Copilot en Microsoft 365 orientados a la productividad y adopción de IA",
+          "He usado la certificación Foundational C# with Microsoft para desarrollar aplicaciones utilizando los fundamentos del lenguaje C# y el ecosistema Microsoft",
+          "He usado la certificación AWS Certified Cloud Practitioner para aplicar los fundamentos de computación en la nube de AWS, incluyendo servicios principales, seguridad, arquitectura básica y modelos de costos",
+          "He usado la certificación Six Sigma Yellow Belt Professional para aplicar principios de mejora continua, análisis de procesos y reducción de variabilidad en entornos organizacionales",
+          "He usado la certificación Certified SAFe® 5 Practitioner para aplicar prácticas ágiles escaladas bajo el marco SAFe en entornos empresariales",
+          "He usado la certificación Remote Work Professional Certification para aplicar buenas prácticas de trabajo remoto, colaboración digital y productividad distribuida",
+          "He usado la certificación Scrum Foundation Professional Certification para aplicar los fundamentos del marco de trabajo Scrum en equipos ágiles",
+          "He usado la certificación Cybersecurity Awareness Professional Certification para aplicar prácticas de concientización en ciberseguridad y protección de la información",
+          "He usado la certificación Negotiation Associate para aplicar técnicas de negociación efectiva en contextos profesionales y organizacionales",
+          "He usado la certificación Scrum Fundamentals Certified para aplicar los principios básicos de Scrum en la gestión de proyectos ágiles",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.",
+          "STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.",
+          "STE: Ejecuto escenarios de prueba.",
+          "INT: Diseño y preparo testware.",
+          "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de pruebas del usuario.",
+          "Remediación de vulnerabilidades y actualización de versiones de los diferentes sistemas de coppel.",
+          "Proyecto de remediacion de vulnerabilidades de sistemas existentes de Coppel, se hacen remediaciones en codigo a sentencias SQL (Lenguaje para gestión y consulta de bases de datos relacionales) para pasarlas a un api echa en node y TypeScript para llamarlas mediante un microservicio, tambien se hacen remediaciones de vulnerabilidades en codigo de sistemas en lenguajes como PHP (Lenguaje de desarrollo web), Java (Lenguaje de programación para desarrollo de aplicaciones), C/C++ y JavaScript.",
+          "Academia cells: Capacitación en la tecnología LitElement, LitHTML, CSS, JavaScript y POO. JavaScript ­Array helpers: forech, map, filter, find, some, every, reduce, ­Arrow functions, events, Operadores de propagacion, ajax, jquery, fetch, service workers. Polymer ­bower, shadowDOM, computed, notify, observers, bubbles, composed, iron­ajax, webcomponents, custom elements.",
+          "Creación de un sistema web para el cálculo de métricas para evaluar la calidad de un software.",
+          "Creación de una red personal. Organización y clasificación de información. Elaboración de una base de datos y sistemas de información. Recopilación de información para la acreditación de la carrera de Ingeniería Industrial."
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Desarrollador",
+        "fecha_inicio": "30 noviembre 2021",
+        "fecha_fin": "31 enero 2023",
+        "actividades_principales": [
+          "Proyecto de remediacion de vulnerabilidades de sistemas existentes de Coppel, se hacen remediaciones en codigo a sentencias SQL (Lenguaje para gestión y consulta de bases de datos relacionales) para pasarlas a un api echa en node y TypeScript para llamarlas mediante un microservicio, tambien se hacen remediaciones de vulnerabilidades en codigo de sistemas en lenguajes como PHP (Lenguaje de desarrollo web), Java (Lenguaje de programación para desarrollo de aplicaciones), C/C++ y JavaScript."
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Desarrollador",
+        "fecha_inicio": "1 julio 2021",
+        "fecha_fin": "28 noviembre 2021",
+        "actividades_principales": [
+          "Academia cells: Capacitación en la tecnología LitElement, LitHTML, CSS, JavaScript y POO. JavaScript ­Array helpers: forech, map, filter, find, some, every, reduce, ­Arrow functions, events, Operadores de propagacion, ajax, jquery, fetch, service workers. Polymer ­bower, shadowDOM, computed, notify, observers, bubbles, composed, iron­ajax, webcomponents, custom elements."
+        ]
+      },
+      {
+        "empresa": "Cenidet",
+        "puesto": "Programador Java/JEE",
+        "fecha_inicio": "1 enero 2020",
+        "fecha_fin": "30 junio 2021",
+        "actividades_principales": [
+          "Creación de un sistema web para el cálculo de métricas para evaluar la calidad de un software."
+        ]
+      },
+      {
+        "empresa": "Instituto Tecnológico de Cuautla",
+        "puesto": "Desarrollador ( Servicio social)",
+        "fecha_inicio": "1 enero 2018",
+        "fecha_fin": "31 julio 2018",
+        "actividades_principales": [
+          "Creación de una red personal. Organización y clasificación de información. Elaboración de una base de datos y sistemas de información. Recopilación de información para la acreditación de la carrera de Ingeniería Industrial."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "",
+    "resumen_laboral": "",
+    "estudios": {
+      "carrera": "Ingeniero en sistemas computacionales",
+      "lugar": "Instituto Tecnologico de Cuautla",
+      "periodo": "Agosto 2014 - Diciembre 2018"
+    },
+    "herramientas": [
+      {
+        "nombre": "TypeScript"
+      },
+      {
+        "nombre": "SQL (Lenguaje para gestión y consulta de bases de datos relacionales)"
+      },
+      {
+        "nombre": "PostgreSQL (Base de datos relacional avanzada)"
+      },
+      {
+        "nombre": "PHP (Lenguaje de desarrollo web)"
+      },
+      {
+        "nombre": "MySQL"
+      },
+      {
+        "nombre": "Microsoft SQL Server"
+      },
+      {
+        "nombre": "JavaServer Pages (JSP)"
+      },
+      {
+        "nombre": "Javascript"
+      },
+      {
+        "nombre": "Java EE / J2EE"
+      },
+      {
+        "nombre": "Java 8"
+      },
+      {
+        "nombre": "HTML5"
+      },
+      {
+        "nombre": "Git"
+      },
+      {
+        "nombre": "CSS/CSS3"
+      },
+      {
+        "nombre": "C/C++"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "AWS Certified Cloud Practitioner 2026-2029",
+        "anio": "2026-2029"
+      },
+      {
+        "nombre": "Six Sigma Yellow Belt Professional (SSYB™) 2024",
+        "anio": "2024"
+      },
+      {
+        "nombre": "Certified SAFe® 5 Practitioner 2022",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Remote Work Professional Certification (RWPC™) – CertiProf 2024-2027",
+        "anio": "2024"
+      },
+      {
+        "nombre": "Scrum Foundation Professional Certification (SFPC™) – CertiProf 2024",
+        "anio": "2024"
+      },
+      {
+        "nombre": "Cybersecurity Awareness Professional Certification (CAPC™) – CertiProf 2027",
+        "anio": "2027"
+      },
+      {
+        "nombre": "Negotiation Associate (NCN‑A™) 2024",
+        "anio": "2024"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified (SFC™) – SCRUMstudy 2022",
+        "anio": "2022"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "MS‑4004: Empower your workforce with Copilot for Microsoft 365 Use Cases"
+      },
+      {
+        "nombre": "Foundational C# with Microsoft"
+      }
+    ]
+  },
+  {
+    "nombre": "Erick Daniel Lozoya Rosas",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "14621831",
+    "fecha_cedula": "16/12/2024",
+    "rol_propuesto": "Lider Técnico de atención de incidentes",
+    "resumen_profesional": "Cuento con más de 5 años de experiencia en desarrollo de software, liderazgo técnico y atención y resolución de problemas. Poseo dominio de tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source. Adicionalmente, tengo 3 años de experiencia trabajando bajo metodologías ágiles.\n\nHe trabajado en el desarrollo y mantenimiento de aplicaciones web y servicios backend, aplicando ColdFusion, C# (Lenguaje de programación para desarrollo backend), PHP (Lenguaje de desarrollo web), SQL (Lenguaje para gestión y consulta de bases de datos relacionales) y soluciones en la nube con AWS (Plataforma de servicios en la nube). Realizo correcciones de defectos, actualizaciones y mejoras, y empleo herramientas de control y escaneo de código para mantener la calidad del software.\n\nMe especializo en la identificación y resolución de incidentes en entornos productivos, realizando diagnóstico de fallas, coordinando equipos técnicos y estableciendo comunicación clara con áreas de infraestructura y negocio para restablecer servicios y minimizar el impacto operativo.",
+    "funciones": "Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos, evaluando la situación, tomando decisiones críticas y asegurando una comunicación efectiva para la resolución de incidentes. Cuento con habilidades en toma de decisiones y liderazgo. Me especializo en identificar y resolver incidentes en entornos productivos, realizando detección y diagnóstico de fallas, coordinando equipos técnicos y manteniendo comunicación efectiva con infraestructura y áreas de negocio para restablecer servicios y minimizar el impacto al negocio.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "System Engineer",
+        "fecha_inicio": "1 marzo 2021",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos. Evalúo la situación, tomo decisiones críticas y aseguro la comunicación efectiva para resolver el incidente. Cuento con habilidades en toma de decisiones y liderazgo. Como líder técnico de atención de incidentes, planifico, controlo y doy seguimiento a la fase de resolución y estabilización, asegurando la correcta implementación de soluciones alineadas a la arquitectura de software, incluyendo patrones de diseño y cobertura de la aplicación. Tomo decisiones tecnológicas y de implementación adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de incidentes complejos para garantizar la continuidad operativa.",
+          "Comprendo la propuesta de negocio y las necesidades del cliente, aplicándolas en la atención y resolución de incidentes en entornos productivos, especialmente en servicios y plataformas críticas.",
+          "Defino planes de trabajo detallados para la atención de incidentes, priorizando actividades conforme a su severidad (P1–P4) y asegurando el cumplimiento de SLA/OLA.",
+          "Estimo y asigno tareas técnicas necesarias para la resolución de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.",
+          "Colaboro con el arquitecto en la definición de soluciones técnicas durante incidentes, asegurando alineación con la arquitectura y estándares establecidos.",
+          "Aseguro la aplicación de estándares de codificación y bases de datos durante la implementación de soluciones correctivas.",
+          "Asesoro y coordino a ingenieros de software en la atención de incidentes, especialmente en escenarios críticos o de alta complejidad.",
+          "Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atención de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeño.",
+          "Administro la configuración de los componentes involucrados en la solución de incidentes, asegurando control y trazabilidad de cambios.",
+          "Desarrollo y/o coordino implementaciones de solución (fixes, hotfixes) para restaurar servicios afectados.",
+          "Aseguro la aplicación de checklists en la validación de soluciones antes de su liberación a producción.",
+          "Coordino la integración de componentes técnicos dentro de la arquitectura para garantizar una recuperación estable del servicio.",
+          "Defino prioridades en cada iteración de atención de incidentes, enfocándome en minimizar el impacto al negocio.",
+          "Promuevo la aplicación de patrones de diseño en las soluciones implementadas para evitar recurrencias.",
+          "Participo en la definición de esquemas de integración entre aplicaciones durante la resolución de incidentes.",
+          "Coordino la atención de incidentes críticos (Major Incidents), liderando convocatorias, toma de decisiones técnicas y comunicación durante la contingencia.",
+          "Identifico la causa raíz de incidentes y lidero análisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.",
+          "Trabajo en entornos de operación continua, asegurando la estabilidad y continuidad del servicio después de la resolución de incidentes.",
+          "Actúo como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.",
+          "Genero resultados medibles en la mejora de la operación, reduciendo tiempos de atención, reincidencias e impacto al negocio.",
+          "Mantengo una trayectoria continua en roles de atención y gestión de incidentes, consolidando experiencia en entornos productivos.",
+          "He aplicado el diploma en Computación y modelado matemático y numérico para aplicar técnicas de cómputo, modelado matemático y métodos numéricos en la resolución de problemas complejos",
+          "He aplicado la certificación Certified PHP Developer para desarrollar aplicaciones web utilizando PHP y fundamentos de desarrollo web",
+          "He puesto en práctica la certificación Adobe Certified Professional – Adobe ColdFusion para desarrollar y mantener aplicaciones web utilizando la plataforma Adobe ColdFusion",
+          "He aprovechado la certificación AWS Certified Cloud Practitioner para aplicar fundamentos de computación en la nube, servicios de AWS, seguridad y modelos de costos",
+          "He incorporado la certificación Cybersecurity Awareness Professional Certification para aplicar prácticas de concientización en ciberseguridad y protección de la información",
+          "He utilizado la certificación Remote Work Professional Certification para aplicar buenas prácticas de trabajo remoto, colaboración digital y productividad distribuida",
+          "He aplicado la certificación Scrum Fundamentals Certified para aplicar los principios básicos del marco de trabajo Scrum en proyectos ágiles",
+          "He puesto en práctica la certificación Scrum Developer Certified para aplicar prácticas ágiles y técnicas Scrum orientadas al desarrollo de software",
+          "He integrado la certificación Scrum for Operations & DevOps Fundamentals Certified para aplicar principios ágiles en entornos de operaciones y DevOps",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek: CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.",
+          "CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.",
+          "STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.",
+          "STE: Ejecuto escenarios de prueba.",
+          "INT: Diseño y preparo testware.",
+          "UAT: Apoyo en las actividades de pruebas del usuario.",
+          "Trabajo como desarrollador backend utilizando tecnologías como ColdFusion, PHP, ASP, SQL Server y GitLab para dar mantenimiento y actualizar aplicaciones web.",
+          "Soluciono problemas de código, defectos del sistema y vulnerabilidades utilizando ColdFusion, PHP y ASP en aplicaciones web.",
+          "Utilizo herramientas de escaneo de vulnerabilidades y defectos como Checkmarx para mejorar la sanidad del código.",
+          "Trabajé como desarrollador backend en un sistema para una compañía de seguros en Perú, donde desarrollé servicios web y aplicaciones web con C# en ASP MVC, utilizando también SQL Server.",
+          "Realicé el desarrollo del rediseño completo de un sistema interno, adaptando las tecnologías a una versión más actualizada.",
+          "Creé y di mantenimiento a APIs REST utilizando .NET Core para implementarlas en el desarrollo Frontend."
+        
+        ]
+      },
+      {
+        "empresa": "EISEI Innovation",
+        "puesto": "Net Developer",
+        "fecha_inicio": "2 mayo 2019",
+        "fecha_fin": "28 febrero 2021",
+        "actividades_principales": [
+          "Trabajé como desarrollador backend en un sistema para una compañía de seguros en Perú, donde desarrollé servicios web y aplicaciones web con C# en ASP MVC, utilizando también SQL Server.",
+          "Realicé el desarrollo del rediseño completo de un sistema interno, adaptando las tecnologías a una versión más actualizada.",
+          "Creé y di mantenimiento a APIs REST utilizando .NET Core para implementarlas en el desarrollo Frontend."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 agosto de 2018 hasta 30 abril de 2019",
+    "resumen_laboral": "Durante este período asumí responsabilidades en desarrollo, mantenimiento y soporte de aplicaciones y plataformas en la nube mediante AWS (Plataforma de servicios en la nube). Me desempeñé en puestos como System Engineer, Net Developer y Cloud Engineer, trabajando en implementación y modernización de sistemas, creación y consumo de APIs, y mantenimiento de bases de datos con SQL (Lenguaje para gestión y consulta de bases de datos relacionales). Participé en soporte productivo, resolución de fallas y despliegues coordinados, colaborando con equipos de desarrollo e infraestructura para asegurar la continuidad y disponibilidad de los servicios.",
+    "estudios": {
+      "carrera": "Ingeniería en Software",
+      "lugar": "Universidad Politécnica de Durango, Durango, Durango",
+      "periodo": "noviembre 2016 a diciembre 2019"
+    },
+    "herramientas": [
+      {
+        "nombre": "ColdFusion"
+      },
+      {
+        "nombre": "C#"
+      },
+      {
+        "nombre": "PHP"
+      },
+      {
+        "nombre": "Javascript"
+      },
+      {
+        "nombre": "TypeScript"
+      },
+      {
+        "nombre": "PostgreSQL"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "DynamoDB"
+      },
+      {
+        "nombre": "MySQL"
+      },
+      {
+        "nombre": "GitLab"
+      },
+      {
+        "nombre": "TFS"
+      },
+      {
+        "nombre": "Amazon Web Services"
+      },
+      {
+        "nombre": "Checkmarx"
+      },
+      {
+        "nombre": "Lambda"
+      },
+      {
+        "nombre": "API Gateway"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "Adobe Certified Professional – Adobe ColdFusion",
+        "anio": "2022-2026"
+      },
+      {
+        "nombre": "AWS Certified Cloud Practitioner",
+        "anio": "2022-2025"
+      },
+      {
+        "nombre": "Cybersecurity Awareness Professional Certification (CAPC™) – CertiProf",
+        "anio": "2027"
+      },
+      {
+        "nombre": "Remote Work Professional Certification (RWPC™) – CertiProf",
+        "anio": "2024-2027"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified (SFC™) – SCRUMstudy",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Scrum Developer Certified (SDC®) – SCRUMstudy",
+        "anio": "2023-2026"
+      },
+      {
+        "nombre": "Scrum for Operations & DevOps Fundamentals Certified (SODFC™) – SCRUMstudy",
+        "anio": "2024"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "Computación y modelado matemático y numérico"
+      },
+      {
+        "nombre": "Certified PHP Developer – W3Schools"
+      }
+    ]
+  },
+  {
+    "nombre": "Gabriela Ocadiz Barron",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "3717660",
+    "fecha_cedula": "22/10/2002",
+    "rol_propuesto": "Lider Tecnico de atencion de incidentes",
+    "resumen_profesional": "Cuento con mas de 5 anos de experiencia en desarrollo de software, liderazgo tecnico y atencion y resolucion de problemas. Poseo dominio de tecnologias de la Arquitectura de Referencia (AR) y/o tecnologias open source. Adicionalmente, tengo 3 anos de experiencia trabajando bajo metodologias agiles.\n\nHe construido una trayectoria enfocada en soporte y continuidad operativa de aplicaciones empresariales para GE, atendiendo incidentes y requerimientos conforme a SLA, realizando monitoreo, analisis de impacto, documentacion y acompanamiento funcional a usuarios. Tambien he participado en mantenimiento de workflows, respaldo de bases de datos y ejecucion de pruebas en proyectos de soporte y desarrollo.\n\nMi experiencia me permite mantener la estabilidad del servicio mediante seguimiento puntual, comunicacion con areas involucradas y resolucion ordenada de fallas en entornos con Oracle, Tableau, Informatica y herramientas de gestion. Aporto criterio tecnico para atender incidencias, dar continuidad a procesos definidos por el cliente y apoyar la operacion diaria de aplicaciones criticas.",
+    "funciones": "Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operacion de los aplicativos, evaluando la situacion, tomando decisiones criticas y asegurando una comunicacion efectiva para la resolucion de incidentes. Cuento con habilidades en toma de decisiones y liderazgo.\n\nHe desarrollado una trayectoria enfocada en soporte y continuidad operativa de aplicaciones empresariales para GE, atendiendo incidentes y requerimientos conforme a SLA, realizando monitoreo, analisis de impacto, documentacion y acompanamiento funcional a usuarios. Tambien he participado en mantenimiento de workflows, respaldo de bases de datos y ejecucion de pruebas en proyectos de soporte y desarrollo.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Software Engineer",
+        "fecha_inicio": "1 enero 2025",
+        "fecha_fin": "30 junio 2025",
+        "actividades_principales": [
+          "Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operacion de los aplicativos. Evaluo la situacion, tomo decisiones criticas y aseguro una comunicacion efectiva para resolver incidentes. Tengo habilidades en toma de decisiones y liderazgo. Como lider tecnico de atencion de incidentes, planifico, controlo y doy seguimiento a la fase de resolucion y estabilizacion, asegurando la correcta implementacion de soluciones alineadas a la arquitectura de software, incluidos patrones de diseno y la cobertura general de la aplicacion. Tomo decisiones tecnologicas y de implementacion utilizando y/o adaptando frameworks y estandares, y brindo asesoria al equipo tecnico en la atencion de incidentes complejos para garantizar la continuidad operativa.",
+          "Entiendo la propuesta de negocio y las necesidades del cliente, aplicandolas en la atencion y resolucion de incidentes en entornos productivos, especialmente en servicios y plataformas criticas.",
+          "Defino planes de trabajo detallados para atender incidentes, priorizando actividades conforme a su severidad (P1-P4) y asegurando el cumplimiento de SLA/OLA.",
+          "Estimo y asigno las tareas tecnicas necesarias para la resolucion de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.",
+          "Colaboro con el arquitecto en la definicion de soluciones tecnicas durante incidentes, asegurando alineacion con la arquitectura y estandares establecidos.",
+          "Aseguro la aplicacion de estandares de codificacion y bases de datos durante la implementacion de soluciones correctivas.",
+          "Asesoro y coordino a ingenieros de software en la atencion de incidentes, especialmente en escenarios criticos o de alta complejidad.",
+          "Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atencion de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeno.",
+          "Administro la configuracion de los componentes involucrados en la solucion de incidentes, asegurando control y trazabilidad de cambios.",
+          "Desarrollo y/o coordino implementaciones de solucion (fixes, hotfixes) para restaurar servicios afectados.",
+          "Aseguro la aplicacion de checklists en la validacion de soluciones antes de su liberacion a produccion.",
+          "Coordino la integracion de componentes tecnicos dentro de la arquitectura para garantizar una recuperacion estable del servicio.",
+          "Defino prioridades en cada iteracion de atencion de incidentes, enfocandome en minimizar el impacto al negocio.",
+          "Promuevo la aplicacion de patrones de diseno en las soluciones implementadas para evitar recurrencias.",
+          "Participo en la definicion de esquemas de integracion entre aplicaciones durante la resolucion de incidentes.",
+          "Coordino la atencion de incidentes criticos (Major Incidents), liderando convocatorias, toma de decisiones tecnicas y comunicacion durante la contingencia.",
+          "Identifico la causa raiz de incidentes y lidero analisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.",
+          "Trabajo en entornos de operacion continua, asegurando la estabilidad y continuidad del servicio despues de la resolucion de incidentes.",
+          "Actuo como punto de escalamiento tecnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.",
+          "Genero resultados medibles en la mejora de la operacion, reduciendo tiempos de atencion, reincidencias e impacto al negocio.",
+          "Mantengo una trayectoria continua en roles de atencion y gestion de incidentes, consolidando experiencia en entornos productivos.",
+          "He participado en proyectos de mas de 20 mil horas, donde lidero la atencion de incidentes y defino soluciones para requerimientos no funcionales, asegurando la estabilidad y el correcto desempeno de los sistemas en produccion. Ademas, planifico y coordino equipos de mas de 15 ingenieros de software durante la resolucion de incidentes, garantizando una ejecucion eficiente y oportuna de las actividades.",
+          "He aprovechado la certificación AWS Certified Cloud Practitioner para aplicar fundamentos de computación en la nube, servicios de AWS, seguridad y modelos de costos",
+          "He utilizado la certificación Microsoft Certified: Azure Fundamentals para aplicar conceptos fundamentales de computación en la nube, servicios de Azure, seguridad y principios básicos de arquitectura",
+          "He aplicado la certificación Scrum Fundamentals Certified para comprender y aplicar los principios básicos del marco de trabajo Scrum en entornos ágiles",
+          "He puesto en práctica la certificación Scrum Master Certified para facilitar equipos Scrum, gestionar ceremonias ágiles y promover la entrega de valor continuo en proyectos",
+          "Participo en los siguientes procesos definidos por la metodologia PDSS3 de atencion de proyectos tradicionales de Softtek:",
+          "CTR: Diseno y preparo testware, ademas de ejecutar pruebas independientes.",
+          "STD: Diseno y preparo testware, asi como generar scripts de pruebas de desempeno.",
+          "STE: Ejecuto escenarios de prueba.",
+          "INT: Diseno y preparo testware.",
+          "Pruebas de Aceptacion de Usuario (UAT): Apoyo en las actividades de pruebas del usuario.",
+          "Realizo soporte de sistema SOA (Service Oriented Architecture) bajo los procesos estandar definidos por el cliente, mantenimiento de workflows y datos en Proficy Workflow Client, y respaldo de bases de datos.",
+          "Atiendo incidents y requerimientos de acuerdo a los SLAs.",
+          "Resuelvo Break/Fix basado en la metodologia del cliente.",
+          "Creo y mantengo documentacion.",
+          "Guio a usuarios sobre la funcionalidad de la aplicacion.",
+          "Desarrollo enhancements menores.",
+          "Programo mejoras de codigo y arreglo de bugs para aplicaciones en Oracle 6i, 8i, 9i, 10g, 12c y 19c, Oracle PL/SQL y Oracle Forms and Reports.",
+          "Realizo monitoreo de aplicaciones e interfaces.",
+          "Realizo analisis de impacto.",
+          "Modifico y publico reportes de Tableau.",
+          "Monitoreo y ejecuto workflows de Informatica.",
+          "Manejo requerimientos en ServiceNow (ITSM para incidencias, cambios y problemas).",
+          "Doy soporte a aplicaciones en Jira (Herramienta de gestion agil y seguimiento de issues/sprints) y Confluence (Documentacion colaborativa y base de conocimiento)."
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Software Engineer",
+        "fecha_inicio": "1 diciembre 2005",
+        "fecha_fin": "30 junio 2024",
+        "actividades_principales": [
+          "Atiendo incidents y requerimientos de acuerdo a los SLAs.",
+          "Resuelvo Break/Fix basado en la metodologia del cliente.",
+          "Creo y mantengo documentacion.",
+          "Guio a usuarios sobre la funcionalidad de la aplicacion.",
+          "Desarrollo enhancements menores.",
+          "Programo mejoras de codigo y arreglo de bugs para aplicaciones en Oracle 6i, 8i, 9i, 10g, 12c y 19c, Oracle PL/SQL y Oracle Forms and Reports.",
+          "Realizo monitoreo de aplicaciones e interfaces.",
+          "Realizo analisis de impacto.",
+          "Modifico y publico reportes de Tableau.",
+          "Monitoreo y ejecuto workflows de Informatica.",
+          "Manejo requerimientos en ServiceNow (ITSM para incidencias, cambios y problemas).",
+          "Doy soporte a aplicaciones en Jira (Herramienta de gestion agil y seguimiento de issues/sprints) y Confluence (Documentacion colaborativa y base de conocimiento)."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 febrero de 2001 hasta 31 diciembre de 2024",
+    "resumen_laboral": "Durante este periodo me desempeñe como Software Engineer y Application Developer, participando en actividades de desarrollo y soporte para aplicaciones empresariales. Realice ajustes a formas, reportes y componentes de base de datos, ejecute escenarios de prueba y apoye la atencion de necesidades operativas bajo procesos definidos. Tambien colabore en iniciativas de automatizacion orientadas a mejorar procesos de facturacion y contratacion, manteniendo un enfoque en continuidad de servicio, documentacion y cumplimiento de requerimientos del negocio.",
+    "estudios": {
+      "carrera": "Licenciatura en Computacion",
+      "lugar": "Universidad Autonoma del Estado de Hidalgo, Pachuca, Hidalgo",
+      "periodo": "agosto 1996 a diciembre 2000"
+    },
+    "herramientas": [
+      {
+        "nombre": "Tableau"
+      },
+      {
+        "nombre": "PLSQL"
+      },
+      {
+        "nombre": "Oracle SQL Developer"
+      },
+      {
+        "nombre": "Oracle Reports"
+      },
+      {
+        "nombre": "Oracle Forms/Reports"
+      },
+      {
+        "nombre": "Oracle Forms"
+      },
+      {
+        "nombre": "Oracle Database"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "Microsoft SQL Server"
+      },
+      {
+        "nombre": "JIRA"
+      },
+      {
+        "nombre": "Informatica Power Center"
+      },
+      {
+        "nombre": "Informatica"
+      },
+      {
+        "nombre": "Confluence"
+      },
+      {
+        "nombre": "SQL Server Management Studio 20.2"
+      },
+      {
+        "nombre": "Workflow Proficy Client"
+      },
+      {
+        "nombre": "DBeaver"
+      },
+      {
+        "nombre": "Service Now"
+      },
+      {
+        "nombre": "Oracle Forms and Reports 12c"
+      },
+      {
+        "nombre": "Oracle PL/SQL"
+      },
+      {
+        "nombre": "Pro C"
+      },
+      {
+        "nombre": "GitHub"
+      },
+      {
+        "nombre": "PL/SQL Developer"
+      },
+      {
+        "nombre": "CVS"
+      },
+      {
+        "nombre": "Oracle 8i"
+      },
+      {
+        "nombre": "Oracle 9i"
+      },
+      {
+        "nombre": "Oracle 10g"
+      },
+      {
+        "nombre": "Oracle 12c"
+      },
+      {
+        "nombre": "Oracle 19c"
+      },
+      {
+        "nombre": "Oracle Forms and Reports 6i"
+      },
+      {
+        "nombre": "Oracle Forms and Reports 19c"
+      },
+      {
+        "nombre": "Oracle Forms/Reports 8i"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "AWS Certified Cloud Practitioner",
+        "anio": "2022-2025"
+      },
+      {
+        "nombre": "Microsoft Certified: Azure Fundamentals",
+        "anio": "2020"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified (SFC(TM)) - SCRUMstudy",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Scrum Master Certified (SMC(TM)) - SCRUMstudy",
+        "anio": "2022-2025"
+      }
+    ],
+    "cursos": []
+  },
+  {
+    "nombre": "Cesar Gonzalez Lopez",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "4893710",
+    "fecha_cedula": "05/09/2006",
+    "rol_propuesto": "Lider Técnico de atención de incidentes",
+    "resumen_profesional": "Cuento con más de 5 años de experiencia en desarrollo de software, liderazgo técnico y atención y resolución de problemas. Poseo dominio de tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source. Adicionalmente, tengo 3 años de experiencia trabajando bajo metodologías ágiles.\n\nHe participado en el diseño de arquitectura de nuevas aplicaciones, la administración de proyectos de desarrollo y soporte L2/L3, el análisis de requerimientos y la elaboración de propuestas y estimaciones. También he apoyado la solución de incidentes y el crecimiento técnico de equipos de desarrollo.\n\nMi experiencia incluye implementaciones globales, desarrollos frontend, optimización de procesos en bases de datos y construcción de soluciones para líneas de producción, sistemas de accionistas, procesos financieros y operación interna. Mantengo enfoque en la continuidad operativa, la coordinación técnica y la atención oportuna de fallas en aplicativos.",
+    "funciones": "Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos, evaluando la situación, tomando decisiones críticas y asegurando una comunicación efectiva para la resolución de incidentes. Cuento con habilidades en toma de decisiones y liderazgo.\n\nHe participado en el diseño de arquitectura de nuevas aplicaciones, la gestión de proyectos de desarrollo y soporte L2/L3, el análisis de requerimientos y la preparación de propuestas y estimaciones. También he respaldado la solución de incidentes y el crecimiento técnico de equipos de desarrollo.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek Monterrey - Digital Office",
+        "puesto": "",
+        "fecha_inicio": "1 febrero 2016",
+        "fecha_fin": "12 abril 2026",
+        "actividades_principales": [
+          "Dirijo y coordino equipos de trabajo para restaurar un servicio ante fallas que se presentan en la operación de los aplicativos. Evalúo la situación, tomo decisiones críticas y aseguro una comunicación efectiva para resolver el incidente. Tengo habilidades en toma de decisiones y liderazgo. Como líder técnico de atención de incidentes, planifico, controlo y doy seguimiento a la fase de resolución y estabilización, asegurando la correcta implementación de soluciones alineadas a la arquitectura de software, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación utilizando y/o adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de incidentes complejos para garantizar la continuidad operativa.",
+          "Comprendo la propuesta de negocio y las necesidades del cliente, aplicándolas en la atención y resolución de incidentes en entornos productivos, especialmente en servicios y plataformas críticas.",
+          "Defino planes de trabajo detallados para la atención de incidentes, priorizando actividades conforme a su severidad (P1-P4) y asegurando el cumplimiento de SLA/OLA.",
+          "Estimo y asigno tareas técnicas necesarias para la resolución de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.",
+          "Colaboro con el arquitecto en la definición de soluciones técnicas durante incidentes, asegurando alineación con la arquitectura y estándares establecidos.",
+          "Aseguro la aplicación de estándares de codificación y bases de datos durante la implementación de soluciones correctivas.",
+          "Asesoro y coordino a ingenieros de software en la atención de incidentes, especialmente en escenarios críticos o de alta complejidad.",
+          "Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atención de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeño.",
+          "Administro la configuración de los componentes involucrados en la solución de incidentes, asegurando control y trazabilidad de cambios.",
+          "Desarrollo y/o coordino implementaciones de solución (fixes, hotfixes) para restaurar servicios afectados.",
+          "Aseguro la aplicación de checklists en la validación de soluciones antes de su liberación a producción.",
+          "Coordino la integración de componentes técnicos dentro de la arquitectura para garantizar una recuperación estable del servicio.",
+          "Defino prioridades en cada iteración de atención de incidentes, enfocándome en minimizar el impacto al negocio.",
+          "Promuevo la aplicación de patrones de diseño en las soluciones implementadas para evitar recurrencias.",
+          "Participo en la definición de esquemas de integración entre aplicaciones durante la resolución de incidentes.",
+          "Coordino la atención de incidentes críticos (Major Incidents), liderando convocatorias, toma de decisiones técnicas y comunicación durante la contingencia.",
+          "Identifico la causa raíz de incidentes y lidero análisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.",
+          "Trabajo en entornos de operación continua, asegurando la estabilidad y continuidad del servicio después de la resolución de incidentes.",
+          "Actúo como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.",
+          "Genero resultados medibles en la mejora de la operación, reduciendo tiempos de atención, reincidencias e impacto al negocio.",
+          "Mantengo una trayectoria continua en roles de atención y gestión de incidentes, consolidando experiencia en entornos productivos.",
+          "He participado en proyectos de más de 20 mil horas, donde lidero la atención de incidentes y defino soluciones para requerimientos no funcionales, asegurando la estabilidad y el adecuado desempeño de los sistemas en producción. Además, planifico y coordino equipos de más de 15 ingenieros de software durante la resolución de incidentes, garantizando una ejecución eficiente y oportuna de las actividades.",
+          "He usado el curso Python Essentials 1 para diseñar, desarrollar y depurar programas básicos en Python, aplicando fundamentos del lenguaje y lógica de programación",
+          "He usado el curso de Liderazgo Orientado a los Equipos para fortalecer habilidades de liderazgo, colaboración y gestión efectiva de equipos de trabajo",
+          "He usado la certificación Microsoft Certified: Azure Fundamentals para aplicar conceptos fundamentales de computación en la nube, servicios de Azure, seguridad y modelos de costos",
+          "He usado la certificación Scrum Fundamentals Certified para aplicar los principios básicos del marco de trabajo Scrum en entornos ágiles",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.",
+          "STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.",
+          "STE: Ejecuto escenarios de prueba.",
+          "INT: Diseño y preparo testware.",
+          "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de pruebas del usuario.",
+          "Diseñé la arquitectura de nuevas aplicaciones, administré proyectos de desarrollo y soporte L2/L3, analicé requerimientos, realicé propuestas y estimaciones de nuevos desarrollos, apoyé la solución de incidentes, impulsé el crecimiento técnico del equipo de desarrolladores e implementé aplicaciones a nivel global.",
+          "Apoyé con desarrollos frontend y optimización de procesos en base de datos.",
+          "Desarrollé aplicaciones para mejorar procesos en líneas de producción y sistema de accionistas."
+        ]
+      },
+      {
+        "empresa": "Softtek Monterrey - HEB",
+        "puesto": "",
+        "fecha_inicio": "2 mayo 2015",
+        "fecha_fin": "31 enero 2016",
+        "actividades_principales": [
+          "Apoyé con desarrollos frontend y optimización de procesos en base de datos."
+        ]
+      },
+      {
+        "empresa": "Deintec Monterrey NL",
+        "puesto": "Software Engineer - Senior",
+        "fecha_inicio": "2 junio 2014",
+        "fecha_fin": "30 abril 2015",
+        "actividades_principales": [
+          "Desarrollé aplicaciones para mejorar procesos en líneas de producción y sistema de accionistas."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 febrero de 2010 hasta 31 mayo de 2014",
+    "resumen_laboral": "Durante este período me desempeñé en funciones como Software Engineer - Senior, Software Engineer y Software Engineer - Junior, participando en el desarrollo de software para procesos financieros, operación interna, gobierno, sector privado, una empresa siderúrgica y soluciones para puntos de venta. También atendí mantenimiento y construcción de aplicaciones web y de escritorio, con enfoque en apoyar la operación del negocio y dar continuidad a procesos internos mediante soluciones de software.",
+    "estudios": {
+      "carrera": "Computer Science",
+      "lugar": "Instituto Tecnologico de Puebla",
+      "periodo": "1 julio 1997 a 30 junio 2001"
+    },
+    "herramientas": [
+      {
+        "nombre": ".NET Framework 4 (and up)"
+      },
+      {
+        "nombre": "Microsoft SQL Management Studio (SSMS)"
+      },
+      {
+        "nombre": ".NET Core Framework"
+      },
+      {
+        "nombre": "Oracle PL-SQL"
+      },
+      {
+        "nombre": ".NET Framework 3.5 (and above)"
+      },
+      {
+        "nombre": "Javascript"
+      },
+      {
+        "nombre": "Angular 2+"
+      },
+      {
+        "nombre": "ITIL"
+      },
+      {
+        "nombre": "CMMi"
+      },
+      {
+        "nombre": "Scrum"
+      },
+      {
+        "nombre": "ASP.NET MVC Framework"
+      },
+      {
+        "nombre": "Microsoft SQL Server"
+      },
+      {
+        "nombre": "Bootstrap"
+      },
+      {
+        "nombre": "Windows Presentation Foundation (WPF)"
+      },
+      {
+        "nombre": "Entity Framework"
+      },
+      {
+        "nombre": "MS Visual Basic.NET (VB.NET)"
+      },
+      {
+        "nombre": "JQuery"
+      },
+      {
+        "nombre": "MS Visual Basic 6"
+      },
+      {
+        "nombre": "Crystal Reports"
+      },
+      {
+        "nombre": "Mobility Services"
+      },
+      {
+        "nombre": "IBM Informix 4GL"
+      },
+      {
+        "nombre": "MS Azure Server"
+      },
+      {
+        "nombre": "ASP.NET"
+      },
+      {
+        "nombre": "Ajax"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "Microsoft Certified: Azure Fundamentals",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified (SFC™) - SCRUMstudy",
+        "anio": "2024"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "Python Essentials 1 (Cisco Networking Academy / Python Institute)"
+      },
+      {
+        "nombre": "Constancia - Certificación Liderazgo Orientado a los Equipos (Softtek)"
+      }
+    ]
+  },
+  {
+    "nombre": "Anabel Lopez Martinez",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "7848357",
+    "fecha_cedula": "22/11/2012",
+    "rol_propuesto": "Lider Técnico de atención de incidentes",
+    "resumen_profesional": "Cuento con más de 5 años de experiencia en desarrollo de software, liderazgo técnico y atención y resolución de problemas. Poseo dominio de tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source. Adicionalmente, tengo 3 años de experiencia trabajando bajo metodologías ágiles.\n\nHe coordinado servicios AMS y equipos de atención para cuentas de los sectores financiero, retail y salud, dando seguimiento a incidencias, mantenimientos y problemas en operación. Tomo decisiones ante fallas, administro riesgos, mantengo la comunicación con clientes y líderes operativos, y aseguro el cumplimiento del alcance, presupuesto y compromisos del servicio.\n\nTambién he fortalecido el entendimiento del negocio como Business Analyst, traduciendo necesidades en requerimientos, procesos, casos de uso y pruebas. Esta combinación me permite sostener la continuidad operativa, orientar a los equipos de trabajo y favorecer soluciones alineadas con procesos, metodología y atención efectiva de incidentes.",
+    "funciones": "Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos, evaluando la situación, tomando decisiones críticas y asegurando una comunicación efectiva para la resolución de incidentes. Cuento con habilidades en toma de decisiones y liderazgo.\n\nHe coordinado servicios de AMS y equipos de atención para cuentas de los sectores financiero, retail y salud, dando seguimiento a incidencias, mantenimientos y problemas en operación. Tomo decisiones ante fallas, administro riesgos, mantengo la comunicación con clientes y líderes operativos, y aseguro el cumplimiento del alcance, presupuesto y compromisos del servicio.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Bolsa Mexicana de Valores - Softtek",
+        "puesto": "Service Manager",
+        "fecha_inicio": "1 abril 2025",
+        "fecha_fin": "13 abril 2026",
+        "actividades_principales": [
+          "Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos. Evalúo la situación, tomo decisiones críticas y aseguro la comunicación efectiva para resolver el incidente. Tengo habilidades en toma de decisiones y liderazgo. Como líder técnico de atención de incidentes, planifico, controlo y doy seguimiento a la fase de resolución y estabilización, asegurando la correcta implementación de soluciones alineadas a la arquitectura de software, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación utilizando y/o adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de incidentes complejos para garantizar la continuidad operativa.",
+          "Comprendo la propuesta de negocio y las necesidades del cliente, aplicándolas en la atención y resolución de incidentes en entornos productivos, especialmente en servicios y plataformas críticas.",
+          "Defino planes de trabajo detallados para la atención de incidentes, priorizando actividades conforme a su severidad (P1-P4) y asegurando el cumplimiento de SLA/OLA.",
+          "Estimo y asigno tareas técnicas necesarias para la resolución de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.",
+          "Colaboro con el arquitecto en la definición de soluciones técnicas durante incidentes, asegurando alineación con la arquitectura y estándares establecidos.",
+          "Aseguro la aplicación de estándares de codificación y bases de datos durante la implementación de soluciones correctivas.",
+          "Asesoro y coordino a ingenieros de software en la atención de incidentes, especialmente en escenarios críticos o de alta complejidad.",
+          "Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atención de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeño.",
+          "Administro la configuración de los componentes involucrados en la solución de incidentes, asegurando control y trazabilidad de cambios.",
+          "Desarrollo y/o coordino implementaciones de solución (fixes, hotfixes) para restaurar servicios afectados.",
+          "Aseguro la aplicación de checklists en la validación de soluciones antes de su liberación a producción.",
+          "Coordino la integración de componentes técnicos dentro de la arquitectura para garantizar una recuperación estable del servicio.",
+          "Defino prioridades en cada iteración de atención de incidentes, enfocándome en minimizar el impacto al negocio.",
+          "Promuevo la aplicación de patrones de diseño en las soluciones implementadas para evitar recurrencias.",
+          "Participo en la definición de esquemas de integración entre aplicaciones durante la resolución de incidentes.",
+          "Coordino la atención de incidentes críticos (Major Incidents), liderando convocatorias, toma de decisiones técnicas y comunicación durante la contingencia.",
+          "Identifico la causa raíz de incidentes y lidero análisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.",
+          "Trabajo en entornos de operación continua, asegurando la estabilidad y continuidad del servicio después de la resolución de incidentes.",
+          "Actúo como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.",
+          "Genero resultados medibles en la mejora de la operación, reduciendo tiempos de atención, reincidencias e impacto al negocio.",
+          "Mantengo una trayectoria continua en roles de atención y gestión de incidentes, consolidando experiencia en entornos productivos.",
+          "He participado en proyectos de más de 20 mil horas, donde lidero la atención de incidentes y defino soluciones para requerimientos no funcionales, asegurando la estabilidad y el correcto desempeño de los sistemas en producción. Además, planifico y coordino equipos de más de 15 ingenieros de software durante la resolución de incidentes, garantizando una ejecución eficiente y oportuna de las actividades.",
+          "He aprovechado la certificación AWS Certified Cloud Practitioner para aplicar fundamentos de computación en la nube, servicios de AWS, seguridad y modelos de costos",
+          "He aplicado la certificación Professional Scrum Master I para demostrar y poner en práctica los fundamentos del marco de trabajo Scrum, incluyendo roles, eventos, artefactos y principios definidos en la Scrum Guide",   
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.",
+          "STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.",
+          "STE: Ejecuto escenarios de prueba.",
+          "INT: Diseño y preparo testware.",
+          "UAT: Apoyo en las actividades de pruebas del usuario.",
+          "Soy responsable del proyecto AMS para las empresas de Indeval, CCV/CCD y Asigna (planificación, administración, seguimiento, resolución de incidencias, mantenimientos y problemas, gestión de riesgos, recursos físicos y técnicos, aplicación y adaptación de la metodología).",
+          "Soy responsable de la negociación del proyecto / servicio (compromisos, cambios de alcance, tiempo, esfuerzo, solución propuesta), así como de su aprobación.",
+          "Soy responsable del proyecto / servicio para cumplir los requisitos acordados con el cliente, manteniéndolo dentro del alcance y presupuesto acordado.",
+          "Soy responsable de la toma de decisiones dentro del proyecto / servicio.",
+          "Soy responsable del contacto, comunicación, informes de progreso y estado del proyecto / servicio con el cliente, líder / gerente de operación y equipos de trabajo.",
+          "Soy responsable de la atención del servicio AMS-L3 para el equipo de Omnicanal (planificación, administración, seguimiento, resolución de problemas, aplicación y adaptación de la metodología).",
+          "Soy responsable de la resolución de problemas (compromisos, cambios de alcance, tiempo, esfuerzo, solución propuesta), así como de su aprobación.",
+          "Soy responsable de la toma de decisiones dentro del servicio y de la ejecución de acciones correctivas.",
+          "Soy responsable del contacto, comunicación, informes de progreso y estado del servicio con cliente, líder y equipos de trabajo.",
+          "Soy responsable del equipo de trabajo (capacidad para la entrega de equipos, entorno de trabajo, resolución de problemas, motivación, orientación, retroalimentación y reconocimiento, cultural e identidad de Softtek).",
+          "Soy responsable del proyecto AMS para el equipo de Monitor Logístico (planificación, administración, seguimiento, resolución de incidencias, mantenimientos y problemas, gestión de riesgos, recursos físicos y técnicos, aplicación y adaptación de la metodología).",
+          "Traduzco las necesidades de negocio en requerimientos funcionales y no funcionales.",
+          "Analizo y diseño diagramas de procesos AS-IS y TO-BE.",
+          "Identifico reglas de negocio.",
+          "Diseño casos de uso.",
+          "Defino pantallas y flujo operativo.",
+          "Genero la matriz de Pruebas de Aceptación de Usuario (UAT) y ejecuto las mismas.",
+          "Identifico y manejo issues.",
+          "Apoyo en la identificación y resolución de incidencias funcionales y operativas.",
+          "Soy responsable de la negociación del proyecto (compromisos, cambios de alcance, tiempo, esfuerzo, solución propuesta).",
+          "Soy responsable del equipo funcional (resolución de problemas, orientación, retroalimentación)."
+        ]
+      },
+      {
+        "empresa": "Coppel - Softtek",
+        "puesto": "Lider de Torre",
+        "fecha_inicio": "1 agosto 2023",
+        "fecha_fin": "31 octubre 2024",
+        "actividades_principales": [
+          "Soy responsable de la atención del servicio AMS-L3 para el equipo de Omnicanal (planificación, administración, seguimiento, resolución de problemas, aplicación y adaptación de la metodología).",
+          "Soy responsable de la resolución de problemas (compromisos, cambios de alcance, tiempo, esfuerzo, solución propuesta), así como de su aprobación.",
+          "Soy responsable de la toma de decisiones dentro del servicio y de la ejecución de acciones correctivas.",
+          "Soy responsable del contacto, comunicación, informes de progreso y estado del servicio con cliente, líder y equipos de trabajo.",
+          "Soy responsable del equipo de trabajo (capacidad para la entrega de equipos, entorno de trabajo, resolución de problemas, motivación, orientación, retroalimentación y reconocimiento, cultural e identidad de Softtek)."
+        ]
+      },
+      {
+        "empresa": "Axo - Softtek",
+        "puesto": "Service Manager",
+        "fecha_inicio": "30 noviembre 2022",
+        "fecha_fin": "31 marzo 2023",
+        "actividades_principales": [
+          "Soy responsable del proyecto AMS para el equipo de Monitor Logístico (planificación, administración, seguimiento, resolución de incidencias, mantenimientos y problemas, gestión de riesgos, recursos físicos y técnicos, aplicación y adaptación de la metodología)."
+          ]
+      },
+      {
+        "empresa": "(Liverpool)-Softtek",
+        "puesto": "Service Manager / Business Analyst/ Líder Funcional",
+        "fecha_inicio": "1 julio 2020",
+        "fecha_fin": "29 noviembre 2022",
+        "actividades_principales": [
+          "Traduzco las necesidades de negocio en requerimientos funcionales y no funcionales.",
+          "Analizo y diseño diagramas de procesos AS-IS y TO-BE.",
+          "Identifico reglas de negocio.",
+          "Diseño casos de uso.",
+          "Defino pantallas y flujo operativo.",
+          "Genero la matriz de Pruebas de Aceptación de Usuario (UAT) y ejecuto las mismas.",
+          "Identifico y manejo issues.",
+          "Apoyo en la identificación y resolución de incidencias funcionales y operativas.",
+          "Soy responsable de la negociación del proyecto (compromisos, cambios de alcance, tiempo, esfuerzo, solución propuesta).",
+          "Soy responsable del equipo funcional (resolución de problemas, orientación, retroalimentación)."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 02 enero de 2009 hasta 30 junio de 2020",
+    "resumen_laboral": "Durante este período, me desempeñé como Service Manager, Business Analyst, Diseñador de procesos de negocio, Líder Funcional y Consultor de procesos. Asumí responsabilidades de análisis de necesidades, definición de requerimientos, diseño de procesos, documentación funcional, atención de incidencias y seguimiento operativo. También colaboré con equipos de trabajo y con áreas gerenciales para impulsar mejoras, apoyar decisiones del servicio y promover soluciones que facilitaran la operación y el entendimiento del negocio.",
+    "estudios": {
+      "carrera": "Ingeniería en Informática - Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas (UPIICSA-IPN)",
+      "lugar": "Ciudad de México",
+      "periodo": "2004-2009"
+    },
+    "herramientas": [
+      {
+        "nombre": "Jira"
+      },
+      {
+        "nombre": "Oracle SQL"
+      },
+      {
+        "nombre": "Azure DevOps"
+      },
+      {
+        "nombre": "Miro"
+      },
+      {
+        "nombre": "Google GCP"
+      },
+      {
+        "nombre": "Visio para diagramación de procesos."
+      },
+      {
+        "nombre": "MSQL Server Management Studio"
+      },
+      {
+        "nombre": "WhiteBoard"
+      },
+      {
+        "nombre": "Bizagi para diagramación de procesos."
+      },
+      {
+        "nombre": "IBM BPM, BAW"
+      },
+      {
+        "nombre": "MS Project"
+      },
+      {
+        "nombre": "PVTool para planeación de costos."
+      },
+      {
+        "nombre": "Axure"
+      },
+      {
+        "nombre": "PPM como tracking tool"
+      },
+      {
+        "nombre": "Pugh Matrix"
+      },
+      {
+        "nombre": "RCA"
+      },
+      {
+        "nombre": "FMEA"
+      },
+      {
+        "nombre": "PDP"
+      },
+      {
+        "nombre": "MS Visio"
+      },
+      {
+        "nombre": "Fishbone"
+      },
+      {
+        "nombre": "Start UML"
+      },
+      {
+        "nombre": "Visio"
+      },
+      {
+        "nombre": "Balsamiq"
+      },
+      {
+        "nombre": "Linux"
+      },
+      {
+        "nombre": "MSDos"
+      },
+      {
+        "nombre": "Java"
+      },
+      {
+        "nombre": "Javascript"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "Bizagi"
+      },
+      {
+        "nombre": "Oracle BPA"
+      },
+      {
+        "nombre": "Axure RP"
+      },
+      {
+        "nombre": "Enterprise Architect"
+      },
+      {
+        "nombre": "Oracle BPM 10g"
+      },
+      {
+        "nombre": "Start Uml"
+      },
+      {
+        "nombre": "Paqueteria Office"
+      },
+      {
+        "nombre": "Microsoft project"
+      },
+      {
+        "nombre": "Microsoft Visio"
+      },
+      {
+        "nombre": "Ext-js"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "AWS Certified Cloud Practitioner",
+        "anio": "2026-2029"
+      },
+      {
+        "nombre": "Professional Scrum Master I (PSM I)",
+        "anio": "2023"
+      }
+    ],
+    "cursos": []
+  },
+  {
+    "nombre": "Daniel Bustos Martínez",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "10686037",
+    "fecha_cedula": "18/09/2017",
+    "rol_propuesto": "Lider Técnico de atención de incidentes",
+    "resumen_profesional": "Cuento con más de 5 años de experiencia en desarrollo de software, liderazgo técnico y atención y resolución de problemas. Poseo dominio de tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source. Adicionalmente, tengo 3 años de experiencia trabajando bajo metodologías ágiles.\n\nHe liderado técnica y operativamente equipos de desarrollo en la modernización y mantenimiento de aplicaciones empresariales, coordinando la atención de incidentes complejos, la revisión de código y la automatización de controles de calidad para sostener la continuidad del servicio. También he tomado decisiones para estabilizar plataformas críticas, optimizar procesos operativos y reducir tiempos de respuesta en ambientes productivos.\n\nAdemás, he fortalecido la operación de sistemas mediante desarrollo full stack, mejora de bases de datos y habilitación de herramientas que dan autonomía al equipo. Mi experiencia combina comunicación efectiva, acompañamiento técnico y enfoque en resultados para restablecer servicios, evitar recurrencias y mantener entregas confiables.",
+    "funciones": "Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos, evaluando la situación, tomando decisiones críticas y asegurando una comunicación efectiva para la resolución de incidentes. Cuento con habilidades en toma de decisiones y liderazgo.\n\nHe liderado técnica y operativamente equipos de desarrollo en la modernización y mantenimiento de aplicaciones empresariales, coordinando la atención de incidentes complejos, la revisión de código y la automatización de controles de calidad para sostener la continuidad del servicio. También tomo decisiones para estabilizar plataformas críticas, optimizar procesos operativos y reducir tiempos de respuesta en ambientes productivos.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) / Líder técnico",
+        "fecha_inicio": "30 junio 2022",
+        "fecha_fin": "13 abril 2026",
+        "actividades_principales": [
+          "Dirijo y coordino equipos de trabajo para restaurar un servicio ante fallas que se presentan en la operación de los aplicativos. Evalúo la situación, tomo decisiones críticas y aseguro una comunicación efectiva para resolver el incidente. Tengo habilidades en toma de decisiones y liderazgo. Como líder técnico de atención de incidentes, planifico, controlo y doy seguimiento a la fase de resolución y estabilización, asegurando la correcta implementación de soluciones alineadas a la arquitectura de software, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación utilizando y/o adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de incidentes complejos para garantizar la continuidad operativa.",
+          "Comprendo la propuesta de negocio y las necesidades del cliente, aplicándolas en la atención y resolución de incidentes en entornos productivos, especialmente en servicios y plataformas críticas.",
+          "Defino planes de trabajo detallados para la atención de incidentes, priorizando actividades conforme a su severidad (P1-P4) y asegurando el cumplimiento de SLA/OLA.",
+          "Estimo y asigno tareas técnicas necesarias para la resolución de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.",
+          "Colaboro con el arquitecto en la definición de soluciones técnicas durante incidentes, asegurando alineación con la arquitectura y estándares establecidos.",
+          "Aseguro la aplicación de estándares de codificación y bases de datos durante la implementación de soluciones correctivas.",
+          "Asesoro y coordino a ingenieros de software en la atención de incidentes, especialmente en escenarios críticos o de alta complejidad.",
+          "Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atención de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeño.",
+          "Administro la configuración de los componentes involucrados en la solución de incidentes, asegurando control y trazabilidad de cambios.",
+          "Desarrollo y/o coordino implementaciones de solución (fixes, hotfixes) para restaurar servicios afectados.",
+          "Aseguro la aplicación de checklists en la validación de soluciones antes de su liberación a producción.",
+          "Coordino la integración de componentes técnicos dentro de la arquitectura para garantizar una recuperación estable del servicio.",
+          "Defino prioridades en cada iteración de atención de incidentes, enfocándome en minimizar el impacto al negocio.",
+          "Promuevo la aplicación de patrones de diseño en las soluciones implementadas para evitar recurrencias.",
+          "Participo en la definición de esquemas de integración entre aplicaciones durante la resolución de incidentes.",
+          "Coordino la atención de incidentes críticos (Major Incidents), liderando convocatorias, toma de decisiones técnicas y comunicación durante la contingencia.",
+          "Identifico la causa raíz de incidentes y lidero análisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.",
+          "Trabajo en entornos de operación continua, asegurando la estabilidad y continuidad del servicio después de la resolución de incidentes.",
+          "Actúo como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.",
+          "Genero resultados medibles en la mejora de la operación, reduciendo tiempos de atención, reincidencias e impacto al negocio.",
+          "Mantengo una trayectoria continua en roles de atención y gestión de incidentes, consolidando experiencia en entornos productivos.",
+          "He participado en proyectos de más de 20 mil horas, donde lidero la atención de incidentes y defino soluciones para requerimientos no funcionales, asegurando la estabilidad y el correcto desempeño de los sistemas en producción. Además, planifico y coordino equipos de más de 15 ingenieros de software durante la resolución de incidentes, garantizando una ejecución eficiente y oportuna de las actividades.",
+          "He aprovechado la certificación AWS Certified Cloud Practitioner para aplicar fundamentos de computación en la nube, servicios de AWS, seguridad y modelos de costos",
+          "He aplicado la certificación Six Sigma Yellow Belt para utilizar principios de mejora continua, análisis de procesos y reducción de variabilidad en entornos organizacionales",
+          "He utilizado la certificación Scrum Developer Professional Certificate para aplicar prácticas ágiles y técnicas Scrum orientadas al desarrollo de software",
+          "He puesto en práctica la certificación Scrum Product Owner Professional Certificate para gestionar el backlog del producto, priorizar requerimientos y maximizar el valor entregado al negocio",
+          "He aprovechado la certificación Scrum Fundamentals Certified para comprender y aplicar los principios básicos del marco de trabajo Scrum en entornos ágiles",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.",
+          "STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.",
+          "STE: Ejecuto escenarios de prueba.",
+          "INT: Diseño y preparo testware.",
+          "UAT: Apoyo en las actividades de pruebas del usuario.",
+          "Realizo análisis, refactorización y migración de código legacy para cumplimiento de nuevos estándares.",
+          "Desarrollo y mantengo aplicaciones empresariales utilizando Java (Lenguaje de programación para desarrollo de aplicaciones), PHP (Lenguaje de desarrollo web) y ColdFusion.",
+          "Gestiono técnicamente al equipo de desarrollo, brindo mentoría y ejecuto revisión de pares, asegurando la calidad de cada entrega mediante la automatización de análisis estático con SonarQube integrado en flujos de Jenkins (Automatización de pipelines CI/CD).",
+          "Lidero técnica y operativamente a un equipo de hasta 10 desarrolladores, gestionando la asignación de tareas, brindando soporte en la resolución de incidentes complejos y asegurando la entrega exitosa de los proyectos en tiempo y forma.",
+          "Diagnostico y soluciono un problema crítico de concurrencia en la descarga de reportes Excel (Herramienta de análisis de datos) del Portal Dalí (Indeval/BMV) que provocaba saturación de CPU y agotamiento de espacio en disco por logs excesivos. Mediante análisis con JProfiler, optimizo este proceso, estabilizando el clúster JBoss y reduciendo los tiempos de respuesta de minutos a segundos.",
+          "Desarrollo una herramienta de automatización en Java 8 (Lenguaje de programación para desarrollo de aplicaciones) que reduce de 20 minutos a 1 minuto la preparación del ambiente de desarrollo. Esta aplicación orquesta el reinicio de servidores JBoss, la limpieza de colas Sonic y la ejecución de scripts de base de datos requeridos para el inicio de la jornada. Otorga autonomía al equipo de Análisis y Pruebas para ejecutar este proceso sin depender de un desarrollador experto.",
+          "Implemento y configuro un entorno de desarrollo ColdFusion para optimizar el flujo de trabajo del equipo.",
+          "Desarrollo el sitio web del departamento de formación docente, así como de dos instrumentos de evaluación docente aplicando diseño web responsive (Bootstrap), HTML, CSS, JavaScript y jQuery (Librería para manipulación del DOM) para el frontend, y PHP (Lenguaje de desarrollo web) para el backend.",
+          "Sistematizo la generación de reportes individuales de evaluación docente, calculando los resultados a partir de las respuestas almacenadas en la base de datos PostgreSQL (Base de datos relacional avanzada).",
+          "Desarrollo nuevos scripts PHP (Lenguaje de desarrollo web) para la obtención de los resultados de evaluación docente, así como de corrección en posibles inconsistencias en la base de datos PostgreSQL (Base de datos relacional avanzada).",
+          "Desarrollo nuevos módulos de administrador para el sistema \"Monitoreo de evaluación docente\".",
+          "Rediseño y optimizo la base de datos PostgreSQL (Base de datos relacional avanzada) ya existente.",
+          "Imparto diversas capacitaciones semestrales en el uso del sistema de evaluación docente y realizo la transmisión en vivo (streaming) de diversos cursos en línea, un foro estatal y un congreso nacional.",
+          "Genero semestralmente más de 6,000 reportes individuales de evaluación docente, procesando casi 200,000 instrumentos aplicados. Esta tarea inicialmente requería un equipo de 4 personas trabajando en la generación en Excel (Herramienta de análisis de datos) de dichos reportes, por aproximadamente 2 meses. Con la sistematización de esta actividad, solo se requiere el trabajo de 1 persona por 1 a 2 semanas.",
+          "Aumento considerablemente la usabilidad del sitio web del Departamento de Formación Docente, mejorando su diseño y el de los instrumentos de evaluación docente mediante diseño web responsive y otras tecnologías.",
+          "Aumento significativamente la estabilidad de la base de datos, logrando reducir hasta en un 90% el número de conexiones paralelas a la base de datos, durante la aplicación del instrumento de evaluación docente.",
+          "Optimizo la consulta de datos del Sistema de Administración Documental y de Control Escolar, así como del Sistema de Personal, mediante el desarrollo de nuevos módulos en el sistema \"Monitoreo de evaluación docente\".",
+          "Incremento los niveles de participación en cursos de formación docente, mediante las transmisiones en vivo por YouTube a diferentes unidades académicas, ubicadas por todo el estado de Morelos."
+        ]
+      },
+      {
+        "empresa": "Universidad Autónoma del Estado de Morelos (UAEM)",
+        "puesto": "Desarrollador Full Stack PHP (Lenguaje de desarrollo web)",
+        "fecha_inicio": "2 noviembre 2015",
+        "fecha_fin": "29 junio 2022",
+        "actividades_principales": [
+          "Desarrollo el sitio web del departamento de formación docente, así como de dos instrumentos de evaluación docente aplicando diseño web responsive (Bootstrap), HTML, CSS, JavaScript y jQuery (Librería para manipulación del DOM) para el frontend, y PHP (Lenguaje de desarrollo web) para el backend.",
+          "Sistematizo la generación de reportes individuales de evaluación docente, calculando los resultados a partir de las respuestas almacenadas en la base de datos PostgreSQL (Base de datos relacional avanzada).",
+          "Desarrollo nuevos scripts PHP (Lenguaje de desarrollo web) para la obtención de los resultados de evaluación docente, así como de corrección en posibles inconsistencias en la base de datos PostgreSQL (Base de datos relacional avanzada).",
+          "Desarrollo nuevos módulos de administrador para el sistema \"Monitoreo de evaluación docente\".",
+          "Rediseño y optimizo la base de datos PostgreSQL (Base de datos relacional avanzada) ya existente.",
+          "Imparto diversas capacitaciones semestrales en el uso del sistema de evaluación docente y realizo la transmisión en vivo (streaming) de diversos cursos en línea, un foro estatal y un congreso nacional.",
+          "Genero semestralmente más de 6,000 reportes individuales de evaluación docente, procesando casi 200,000 instrumentos aplicados. Esta tarea inicialmente requería un equipo de 4 personas trabajando en la generación en Excel (Herramienta de análisis de datos) de dichos reportes, por aproximadamente 2 meses. Con la sistematización de esta actividad, solo se requiere el trabajo de 1 persona por 1 a 2 semanas.",
+          "Aumento considerablemente la usabilidad del sitio web del Departamento de Formación Docente, mejorando su diseño y el de los instrumentos de evaluación docente mediante diseño web responsive y otras tecnologías.",
+          "Aumento significativamente la estabilidad de la base de datos, logrando reducir hasta en un 90% el número de conexiones paralelas a la base de datos, durante la aplicación del instrumento de evaluación docente.",
+          "Optimizo la consulta de datos del Sistema de Administración Documental y de Control Escolar, así como del Sistema de Personal, mediante el desarrollo de nuevos módulos en el sistema \"Monitoreo de evaluación docente\".",
+          "Incremento los niveles de participación en cursos de formación docente, mediante las transmisiones en vivo por YouTube a diferentes unidades académicas, ubicadas por todo el estado de Morelos."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "",
+    "resumen_laboral": "",
+    "estudios": {
+      "carrera": "Ingeniería en Sistemas Computacionales",
+      "lugar": "Zacatepec, Morelos",
+      "periodo": "Agosto 2010 – Junio 2015"
+    },
+    "herramientas": [
+      {
+        "nombre": "Java 7"
+      },
+      {
+        "nombre": "Java 8"
+      },
+      {
+        "nombre": "Java 17"
+      },
+      {
+        "nombre": "Spring"
+      },
+      {
+        "nombre": "Hibernate"
+      },
+      {
+        "nombre": "Maven"
+      },
+      {
+        "nombre": "JBoss"
+      },
+      {
+        "nombre": "JavaScript"
+      },
+      {
+        "nombre": "JQuery"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "PostgreSQL"
+      },
+      {
+        "nombre": "PHP"
+      },
+      {
+        "nombre": "ColdFusion"
+      },
+      {
+        "nombre": "HTML"
+      },
+      {
+        "nombre": "CSS"
+      },
+      {
+        "nombre": "Linux"
+      },
+      {
+        "nombre": "JProfiler"
+      },
+      {
+        "nombre": "Jenkins"
+      },
+      {
+        "nombre": "SonarQube"
+      },
+      {
+        "nombre": "Bootstrap"
+      },
+      {
+        "nombre": "Informix"
+      },
+      {
+        "nombre": "Windows"
+      },
+      {
+        "nombre": "Git"
+      },
+      {
+        "nombre": "MySQL"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "AWS Certified Cloud Practitioner",
+        "anio": "2026-2029"
+      },
+      {
+        "nombre": "Six Sigma Yellow Belt",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Scrum Developer Professional Certificate (SDPC™)",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Scrum Product Owner Professional Certificate (SPOPC™)",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified (SFC™)",
+        "anio": "2021"
+      }
+    ],
+    "cursos": []
+  }
+]

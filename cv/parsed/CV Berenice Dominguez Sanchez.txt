@@ -1,0 +1,769 @@
+
+
+--- Página 1 (OCR) ---
+
+3/17/2026 Berenice Dominguez Sanchez
+
+Powered by P eightfold.ai
+
+Berenice Dominguez Sanchez
+
+Data Governance Consultant Pr
+Mexico
+
+% berenice.dominguezOsofttek.com
+J +525560108552
+
+(O 16años de experiencia total
+
+E DataGovernance Consultant PR, Softtek 2024-Present (2 años)
+Big Data Manager, Claroshop 2023-2024 (11 meses)
+Master Data Manager, El Palacio de Hierro 2022-2023 (2 años)
+Data Translator, Data Algorithia 2022-2023 (7 meses)
+Senior Actuary Reservas - Riesgos, Servicios Integrales de Salud Nova 2017-2021 (4 años)
+Senior Actuary, Actuarial Risk Transfer Insurance and Strategy 2015-2017 (2 años)
+Jefe de Departamento de la Dirección de Análisis, Coordinación Nacional Prospera Progra...
+Analista Actuarial, General de Seguros S a B2012-2013 (1 año)
+Auxiliar en El área de ADMINISTRACIÓN, INVEX Banco 2011-2011 (1 mes)
+Becario de la Oficina de Suscripción, Met Life Mexico 2010
+
+Went to 1 top school: Universidad Nacional AUTÓNOMA De MÉXICO
+
+?
+/ - Asertividad, Regulatory Technology, Pension Management, Matemáticas, Evaluation Methods,
+Estadística, IBM SPSS Statistics
+
+Empleado Actual
+
+301
+
+Resumen
+
+Actuaria y matemática con 18 años de experiencia en áreas analíticas, especializada en la generación y entrega de
+reportes regulatorios bajo normativas internacionales como Basilea y Solvencia lI. Amplia trayectoria en el sector
+financiero y corporativo, incluyendo aseguradoras, reaseguradoras, banca, afores, casas de bolsa, retail y e-
+commerce.
+Cuento con una Maestría en Ciencia e Ingeniería en Computación, lo que me permite integrar el rigor
+matemático con soluciones tecnológicas avanzadas.
+Apasionada por los datos y por colaborar estrechamente con clientes para generar valor y asegurar la toma de
+decisiones informadas.
+Experiencia destacada:
+
+* 7 años aplicando metodologías ágiles (SCRUM).
+
+
+--- Página 2 (OCR) ---
+
+3/17/2026 Berenice Dominguez Sanchez
+
+* 5años como Product Owner, liderando equipos multidisciplinarios en entornos ágiles en productos de
+datos.
+
+* 5años en implementación de Gobierno de Datos, estableciendo políticas y estándares bajo las mejores
+prácticas DAMA-DMBOK Segunda Edición 2024.
+
+* 5años en diseño de arquitecturas de datos (Data Lake y Data Mesh).
+
+* 5añosen procesos de reingeniería y optimización de flujos.
+
+* 5años en construcción de artefactos y documentación de Gobierno de Datos.
+
+* 3años lidereando iniciativas para la construcción de la Estrategia de Datos.
+
+Perfil resumen
+
+Experiencia
+Data Governance Consultant PR
+
+oct 2024 - Present (1 año, 6 meses)
+
+México. Data Governance Octubre - 2024 febrero 2025
+
+Actividades generales Walmart México:
+
+Implementación de las mejores prácticas del DAMA-DMBOK Segunda Edición 2024.
+
+Evangelización de Gobierno de Datos con curso institucional.
+
+Construcción y actualización de políticas, estándares y anexos.
+
+Construcción y mantenimiento de Sharepoint Enterprise Data Governance.
+
+Discovery de roles de gobierno de datos y certificación de ingesta de información.
+
+Herramientas: GCP BigQuery, Confuence, Jira. Excel, Word, Microsoft Excel, Microsoft Word, Microsoft
+
+Power Point y Sharepoint.
+
+A partir de febrero de 2025, estoy participando en el Centro de Excelencia (COE) de Gobierno de Datos y Master
+Data Management (MDM). Contribuí en la elaboración del Data Governance Playbook y en el diseño de enfoques
+estratégicos para la implementación de gobierno de datos.
+
+Octubre 2025 a 15 de diciembre: Colaboré en Gobierno de datos para el cliente Grupo Salav en la definición de la
+Estrategia de Inteligencia de Negocio, participando en la creación de artefactos clave como:
+
+Agenda de entrevistas, Radiografía del estado actual y Nivel esperado de Inteligencia de Negocio. Participé en
+las sesiones de Discovery para realizar el assessment de Grupo SALAV.
+
+
+--- Página 3 (OCR) ---
+
+3/17/2026 Berenice Dominguez Sanchez
+
+Big Data Manager
+Claroshop
+dic 2023 - oct 2024 (11 meses)
+
+Big Data Manager
+
+Responsable como Product Owner del diseño y entrega de un Data Lake para e-commerce y T1 envíos,
+asegurando escalabilidad y eficiencia en la plataf orma AWS. Participación en el descubrimiento, ingesta de datos,
+almacenamiento, procesamiento y transformación, gobernanza de datos, consumo y analítica.
+
+Herramientas: AWS: Database Migration Service (DMS), IAM (Identity and Access Management), Amazon
+
+Athena, Amazon Redshift, Quicksight, Amazon S3 (Simple Storage Service), Amazon VPC
+
+(Virtual Private Cloud) y Amazon EC2 (Elastic Compute Cloud).
+
+Master Data Manager
+El Palacio De Hierro
+
+[o) "
+las dFeno ay 2022 - dic 2023 (L año, 10 meses)
+
+Master Data
+
+Manager Marzo 2022
+
+diciembre
+
+2023
+
+Actividades generales:
+
+Implementación del Data Managment en los niveles empresariales de Palacio de hierro.
+
+Responsable en la implementación de procesos y procedimientos para la protección, seguridad y gobernanza de
+datos.
+
+Construcción de documentación del linaje del dato y reglas de negocio para cada dashboard que se construye.
+Evangelización de la cultura y uso de buenas prácticas de los datos. Seguimiento del Comité de Datos.
+Participación en la extracción de información del Data Lake.
+
+Product Owner en la construcción de nuevo portal de proveedores de SAP a la tecnología de AWS.
+Herramientas: AWS: Database Migration Service (DMS), IAM (Identity and Access Management), Amazon
+Athena, Amazon Redshift, Quicksight, Amazon S3 (Simple Storage Service), Amazon VPC
+
+(Virtual Private Cloud) y Amazon EC2 (Elastic Compute Cloud).
+
+Monday, Microsoft Excel, Microsoft Word, Microsoft Power Point, Tableau.
+
+
+--- Página 4 (OCR) ---
+
+3/17/2026 Berenice Dominguez Sanchez
+
+Data Translator
+Data Company AlgorithlA
+sep 2022 - mar 2023 (7 meses)
+
+México. Data Translator Septiembre 2022 Marzo 2023
+
+Actividades generales:
+
+Responsable de diseñar, construir y mantener los pipelines para la recopilación de
+
+datos de múltiples fuentes de información. Así como, la transformación y
+disponibilización de los datos y, por lo tanto, hacer que la información sea accesible
+
+para el consumo y uso de nuestros clientes.
+
+Responsable del negocio de medios de pagos y de cliente 360. Coordinar actividades
+dentro del equipo de Ingeniería de Datos. Colaborar con la gerencia para comprender
+
+los objetivos de la empresa. Liderar iniciativas y proyectos. Entregar resultados mientras
+se equilibran múltiples iniciativas. Trabajar en estrecha colaboración con Data
+Governance para abordar los requerimientos del negocio. Garantizar el cumplimiento de
+las políticas de seguridad y gobierno de datos. Construir relaciones con otros equipos y
+partes interesadas (Tl, gobierno de datos, etc.)
+
+Ejecución de la metodología Agile participando en el rol de Product Owner.
+
+Participación en la arquitectura de Cloudera (Data Lake).
+
+Discovery de fuentes de información.
+
+Herramientas: Hive, Impala, Cloudera, R Studio, Jira, Confluence, Microsoft Excel, Microsoft Word, Microsoft
+Power Point
+
+Senior Actuary Reservas - Riesgos
+Servicios Integrales De Salud Nova
+may 2017 - feb 2021 (3 años, 10 meses)
+
+Senior Actuary Reservas - Riesgos Responsable de la creación de proceso de datos, construcción, arquitectura
+y elaboración de modelos entidad -relación. Administración de una base de datos relacional en Oracle SQL
+Developer. Supervisión, programación y cálculo en la valuación mensual de las reservas técnicas, y apoyo en
+envió mensual, trimestral y anual a la CNSF del Reporte Regulatorio RR-3. Supervisión, programación y
+entrega de los Reportes Regulatorios (RR-6, RR-8, RR-3). Análisis de datos orientado a la Inteligencia de
+Negocios para las diferentes áreas: técnica, mercadotecnia, licitaciones, comercial, emisión, reaseguradora y
+siniestros. Participación en el cierre contable: mensual, trimestral y anual. Participación en la auditoría externa
+anual de la CNSF, Auditoría Externa Actuarial. Entrega de reportes de siniestralidad de los clientes. (Utilizando
+las siguientes herramientas: Microsoft Visual FoxPro, R Studio, Python Spyder, Python Jupyter Notebook y
+SQL). Elaboración de notas técnicas y documentos con texto matemático en el software LaTeX.
+Herramientas: MySQL, Visual FoxPro, Python, R, RStudio
+
+
+--- Página 5 (OCR) ---
+
+3/17/2026 Berenice Dominguez Sanchez
+
+Senior Actuary
+Actuarial Risk Transfer Insurance and Strategy Service
+ene 2015 - may 2017 (2 años, 5 meses)
+
+México. Senior Actuary enero - 2015 mayo - 2017
+
+Actividades generales:
+
+Responsable de elaborar Proyecciones Financieras de instrumentos financieros. Implementación de Análisis de
+información financiera de empresas aseguradoras y reaseguradoras (construcción y mantenimiento de base de
+datos).
+
+Optimización en extracción de información en Visual FoxPro sobre la operación de aseguradoras y
+reaseguradoras.
+
+Elaboración de Slips de reaseguro.
+
+Administración de una base de datos relacional en SQL utilizando Structured Query Language.
+
+Herramientas: MySQL, VisualFoxPro, R, RStudio, Microsoft Excel, Microsoft Word Y Microsoft Power Point
+
+Jefe de Departamento de la Dirección de Análisis Estadístico
+C Coordinación NACIONAL PROSPERA PROGRAMA DE Inclusión SOCIAL
+ene 2013 - may 2015 (2 años, 5 meses)
+
+de la Dirección de
+
+Análisis Estadístico
+
+Enero 2013 Mayo 2015
+
+Actividades generales:
+
+Responsable de actualizar el Modelo Lineal del cálculo de la pobreza con bases de datos de la ENIGH 2012,
+con la herramienta IBM SPSS Statistics. (Elaboración de sintax y programas).
+
+Reducción en tiempo de respuesta con la elaboración y cálculo de indicadores con bases de datos de la
+Encuesta de Características Socioeconómicas de Hogares (ENCASEH) bajo la normatividad de CONEVAL,
+utilizando como herramienta Microsoft Visual FoxPro y IBM SPSS Statistics. (Elaboración de sintax y
+programas). Implementación de formularios para la extracción de información de bases de datos en Microsoft
+Visual FoxPro 9.0. Mapeo de información en Statistical Analysis System (SAS).
+
+Desarrollo de reportes y análisis con bases de datos de la ENCASEH, disminuyendo el tiempo de entrega
+auxiliándome de paquetes estadísticos. Elaboración de instrumentos de recolección y capacitación a nivel
+nacional.
+
+Herramientas:
+
+MySQL, VisualFoxPro, R, RStudio, SPSS Y Microsoft Excel, Microsoft Word, Microsoft Power
+
+Point
+
+
+--- Página 6 (OCR) ---
+
+3/17/2026 Berenice Dominguez Sanchez
+
+Analista Actuarial
+General De Seguros, S.A.B
+ene 2012 - ene 2013 (1 año, 1 mes)
+
+México. Analista Actuarial Enero -2012 Enero 2013
+
+Actividades generales:
+
+Responsable de la administración de la cartera de General de Salud, entrega de
+reportes a la CNSF: Análisis de riesgos: Evaluar y calcular los riesgos asociados con
+la suscripción de nuevas pólizas de gastos médicos mayores. Esto implica utilizar
+modelos actuariales para estimar la probabilidad de reclamaciones y calcular las
+primas adecuadas. Determinación de primas: Establecer las primas que los
+asegurados deben pagar, asegurándose de que sean suficientes para cubrir los
+costos esperados de las reclamaci ones y otros gastos administrativos y de
+operación. Monitoreo de la experiencia de siniestralidad: Analizar y monitorear la
+experiencia de siniestralidad de las pólizas existentes para ajustar las primas y las
+políticas de suscripción según sea necesario. Colaboración con otros departamentos:
+Trabajar en estrecha colaboración con otros departamentos como el de ventas,
+agentes de seguros, consultorías, siniestros, reaseguro, dictaminación y finanzas
+para garantizar una gestión integral y eficiente de la emisión de una póliza.
+Implementación de elaboración de Indicadores y seguimiento de operaciones.
+Responsable de elaboración de cotizaciones de Seguros de Gastos Médicos
+Mayores y Prevención de la Salud (negocios nuevos, renovación y endosos).
+Herramientas:
+
+MySQL, VisualFoxPro, R, RStudio, SPSS Y Microsoft Excel, Microsoft Word, Microsoft Power
+Point.
+
+
+--- Página 7 (OCR) ---
+
+3/17/2026 Berenice Dominguez Sanchez
+
+Auxiliar en El área de ADMINISTRACIÓN
+| INVEX Banco
+ene 2011 - ene 2011 (1 mes)
+
+Auxiliar en el área de
+
+Administración.
+
+20112011
+
+Actividades generales:
+
+Responsable de la operatividad de los Productos y Procesos de Mercado de Dinero. Se efectuaban operaciones
+de
+
+colocación, distribución e intermediación de instrumentos de deuda inscritos en el Registro Nacional de Valores.
+Concertación de operaciones que celebran en Directo y en Reporto, como Subasta Mercado Primario y Papel
+Privado.
+
+Instrumentos de Deuda de Divisas. Desarrollo y elaboración de una macro para la entrega de reportes de compra
+y
+
+venta de Mercado de Capitales.
+
+Herramientas:
+
+MySQL, VisualFoxPro, R, RStudio, SPSS Y Microsoft Excel, Microsoft Word, Microsoft Power
+
+Point.
+
+
+--- Página 8 (OCR) ---
+
+3/17/2026 Berenice Dominguez Sanchez
+
+Becario de la Oficina de Suscripción
+MetLife Mexico
+
+ene 2010 (16 años, 3 meses)
+
+México. Becario de la Oficina
+
+de Suscripción.
+
+2010
+
+Actividades generales:
+
+Apoyo en la evaluación de riesgos: Ayudar en la revisión y evaluación inicial de solicitudes de seguros para
+determinar la
+
+vi habilidad y el nivel de riesgo asociado. Recopilación y análisis de datos: Recolectar y analizar datos relevantes
+sobre
+
+los asegurados potenciales, incluyendo historial médico, antecedentes de reclamaciones, y otros factores
+pertinentes
+
+para evaluar el riesgo. Participación en el proceso de suscripción: Asistir en la preparación de documentación para
+las
+
+decisiones de suscripción, como informes de evaluación de riesgos y recomendaciones para la aceptación o
+rechazo de
+
+solicitudes. Comunicación interna y externa: Colaborar con otros departamentos dentro de la aseguradora, como
+ventas,
+
+siniestros, reaseguro y finanzas, para asegurar un proceso de suscripción coordinado y efectivo.
+
+Herramientas: MySQL, VisualFoxPro, R, RStudio, SPSS Y Microsoft Excel, Microsoft Word, Microsoft Power
+
+Point.
+
+Educación
+
+Maestría, Ciencia E INGENIERÍA de la Computación
+Universidad Nacional Autonóma de MÉXICO (UNAM)
+ene 2022 to ene 2024
+
+Maestría en Ciencia e Ingeniería de la Computación
+(En proceso de titulación).
+
+Licenciatura, Actuaría
+Universidad Nacional AUTÓNOMA de MÉXICO
+
+ene 2005 to ene 2009
+
+Universidad Nacional Autónoma de México. Licenciatura en
+Actuaría.
+
+
+--- Página 9 (OCR) ---
+
+3/17/2026 Berenice Dominguez Sanchez
+
+Insignias
+
+*BeKind - Given by Claudia Angelica Ávila Lopez on octubre23, 2025 at 11:11 pm
+
+Bere, al priorizar tu salud mental, siembras la semilla de un mundo mejor. Asistir a la semana
+de A tu salud Mental es acto de amor para ti y los que te rodean ¡Gracias! Well-Being/P8amp;C
+
+Habilidades
+
+Asertividad | Regulatory Technology  Pension Management | Matemáticas ' | Evaluation Methods
+
+Estadística - IBMSPSS Statistics — Disponibilidad * Payment Processing | Cálculo — Migración | Herramienta
+
+Metodología — AWS Virtual Private Cloud (VPC) — SEGURIDAD  Documentación Cumplimiento | Colaboración
+
+Visual FoxPro — Construcción » Arquitectura — Planview Software * Finanzas Apoyo » Operaciones
+Coordinación — Programación * DataLake  COMUNICACIÓN | AmazonRedshift * Ventas | RStudio
+INGENIERÍA — Diseño — Inglés | Liderazgo | ADMINISTRACIÓN * Data Governance — Oracle SQL Developer
+AmazonS3 | STATA * Master Data Framework ' Identity and Access Management * Clear Pipelines
+
+Statistical Analysis  LaTeX ' SPSS ' DataScience | SAS  ETL
+
+Información Personal
+
+M berenice.dominguez(Osofttek.com
+bds(Qciencias.unam.mx
+
+» +525560108552
+
+
+--- Página 10 (OCR) ---
+
+Contactar
+
+bds(Cciencias.unam.mx
+
+www.linkedin.com/in/berenice-
+domínguez-sánchez-22376b260
+(Linkedin)
+
+Aptitudes principales
+Collibra Platform
+
+Google Cloud
+
+GCP
+
+Certifications
+Advanced SQL: MySQL Data
+Analysis 8 Business Intelligence
+
+Master Data Management (MDM) -
+The Complete Course
+
+Ultimate AWS Certified Developer
+Associate 2023 NEW DVA-C02
+
+Introduction to Git
+
+Berenice Domínguez Sánchez
+
+Data Governance Manager | Product Owner | Data Translator |
+Driving Data-Driven Solutions| Enabling Digital Transformation
+
+Experiencia
+
+Softtek
+Data Governance Manager
+octubre de 2024 - Present (8 meses)
+
+Universidad Nacional Autónoma de México
+Associate Professor
+febrero de 2024 - Present (1 año 4 meses)
+
+Seminar on Digital Transformation in the Actuarial Profession - Cloud
+
+Fundamentals and Strategies
+
+In the dynamic and highly competitive environment of the actuarial industry,
+Digital Transformation has become a strategic imperative to ensure efficiency,
+innovation, and excellence in decision-making. This seminar is designed to
+equip actuarial professionals with the skills and knowledge necessary to fully
+leverage cloud technologies, including leading platforms like AWS, Azure,
+
+Google Cloud Computing, and Huawei.
+
+Digital Transformation not only involves the adoption of technological tools
+but also the redefinition of processes, the integration of strategic data, and
+the creation of disruptive business models. In this regard, a holistic and
+collaborative vision is required, where experts from multidisciplinary fields
+such as technology, actuarial science, economics, biotechnology, artificial
+
+intelligence, computing, and social sciences converge.
+
+Through the understanding and application of Cloud fundamentals and
+strategies, participants will be prepared to lead and adapt in a constantly
+evolving business environment, thus driving growth and success in their
+
+organizations and the industry at large.
+
+General Objective
+Train actuarial professionals in the strategic use of cloud technolagies,
+including AWS, Azure, Google Cloud Computing, and Huawei, to drive Digital
+
+Page 1 0f 6
+
+
+--- Página 11 (OCR) ---
+
+Transformation in their organizations and enhance data-driven decision-
+making.
+
+Claroshop
+Big Data Manager
+diciembre de 2023 - octubre de 2024 (11 meses)
+
+Implemented a data factory, constructed a data strategy, and proposed
+families and domains. Implemented and migrated the cloud provider AWS
+
+for the businesses: Claroshop and T1 shipments.Acted as product owner in
+the construction of the Data Lake within the AWS cloud provider ecosystem.
+Collaborated on the implementation and training in cadence with AWS. Built
+the dashboard and tracked Agile methodology ceremonies, delivering progress
+updates to the client. Participated in defining the architecture for the Data
+Lake with the AWS specialist. Managed the AWS console in the IAM instance,
+creating users, groups, and user policies for each Data Lake layer: Raw,
+Staging, and Client. Administered Quicksight and designed use cases for
+dashboard creation.
+
+Conducted discovery of information sources, data ingestion, architecture
+implementation, and connection of various instances within the AWS
+ecosystem: Database Migration Service (DMS), IAM (Identity and Access
+Management), Amazon Athena, Amazon Redshift, Quicksight, Amazon S3
+(Simple Storage Service), Amazon VPC (Virtual Private Cloud), AWS Glue (an
+ETL service), and Amazon EC2 (Elastic Compute Cloud).Established bucket
+
+naming conventions, schemas, and tables.
+
+El Palacio de Hierro
+
+Master Data Manager
+marzo de 2023 - diciembre de 2023 (10 meses)
+
+Implemented Data Management at the enterprise levels of El Palacio de
+Hierro.
+
+Responsible for implementing processes and procedures for data protection,
+security, and governance. Developed documentation for data lineage and
+business rules for each dashboard created. Promoted the culture and
+adoption of data best practices. Monitored the Data Committee. Participated
+in extracting information from the Data Lake. Acted as Product Owner for the
+development of a new SAP supplier portal transitioned to AWS technology.
+
+Algorithia
+
+Page 20f 6
+
+
+--- Página 12 (OCR) ---
+
+1 año 9 meses
+
+Data Translator
+septiembre de 2022 - marzo de 2023 (7 meses)
+
+Responsible for designing, building, and maintaining pipelines for data
+collection from multiple sources. This includes transforming and making data
+available, ensuring that information is accessible for our clients' consumption
+and use.
+
+Oversees the payment media business and 360-degree customer insights.
+Coordinates activities within the Data Engineering team. Collaborates with
+management to understand business objectives. Leads initiatives and projects,
+delivering results while balancing multiple efforts. Works closely with Data
+Governance to address business requirements. Ensures compliance with data
+security and governance policies. Builds relationships with other teams and
+stakeholders (IT, UN, data governance, etc.).
+
+Executes Agile methodology in the role of Product Owner. Participates in
+Cloudera architecture (Data Lake).
+
+Data Governance Manager
+julio de 2021 - septiembre de 2022 (1 año 3 meses)
+
+Implemented Data Management at the enterprise levels of Grupo Salinas.
+Participated in establishing processes and procedures for data protection,
+security, and governance.
+
+Collaborated on implementing IT solutions for data and information
+management.
+
+Identified and interpreted user area requirements and translated these
+requirements into data management initiatives.
+
+Developed relational models (user area) for business sectors including
+insurance, pension funds, anti-money laundering, regulatory reporting, and
+data catalog.
+
+Contributed to the data governance model for Banco Azteca and RegTech
+implementation.
+
+Created documents, artifacts, and mechanisms for managing and governing
+information and data.
+
+Participated in designing the staging area of the Data Lake for each use case:
+Logical Model.
+
+Managed the data ingestion process and reviewed data quality.
+
+Contributed to documenting data lineage and traceability.
+
+SISNova
+
+Page 3 0f 6
+
+
+--- Página 13 (OCR) ---
+
+Senior Actuary
+mayo de 2017 - junio de 2021 (4 años 2 meses)
+
+Responsible for creating data processes, construction, architecture, and
+developing entity-relationship models.
+
+Managed a relational database in Oracie SQL Developer.
+
+Oversaw, programmed, and calculated the monthly valuation of technical
+reserves, and provided support for the monthiy, quarterly, and annual
+submissions to the CNSF for the Regulatory Report RR-3.
+
+Supervised, programmed, and delivered Regulatory Reports (RR-6, RR-8,
+RR-3).
+
+Conducted data analysis oriented towards Business Intelligence for various
+areas: technical, marketing, tenders, commercial, issuance, reinsurance, and
+claims.
+
+Participated in monthly, quarterly, and annual accounting closings.
+Contributed to the annual external audit by the CNSF and external actuarial
+audits.
+
+Provided reports on client claims (using tools such as Microsoft Visual FoxPro,
+R Studio, Python Spyder, Python Jupyter Notebook, and SQL).
+
+Prepared technical notes and documents with mathematical text using LaTeX
+software.
+
+Actuarial Risk Transfer Insurance And Strategy Service
+Senior Actuarial Consultant
+junio de 2015 - mayo de 2017 (2 años)
+
+Responsible for creating financial projections for captive insurance companies.
+Implemented financial information analysis for insurance and reinsurance
+companies (including construction and maintenance of databases).
+
+Optimized data extraction in Visual FoxPro related to the operations of
+insurance and reinsurance companies.
+
+Prepared reinsurance slips.
+
+Managed a relational database in SQL using Structured Query Language.
+Prepared reports using SAS and SQL.
+
+Ensured comprehensive and efficient management of insurance policy
+issuance. Implemented the development of indicators and monitored
+operations. Responsible for preparing quotes for Major Medical Insurance and
+
+Health Prevention (new business, renewals, and endorsements).
+
+Page 4 0f6
+
+
+--- Página 14 (OCR) ---
+
+Sedesol Coordinación Nacional Del Programa De Desarrollo
+
+Humano Oportunidades
+Chief of Statistics
+enero de 2013 - junio de 2015 (2 años 6 meses)
+
+General de Seguros
+Actuarial Analyst
+enero de 2012 - enero de 2013 (1 año 1 mes)
+
+Banco Invex SA
+
+Analyst
+julio de 2011 - enero de 2012 (7 meses)
+
+Responsible for the operation of Money Market Products and Processes.
+Conducted placement, distribution, and intermediation of debt instruments
+registered in the National Securities Registry.
+
+Facilitated transactions in Direct and Repo markets, such as Primary Market
+Auctions and Private Paper.
+
+Managed Foreign Currency Debt Instruments.
+
+Developed and created a macro for generating reports on buying and selling in
+the Capital Markets.
+
+MetLife
+Actuarial Analyst
+enero de 2011 - julio de 2011 (7 meses)
+
+Risk Evaluation Support: Assisted in reviewing and initially evaluating
+insurance applications to determine viability and associated risk levels.
+
+Data Collection and Analysis: Gathered and analyzed relevant data on
+potential insured parties, including medical history, claims history, and other
+pertinent factors to assess risk.
+
+Underwriting Process Participation: Aided in preparing documentation for
+undemrwriting decisions, such as risk assessment reports and recommendations
+for application acceptance or rejection.
+
+Internal and External Communication: Collaborated with other departments
+Within the insurer, such as sales, claims, reinsurance, and finance, to ensure a
+
+coordinated and effective underwriting process.
+
+Page 50f 6
+
+
+--- Página 15 (OCR) ---
+
+Universidad Nacional Autónoma de México
+Adjunct Professor
+agosto de 2009 - agosto de 2010 (1 año 1 mes)
+
+Consejo Nacional de Ciencia y Tecnología-CONACYT
+Social Services Assistant
+marzo de 2008 - octubre de 2008 (8 meses)
+
+KPMG
+
+Actuarial Analyst
+enero de 2007 - agosto de 2007 (8 meses)
+
+Participated in actuarial and accounting analysis in the pensions area.
+Implemented a relational database for clients using actuarial services and
+potential clients.
+
+Educación
+
+Universidad Nacional Autónoma de México
+Bachelor's degree, Actuary - (agosto de 2005 - mayo de 2008)
+
+Universidad Nacional Autónoma de México
+Bachelor's degree, Mathematics - (enero de 2007 - agosto de 2011)
+
+Universidad Nacional Autónoma de México
+Master of Computer Applications - MCA, Sofware and Database - (agosto de
+2022 - mayo de 2024)
+
+Universidad Nacional Autónoma de México
+Enseñanza de inglés como lengua extranjera - (julio de 2023 - julio de 2023)
+
+Universidad Nacional Autónoma de México
+Desarrollo de modelos de IA con Mindspore, Ciencias de la
+computación - (junio de 2024 - junio de 2024)
+
+Page 6 0f 6
+

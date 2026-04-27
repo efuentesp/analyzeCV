@@ -1,0 +1,85 @@
+Guadalupe Rosas Bernal
+Analista de entrega documental
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 5 años de experiencia en entrega documental. En mi rol como analista de entrega documental, soy responsable de documentar, sintetizar y analizar información de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas (Stakeholders), asegurando la correcta integración, organización y entrega de la documentación conforme a los lineamientos establecidos.
+
+He participado en proyectos del sector financiero y de consultoría donde he coordinado la preparación y control de paquetes de instalación, la elaboración de solicitudes de cambio en ServiceNow (ITSM para incidencias, cambios y problemas) y la actualización de documentación técnica para mantener la continuidad operativa. Proveo soporte a pruebas Pruebas de Aceptación de Usuario (UAT) y PROD y gestiono automatizaciones y transferencias de archivos.
+
+Me enfoco en asegurar la integridad y trazabilidad de los entregables, aplicando control de versiones, validando formatos y coordinación entre equipos técnicos y de negocio para cumplir plazos y criterios de calidad, manteniendo la disponibilidad de servicios y la correcta entrega documental.
+EXPERIENCIA LABORAL
+Empresa
+BFS_MX | Puesto
+Software Developer | Desde:
+15 julio 2021 | Hasta: 
+Actual
+Actividades Principales | • Efectué la entrega documental y la recopilación de firmas que sustentan las evidencias de los servicios prestados.
+• Ejecuto la entrega documental mensual y recopilo las firmas necesarias que sustentan las evidencias de los servicios prestados.
+• Compilo y normalizo evidencias para la Carpeta Consolidada de Servicios y la carpeta de entregas mensuales.
+• Completo las listas de cotejo por fase (Análisis, Diseño, Desarrollo, Pruebas, Liberación).
+• Integro reportes y VoBo como evidencia previa a la liberación.
+• Preparo la evidencia de entrega de paquete para su integración.
+• Aplico control de versiones y gestiono metadatos (fecha/folio/autor) en todos los archivos de la carpeta.
+• Verifico la consistencia entre nombres, fechas y folios de todos los documentos del paquete.
+• Genero el reporte ejecutivo mensual con KPIs, backlog y liberaciones para su envío.
+• Gestiono aclaraciones documentales posteriores a la revisión, asegurando la trazabilidad de los cambios.
+• Preparo la evidencia de Toma de Operación (accesos ≤60 días, enlace ≤120 días, conectividad, acta) para la carpeta del mes correspondiente.
+• Ejecuto la pre-revisión de formato, ortografía y firmas, y valido listas de distribución y acuses.
+• Gestiono entre 1 y 3 proyectos con un esfuerzo total de 15,000 a 20,000 horas, asegurando la entrega documental mensual y la recopilación de firmas que sustentan las evidencias de los servicios prestados. Doy seguimiento a los entregables y reporto avances a los administradores del proyecto y al cliente.
+• He usado la certificación Prácticas de Ofimática para documentación operativa, métricas y cronogramas.
+• He usado la certificación en Industria 4.0 y Nuevas Tendencias Tecnológicas para comprender e integrar nuevas tecnologías digitales en procesos de negocio y desarrollo de soluciones modernas.
+• He usado la certificación The Complete UML Course para el análisis, modelado y diseño de sistemas mediante diagramas UML claros y estructurados.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• ISP: Inicializo la gestión documental del proyecto, definiendo lineamientos, estructura de carpetas y requisitos de evidencias.
+• PTO: Doy seguimiento a la entrega documental, validando avances, controlando versiones y asegurando el cumplimiento los criterios establecidos.
+• PCR: Gestiono y documento cambios en entregables, asegurando su trazabilidad, actualización y correcta integración en la documentación.
+• FPT: Formalizo la terminación del proyecto mediante la integración, validación y entrega final de la documentación con sus respectivas evidencias y firmas.
+• Me asignaron en Citibanamex para atender el proyecto Divestiture que consistió en la clonación de 14 aplicaciones que componen el sistema de Canal Inteligente para la separación del banco.
+• Realicé la recompilación de las aplicaciones, preparé paquetes de instalación, y elaboré Change Request en Service Now para su implementación en ambientes Pruebas de Aceptación de Usuario (UAT) y PROD, además de brindar soporte a pruebas.
+• Configuré Connect Direct para el envío y recepción de archivos.
+• Generé Jobs de Autosys y actualicé documentación.
+• Participé en el proyecto THOR para el upgrade de versiones de Red Hat 8, Tuxedo 22, Oracle Database (Motor de base de datos empresarial) 19 y Connect Direct, y preparé Change Request para las implementaciones en Pruebas de Aceptación de Usuario (UAT) y PROD.
+• Me asignaron en CitiBanamex como ST Integrador participando en los proyectos CFDI Complemento de Pago y Llaves PIN CVV; como BA trabajé en Implement IFRS9 and Accounting Event Model for PILS  Payroll, analizando requerimientos de alto nivel, coordinando equipos y gestionando y dando seguimiento a las actividades para garantizar el cumplimiento de objetivos en tiempo y forma.
+• Atendí diferentes sistemas comerciales de Grupo Bimbo a nivel nacional e internacional, analicé requerimientos, estimé y desarrollé nuevos requerimientos; generé, administré y tuneé bases de datos; desarrollé stored procedures para optimizar performance en reportes y procesos; actué como DBA Sybase en ambientes de pruebas y extraje información sobre incidencias en producción para la generación de tableros.
+Empresa
+La Mancha Consultores SC | Puesto
+ST Integrador, BA | Desde:
+1 agosto 2019 | Hasta: 
+31 julio 2021
+Actividades Principales | • Me asignaron en CitiBanamex como ST Integrador participando en los proyectos CFDI Complemento de Pago y Llaves PIN CVV; como BA trabajé en Implement IFRS9 and Accounting Event Model for PILS  Payroll, analizando requerimientos de alto nivel, coordinando equipos y gestionando y dando seguimiento a las actividades para garantizar el cumplimiento de objetivos en tiempo y forma.
+Empresa
+Quality ITS, S.C. | Puesto
+Líder Técnico / Information Analyst | Desde:
+2 mayo 2015 | Hasta: 
+30 noviembre 2018
+Actividades Principales | • Atendí diferentes sistemas comerciales de Grupo Bimbo a nivel nacional e internacional, analicé requerimientos, estimé y desarrollé nuevos requerimientos; generé, administré y tuneé bases de datos; desarrollé stored procedures para optimizar performance en reportes y procesos; actué como DBA Sybase en ambientes de pruebas y extraje información sobre incidencias en producción para la generación de tableros.
+HERRAMIENTAS CONOCIDAS
+- Linux
+- Tandem OSS
+- Service Now
+- Git
+- Bitbucket
+- ALM
+- Cti Market Place
+- Confluence
+- Autosys
+- Agile
+- Sybase
+- SQL Server
+- Oracle
+- VS .NET
+- Connect Direct
+- Jira
+FORMACIÓN ACADÉMICA:
+INGENIERIA EN COMPUTACION - 1990-1994 | Facultad de Ingeniería UNAM | Cédula Profesional
+4020471
+12/15/2003
+CURSOS
+- Industria 4.0 y Nuevas Tendencias Tecnológicas
+- The Complete UML course : Learn to design  UML Diagrams
+- Prácticas de Ofimática
+______________________________________
+Guadalupe Rosas Bernal
+Analista de entrega documental | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

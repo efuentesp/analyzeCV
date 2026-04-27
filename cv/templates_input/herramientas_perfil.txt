@@ -1,0 +1,90 @@
+HERRAMIENTAS
+ITIL (V3 y V4 – Foundations) -> Marco de mejores prácticas para gestión de servicios de TI (incidentes, problemas, cambios, niveles de servicio, catálogo, CMDB, etc.)
+COBIT (4.1, 5, 2019 Foundations) -> Marco de gobierno y control de TI (alineación con negocio, medición, riesgos y cumplimiento)
+CMMI -> Modelo de madurez para procesos de desarrollo y servicios
+DevOps Foundation (DFPC) -> Prácticas para integración continua, entrega continua y colaboración Dev–Ops
+TOGAF (Fundamentals) -> Marco de arquitectura empresarial (ADM, gobierno de arquitectura)
+PMP (PMI) -> Estándar y certificación en dirección de proyectos (alcance, tiempo, costo, calidad, riesgo, interesados)
+Jira -> Herramienta de gestión ágil y seguimiento de issues/sprints
+MS Project -> Planificación de cronogramas, ruta crítica, cargas y costos
+PPM (genérico) -> Suites para portafolio/programa/proyectos (demanda, priorización, capacidad)
+ISTQB CTFL -> Fundamentos de pruebas de software
+Dynatrace -> APM/observabilidad para monitoreo de rendimiento y trazas
+Checkmk (CHKMK) -> Plataforma de monitoreo de infraestructura/servicios
+WSO2 -> Plataforma/middleware (API Management, integración)
+MongoDB -> Base de datos NoSQL
+Kintana -> Gestión de cambios, demanda y proyectos (PPM clásico)
+MyOperations -> Sistema para estado financiero de proyectos (márgenes, cobranza, rentabilidad)
+Micro Focus ALM -> Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos
+IBM CLM -> Plataforma integrada para gestionar requisitos, cambios y pruebas
+TFS (Azure DevOps Server) -> Gestión de work items, repos y pipelines; soporte a pruebas
+ServiceNow -> ITSM para incidencias, cambios y problemas
+Planview / PPM -> Gestión de portafolio y proyectos (capacidad, costos, auditoría)
+Confluence -> Documentación colaborativa y base de conocimiento
+MAAGTIC-SI -> Estándar gubernamental para artefactos de QA
+Matriz de Trazabilidad -> Relación requisito→caso→ejecución→evidencia→defecto
+Microsoft Office -> Documentación operativa, métricas y cronogramas
+FastStone Capture -> Captura y anotación de pantalla para evidencia
+Beyond Compare -> Comparación de archivos, carpetas y datos
+SQL Server -> Motor de base de datos para consultas y validaciones
+Bizagi Modeler -> Modelado de procesos (BPMN)
+Draw.io -> Diagramación UML/BPMN y flujos
+XMind -> Mapas mentales para análisis y diseño
+SAP GUI S/4HANA -> Interfaz de SAP para pruebas funcionales
+Eclipse -> IDE para desarrollo y soporte técnico
+Java -> Lenguaje de programación para desarrollo de aplicaciones
+VirtualBox -> Virtualización de ambientes de prueba
+PeopleSoft EPM -> ERP y servidor de reportes
+Copilot (M365 Copilot) -> Asistente para productividad y generación de contenido
+Mantis -> Sistema de gestión de incidencias
+Testlink -> Herramienta para gestión de casos de prueba
+Postman -> Herramienta para pruebas de API
+Selenium -> Framework de automatización web
+JMeter -> Herramienta de pruebas de performance
+Office 365 -> Suite de productividad y colaboración
+yEd Graph Editor -> Herramienta de diagramación
+Webex -> Plataforma de comunicación y colaboración
+BackTrack -> Distribución Linux para pruebas de seguridad
+ISTQB Test Manager Advanced -> Gestión avanzada de pruebas y liderazgo
+Scrum Foundation -> Marco ágil para gestión de proyectos
+Ab Initio -> Plataforma ETL empresarial para integración y procesamiento de datos
+Databricks -> Plataforma de analítica basada en Apache Spark
+SQL -> Lenguaje para gestión y consulta de bases de datos relacionales
+SSIS -> Herramienta ETL de Microsoft para integración de datos
+Informatica PowerCenter -> Plataforma ETL para integración de datos
+IBM InfoSphere DataStage -> Herramienta ETL empresarial
+Linux/Unix -> Sistemas operativos para administración y automatización
+Git -> Control de versiones distribuido
+Bitbucket -> Repositorio de código y colaboración
+Jenkins -> Automatización de pipelines CI/CD
+C# -> Lenguaje de programación para desarrollo backend
+ASP.NET Core -> Framework para APIs y aplicaciones web
+Entity Framework -> ORM para acceso a datos
+PHP -> Lenguaje de desarrollo web
+Azure Database for MySQL -> Servicio administrado de base de datos en Azure
+Visual Studio -> IDE para desarrollo .NET
+Angular -> Framework frontend para aplicaciones SPA
+jQuery -> Librería para manipulación del DOM
+Oracle Database -> Motor de base de datos empresarial
+PostgreSQL -> Base de datos relacional avanzada
+AWS -> Plataforma de servicios en la nube
+Microsoft Azure -> Plataforma cloud para desarrollo e infraestructura
+Docker -> Contenerización de aplicaciones
+Azure DevOps -> Plataforma de gestión ágil y CI/CD
+Visio -> Herramienta de diagramación técnica
+IBM Business Process Manager -> Plataforma BPM para modelado y ejecución de procesos
+MobaXterm -> Terminal SSH con herramientas UNIX
+Excel -> Herramienta de análisis de datos
+Process Dashboard -> Medición de productividad y métricas PSP/TSP
+PCI DSS -> Estándar de seguridad para datos de tarjetas
+ISO 8583 -> Protocolo de mensajería para transacciones financieras
+AWS Certified Cloud Practitioner -> Certificación fundamental que valida el conocimiento básico de la nube de AWS, sus servicios principales, seguridad y arquitectura.
+Agile Business Analysis: Getting / Writing Lean Requirements -> Curso sobre documentación ágil y Lean de requerimientos.
+Business Analysis Modeling Skills & Techniques -> Curso de técnicas de modelado para análisis de negocio.
+Business Analysis: Working with Use Cases -> Curso enfocado en el uso de casos de uso para requerimientos.
+Business Analysis Fundamentals – ECBA, CCBA, CBAP endorsed -> Curso de fundamentos del análisis de negocio alineado al IIBA.
+Historias de Usuario – Cómo escribir User Story -> Curso sobre redacción de historias de usuario.
+Identify & Define the Problem with Business Analysis -> Curso para identificar y definir problemas de negocio.
+Domina SCRUM con JIRA Agile – Metodologías Ágiles -> Curso de Scrum aplicado con JIRA.
+The Complete UML Course: Learn to Design UML Diagrams -> Curso de modelado de sistemas con UML.
+UX: Máster en Diseño web y Experiencia de Usuario -> Curso de diseño UX y experiencia de usuario.

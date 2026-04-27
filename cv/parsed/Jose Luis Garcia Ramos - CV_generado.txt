@@ -1,0 +1,131 @@
+Jose Luis Garcia Ramos
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Manejo tecnologías de la Arquitectura de Referencia y herramientas de código abierto. Genero y mantengo el código necesario, brindando mantenimiento correctivo y evolutivo conforme a la especificación técnica, respetando estándares, la arquitectura y los frameworks definidos para garantizar calidad y cumplimiento de plazos.
+
+En mi trayectoria he priorizado la continuidad del servicio y la resolución de problemas en entornos productivos, trabajando sobre aplicaciones frontend y backend, creación y consumo de servicios REST y control de versiones con Git (Control de versiones distribuido). Participo en despliegues, remediación de vulnerabilidades y coordinación con equipos técnicos para asegurar la operación y estabilidad de los sistemas.
+EXPERIENCIA LABORAL
+Empresa
+SOFTTEK | Puesto
+System Engineer | Desde:
+01 diciembre de 2021 | Hasta: 
+A la fecha
+Actividades Principales | • Mantengo y doy soporte a los aplicativos dominando diversos lenguajes de programación; tengo habilidades en resolución de problemas, versionamiento con Git (Control de versiones distribuido) y en el desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño, codifico y efectúo pruebas unitarias de componentes a partir de las especificaciones técnicas.
+• Utilizo e implemento de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.
+• Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).
+• He obtenido la certificación ISO/IEC 27001:2022 Foundation, que valida conocimientos fundamentales en la gestión de la seguridad de la información.
+• He obtenido la certificación Foundational C# with Microsoft, que valida conocimientos básicos en programación con C# y el ecosistema Microsoft.
+• He obtenido la certificación Scrum Fundamentals Certified (SFC™), que valida el conocimiento de los principios y fundamentos del marco de trabajo Scrum.
+• He usado el curso Ultimate Elasticsearch 8, Kibana, Logstash, Beats para implementar y administrar soluciones de búsqueda, análisis y monitoreo utilizando el stack ELK.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Realizar mantenimiento a aplicativos desarrollados en:
+• ·   PHP (Lenguaje de desarrollo web).
+• ·   Java (Lenguaje de programación para desarrollo de aplicaciones).
+• ·   C# (Lenguaje de programación para desarrollo backend).
+• Control de versiones con Git (Control de versiones distribuido).
+• Upgrade de versión de base de datos PostgreSQL (Base de datos relacional avanzada), SQL Server (Motor de base de datos para consultas y validaciones).
+• Se realizaron correcciones y/o mejoras a diferentes sp, funciones, vistas.
+• Remediación de vulnerabilidades en C# (Lenguaje de programación para desarrollo backend), algunas de ellas son SQL inyección, exposición de datos sensibles, etc.
+• Actualización de versión de .net en algunos componentes.
+• Creación de componentes del FrontEnd con Angular (Framework frontend para aplicaciones SPA).
+• Creación y consumo de servicios REST en java y node.
+• Upgrade de versión de php.
+• Mejoras en código de php para tener mayor seguridad a las peticiones a las BD y evitar posibles ataques.
+• Acceso a servidor Linux/Unix (Sistemas operativos para administración y automatización) a mediante ssh para el despliegue de servicios, modificar permisos de lectura, escritura, cambio de owner en directorios y archivos; revisión de log y estatus de los servicios desplegados.
+• Nacional Monte de Piedad Tareas:
+• Modificación a microservicio desarrollado en node para la autenticación.
+• Generar archivos de configuración en xml para dar accesos a una herramienta encargada de la transferencia de archivos a través de diferentes protocolos de comunicación.
+• Uso de Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).
+• Realizar migración de aplicativo java 8 con servlets a java 21 de backend y angular 16 para frontend.
+• Creación de stored procedures y optimización de consultas.
+• Manejo de despliegues con Jenkins (Automatización de pipelines CI/CD), RLM, autosys.
+• Desarrollo y mantenimiento de aplicativos.
+• Realizar migraciones de distintos sistemas: .Net a Java (Lenguaje de programación para desarrollo de aplicaciones), Asp clásico a .Net., Visual basic 6 a .Net
+• Desarrollo y mantenimiento de servicios REST/SOAP mediante WCF y WEB API.
+• Desarrollo y mantenimiento de windows services.
+• Control de versiones con Git (Control de versiones distribuido), Apache SubVersion (SVN) y TFS (Azure DevOps Server) (Gestión de work items, repos y pipelines; soporte a pruebas).
+• Desarrollo y modificación de objetos de base de datos (Stored Procedures, funciones, secuencias, índices, tablas, vistas) en SQL Server (Motor de base de datos para consultas y validaciones) y Oracle Database (Motor de base de datos empresarial).
+• Implementación de metodología SCRUM.
+• Líder técnico, encargado de gestionar y dar seguimiento a las actividades del equipo.
+Empresa
+GRUPO FINANCIERO INBURSA S.A. DE C.V | Puesto
+Engineer - Senior | Desde:
+03 mayo de 2018 | Hasta: 
+01 noviembre de 2021
+Actividades Principales | • Desarrollo y mantenimiento de aplicativos.
+• Realizar migraciones de distintos sistemas: .Net a Java (Lenguaje de programación para desarrollo de aplicaciones), Asp clásico a .Net., Visual basic 6 a .Net
+• Desarrollo y mantenimiento de servicios REST/SOAP mediante WCF y WEB API.
+• Desarrollo y mantenimiento de windows services.
+• Control de versiones con Git (Control de versiones distribuido), Apache SubVersion (SVN) y TFS (Azure DevOps Server) (Gestión de work items, repos y pipelines; soporte a pruebas).
+• Desarrollo y modificación de objetos de base de datos (Stored Procedures, funciones, secuencias, índices, tablas, vistas) en SQL Server (Motor de base de datos para consultas y validaciones) y Oracle Database (Motor de base de datos empresarial).
+• Implementación de metodología SCRUM.
+• Líder técnico, encargado de gestionar y dar seguimiento a las actividades del equipo.
+HERRAMIENTAS CONOCIDAS
+- WebLogic Server
+- Teradata DB
+- Team Foundation Services (TFS)
+- Struts
+- Spring Framework
+- Spring BOOT
+- SoapUI
+- SOAP
+- Scrum
+- REST
+- PostMan
+- PostgreSQL
+- PHP
+- Oracle Database
+- Oracle
+- MS Visual Basic.NET (VB.NET)
+- MS Visual Basic 6
+- Microsoft SQL Server
+- JIRA
+- JavaServer Pages (JSP)
+- Java EE / J2EE
+- Java 8
+- Java 21
+- Hibernate
+- Git
+- C#
+- ASP.NET
+- ASP Classic
+- Apache SubVersion (SVN)
+- Angular 2+
+- .NET Framework 3.5 (and above)
+- .NET Core Framework
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 septiembre de 2015 hasta 02 mayo de 2018
+Durante este período me desempeñé como Desarrollador asumiendo responsabilidades de desarrollo y migración de aplicaciones, así como mantenimiento de objetos de base de datos en SQL Server (Motor de base de datos para consultas y validaciones) y Oracle Database (Motor de base de datos empresarial). Realicé tareas de adaptación tecnológica entre plataformas, soporte a aplicaciones y modificación de componentes para su correcto funcionamiento. Participé en actividades de análisis y corrección de fallas técnicas, documentación de cambios y colaboración con equipos técnicos para asegurar la continuidad y estabilidad de los servicios.
+FORMACIÓN ACADÉMICA:
+Licenciatura en Informática - Sep, 2011 - Apr, 2016 | Universidad Mexiquense del Bicentenario, Villa Victoria, estado de México | Cédula Profesional
+11802118
+16/11/2019
+CERTIFICACIONES
+- ISO/IEC 27001:2022 Foundation – CertiProf | 2025
+- Foundational C# with Microsoft | 2024
+- Scrum Fundamentals Certified (SFC™) | 2022
+CURSOS
+- Diego TT Exam
+- Ultimate Elasticsearch 8, Kibana, Logstash, Beats: ELK Stack
+______________________________________
+Jose Luis Garcia Ramos
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

@@ -1,0 +1,74 @@
+Agustina Flores Campos
+PERFIL
+Ingeniera en sistemas computacionales egresado del instituto tecnológico de Cuautla, autodidacta, organizada y con una gran motivación, soy capaz de adaptarme a cualquier circunstancia y siempre dar lo mejor de mí en cualquier proyecto, al mismo tiempo que me esfuerzo por trabajar en equipo y fomentar los valores como lo son el compañerismo, el respeto, la paciencia, la inclusión y la no discriminación. Tuve la oportunidad ser líder en un equipo para desarrollar sus habilidades técnicas asi como sus habilidades blandas.
+Con experiencia en front­end (HTML, CSS, JAVASCRIPT), Bases de datos (MySQL y POSTGRESQL) y back­end con lenguajes como JAVA, PHP y PYTHON.
+EXPERIENCIA PROFESIONAL
+Softtek	CDMX ­ Software Engineer ­ Proficient
+Descripción:
+Remediación de vulnerabilidades y actualización de versiones de los diferentes sistemas de coppel.
+Herramientas/Habilidades:
+TypeScript, SQL, Git, C/C++, Java 8 | De: Nov, 2023 A: Jul, 2024
+Softtek	Mitikah CDMX ­ Desarrollador | De: Nov, 2021 A: Jan, 2023
+Descripción:
+Proyecto de remediacion de vulnerabilidades de sistemas existentes de Coppel, se hacen remediaciones en codigo a sentencias sql para pasarlas a un api echa en node y typescript para llamarlas mediante un microservicio, tambien se hacen remediaciones de vulnerabilidades en codigo de sistemas en lenguajes como PHP, JAVA, C++ y JavaScript.
+Herramientas/Habilidades:
+PHP, MySQL, PostgreSQL, Microsoft SQL Server, Java 8, C/C++, TypeScript, Javascript
+Softtek	Eugenia CDMX ­ Desarrollador	De: Jun, 2021 A: Nov, 2021
+Descripción:
+Academia cells: Capacitación en la tecnología LitElement, LitHTML, CSS, JavaScript y POO.
+JavaScript ­Array helpers: forech, map, filter, find, some, every, reduce, ­Arrow functions, events, Operadores de propagacion, ajax, jquery, fetch, service workers
+Polymer ­bower, shadowDOM, computed, notify, observers, bubbles, composed, iron­ajax, webcomponents, custom elements.
+Herramientas/Habilidades: Git, Javascript, HTML5, CSS/CSS3
+Cenidet	Cuernavaca ­ Programador Java/JEE
+Descripción:
+Creación de un sistema web para el cálculo de métricas para evaluar la calidad de un software.
+Herramientas/Habilidades:
+Java EE / J2EE, JavaServer Pages (JSP), HTML5, MySQL, CSS/CSS3, Javascript, PostgreSQL | De: Jan, 2020 A: Jun, 2021
+Instituto Tecnológico de Cuautla	Cuautla ­ Desarrollador( Servicio social) | De: Jan, 2018 A: Jul, 2018
+Descripción:
+Creación de una red personal.
+Organización y clasificación de información.
+Elaboración de una base de datos y sistemas de información.
+Recopilación de información para la acreditación de la carrera de Ingeniería Industrial.
+Herramientas/Habilidades:
+MySQL
+EDUCACIÓN
+Instituto Tecnologico de Cuautla
+Ingeniero en sistemas computacionales
+DESARROLLO PROFESIONAL
+Certification: Negotiation Associate
+Certification: Foundational C# with Microsoft
+Certification: Six Sigma Yellow Belt
+Certification: Scrum Fundamentals Certified
+Certification: Certified SAFe 5 Practitioner Certification
+Certification: JavaScript Algorithms and Data Atructures
+Certification: Responsive Web Design
+IDIOMAS
+English
+HABILIDADES TÉCNICAS/GERENCIALES | Cuautla Auto Evaluado | VMEdu, Inc.
+Microsoft
+6 Sigma Study
+Scrum Study
+Scaled Agile, Inc. freeCodeCamp freeCodeCamp | De: Aug, 2014 A: Dec, 2018
+May, 2024
+May, 2024
+Feb, 2024
+Oct, 2022
+Jul, 2021
+Jul, 2021
+Jul, 2021
+Lower Intermediate 31­50%
+TypeScript | Junior (1­2 YoE)
+SQL | Proficient (2­4 YoE)
+PostgreSQL | Proficient (2­4 YoE)
+PHP | Proficient (2­4 YoE)
+MySQL | Proficient (2­4 YoE)
+Microsoft SQL Server | Trainee (0­1 YoE)
+JavaServer Pages (JSP) | Trainee (0­1 YoE)
+Javascript | Proficient (2­4 YoE)
+Java EE / J2EE | Junior (1­2 YoE)
+Java 8 | Junior (1­2 YoE)
+HTML5 | Proficient (2­4 YoE)
+Git | Proficient (2­4 YoE)
+CSS/CSS3 | Proficient (2­4 YoE)
+C/C++ | Trainee (0­1 YoE)

@@ -1,126 +1,304 @@
 [
   {
-  "nombre": "Martha Patricia Martínez Flores",
-  "mail": "",
-  "genero": "",
-  "fecha_nacimiento": "",
-  "rfc": "",
-  "curp": "",
-  "no_cedula": "3500673",
-  "rol_propuesto": "Gerente de Operación",
-  "resumen_profesional": "Poseo al menos 5 años de experiencia comprobada en la gestión de proyectos grandes o críticos y al menos 3 años de experiencia comprobada en proyectos de desarrollo Ágil.\n\nTengo 30 años de trayectoria gestionando proyectos y equipos de soporte y mantenimiento de aplicaciones en sectores público y privado; he dirigido equipos de hasta 100 personas y administrado contratos de fábrica de software con más de 70 colaboradores bajo mi responsabilidad. Me enfoco en asegurar continuidad operativa, definir procesos y métricas, gestionar riesgos y coordinar la entrega puntual de productos.\n\nTrabajo orientada a resultados, con experiencia en tailorizar metodologías (PMI/Ágil) y en la elaboración de propuestas y estimados para clientes.",
-  "experiencia_laboral": [
-    {
-      "empresa": "Softtek Instituto Federal de Telecomunicaciones",
-      "puesto": "Project Manager",
-      "fecha_inicio": "01 julio 2024",
-      "fecha_fin": "Actual",
-      "actividades_principales": [
-        "Coordino actividades de personal especialista y profesional técnico para cumplimiento de procesos y garantizar la continuidad de los servicios.",
-        "Tailorizo metodología y marco documental para el desarrollo de proyectos, generando los Modelos de Desarrollo para Marco Ágil y para desarrollos Modelo Cascada o Iterativo.",
-        "Defino procesos de operación del Servicio de Desarrollo.",
-        "Defino las estrategias de atención para las iniciativas acorde a la estrategia de desarrollo de la Institución.",
-        "Elaboro Propuestas para desarrollo de aplicativos con estimaciones basadas en Juicio de Experto y Cosmic Function Points.",
-        "Soy responsable del Proyecto de Mantenimiento al Sistema de Numeración y Señalización SNS que consiste en la implementación de 31 trámites del sistema.",
-        "Utilizo metodologías: Administración de proyectos basadas en PMI, Gestión Ágil de proyectos con SCRUM.",
-        "Apoyo en la generación de propuestas y estimados para los sectores de Health & Insurance y Retail.",
-        "Genero estrategias de atención",
-        "Realizo estimaciones a juicio de experto/Cosmic Function Points",
-        "Genero planes de trabajo a alto nivel",
-        "Identifico riesgos y consideraciones",
-        "Utilizo metodologías: Administración de proyectos basadas en PMI, Gestión Ágil de proyectos con SCRUM, Metodología general de transformación y diagnóstico de generación de valor.",
-        "Soy responsable de la dirección de proyectose implementacion de controles de seguridad",
-        "Gestiono proveedores.",
-        "Presento y elaboro informes ejecutivos para el cliente, y alta Dirección de Softtek",
-        "Genero y presento reportes financieros de los proyectos.",
-        "He dirigido proyectos de implementación de controles de seguridad para aplicaciones (ACE y Hardening)",
-        "Coordiné la operación de células de trabajo bajo marcos ágiles para la ejecución de implementaciones",
-        "Gestioné riesgos, proveedores y presenté informes ejecutivos al cliente",
-        "Gerente de proyecto para la implementación de SAP Commissions y Agent Performance Management APM para MetLife.",
-        "Gestioné al proveedor Outliers, empresa responsable de la implementación de los módulos de SAP (Commissions y APM).",
-        "Definí métricas de calidad para la entrega del Servicio",
+    "nombre": "Martha Patricia Martínez Flores",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "3500673",
+    "fecha_cedula": "07/12/2001",
+    "rol_propuesto": "Gerente de Operación",
+    "resumen_profesional": "Cuento con más de 5 años de experiencia comprobada en la gestión de proyectos grandes o críticos y con más de 3 años de experiencia comprobada en proyectos de desarrollo ágil. Realizo labores de mentoreo y coaching para que los líderes de proyecto a mi cargo lleven una gestión completa y correcta, cumpliendo los compromisos de calendario, esfuerzo, presupuesto y calidad acordados con el cliente.\n\nHe dirigido servicios y proyectos de desarrollo, mantenimiento y transformación para instituciones públicas y empresas privadas, definiendo procesos de operación, estrategias de atención, métricas de calidad, reportes ejecutivos y seguimiento financiero. Mi experiencia se enfoca en asegurar continuidad operativa, ordenar la ejecución y mantener la relación con clientes, proveedores y equipos multidisciplinarios.\n\nTambién he coordinado células y equipos amplios en iniciativas de seguridad, assessment, mantenimiento mayor y evolución de aplicaciones, integrando marcos PMI, Scrum, CMMI (Modelo de madurez para procesos de desarrollo y servicios), PDSS, MAAGTIC-SI (Estándar gubernamental para artefactos de QA) e ITIL (Marco de mejores prácticas para gestión de servicios de TI (incidentes, problemas, cambios, niveles de servicio, catálogo, CMDB, etc.)). Acompaño la toma de decisiones, gestiono riesgos e impulso entregas alineadas a servicio, calidad y resultados.",
+    "funciones": "Coordino actividades de personal especialista y técnico para asegurar el cumplimiento de los procesos y garantizar la continuidad de los servicios.\n\nDirijo servicios y proyectos de desarrollo, mantenimiento y transformación para instituciones públicas y empresas privadas, definiendo procesos de operación, estrategias de atención, métricas de calidad, reportes ejecutivos y seguimiento financiero. Mi experiencia se centra en asegurar la continuidad operativa, ordenar la ejecución y mantener la relación con clientes, proveedores y equipos multidisciplinarios.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek Instituto Federal de Telecomunicaciones",
+        "puesto": "Project Manager",
+        "fecha_inicio": "1 julio 2024",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+        "Coordino actividades de personal especialista y profesional técnico para cumplir procesos y garantizar la continuidad de los servicios.",
+        "Participo en la elaboración de propuestas.",
+        "Reviso y autorizo propuestas que en el futuro estaré a cargo de operar.",
+        "Elijo y asigno al líder de proyecto para la ejecución de los mismos.",
+        "Gestiono y autorizo la asignación y desasignación de recursos humanos, materiales y financieros para la gestión de proyectos.",
+        "Respaldo y autorizo la toma de decisiones de los líderes de proyecto a mi cargo.",
+        "Reporto datos financieros a la organización sobre el avance de los proyectos a mi cargo (costos, devengado, etc.).",
+        "Superviso las actividades de gestión de los líderes de proyecto, dirijo y corrijo en caso de ser necesario.",
+        "Establezco los lineamientos de operación, así como la estrategia global de mis proyectos.",
+        "Informo de manera consolidada y periódica, tanto a los mandos superiores como a los equipos de trabajo, los resultados obtenidos.",
+        "Comunico a los equipos de trabajo las noticias más relevantes dispuestas en la organización.",
+        "Mantengo activa la relación con el cliente y funjo como punto de contacto y de escalación en los proyectos a mi cargo.",
+        "Gestiono entre 1 y 3 proyectos con un esfuerzo total que oscila entre más de 5,000 y hasta 10,000 horas. Coordino equipos de entre 10 y 15 participantes y administro a un conjunto de líderes con menor seniority. Asimismo, reporto avances y resultados a PM (integrador), DM y cliente, a nivel de gerencia media.",
+        "He aplicado la certificación ITIL® Foundation Certificate in IT Service Management para gestionar servicios de TI conforme a mejores prácticas, enfocando la operación en valor, mejora continua y satisfacción del cliente",
+        "He utilizado la certificación Certified ScrumMaster® (CSM) para facilitar equipos ágiles, coordinar eventos Scrum y promover la colaboración y la entrega incremental de valor",
+        "He puesto en práctica la certificación Project Management Professional (PMP®) para planificar, ejecutar y controlar proyectos, gestionando alcance, tiempos, costos, riesgos y recursos de forma integral",
+        "He aprovechado la acreditación como Auditor Interno de Normas ISO 9001:2015 para evaluar el cumplimiento de sistemas de gestión de calidad y apoyar la mejora continua de procesos",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "ISP: Defino el proyecto alineando objetivos, alcance, recursos y equipo.",
+        "PTO: Doy seguimiento al avance y gestiono desviaciones.",
+        "FPT: Aseguro un cierre ordenado con entregables y lecciones aprendidas.",
+        "CHM: Gestiono cambios evaluando impacto e implementación.",
+        "SCM: Controlo versiones y configuraciones, garantizando trazabilidad.",
+        "Realicé la tailorización de metodología y marco documental para el desarrollo de proyectos, generando los Modelos de Desarrollo para Marco Ágil y para desarrollos Modelo Cascada o Iterativo.",
+        "Definí procesos de operación del Servicio de Desarrollo.",
+        "Definí las estrategias de atención para las iniciativas acorde a la estrategia de desarrollo de la Institución.",
+        "Elaboré propuestas para desarrollo de aplicativos con estimaciones basadas en Juicio de Experto y Cosmic Function Points.",
+        "Fui responsable del Proyecto de Mantenimiento al Sistema de Numeración y Señalización SNS que consiste en la implementación de 31 trámites del sistema.",
+        "Apoyé en la generación de propuestas y estimados para los sectores de Health & Insurance y Retail.",
+        "Generé estrategias de atención.",
+        "Realicé estimaciones a juicio de experto/Cosmic Function Points.",
+        "Generé planes de trabajo a alto nivel.",
+        "Identifiqué riesgos y consideraciones.",
+        "Fui responsable de la gestión del proyecto de Assessment de Evaluación de Soluciones para la nueva plataforma de Collections de Chubb México.",
+        "Realicé el estado de la situación actual.",
+        "Coordiné y preparé entrevistas a las áreas usuarias y tecnológicas para identificar los procesos y subprocesos relacionados con Cobranza.",
+        "Generé el informe de estado de situación por área, que incluyó el mapa de procesos y subprocesos, diagramas de contexto y descripción general de cada uno de los subprocesos.",
+        "Evalué soluciones de Cobranza y generé recomendaciones.",
+        "Coordiné el proceso de selección e invitación de proveedores con soluciones de Billing y Cobranza que cubrieran los requerimientos generales de Chubb.",
+        "Generé el RFP Request for Proposal para solicitar respuesta a los proveedores.",
+        "Coordiné las presentaciones funcionales y técnicas de cada proveedor.",
+        "Evalué cada una de las soluciones (Guidewire BillingCenter, Adacta Adinsure, SAP Fioneer S4/HANA Insurance for Collections and Disbursements, Biosnettcs XtendCore Collections).",
+        "Generé recomendaciones.",
         "Administré riesgos e issues.",
-        "Di seguimiento a las pruebas unitarias y QA del cliente.",
-        "Presenté y elaboré informes para los usuarios ejecutivos del proyecto y alta Dirección de Softtek",
-        "Generé y presenté reportes financieros para el proyecto."
-      ]
-    },
-    {
-      "empresa": "Softtek",
-      "puesto": "Delivery Manager",
-      "fecha_inicio": "01 noviembre 2023",
-      "fecha_fin": "30 junio 2024",
-      "actividades_principales": [
-        "Apoyo en la generación de propuestas y estimados para los sectores de Health & Insurance y Retail.",
-        "Genero estrategias de atención",
-        "Realizo estimaciones a juicio de experto/Cosmic Function Points",
-        "Genero planes de trabajo a alto nivel",
-        "Identifico riesgos y consideraciones",
-        "Utilizo metodologías: Administración de proyectos basadas en PMI, Gestión Ágil de proyectos con SCRUM, Metodología general de transformación y diagnóstico de generación de valor. | Apoyo en la generación de propuestas y estimados para los sectores de Health & Insurance y Retail."
-      ]
-    },
-    {
-      "empresa": "Softtek Chubb Seguros",
-      "puesto": "Delivery Manager/Project Manager",
-      "fecha_inicio": "01 abril 2023",
-      "fecha_fin": "31 octubre 2023",
-      "actividades_principales": [
-        "Soy responsable de la dirección de proyectos e implementacion de controles de seguridad",
-        "Gestiono proveedores.",
-        "Presento y elaboro informes ejecutivos para el cliente, y alta Dirección de Softtek",
-        "Genero y presento reportes financieros de los proyectos."
-      ]
-    },
-    {
-      "empresa": "Softtek Walmart",
-      "puesto": "Delivery Manager",
-      "fecha_inicio": "01 octubre 2021",
-      "fecha_fin": "31 octubre 2022",
-      "actividades_principales": [
-        "He dirigido proyectos de implementación de controles de seguridad para aplicaciones (ACE y Hardening)",
-        "Coordiné la operación de células de trabajo bajo marcos ágiles para la ejecución de implementaciones",
-        "Gestioné riesgos, proveedores y presenté informes ejecutivos al cliente"
-      ]
-    },
-    {
-      "empresa": "Softtek MetLife",
-      "puesto": "Delivery Manager",
-      "fecha_inicio": "01 noviembre 2020",
-      "fecha_fin": "31 diciembre 2021",
-      "actividades_principales": [
-        "Fui Gerente de proyecto para la implementación de SAP Commissions y Agent Performance Management APM para MetLife.",
-        "Gestioné al proveedor Outliers, empresa responsable de la implementación de los módulos de SAP (Commissions y APM).",
-        "Definí métricas de calidad para la entrega del Servicio",
+        "Gestioné proveedores.",
+        "Presenté y elaboré informes ejecutivos para el cliente y la alta Dirección de Softtek.",
+        "Fui responsable de la dirección para los proyectos de Walmart ACE y Hardening de Servidores, consistentes en implementar controles de seguridad para las aplicaciones (14 aplicaciones en ACE, y 83 aplicaciones en Hardening), en donde se llevaron a cabo remediaciones/integraciones necesarias con el fin de que los aplicativos se alineen en compliance a las políticas globales de identity & access managment, gestión y protección de datos, así como la validación de soluciones nuevas o modificación de las existentes en el portafolio de Tecnología de la Información (TI).",
+        "Implementé los siguientes controles de seguridad en cada uno de los proyectos.",
+        "Implementé ACE.",
+        "Implementé autenticación centralizada.",
+        "Implementé segundo factor de autenticación.",
+        "Implementé Provision/Deprovision/UAR (User Access Review).",
+        "Implementé pistas de auditoría.",
+        "Implementé cuentas de servicio/privilegiadas.",
+        "Implementé Password Management.",
+        "Implementé SSP (Plan de Seguridad de la Solución).",
+        "Implementé Hardening.",
+        "Reemplacé Cuentas Locales por Cuentas de Servicio (principal y /o secundaria) en Directorio Activo.",
+        "Implementé el Portal para alertar las cuentas de servicio por expirar (Aplicativo WEB).",
+        "Coordiné la operación de las diferentes células de trabajo, bajo marcos de trabajo ágiles, con un promedio de 30 consultores participando en la implementación.",
         "Administré riesgos e issues.",
-        "Di seguimiento a las pruebas unitarias y QA del cliente.",
-        "Presenté y elaboré informes para los usuarios ejecutivos del proyecto y alta Dirección de Softtek",
+        "Gestioné proveedores.",
+        "Presenté y elaboré informes ejecutivos para el cliente y la alta Dirección de Softtek.",
+        "Fui gerente de proyecto para la implementación de SAP Commissions y Agent Performance Management APM para MetLife.",
+        "Gestioné al proveedor Outliers, empresa responsable de la implementación de los módulos de SAP (Commissions y APM).",
+        "Definí métricas de calidad para la entrega del Servicio.",
+        "Administré riesgos e issues.",
+        "Di seguimiento a las pruebas unitarias y Aseguramiento de la Calidad (QA) del cliente.",
+        "Presenté y elaboré informes para los usuarios ejecutivos del proyecto y alta Dirección de Softtek.",
         "Generé y presenté reportes financieros para el proyecto."
-      ]
-    }
-  ],
-  "periodo_resumen_laboral": "La experiencia abarca desde 01 agosto 1991 hasta 31 octubre 2020",
-  "resumen_laboral": "Durante este período me desempeñé en roles como Gerente de proyectos, Líder de Proyecto, Director de proyectos y Consultor de procesos. Asumí responsabilidades de planificación y administración de proyectos, definición y mejora de procesos operativos, gestión de riesgos y proveedores, elaboración de propuestas y generación de informes ejecutivos. Coordiné equipos multidisciplinarios, participé en la puesta en marcha y transición de servicios, y apoyé la operación y soporte de aplicaciones mediante el establecimiento y seguimiento de métricas de operación.",
-  "estudios": {
-    "carrera": "Licenciatura en Ciencias de la Informática",
-    "lugar": "Instituto Politécnico Nacional UPIICSA",
-    "periodo": "1985-1989"
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Gerente de entrega de proyectos (Delivery Manager)",
+        "fecha_inicio": "1 noviembre 2023",
+        "fecha_fin": "30 junio 2024",
+        "actividades_principales": [
+          "Apoyé en la generación de propuestas y estimados para los sectores de Health & Insurance y Retail.",
+          "Generé estrategias de atención.",
+          "Realicé estimaciones a juicio de experto/Cosmic Function Points.",
+          "Generé planes de trabajo a alto nivel.",
+          "Identifiqué riesgos y consideraciones."
+        ]
+      },
+      {
+        "empresa": "Softtek Chubb Seguros",
+        "puesto": "Gerente de entrega de proyectos (Delivery Manager)/Project Manager",
+        "fecha_inicio": "3 abril 2023",
+        "fecha_fin": "31 octubre 2023",
+        "actividades_principales": [
+           "Fui responsable de la gestión del proyecto de Assessment de Evaluación de Soluciones para la nueva plataforma de Collections de Chubb México.",
+            "Realicé el estado de la situación actual.",
+            "Coordiné y preparé entrevistas a las áreas usuarias y tecnológicas para identificar los procesos y subprocesos relacionados con Cobranza.",
+            "Generé el informe de estado de situación por área, que incluyó el mapa de procesos y subprocesos, diagramas de contexto y descripción general de cada uno de los subprocesos.",
+            "Evalué soluciones de Cobranza y generé recomendaciones.",
+            "Coordiné el proceso de selección e invitación de proveedores con soluciones de Billing y Cobranza que cubrieran los requerimientos generales de Chubb.",
+            "Generé el RFP Request for Proposal para solicitar respuesta a los proveedores.",
+            "Coordiné las presentaciones funcionales y técnicas de cada proveedor.",
+            "Evalué cada una de las soluciones (Guidewire BillingCenter, Adacta Adinsure, SAP Fioneer S4/HANA Insurance for Collections and Disbursements, Biosnettcs XtendCore Collections).",
+            "Generé recomendaciones.",
+            "Administré riesgos e issues.",
+            "Gestioné proveedores.",
+            "Presenté y elaboré informes ejecutivos para el cliente y la alta Dirección de Softtek."
+        ]
+      },
+      {
+        "empresa": "Softtek Walmart",
+        "puesto": "Gerente de entrega de proyectos (Delivery Manager)",
+        "fecha_inicio": "1 octubre 2021",
+        "fecha_fin": "31 octubre 2022",
+        "actividades_principales": [
+           "Fui responsable de la dirección para los proyectos de Walmart ACE y Hardening de Servidores, consistentes en implementar controles de seguridad para las aplicaciones (14 aplicaciones en ACE, y 83 aplicaciones en Hardening), en donde se llevaron a cabo remediaciones/integraciones necesarias con el fin de que los aplicativos se alineen en compliance a las políticas globales de identity & access managment, gestión y protección de datos, así como la validación de soluciones nuevas o modificación de las existentes en el portafolio de Tecnología de la Información (TI).",
+          "Implementé los siguientes controles de seguridad en cada uno de los proyectos.",
+          "Implementé ACE.",
+          "Implementé autenticación centralizada.",
+          "Implementé segundo factor de autenticación.",
+          "Implementé Provision/Deprovision/UAR (User Access Review).",
+          "Implementé pistas de auditoría.",
+          "Implementé cuentas de servicio/privilegiadas.",
+          "Implementé Password Management.",
+          "Implementé SSP (Plan de Seguridad de la Solución).",
+          "Implementé Hardening.",
+          "Reemplacé Cuentas Locales por Cuentas de Servicio (principal y /o secundaria) en Directorio Activo.",
+          "Implementé el Portal para alertar las cuentas de servicio por expirar (Aplicativo WEB).",
+          "Coordiné la operación de las diferentes células de trabajo, bajo marcos de trabajo ágiles, con un promedio de 30 consultores participando en la implementación.",
+          "Administré riesgos e issues.",
+          "Gestioné proveedores.",
+          "Presenté y elaboré informes ejecutivos para el cliente y la alta Dirección de Softtek."
+        ]
+      },
+      {
+        "empresa": "Softtek MetLife",
+        "puesto": "Gerente de entrega de proyectos (Delivery Manager)",
+        "fecha_inicio": "2 noviembre 2020",
+        "fecha_fin": "31 diciembre 2021",
+        "actividades_principales": [
+        "Fui gerente de proyecto para la implementación de SAP Commissions y Agent Performance Management APM para MetLife.",
+        "Gestioné al proveedor Outliers, empresa responsable de la implementación de los módulos de SAP (Commissions y APM).",
+        "Definí métricas de calidad para la entrega del Servicio.",
+        "Administré riesgos e issues.",
+        "Di seguimiento a las pruebas unitarias y Aseguramiento de la Calidad (QA) del cliente.",
+        "Presenté y elaboré informes para los usuarios ejecutivos del proyecto y alta Dirección de Softtek.",
+        "Generé y presenté reportes financieros para el proyecto."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 agosto de 1991 hasta 31 diciembre de 2021",
+    "resumen_laboral": "Durante este período me desempeñé como Gerente de entrega de proyectos (Delivery Manager), Gerente de Servicio Fábrica de Software, Gerente de Proyecto, Oficina de Gestión de Proyectos (PMO), Director de proyectos, Consultor de procesos, Líder de Proyecto, Gerente de proyectos ERP SAP y Gerente de proyectos ARS. Asumí responsabilidades de dirección de proyectos, operación de servicios, administración de recursos, seguimiento de procesos, atención a clientes, control de riesgos, elaboración de propuestas y coordinación de equipos de trabajo en distintos entornos. También participé en iniciativas de mantenimiento, soporte, implantación, reingeniería y mejora operativa, procurando el cumplimiento de compromisos y la continuidad de los servicios.",
+    "estudios": {
+      "carrera": "Licenciatura en Ciencias de la Informática",
+      "lugar": "Instituto Politécnico Nacional UPIICSA, México, D. F.",
+      "periodo": "1985-1989"
+    },
+    "herramientas": [
+      {
+        "nombre": "MS Project"
+      },
+      {
+        "nombre": "Excel"
+      },
+      {
+        "nombre": "Word"
+      },
+      {
+        "nombre": "PowerPoint"
+      },
+      {
+        "nombre": "PPM"
+      },
+      {
+        "nombre": "Jira"
+      },
+      {
+        "nombre": "Confluence"
+      },
+      {
+        "nombre": "SAFE"
+      },
+      {
+        "nombre": "Oracle SOA"
+      },
+      {
+        "nombre": "OSB"
+      },
+      {
+        "nombre": "Java"
+      },
+      {
+        "nombre": "WordPress"
+      },
+      {
+        "nombre": "ODI Oracle Data Integrator"
+      },
+      {
+        "nombre": "OBIEE Oracle Business Intelligence Enterprise Edition"
+      },
+      {
+        "nombre": "Axway BPM"
+      },
+      {
+        "nombre": "Kintana ITG"
+      },
+      {
+        "nombre": "Visio"
+      },
+      {
+        "nombre": "Bizagi"
+      },
+      {
+        "nombre": "Process Dashboard"
+      },
+      {
+        "nombre": "PPMC"
+      },
+      {
+        "nombre": "Documentum"
+      },
+      {
+        "nombre": "Cognos"
+      },
+      {
+        "nombre": "DataStage"
+      },
+      {
+        "nombre": "Rational Rose"
+      },
+      {
+        "nombre": "Requisite Pro"
+      },
+      {
+        "nombre": "Microsoft SQL Server"
+      },
+      {
+        "nombre": "SAP Commissions"
+      },
+      {
+        "nombre": "Agent Performance Management APM"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "Erwin"
+      },
+      {
+        "nombre": "Mainframe IBM"
+      },
+      {
+        "nombre": "Cobol"
+      },
+      {
+        "nombre": "DB2 para OS/390"
+      },
+      {
+        "nombre": "JCL"
+      },
+      {
+        "nombre": "CICS"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "ITIL® Foundation Certificate in IT Service Management",
+        "anio": "2024-2027"
+      },
+      {
+        "nombre": "Certified ScrumMaster® (CSM)",
+        "anio": "2016-2026"
+      },
+      {
+        "nombre": "Project Management Professional (PMP®)",
+        "anio": "2007-2026"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "Auditor Interno de Normas ISO 9001:2015"
+      }
+    ]
   },
-  "certificaciones": [
-    {
-      "nombre": "Project-Management-Professional",
-      "anio": "2007 / 2026"
-    },
-    {
-      "nombre": "SCRUM Master",
-      "anio": "2016 / 2026"
-    },
-    {
-      "nombre": "Certificado ITIL v4",
-      "anio": "2024 / 2027"
-    }
-  ],
-  "cursos": []
-},
   {
     "nombre": "Humberto Montes de Oca",
     "mail": "",
@@ -129,105 +307,139 @@
     "rfc": "",
     "curp": "",
     "no_cedula": "8513848",
+    "fecha_cedula": "09/04/2014",
     "rol_propuesto": "Gerente de Operación",
-    "resumen_profesional": "Cuento con al menos 5 años de experiencia comprobada en la gestión de proyectos grandes o críticos y con al menos 3 años comprobados en proyectos de desarrollo ágil.\n\nSoy gestor de proyectos y PMO con experiencia en coordinación de equipos multidisciplinarios, aseguramiento de la continuidad operativa y gestión de entregables bajo marcos cascada, híbridos y ágiles. He liderado la planificación estratégica de transiciones tecnológicas y la implementación de oficinas de proyectos para mejorar procesos y métricas clave.\n\nTrabajo con stakeholders ejecutivos para asegurar disponibilidad de servicios, cumplimiento de SLAs y calidad en entregables; aplico prácticas del PMI y metodologías ágiles para documentar procesos, controlar riesgos y facilitar la comunicación entre áreas comerciales y técnicas.",
+    "resumen_profesional": "Cuento con más de 5 años de experiencia comprobada en gestión de proyectos grandes o críticos y más de 3 años de experiencia comprobada en proyectos de desarrollo ágil. Realizo labores de mentoría y coaching para que los líderes de proyecto a mi cargo lleven a cabo una gestión integral y correcta, cumpliendo los compromisos de calendario, esfuerzo, presupuesto y calidad acordados con el cliente.\n\nHe coordinado iniciativas de transición tecnológica, operación y continuidad de servicios en entornos de infraestructura, ciberseguridad, ERP (SAP), aplicaciones, Gobierno de Tecnología de la Información (TI) y mesa de servicio, manteniendo control documental, seguimiento ejecutivo y calidad en los entregables.\n\nTambién he gestionado oficinas de proyectos, portafolios y programas con equipos multidisciplinarios, impulsando mejoras de proceso, seguimiento financiero, adopción ágil, comunicación con clientes y alineación operativa para sostener el servicio y la ejecución ordenada.",
+    "funciones": "Coordino actividades de personal especialista y técnico para asegurar el cumplimiento de los procesos y garantizar la continuidad de los servicios.\n\nHe coordinado iniciativas de transición tecnológica, operación y continuidad de servicios en ambientes de infraestructura, ciberseguridad, ERP, aplicaciones y mesa de servicio, manteniendo control documental, seguimiento ejecutivo y calidad de entregables.",
     "experiencia_laboral": [
-    {
-      "empresa": "Softtek",
-      "puesto": "PMO",
-      "fecha_inicio": "01 agosto 2023",
-      "fecha_fin": "Actual",
-      "actividades_principales": [
-        "Coordino actividades de personal especialista y del equipo técnico para el cumplimiento de procesos y garantizar la continuidad de los servicios.",
-        "Realicé la planeación estratégica para la transición tecnológica en un proyecto de desincorporación de activos y creación de empresa.",
-        "Gestioné un proyecto multipráctica que abarcó infraestructura, ciberseguridad, ERP (SAP), aplicativos non SAP, gobierno de TI, continuidad y mesa de servicio.",
-        "Identifiqué oportunidades de negocio para Softtek en un proyecto Greenfield derivado de una desincorporación tecnológica.",
-        "Interactué directamente con el CIO de la nueva empresa para la entrega de resultados con cadencias semanales y quincenales.",
-        "Gestioné documentación y activos de información para la operación de la nueva empresa.",
-        "Aseguré la calidad en entregables y en el servicio por parte de las prácticas hacia el cliente.",
-        "Apliqué las mejores prácticas del PMI y metodología de consultoría para coordinar estrategias y generar valor continuo.",
-        "Diseñé, desarrollé e implementé una oficina de proyectos desde su conceptualización hasta la entrega al cliente.",
-        "Analicé y evalué procesos existentes para identificar oportunidades y mejoras.",
-        "Definí OKRs, SLAs y EMV para iniciativas, y participé en la priorización y autorización de proyectos.",
-        "Implementé un centro de conocimiento para gestionar lecciones aprendidas, mejores prácticas, guías y procedimientos.",
-        "Realicé seguimiento a indicadores clave como CPI, SPI y EI, siguiendo el marco metodológico del PMI.",
-        "Definí prototipos para validar procesos creados en la PMO.",
-        "Actué como senior portafolio manager para el área de finanzas y operaciones.",
-        "Gestioné proyectos de operaciones para aduanas de DHL, mejorando procesos y la disponibilidad de aplicaciones que soportan información regulatoria con el SAT y ANAM.",
-        "Analicé registros financieros de aduanas, tomé decisiones y mejoré la comunicación, identificando oportunidades de negocio y proyectos.",
-        "Gestioné la cartera financiera identificando desvíos y recuperando procesos.",
-        "Actué como facilitador y scrum máster en la adopción de metodologías ágiles y en la transición desde esquemas tradicionales.",
-        "Implementé el programa Salesforce para retención de clientes (CRM) bajo la metodología SAFE, mejorando tiempos de respuesta y fidelización.",
-        "Gestioné programas y proyectos de transición para ventas de departamentos de servicios de salud y aplicaciones de TI para Veritas y Dedalus.",
-        "Lideré proyectos bajo marcos de cascada, híbridos y ágiles; apoyé la transición a ágiles, presenté soluciones al área comercial y realicé análisis para mejorar el desempeño.",
-        "Apoyé a equipos comerciales y tecnológicos para mejorar la comunicación entre ambos.",
-        "Configuré e implementé soluciones de alta tecnología para el Centro de Operación de la Red Nacional y el Plan de Recuperación de Desastres, mejorando la red y el servicio al cliente.",
-        "Monté e implementé soluciones para el centro de innovación y tecnologías emergentes (5th world Foundry).",
-        "Integré red y servicios de AT&T con el gobierno de México para un proyecto regulatorio 911.",
-        "Analicé e integré el administrador de red existente con la nueva red de AT&T para generar oportunidades de mercado y mejorar la calidad de servicio.",
-        "Gestioné proveedores, operaciones y equipos comerciales para proyectos de alta visibilidad.",
-        "Identifiqué necesidades regulatorias y prioricé planes para el negocio.",
-        "Elaboré informes de alta calidad para oportunidades comerciales.",
-        "Apoyé las operaciones y la estabilidad del servicio asegurando la finalización de proyectos y programas a tiempo y dentro del presupuesto."
-      ]
+      {
+        "empresa": "Softtek",
+        "puesto": "Oficina de Gestión de Proyectos (PMO)",
+        "fecha_inicio": "1 agosto 2023",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Coordino actividades de personal especialista y profesional técnico para cumplimiento de procesos y garantizar la continuidad de los servicios.",
+          "Participo en la elaboración de propuestas.",
+          "Reviso y autorizo propuestas que después estaré a cargo de operar.",
+          "Elijo y asigno al líder de proyecto para la ejecución de los mismos.",
+          "Gestiono y autorizo la asignación y desasignación de recursos humanos, materiales y financieros para la gestión de proyectos.",
+          "Respaldo y autorizo la toma de decisiones de los líderes de proyecto a mi cargo.",
+          "Reporto datos financieros a la organización sobre el avance de los proyectos a mi cargo (costos, devengado, etc.).",
+          "Superviso las actividades de gestión de los líderes de proyecto, dirijo y corrijo cuando es necesario.",
+          "Establezco los lineamientos de operación, así como la estrategia global de mis proyectos.",
+          "Informo de manera consolidada y periódica, tanto a los mandos superiores como a los equipos de trabajo, los resultados obtenidos.",
+          "Comunico a los equipos de trabajo las noticias más relevantes dispuestas en la organización.",
+          "Mantengo activa la relación con el cliente y funjo como punto de contacto y de escalación en los proyectos a mi cargo.",
+          "Gestiono entre 1 y 3 proyectos con un esfuerzo total que oscila entre más de 5,000 y hasta 10,000 horas. Coordino equipos de entre 10 y 15 participantes y administro a un conjunto de líderes con menor seniority. Asimismo, reporto avances y resultados a PM (integrador), DM y cliente, a nivel de gerencia media.",
+          "He aplicado el curso Auditor Interno de Normas ISO 9001:2015 para evaluar el cumplimiento de sistemas de gestión de calidad y apoyar la mejora continua de procesos organizacionales",
+          "He utilizado la certificación ITIL® Foundation Certificate in IT Service Management para aplicar mejores prácticas en la gestión de servicios de TI, orientadas a la entrega de valor y la mejora continua",
+          "He puesto en práctica la certificación Project Management Professional (PMP®) para planificar, ejecutar y controlar proyectos, gestionando alcance, tiempos, costos, riesgos y recursos de forma integral",
+          "He aprovechado la certificación Professional Scrum Master I para aplicar los fundamentos del marco de trabajo Scrum y facilitar equipos ágiles conforme a la Scrum Guide",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "ISP: Defino el proyecto alineando objetivos, alcance, recursos y equipo.",
+          "PTO: Doy seguimiento al avance y gestiono desviaciones.",
+          "FPT: Aseguro un cierre ordenado con entregables y lecciones aprendidas.",
+          "CHM: Gestiono cambios evaluando impacto e implementación.",
+          "SCM: Controlo versiones y configuraciones, garantizando trazabilidad.",
+          "Planeación estratégica para la correcta transición tecnológica en proyecto de desincorporación de activos y creación de empresa.",
+          "Gestión de proyecto multipráctica comprendido por soluciones de infraestructura, ciberseguridad, ERP (SAP), Aplicativos non SAP, Gobierno de Tecnología de la Información (TI), Continuidad y Mesa de servicio.",
+          "Identificación de oportunidades de negocio para Softtek en proyecto basado como un esquema Greenfield derivado de una desincorporación tecnológica tras la venta de activos de la industria eléctrica.",
+          "Interacción directa con CIO de la recién creada empresa para entrega de resultados con una cadencia semanal y quincenal.",
+          "Gestión de documentación y activos de información para la correcta operación de la recién creada empresa.",
+          "Gestión de calidad en entregables y servicio por parte de las practicas hacia el cliente.",
+          "Empleo de las mejores prácticas del PMI y metodología de consultoría para la coordinación de estrategias y generación de valor continuo.",
+          "Diseño, desarrollo e implemento una oficina de proyectos desde su conceptualización hasta su entrega al cliente",
+          "Analizo y evalúo procesos existentes para identificar oportunidades de mejora y optimización",
+          "Defino OKRs, SLAs y EMV para iniciativas, así como la priorización y autorización de proyectos",
+          "Implemento un centro de conocimiento para la gestión y seguimiento de lecciones aprendidas, mejores prácticas, guías y procedimientos",
+          "Doy seguimiento a indicadores clave de proyecto como CPI, SPI y EI, obteniendo resultados satisfactorios conforme a las fases del marco metodológico PMI",
+          "Defino prototipos para la validación de procesos establecidos en la Oficina de Gestión de Proyectos (PMO)",
+          "Me desempeño como Senior Portfolio Manager para el área de finanzas y operaciones",
+          "Gestiono proyectos operativos para aduanas de DHL, mejorando procesos y la disponibilidad de aplicaciones que soportan información regulatoria con el SAT y ANAM",
+          "Analizo información, tomo decisiones y mejoro la comunicación sobre registros financieros de aduanas, identificando oportunidades de negocio y proyectos",
+          "Gestiono la cartera financiera identificando desviaciones y promoviendo la recuperación de procesos",
+          "Facilito como Scrum Master la adopción de metodologías ágiles y la transición desde esquemas tradicionales",
+          "Implemento el programa Salesforce (CRM) para la retención de clientes bajo el marco ágil escalable (SAFe), mejorando tiempos de respuesta y fidelización",
+          "Gestiono programas y proyectos relacionados con acuerdos de nivel de transición para ventas en servicios de salud y aplicaciones de TI para Veritas y Dedalus",
+          "Lidero proyectos bajo marcos de trabajo cascada, híbridos y ágiles",
+          "Apoyo la transición de metodologías tradicionales a ágiles mediante sesiones dirigidas a líderes y equipos",
+          "Apoyo en la definición de soluciones de cartera y programas, presentando propuestas a las áreas comerciales y de negocio",
+          "Realizo análisis de las soluciones propuestas y ejecuto ajustes necesarios para asegurar su correcto desempeño y desarrollo",
+          "Apoyo a los equipos comerciales y tecnológicos para asegurar una comunicación efectiva entre ambos"
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Project Manager",
+        "fecha_inicio": "2 marzo 2020",
+        "fecha_fin": "31 julio 2023",
+        "actividades_principales": [
+          "Diseño, desarrollo e implemento una oficina de proyectos desde su conceptualización hasta su entrega al cliente",
+          "Analizo y evalúo procesos existentes para identificar oportunidades de mejora y optimización",
+          "Defino OKRs, SLAs y EMV para iniciativas, así como la priorización y autorización de proyectos",
+          "Implemento un centro de conocimiento para la gestión y seguimiento de lecciones aprendidas, mejores prácticas, guías y procedimientos",
+          "Doy seguimiento a indicadores clave de proyecto como CPI, SPI y EI, obteniendo resultados satisfactorios conforme a las fases del marco metodológico PMI",
+          "Defino prototipos para la validación de procesos establecidos en la Oficina de Gestión de Proyectos (PMO)",
+          "Me desempeño como Senior Portfolio Manager para el área de finanzas y operaciones",
+          "Gestiono proyectos operativos para aduanas de DHL, mejorando procesos y la disponibilidad de aplicaciones que soportan información regulatoria con el SAT y ANAM",
+          "Analizo información, tomo decisiones y mejoro la comunicación sobre registros financieros de aduanas, identificando oportunidades de negocio y proyectos",
+          "Gestiono la cartera financiera identificando desviaciones y promoviendo la recuperación de procesos",
+          "Facilito como Scrum Master la adopción de metodologías ágiles y la transición desde esquemas tradicionales",
+          "Implemento el programa Salesforce (CRM) para la retención de clientes bajo el marco ágil escalable (SAFe), mejorando tiempos de respuesta y fidelización",
+          "Gestiono programas y proyectos relacionados con acuerdos de nivel de transición para ventas en servicios de salud y aplicaciones de TI para Veritas y Dedalus",
+          "Lidero proyectos bajo marcos de trabajo cascada, híbridos y ágiles",
+          "Apoyo la transición de metodologías tradicionales a ágiles mediante sesiones dirigidas a líderes y equipos",
+          "Apoyo en la definición de soluciones de cartera y programas, presentando propuestas a las áreas comerciales y de negocio",
+          "Realizo análisis de las soluciones propuestas y ejecuto ajustes necesarios para asegurar su correcto desempeño y desarrollo",
+          "Apoyo a los equipos comerciales y tecnológicos para asegurar una comunicación efectiva entre ambos"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 marzo de 2012 hasta 29 febrero de 2020",
+    "resumen_laboral": "Durante este período, me desempeñé como Project Manager y Gerente de proyectos, coordinando iniciativas de operación, infraestructura y servicios con equipos multidisciplinarios. Me responsabilicé de la relación con clientes, la gestión de proveedores, el seguimiento presupuestal, la atención de requerimientos del negocio y la supervisión del avance de proyectos y programas. También di seguimiento a procesos de servicio, escalaciones, comunicación entre áreas y cumplimiento de compromisos operativos, contribuyendo a mantener la estabilidad del servicio y una ejecución ordenada.",
+    "estudios": {
+      "carrera": "Licenciatura en ingeniería en Telecomunicaciones y electrónica",
+      "lugar": "Atizapán, Edo. De México, México",
+      "periodo": "2009-2012"
     },
-    {
-      "empresa": "Softtek",
-      "puesto": "Project Manager",
-      "fecha_inicio": "02 marzo 2020",
-      "fecha_fin": "31 julio 2023",
-      "actividades_principales": [
-        "Diseñé, desarrollé e implementé una oficina de proyectos desde su conceptualización hasta la entrega al cliente.",
-        "Analicé y evalué procesos existentes para identificar oportunidades y mejoras.",
-        "Definí OKRs, SLAs y EMV para iniciativas, y participé en la priorización y autorización de proyectos.",
-        "Implementé un centro de conocimiento para gestionar lecciones aprendidas, mejores prácticas, guías y procedimientos.",
-        "Realicé seguimiento a indicadores clave como CPI, SPI y EI, siguiendo el marco metodológico del PMI.",
-        "Definí prototipos para validar procesos creados en la PMO.",
-        "Actué como senior portafolio manager para el área de finanzas y operaciones.",
-        "Gestioné proyectos de operaciones para aduanas de DHL, mejorando procesos y la disponibilidad de aplicaciones que soportan información regulatoria con el SAT y ANAM.",
-        "Analicé registros financieros de aduanas, tomé decisiones y mejoré la comunicación, identificando oportunidades de negocio y proyectos.",
-        "Gestioné la cartera financiera identificando desvíos y recuperando procesos.",
-        "Actué como facilitador y scrum máster en la adopción de metodologías ágiles y en la transición desde esquemas tradicionales.",
-        "Implementé el programa Salesforce para retención de clientes (CRM) bajo la metodología SAFE, mejorando tiempos de respuesta y fidelización.",
-        "Gestioné programas y proyectos de transición para ventas de departamentos de servicios de salud y aplicaciones de TI para Veritas y Dedalus.",
-        "Lideré proyectos bajo marcos de cascada, híbridos y ágiles; apoyé la transición a ágiles, presenté soluciones al área comercial y realicé análisis para mejorar el desempeño.",
-        "Apoyé a equipos comerciales y tecnológicos para mejorar la comunicación entre ambos."
-      ]
-    },
-    {
-      "empresa": "Softtek",
-      "puesto": "Gerente de proyectos",
-      "fecha_inicio": "02 enero 2018",
-      "fecha_fin": "29 febrero 2020",
-      "actividades_principales": [
-        "Configuré e implementé soluciones de alta tecnología para el Centro de Operación de la Red Nacional y el Plan de Recuperación de Desastres, mejorando la red y el servicio al cliente.",
-        "Monté e implementé soluciones para el centro de innovación y tecnologías emergentes (5th world Foundry).",
-        "Integré red y servicios de AT&T con el gobierno de México para un proyecto regulatorio 911.",
-        "Analicé e integré el administrador de red existente con la nueva red de AT&T para generar oportunidades de mercado y mejorar la calidad de servicio.",
-        "Gestioné proveedores, operaciones y equipos comerciales para proyectos de alta visibilidad.",
-        "Identifiqué necesidades regulatorias y prioricé planes para el negocio.",
-        "Elaboré informes de alta calidad para oportunidades comerciales.",
-        "Apoyé las operaciones y la estabilidad del servicio asegurando la finalización de proyectos y programas a tiempo y dentro del presupuesto."
-      ]
-    }
-  ],
-  "periodo_resumen_laboral": "La experiencia abarca desde 01 marzo de 2012 hasta 31 diciembre de 2017",
-  "resumen_laboral": "Durante este período me desempeñé como Project Manager, asumiendo la gestión de proveedores, control y seguimiento de presupuestos contractuales, coordinación de equipos y liderazgo de proyectos de infraestructura. Supervisé el cumplimiento de niveles de servicio, manejé escalaciones con clientes y coordiné la construcción de equipos. También planifiqué logística de sitios y establecí canales de comunicación entre stakeholders y equipos técnicos para garantizar entregables y continuidad operativa.",
-  "estudios": {
-    "carrera": "Licenciatura en ingeniería en Telecomunicaciones y electronica",
-    "lugar": "Universidad Tecnológica de México (UNITEC), Atizapán, Estado de México, México",
-    "periodo": "2009-2012"
-  },
-  "certificaciones": [
-    {
-      "nombre": "Project-Management-Professional",
-      "anio": "2017 / 2029"
-    },
-    {
-      "nombre": "Certificado ITIL v4",
-      "anio": "2023 / 2026"
-    }
-  ],
-  "cursos": []
+    "herramientas": [
+      {
+        "nombre": "Microsoft Office"
+      },
+      {
+        "nombre": "Microsoft Project"
+      },
+      {
+        "nombre": "Visio"
+      },
+      {
+        "nombre": "Power BI"
+      },
+      {
+        "nombre": "PPM"
+      },
+      {
+        "nombre": "Planview"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "ITIL® Foundation Certificate in IT Service Management 2023-2026",
+        "anio": "2023-2026"
+      },
+      {
+        "nombre": "Project Management Professional (PMP®)",
+        "anio": "2017-2029"
+      },
+      {
+        "nombre": "Professional Scrum Master I (PSM I)",
+        "anio": "2021"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "Auditor Interno de Normas ISO 9001:2015"
+      }
+    ]
   }
 ]

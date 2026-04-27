@@ -1,0 +1,88 @@
+Javier Rivera Lozano
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+Participo en la implementación y puesta en marcha de sistemas, asegurando la continuidad de servicios y el cumplimiento de procesos establecidos, aplicando prácticas de integración continua y usando herramientas como Jenkins, Nexus y SonarQube. Trabajo con equipos bajo metodologías ágiles para garantizar entregas en ambientes productivos.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 2 años de experiencia en programación en tecnologías de la Arquitectura de Referencia y soluciones de código abierto.
+
+Me especializo en el desarrollo de aplicaciones web y componentes con Java (Lenguaje de programación para desarrollo de aplicaciones) SE/EE y frameworks como Spring, Hibernate y JSF, además de front-end con Angular (Framework frontend para aplicaciones SPA) y React; trabajo con bases de datos Oracle Database (Motor de base de datos empresarial), MySQL y SQL Server (Motor de base de datos para consultas y validaciones) y desarrollo servicios REST y SOAP que contribuyen a la continuidad operativa de los sistemas.
+
+Participo en la implementación y despliegue de sistemas, asegurando la continuidad de servicios y el cumplimiento de procesos, aplicando prácticas de integración continua y utilizando herramientas como Jenkins (Automatización de pipelines CI/CD), Nexus y SonarQube. Colaboro con equipos bajo metodologías ágiles para garantizar entregas en ambientes productivos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek Ciudad de Mexico | Puesto
+Ingeniero de Software | Desde:
+1 julio 2021 | Hasta: 
+A la fecha
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que sean funcionales, todo ello mediante lenguajes de programación. Habilidades en: conceptos de programación y trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He puesto en práctica el curso Java Message Service (JMS) Fundamentals para implementar mensajería asíncrona en aplicaciones Java empresariales utilizando JMS
+• He aplicado el curso Master SQL: De cero a experto en Bases de Datos para diseñar, consultar y gestionar bases de datos relacionales desde nivel básico hasta avanzado
+• He puesto en práctica el curso Aprende Unit Test en Java con JUnit 5 y Mockito para desarrollar pruebas unitarias y mocks en aplicaciones Java
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Me desempeñé como Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones)/Angular (Framework frontend para aplicaciones SPA) para el proyecto Hardening de Wal - Mart México, para este proyecto se realizo la parte front del proyecto en Angular (Framework frontend para aplicaciones SPA) 12, integrando servicios del api principal de hardening.
+• Realicé documentación y cambios productivos con el proceso propio de Wal - Mart México.
+• Actué como desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) para un proyecto usando Alfresco community edition e integrando sus procesos mediante Spring Boot, Security con oauth 2, la parte Front en Angular (Framework frontend para aplicaciones SPA) 9, la base de datos usando MySQL y SQL Server (Motor de base de datos para consultas y validaciones).
+• Para este tipo de proyectos fue necesario el uso de imágenes Docker (Contenerización de aplicaciones) y la configuración del servidor en docker compose.
+Empresa
+IIK Technologies Ciudad de Mexico | Puesto
+Desarrollador Java | Desde:
+2 marzo 2020 | Hasta: 
+30 junio 2020
+Actividades Principales | • Actué como desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) para un proyecto usando Alfresco community edition e integrando sus procesos mediante Spring Boot, Security con oauth 2, la parte Front en Angular (Framework frontend para aplicaciones SPA) 9, la base de datos usando MySQL y SQL Server (Motor de base de datos para consultas y validaciones).
+• Para este tipo de proyectos fue necesario el uso de imágenes Docker (Contenerización de aplicaciones) y la configuración del servidor en docker compose.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Java Message Service (JMS) Fundamentals
+- Master SQL: De cero a experto en Bases de Datos
+- Aprende Unit Test en Java con JUnit 5 y Mockito
+- Java SE/EE
+- Java Full-Stack
+- Spring (MVC, Boot, Security)
+- Hibernate
+- JSF / JSP
+- Struts
+- Angular (9 / 12)
+- React / Reactjs
+- JavaScript / JQuery / Ajax
+- HTML5
+- Oracle Database
+- MySQL
+- MariaDB
+- Microsoft SQL Server
+- Tomcat / WAS / Glassfish
+- Docker / Docker Compose
+- Microservicios
+- OAuth2
+- Jenkins / Nexus / SonarQube
+- Alfresco (BPM)
+- UML
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 septiembre de 2007 hasta 1 de marzo de 2020
+Durante este período asumí responsabilidades enfocadas en el desarrollo de software y mantenimiento de aplicaciones; me desempeñé principalmente como Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) y Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones), realizando codificación, integración de servicios y soporte técnico. Asumí tareas de desarrollo back-end y front-end, trabajé en la construcción de componentes y en la implementación de procesos de despliegue, siempre en colaboración con equipos de trabajo.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniero en Sistemas Computacionales - Jul, 2002 - Jul, 2007 | IPN - ESCOM | Cédula Profesional
+5624834
+02/09/2008
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Java Message Service (JMS) Fundamentals
+- Master SQL: De cero a experto en Bases de Datos
+- Aprende Unit Test en Java con JUnit 5 y Mockito
+______________________________________
+Javier Rivera Lozano
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

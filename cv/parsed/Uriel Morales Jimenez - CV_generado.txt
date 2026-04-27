@@ -1,0 +1,166 @@
+Uriel Morales Jiménez
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+Me desempeño de forma colaborativa en equipos multidisciplinarios, contribuyendo a estimaciones, análisis de requerimientos y resolución de incidentes, además participo en mejoras continuas y en la automatización de despliegues. Mantengo un enfoque en buenas prácticas de ingeniería, soporte post‑despliegue y cumplimiento de estándares para entregar soluciones confiables.
+EXPERIENCIA PROFESIONAL
+Tengo más de 2 años de experiencia en programación con tecnologías de arquitectura de referencia y/o de código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación y puesta en funcionamiento de sistemas mediante lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y plazos establecidos en el plan de trabajo.
+
+Soy Ingeniero en Sistemas con experiencia consolidada en desarrollo de aplicaciones y microservicios usando principalmente Java (Lenguaje de programación para desarrollo de aplicaciones) y plataformas asociadas. He participado en diseño, implementación y despliegue de soluciones a escala nacional, integrando bases de datos relacionales y no relacionales, asegurando continuidad de servicio mediante pruebas, control de versiones y documentación técnica.
+
+Trabajo de forma colaborativa en equipos multidisciplinarios, aporto en estimaciones, análisis de requerimientos y resolución de incidentes, así como en mejoras continuas y automatización de despliegues; mi enfoque combina buenas prácticas de ingeniería, soporte post‑despliegue y atención al cumplimiento de estándares para entregar soluciones confiables.
+EXPERIENCIA LABORAL
+Empresa
+SOFTTEK – Citi Banamex | Puesto
+Desarrollador | Desde:
+2 abril 2023 | Hasta: 
+A la fecha
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que sean funcionales, todo ello a través de lenguajes de programación. Habilidades en; Conceptos de programación, Trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso Learn Apache Camel Framework with Spring Boot para implementar integraciones y flujos de mensajería en aplicaciones desarrolladas con Spring Boot
+• He puesto en práctica el curso Máster Completo Java de cero a experto para desarrollar aplicaciones en Java desde nivel básico hasta avanzado
+• He puesto en práctica el curso Object Oriented Programming and Design Crash Course para aplicar principios de programación orientada a objetos y diseño de software
+• He aplicado el curso Pivotal Cloud Foundry for Java and Spring Developers para desplegar y administrar aplicaciones Java y Spring en entornos cloud
+• He aplicado el curso Crear una Página Web Moderna 2024 Desde Cero con HTML y CSS para diseñar y desarrollar sitios web modernos utilizando HTML y CSS
+• He aplicado el curso Estructuras de Datos en JavaScript para implementar y utilizar estructuras de datos fundamentales en aplicaciones JavaScript
+• He puesto en práctica el curso Master Microservices with Spring Boot and Spring Cloud para desarrollar arquitecturas de microservicios utilizando Spring Boot y Spring Cloud
+• He aplicado el curso OpenShift 4 desde cero para desplegar y administrar aplicaciones contenerizadas sobre Kubernetes empresarial
+• He aplicado el curso SQL Curso completo de SQL para crear, consultar y gestionar bases de datos relacionales mediante comandos SQL
+• He aplicado el curso The Complete Guide to HTML para estructurar y desarrollar páginas web utilizando HTML de forma semántica y correcta
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Respaldo y despliego soluciones usando Java (Lenguaje de programación para desarrollo de aplicaciones).
+• Desarrollo aplicaciones Java (Lenguaje de programación para desarrollo de aplicaciones).
+• Desarrollo Aplicaciones WEB con Java (Lenguaje de programación para desarrollo de aplicaciones).
+• Hago migraciones de consumo de servicios de APIConnect a APIGee.
+• Soluciono Incidentes Productivos.
+• Brindo soporte posterior a despliegue de aplicaciones
+• Hago merge de código en repositorio para versionamiento del código.
+• Elaboro documentación en Confluence (Documentación colaborativa y base de conocimiento).
+• Realizo análisis para desarrollo de aplicaciones
+• Realizo análisis de clases para desarrollo de diagramas.
+• Realizo análisis de código para identificación de reportes.
+• Documento Servicios en Swagger.
+• Aplico patrones de diseño CRUD para Microservicios.
+• Creo arquetipos para Microservicios.
+• Manejo de pruebas unitarias con JUnit utilizando Mocks.
+• Propongo soluciones para Microservicios.
+• Realizo estimaciones para desarrollo de componentes y Microservicios.
+• Conecto y opero con base de datos no relacionales (ElasticSearch, MongoDB (Base de datos NoSQL)).
+• Consumo de servicios REST.
+• Consumo de servicios SOAP.
+• Creo y opero con índices en ElasticSearch.
+• Creo colecciones y realizo operaciones en MongoDB (Base de datos NoSQL).
+• Creo, modifico y realizo operaciones en MySQL.
+• Despliego y configuro en CloudFoundry.
+• Despliego y configuro en Pivotal.
+• Despliego en Microsoft Azure (Plataforma cloud para desarrollo e infraestructura) (Visual Studio Code).
+• Uso de Jenkins (Automatización de pipelines CI/CD) para despliegues.
+• Uso JUnit Para realizar Pruebas Unitarias.
+• Uso SonarQube para análisis de código estático.
+• Creo proyectos. Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+• Desarrollo Microservicios de transacciones de pagos para OXXO y Despliegue a nivel Nacional.
+• Desarrollo Microservicios para Depuración de Clientes por medio de CRUD de reglas definidas y configurables.
+• Elaboro estimaciones autorizadas e implementadas para cambios y creación de componentes y Microservicios.
+• Desarrollo Soluciones para nuevos flujos de negocio y, optimizadas para agilizar transacciones en flujo de negocio interno de NMP.
+Empresa
+SOFTTEK – Nacional Monte de Piedad | Puesto
+Desarrollador de Sistemas | Desde:
+30 marzo de 2020 | Hasta: 
+A la fecha
+Actividades Principales | • Aplico patrones de diseño CRUD para Microservicios.
+• Creo arquetipos para Microservicios.
+• Manejo de pruebas unitarias con JUnit utilizando Mocks.
+• Propongo soluciones para Microservicios.
+• Realizo estimaciones para desarrollo de componentes y Microservicios.
+• Conecto y opero con base de datos no relacionales (ElasticSearch, MongoDB (Base de datos NoSQL)).
+• Consumo de servicios REST.
+• Consumo de servicios SOAP.
+• Creo y opero con índices en ElasticSearch.
+• Creo colecciones y realizo operaciones en MongoDB (Base de datos NoSQL).
+• Creo, modifico y realizo operaciones en MySQL.
+• Despliego y configuro en CloudFoundry.
+• Despliego y configuro en Pivotal.
+• Despliego en Microsoft Azure (Plataforma cloud para desarrollo e infraestructura) (Visual Studio Code).
+• Uso de Jenkins (Automatización de pipelines CI/CD) para despliegues.
+• Uso JUnit Para realizar Pruebas Unitarias.
+• Uso SonarQube para análisis de código estático.
+• Creo proyectos. Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+• Desarrollo Microservicios de transacciones de pagos para OXXO y Despliegue a nivel Nacional.
+• Desarrollo Microservicios para Depuración de Clientes por medio de CRUD de reglas definidas y configurables.
+• Elaboro estimaciones autorizadas e implementadas para cambios y creación de componentes y Microservicios.
+• Desarrollo Soluciones para nuevos flujos de negocio y, optimizadas para agilizar transacciones en flujo de negocio interno de NMP.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Learn Apache Camel Framework with Spring Boot
+- Máster Completo Java de cero a experto Actualizado (+157 hrs)
+- Object Oriented Programming and Design Crash Course
+- Pivotal Cloud Foundry (PCF) for Java and Spring Developers
+- Crear una Página Web Moderna 2024 Desde Cero con HTML y CSS
+- Estructuras de Datos en JavaScript
+- Master Microservices with Spring Boot and Spring Cloud
+- OpenShift 4 desde cero
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- The Complete Guide to HTML
+- Java 8
+- Spring
+- Spring Boot
+- Maven
+- Bitbucket
+- Confluence
+- C#
+- Postman
+- REST API
+- Swagger
+- MongoDB
+- ElasticSearch
+- MySQL
+- Microsoft Azure
+- Cloud Foundry
+- Jenkins
+- JUnit
+- SonarQube
+- Docker
+- Apache Kafka
+- RabbitMQ
+- APIConnect
+- APIGee
+- Insomnia
+- Visual Studio Code
+- Eclipse
+- SQL Server
+- Wireshark
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 julio de 2017 hasta 01 abril de 2023
+Durante este período asumí responsabilidades orientadas al desarrollo y soporte de software, participando en roles como Desarrollador, Desarrollador de Sistemas y Becario. Realicé actividades de desarrollo y pruebas, homologación y evaluación de equipos, administración básica de bases de datos y soporte técnico, además de colaborar en procesos de control de cambios y seguimiento de bitácoras. Mi trabajo incluyó interacción con equipos de fábrica de software y proveedores, y contribuciones a la mejora de procesos de evaluación y aprovisionamiento.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en Sistemas Computacionales - 2013 – 2018 | Tecnológico de Estudios Superiores de Ecatepec, Ecatepec, Estado de México | Cédula Profesional
+14530618
+05/11/2024
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Learn Apache Camel Framework with Spring Boot
+- Máster Completo Java de cero a experto Actualizado (+157 hrs)
+- Object Oriented Programming and Design Crash Course
+- Pivotal Cloud Foundry (PCF) for Java and Spring Developers
+- Crear una Página Web Moderna 2024 Desde Cero con HTML y CSS
+- Estructuras de Datos en JavaScript
+- Master Microservices with Spring Boot and Spring Cloud
+- OpenShift 4 desde cero
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- The Complete Guide to HTML
+______________________________________
+Uriel Morales Jiménez
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

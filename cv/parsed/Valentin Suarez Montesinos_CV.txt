@@ -1,0 +1,222 @@
+Valentin Suarez Montesinos
+PERFIL:		Software Developer
+Tengo 30 años, y soy Ingeniero en Sistemas computacionales cuento con título y cedula, me he estado desarrollando en backend con java y estoy interesado en seguir desarrollándome principalmente en un área de desarrollo de software, estoy motivado por seguir perfeccionando mis conocimientos aprender nuevas tecnologías y contribuir activamente al éxito de los proyectos en los que participo.
+EXPERIENCIA PROFESIONAL:
+INSTITUCIÓN: 
+
+SOFTTEK | INSTITUCIÓN: 
+
+SOFTTEK | LUGAR: 
+
+CDMX | PUESTO DESEMPEÑADO: 
+
+Software Developer | Desde:
+
+23 de agosto 2023 | A:  
+
+Actual
+Análisis de requerimientos por el cliente
+Diseño e implementación de soluciones de sistemas
+Desarrollo de microservicios 
+Pruebas Unitarias
+Soporte a Bases de Datos
+Migraciones de versiones en Java | Análisis de requerimientos por el cliente
+Diseño e implementación de soluciones de sistemas
+Desarrollo de microservicios 
+Pruebas Unitarias
+Soporte a Bases de Datos
+Migraciones de versiones en Java | Análisis de requerimientos por el cliente
+Diseño e implementación de soluciones de sistemas
+Desarrollo de microservicios 
+Pruebas Unitarias
+Soporte a Bases de Datos
+Migraciones de versiones en Java | Análisis de requerimientos por el cliente
+Diseño e implementación de soluciones de sistemas
+Desarrollo de microservicios 
+Pruebas Unitarias
+Soporte a Bases de Datos
+Migraciones de versiones en Java | Análisis de requerimientos por el cliente
+Diseño e implementación de soluciones de sistemas
+Desarrollo de microservicios 
+Pruebas Unitarias
+Soporte a Bases de Datos
+Migraciones de versiones en Java | Análisis de requerimientos por el cliente
+Diseño e implementación de soluciones de sistemas
+Desarrollo de microservicios 
+Pruebas Unitarias
+Soporte a Bases de Datos
+Migraciones de versiones en Java
+Herramientas: 
+
+. | Java 8, 17, 21
+IntelliJ IDEA, SQL Server Management, visual studio
+Postman, JaCoCo, zoom
+Git, Jenkins, Jira
+Bitbucket, SonarQube, 
+Metodología agile | Java 8, 17, 21
+IntelliJ IDEA, SQL Server Management, visual studio
+Postman, JaCoCo, zoom
+Git, Jenkins, Jira
+Bitbucket, SonarQube, 
+Metodología agile | Java 8, 17, 21
+IntelliJ IDEA, SQL Server Management, visual studio
+Postman, JaCoCo, zoom
+Git, Jenkins, Jira
+Bitbucket, SonarQube, 
+Metodología agile | Java 8, 17, 21
+IntelliJ IDEA, SQL Server Management, visual studio
+Postman, JaCoCo, zoom
+Git, Jenkins, Jira
+Bitbucket, SonarQube, 
+Metodología agile | Java 8, 17, 21
+IntelliJ IDEA, SQL Server Management, visual studio
+Postman, JaCoCo, zoom
+Git, Jenkins, Jira
+Bitbucket, SonarQube, 
+Metodología agile
+INSTITUCIÓN: 
+
+MIT Digital | INSTITUCIÓN: 
+
+MIT Digital | LUGAR: 
+
+CDMX | PUESTO DESEMPEÑADO: 
+
+Desarrollador java | Desde:
+FECHA
+
+Marzo 2022 | A:  
+FECHA
+
+Mayo 2023
+Levantamiento de requerimientos
+Diseño UX/UI
+Migración y mantenimiento de sistemas
+Aplicación de pruebas funcionales
+Modelado y creación de Bases de Datos
+Documentación de sistemas
+Soporte a hardware, instalación de sistemas y software | Levantamiento de requerimientos
+Diseño UX/UI
+Migración y mantenimiento de sistemas
+Aplicación de pruebas funcionales
+Modelado y creación de Bases de Datos
+Documentación de sistemas
+Soporte a hardware, instalación de sistemas y software | Levantamiento de requerimientos
+Diseño UX/UI
+Migración y mantenimiento de sistemas
+Aplicación de pruebas funcionales
+Modelado y creación de Bases de Datos
+Documentación de sistemas
+Soporte a hardware, instalación de sistemas y software | Levantamiento de requerimientos
+Diseño UX/UI
+Migración y mantenimiento de sistemas
+Aplicación de pruebas funcionales
+Modelado y creación de Bases de Datos
+Documentación de sistemas
+Soporte a hardware, instalación de sistemas y software | Levantamiento de requerimientos
+Diseño UX/UI
+Migración y mantenimiento de sistemas
+Aplicación de pruebas funcionales
+Modelado y creación de Bases de Datos
+Documentación de sistemas
+Soporte a hardware, instalación de sistemas y software | Levantamiento de requerimientos
+Diseño UX/UI
+Migración y mantenimiento de sistemas
+Aplicación de pruebas funcionales
+Modelado y creación de Bases de Datos
+Documentación de sistemas
+Soporte a hardware, instalación de sistemas y software
+Herramientas: | Equipo de cómputo 
+Herramienta para mantenimiento de equipo de cómputo y redes
+Programas para soporte remoto como: anydesk 
+Metodologías agiles
+Postman, HTML, CSS3, Spring Boot, Microservicios | Equipo de cómputo 
+Herramienta para mantenimiento de equipo de cómputo y redes
+Programas para soporte remoto como: anydesk 
+Metodologías agiles
+Postman, HTML, CSS3, Spring Boot, Microservicios | Equipo de cómputo 
+Herramienta para mantenimiento de equipo de cómputo y redes
+Programas para soporte remoto como: anydesk 
+Metodologías agiles
+Postman, HTML, CSS3, Spring Boot, Microservicios | Equipo de cómputo 
+Herramienta para mantenimiento de equipo de cómputo y redes
+Programas para soporte remoto como: anydesk 
+Metodologías agiles
+Postman, HTML, CSS3, Spring Boot, Microservicios | Equipo de cómputo 
+Herramienta para mantenimiento de equipo de cómputo y redes
+Programas para soporte remoto como: anydesk 
+Metodologías agiles
+Postman, HTML, CSS3, Spring Boot, Microservicios
+INSTITUCIÓN:
+
+UNIVERSIDAD UCAD | INSTITUCIÓN:
+
+UNIVERSIDAD UCAD | LUGAR:
+
+CDMX | PUESTO DESEMPEÑADO:
+
+Desarrollador Java | Desde: 
+FECHA
+
+ Marzo 2021 | A: 
+FECHA
+Febrero 2022
+Apoyo a mantenimiento de sistema escolar
+Apoyo a soporte de equipo de computo 
+Mantenimiento preventivo y correctivo | Apoyo a mantenimiento de sistema escolar
+Apoyo a soporte de equipo de computo 
+Mantenimiento preventivo y correctivo | Apoyo a mantenimiento de sistema escolar
+Apoyo a soporte de equipo de computo 
+Mantenimiento preventivo y correctivo | Apoyo a mantenimiento de sistema escolar
+Apoyo a soporte de equipo de computo 
+Mantenimiento preventivo y correctivo | Apoyo a mantenimiento de sistema escolar
+Apoyo a soporte de equipo de computo 
+Mantenimiento preventivo y correctivo | Apoyo a mantenimiento de sistema escolar
+Apoyo a soporte de equipo de computo 
+Mantenimiento preventivo y correctivo
+Herramientas: | Mantenimiento físico a equipos, uso de herramientas como alcohol isopropílico, desarmadores, etc.
+Pendrive para instalación de sistemas operativos y software
+Java, HTML | Mantenimiento físico a equipos, uso de herramientas como alcohol isopropílico, desarmadores, etc.
+Pendrive para instalación de sistemas operativos y software
+Java, HTML | Mantenimiento físico a equipos, uso de herramientas como alcohol isopropílico, desarmadores, etc.
+Pendrive para instalación de sistemas operativos y software
+Java, HTML | Mantenimiento físico a equipos, uso de herramientas como alcohol isopropílico, desarmadores, etc.
+Pendrive para instalación de sistemas operativos y software
+Java, HTML | Mantenimiento físico a equipos, uso de herramientas como alcohol isopropílico, desarmadores, etc.
+Pendrive para instalación de sistemas operativos y software
+Java, HTML
+EDUCACIÓN:
+NOMBRE DE LA INSTITUCIÓN EDUCATIVA
+
+TECNOLOGICO DE ESTUDIOS SUPERIORES DE CHIMALHUACAN | LUGAR DE ESTUDIO
+
+ESTADO DE MEXICO | FECHA
+
+AGOSTO 2017 A 
+AGOSTO 2023
+INGENIERIA EN SISTEMAS COMPUTACIONALES (TITULO Y CEDULA NUM. 14691641)
+DESARROLLO PROFESIONAL:
+NOMBRE DEL PUESTO 
+AUXILIAR DE DOCENTE. | EMPRESA | FECHA
+01-03-2020
+15-08-2020
+Auxiliar en clases y actividades escolares | TESCHI | ABRIL 2020
+IDIOMAS:
+Español: NATIVO
+Inglés:  INERMEDIO
+.
+HABILIDADES TÉCNICAS/ADMINISTRATIVAS:
+Perfil Primario:
+Software Developer
+Perfil Secundario: 
+Soporte técnico
+Sistemas Operativos: 
+WINDOWS, MACOS, LINUX NIVEL BÁSICO
+Lenguajes de Programación: 
+JAVA,  HTML, PYTHON, XML
+Bases de Datos:
+MySQL, SQL
+Otros:
+Curso introducción a la operación
+Curso Security Awareness
+Curso Application Security Training 2025

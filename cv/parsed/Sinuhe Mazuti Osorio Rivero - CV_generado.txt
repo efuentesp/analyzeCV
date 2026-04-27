@@ -1,0 +1,98 @@
+Sinuhe Mazuti Osorio Rivero
+Ingeniero de Datos BI Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 2 años de experiencia en el análisis de grandes volúmenes de datos y en el desarrollo de soluciones de Inteligencia de Negocio. Responsable de la construcción de soluciones de datos, asegurando la implementación y uso de arquitecturas de datos para la recolección, almacenamiento y procesamiento de grandes volúmenes de información, participando en la toma de decisiones tecnológicas mediante el uso y/o adaptación de herramientas, frameworks y estándares, así como brindar apoyo al equipo técnico en la optimización y gestión eficiente de los datos para soluciones de Inteligencia de Negocio.
+
+Como profesional, diseño e implemento procesos Extraer, Transformar y Cargar (ETL) usando herramientas como Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos) y Databricks (Plataforma de analítica basada en Apache Spark), gestiono pipelines y garantizo la integridad y disponibilidad de conjuntos de datos de gran escala. He liderado desarrollos on‑premise que procesan más de 290 millones de registros, y me enfoco en ofrecer soluciones escalables y en cumplimiento con requerimientos de negocio.
+
+Aplico buenas prácticas en control de versiones, monitoreo y automatización de jobs, colaboro con equipos de analítica y desarrollo backend para asegurar datos accesibles y fiables, y trabajo en la optimización continua de cargas y consultas para mejorar el rendimiento de las plataformas de datos. Además, realizo programación en Python, Spark SQL (Lenguaje para gestión y consulta de bases de datos relacionales) y C# (Lenguaje de programación para desarrollo backend) cuando es necesario.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Consultor Extraer, Transformar y Cargar (ETL) Ab Initio Jr | Desde:
+1 noviembre 2023 | Hasta: 
+Actual
+Actividades Principales | • Diseño, construyo, optimizo y mantengo infraestructuras y soluciones tecnológicas que recolectan, almacenan, procesan y permiten acceder a grandes volúmenes de datos de manera eficiente, segura y escalable. Cuento con habilidades en el diseño e implementación de procesos Extraer, Transformar y Cargar (ETL)/ELT para el procesamiento de grandes volúmenes de información, así como en la definición, construcción y mantenimiento de estructuras de almacenamiento que aseguran la eficiencia de las soluciones de Inteligencia de Negocio. Además, optimizo la carga, el procesamiento y la consulta de grandes volúmenes de datos.
+• Apoyo en el diseño y construcción de procesos de integración de datos (Extraer, Transformar y Cargar (ETL)/ELT).
+• Desarrollo y mantengo pipelines de datos para la ingesta, transformación y carga de información.
+• Colaboro en la definición y mantenimiento de estructuras de almacenamiento (Data Warehouse, Data Lake).
+• Aseguro la calidad, integridad y consistencia de los datos procesados.
+• Optimizo consultas y procesos de carga para mejorar el rendimiento de las soluciones.
+• Apoyo en la documentación de flujos, procesos y modelos de datos.
+• Monitoreo la ejecución de procesos de datos y atiendo incidencias básicas.
+• Colaboro con equipos de BI y analítica para la correcta disponibilidad de la información.
+• Aplico buenas prácticas en el manejo, seguridad y gobierno de datos.
+• Resuelvo problemas relacionados con la integración, procesamiento y calidad de datos, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en soluciones de Ingeniería de Datos para Inteligencia de Negocio.
+• He usado la certificación Azure Data FactorAzure Data Factory For Data Engineers como para Plataforma cloud para desarrollo e infraestructura.
+• He usado la certificación Azure Databricks and Spark For Data Engineers como para Plataforma de analítica basada en Apache Spark.
+• He utilizado la certificación AWS Certified Cloud Practitioner como base para comprender y aplicar los conceptos fundamentales de la computación en la nube de AWS, incluyendo sus servicios principales, principios de seguridad y arquitectura básica.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Soy responsable de proponer e implementar soluciones innovadoras para los requisitos de negocio a través de grafos ETL complejos. Manejo con eficiencia el procesamiento y manipulación de grandes volúmenes de datos, superando los 290 millones de registros, garantizando una entrega puntual y de alta calidad en los desarrollos.
+• Configuración y ambientación inicial del entorno de desarrollo para asegurar un flujo óptimo de trabajo.
+• Levantamiento detallado de requerimientos para procesos ETL, alineando objetivos técnicos y de negocio.
+• Análisis profundo y diseño técnico de procesos ETL, enfocándome en la eficiencia y escalabilidad.
+• Creación, análisis y modificación de grafos ETL para la manipulación avanzada de datos.
+• Desarrollo y ajuste de Data Manipulation Language (DML) para optimizar las transformaciones de datos.
+• Gestión de proyectos mediante Check In y Check Out, asegurando la integridad del código y el control de versiones.
+• Desarrollo y revisión de planos, archivos pset, y scripts (.ksh y .bash) para la automatización de procesos.
+• Monitoreo activo y ejecución manual de jobs en Control Center para garantizar el correcto funcionamiento de los procesos ETL.
+• Atención eficaz a Data Concerns (DC), así como gestión de Change Requests e incidentes técnicos.
+• Promoción y migración de TAGs entre ambientes de Pruebas de Aceptación de Usuario (UAT) y Producción, asegurando la transición sin errores.
+• Durante mi experiencia en COFECE, diseñé y desarrollé el sistema “Actas de Entrega — Recepción”, desde la propuesta inicial hasta la implementación definitiva, utilizando tecnologías modernas y metodologías robustas.
+• Diseñé el modelo Entidad-Relación para bases de datos, facilitando su integración con los sistemas existentes.
+• Desarrollé y optimicé consultas para la creación y mantenimiento de bases de datos robustas y seguras.
+• Configuré e inicié el entorno de desarrollo bajo ASP.NET Core (Framework para APIs y aplicaciones web) para proyectos backend escalables.
+• Programación del sistema utilizando C# (Lenguaje de programación para desarrollo backend) con el patrón de diseño MVC para garantizar modularidad y mantenibilidad.
+• Migraciones efectivas de bases de datos MySQL desde entornos laaS hacia soluciones SaaS en Azure Database for MySQL (Servicio administrado de base de datos en Azure), mejorando la disponibilidad y seguridad.
+• Migración de bases MySQL a SQL Server (Motor de base de datos para consultas y validaciones) para el sistema “Lista Diaria de Notificaciones”, incluyendo ajustes en código PHP (Lenguaje de desarrollo web) para compatibilidad.
+• Usé manejadores de base de datos Workbench y SSMS.
+Empresa
+Comisión Federal de Competencia Económica (COFECE) | Puesto
+Analista de Datos y Desarrollador Web Backend Jr | Desde:
+1 abril 2022 | Hasta: 
+31 octubre 2023
+Actividades Principales | • Durante mi experiencia en COFECE, diseñé y desarrollé el sistema “Actas de Entrega — Recepción”, desde la propuesta inicial hasta la implementación definitiva, utilizando tecnologías modernas y metodologías robustas.
+• Diseñé el modelo Entidad-Relación para bases de datos, facilitando su integración con los sistemas existentes.
+• Desarrollé y optimicé consultas para la creación y mantenimiento de bases de datos robustas y seguras.
+• Configuré e inicié el entorno de desarrollo bajo ASP.NET Core (Framework para APIs y aplicaciones web) para proyectos backend escalables.
+• Programación del sistema utilizando C# (Lenguaje de programación para desarrollo backend) con el patrón de diseño MVC para garantizar modularidad y mantenibilidad.
+• Migraciones efectivas de bases de datos MySQL desde entornos laaS hacia soluciones SaaS en Azure Database for MySQL (Servicio administrado de base de datos en Azure), mejorando la disponibilidad y seguridad.
+• Migración de bases MySQL a SQL Server (Motor de base de datos para consultas y validaciones) para el sistema “Lista Diaria de Notificaciones”, incluyendo ajustes en código PHP (Lenguaje de desarrollo web) para compatibilidad.
+• Usé manejadores de base de datos Workbench y SSMS.
+HERRAMIENTAS CONOCIDAS
+- Ab Initio
+- Control Center
+- Data Manipulation Language (DML)
+- .ksh
+- .bash
+- Databricks
+- Python
+- Spark SQL
+- MySQL
+- SQL Server
+- Asp.Net Core
+- C#
+- MVC
+- PHP
+- Azure Database for MySQL
+FORMACIÓN ACADÉMICA:
+Ingeniería en Computación - agosto 2015 - diciembre 2021 | Facultad de Ingeniería, UNAM | Cédula Profesional
+13643273
+16/08/2023
+CERTIFICACIONES
+- AWS Certified Cloud Practitioner | 2026-2029
+CURSOS
+- Azure Data FactorAzure Data Factory For Data Engineers
+- Azure Databricks and Spark For Data Engineers
+- Fundamentos de Python 1 [Cisco Networking Academy]
+- Fundamentos de Python 2 [Cisco Networking Academy]
+- Introducción a la Ciencia de Datos [Cisco Networking Academy]
+______________________________________
+Sinuhe Mazuti Osorio Rivero
+Ingeniero de Datos BI Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

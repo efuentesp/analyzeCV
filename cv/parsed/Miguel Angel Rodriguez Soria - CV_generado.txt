@@ -1,0 +1,135 @@
+Miguel Angel Rodriguez Soria
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+He participado en el desarrollo y ajuste de aplicaciones web para los sectores financiero, público y privado, atendiendo requerimientos, migraciones tecnológicas, compatibilidad entre navegadores y consumo de API. También colaboro en tareas de integración, generación de información para seguimiento operativo y construcción de componentes front-end, manteniendo comunicación con el equipo y apoyo constante al cumplimiento de los procesos del proyecto.
+EXPERIENCIA PROFESIONAL
+Tengo más de 2 años de experiencia en programación con tecnologías de Arquitectura de Referencia y de código abierto. Desarrollo y construyo componentes de software con base en especificaciones técnicas definidas, participo en la implementación de sistemas y en su puesta en funcionamiento mediante lenguajes de programación y fundamentos de desarrollo, colaborando de forma activa en equipo y siguiendo estándares, lineamientos y tiempos establecidos dentro del plan de trabajo.
+
+He participado en el desarrollo y ajuste de aplicaciones web para sectores financiero, público y privado, atendiendo requerimientos, migraciones tecnológicas, compatibilidad entre navegadores y consumo de API. También he colaborado en tareas de integración, generación de información para seguimiento operativo y construcción de componentes front-end, manteniendo comunicación con el equipo y apoyo constante al cumplimiento de los procesos del proyecto.
+EXPERIENCIA LABORAL
+Empresa
+Softtek CDMX, México | Puesto
+Desarrollo de Software | Desde:
+2 enero 2021 | Hasta: 
+31 enero 2026
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y hago una puesta a punto para que sean funcionales, todo ello a través de lenguajes de programación. Tengo habilidades en conceptos de programación y trabajo en equipo.
+• Desarrollo y programo componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y arranque de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico adecuadamente los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Verifico que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, el esfuerzo y la calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, impulsando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso Apache Kafka for Absolute Beginners para comprender y utilizar los fundamentos de Apache Kafka en sistemas de mensajería y streaming de datos
+• He puesto en práctica el curso Apache Kafka Series – Confluent Schema Registry  REST Proxy para gestionar esquemas y exponer servicios Kafka mediante REST Proxy
+• He aplicado el curso Docker for the Absolute Beginner para contenerizar aplicaciones y aplicar fundamentos DevOps utilizando Docker
+• He aplicado el curso Estructuras de Datos en JavaScript para implementar estructuras de datos fundamentales en aplicaciones desarrolladas con JavaScript
+• He puesto en práctica el curso Apache Kafka Series – Kafka Connect Hands‑on Learning para integrar sistemas mediante conectores de Kafka Connect
+• He aplicado el curso Apache Kafka Series – Kafka Security para configurar mecanismos de seguridad como SSL, SASL, Kerberos y ACL en Kafka
+• He puesto en práctica el curso Apache Kafka Series – Kafka Streams for Data Processing para procesar flujos de datos en tiempo real utilizando Kafka Streams
+• He aplicado el curso Apache Kafka Series – KSQL on ksqlDB para procesar y consultar flujos de datos en tiempo real mediante SQL
+• He puesto en práctica el curso Learn Apache Camel Framework with Spring Boot para implementar integraciones y flujos de mensajería en aplicaciones Spring Boot
+• He aplicado el curso Comienza con MongoDB para modelar y gestionar bases de datos NoSQL utilizando MongoDB
+• He puesto en práctica el curso OpenShift 4 desde cero para desplegar y administrar aplicaciones contenerizadas sobre Kubernetes empresarial
+• He aplicado el curso Crear una Página Web Moderna 2025 Desde Cero con HTML y CSS para diseñar y desarrollar sitios web modernos con HTML y CSS
+• He puesto en práctica el curso PostgreSQL de Cero a Avanzado para administrar bases de datos PostgreSQL utilizando pgAdmin4 y herramientas de línea de comandos
+• He aplicado el curso Privileged Access Management with CyberArk para gestionar accesos privilegiados y fortalecer la seguridad en entornos empresariales
+• He aplicado el curso The Complete Guide to HTML para estructurar y desarrollar páginas web utilizando HTML de forma semántica y correcta
+• He puesto en práctica el curso Java Message Service Fundamentals para implementar mensajería asíncrona en aplicaciones Java empresariales
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Participé en la atención de requerimiento en cuenta CITI, principalmente Front-End en donde se aplicaron ajustes de maquetación y estilos en un documento de una solicitud, así mismo realicé una migración para un aplicativo, en donde presentaba problemas de compatibilidad entre navegadores IE y Microsoft EDGE.
+• Participé en el desarrollo de una API que permite el filtrado de logs y llenado de Archivos Excel (Herramienta de análisis de datos), los cuales nos permitieron obtener resultados estadísticos para elaboración de presentaciones ante comité, adicionalmente trabajé en la creación de audios .wav para la integración en los IVR's, así como en monitoreo de servicios en los Equipos IVRS.
+• Participé en el desarrollo de una migración de tecnología, en donde se migró de Framework ABAD (propio del banco BBVA), a la tecnología de Framework CELLS (propio del banco), se vio involucrado el llamado de la API y el llenado de pantallas del lado Front. Así mismo participé en el cambio de un look and feel en donde desarrollé algunos componentes web del lado Front, con el manejo de JSP's y CSS.
+Empresa
+Softtek CDMX, México | Puesto
+Desarrollo de Software | Desde:
+1 enero 2019 | Hasta: 
+31 diciembre 2020
+Actividades Principales | • Participé en el desarrollo de una API que permite el filtrado de logs y llenado de Archivos Excel (Herramienta de análisis de datos), los cuales nos permitieron obtener resultados estadísticos para elaboración de presentaciones ante comité, adicionalmente trabajé en la creación de audios .wav para la integración en los IVR's, así como en monitoreo de servicios en los Equipos IVRS.
+Empresa
+Softtek CDMX, México | Puesto
+Desarrollo de Software | Desde:
+1 noviembre 2018 | Hasta: 
+31 diciembre 2019
+Actividades Principales | • Participé en el desarrollo de una migración de tecnología, en donde se migró de Framework ABAD (propio del banco BBVA), a la tecnología de Framework CELLS (propio del banco), se vio involucrado el llamado de la API y el llenado de pantallas del lado Front. Así mismo participé en el cambio de un look and feel en donde desarrollé algunos componentes web del lado Front, con el manejo de JSP's y CSS.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Apache Kafka for Absolute Beginners
+- Apache Kafka Series - Confluent Schema Registry  REST Proxy
+- Docker for the Absolute Beginner - Hands On - DevOps
+- Estructuras de Datos en JavaScript
+- Apache Kafka Series - Kafka Connect Hands-on Learning
+- Apache Kafka Series - Kafka Security | SSL SASL Kerberos ACL
+- Apache Kafka Series - Kafka Streams for Data Processing
+- Apache Kafka Series - KSQL on ksqlDB for Stream Processing
+- Learn Apache Camel Framework with Spring Boot
+- Comienza con MongoDB: Curso de MongoDB desde cero
+- OpenShift 4 desde cero
+- Crear una Pagina Web Moderna 2025 Desde Cero con HTML y CSS
+- PostgreSQL de Cero a Avanzado (pgAdmin4 y Shell)
+- Privileged Access Management (PAM) with CyberArk
+- The Complete Guide to HTML
+- Java Message Service (JMS) Fundamentals
+- HTML
+- CSS/CSS3
+- Angular JS
+- Javascript
+- Git
+- Vocalizer Expressive Studio
+- PUTTY
+- Oracle SQL Developer
+- Ajax
+- JQuery
+- Dimensions
+- Remedy
+- Java
+- Hibernate
+- Bootstrap
+- JSTL
+- Spring MVC
+- EJB
+- PrimeFaces
+- Spring Framework
+- SoapUI
+- APEX (Oracle Application Express)
+- Java EE / J2EE
+- XML
+- AXWAY INTEGRATOR
+- Oracle Database
+- Microsoft SQL Server
+- Adobe Experience Manager (AEM)
+- PHP
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 02 febrero de 2009 hasta 31 octubre de 2018
+Durante este período me desempeñé en funciones como Desarrollo de Software, Desarrollador WEB, BI y Desarrollador de Software, participando en la construcción, prueba y optimización de soluciones para atender necesidades operativas y de negocio. Colaboré en el análisis de requerimientos, la integración de información, el soporte a procesos y la mejora de aplicaciones orientadas a trámites, consultas y servicios. También contribuí en la documentación, las pruebas y la coordinación con otras áreas para mantener continuidad en la atención y cumplimiento de los objetivos establecidos.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciado en Informática Administrativa - Titulado - agosto 2007 a julio 2012 | Universidad Justo Sierra CDMX, México | Cédula Profesional
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Apache Kafka for Absolute Beginners
+- Apache Kafka Series - Confluent Schema Registry  REST Proxy
+- Docker for the Absolute Beginner - Hands On - DevOps
+- Estructuras de Datos en JavaScript
+- Apache Kafka Series - Kafka Connect Hands-on Learning
+- Apache Kafka Series - Kafka Security | SSL SASL Kerberos ACL
+- Apache Kafka Series - Kafka Streams for Data Processing
+- Apache Kafka Series - KSQL on ksqlDB for Stream Processing
+- Learn Apache Camel Framework with Spring Boot
+- Comienza con MongoDB: Curso de MongoDB desde cero
+- OpenShift 4 desde cero
+- Crear una Pagina Web Moderna 2025 Desde Cero con HTML y CSS
+- PostgreSQL de Cero a Avanzado (pgAdmin4 y Shell)
+- Privileged Access Management (PAM) with CyberArk
+- The Complete Guide to HTML
+- Java Message Service (JMS) Fundamentals
+______________________________________
+Miguel Angel Rodriguez Soria
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

@@ -1,118 +1,362 @@
 [
   {
-    "nombre": "Jesus Alejandro Flores Roldan",
+    "nombre": "Jésus Alejandro Flores Roldan",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "6902866",
+    "fecha_cedula": "09/03/2011",
     "rol_propuesto": "Ingeniero de Datos Senior BI",
-    "resumen_profesional": "Amplia experiencia en diseño e implementación de procesos ETL y en la construcción de Data Lakes y Data Marts.\nImplementación de pipelines y estrategias para poblar capas RAW, BRONZE, SILVER y GOLD con énfasis en reutilización de código.\nDefinición de estándares, buenas prácticas y uso de control de versiones para garantizar calidad y gobernanza de datos.\nOptimización de cargas y rendimiento de procesos ETL mediante tuning y automatización.\n\nTrabajo con herramientas como Python, PySpark, Databricks, SSIS, SAS Data Integration e IBM DataStage.\nParticipación en modelado de datos con Erwin, construcción de diccionarios y establecimiento de linaje.\nLiderazgo técnico en equipos ágiles para coordinar migraciones, validaciones y proyectos de alto volumen.\nAplicación de IA generativa para pruebas y generación de datos sintéticos para acelerar desarrollo.",
+    "resumen_profesional": "Cuento con más de 5 años en el análisis de grandes volúmenes de datos y en el desarrollo de soluciones de Inteligencia de Negocio. Soy responsable del diseño, construcción, optimización y mantenimiento de infraestructuras y soluciones de datos, asegurando la implementación y uso de arquitecturas que permitan la recolección, almacenamiento, procesamiento y acceso eficiente, seguro y escalable a grandes volúmenes de información, participando en la definición de procesos Extraer, Transformar y Cargar (Extraer, Transformar y Cargar (ETL)/ELT), estructuras de almacenamiento y estrategias de optimización, así como en la toma de decisiones tecnológicas mediante el uso y/o adaptación de herramientas, frameworks y estándares para garantizar soluciones robustas de Inteligencia de Negocio.\n\nHe liderado equipos técnicos y proyectos de implementación de pipelines Extraer, Transformar y Cargar (ETL)/ELT, construcción de datamarts y modelos de datos para asegurar la disponibilidad y calidad de la información requerida por áreas de análisis. En mis roles he definido estándares y buenas prácticas, automatizado cargas y procesos, y optimizado rendimiento de consultas y procesos Extraer, Transformar y Cargar (ETL) para garantizar continuidad operativa y cumplimiento de SLA, colaborando con equipos de BI, arquitectura y negocio para entregar soluciones alineadas a los requerimientos.",
+    "funciones": "Diseño, construyo, optimizo y mantengo infraestructuras y soluciones tecnológicas que recolectan, almacenan, procesan y permiten el acceso a grandes volúmenes de datos de forma eficiente, segura y escalable. Cuento con habilidades en el diseño e implementación de procesos ETL/ELT para el procesamiento de grandes volúmenes de información, así como en la definición, construcción y mantenimiento de estructuras de almacenamiento que garantizan la eficiencia de las soluciones de Inteligencia de Negocio. Asimismo, optimizo la carga, el procesamiento y la consulta de grandes volúmenes de datos.\n\nHe establecido estándares y buenas prácticas, he automatizado cargas y procesos y he optimizado el rendimiento de consultas y procesos ETL para garantizar la continuidad operativa y el cumplimiento de SLA, colaborando estrechamente con equipos de BI, arquitectura y negocio para la entrega de soluciones alineadas a los requerimientos.",
     "experiencia_laboral": [
       {
         "empresa": "Banco Bradesco SA",
         "puesto": "Sr.Data Engineer",
-        "fecha_inicio": "enero 2026",
-        "fecha_fin": "presente",
+        "fecha_inicio": "01 enero 2026",
+        "fecha_fin": "A la fecha",
         "actividades_principales": [
-          "Desarrollar el proyecto Sofipo Ictineo DataLake para poblar las capas RAW, BRONZE, SILVER y GOLD.",
-          "Definir la estrategia de construcción de los procesos ETL y estándares de ejecución para pipelines y notebooks.",
-          "Crear procesos reutilizables en Python y PySpark para cargas similares en DataBricks."
+          "Diseño, construyo, optimizo y mantengo infraestructuras y soluciones tecnológicas que recolectan, almacenan, procesan y permiten el acceso a grandes volúmenes de datos de manera eficiente, segura y escalable. Cuento con habilidades en el diseño e implementación de procesos Extraer, Transformar y Cargar (ETL) para el procesamiento de grandes volúmenes de información, así como en la definición, construcción y mantenimiento de estructuras de almacenamiento que aseguran la eficiencia de las soluciones de Inteligencia de Negocio. Además, optimizo la carga, el procesamiento y la consulta de grandes volúmenes de datos.",
+          "Diseño y lidero la implementación de procesos de integración de datos (Extraer, Transformar y Cargar (ETL)/ELT) para el manejo de grandes volúmenes de información.",
+          "Construyo, optimizo y mantengo pipelines de datos robustos y escalables para la ingesta, transformación y carga de datos.",
+          "Defino, implemento y evoluciono arquitecturas de datos (Data Warehouse, Data Lake) alineadas a necesidades de negocio.",
+          "Aseguro la calidad, integridad, disponibilidad y gobierno de los datos en todas las etapas del procesamiento.",
+          "Optimizo el rendimiento de consultas, procesos de carga y el almacenamiento de datos a gran escala.",
+          "Defino estándares, buenas prácticas y lineamientos técnicos para el manejo y procesamiento de datos.",
+          "Monitoreo, diagnostico y resuelvo incidencias complejas en procesos y flujos de datos.",
+          "Colaboro con equipos de BI, analítica y arquitectura para garantizar soluciones de datos integrales.",
+          "Evalúo e implemento herramientas, frameworks y tecnologías para mejorar las soluciones de datos.",
+          "Documento arquitecturas, procesos y flujos de datos asegurando su entendimiento y mantenibilidad.",
+          "Aplico conocimientos profundos y experiencia en Ingeniería de Datos para resolver problemas complejos relacionados con el procesamiento y gestión de grandes volúmenes de información, utilizando soluciones existentes de manera eficiente. Identifico, notifico y prevengo riesgos potenciales que puedan afectar la calidad, disponibilidad y desempeño de los datos, aplicando en todo momento las mejores prácticas. Trabajo de manera autónoma con un nivel mínimo de supervisión y aseguro la entrega de soluciones de datos en los tiempos comprometidos.",
+          "He aplicado el curso Databricks y Apache Spark para Big Data: de cero a experto para procesar y analizar grandes volúmenes de datos utilizando Apache Spark y Databricks",
+          "He aplicado el curso Microsoft SQL from A to Z para crear, consultar y gestionar bases de datos utilizando Microsoft SQL Server",
+          "He aplicado el curso Power BI – Análisis de Datos y Business Intelligence para desarrollar reportes y dashboards orientados al análisis de datos empresariales",
+          "He puesto en práctica el curso 70‑461 Session 6 para escribir y optimizar consultas avanzadas en Microsoft SQL Server utilizando SQL",
+          "He aplicado el curso 70‑461 Session 5 para escribir consultas SQL y manipular datos en Microsoft SQL Server",
+          "He obtenido la certificación Cloud Data Integration for PowerCenter Developers – Foundation para implementar soluciones de integración de datos utilizando Informatica PowerCenter",
+          "He obtenido la certificación IICS Cloud Data Integration Services R41 para desarrollar integraciones de datos en la nube utilizando Informatica Intelligent Cloud Services",
+          "He obtenido la certificación ITIL® Foundation para aplicar buenas prácticas en la gestión de servicios de TI",
+          "He obtenido la certificación Intelligent Multidomain MDM SaaS & Intelligent 360 SaaS Applications para implementar soluciones de gestión de datos maestros en la nube",
+          "He usado la certificación AWS Certified Cloud Practitioner para aplicar los fundamentos de computación en la nube de AWS, incluyendo servicios principales, seguridad, arquitectura y modelos de costos",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Desarrollo del proyecto Sofipo Ictineo DataLake con trabajo en células ágiles de Scrum para poblar las capas RAW, BRONZE, SILVER y GOLD.",
+          "Definición de la estrategia de construcción de los procesos Extraer, Transformar y Cargar (ETL).",
+          "Definición de estándares y buenas prácticas para la correcta ejecución de los pipelines y notebooks.",
+          "Usé la lA Generativa para obtener datos sintéticos en un ambiente local y así acelerar el desarrollo en un 50% del tiempo ya que el cliente no contaba con ambientes propios lo cuál tardó más de 2 meses.",
+          "Creación de procesos re-usables en Python y PySpark para cargas de procesos similares en Databricks (Plataforma de analítica basada en Apache Spark).",
+          "Generación de la estrategia para el uso de la IA generando notebooks y con ellos realizar las pruebas unitarias del equipo Extraer, Transformar y Cargar (ETL) de forma automatizada.",
+          "Establecimiento de las directrices de desarrollo con el cliente y también del uso de repositorios de versionamiento como Git (Control de versiones distribuido) y GitHub.",
+          "Atendí la migración del proceso de Acervo Estadístico de la información de los concesionarios registrados en el extinto IFT y ahora alineado a la CRT.",
+          "Implementé nuevas funcionalidades en el proceso Extraer, Transformar y Cargar (ETL).",
+          "Realicé un tunning y performance de los procesos en marcha para garantizar una correcta funcinoalidad.",
+          "Analicé los procesos anteriores.",
+          "Desarrollé e implementé el modelo de gobierno de datos del Instituto Federal de Telecomunicaciones.",
+          "Identifiqué datos maestros y construí el diccionario de datos.",
+          "Generé el modelo en Erwin con sus relaciones específicas entre catálogos maestros y datos maestros.",
+          "Desarrollé el Meta modelo del Instituto Federal de Telecomunicaciones.",
+          "Identifiqué y analicé las fuentes de datos para establecer el linaje y sus diagramas.",
+          "Estuve a cargo del diseño y estandarización del modelo de base de datos del Datamart de Cobranza y Riesgo (Tablas de Hechos, Sumarizadas, Dimensiones, Catálogos).",
+          "Diseñé los procesos Extraer, Transformar y Cargar (ETL) para el modelo de Datamart de Cobranza y Riesgo.",
+          "Definí y detallé las reglas técnicas del cliente para el cumplimiento de las cargas hacia las tablas del Datamart.",
+          "Coordiné la implementación de las mejores prácticas para el desarrollo de los procesos Extraer, Transformar y Cargar (ETL).",
+          "Analicé los procesos Extraer, Transformar y Cargar (ETL) en SAS Enterprise Guide para migrar los procesos a Microsoft SQL Server Integration Services (SSIS) (Herramienta ETL de Microsoft para integración de datos).",
+          "Estuve a cargo de coordinar las actividades para los proyectos de validación de operadores y el proceso de cifras estadísticas de operadores.",
+          "Identifiqué las áreas de oportunidad del proceso de ingesta de PowerShell de archivos \".csv\" hacia tablas de Microsoft SQL Server (Motor de base de datos para consultas y validaciones).",
+          "Diseñé los procesos Extraer, Transformar y Cargar (ETL) para los proyectos de validación de operadores y el proceso de cifras estadísticas de operadores.",
+          "Estuve a cargo de la construcción del modelo de los reportes de control de asistencia.",
+          "Desarrollé reportes de control de asistencia de la planta de NISSAN - COMPAS de Aguascalientes utilizando conectividad SFTP, Extraer, Transformar y Cargar (ETL) SSIS (Herramienta ETL de Microsoft para integración de datos) y un motor de Base de Datos Microsoft SQL Server (Motor de base de datos para consultas y validaciones) 2002.",
+          "Participé en el assesment de seguros para la migración de la infraestructura core de México.",
+           "Diseñé y desarrollé componentes para procesos Extraer, Transformar y Cargar (ETL) de alto impacto utilizando la herramienta SAS Data Integration 4.905 Tunning y Automatización de procesos nuevos y existentes de la Oficina de Datos.",
+          "Propuse la Documentación de Lineamientos, Estándares y Mejores Prácticas para las necesidades de desarrollo de la Oficina de Datos.",
+          "Brindé soporte y mantenimiento a los aplicativos dentro de la Oficina de Datos.",
+          "Propuse un documento de Pruebas para alinear las entregas de las pruebas de los equipos de trabajo DAS y C360. Implementé procesos con alto performance y eficientes que respondan a las del negocio.",
+          "Realicé seguimiento a todos los incidentes que se presenten de cualquiera de los aplicativos de la Oficina de Datos.",
+          "Obtuve la certificación de los Cursos de “Introduction to Data Analytics” y “Power BI” de la herramienta Simplilearn.",
+          "Generé un vínculo de confianza con el cliente el cuál sirvió para poder trabajar de una forma fluida.",
+          "Se aprobó por parte del cliente la propuesta de los documentos de lineamientos, estándares y buenas prácticas para el desarrollo de procesos Extraer, Transformar y Cargar (ETL) con la herramienta SAS-DI 4.905.",
+          "Se aprobó por parte del cliente la propuesta del documento de pruebas “TestResult”.",
+          "Se aprobó la propuesta para optimizar las librerías que apuntaban a Microsoft SQL Server (Motor de base de datos para consultas y validaciones)."
         ]
       },
       {
         "empresa": "Comisión Reguladora de Telecomunicaciones",
         "puesto": "Senior Technical Lead",
-        "fecha_inicio": "diciembre 2025",
-        "fecha_fin": "presente",
+        "fecha_inicio": "01 diciembre 2025",
+        "fecha_fin": "A la fecha",
         "actividades_principales": [
-          "Atender la migración del proceso de Acervo Estadístico de la información de los concesionarios.",
-          "Realizar tuning y optimización de performance de procesos ETL en producción."
+          "Atendí la migración del proceso de Acervo Estadístico de la información de los concesionarios registrados en el extinto IFT y ahora alineado a la CRT.",
+          "Implementé nuevas funcionalidades en el proceso Extraer, Transformar y Cargar (ETL).",
+          "Realicé un tunning y performance de los procesos en marcha para garantizar una correcta funcinoalidad.",
+          "Analicé los procesos anteriores."
         ]
       },
       {
         "empresa": "Instituto Federal de Telecomunicaciones",
         "puesto": "Sr. Data Engineer",
-        "fecha_inicio": "septiembre 2024",
-        "fecha_fin": "enero 2025",
+        "fecha_inicio": "01 septiembre 2024",
+        "fecha_fin": "31 enero 2025",
         "actividades_principales": [
-          "Desarrollar e implementar el modelo de gobierno de datos e identificar datos maestros.",
-          "Construir el diccionario de datos y modelado en Erwin para catálogos y datos maestros."
+          "Desarrollé e implementé el modelo de gobierno de datos del Instituto Federal de Telecomunicaciones.",
+          "Identifiqué datos maestros y construí el diccionario de datos.",
+          "Generé el modelo en Erwin con sus relaciones específicas entre catálogos maestros y datos maestros.",
+          "Desarrollé el Meta modelo del Instituto Federal de Telecomunicaciones.",
+          "Identifiqué y analicé las fuentes de datos para establecer el linaje y sus diagramas."
         ]
       },
       {
         "empresa": "Banco Bradesco SA",
         "puesto": "Líder TÉCNICO / Modelador BD",
-        "fecha_inicio": "diciembre 2023",
-        "fecha_fin": "julio 2024",
+        "fecha_inicio": "01 diciembre 2023",
+        "fecha_fin": "31 julio 2024",
         "actividades_principales": [
-          "Diseñar y estandarizar el modelo de base de datos del Datamart de Cobranza y Riesgo.",
-          "Definir reglas técnicas y diseñar procesos ETL para cargas hacia el Datamart."
+          "Estuve a cargo del diseño y estandarización del modelo de base de datos del Datamart de Cobranza y Riesgo (Tablas de Hechos, Sumarizadas, Dimensiones, Catálogos).",
+          "Diseñé los procesos Extraer, Transformar y Cargar (ETL) para el modelo de Datamart de Cobranza y Riesgo.",
+          "Definí y detallé las reglas técnicas del cliente para el cumplimiento de las cargas hacia las tablas del Datamart.",
+          "Coordiné la implementación de las mejores prácticas para el desarrollo de los procesos Extraer, Transformar y Cargar (ETL).",
+          "Analicé los procesos Extraer, Transformar y Cargar (ETL) en SAS Enterprise Guide para migrar los procesos a Microsoft SQL Server Integration Services (SSIS) (Herramienta ETL de Microsoft para integración de datos)."
         ]
       },
       {
         "empresa": "Instituto Federal de Telecomunicaciones",
         "puesto": "Líder TÉCNICO",
-        "fecha_inicio": "diciembre 2023",
-        "fecha_fin": "mayo 2024",
+        "fecha_inicio": "18 diciembre 2023",
+        "fecha_fin": "31 mayo 2024",
         "actividades_principales": [
-          "Coordinar actividades para proyectos de validación de operadores y diseñar procesos ETL asociados."
+          "Estuve a cargo de coordinar las actividades para los proyectos de validación de operadores y el proceso de cifras estadísticas de operadores.",
+          "Identifiqué las áreas de oportunidad del proceso de ingesta de PowerShell de archivos \".csv\" hacia tablas de Microsoft SQL Server (Motor de base de datos para consultas y validaciones).",
+          "Diseñé los procesos Extraer, Transformar y Cargar (ETL) para los proyectos de validación de operadores y el proceso de cifras estadísticas de operadores."
         ]
       },
       {
         "empresa": "Nissan",
         "puesto": "Sr. Data Engineer",
-        "fecha_inicio": "octubre 2023",
-        "fecha_fin": "diciembre 2023",
+        "fecha_inicio": "01 octubre 2023",
+        "fecha_fin": "15 diciembre 2023",
         "actividades_principales": [
-          "Construir el modelo y los reportes de control de asistencia utilizando conectividad SFTP, SSIS y SQL Server."
+          "Estuve a cargo de la construcción del modelo de los reportes de control de asistencia.",
+          "Desarrollé reportes de control de asistencia de la planta de NISSAN - COMPAS de Aguascalientes utilizando conectividad SFTP, Extraer, Transformar y Cargar (ETL) SSIS (Herramienta ETL de Microsoft para integración de datos) y un motor de Base de Datos Microsoft SQL Server (Motor de base de datos para consultas y validaciones) 2002."
         ]
       },
       {
         "empresa": "BBVA Bancomer",
         "puesto": "Sr. Data Engineer",
-        "fecha_inicio": "junio 2023",
-        "fecha_fin": "julio 2023",
+        "fecha_inicio": "01 junio 2023",
+        "fecha_fin": "31 julio 2023",
         "actividades_principales": [
-          "Participar en el assessment para la migración de la infraestructura core del área de seguros."
+          "Participé en el assesment de seguros para la migración de la infraestructura core de México."
         ]
       },
       {
-        "empresa": "Softtek - Scotiabank",
-        "puesto": "Lider TÉCNICO",
-        "fecha_inicio": "marzo 2018",
-        "fecha_fin": "mayo 2023",
+        "empresa": "Softtek",
+        "puesto": "Lider TÉCNICO en Softtek - Scotiabank",
+        "fecha_inicio": "01 marzo 2018",
+        "fecha_fin": "31 mayo 2023",
         "actividades_principales": [
-          "Diseñar y desarrollar componentes ETL de alto impacto con SAS Data Integration y automatizar procesos.",
-          "Proponer documentación de lineamientos, estándares y mejores prácticas para la oficina de datos."
+          "Diseñé y desarrollé componentes para procesos Extraer, Transformar y Cargar (ETL) de alto impacto utilizando la herramienta SAS Data Integration 4.905 Tunning y Automatización de procesos nuevos y existentes de la Oficina de Datos.",
+          "Propuse la Documentación de Lineamientos, Estándares y Mejores Prácticas para las necesidades de desarrollo de la Oficina de Datos.",
+          "Brindé soporte y mantenimiento a los aplicativos dentro de la Oficina de Datos.",
+          "Propuse un documento de Pruebas para alinear las entregas de las pruebas de los equipos de trabajo DAS y C360. Implementé procesos con alto performance y eficientes que respondan a las del negocio.",
+          "Realicé seguimiento a todos los incidentes que se presenten de cualquiera de los aplicativos de la Oficina de Datos.",
+          "Obtuve la certificación de los Cursos de “Introduction to Data Analytics” y “Power BI” de la herramienta Simplilearn.",
+          "Generé un vínculo de confianza con el cliente el cuál sirvió para poder trabajar de una forma fluida.",
+          "Se aprobó por parte del cliente la propuesta de los documentos de lineamientos, estándares y buenas prácticas para el desarrollo de procesos Extraer, Transformar y Cargar (ETL) con la herramienta SAS-DI 4.905.",
+          "Se aprobó por parte del cliente la propuesta del documento de pruebas “TestResult”.",
+          "Se aprobó la propuesta para optimizar las librerías que apuntaban a Microsoft SQL Server (Motor de base de datos para consultas y validaciones)."
         ]
       }
     ],
-    "ajuste_puesto_liderazgo": {
-      "empresa": "Intellego - Walmart",
-      "puesto": "Desarrollador",
-      "fecha_inicio": "septiembre 2014",
-      "fecha_fin": "febrero 2015",
-      "actividades_principales": [
-        "Desarrollar una prueba de concepto para un nuevo DWH desde los sistemas corporativos de Estados Unidos para conectar México y Centroamérica.",
-        "Instalar IBM DataStage 9.1 en servidores de Walmart México para la segunda fase del DWH.",
-        "Generar documentación con lineamientos, estándares y buenas prácticas de desarrollo.",
-        "Revisar procesos ETL para asegurar el cumplimiento de buenas prácticas y estándares.",
-        "Desarrollar el proyecto de Dimensiones de Retail."
-      ]
-    },
-    "periodo_resumen_laboral": "La experiencia abarca desde octubre de 2010 hasta febrero de 2018",
-    "resumen_laboral": "Durante este período se desempeñaron funciones como Desarrollador, Líder Técnico y Líder de Servicio, enfocadas en diseño y desarrollo de procesos ETL, migración de entornos y estandarización de prácticas. Se implementaron pruebas de concepto, estandarización de procesos y formación de equipos, además de soporte y mantenimiento de aplicaciones. Las responsabilidades incluyeron automatización de procesos, documentación de lineamientos y mejora de la calidad operativa para cumplir con los requisitos de los clientes.",
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 octubre de 2010 hasta 28 febrero de 2018",
+    "resumen_laboral": "Durante este período desempeñé funciones como Líder Técnico, Desarrollador y Líder de Servicio, asumiendo responsabilidades en diseño y desarrollo de procesos Extraer, Transformar y Cargar (ETL), migraciones y automatización. Realicé liderazgo de equipos, formación y mentoría de personal, y gestión de entregables técnicos alineados a estándares y controles. Me encargué de asegurar la calidad y continuidad operativa mediante estandarización de procesos, implementación de pruebas y mejoras de performance, contribuyendo a cumplir requerimientos regulatorios y de negocio.",
     "estudios": {
       "carrera": "Ingenieria en Sistemas Computacionales",
       "lugar": "UNITEC Universidad Tecnologica de Mexico",
-      "periodo": "septiembre 2005 - agosto 2009"
+      "periodo": "01 septiembre 2005 - 31 agosto 2009"
     },
+    "herramientas": [
+      {
+        "nombre": "Microsoft SQL Server"
+      },
+      {
+        "nombre": "Microsoft SQL Server Integration Services (SSIS)"
+      },
+      {
+        "nombre": "Informatica PowerCenter"
+      },
+      {
+        "nombre": "IBM InfoSphere DataStage"
+      },
+      {
+        "nombre": "SAS Data Integration"
+      },
+      {
+        "nombre": "Erwin"
+      },
+      {
+        "nombre": "QlikView"
+      },
+      {
+        "nombre": "SAP Business Objects"
+      },
+      {
+        "nombre": "Oracle Database"
+      },
+      {
+        "nombre": "PowerShell"
+      },
+      {
+        "nombre": "Databricks"
+      }
+    ],
     "certificaciones": [
       {
-        "nombre": "ITIL Foundation Certificate",
+        "nombre": "ITIL® Foundation Certificate in IT Service Management",
         "anio": "2016"
+      },
+      {
+        "nombre": "AWS Certified Cloud Practitioner",
+        "anio": "2026-2029"
       }
     ],
     "cursos": [
-      { "nombre": "Databricks-ApacheSpark_From_Zero_To_Exp" },
-      { "nombre": "CDI_IIC Foundation" },
-      { "nombre": "PowerBIAnalisisDatosBI" }
+      {
+        "nombre": "Databricks y Apache Spark para Big Data: de cero a experto"
+      },
+      {
+        "nombre": "Microsoft SQL from A to Z"
+      },
+      {
+        "nombre": "Curso Power BI – Análisis de Datos y Business Intelligence"
+      },
+      {
+        "nombre": "70‑461 Session 6: Querying Microsoft SQL Server (SQL code)"
+      },
+      {
+        "nombre": "70‑461 Session 5: Querying Microsoft SQL Server (Write SQL)"
+      },
+      {
+        "nombre": "Cloud Data Integration for PowerCenter Developers – Foundation Certification (Informatica)"
+      },
+      {
+        "nombre": "IICS: Cloud Data Integration Services R41 (Module) – Informatica"
+      },
+      {
+        "nombre": "Intelligent Multidomain MDM SaaS & Intelligent 360 SaaS Applications – Informatica"
+      }
     ]
+  },
+  {
+    "nombre": "Luis Constancio Gamiño Cereceres",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "",
+    "fecha_cedula": "",
+    "rol_propuesto": "Ingeniero de Datos Senior BI",
+    "resumen_profesional": "Cuento con más de 5 años en el análisis de grandes volúmenes de datos y en el desarrollo de soluciones de Inteligencia de Negocio. Soy responsable del diseño, construcción, optimización y mantenimiento de infraestructuras y soluciones de datos, asegurando la implementación y uso de arquitecturas que permiten la recolección, almacenamiento, procesamiento y acceso eficiente, seguro y escalable a grandes volúmenes de información, participando en la definición de procesos Extraer, Transformar y Cargar (ETL)/ELT, estructuras de almacenamiento y estrategias de optimización, así como en la toma de decisiones tecnológicas mediante el uso y/o adaptación de herramientas, frameworks y estándares para garantizar soluciones robustas de Inteligencia de Negocio.\nA lo largo de mi trayectoria he trabajado como consultor senior en Information Management y en proyectos de Business Intelligence, Data Integration y Data Quality, liderando pruebas de concepto, modelado de datos y migraciones de catálogos de metadatos, con foco en continuidad y calidad de la información. Trabajo con herramientas empresariales de integración y catálogos de metadatos para soportar procesos de negocio y gobernanza de datos.\nMi aporte se centra en garantizar soluciones estables y escalables que permitan el acceso consistente a los datos por equipos de BI y negocio; además lidero Aseguramiento de la Calidad (QA), optimización de procesos Extraer, Transformar y Cargar (ETL)/ELT y coordinación técnica con clientes para mantener entregas y operación continua.",
+    "funciones": "Diseño, construyo, optimizo y mantengo infraestructuras y soluciones tecnológicas que recolectan, almacenan, procesan y permiten el acceso a grandes volúmenes de datos de forma eficiente, segura y escalable. Cuento con habilidades en el diseño e implementación de procesos ETL/ELT para el procesamiento de grandes volúmenes de información, así como en la definición, construcción y mantenimiento de estructuras de almacenamiento que garantizan la eficiencia de las soluciones de Inteligencia de Negocio. Asimismo, optimizo la carga, el procesamiento y la consulta de grandes volúmenes de datos. Me enfoco en garantizar soluciones robustas y escalables que faciliten el acceso consistente a los datos por equipos de analítica y negocio; también lidero actividades de Aseguramiento de la Calidad (QA), optimización de cargas Extraer, Transformar y Cargar (ETL)/ELT y coordinación técnica con stakeholders para asegurar entregas y soporte operativo.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Brinker (Softtek - Brinker Guadalajara)",
+        "puesto": "Informatica EDC and CDGC Consultant",
+        "fecha_inicio": " 1 diciembre de 2021",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Diseño, construyo, optimizo y mantengo infraestructuras y soluciones tecnológicas que recolectan, almacenan, procesan y permiten el acceso a grandes volúmenes de datos de forma eficiente, segura y escalable. Cuento con experiencia en el diseño e implementación de procesos Extraer, Transformar y Cargar (ETL) para el procesamiento de grandes volúmenes de información, así como en la definición, construcción y mantenimiento de estructuras de almacenamiento que garantizan la eficiencia de las soluciones de Inteligencia de Negocio. También optimizo la carga, el procesamiento y la consulta de grandes volúmenes de datos.",
+          "Diseño y lidero la implementación de procesos de integración de datos (Extraer, Transformar y Cargar (ETL)/ELT) para grandes volúmenes de información.",
+          "Construyo, optimizo y mantengo pipelines de datos robustos y escalables para la ingesta, transformación y carga de datos.",
+          "Defino, implemento y evoluciono arquitecturas de datos (Data Warehouse, Data Lake) alineadas a necesidades de negocio.",
+          "Aseguro la calidad, integridad, disponibilidad y gobierno de los datos en todas las etapas del procesamiento.",
+          "Optimizo el rendimiento de consultas, procesos de carga y almacenamiento de datos a gran escala.",
+          "Defino estándares, buenas prácticas y lineamientos técnicos para el manejo y procesamiento de datos.",
+          "Monitoreo, diagnostico y resuelvo incidencias complejas en procesos y flujos de datos.",
+          "Colaboro con equipos de BI, analítica y arquitectura para garantizar soluciones de datos integrales.",
+          "Evalúo e implemento herramientas, frameworks y tecnologías para mejorar las soluciones de datos.",
+          "Documento arquitecturas, procesos y flujos de datos asegurando su entendimiento y mantenibilidad.",
+          "Aplico conocimientos profundos y experiencia en Ingeniería de Datos para resolver problemas complejos relacionados con el procesamiento y gestión de grandes volúmenes de información, utilizando soluciones existentes de manera eficiente. Identifico, notifico y prevengo riesgos potenciales que puedan afectar la calidad, disponibilidad y desempeño de los datos, aplicando en todo momento las mejores prácticas. Trabajo de manera autónoma con un nivel mínimo de supervisión y aseguro la entrega de soluciones de datos en los tiempos comprometidos.",
+          "He usado la certificación AWS Certified Cloud Practitioner para aplicar los fundamentos de computación en la nube de AWS, incluyendo servicios principales, seguridad, arquitectura y modelos de costos",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Analicé y subí información al Informatica Enterprise Catalog (EDC) de diversas áreas de negocio: Proveedores, Clientes, Activos Fijos, Proyectos, Menús, Contabilidad, Órdenes de Compra, Empleados, Tarjetas de Regalo, Cheques, etc.",
+          "Realicé la migración de metadatos de EDC a CDGC.",
+          "Fui responsable de master data consulting para Brinker; actividades en inglés.",
+          "Fui consultor de integración de datos en Banorte.",
+          "Realicé la migración de procesos de creación de reportes regulatorios de DataStage (Herramienta ETL empresarial) hacia Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos)."
+        ]
+      },
+      {
+        "empresa": "Softtek (Banorte)",
+        "puesto": "Consultor Data Integration",
+        "fecha_inicio": "1 abril de 2021",
+        "fecha_fin": "30 noviembre de 2021",
+        "actividades_principales": [
+          "Fui consultor de integración de datos en Banorte.",
+          "Realicé la migración de procesos de creación de reportes regulatorios de DataStage (Herramienta ETL empresarial) hacia Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos)."
+          ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 enero de 1994 hasta 01 marzo de 2020",
+    "resumen_laboral": "Durante este período asumí responsabilidades en roles como Consultor senior en Information Management, Consultor Data Integration, Consultor Data Quality, Business Objects Consultant, Líder técnico y Project Leader. Me encargué de diseñar e implementar soluciones de inteligencia de negocio, integración y Extraer, Transformar y Cargar (ETL) de datos, coordinar equipos técnicos, realizar levantamientos de información y asegurar la continuidad operativa. Mis tareas incluyeron modelado de datos, integración Extraer, Transformar y Cargar (ETL), Aseguramiento de la Calidad (QA) y soporte a proyectos para mantener la disponibilidad y consistencia de la información para usuarios de negocio.",
+    "estudios": {
+      "carrera": "Ingeniero en Electrónica y Comunicaciones",
+      "lugar": "Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)",
+      "periodo": "1989-1993"
+    },
+    "herramientas": [
+      {
+        "nombre": "Informatica Enterprise Catalog"
+      },
+      {
+        "nombre": "Informatica Cloud Data Governance and Catalog"
+      },
+      {
+        "nombre": "Informatica PowerCenter"
+      },
+      {
+        "nombre": "Informatica Data Quality"
+      },
+      {
+        "nombre": "Ab Initio"
+      },
+      {
+        "nombre": "DataStage"
+      },
+      {
+        "nombre": "Python"
+      },
+      {
+        "nombre": "Pandas"
+      },
+      {
+        "nombre": "SAP Business Objects"
+      },
+      {
+        "nombre": "SQL Server (Motor de base de datos para consultas y validaciones)"
+      },
+      {
+        "nombre": "Oracle (Oracle Database)"
+      },
+      {
+        "nombre": "Xcelsius"
+      },
+      {
+        "nombre": "Web Intelligence"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "AWS Certified Cloud Practitioner",
+        "anio": "2026-2029"
+      }
+    ],
+    "cursos": []
   }
 ]

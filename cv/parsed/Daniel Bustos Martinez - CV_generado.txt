@@ -1,0 +1,132 @@
+Daniel Bustos Martínez
+Lider Técnico de atención de incidentes
+FUNCIONES
+Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos, evaluando la situación, tomando decisiones críticas y asegurando una comunicación efectiva para la resolución de incidentes. Cuento con habilidades en toma de decisiones y liderazgo.
+He liderado técnica y operativamente equipos de desarrollo en la modernización y mantenimiento de aplicaciones empresariales, coordinando la atención de incidentes complejos, la revisión de código y la automatización de controles de calidad para sostener la continuidad del servicio. También tomo decisiones para estabilizar plataformas críticas, optimizar procesos operativos y reducir tiempos de respuesta en ambientes productivos.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 5 años de experiencia en desarrollo de software, liderazgo técnico y atención y resolución de problemas. Poseo dominio de tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source. Adicionalmente, tengo 3 años de experiencia trabajando bajo metodologías ágiles.
+
+He liderado técnica y operativamente equipos de desarrollo en la modernización y mantenimiento de aplicaciones empresariales, coordinando la atención de incidentes complejos, la revisión de código y la automatización de controles de calidad para sostener la continuidad del servicio. También he tomado decisiones para estabilizar plataformas críticas, optimizar procesos operativos y reducir tiempos de respuesta en ambientes productivos.
+
+Además, he fortalecido la operación de sistemas mediante desarrollo full stack, mejora de bases de datos y habilitación de herramientas que dan autonomía al equipo. Mi experiencia combina comunicación efectiva, acompañamiento técnico y enfoque en resultados para restablecer servicios, evitar recurrencias y mantener entregas confiables.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) / Líder técnico | Desde:
+30 junio 2022 | Hasta: 
+13 abril 2026
+Actividades Principales | • Dirijo y coordino equipos de trabajo para restaurar un servicio ante fallas que se presentan en la operación de los aplicativos. Evalúo la situación, tomo decisiones críticas y aseguro una comunicación efectiva para resolver el incidente. Tengo habilidades en toma de decisiones y liderazgo. Como líder técnico de atención de incidentes, planifico, controlo y doy seguimiento a la fase de resolución y estabilización, asegurando la correcta implementación de soluciones alineadas a la arquitectura de software, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación utilizando y/o adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de incidentes complejos para garantizar la continuidad operativa.
+• Comprendo la propuesta de negocio y las necesidades del cliente, aplicándolas en la atención y resolución de incidentes en entornos productivos, especialmente en servicios y plataformas críticas.
+• Defino planes de trabajo detallados para la atención de incidentes, priorizando actividades conforme a su severidad (P1-P4) y asegurando el cumplimiento de SLA/OLA.
+• Estimo y asigno tareas técnicas necesarias para la resolución de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.
+• Colaboro con el arquitecto en la definición de soluciones técnicas durante incidentes, asegurando alineación con la arquitectura y estándares establecidos.
+• Aseguro la aplicación de estándares de codificación y bases de datos durante la implementación de soluciones correctivas.
+• Asesoro y coordino a ingenieros de software en la atención de incidentes, especialmente en escenarios críticos o de alta complejidad.
+• Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atención de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeño.
+• Administro la configuración de los componentes involucrados en la solución de incidentes, asegurando control y trazabilidad de cambios.
+• Desarrollo y/o coordino implementaciones de solución (fixes, hotfixes) para restaurar servicios afectados.
+• Aseguro la aplicación de checklists en la validación de soluciones antes de su liberación a producción.
+• Coordino la integración de componentes técnicos dentro de la arquitectura para garantizar una recuperación estable del servicio.
+• Defino prioridades en cada iteración de atención de incidentes, enfocándome en minimizar el impacto al negocio.
+• Promuevo la aplicación de patrones de diseño en las soluciones implementadas para evitar recurrencias.
+• Participo en la definición de esquemas de integración entre aplicaciones durante la resolución de incidentes.
+• Coordino la atención de incidentes críticos (Major Incidents), liderando convocatorias, toma de decisiones técnicas y comunicación durante la contingencia.
+• Identifico la causa raíz de incidentes y lidero análisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.
+• Trabajo en entornos de operación continua, asegurando la estabilidad y continuidad del servicio después de la resolución de incidentes.
+• Actúo como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.
+• Genero resultados medibles en la mejora de la operación, reduciendo tiempos de atención, reincidencias e impacto al negocio.
+• Mantengo una trayectoria continua en roles de atención y gestión de incidentes, consolidando experiencia en entornos productivos.
+• He participado en proyectos de más de 20 mil horas, donde lidero la atención de incidentes y defino soluciones para requerimientos no funcionales, asegurando la estabilidad y el correcto desempeño de los sistemas en producción. Además, planifico y coordino equipos de más de 15 ingenieros de software durante la resolución de incidentes, garantizando una ejecución eficiente y oportuna de las actividades.
+• He aprovechado la certificación AWS Certified Cloud Practitioner para aplicar fundamentos de computación en la nube, servicios de AWS, seguridad y modelos de costos
+• He aplicado la certificación Six Sigma Yellow Belt para utilizar principios de mejora continua, análisis de procesos y reducción de variabilidad en entornos organizacionales
+• He utilizado la certificación Scrum Developer Professional Certificate para aplicar prácticas ágiles y técnicas Scrum orientadas al desarrollo de software
+• He puesto en práctica la certificación Scrum Product Owner Professional Certificate para gestionar el backlog del producto, priorizar requerimientos y maximizar el valor entregado al negocio
+• He aprovechado la certificación Scrum Fundamentals Certified para comprender y aplicar los principios básicos del marco de trabajo Scrum en entornos ágiles
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.
+• STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.
+• STE: Ejecuto escenarios de prueba.
+• INT: Diseño y preparo testware.
+• UAT: Apoyo en las actividades de pruebas del usuario.
+• Realizo análisis, refactorización y migración de código legacy para cumplimiento de nuevos estándares.
+• Desarrollo y mantengo aplicaciones empresariales utilizando Java (Lenguaje de programación para desarrollo de aplicaciones), PHP (Lenguaje de desarrollo web) y ColdFusion.
+• Gestiono técnicamente al equipo de desarrollo, brindo mentoría y ejecuto revisión de pares, asegurando la calidad de cada entrega mediante la automatización de análisis estático con SonarQube integrado en flujos de Jenkins (Automatización de pipelines CI/CD).
+• Lidero técnica y operativamente a un equipo de hasta 10 desarrolladores, gestionando la asignación de tareas, brindando soporte en la resolución de incidentes complejos y asegurando la entrega exitosa de los proyectos en tiempo y forma.
+• Diagnostico y soluciono un problema crítico de concurrencia en la descarga de reportes Excel (Herramienta de análisis de datos) del Portal Dalí (Indeval/BMV) que provocaba saturación de CPU y agotamiento de espacio en disco por logs excesivos. Mediante análisis con JProfiler, optimizo este proceso, estabilizando el clúster JBoss y reduciendo los tiempos de respuesta de minutos a segundos.
+• Desarrollo una herramienta de automatización en Java 8 (Lenguaje de programación para desarrollo de aplicaciones) que reduce de 20 minutos a 1 minuto la preparación del ambiente de desarrollo. Esta aplicación orquesta el reinicio de servidores JBoss, la limpieza de colas Sonic y la ejecución de scripts de base de datos requeridos para el inicio de la jornada. Otorga autonomía al equipo de Análisis y Pruebas para ejecutar este proceso sin depender de un desarrollador experto.
+• Implemento y configuro un entorno de desarrollo ColdFusion para optimizar el flujo de trabajo del equipo.
+• Desarrollo el sitio web del departamento de formación docente, así como de dos instrumentos de evaluación docente aplicando diseño web responsive (Bootstrap), HTML, CSS, JavaScript y jQuery (Librería para manipulación del DOM) para el frontend, y PHP (Lenguaje de desarrollo web) para el backend.
+• Sistematizo la generación de reportes individuales de evaluación docente, calculando los resultados a partir de las respuestas almacenadas en la base de datos PostgreSQL (Base de datos relacional avanzada).
+• Desarrollo nuevos scripts PHP (Lenguaje de desarrollo web) para la obtención de los resultados de evaluación docente, así como de corrección en posibles inconsistencias en la base de datos PostgreSQL (Base de datos relacional avanzada).
+• Desarrollo nuevos módulos de administrador para el sistema "Monitoreo de evaluación docente".
+• Rediseño y optimizo la base de datos PostgreSQL (Base de datos relacional avanzada) ya existente.
+• Imparto diversas capacitaciones semestrales en el uso del sistema de evaluación docente y realizo la transmisión en vivo (streaming) de diversos cursos en línea, un foro estatal y un congreso nacional.
+• Genero semestralmente más de 6,000 reportes individuales de evaluación docente, procesando casi 200,000 instrumentos aplicados. Esta tarea inicialmente requería un equipo de 4 personas trabajando en la generación en Excel (Herramienta de análisis de datos) de dichos reportes, por aproximadamente 2 meses. Con la sistematización de esta actividad, solo se requiere el trabajo de 1 persona por 1 a 2 semanas.
+• Aumento considerablemente la usabilidad del sitio web del Departamento de Formación Docente, mejorando su diseño y el de los instrumentos de evaluación docente mediante diseño web responsive y otras tecnologías.
+• Aumento significativamente la estabilidad de la base de datos, logrando reducir hasta en un 90% el número de conexiones paralelas a la base de datos, durante la aplicación del instrumento de evaluación docente.
+• Optimizo la consulta de datos del Sistema de Administración Documental y de Control Escolar, así como del Sistema de Personal, mediante el desarrollo de nuevos módulos en el sistema "Monitoreo de evaluación docente".
+• Incremento los niveles de participación en cursos de formación docente, mediante las transmisiones en vivo por YouTube a diferentes unidades académicas, ubicadas por todo el estado de Morelos.
+Empresa
+Universidad Autónoma del Estado de Morelos (UAEM) | Puesto
+Desarrollador Full Stack PHP (Lenguaje de desarrollo web) | Desde:
+2 noviembre 2015 | Hasta: 
+29 junio 2022
+Actividades Principales | • Desarrollo el sitio web del departamento de formación docente, así como de dos instrumentos de evaluación docente aplicando diseño web responsive (Bootstrap), HTML, CSS, JavaScript y jQuery (Librería para manipulación del DOM) para el frontend, y PHP (Lenguaje de desarrollo web) para el backend.
+• Sistematizo la generación de reportes individuales de evaluación docente, calculando los resultados a partir de las respuestas almacenadas en la base de datos PostgreSQL (Base de datos relacional avanzada).
+• Desarrollo nuevos scripts PHP (Lenguaje de desarrollo web) para la obtención de los resultados de evaluación docente, así como de corrección en posibles inconsistencias en la base de datos PostgreSQL (Base de datos relacional avanzada).
+• Desarrollo nuevos módulos de administrador para el sistema "Monitoreo de evaluación docente".
+• Rediseño y optimizo la base de datos PostgreSQL (Base de datos relacional avanzada) ya existente.
+• Imparto diversas capacitaciones semestrales en el uso del sistema de evaluación docente y realizo la transmisión en vivo (streaming) de diversos cursos en línea, un foro estatal y un congreso nacional.
+• Genero semestralmente más de 6,000 reportes individuales de evaluación docente, procesando casi 200,000 instrumentos aplicados. Esta tarea inicialmente requería un equipo de 4 personas trabajando en la generación en Excel (Herramienta de análisis de datos) de dichos reportes, por aproximadamente 2 meses. Con la sistematización de esta actividad, solo se requiere el trabajo de 1 persona por 1 a 2 semanas.
+• Aumento considerablemente la usabilidad del sitio web del Departamento de Formación Docente, mejorando su diseño y el de los instrumentos de evaluación docente mediante diseño web responsive y otras tecnologías.
+• Aumento significativamente la estabilidad de la base de datos, logrando reducir hasta en un 90% el número de conexiones paralelas a la base de datos, durante la aplicación del instrumento de evaluación docente.
+• Optimizo la consulta de datos del Sistema de Administración Documental y de Control Escolar, así como del Sistema de Personal, mediante el desarrollo de nuevos módulos en el sistema "Monitoreo de evaluación docente".
+• Incremento los niveles de participación en cursos de formación docente, mediante las transmisiones en vivo por YouTube a diferentes unidades académicas, ubicadas por todo el estado de Morelos.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- AWS Certified Cloud Practitioner
+- Six Sigma Yellow Belt
+- Scrum Developer Professional Certificate (SDPC™)
+- Scrum Product Owner Professional Certificate (SPOPC™)
+- Scrum Fundamentals Certified (SFC™)
+- Java 7
+- Java 8
+- Java 17
+- Spring
+- Hibernate
+- Maven
+- JBoss
+- JavaScript
+- JQuery
+- Oracle
+- SQL Server
+- PostgreSQL
+- PHP
+- ColdFusion
+- HTML
+- CSS
+- Linux
+- JProfiler
+- Jenkins
+- SonarQube
+- Bootstrap
+- Informix
+- Windows
+- Git
+- MySQL
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en Sistemas Computacionales - Agosto 2010 – Junio 2015 | Zacatepec, Morelos | Cédula Profesional
+10686037
+18/09/2017
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- AWS Certified Cloud Practitioner | 2026-2029
+- Six Sigma Yellow Belt | 2022
+- Scrum Developer Professional Certificate (SDPC™) | 2022
+- Scrum Product Owner Professional Certificate (SPOPC™) | 2022
+- Scrum Fundamentals Certified (SFC™) | 2021
+______________________________________
+Daniel Bustos Martínez
+Lider Técnico de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

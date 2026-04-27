@@ -1,0 +1,83 @@
+Miguel Angel Toribio Montoya
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+He participado en la implementación y puesta en marcha de funcionalidades y en la integración de componentes con APIs y bases de datos, manteniendo continuidad de servicio y cumpliendo con lineamientos y plazos establecidos, lo que me permite colaborar eficazmente dentro de equipos de desarrollo.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 2 años de experiencia en programación en tecnologías de la Arquitectura de Referencia y tecnologías de código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación de sistemas y su puesta en funcionamiento mediante el uso de lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y tiempos establecidos dentro del plan de trabajo.
+
+He trabajado mayormente en desarrollo frontend con Angular (Framework frontend para aplicaciones SPA) y consumo de APIs REST, así como en tareas backend básicas con Spring Boot y Node.js; he participado en la integración con bases de datos relacionales y en la entrega de funcionalidades que mantienen continuidad de servicio. Mi enfoque es cumplir con calidad y plazos, comunicándome con el equipo y adaptándome a procesos y estándares del proyecto.
+EXPERIENCIA LABORAL
+Empresa
+SOFTTEK | Puesto
+Desarrollador web | Desde:
+8 mayo 2023 | Hasta: 
+19 noviembre 2024
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que funcionen correctamente, todo ello mediante lenguajes de programación. Habilidades en; Conceptos de programación, Trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando los fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos definidos.
+• Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Verifico que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso Estructuras de Datos en JavaScript para implementar y utilizar estructuras de datos fundamentales en aplicaciones desarrolladas con JavaScript
+• He puesto en práctica el curso Object Oriented Programming and Design Crash Course para aplicar principios de programación orientada a objetos y diseño de software
+• He aplicado el curso Crear una Página Web Moderna 2025 Desde Cero con HTML y CSS para diseñar y desarrollar sitios web modernos utilizando HTML y CSS
+• He aplicado el curso SQL Curso completo de SQL para crear, consultar y gestionar bases de datos relacionales mediante comandos SQL
+• He aplicado el curso The Complete Guide to HTML para estructurar y desarrollar páginas web utilizando HTML de forma semántica y correcta
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Trabajo como desarrollador frontend creando componentes Angular (Framework frontend para aplicaciones SPA) y consumiendo servicios rest.
+• Desarrollé componentes angulares con Material, consumo de rest api, servicios usando wildfly, desarrollo de funcionalidades backend con spring boot.
+Empresa
+Solser Information Technology | Puesto
+Desarrollador web | Desde:
+4 abril 2022 | Hasta: 
+17 abril 2023
+Actividades Principales | • Desarrollé componentes angulares con Material, consumo de rest api, servicios usando wildfly, desarrollo de funcionalidades backend con spring boot.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Estructuras de Datos en JavaScript
+- Object Oriented Programming and Design Crash Course
+- Crear una Página Web Moderna 2025 Desde Cero con HTML y CSS
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- The Complete Guide to HTML
+- Angular (Framework frontend para aplicaciones SPA)
+- NodeJs
+- Git (Control de versiones distribuido)
+- Bitbucket (Repositorio de código y colaboración)
+- Spring boot
+- GitLab
+- PostgreSQL (Base de datos relacional avanzada)
+- Oracle Database (Motor de base de datos empresarial)
+- Javascript
+- Typescript
+- Java (Lenguaje de programación para desarrollo de aplicaciones)
+- HTML5
+- CSS3
+- Bootstrap
+- jQuery (Librería para manipulación del DOM)
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 09 octubre de 2017 hasta 15 marzo de 2022
+Durante este período asumí responsabilidades relacionadas con el desarrollo y mantenimiento de aplicaciones web en puestos como Desarrollador web y Desarrollador Jr. Me encargué de construir y consumir APIs, colaborar en la implementación de servicios backend y en la integración con bases de datos, así como de participar en el levantamiento de requisitos y la comunicación con clientes. Mis funciones incluyeron trabajo en equipo, cumplimiento de estándares y apoyo en la entrega de funcionalidades dentro de los plazos acordados.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en Tecnologías de la Información y las Comunicaciones - 2013-2016 | Universidad Tecnológica de Querétaro | Cédula Profesional
+10573127
+18/09/2017
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Estructuras de Datos en JavaScript
+- Object Oriented Programming and Design Crash Course
+- Crear una Página Web Moderna 2025 Desde Cero con HTML y CSS
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- The Complete Guide to HTML
+______________________________________
+Miguel Angel Toribio Montoya
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

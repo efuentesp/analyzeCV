@@ -1,0 +1,135 @@
+Hillel Romero
+PERFIL:
+10 años de experience como diseñador y administrado de SharePoint
+5 años de experiencia como desarrollador en Power Platform
+4 años de experiencia como desarrollador web
+2 años trabajado como diseñador de algoritmos a través de C y Python
+2 años de experiencia como administrado de proyectos
+EXPERIENCIA PROFESIONAL:
+Softtek | Aguascalientes, Ags | Desarrollador Web | De: 04/21 | A: Actual
+Funciones | Migración de sitios
+Administración de contenido: Texto, imagenes, diseño, etc.
+Creación de módulos | Migración de sitios
+Administración de contenido: Texto, imagenes, diseño, etc.
+Creación de módulos | Migración de sitios
+Administración de contenido: Texto, imagenes, diseño, etc.
+Creación de módulos | Migración de sitios
+Administración de contenido: Texto, imagenes, diseño, etc.
+Creación de módulos
+Herramientas/Tecnología | Craft CMS, WordPress, Drupal, Angular JS | Craft CMS, WordPress, Drupal, Angular JS | Craft CMS, WordPress, Drupal, Angular JS | Craft CMS, WordPress, Drupal, Angular JS
+Softtek | Aguascalientes, Ags | Desarrollador Power Platform | De: 07/19 | A: Actual
+Funciones | Desarrollador de aplicaciones
+Fuente de datos: SQL server, SP lists, dataverse, documentos
+Elementos como: Multipantallas, Formularios, Galerías, Funciones, etc. 
+Desarrollador de flujos
+Proceso de aprobación
+Automatización para otorgar accesos
+Notificaciones masivas
+Desarrollador de reportes en Power BI
+Fuente de datos: SP list and SLQ server | Desarrollador de aplicaciones
+Fuente de datos: SQL server, SP lists, dataverse, documentos
+Elementos como: Multipantallas, Formularios, Galerías, Funciones, etc. 
+Desarrollador de flujos
+Proceso de aprobación
+Automatización para otorgar accesos
+Notificaciones masivas
+Desarrollador de reportes en Power BI
+Fuente de datos: SP list and SLQ server | Desarrollador de aplicaciones
+Fuente de datos: SQL server, SP lists, dataverse, documentos
+Elementos como: Multipantallas, Formularios, Galerías, Funciones, etc. 
+Desarrollador de flujos
+Proceso de aprobación
+Automatización para otorgar accesos
+Notificaciones masivas
+Desarrollador de reportes en Power BI
+Fuente de datos: SP list and SLQ server | Desarrollador de aplicaciones
+Fuente de datos: SQL server, SP lists, dataverse, documentos
+Elementos como: Multipantallas, Formularios, Galerías, Funciones, etc. 
+Desarrollador de flujos
+Proceso de aprobación
+Automatización para otorgar accesos
+Notificaciones masivas
+Desarrollador de reportes en Power BI
+Fuente de datos: SP list and SLQ server
+Herramientas/Tecnología | Power Platform (Power  Apps, Power Automate, Power BI) | Power Platform (Power  Apps, Power Automate, Power BI) | Power Platform (Power  Apps, Power Automate, Power BI) | Power Platform (Power  Apps, Power Automate, Power BI)
+Softtek | Aguascalientes, Ags | Administrador de SharePoint | De: 11/16 | A: Actual
+Funciones | Desarrollo de mejoras como módulos, funcionalidad, etc.
+Solución de incidents
+Atención a peticiones como: Agregar información, cambio en reportes, mejoras de diseño, etc.  
+Resolución de ticket cumpliendo con los estándares de calidad y tiempo | Desarrollo de mejoras como módulos, funcionalidad, etc.
+Solución de incidents
+Atención a peticiones como: Agregar información, cambio en reportes, mejoras de diseño, etc.  
+Resolución de ticket cumpliendo con los estándares de calidad y tiempo | Desarrollo de mejoras como módulos, funcionalidad, etc.
+Solución de incidents
+Atención a peticiones como: Agregar información, cambio en reportes, mejoras de diseño, etc.  
+Resolución de ticket cumpliendo con los estándares de calidad y tiempo | Desarrollo de mejoras como módulos, funcionalidad, etc.
+Solución de incidents
+Atención a peticiones como: Agregar información, cambio en reportes, mejoras de diseño, etc.  
+Resolución de ticket cumpliendo con los estándares de calidad y tiempo
+Tools: | SharePoint Online, 2013 and 2010, InfoPath, SharePoint Designer, SharePoint Shell | SharePoint Online, 2013 and 2010, InfoPath, SharePoint Designer, SharePoint Shell | SharePoint Online, 2013 and 2010, InfoPath, SharePoint Designer, SharePoint Shell | SharePoint Online, 2013 and 2010, InfoPath, SharePoint Designer, SharePoint Shell
+SVAM International | Victoria, Tamaulipas | De: 03/13 | A: 10/16
+Portfolio Project Leader | Portfolio Project Leader | Portfolio Project Leader | Portfolio Project Leader
+Funciones: | Administración de Proyecto nacionales e internaciones 
+Creación de planes de proyectos
+Seguimiento y monitoreo de tareas
+Demostraciones al cliente | Administración de Proyecto nacionales e internaciones 
+Creación de planes de proyectos
+Seguimiento y monitoreo de tareas
+Demostraciones al cliente | Administración de Proyecto nacionales e internaciones 
+Creación de planes de proyectos
+Seguimiento y monitoreo de tareas
+Demostraciones al cliente | Administración de Proyecto nacionales e internaciones 
+Creación de planes de proyectos
+Seguimiento y monitoreo de tareas
+Demostraciones al cliente
+Herramientas/Tecnología | Microsoft Project, Team Foundation Server | Microsoft Project, Team Foundation Server | Microsoft Project, Team Foundation Server | Microsoft Project, Team Foundation Server
+Project Leader | Project Leader | Project Leader | Project Leader
+Funciones | Coordinar equipos: Analistas, Pruebas, Desarrolladores.
+Seguimiento al ciclo de vida del software
+Busqueda de estrategias para acelerar la productividad
+Plan de estimación
+Liderazgo | Coordinar equipos: Analistas, Pruebas, Desarrolladores.
+Seguimiento al ciclo de vida del software
+Busqueda de estrategias para acelerar la productividad
+Plan de estimación
+Liderazgo | Coordinar equipos: Analistas, Pruebas, Desarrolladores.
+Seguimiento al ciclo de vida del software
+Busqueda de estrategias para acelerar la productividad
+Plan de estimación
+Liderazgo | Coordinar equipos: Analistas, Pruebas, Desarrolladores.
+Seguimiento al ciclo de vida del software
+Busqueda de estrategias para acelerar la productividad
+Plan de estimación
+Liderazgo
+Herramientas/Tecnologia | Microsoft Visio, Microsoft Project, Asana, Basecamp, Team Foundation Server | Microsoft Visio, Microsoft Project, Asana, Basecamp, Team Foundation Server | Microsoft Visio, Microsoft Project, Asana, Basecamp, Team Foundation Server | Microsoft Visio, Microsoft Project, Asana, Basecamp, Team Foundation Server
+EDUCACIÓN:
+Centro de Investigación y de Estudios Avanzados del IPN | Victoria, Tamps, México | 2010- 2012
+Mestría en Ciencias de la Computación
+Instituto Tecnológico de Saltillo | Saltillo, Coah, México | 2004-2008
+Ingeniería en sistemas computacionales
+DESARROLLO PROFESIONAL:
+PL300 PowerBI Data Analyst Associate - Cert | Microsoft | Apr, 2023
+PL400 Power Platform Developer Associate – Cert | Microsoft | Dec, 2022
+MB210 Dynamics 365 Sales Functional Consultant - Cert | Microsoft | Nov, 2022
+MB910 Dynamics 365 Fundamentals – Cert | Microsoft | Aug, 2022
+AZ204 Azure Developer Associate - Cert | Microsoft | Jul, 2022
+AZ900 Azure Fundamentals – Cert | Microsoft | May, 2022
+PL200 Power Platform Functional Consultant - Cert | Microsoft | Aug, 2021
+PL100 Power Platform App Maker – Cert | Microsoft | Jun, 2021
+DA100 Data Analyst Associate – Cert | Microsoft | Apr. 2021
+PL900 Power Platform Fundamentals – Cert | Microsoft | Feb, 2021
+ITIL Foundation - Cert | PeopleCert | Feb, 2019
+Project management - Training | Tecnologico de Monterrey | Feb, 2015
+Leadership – Training | SVAM, Victoria | May, 2015
+JavaScript - Course | SVAM, Victoria | Sep, 2014
+SharePoint 2013 -  Course | SVAM, Victoria | Aug, 2013
+IDIOMAS:
+Ingles
+HABILIDADES TÉCNICAS:
+Perfil Primario: | SharePoint Developer, Power Platform, Algorithms designer
+Perfil Secundario: | Team leader
+Hardware: | Cluster, Windows Server
+Operating Systems: | Windows Server, Ubuntu
+Programming Languages: | C, C# .Net, JavaScript, PHP, Java, HTML
+Databases: | MS SQL Server, MySQL
+Other: | Power Platform (Power App, Power Automate, Power BI), InfoPath 2010, SharePoint Designer

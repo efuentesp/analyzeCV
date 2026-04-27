@@ -1,0 +1,438 @@
+Ana Patricia Pérez Morales
+PERFIL:
+10 años de experiencia en todas las fases del desarrollo de aplicaciones trabajando sobre tecnología Web (JEE) como Ingeniero de Software.
+8 años de experiencia como Ingeniero de Soporte.
+EXPERIENCIA PROFESIONAL
+Nombre de la empresa:
+Softtek | Nombre de la empresa:
+Softtek | Lugar:  Aguascalientes,Ags | Puesto: Ingeniero de Soporte | Desde: 
+Febrero 2016 | A: Actual
+Funciones:
+Detección de incidentes y registro de tickets en la herramienta DASH.
+Clasificación y soporte Inicial sobre el problema que enfrenta el usuario.
+Investigación & diagnóstico del problema en el ticket.
+Resolución del problema y recuperación del sistema a la normalidad.
+Propiedad del incidente, monitoreo, seguimiento y facilitación de la comunicación.
+Aprovechar la gestión del conocimiento para uso futuro.
+Actividades asociadas a la gestión de incidencias.
+Soporte de aplicaciones.
+
+Logros:
+Implementar Automatización de procesos | Funciones:
+Detección de incidentes y registro de tickets en la herramienta DASH.
+Clasificación y soporte Inicial sobre el problema que enfrenta el usuario.
+Investigación & diagnóstico del problema en el ticket.
+Resolución del problema y recuperación del sistema a la normalidad.
+Propiedad del incidente, monitoreo, seguimiento y facilitación de la comunicación.
+Aprovechar la gestión del conocimiento para uso futuro.
+Actividades asociadas a la gestión de incidencias.
+Soporte de aplicaciones.
+
+Logros:
+Implementar Automatización de procesos | Funciones:
+Detección de incidentes y registro de tickets en la herramienta DASH.
+Clasificación y soporte Inicial sobre el problema que enfrenta el usuario.
+Investigación & diagnóstico del problema en el ticket.
+Resolución del problema y recuperación del sistema a la normalidad.
+Propiedad del incidente, monitoreo, seguimiento y facilitación de la comunicación.
+Aprovechar la gestión del conocimiento para uso futuro.
+Actividades asociadas a la gestión de incidencias.
+Soporte de aplicaciones.
+
+Logros:
+Implementar Automatización de procesos | Funciones:
+Detección de incidentes y registro de tickets en la herramienta DASH.
+Clasificación y soporte Inicial sobre el problema que enfrenta el usuario.
+Investigación & diagnóstico del problema en el ticket.
+Resolución del problema y recuperación del sistema a la normalidad.
+Propiedad del incidente, monitoreo, seguimiento y facilitación de la comunicación.
+Aprovechar la gestión del conocimiento para uso futuro.
+Actividades asociadas a la gestión de incidencias.
+Soporte de aplicaciones.
+
+Logros:
+Implementar Automatización de procesos | Funciones:
+Detección de incidentes y registro de tickets en la herramienta DASH.
+Clasificación y soporte Inicial sobre el problema que enfrenta el usuario.
+Investigación & diagnóstico del problema en el ticket.
+Resolución del problema y recuperación del sistema a la normalidad.
+Propiedad del incidente, monitoreo, seguimiento y facilitación de la comunicación.
+Aprovechar la gestión del conocimiento para uso futuro.
+Actividades asociadas a la gestión de incidencias.
+Soporte de aplicaciones.
+
+Logros:
+Implementar Automatización de procesos | Funciones:
+Detección de incidentes y registro de tickets en la herramienta DASH.
+Clasificación y soporte Inicial sobre el problema que enfrenta el usuario.
+Investigación & diagnóstico del problema en el ticket.
+Resolución del problema y recuperación del sistema a la normalidad.
+Propiedad del incidente, monitoreo, seguimiento y facilitación de la comunicación.
+Aprovechar la gestión del conocimiento para uso futuro.
+Actividades asociadas a la gestión de incidencias.
+Soporte de aplicaciones.
+
+Logros:
+Implementar Automatización de procesos
+Herramientas: | AWS, Oracle Database 10g, DASH (Incident Management), RESTful, SOAP webservices, ITIL, Unix, Shell script, JDBC, JAVA, Putty, SQL, SOAP, PostMan, Javascript, Selenium, SQL Developer | AWS, Oracle Database 10g, DASH (Incident Management), RESTful, SOAP webservices, ITIL, Unix, Shell script, JDBC, JAVA, Putty, SQL, SOAP, PostMan, Javascript, Selenium, SQL Developer | AWS, Oracle Database 10g, DASH (Incident Management), RESTful, SOAP webservices, ITIL, Unix, Shell script, JDBC, JAVA, Putty, SQL, SOAP, PostMan, Javascript, Selenium, SQL Developer | AWS, Oracle Database 10g, DASH (Incident Management), RESTful, SOAP webservices, ITIL, Unix, Shell script, JDBC, JAVA, Putty, SQL, SOAP, PostMan, Javascript, Selenium, SQL Developer | AWS, Oracle Database 10g, DASH (Incident Management), RESTful, SOAP webservices, ITIL, Unix, Shell script, JDBC, JAVA, Putty, SQL, SOAP, PostMan, Javascript, Selenium, SQL Developer
+Nombre de la empresa:
+Softtek | Nombre de la empresa:
+Softtek | Lugar:  Aguascalientes, Ags | Puesto: 
+Ingeniero de Software | Desde: 
+Junio 2015 | A: 
+Febrero 2016
+Funciones:
+Cambios de GUI usando AngularJS, jQuery y Javascript.
+Desarrollo de requerimientos de usuarios.
+Desarrollo de aplicaciones Java bajo el framework Spring MVC.
+Pruebas frontend usando las herramientas Protractor y Selenium.
+Solicitud de cambio de usuario.
+Desarrollo de aplicaciones bajo el método AGILE, utilizando el framework SCRUM.
+Experiencia en desarrollo backend con el framework Spring MVC.
+Desarrollo front end con AngularJS.
+
+Logros:
+Desarrollo de modulo para la aplicación del cliente | Funciones:
+Cambios de GUI usando AngularJS, jQuery y Javascript.
+Desarrollo de requerimientos de usuarios.
+Desarrollo de aplicaciones Java bajo el framework Spring MVC.
+Pruebas frontend usando las herramientas Protractor y Selenium.
+Solicitud de cambio de usuario.
+Desarrollo de aplicaciones bajo el método AGILE, utilizando el framework SCRUM.
+Experiencia en desarrollo backend con el framework Spring MVC.
+Desarrollo front end con AngularJS.
+
+Logros:
+Desarrollo de modulo para la aplicación del cliente | Funciones:
+Cambios de GUI usando AngularJS, jQuery y Javascript.
+Desarrollo de requerimientos de usuarios.
+Desarrollo de aplicaciones Java bajo el framework Spring MVC.
+Pruebas frontend usando las herramientas Protractor y Selenium.
+Solicitud de cambio de usuario.
+Desarrollo de aplicaciones bajo el método AGILE, utilizando el framework SCRUM.
+Experiencia en desarrollo backend con el framework Spring MVC.
+Desarrollo front end con AngularJS.
+
+Logros:
+Desarrollo de modulo para la aplicación del cliente | Funciones:
+Cambios de GUI usando AngularJS, jQuery y Javascript.
+Desarrollo de requerimientos de usuarios.
+Desarrollo de aplicaciones Java bajo el framework Spring MVC.
+Pruebas frontend usando las herramientas Protractor y Selenium.
+Solicitud de cambio de usuario.
+Desarrollo de aplicaciones bajo el método AGILE, utilizando el framework SCRUM.
+Experiencia en desarrollo backend con el framework Spring MVC.
+Desarrollo front end con AngularJS.
+
+Logros:
+Desarrollo de modulo para la aplicación del cliente | Funciones:
+Cambios de GUI usando AngularJS, jQuery y Javascript.
+Desarrollo de requerimientos de usuarios.
+Desarrollo de aplicaciones Java bajo el framework Spring MVC.
+Pruebas frontend usando las herramientas Protractor y Selenium.
+Solicitud de cambio de usuario.
+Desarrollo de aplicaciones bajo el método AGILE, utilizando el framework SCRUM.
+Experiencia en desarrollo backend con el framework Spring MVC.
+Desarrollo front end con AngularJS.
+
+Logros:
+Desarrollo de modulo para la aplicación del cliente | Funciones:
+Cambios de GUI usando AngularJS, jQuery y Javascript.
+Desarrollo de requerimientos de usuarios.
+Desarrollo de aplicaciones Java bajo el framework Spring MVC.
+Pruebas frontend usando las herramientas Protractor y Selenium.
+Solicitud de cambio de usuario.
+Desarrollo de aplicaciones bajo el método AGILE, utilizando el framework SCRUM.
+Experiencia en desarrollo backend con el framework Spring MVC.
+Desarrollo front end con AngularJS.
+
+Logros:
+Desarrollo de modulo para la aplicación del cliente
+Herramientas: | Framework Spring MVC, JEE, JPA, framework de seguridad Apache Shiro, Angular JS, Javascript, JQuery, Framework Protractor, GIT. | Framework Spring MVC, JEE, JPA, framework de seguridad Apache Shiro, Angular JS, Javascript, JQuery, Framework Protractor, GIT. | Framework Spring MVC, JEE, JPA, framework de seguridad Apache Shiro, Angular JS, Javascript, JQuery, Framework Protractor, GIT. | Framework Spring MVC, JEE, JPA, framework de seguridad Apache Shiro, Angular JS, Javascript, JQuery, Framework Protractor, GIT. | Framework Spring MVC, JEE, JPA, framework de seguridad Apache Shiro, Angular JS, Javascript, JQuery, Framework Protractor, GIT.
+Nombre de la empresa:
+Softtek | Nombre de la empresa:
+Softtek | Lugar: Aguascalientes, Ags | Puesto: 
+Ingeniero de Software | Desde: 
+Marzo 2011 | A: 
+Junio 2015
+Funciones:
+Desarrollo de aplicaciones Java bajo el framework Spring.
+Implementación de Servicios Web SOAP y RESTful.
+Desarrollo de requerimientos de usuarios.
+Solicitudes de cambio de usuario.
+Desarrollo bajo proceso Testdriven Development (TDD).
+Desarrollo de aplicaciones bajo el método AGILE.
+Solucionar defectos y problemas relacionados con la aplicación.
+Desarrollo de aplicaciones GUI utilizando GWT, Jquery y Javascript.
+Experiencia en desarrollo backend con framework Spring.
+Implementación de servicios web basados en fichero WSDL y utilizando framework Spring.
+Experiencia en desarrollo web con el framework Spring.
+Experiencia en desarrollo web front-end con el framework Backbone.
+Implementación de Servicios web Restful.
+
+Logros:
+Desarrollo de la interfaz de usuario de la aplicación. | Funciones:
+Desarrollo de aplicaciones Java bajo el framework Spring.
+Implementación de Servicios Web SOAP y RESTful.
+Desarrollo de requerimientos de usuarios.
+Solicitudes de cambio de usuario.
+Desarrollo bajo proceso Testdriven Development (TDD).
+Desarrollo de aplicaciones bajo el método AGILE.
+Solucionar defectos y problemas relacionados con la aplicación.
+Desarrollo de aplicaciones GUI utilizando GWT, Jquery y Javascript.
+Experiencia en desarrollo backend con framework Spring.
+Implementación de servicios web basados en fichero WSDL y utilizando framework Spring.
+Experiencia en desarrollo web con el framework Spring.
+Experiencia en desarrollo web front-end con el framework Backbone.
+Implementación de Servicios web Restful.
+
+Logros:
+Desarrollo de la interfaz de usuario de la aplicación. | Funciones:
+Desarrollo de aplicaciones Java bajo el framework Spring.
+Implementación de Servicios Web SOAP y RESTful.
+Desarrollo de requerimientos de usuarios.
+Solicitudes de cambio de usuario.
+Desarrollo bajo proceso Testdriven Development (TDD).
+Desarrollo de aplicaciones bajo el método AGILE.
+Solucionar defectos y problemas relacionados con la aplicación.
+Desarrollo de aplicaciones GUI utilizando GWT, Jquery y Javascript.
+Experiencia en desarrollo backend con framework Spring.
+Implementación de servicios web basados en fichero WSDL y utilizando framework Spring.
+Experiencia en desarrollo web con el framework Spring.
+Experiencia en desarrollo web front-end con el framework Backbone.
+Implementación de Servicios web Restful.
+
+Logros:
+Desarrollo de la interfaz de usuario de la aplicación. | Funciones:
+Desarrollo de aplicaciones Java bajo el framework Spring.
+Implementación de Servicios Web SOAP y RESTful.
+Desarrollo de requerimientos de usuarios.
+Solicitudes de cambio de usuario.
+Desarrollo bajo proceso Testdriven Development (TDD).
+Desarrollo de aplicaciones bajo el método AGILE.
+Solucionar defectos y problemas relacionados con la aplicación.
+Desarrollo de aplicaciones GUI utilizando GWT, Jquery y Javascript.
+Experiencia en desarrollo backend con framework Spring.
+Implementación de servicios web basados en fichero WSDL y utilizando framework Spring.
+Experiencia en desarrollo web con el framework Spring.
+Experiencia en desarrollo web front-end con el framework Backbone.
+Implementación de Servicios web Restful.
+
+Logros:
+Desarrollo de la interfaz de usuario de la aplicación. | Funciones:
+Desarrollo de aplicaciones Java bajo el framework Spring.
+Implementación de Servicios Web SOAP y RESTful.
+Desarrollo de requerimientos de usuarios.
+Solicitudes de cambio de usuario.
+Desarrollo bajo proceso Testdriven Development (TDD).
+Desarrollo de aplicaciones bajo el método AGILE.
+Solucionar defectos y problemas relacionados con la aplicación.
+Desarrollo de aplicaciones GUI utilizando GWT, Jquery y Javascript.
+Experiencia en desarrollo backend con framework Spring.
+Implementación de servicios web basados en fichero WSDL y utilizando framework Spring.
+Experiencia en desarrollo web con el framework Spring.
+Experiencia en desarrollo web front-end con el framework Backbone.
+Implementación de Servicios web Restful.
+
+Logros:
+Desarrollo de la interfaz de usuario de la aplicación. | Funciones:
+Desarrollo de aplicaciones Java bajo el framework Spring.
+Implementación de Servicios Web SOAP y RESTful.
+Desarrollo de requerimientos de usuarios.
+Solicitudes de cambio de usuario.
+Desarrollo bajo proceso Testdriven Development (TDD).
+Desarrollo de aplicaciones bajo el método AGILE.
+Solucionar defectos y problemas relacionados con la aplicación.
+Desarrollo de aplicaciones GUI utilizando GWT, Jquery y Javascript.
+Experiencia en desarrollo backend con framework Spring.
+Implementación de servicios web basados en fichero WSDL y utilizando framework Spring.
+Experiencia en desarrollo web con el framework Spring.
+Experiencia en desarrollo web front-end con el framework Backbone.
+Implementación de Servicios web Restful.
+
+Logros:
+Desarrollo de la interfaz de usuario de la aplicación.
+Herramientas: | Spring Framework, JEE, JPA, Hibernate, GWT, WebLogic 11, JSP, Servlets, UML, Backbone, Javascript, JQuery, MyBatis, Restful Services, Oracle, SVN. | Spring Framework, JEE, JPA, Hibernate, GWT, WebLogic 11, JSP, Servlets, UML, Backbone, Javascript, JQuery, MyBatis, Restful Services, Oracle, SVN. | Spring Framework, JEE, JPA, Hibernate, GWT, WebLogic 11, JSP, Servlets, UML, Backbone, Javascript, JQuery, MyBatis, Restful Services, Oracle, SVN. | Spring Framework, JEE, JPA, Hibernate, GWT, WebLogic 11, JSP, Servlets, UML, Backbone, Javascript, JQuery, MyBatis, Restful Services, Oracle, SVN. | Spring Framework, JEE, JPA, Hibernate, GWT, WebLogic 11, JSP, Servlets, UML, Backbone, Javascript, JQuery, MyBatis, Restful Services, Oracle, SVN.
+Nombre de la empresa:
+Comercial Mexicana | Nombre de la empresa:
+Comercial Mexicana | Lugar: Naucalpan, Estado de México | Puesto: 
+Analista de Sistemas | Desde: 
+Noviembre 2007 | A: 
+Marzo 2011
+Funciones:
+Administración y operación de aplicaciones de comercio electrónico, desarrolladas bajo el patrón de diseño MVC.
+Análisis y programación de requerimientos de usuarios.
+Desarrollo de aplicaciones bajo el esquema de diseño UML.
+Aplicaciones de gestión desarrolladas utilizando WebLogic Server como servidor de aplicaciones.
+Desarrollo de aplicaciones utilizando Oracle y Sybase como gestor de base de datos.
+Desarrollo de WebServices.
+Uso y gestión de Weblogic Server 9.2 y 10.0. 
+Desarrollo de Aplicaciones Web usando JBuilder 2008 como IDE.
+Creación de shells en UNIX y Linux.
+Experiencia en desarrollo web
+Logros:
+Análisis y Desarrollo del módulo de factura electrónica.
+Implementación del Módulo de factura electrónica en producción.
+Actualización de la página de proveedores
+Actualización de la pagina LaComer | Funciones:
+Administración y operación de aplicaciones de comercio electrónico, desarrolladas bajo el patrón de diseño MVC.
+Análisis y programación de requerimientos de usuarios.
+Desarrollo de aplicaciones bajo el esquema de diseño UML.
+Aplicaciones de gestión desarrolladas utilizando WebLogic Server como servidor de aplicaciones.
+Desarrollo de aplicaciones utilizando Oracle y Sybase como gestor de base de datos.
+Desarrollo de WebServices.
+Uso y gestión de Weblogic Server 9.2 y 10.0. 
+Desarrollo de Aplicaciones Web usando JBuilder 2008 como IDE.
+Creación de shells en UNIX y Linux.
+Experiencia en desarrollo web
+Logros:
+Análisis y Desarrollo del módulo de factura electrónica.
+Implementación del Módulo de factura electrónica en producción.
+Actualización de la página de proveedores
+Actualización de la pagina LaComer | Funciones:
+Administración y operación de aplicaciones de comercio electrónico, desarrolladas bajo el patrón de diseño MVC.
+Análisis y programación de requerimientos de usuarios.
+Desarrollo de aplicaciones bajo el esquema de diseño UML.
+Aplicaciones de gestión desarrolladas utilizando WebLogic Server como servidor de aplicaciones.
+Desarrollo de aplicaciones utilizando Oracle y Sybase como gestor de base de datos.
+Desarrollo de WebServices.
+Uso y gestión de Weblogic Server 9.2 y 10.0. 
+Desarrollo de Aplicaciones Web usando JBuilder 2008 como IDE.
+Creación de shells en UNIX y Linux.
+Experiencia en desarrollo web
+Logros:
+Análisis y Desarrollo del módulo de factura electrónica.
+Implementación del Módulo de factura electrónica en producción.
+Actualización de la página de proveedores
+Actualización de la pagina LaComer | Funciones:
+Administración y operación de aplicaciones de comercio electrónico, desarrolladas bajo el patrón de diseño MVC.
+Análisis y programación de requerimientos de usuarios.
+Desarrollo de aplicaciones bajo el esquema de diseño UML.
+Aplicaciones de gestión desarrolladas utilizando WebLogic Server como servidor de aplicaciones.
+Desarrollo de aplicaciones utilizando Oracle y Sybase como gestor de base de datos.
+Desarrollo de WebServices.
+Uso y gestión de Weblogic Server 9.2 y 10.0. 
+Desarrollo de Aplicaciones Web usando JBuilder 2008 como IDE.
+Creación de shells en UNIX y Linux.
+Experiencia en desarrollo web
+Logros:
+Análisis y Desarrollo del módulo de factura electrónica.
+Implementación del Módulo de factura electrónica en producción.
+Actualización de la página de proveedores
+Actualización de la pagina LaComer | Funciones:
+Administración y operación de aplicaciones de comercio electrónico, desarrolladas bajo el patrón de diseño MVC.
+Análisis y programación de requerimientos de usuarios.
+Desarrollo de aplicaciones bajo el esquema de diseño UML.
+Aplicaciones de gestión desarrolladas utilizando WebLogic Server como servidor de aplicaciones.
+Desarrollo de aplicaciones utilizando Oracle y Sybase como gestor de base de datos.
+Desarrollo de WebServices.
+Uso y gestión de Weblogic Server 9.2 y 10.0. 
+Desarrollo de Aplicaciones Web usando JBuilder 2008 como IDE.
+Creación de shells en UNIX y Linux.
+Experiencia en desarrollo web
+Logros:
+Análisis y Desarrollo del módulo de factura electrónica.
+Implementación del Módulo de factura electrónica en producción.
+Actualización de la página de proveedores
+Actualización de la pagina LaComer | Funciones:
+Administración y operación de aplicaciones de comercio electrónico, desarrolladas bajo el patrón de diseño MVC.
+Análisis y programación de requerimientos de usuarios.
+Desarrollo de aplicaciones bajo el esquema de diseño UML.
+Aplicaciones de gestión desarrolladas utilizando WebLogic Server como servidor de aplicaciones.
+Desarrollo de aplicaciones utilizando Oracle y Sybase como gestor de base de datos.
+Desarrollo de WebServices.
+Uso y gestión de Weblogic Server 9.2 y 10.0. 
+Desarrollo de Aplicaciones Web usando JBuilder 2008 como IDE.
+Creación de shells en UNIX y Linux.
+Experiencia en desarrollo web
+Logros:
+Análisis y Desarrollo del módulo de factura electrónica.
+Implementación del Módulo de factura electrónica en producción.
+Actualización de la página de proveedores
+Actualización de la pagina LaComer
+Herramientas: | Spring Framework, JEE, JPA, Hibernate, GWT, WebLogic 11, JSP, Servlets, UML, Backbone, Javascript, JQuery, MyBatis, Restful Services, Oracle, SVN. | Spring Framework, JEE, JPA, Hibernate, GWT, WebLogic 11, JSP, Servlets, UML, Backbone, Javascript, JQuery, MyBatis, Restful Services, Oracle, SVN. | Spring Framework, JEE, JPA, Hibernate, GWT, WebLogic 11, JSP, Servlets, UML, Backbone, Javascript, JQuery, MyBatis, Restful Services, Oracle, SVN. | Spring Framework, JEE, JPA, Hibernate, GWT, WebLogic 11, JSP, Servlets, UML, Backbone, Javascript, JQuery, MyBatis, Restful Services, Oracle, SVN. | Spring Framework, JEE, JPA, Hibernate, GWT, WebLogic 11, JSP, Servlets, UML, Backbone, Javascript, JQuery, MyBatis, Restful Services, Oracle, SVN.
+Nombre de la empresa:
+Softtek | Nombre de la empresa:
+Softtek | Lugar: CDMX | Puesto: 
+Programador / Analista de Sistemas | Desde: 
+Julio 2005 | A: 
+Noviembre 2007
+Funciones:
+Análisis, diseño, desarrollo y pruebas del Módulo de Gestión Platinum WEB System para el Banco Nacional de México (Banamex).
+Desarrollo de aplicaciones bajo el esquema de diseño UML utilizando la herramienta Rational.
+Servicios de desarrollo y pruebas.
+Acceso a base de datos con JDBC.
+Aplicación de gestión desarrollada usando WebLogic como servidores de aplicaciones.
+Desarrollo de Aplicaciones Web
+Análisis y Diseño de requerimientos de usuario.
+
+Logros: | Funciones:
+Análisis, diseño, desarrollo y pruebas del Módulo de Gestión Platinum WEB System para el Banco Nacional de México (Banamex).
+Desarrollo de aplicaciones bajo el esquema de diseño UML utilizando la herramienta Rational.
+Servicios de desarrollo y pruebas.
+Acceso a base de datos con JDBC.
+Aplicación de gestión desarrollada usando WebLogic como servidores de aplicaciones.
+Desarrollo de Aplicaciones Web
+Análisis y Diseño de requerimientos de usuario.
+
+Logros: | Funciones:
+Análisis, diseño, desarrollo y pruebas del Módulo de Gestión Platinum WEB System para el Banco Nacional de México (Banamex).
+Desarrollo de aplicaciones bajo el esquema de diseño UML utilizando la herramienta Rational.
+Servicios de desarrollo y pruebas.
+Acceso a base de datos con JDBC.
+Aplicación de gestión desarrollada usando WebLogic como servidores de aplicaciones.
+Desarrollo de Aplicaciones Web
+Análisis y Diseño de requerimientos de usuario.
+
+Logros: | Funciones:
+Análisis, diseño, desarrollo y pruebas del Módulo de Gestión Platinum WEB System para el Banco Nacional de México (Banamex).
+Desarrollo de aplicaciones bajo el esquema de diseño UML utilizando la herramienta Rational.
+Servicios de desarrollo y pruebas.
+Acceso a base de datos con JDBC.
+Aplicación de gestión desarrollada usando WebLogic como servidores de aplicaciones.
+Desarrollo de Aplicaciones Web
+Análisis y Diseño de requerimientos de usuario.
+
+Logros: | Funciones:
+Análisis, diseño, desarrollo y pruebas del Módulo de Gestión Platinum WEB System para el Banco Nacional de México (Banamex).
+Desarrollo de aplicaciones bajo el esquema de diseño UML utilizando la herramienta Rational.
+Servicios de desarrollo y pruebas.
+Acceso a base de datos con JDBC.
+Aplicación de gestión desarrollada usando WebLogic como servidores de aplicaciones.
+Desarrollo de Aplicaciones Web
+Análisis y Diseño de requerimientos de usuario.
+
+Logros: | Funciones:
+Análisis, diseño, desarrollo y pruebas del Módulo de Gestión Platinum WEB System para el Banco Nacional de México (Banamex).
+Desarrollo de aplicaciones bajo el esquema de diseño UML utilizando la herramienta Rational.
+Servicios de desarrollo y pruebas.
+Acceso a base de datos con JDBC.
+Aplicación de gestión desarrollada usando WebLogic como servidores de aplicaciones.
+Desarrollo de Aplicaciones Web
+Análisis y Diseño de requerimientos de usuario.
+
+Logros:
+Herramientas: | Javascript, HTML, CSS, Servlets, JSPs, XML, JEE, Struts, Rational Rose, Java, WebLogic Struts. | Javascript, HTML, CSS, Servlets, JSPs, XML, JEE, Struts, Rational Rose, Java, WebLogic Struts. | Javascript, HTML, CSS, Servlets, JSPs, XML, JEE, Struts, Rational Rose, Java, WebLogic Struts. | Javascript, HTML, CSS, Servlets, JSPs, XML, JEE, Struts, Rational Rose, Java, WebLogic Struts. | Javascript, HTML, CSS, Servlets, JSPs, XML, JEE, Struts, Rational Rose, Java, WebLogic Struts.
+ESTUDIOS:
+Escuela:   Universidad Nacional Autónoma de México (UNAM) | Lugar:  CDMX
+Carrera: 
+Ingeniería en Computación | Fecha de duración: 
+2000 - 2005
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Oracle Certified Professional, JAVA SE 6 Programmer | Aguascalientes | 2014
+Project Management with CMMI 2, Unified Process | UNAM | 2008
+Desarrollo de Aplicaciones con Java | UNAM | 2007
+Taller JBoss | Softtek | 2005
+Taller Struts | Softtek | 2005
+Taller UML | Softtek | 2005
+IDIOMAS:
+Español: | Nativo
+Inglés: | 80%
+CONOCIMIENTOS TÉCNICOS:
+Perfil principal: | Analista de Sistemas
+Perfil secundario: | Ingeniero de Software
+Sistemas operativos: | Linux, Windows
+Lenguajes de programación: | Java, Python, C++
+Bases de datos: | Oracle, MySQL
+Otros: | RESTful, SOAP webservices, Javascript

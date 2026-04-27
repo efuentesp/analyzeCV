@@ -1,0 +1,96 @@
+Francisco Emanuel Herrera Bautista
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Cuento con al menos 3 años de experiencia en centros de desarrollo de software. Domino tecnologías de la Arquitectura de Referencia y tecnologías de código abierto. Genero el código necesario y doy mantenimiento correctivo y adicional para cumplir con la especificación técnica, ejecutando el proceso de desarrollo de software conforme a lo acordado y apegándome a los estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos establecidos en el plan de trabajo.
+
+Tengo experiencia en el mantenimiento y la continuidad de servicios productivos, incluyendo remediación de vulnerabilidades críticas y liberación de componentes. Desarrollo y mantengo APIs y aplicaciones web (frontend y backend), y trabajo usando control de versiones para coordinar entregas con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos. Como líder técnico he gestionado el seguimiento diario de células, identificando riesgos y reportando avances para asegurar el cumplimiento de objetivos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Ingeniero Fullstack | Desde:
+30 noviembre 2021 | Hasta: 
+Actual
+Actividades Principales | • Mantengo y brindo soporte a los aplicativos dominando varios lenguajes de programación. Tengo habilidades en resolución de problemas, control de versiones (Git (Control de versiones distribuido)) y desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.
+• Implemento y utilizo de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.
+• Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización, incluyendo políticas, registro de horas y estándares.
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).
+• He usado la certificación GitLab CI: Pipelines, CI/CD and DevOps for Beginners para aplicar prácticas de integración continua, entrega continua y colaboración Dev–Ops.
+• La certificación Foundational C# with Microsoft me ha permitido aplicar acertadamente mis conocimientos en C#, un lenguaje de programación para desarrollo backend.
+• He usado la certificación Scrum Fundamentals Certified (SFC™) – SCRUMstudy como fundamento de marco ágil para gestión de proyectos.
+• He usado la certificación Certified PHP Developer – W3Schools para reforzar conocimientos en PHP, un lenguaje de desarrollo web.
+• He usado el curso GitLab CI: Pipelines, CI/CD and DevOps for Beginners para aprender a configurar y ejecutar pipelines de integración y despliegue continuo utilizando GitLab CI.
+• Participo en los procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek.
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Remedio vulnerabilidades altas y críticas para garantizar la continuidad del servicio en sistemas de Grupo Coppel; apoyo en la liberación de componentes modificados.
+• Desarrollo nuevas APIs como parte de la migración a Java (Lenguaje de programación para desarrollo de aplicaciones) Spring del Sistema Administrativo Jurídico de Coppel.
+• Como Technical Leader, doy seguimiento diario a la célula, identificando riesgos y obstáculos para asegurar el alcance de objetivos y reportando avances a niveles superiores.
+• Desarrollo nuevos módulos y doy mantenimiento a la plataforma de control escolar; colaboro en proyectos de la Secretaría de Educación del Estado de México.
+Empresa
+UTTEC | Puesto
+Desarrollador .Net | Desde:
+1 abril 2018 | Hasta: 
+29 noviembre 2021
+Actividades Principales | • Desarrollo nuevos módulos y doy mantenimiento a la plataforma de control escolar; colaboro en proyectos de la Secretaría de Educación del Estado de México.
+HERRAMIENTAS CONOCIDAS
+- Coldfusion
+- PHP (Lenguaje de desarrollo web)
+- JavaScript
+- jQuery
+- CheckMarx
+- PostgreSQL (Base de datos relacional avanzada)
+- SQL Server (Motor de base de datos para consultas y validaciones)
+- Git (Control de versiones distribuido)
+- GitLab
+- AzureRepos
+- HTML
+- CSS
+- Apache HTTP Server
+- Java Spring Boot
+- Apache Tomcat
+- Docker (Contenerización de aplicaciones)
+- C# (Lenguaje de programación para desarrollo backend)
+- .Net
+- .Net Core
+- iTextSharp
+- Bootstrap UI
+- Semantic UI
+- ChartJS
+- NodeJS
+- Visual Studio Enterprise (IDE para desarrollo .NET)
+- Windows 10
+- Debian 12
+- MySQL
+- MariaDB
+- MongoDB
+- Java (Lenguaje de programación para desarrollo de aplicaciones)
+FORMACIÓN ACADÉMICA:
+Tecnologías de Información y Comunicación - 2015-2019 | Universidad Tecnológica de Tecámac, Tecámac, Estado de México | Cédula Profesional
+12857825
+25/05/2022
+CERTIFICACIONES
+- Remote Work Professional Certification (RWPC™) – CertiProf | 2024-2027
+- Foundational C# with Microsoft – freeCodeCamp / Microsoft | 2024
+- Scrum Fundamentals Certified (SFC™) – SCRUMstudy | 2022
+- Certified PHP Developer – W3Schools | 2024
+CURSOS
+- GitLab CI: Pipelines, CI/CD and DevOps for Beginners
+______________________________________
+Francisco Emanuel Herrera Bautista
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

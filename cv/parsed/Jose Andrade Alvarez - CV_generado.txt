@@ -1,0 +1,105 @@
+José Andrade Alvarez
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+Participo en las etapas del ciclo de vida del software: análisis, desarrollo, pruebas, documentación y despliegue, velando por la continuidad de servicios y el cumplimiento de procesos mediante prácticas ágiles como Scrum y la coordinación con el equipo.
+EXPERIENCIA PROFESIONAL
+Tengo más de 2 años de experiencia en programación con tecnologías de Arquitectura de Referencia y código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación de sistemas y su puesta en funcionamiento mediante el uso de lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y tiempos establecidos en el plan de trabajo.
+He trabajado principalmente en desarrollo backend con Java (Lenguaje de programación para desarrollo de aplicaciones) y Spring, integrando en proyectos soluciones front-end con HTML, JavaScript y frameworks como Angular (Framework frontend para aplicaciones SPA). Manejo bases de datos relacionales (SQL Server (Motor de base de datos para consultas y validaciones), MySQL), generación de reportes y ejecuto pruebas unitarias con JUnit y Mockito, apoyado en control de versiones y herramientas de integración.
+Participo en todas las etapas del ciclo de vida del software: análisis, desarrollo, pruebas, documentación y despliegue, asegurando continuidad de servicios y cumplimiento de procesos mediante prácticas ágiles como Scrum y coordinación con el equipo de trabajo.
+EXPERIENCIA LABORAL
+Empresa
+Softtek México | Puesto
+Software Developer | Desde:
+3 abril 2023 | Hasta: 
+31 diciembre 2025
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que sean funcionales, todo ello a través de lenguajes de programación. Habilidades en; Conceptos de programación, Trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He puesto en práctica el curso Apache Kafka Series – Kafka Streams for Data Processing para procesar flujos de datos en tiempo real utilizando Kafka Streams
+• He aplicado el curso Apache Kafka Series – KSQL on ksqlDB for Stream Processing para consultar y procesar flujos de datos en tiempo real mediante SQL sobre ksqlDB
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Desarrollo de HU's para proyecto plata.
+• Desarrollo la documentación del diseño técnico.
+• Creo reportes.
+• Creo DML's.
+• Realizo pruebas unitarias.
+• Participo en sprint planning.
+• Participo en sprint review.
+• Participo en daily internas.
+• Atiendo defectos e incidentes.
+• Realizo seguimiento a liberaciones en ambientes altos.
+• Brindo soporte y mantenimiento de aplicaciones para incidentes, tickets y mejoras.
+• Documento los requerimientos.
+• Creo y actualizo SOP’s para actividades recurrentes.
+• Genero scripts.
+• Monitoreo logs.
+• Estimo tiempos.
+• Propongo soluciones.
+Empresa
+Softtek México | Puesto
+AMS Support Engineer | Desde:
+1 junio 2020 | Hasta: 
+31 enero 2023
+Actividades Principales | • Brindo soporte y mantenimiento de aplicaciones para incidentes, tickets y mejoras.
+• Documento los requerimientos.
+• Creo y actualizo SOP’s para actividades recurrentes.
+• Genero scripts.
+• Monitoreo logs.
+• Estimo tiempos.
+• Propongo soluciones.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Apache Kafka Series – Kafka Streams for Data Processing
+- Apache Kafka Series – KSQL on ksqlDB for Stream Processing
+- Java
+- Spring Framework
+- JavaScript
+- Angular (Framework frontend para aplicaciones SPA)
+- SQL Server (Motor de base de datos para consultas y validaciones)
+- MySQL
+- JUnit
+- Mockito
+- Git
+- SVN
+- Bitbucket (Repositorio de código y colaboración)
+- Eclipse
+- Oracle SQL Developer
+- Apache Tomcat
+- Maven
+- Postman
+- Jasper
+- WebLogic Server
+- Hibernate
+- Struts
+- Thymeleaf
+- React Native
+- SonarQube
+- Jenkins
+- Docker
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 02 mayo de 2011 hasta 31 mayo de 2020
+Durante este período asumí responsabilidades como Desarrollador de Software, Arquitecto de Software y Java (Lenguaje de programación para desarrollo de aplicaciones) Developer, además de funciones de soporte AMS. Me ocupé de desarrollo y mantenimiento de aplicaciones, análisis funcional y técnico, elaboración de documentación, generación de reportes y pruebas. Trabajé bajo metodologías ágiles y en coordinación con equipos multidisciplinarios, cumpliendo procesos internos y normativas de calidad mientras apoyaba la entrega y estabilización de soluciones.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciatura en Ingeniería en Informática - 1 enero 2007 - 31 diciembre 2010 | UPIICS IPN México | Cédula Profesional
+10362948
+25/04/2017
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Apache Kafka Series – Kafka Streams for Data Processing
+- Apache Kafka Series – KSQL on ksqlDB for Stream Processing
+______________________________________
+José Andrade Alvarez
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

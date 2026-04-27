@@ -1,0 +1,103 @@
+Andrea Hernandez Aguirre
+Analista Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, soy responsable de descubrir, sintetizar y analizar información proveniente de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas.
+
+Tengo experiencia relevante en levantamiento y estructuración de requerimientos, modelado de procesos y Lenguaje Unificado de Modelado (UML), gestión de product backlog y coordinación con equipos técnicos y de negocio para entregar soluciones funcionales. Trabajo en marcos ágiles y tradicionales, priorizando continuidad de servicios, control de cambios y documentación clara para facilitar la implementación y aceptación por los usuarios.
+
+Me enfoco en generar valor mediante optimización de procesos, claridad en la comunicación con Partes interesadas y entrega de artefactos que soporten decisiones y operaciones continuas.
+EXPERIENCIA LABORAL
+Empresa
+BFS Ingeniería Aplicada (BFS) | Puesto
+ANALISTA DE NEGOCIO | Desde:
+1 junio 2025 | Hasta: 
+Actualmente
+Actividades Principales | • Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora., Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.
+• Entiendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.
+• Involucro a los stakeholders para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.
+• Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a los stakeholders ejecutar sus procesos de negocio con eficacia y facilidad.
+• Diseño la solución funcional que satisface los requerimientos de los stakeholders, junto con la estrategia de implementación necesaria para generar valor al negocio.
+• Aseguro que la solución sea aprobada conscientemente por los stakeholders, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• He aplicado el conocimiento del curso UX: Máster en Diseño web y Experiencia de Usuario como fundamento para el diseño de interfaces y experiencias digitales centradas en el usuario.
+• He usado el curso Domina SCRUM con Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) Agile – Metodologías Ágiles como herramienta para la gestión ágil y seguimiento de issues/sprints.
+• He implementado el curso The Complete UML Course: Learn to Design UML Diagrams como herramienta para el análisis y modelado de sistemas mediante diagramas UML.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+Interfaz Gráfica de Usuario (GUI): Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.
+INT: Proveo las entradas necesarias para la integración de sistemas.
+STD: Participo en las actividades de diseño de pruebas de sistema.
+STE: Participo en la ejecución de las pruebas de sistema.
+DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+UAT: Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.
+• Me adapto a la forma de trabajar en los proyectos ya sea siguiendo el método en cascada o siguiendo el marco de referencia SCRUM conforme el tipo de proyecto.
+• Elaboro documentación conforme a los lineamientos solicitados en Softtek.
+• Atiendo reuniones pos-liberación en conjunto con equipo de desarrollo y líderes para revisión de incidencias productivas.
+• Participo en reuniones para definición de la visión del producto.
+• Organizo reuniones con usuarios e interesados para la obtención de requisitos funcionales y no funcionales.
+• Elaboro la planificación de tareas derivadas del desarrollo del producto.
+• Gestiono el Product Backlog.
+• Elaboro documentación requerida para el proyecto usando plantillas del Marco Documental de Automatización de procesos (MDAP).
+• Creo prototipos de acuerdo al proyecto o iniciativas en las que participo.
+• Realizo diversos Diagramas Lenguaje Unificado de Modelado (UML) (Diagramas de Caso de Uso, Diagrama de Actividad, Diagrama de Secuencia).
+• Mantengo comunicación con las áreas interesadas del proyecto.
+• Elaboro documentos de Base de datos, ejemplo: Diagramas Entidad – Relación, Diccionario de datos y Proyecciones de la Base de datos.
+• Elaboro casos de pruebas para revisión de funcionamiento de sistema desarrollado.
+• Realizo pruebas en ambiente de desarrollo y Aseguramiento de la Calidad (QA) e informo los resultados al equipo de desarrollo antes de liberarlo al área de pruebas.
+• Doy seguimiento a las incidencias de los ambientes de desarrollo, calidad y productivas.
+• Colaboré en la realización de prototipos en Justinmind, Balsamiq.
+Empresa
+Planet Media S.A de C.V | Puesto
+ANALISTA DE NEGOCIO / Propietario del Producto (Product Owner) / PROJECT MANAGER JR. | Desde:
+1 diciembre 2018 | Hasta: 
+30 junio 2024
+Actividades Principales | • Participo en reuniones para definición de la visión del producto.
+• Organizo reuniones con usuarios e interesados para la obtención de requisitos funcionales y no funcionales.
+• Elaboro la planificación de tareas derivadas del desarrollo del producto.
+• Gestiono el Product Backlog.
+• Elaboro documentación requerida para el proyecto usando plantillas del Marco Documental de Automatización de procesos (MDAP).
+• Creo prototipos de acuerdo al proyecto o iniciativas en las que participo.
+• Realizo diversos Diagramas Lenguaje Unificado de Modelado (UML) (Diagramas de Caso de Uso, Diagrama de Actividad, Diagrama de Secuencia).
+• Mantengo comunicación con las áreas interesadas del proyecto.
+• Elaboro documentos de Base de datos, ejemplo: Diagramas Entidad – Relación, Diccionario de datos y Proyecciones de la Base de datos.
+• Elaboro casos de pruebas para revisión de funcionamiento de sistema desarrollado.
+• Realizo pruebas en ambiente de desarrollo y Aseguramiento de la Calidad (QA) e informo los resultados al equipo de desarrollo antes de liberarlo al área de pruebas.
+• Doy seguimiento a las incidencias de los ambientes de desarrollo, calidad y productivas.
+• Colaboré en la realización de prototipos en Justinmind, Balsamiq.
+HERRAMIENTAS CONOCIDAS
+- yEd Graph Editor
+- Bizagi
+- Pencil
+- Visio
+- StarUML
+- Justinmind
+- Balsamiq
+- SQL Server 2008 R2
+- SQL Server Reporting Services 2008
+- Oracle SQL Developer
+- Windows Azure Pack
+- Jira
+- Microsoft Project 2019
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 enero de 2013 hasta 30 noviembre de 2016
+Durante este período asumí responsabilidades en roles como Analista Documentador Jr., Propietario del Producto (Product Owner), Consultor y Analista de sistemas. Me encargué de levantamiento y documentación de requerimientos, diseño de prototipos, elaboración de diagramas entidad-relación y casos de prueba, además de ejecutar pruebas y dar soporte a ambientes de desarrollo. Trabajé con herramientas de bases de datos y generación de reportes, apoyando la continuidad operativa y la entrega de artefactos que facilitaron la toma de decisiones y la operación de los sistemas.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Tecnologías de la Información y Comunicación - septiembre 2009 – abril 2013 | UNIVERSIDAD TECNOLÓGICA DE TECÁMAC, México, Estado de México | Cédula Profesional
+8278987
+10/09/2013
+CURSOS
+- UX: Máster en Diseño web y Experiencia de Usuario
+- Domina SCRUM con JIRA Agile – Metodologías Ágiles
+- The Complete UML Course: Learn to Design UML Diagrams
+______________________________________
+Andrea Hernandez Aguirre
+Analista Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

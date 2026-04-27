@@ -1,0 +1,502 @@
+{
+    "capacidadRecursosHumanos": {
+        "experiencia": [
+            {
+                "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 5 años de experiencia comprobada en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio y manejo de equipos de trabajo?",
+                "detalle": "Para el rol del Analista Senior Al menos 5 años de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio y manejo de equipos de trabajo.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita experiencia en el levantamiento y documentación de requerimientos complejos, la coordinación con desarrolladores/testers/negocio y la validación funcional (UAT/seguimiento a QA) con interlocución directa con usuarios, mostrando resultados medibles (aceptaciones, incidencias resueltas, cambios implementados)?",
+                "detalle": "Analizar las propuestas de requerimientos de mejora tecnológica y procesos con el fin de apoyar en tareas como: Levantamiento y documentación de requerimientos complejos Coordinación con desarrolladores, testers y áreas de negocio Validación funcional (pruebas de aceptación, seguimiento a QA) Interlocución con usuarios Responsables de coordinar las actividades de los Analistas junior Conocimiento total de los requerimientos del proyecto asignado Habilidades en: Liderazgo Identificar problemas Proponer soluciones Manejo de herramientas y metodologías de análisis (Design Thinking, UML) Habilidades de comunicación en diferentes audiencias. Elaboración de documentación en marco de trabajo tradicional y/o ágil",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV evidencia liderazgo de Analistas junior y dominio de metodologías/herramientas de análisis (p. ej., Design Thinking, UML) para producir documentación clara en marcos de trabajo tradicionales y/o ágiles (plantillas, modelos, historias/casos de uso), vinculada a entregables aceptados?",
+                "detalle": "Analizar las propuestas de requerimientos de mejora tecnológica y procesos con el fin de apoyar en tareas como: Levantamiento y documentación de requerimientos complejos Coordinación con desarrolladores, testers y áreas de negocio Validación funcional (pruebas de aceptación, seguimiento a QA) Interlocución con usuarios Responsables de coordinar las actividades de los Analistas junior Conocimiento total de los requerimientos del proyecto asignado Habilidades en: Liderazgo Identificar problemas Proponer soluciones Manejo de herramientas y metodologías de análisis (Design Thinking, UML) Habilidades de comunicación en diferentes audiencias. Elaboración de documentación en marco de trabajo tradicional y/o ágil",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha elaborado especificaciones funcionales y casos de uso/usuario con trazabilidad a pruebas?",
+                "detalle": "EF + matriz requisitos↔pruebas",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha producido casos de prueba y matrices de trazabilidad (requisito→prueba→resultado)?",
+                "detalle": "Plan + Matriz + RPFU",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha participado en validación UAT, atendiendo hallazgos y cerrándolos a tiempo?",
+                "detalle": "Evidencias UAT + VoBo",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha elaborado manuales/guías (operación, instalación, usuario) y soportado su VoBo?",
+                "detalle": "Manuales + VoBo",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha preparado insumos documentales por fase para la carpeta del mes (evidencias para dictamen)?",
+                "detalle": "Lista de evidencias + acuses",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha apoyado la entrega a AVL (contenido del paquete) y verificado que cumpla lineamientos?",
+                "detalle": "Checklist paquete + acuse",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha colaborado en estimaciones (juicio experto, 3-puntos) con insumos para EUHE/PT?",
+                "detalle": "Cédula de estimación",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Acredita experiencia en cobertura A y coordinación con equipos multi-rol?",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La experiencia suma ≥5 años en analizar las propuestas de requerimientos de mejora tecnológica y procesos con el fin de apoyar en tareas como: Levantamiento y documentación de requerimientos complejos Coordinación con desarrolladores, testers y áreas de negocio Validación funcional (pruebas de aceptación, seguimiento a QA) Interlocución con usuarios Responsables de coordinar las actividades de los Analistas junior Conocimiento total de los requerimientos del proyecto asignado?",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+                "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+                "detalle": "Fechas correctas en el periodo de experiencia: La fecha Desde, debe ser un mes posterior a la última fecha Hasta, los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+                "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV documenta proyectos (grandes/críticos) resaltando habilidades en: Liderazgo Identificar problemas Proponer soluciones Manejo de herramientas y metodologías de análisis (Design Thinking, UML) Habilidades de comunicación en diferentes audiencias. Elaboración de documentación en marco de trabajo tradicional y/o ágil?",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV presenta numeralia (años, FTEs, presupuesto, metodología, resultados medibles) para contextualizar el alcance gestionado?",
+                "detalle": "años, alcance, equipo gestionado, metodología y resultados medibles.",
+                "resultado": ""
+            }
+        ],
+        "competenciaHabilidadTrabajo": [
+            {
+                "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+                "detalle": "Acreditar la competencia señalada Estudios nivel superior acreditable de nivel licenciatura o ingeniería",
+                "resultado": ""
+            }
+        ],
+        "dominioHerramientas": [
+            {
+                "concepto": "¿El candidato cuenta con certificaciones?",
+                "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El documento de la certificación cuenta con la Firma de representante o apoderado legal?",
+                "detalle": "Firmado por el representante o apoderado legal del Licitante para participar en el presente procedimiento de contratación",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar el dominio de herramientas señaladas - Certificaciones",
+                "detalle": "Adicional es deseable alguna de las siguientes certificaciones vigente: CBAP nivel experto del IIBA, CCBA nivel intermedio del IIBA, ECBA nivel inicial del IIBA",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar conocimiento comprobable en al menos uno de los siguientes temas: Product Owner, Experiencia de usuario e interfaz de usuario (UX, UI), CBAP, CCBA, ECBA?",
+                "detalle": "Conocimiento comprobable en al menos uno de los siguientes temas: Product Owner, Experiencia de usuario e interfaz de usuario (UX, UI), CBAP, CCBA, ECBA. Incluye nociones generales de autenticación: E-firma, OAuth 2.0, OWIN, SAML2, Omniguard.",
+                "resultado": ""
+            }
+        ]
+    },
+    "certificaciones": [
+        {
+            "concepto": "¿El candidato cuenta con los documentos que acrediten las certificaciones?",
+            "detalle": "Evidencias escaneadas digitalizadas. Coincidencia en nombre entre CV y documentos SAT cotejará validez con las instituciones certificadoras Copia simple, digitalizada preferentemente a color, con información clara y legible de los documentos que acrediten la(s) certificación(es) vigente(s) Certificaciones deben permanecer vigentes durante toda la vigencia del contrato",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El candidato cuenta con la certificación CBAP nivel experto del IIBA?",
+            "detalle": "Acreditar al menos 1 certificación vigente",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El candidato cuenta con la certificación CCBA nivel intermedio del IIBA?",
+            "detalle": "Acreditar al menos 1 certificación vigente",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El candidato cuenta con la certificación ECBA nivel inicial del IIBA?",
+            "detalle": "Acreditar al menos 1 certificación vigente",
+            "resultado": ""
+        },
+        {
+            "concepto": "La certificación 1 es legible y vigente",
+            "detalle": "El documento oficial de cada certificado está en el repositorio CBAP nivel experto del IIBA",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Las fechas de emisión y expiración está claramente indicadas?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre coincide exactamente con el CV y la identificación?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La certificación fue verificada en el registro oficial de la entidad emisora (cuando aplique)?",
+            "detalle": "Se hizo la consulta en la entidad oficial",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La certificación tendrá vigencia durante toda la vida del contrato (o existe plan de renovación documentado)?",
+            "detalle": "A partir de que inicie son 24 meses = 731 días naturales",
+            "resultado": ""
+        },
+        {
+            "concepto": "La certificación 2 es legible y vigente",
+            "detalle": "El documento oficial de cada certificado está en el repositorio CCBA nivel intermedio del IIBA",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Las fechas de emisión y expiración está claramente indicadas?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre coincide exactamente con el CV y la identificación?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La certificación fue verificada en el registro oficial de la entidad emisora (cuando aplique)?",
+            "detalle": "Se hizo la consulta en la entidad oficial",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La certificación tendrá vigencia durante toda la vida del contrato (o existe plan de renovación documentado)?",
+            "detalle": "A partir de que inicie son 24 meses = 731 días naturales",
+            "resultado": ""
+        },
+        {
+            "concepto": "La certificación 3 es legible y vigente",
+            "detalle": "El documento oficial de cada certificado está en el repositorio ECBA nivel inicial del IIBA",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Las fechas de emisión y expiración está claramente indicadas?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre coincide exactamente con el CV y la identificación?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La certificación fue verificada en el registro oficial de la entidad emisora (cuando aplique)?",
+            "detalle": "Se hizo la consulta en la entidad oficial",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La certificación tendrá vigencia durante toda la vida del contrato (o existe plan de renovación documentado)?",
+            "detalle": "A partir de que inicie son 24 meses = 731 días naturales",
+            "resultado": ""
+        }
+    ],
+    "cursos": [
+        {
+            "concepto": "¿Las constancias de cursos están digitalizadas, con nombre coincidente y listas para cotejo?",
+            "detalle": "Evidencias escaneadas digitalizadas. Coincidencia en nombre entre CV y documentos SAT podra cotejar validez con las instituciones que imparten los cursos IIBA® (International Institute of Business Analysis) que tiene tres niveles de certificación profesional para Analistas de Negocio (Business Analysts), desde nivel inicial hasta nivel experto y son: CBAP (Entry Certificate in Business Analysis- principiantes) CCBA (Certification of Capability in Business Analysis - intermedio) ECBA (Certified Business Analysis Professional - experto)",
+            "resultado": ""
+        },
+
+        {
+            "concepto": "¿El candidato adjunta constancia de cursos de preparación como Product Owner?",
+            "detalle": "Conocimiento comprobable en al menos uno Product Owner",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La fecha de emisión del curso está registrada?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+            "detalle": "Preferentemente a color",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La constancia está en español o incluye traducción simple?",
+            "detalle": "En caso de que no, incluir la traducción simple",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+            "detalle": "",
+            "resultado": ""
+        },
+
+        {
+            "concepto": "¿El candidato adjunta constancia de cursos de preparación en Experiencia de usuario e interfaz de usuario (UX, UI)?",
+            "detalle": "Conocimiento comprobable en al menos uno Experiencia de usuario e interfaz de usuario (UX, UI)",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La fecha de emisión del curso está registrada?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+            "detalle": "Preferentemente a color",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La constancia está en español o incluye traducción simple?",
+            "detalle": "En caso de que no, incluir la traducción simple",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+            "detalle": "",
+            "resultado": ""
+        },
+
+        {
+            "concepto": "¿El candidato adjunta constancia de cursos de preparación como Analista de Negocio Principiantes?",
+            "detalle": "Conocimiento comprobable en al menos uno CBAP",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La fecha de emisión del curso está registrada?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+            "detalle": "Preferentemente a color",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La constancia está en español o incluye traducción simple?",
+            "detalle": "En caso de que no, incluir la traducción simple",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+            "detalle": "",
+            "resultado": ""
+        },
+
+        {
+            "concepto": "¿El candidato adjunta constancia de cursos de preparación como Analista de Negocio Intermedio?",
+            "detalle": "Conocimiento comprobable en al menos uno CCBA ECBA",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La fecha de emisión del curso está registrada?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+            "detalle": "Preferentemente a color",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La constancia está en español o incluye traducción simple?",
+            "detalle": "En caso de que no, incluir la traducción simple",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+            "detalle": "",
+            "resultado": ""
+        },
+
+        {
+            "concepto": "¿El candidato adjunta constancia de cursos de preparación como Analista de Negocio Experto?",
+            "detalle": "Conocimiento comprobable en al menos uno ECBA",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La fecha de emisión del curso está registrada?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+            "detalle": "Preferentemente a color",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La constancia está en español o incluye traducción simple?",
+            "detalle": "En caso de que no, incluir la traducción simple",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+            "detalle": "",
+            "resultado": ""
+        },
+
+        {
+            "concepto": "¿El candidato adjunta constancia del curso XXXXXX?",
+            "detalle": "Incluir en caso de que sumen puntos el nombre de otro curso relacionado con el rol",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La fecha de emisión del curso está registrada?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+            "detalle": "Preferentemente a color",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿La constancia está en español o incluye traducción simple?",
+            "detalle": "En caso de que no, incluir la traducción simple",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+            "detalle": "",
+            "resultado": ""
+        }
+    ],
+    "dominioHerramientas": [
+        {
+            "concepto": "¿El CV evidencia uso de herramientas para el levantamiento y documentación de requerimientos complejos (p. ej., plantillas DRN/DRF, historias de usuario, épicas, casos de uso)?",
+            "detalle": "Se menciona que ha utilizado DRN/DRF (Documento de Requerimientos de Negocio/Documentos de Requerimientos Funcionales), Historia de Usuario, épicas, documentos firmados o versiones.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Ha empleado técnicas y herramientas de modelado funcional (UML: casos de uso, actividades, secuencia; BPMN cuando aplica)?",
+            "detalle": "Se menciona que ha utilizado Diagramas UML/BPMN utilizados en proyectos reales.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Aplica herramientas de Design Thinking / discovery (mapas de empatía, customer journey, story mapping) para análisis y definición de soluciones?",
+            "detalle": "Artefactos de discovery y resultados obtenidos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas para la gestión y trazabilidad de requerimientos (requisito → diseño → desarrollo → pruebas → liberación)?",
+            "detalle": "Matriz de trazabilidad, vínculos en Jira/ALM/Azure DevOps.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Gestiona cambios de alcance mediante control de versiones, historial y aprobación formal (baseline de requerimientos)?",
+            "detalle": "Control de Versiones, actas de cambio, tickets de cambio.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Usa herramientas colaborativas para coordinar trabajo con desarrolladores, testers y negocio (Jira, Azure DevOps, Confluence, SharePoint)?",
+            "detalle": "Tableros, minutas, repositorios colaborativos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas de facilitación de sesiones (workshops, refinamientos, grooming, UAT) con evidencias documentadas?",
+            "detalle": "Minutas, listas de acuerdos, asistentes, materiales.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Participa en la definición de criterios de aceptación y apoyo a QA/UAT utilizando herramientas de gestión de pruebas o tickets?",
+            "detalle": "Criterios en historias, matrices de pruebas, UAT documentado.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Da seguimiento a incidencias funcionales y defectos mediante herramientas de gestión (ALM, Jira, Azure DevOps, Service Desk)?",
+            "detalle": "Tickets, estados, revalidaciones.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza plantillas institucionales para documentación funcional y reportes ejecutivos (estatus, avances, riesgos)?",
+            "detalle": "Reportes ejecutivos, documentos oficiales.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Administra documentación funcional con control de versiones en repositorios institucionales (SharePoint, Confluence, OneDrive)?",
+            "detalle": "Historial de versiones, nomenclatura, permisos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas de planeación/seguimiento (PPM, MS Project, Jira, Azure Boards) para apoyar la dirección del proyecto desde el análisis?",
+            "detalle": "Cronogramas, backlog, dependencias, hitos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Monitorea avances mediante tableros e indicadores (backlog, avance funcional, riesgos, deuda funcional)?",
+            "detalle": "Dashboards, KPIs funcionales.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas para coordinar y supervisar el trabajo de Analistas junior (asignación, revisión y validación de entregables)?",
+            "detalle": "Plan de trabajo del equipo, revisiones, mentoring.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV evidencia herramientas y prácticas donde aplicó conocimientos de sus certificaciones (ECBA/CCBA/CBAP, PMI-PBA, etc.)?",
+            "detalle": "Casos qué / cómo / resultado asociados a certificaciones.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV muestra aplicación práctica de cursos o capacitaciones (análisis, ágiles, herramientas, dominio funcional)?",
+            "detalle": "Casos concretos donde el curso fue aplicado en proyecto.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        }
+    ]
+}

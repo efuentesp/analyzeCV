@@ -1,0 +1,116 @@
+Ana Patricia Pérez Morales
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 3 años de experiencia en centros de desarrollo de software, domino tecnologías de la Arquitectura de Referencia y tecnologías de código abierto. Genero código necesario y doy mantenimiento correctivo y evolutivo para cumplir la especificación técnica, siguiendo los procesos y estándares acordados y respetando la arquitectura y los frameworks definidos.
+
+Tengo 10 años de experiencia en desarrollo web (JEE) y 8 años como ingeniero de soporte, aportando continuidad de servicio y resolución de incidentes en entornos productivos. Trabajo en desarrollo backend y frontend, pruebas automatizadas y soporte de aplicaciones, colaborando con equipos técnicos para asegurar la disponibilidad y cumplimiento de plazos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Ingeniero de Soporte | Desde:
+29 febrero 2016 | Hasta: 
+A la fecha
+Actividades Principales | • Mantengo y brindo soporte a los aplicativos dominando varios lenguajes de programación. Poseo habilidades en resolución de problemas, versionamiento de código (Git (Control de versiones distribuido)) y en el desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño, codifico y pruebo unitariamente componentes a partir de las especificaciones técnicas.
+• Utilizo e implemento adecuadamente el framework, subsistemas de soporte y componentes reutilizables definidos por la arquitectura, incluyendo aspectos de seguridad de la información.
+• Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recopilando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización, incluidos acuerdos de negocio, políticas, horarios, registro de horas y estándares.
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y resolución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos y liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• He obtenido la certificación ISO/IEC 27001:2022 Foundation, que me ha permitido comprender los fundamentos de la gestión de la seguridad de la información.
+• He obtenido la certificación ISO/IEC 27001:2022 Lead Implementer, que me ha permitido implementar y gestionar sistemas de seguridad de la información conforme al estándar ISO 27001.
+• He usado la certificación AWS Lambda and the Serverless Framework – Hands On Learning para aprovechar la plataforma de servicios en la nube de AWS (Plataforma de servicios en la nube).
+• He usado la certificación Bash Scripting and Shell Programming (Linux/Unix (Sistemas operativos para administración y automatización) Command Line) que me ha permitido trabajar con sistemas operativos para administración y automatización.
+• He aplicado la certificación Linux for Beginners parao trabajar con sistemas operativos para administración y automatización.
+• He usado la certificación Scaling Docker on AWS para aplicar técnicas de contenerización de aplicaciones con Docker (Contenerización de aplicaciones) y plataformas cloud como AWS (Plataforma de servicios en la nube).
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Detecto incidentes y registro tickets en la herramienta DASH.
+• Clasifico y doy soporte inicial sobre el problema que enfrenta el usuario.
+• Investigo y diagnostico el problema registrado en el ticket.
+• Resuelvo el problema y recupero el sistema a la normalidad.
+• Soy propietario del incidente; hago monitoreo, seguimiento y facilito la comunicación.
+• Aprovecho la gestión del conocimiento para uso futuro.
+• Realizo actividades asociadas a la gestión de incidencias.
+• Brindo soporte de aplicaciones.
+• Realizo cambios de Interfaz Gráfica de Usuario (GUI) usando Angular (Framework frontend para aplicaciones SPA), jQuery (Librería para manipulación del DOM) y JavaScript.
+• Desarrollo requerimientos de usuarios.
+• Desarrollo aplicaciones Java (Lenguaje de programación para desarrollo y soporte técnico) bajo el framework Spring MVC.
+• Realizo pruebas frontend usando Protractor y Selenium (Framework de automatización web).
+• Gestiono solicitudes de cambio de usuario.
+• Trabajo bajo metodología AGILE utilizando el framework SCRUM.
+• Desarrollo backend con Spring MVC.
+• Desarrollo frontend con Angular (Framework frontend para aplicaciones SPA).
+Empresa
+Softtek | Puesto
+Ingeniero de Software | Desde:
+2 junio 2015 | Hasta: 
+22 febrero 2016
+Actividades Principales | • Realizo cambios de Interfaz Gráfica de Usuario (GUI) usando Angular (Framework frontend para aplicaciones SPA), jQuery (Librería para manipulación del DOM) y JavaScript.
+• Desarrollo requerimientos de usuarios.
+• Desarrollo aplicaciones Java (Lenguaje de programación para desarrollo y soporte técnico) bajo el framework Spring MVC.
+• Realizo pruebas frontend usando Protractor y Selenium (Framework de automatización web).
+• Gestiono solicitudes de cambio de usuario.
+• Trabajo bajo metodología AGILE utilizando el framework SCRUM.
+• Desarrollo backend con Spring MVC.
+• Desarrollo frontend con Angular (Framework frontend para aplicaciones SPA).
+HERRAMIENTAS CONOCIDAS
+- Java
+- Spring Framework
+- JEE
+- JPA
+- AngularJS
+- JavaScript
+- jQuery
+- Protractor
+- Selenium
+- Git
+- RESTful
+- SOAP
+- Oracle Database
+- AWS
+- Unix/Linux
+- Shell script
+- JDBC
+- SQL
+- Postman
+- WebLogic
+- GWT
+- Backbone
+- MyBatis
+- SVN
+- DASH (Incident Management)
+- ITIL
+- SQL Developer
+- Docker
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 julio de 2005 hasta 31 marzo de 2015
+Durante este período asumí responsabilidades centradas en desarrollo y operación de aplicaciones, desempeñándome como Programador/Analista y Analista de Sistemas. Me encargué del análisis y programación de requerimientos, administración y operación de aplicaciones web, implementación de WebServices y mantenimiento de sistemas en producción. Trabajé con bases de datos empresariales y servidores de aplicaciones, aportando continuidad operativa y soporte técnico orientado a la disponibilidad y mejora de aplicaciones.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Computación - 2000 - 2005 | Universidad Nacional Autónoma de México (UNAM), CDMX | Cédula Profesional
+09289470
+8/7/2015
+CERTIFICACIONES
+- ISO/IEC 27001:2022 Foundation 2025 | 2025
+- ISO/IEC 27001:2022 Lead Implementer 2026-2029 | 2026-2029
+CURSOS
+- AWS Lambda and the Serverless Framework – Hands On Learning
+- Bash Scripting and Shell Programming (Linux Command Line)
+- Linux for Beginners
+- Scaling Docker on AWS
+______________________________________
+Ana Patricia Pérez Morales
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

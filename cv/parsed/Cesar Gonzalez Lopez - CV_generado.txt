@@ -1,0 +1,111 @@
+Cesar Gonzalez Lopez
+Lider Técnico de atención de incidentes
+FUNCIONES
+Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos, evaluando la situación, tomando decisiones críticas y asegurando una comunicación efectiva para la resolución de incidentes. Cuento con habilidades en toma de decisiones y liderazgo.
+He participado en el diseño de arquitectura de nuevas aplicaciones, la gestión de proyectos de desarrollo y soporte L2/L3, el análisis de requerimientos y la preparación de propuestas y estimaciones. También he respaldado la solución de incidentes y el crecimiento técnico de equipos de desarrollo.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 5 años de experiencia en desarrollo de software, liderazgo técnico y atención y resolución de problemas. Poseo dominio de tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source. Adicionalmente, tengo 3 años de experiencia trabajando bajo metodologías ágiles.
+
+He participado en el diseño de arquitectura de nuevas aplicaciones, la administración de proyectos de desarrollo y soporte L2/L3, el análisis de requerimientos y la elaboración de propuestas y estimaciones. También he apoyado la solución de incidentes y el crecimiento técnico de equipos de desarrollo.
+
+Mi experiencia incluye implementaciones globales, desarrollos frontend, optimización de procesos en bases de datos y construcción de soluciones para líneas de producción, sistemas de accionistas, procesos financieros y operación interna. Mantengo enfoque en la continuidad operativa, la coordinación técnica y la atención oportuna de fallas en aplicativos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek Monterrey - Digital Office | Puesto | Desde:
+1 febrero 2016 | Hasta: 
+12 abril 2026
+Actividades Principales | • Dirijo y coordino equipos de trabajo para restaurar un servicio ante fallas que se presentan en la operación de los aplicativos. Evalúo la situación, tomo decisiones críticas y aseguro una comunicación efectiva para resolver el incidente. Tengo habilidades en toma de decisiones y liderazgo. Como líder técnico de atención de incidentes, planifico, controlo y doy seguimiento a la fase de resolución y estabilización, asegurando la correcta implementación de soluciones alineadas a la arquitectura de software, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación utilizando y/o adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de incidentes complejos para garantizar la continuidad operativa.
+• Comprendo la propuesta de negocio y las necesidades del cliente, aplicándolas en la atención y resolución de incidentes en entornos productivos, especialmente en servicios y plataformas críticas.
+• Defino planes de trabajo detallados para la atención de incidentes, priorizando actividades conforme a su severidad (P1-P4) y asegurando el cumplimiento de SLA/OLA.
+• Estimo y asigno tareas técnicas necesarias para la resolución de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.
+• Colaboro con el arquitecto en la definición de soluciones técnicas durante incidentes, asegurando alineación con la arquitectura y estándares establecidos.
+• Aseguro la aplicación de estándares de codificación y bases de datos durante la implementación de soluciones correctivas.
+• Asesoro y coordino a ingenieros de software en la atención de incidentes, especialmente en escenarios críticos o de alta complejidad.
+• Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atención de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeño.
+• Administro la configuración de los componentes involucrados en la solución de incidentes, asegurando control y trazabilidad de cambios.
+• Desarrollo y/o coordino implementaciones de solución (fixes, hotfixes) para restaurar servicios afectados.
+• Aseguro la aplicación de checklists en la validación de soluciones antes de su liberación a producción.
+• Coordino la integración de componentes técnicos dentro de la arquitectura para garantizar una recuperación estable del servicio.
+• Defino prioridades en cada iteración de atención de incidentes, enfocándome en minimizar el impacto al negocio.
+• Promuevo la aplicación de patrones de diseño en las soluciones implementadas para evitar recurrencias.
+• Participo en la definición de esquemas de integración entre aplicaciones durante la resolución de incidentes.
+• Coordino la atención de incidentes críticos (Major Incidents), liderando convocatorias, toma de decisiones técnicas y comunicación durante la contingencia.
+• Identifico la causa raíz de incidentes y lidero análisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.
+• Trabajo en entornos de operación continua, asegurando la estabilidad y continuidad del servicio después de la resolución de incidentes.
+• Actúo como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.
+• Genero resultados medibles en la mejora de la operación, reduciendo tiempos de atención, reincidencias e impacto al negocio.
+• Mantengo una trayectoria continua en roles de atención y gestión de incidentes, consolidando experiencia en entornos productivos.
+• He participado en proyectos de más de 20 mil horas, donde lidero la atención de incidentes y defino soluciones para requerimientos no funcionales, asegurando la estabilidad y el adecuado desempeño de los sistemas en producción. Además, planifico y coordino equipos de más de 15 ingenieros de software durante la resolución de incidentes, garantizando una ejecución eficiente y oportuna de las actividades.
+• He usado el curso Python Essentials 1 para diseñar, desarrollar y depurar programas básicos en Python, aplicando fundamentos del lenguaje y lógica de programación
+• He usado el curso de Liderazgo Orientado a los Equipos para fortalecer habilidades de liderazgo, colaboración y gestión efectiva de equipos de trabajo
+• He usado la certificación Microsoft Certified: Azure Fundamentals para aplicar conceptos fundamentales de computación en la nube, servicios de Azure, seguridad y modelos de costos
+• He usado la certificación Scrum Fundamentals Certified para aplicar los principios básicos del marco de trabajo Scrum en entornos ágiles
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.
+• STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.
+• STE: Ejecuto escenarios de prueba.
+• INT: Diseño y preparo testware.
+• Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de pruebas del usuario.
+• Diseñé la arquitectura de nuevas aplicaciones, administré proyectos de desarrollo y soporte L2/L3, analicé requerimientos, realicé propuestas y estimaciones de nuevos desarrollos, apoyé la solución de incidentes, impulsé el crecimiento técnico del equipo de desarrolladores e implementé aplicaciones a nivel global.
+• Apoyé con desarrollos frontend y optimización de procesos en base de datos.
+• Desarrollé aplicaciones para mejorar procesos en líneas de producción y sistema de accionistas.
+Empresa
+Softtek Monterrey - HEB | Puesto | Desde:
+2 mayo 2015 | Hasta: 
+31 enero 2016
+Actividades Principales | • Apoyé con desarrollos frontend y optimización de procesos en base de datos.
+Empresa
+Deintec Monterrey NL | Puesto
+Software Engineer - Senior | Desde:
+2 junio 2014 | Hasta: 
+30 abril 2015
+Actividades Principales | • Desarrollé aplicaciones para mejorar procesos en líneas de producción y sistema de accionistas.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Microsoft Certified: Azure Fundamentals
+- Scrum Fundamentals Certified (SFC™) - SCRUMstudy
+- Python Essentials 1 (Cisco Networking Academy / Python Institute)
+- Constancia - Certificación Liderazgo Orientado a los Equipos (Softtek)
+- .NET Framework 4 (and up)
+- Microsoft SQL Management Studio (SSMS)
+- .NET Core Framework
+- Oracle PL-SQL
+- .NET Framework 3.5 (and above)
+- Javascript
+- Angular 2+
+- ITIL
+- CMMi
+- Scrum
+- ASP.NET MVC Framework
+- Microsoft SQL Server
+- Bootstrap
+- Windows Presentation Foundation (WPF)
+- Entity Framework
+- MS Visual Basic.NET (VB.NET)
+- JQuery
+- MS Visual Basic 6
+- Crystal Reports
+- Mobility Services
+- IBM Informix 4GL
+- MS Azure Server
+- ASP.NET
+- Ajax
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 febrero de 2010 hasta 31 mayo de 2014
+Durante este período me desempeñé en funciones como Software Engineer - Senior, Software Engineer y Software Engineer - Junior, participando en el desarrollo de software para procesos financieros, operación interna, gobierno, sector privado, una empresa siderúrgica y soluciones para puntos de venta. También atendí mantenimiento y construcción de aplicaciones web y de escritorio, con enfoque en apoyar la operación del negocio y dar continuidad a procesos internos mediante soluciones de software.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Computer Science - 1 julio 1997 a 30 junio 2001 | Instituto Tecnologico de Puebla | Cédula Profesional
+4893710
+05/09/2006
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Microsoft Certified: Azure Fundamentals | 2022
+- Scrum Fundamentals Certified (SFC™) - SCRUMstudy | 2024
+CURSOS
+- Python Essentials 1 (Cisco Networking Academy / Python Institute)
+- Constancia - Certificación Liderazgo Orientado a los Equipos (Softtek)
+______________________________________
+Cesar Gonzalez Lopez
+Lider Técnico de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

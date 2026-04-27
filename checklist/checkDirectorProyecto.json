@@ -1,0 +1,120 @@
+
+{
+  "capacidadRecursosHumanos": {
+    "experiencia": [
+      {
+        "concepto": "¿El CV acredita funciones de coordinación (gerentes, PMO, líderes, especialistas) y revisión mensual de servicios (en sitio o bajo demanda)?",
+        "detalle": "Coordinar actividades de gerentes, PMO's, lideres, especialistas tecnicos y administrativos que conformen el proyecto y revision mensual de los servicios; en sitio o bajo demanda. En proyectos similares al objeto de la licitacion",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia haber realizado revisiones mensuales de los servicios a su cargo?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV muestra casos donde planificó, controló y supervisó proyectos críticos?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV demuestra experiencia en identificación, evaluación y tratamiento de riesgos del proyecto?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia comunicación efectiva con stakeholders de alto nivel (comités, directivos, áreas de negocio)?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Las funciones clave del rol están demostradas con experiencias previas específicas?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV presenta evidencias de liderazgo (tamaño de equipo, seniority, complejidad organizacional)?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La experiencia suma ≥5 años en dirección de proyectos similares al objeto del SDMA7?",
+        "detalle": "Al menos 5 anos de experiencia en direccion de proyectos similares al objeto de la presente licitacion.",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+        "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+        "detalle": "Fechas correctas en el periodo de experiencia: La fecha 'Desde' debe ser un mes posterior a la ultima fecha 'Hasta', los meses deben ir escritos sin abreviacion e iniciando con mayuscula",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+        "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+        "resultado": ""
+      }
+    ],
+    "competencia": [
+      {
+        "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+        "detalle": "Acreditar la competencia senalada. Estudios nivel superior acreditable en las areas de: Computacion e Informatica, Administracion, Informatica Administrativa, Matematicas-Actuaria, Fisica, Contaduria, Sistemas y Calidad. Pedir evidencia legible (titulo/cedula; apostilla si extranjero).",
+        "resultado": ""
+      }
+    ],
+    "dominioDeHerramientas": [
+      {
+        "concepto": "¿El candidato cuenta con certificaciones requeridas?",
+        "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar el dominio de herramientas senaladas - Certificaciones",
+        "detalle": "ITIL v4 Foundation. Adicional al menos 1 certificacion vigente de las siguientes: PMP, SAFE for Goverment, SCRUM Master, ITIL v4.0, Leading SAFE",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar el dominio de herramientas senaladas - Cursos",
+        "detalle": "Acreditar curso en gestion de servicios en tecnologias de la informacion (ITIL V4 Foundation).",
+        "resultado": ""
+      }
+    ]
+  },
+  "certificaciones": [
+    {
+      "concepto": "¿El candidato cuenta con la certificación ITIL v4 Foundation vigente (certificación obligatoria)?",
+      "detalle": "Obligatoria para el rol",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato acredita curso ITIL v4 Foundation (si la certificación aun no esta disponible)?",
+      "detalle": "Puede apoyar al perfil de que domina el marco de trabajo",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato posee alguna otra certificación ITIL v4 (ademas de Foundation) vigente como adicional (si es la seleccionada)?",
+      "detalle": "",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato posee PMP vigente como certificación adicional (si es la seleccionada)?",
+      "detalle": "Al menos una certificación adicional",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato posee Scrum Master vigente como certificación adicional (si es la seleccionada)?",
+      "detalle": "Al menos una certificación adicional",
+      "resultado": ""
+    }
+  ],
+  "cursos": [
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (basico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    }
+  ]
+}

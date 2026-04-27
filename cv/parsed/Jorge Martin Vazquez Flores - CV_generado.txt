@@ -1,0 +1,121 @@
+Jorge Martin Vazquez Flores
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+Trabajo en equipos ágiles, entregando funcionalidades por sprint y atendiendo defectos con ALM; mantengo comunicación cercana con QA y clientes para aplicar buenas prácticas, automatizar pruebas y adaptarme a nuevas tecnologías.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 2 años de experiencia en programación con tecnologías de la Arquitectura de Referencia (AR) y tecnologías de código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación de sistemas y su puesta en funcionamiento mediante el uso de lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y tiempos establecidos dentro del plan de trabajo.
+
+He participado en proyectos FullStack para instituciones financieras donde he liderado parte del ciclo de vida del software: análisis de requerimientos, diseño, codificación, pruebas y despliegue en producción. Manejo herramientas de control de versiones y plataformas de gestión de incidencias; priorizo la mejora continua del código, la documentación y los repositorios para mantener la continuidad y calidad del servicio.
+
+Trabajo bajo metodologías ágiles en equipos de trabajo, entregando funcionalidades por sprint y atendiendo defectos mediante Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos). Aplico buenas prácticas, busco automatizar pruebas y mantengo comunicación efectiva con clientes y Aseguramiento de la Calidad (QA), lo que me ha permitido consolidar habilidades técnicas y adaptarme rápidamente a nuevas tecnologías.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Software Engineer | Desde:
+30 septiembre de 2024 | Hasta: 
+Actual
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que sean funcionales, todo ello mediante lenguajes de programación. Habilidades en; Conceptos de programación, Trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso Curso completo de SQL para crear, consultar y gestionar bases de datos relacionales mediante comandos SQL aplicados a escenarios reales.
+• He puesto en práctica el curso Docker for the Absolute Beginner para contenerizar aplicaciones y aplicar conceptos básicos de DevOps utilizando Docker.
+• He aplicado el curso OpenShift 4 desde cero para desplegar y gestionar aplicaciones en plataformas de contenedores basadas en Kubernetes.
+• He puesto en práctica el curso PostgreSQL de Cero a Avanzado para administrar bases de datos PostgreSQL utilizando pgAdmin4 y herramientas de línea de comandos.
+• He aplicado el curso Spring Framework Master Class para desarrollar aplicaciones backend modernas en Java utilizando el framework Spring.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Participé en el proyecto PEMEX S740 de CITI mediante el cual he continuado desarrollándome como Ingeniero de Software.
+• Gracias a esta oportunidad he continuado expandiendo mi conocimiento respecto a múltiples tecnologías, tanto más modernas como clásicas.
+• He liderado del proceso de ciclo de vida de Software al guíar y acompañar a mis compañeros a través del análisis de las necesidades del cliente, así como el diseño e identificación de requisitos, para así presentarle al cliente una propuesta como documento de diseño de Software para así llevar a cabo el proceso de codificación y testeo, este proceso finalizó exitosamente con el despliegue de los cambios en producción.
+• De igual manera generé experiencia en la plataforma de generación de tickets ServiceNow (ITSM para incidencias, cambios y problemas) y similares.
+• Finalmente, dediqué tiempo para priorizar tanto el mantenimiento como la mejora continua del código, documentación y repositorios.
+• Participé en el proyecto PEMEX S740 de CITI mediante el cual he continuado desarrollándome como Ingeniero de Software.
+• Usé (Framework frontend para aplicaciones SPA) y Thymeleaf para el Frontend y Java (Lenguaje de programación para desarrollo de aplicaciones) en conjunto con Spring para el Backend.
+• Desarrollé FullStack (Frontend y Backend).
+• Cursos corporativos que me permitieron promover la seguridad, ética, profesionalismo y el saber qué hacer en ciertas emergencias.
+• Hice uso del Inglés al emplear herramientas, tecnicismos e investigar documentación de las tecnologías empleadas.
+• Atendí y resolví defectos mediante el uso de Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos), es decir, recibimiento de la retroalimentación del equipo de Aseguramiento de la Calidad (QA) para llevar a cabo las correcciones indicadas para tener un producto perfeccionado en relación a lo solicitado en la HU.
+• Desarrollé exitosamente entregables en cada Sprint usando Angular (Framework frontend para aplicaciones SPA), Java (Lenguaje de programación para desarrollo de aplicaciones), Bitbucket (Repositorio de código y colaboración), Confluence (Documentación colaborativa y base de conocimiento), Jira (Herramienta de gestión ágil y seguimiento de issues/sprints). Esta oportunidad me permitió trabajar con diferentes equipos dentro del proyecto en donde me pude desarrollar tanto para el trabajo en equipo y desarrollo de HUs en conjunto, así como el desarrollo de HUs de manera individual.
+Empresa
+Softtek | Puesto
+Software Engineer | Desde:
+01 enero de 2024 | Hasta: 
+27 septiembre de 2024
+Actividades Principales | • Participé en el proyecto PEMEX S740 de CITI mediante el cual he continuado desarrollándome como Ingeniero de Software.
+• Usé (Framework frontend para aplicaciones SPA) y Thymeleaf para el Frontend y Java (Lenguaje de programación para desarrollo de aplicaciones) en conjunto con Spring para el Backend.
+• Desarrollé FullStack (Frontend y Backend).
+• Cursos corporativos que me permitieron promover la seguridad, ética, profesionalismo y el saber qué hacer en ciertas emergencias.
+• Hice uso del Inglés al emplear herramientas, tecnicismos e investigar documentación de las tecnologías empleadas.
+• Atendí y resolví defectos mediante el uso de Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos), es decir, recibimiento de la retroalimentación del equipo de Aseguramiento de la Calidad (QA) para llevar a cabo las correcciones indicadas para tener un producto perfeccionado en relación a lo solicitado en la HU.
+• Desarrollé exitosamente entregables en cada Sprint usando Angular (Framework frontend para aplicaciones SPA), Java (Lenguaje de programación para desarrollo de aplicaciones), Bitbucket (Repositorio de código y colaboración), Confluence (Documentación colaborativa y base de conocimiento), Jira (Herramienta de gestión ágil y seguimiento de issues/sprints). Esta oportunidad me permitió trabajar con diferentes equipos dentro del proyecto en donde me pude desarrollar tanto para el trabajo en equipo y desarrollo de HUs en conjunto, así como el desarrollo de HUs de manera individual.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- Docker for the Absolute Beginner – Hands On – DevOps
+- OpenShift 4 desde cero
+- PostgreSQL de Cero a Avanzado (pgAdmin4 y Shell)
+- Spring Framework Master Class – Java Spring the Modern Way
+- WebLogic Server
+- Tuxedo
+- Java
+- JSP
+- SonarQube
+- C++
+- Oracle Console
+- Tectia
+- Jira
+- Agile
+- BitBucket
+- Git
+- ServiceNow
+- Oracle SQL Developer
+- Angular
+- Spring Framework
+- Spring Boot
+- TypeScript
+- HTML
+- CSS
+- Bootstrap
+- Thymeleaf
+- Jaspersoft
+- JPA
+- TISAP
+- SQL Server
+- JDK
+- Draw.io
+- JavaScript
+- MySQL
+- MariaDB
+- MongoDB
+- Python
+- C#
+- C
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 27 noviembre de 2023 hasta 01 enero de 2024
+Durante este período asumí responsabilidades centradas en aprendizaje y apoyo al desarrollo de software, desempeñándome como Software Engineer Trainee. Realicé actividades de formación técnica y práctica en programación, participación en sesiones de academia y tareas de apoyo a proyectos, complementando conocimientos en Java (Lenguaje de programación para desarrollo de aplicaciones), Spring y herramientas de versionamiento. Participé en actividades de control de calidad incipientes y seguí procesos de inducción y mejora continua para consolidar competencias profesionales.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciatura en Ingeniería de Software - AGOSTO 2019 A JULIO 2024 | UNIVERSIDAD AUTÓNOMA DE YUCATÁN - FACULTAD DE MATEMÁTICAS | Cédula Profesional
+15164466
+19/09/2025
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- Docker for the Absolute Beginner – Hands On – DevOps
+- OpenShift 4 desde cero
+- PostgreSQL de Cero a Avanzado (pgAdmin4 y Shell)
+- Spring Framework Master Class – Java Spring the Modern Way
+______________________________________
+Jorge Martin Vazquez Flores
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

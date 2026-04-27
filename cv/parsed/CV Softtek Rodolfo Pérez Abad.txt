@@ -1,0 +1,575 @@
+Rodolfo Pérez Abad
+PERFIL:
+Profesional en Sistemas Computacionales, con enfoque asertivo e integral, con capacidad de entender las estrategias de negocio y colaborar con ellas mediante soluciones tecnológicas. Con más de diez años de experiencia en sector público y privado.
+
+ multidisciplinarios, desempeñando diferentes roles como; Arquitecto Empresarial, Arquitecto de Soluciones, Arquitecto SOA, Líder de desarrollo, Scrum Master, Project Manager, Delivery Manger.
+
+Implementación de TOGAF para el SAT, implementando el ADM, TRM, Content Management
+
+Diseño e Implementación de Modelo de Referencia Técnico de TOGAF, combinando FEAF y MAGTIC, para la elaboración del catálogo de servicios.
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa:
+Softtek | Nombre de la empresa:
+Softtek | Lugar:
+Insurgentes Sur | Puesto:
+Arquitecto Empresarial | Desde: 
+Diciembre 2019 | A: 
+La Fecha
+Funciones:
+
+Proyecto de implementación de practica de AE para Walmart México
+Entrevistas con los dueños de los procesos de negocio y aplicaciones para la recopilación de información
+Generación de modelos para la arquitectura de aplicaciones
+Apoyo en la generación de modelos para la arquitectura de negocio
+Homologación de modelos en las diferentes capas de arquitectura empresarial
+Diseño e implementación de un ckecklist de calidad de los modelos generados
+Logros:
+Implementación de las bases de la práctica de Arquitectura Empresarial para Walmart México con enfoque TOGAF | Funciones:
+
+Proyecto de implementación de practica de AE para Walmart México
+Entrevistas con los dueños de los procesos de negocio y aplicaciones para la recopilación de información
+Generación de modelos para la arquitectura de aplicaciones
+Apoyo en la generación de modelos para la arquitectura de negocio
+Homologación de modelos en las diferentes capas de arquitectura empresarial
+Diseño e implementación de un ckecklist de calidad de los modelos generados
+Logros:
+Implementación de las bases de la práctica de Arquitectura Empresarial para Walmart México con enfoque TOGAF | Funciones:
+
+Proyecto de implementación de practica de AE para Walmart México
+Entrevistas con los dueños de los procesos de negocio y aplicaciones para la recopilación de información
+Generación de modelos para la arquitectura de aplicaciones
+Apoyo en la generación de modelos para la arquitectura de negocio
+Homologación de modelos en las diferentes capas de arquitectura empresarial
+Diseño e implementación de un ckecklist de calidad de los modelos generados
+Logros:
+Implementación de las bases de la práctica de Arquitectura Empresarial para Walmart México con enfoque TOGAF | Funciones:
+
+Proyecto de implementación de practica de AE para Walmart México
+Entrevistas con los dueños de los procesos de negocio y aplicaciones para la recopilación de información
+Generación de modelos para la arquitectura de aplicaciones
+Apoyo en la generación de modelos para la arquitectura de negocio
+Homologación de modelos en las diferentes capas de arquitectura empresarial
+Diseño e implementación de un ckecklist de calidad de los modelos generados
+Logros:
+Implementación de las bases de la práctica de Arquitectura Empresarial para Walmart México con enfoque TOGAF | Funciones:
+
+Proyecto de implementación de practica de AE para Walmart México
+Entrevistas con los dueños de los procesos de negocio y aplicaciones para la recopilación de información
+Generación de modelos para la arquitectura de aplicaciones
+Apoyo en la generación de modelos para la arquitectura de negocio
+Homologación de modelos en las diferentes capas de arquitectura empresarial
+Diseño e implementación de un ckecklist de calidad de los modelos generados
+Logros:
+Implementación de las bases de la práctica de Arquitectura Empresarial para Walmart México con enfoque TOGAF | Funciones:
+
+Proyecto de implementación de practica de AE para Walmart México
+Entrevistas con los dueños de los procesos de negocio y aplicaciones para la recopilación de información
+Generación de modelos para la arquitectura de aplicaciones
+Apoyo en la generación de modelos para la arquitectura de negocio
+Homologación de modelos en las diferentes capas de arquitectura empresarial
+Diseño e implementación de un ckecklist de calidad de los modelos generados
+Logros:
+Implementación de las bases de la práctica de Arquitectura Empresarial para Walmart México con enfoque TOGAF
+Herramientas: | Google Ad-words, Visio, Draw.io, Archi, Project, suite office, System Architect, Streak, Jira, SAP Business One, Zoho, Activiti BPM | Google Ad-words, Visio, Draw.io, Archi, Project, suite office, System Architect, Streak, Jira, SAP Business One, Zoho, Activiti BPM | Google Ad-words, Visio, Draw.io, Archi, Project, suite office, System Architect, Streak, Jira, SAP Business One, Zoho, Activiti BPM | Google Ad-words, Visio, Draw.io, Archi, Project, suite office, System Architect, Streak, Jira, SAP Business One, Zoho, Activiti BPM | Google Ad-words, Visio, Draw.io, Archi, Project, suite office, System Architect, Streak, Jira, SAP Business One, Zoho, Activiti BPM
+Nombre de la empresa:
+Seguridata Privada S.A de C.V | Nombre de la empresa:
+Seguridata Privada S.A de C.V | Lugar:
+Insurgentes Sur | Puesto:
+ Pre-Sales Software Architect | Desde: 
+Enero 2017 | A: 
+Diciembre 2019
+Funciones:
+
+Diseño de soluciones tecnológicas con base en la PKI (Public Key Infraestructure) de la empresa
+Diseño de soluciones, integrando la PKI de la empresa a diferentes sistemas o plataformas de Firma Electrónica Avanzada
+Establecimiento de procesos de trabajo de arquitectura con base en las mejores prácticas (TOGAF, Itil, COBIT, PMbok, ISO 20000)
+Seguimiento a la implementación de la PKI, con equipo de desarrollo, pruebas y operaciones
+Visitas a clientes para levantamiento de requerimientos y diseño de la solución
+Logros:
+Diseño de la Arquitectura de referencia de la solución PKI de la empresa
+Diseño de Solución de validación de credencial para votar ante INE
+Integración de la PKI de la empresa con Sistema de Onboarding Digital de SUMA México
+Diseño y seguimiento de implementación de App Móvil que entrega Fotografías con valor probatorio
+Entrega de proyecto Expediente Electrónico, utilizando la PKI de la empresa y BlockChain, ante COCACYT
+Generación de alianzas estratégicas para la empresa, con empresas internacionales como Segucom | Funciones:
+
+Diseño de soluciones tecnológicas con base en la PKI (Public Key Infraestructure) de la empresa
+Diseño de soluciones, integrando la PKI de la empresa a diferentes sistemas o plataformas de Firma Electrónica Avanzada
+Establecimiento de procesos de trabajo de arquitectura con base en las mejores prácticas (TOGAF, Itil, COBIT, PMbok, ISO 20000)
+Seguimiento a la implementación de la PKI, con equipo de desarrollo, pruebas y operaciones
+Visitas a clientes para levantamiento de requerimientos y diseño de la solución
+Logros:
+Diseño de la Arquitectura de referencia de la solución PKI de la empresa
+Diseño de Solución de validación de credencial para votar ante INE
+Integración de la PKI de la empresa con Sistema de Onboarding Digital de SUMA México
+Diseño y seguimiento de implementación de App Móvil que entrega Fotografías con valor probatorio
+Entrega de proyecto Expediente Electrónico, utilizando la PKI de la empresa y BlockChain, ante COCACYT
+Generación de alianzas estratégicas para la empresa, con empresas internacionales como Segucom | Funciones:
+
+Diseño de soluciones tecnológicas con base en la PKI (Public Key Infraestructure) de la empresa
+Diseño de soluciones, integrando la PKI de la empresa a diferentes sistemas o plataformas de Firma Electrónica Avanzada
+Establecimiento de procesos de trabajo de arquitectura con base en las mejores prácticas (TOGAF, Itil, COBIT, PMbok, ISO 20000)
+Seguimiento a la implementación de la PKI, con equipo de desarrollo, pruebas y operaciones
+Visitas a clientes para levantamiento de requerimientos y diseño de la solución
+Logros:
+Diseño de la Arquitectura de referencia de la solución PKI de la empresa
+Diseño de Solución de validación de credencial para votar ante INE
+Integración de la PKI de la empresa con Sistema de Onboarding Digital de SUMA México
+Diseño y seguimiento de implementación de App Móvil que entrega Fotografías con valor probatorio
+Entrega de proyecto Expediente Electrónico, utilizando la PKI de la empresa y BlockChain, ante COCACYT
+Generación de alianzas estratégicas para la empresa, con empresas internacionales como Segucom | Funciones:
+
+Diseño de soluciones tecnológicas con base en la PKI (Public Key Infraestructure) de la empresa
+Diseño de soluciones, integrando la PKI de la empresa a diferentes sistemas o plataformas de Firma Electrónica Avanzada
+Establecimiento de procesos de trabajo de arquitectura con base en las mejores prácticas (TOGAF, Itil, COBIT, PMbok, ISO 20000)
+Seguimiento a la implementación de la PKI, con equipo de desarrollo, pruebas y operaciones
+Visitas a clientes para levantamiento de requerimientos y diseño de la solución
+Logros:
+Diseño de la Arquitectura de referencia de la solución PKI de la empresa
+Diseño de Solución de validación de credencial para votar ante INE
+Integración de la PKI de la empresa con Sistema de Onboarding Digital de SUMA México
+Diseño y seguimiento de implementación de App Móvil que entrega Fotografías con valor probatorio
+Entrega de proyecto Expediente Electrónico, utilizando la PKI de la empresa y BlockChain, ante COCACYT
+Generación de alianzas estratégicas para la empresa, con empresas internacionales como Segucom | Funciones:
+
+Diseño de soluciones tecnológicas con base en la PKI (Public Key Infraestructure) de la empresa
+Diseño de soluciones, integrando la PKI de la empresa a diferentes sistemas o plataformas de Firma Electrónica Avanzada
+Establecimiento de procesos de trabajo de arquitectura con base en las mejores prácticas (TOGAF, Itil, COBIT, PMbok, ISO 20000)
+Seguimiento a la implementación de la PKI, con equipo de desarrollo, pruebas y operaciones
+Visitas a clientes para levantamiento de requerimientos y diseño de la solución
+Logros:
+Diseño de la Arquitectura de referencia de la solución PKI de la empresa
+Diseño de Solución de validación de credencial para votar ante INE
+Integración de la PKI de la empresa con Sistema de Onboarding Digital de SUMA México
+Diseño y seguimiento de implementación de App Móvil que entrega Fotografías con valor probatorio
+Entrega de proyecto Expediente Electrónico, utilizando la PKI de la empresa y BlockChain, ante COCACYT
+Generación de alianzas estratégicas para la empresa, con empresas internacionales como Segucom | Funciones:
+
+Diseño de soluciones tecnológicas con base en la PKI (Public Key Infraestructure) de la empresa
+Diseño de soluciones, integrando la PKI de la empresa a diferentes sistemas o plataformas de Firma Electrónica Avanzada
+Establecimiento de procesos de trabajo de arquitectura con base en las mejores prácticas (TOGAF, Itil, COBIT, PMbok, ISO 20000)
+Seguimiento a la implementación de la PKI, con equipo de desarrollo, pruebas y operaciones
+Visitas a clientes para levantamiento de requerimientos y diseño de la solución
+Logros:
+Diseño de la Arquitectura de referencia de la solución PKI de la empresa
+Diseño de Solución de validación de credencial para votar ante INE
+Integración de la PKI de la empresa con Sistema de Onboarding Digital de SUMA México
+Diseño y seguimiento de implementación de App Móvil que entrega Fotografías con valor probatorio
+Entrega de proyecto Expediente Electrónico, utilizando la PKI de la empresa y BlockChain, ante COCACYT
+Generación de alianzas estratégicas para la empresa, con empresas internacionales como Segucom
+Herramientas: | Google Ad-words, Visio, Draw.io, Archi, Project, suite office, System Architect, Streak, Jira, SAP Buisiness One, Zoho, Activiti BPM | Google Ad-words, Visio, Draw.io, Archi, Project, suite office, System Architect, Streak, Jira, SAP Buisiness One, Zoho, Activiti BPM | Google Ad-words, Visio, Draw.io, Archi, Project, suite office, System Architect, Streak, Jira, SAP Buisiness One, Zoho, Activiti BPM | Google Ad-words, Visio, Draw.io, Archi, Project, suite office, System Architect, Streak, Jira, SAP Buisiness One, Zoho, Activiti BPM | Google Ad-words, Visio, Draw.io, Archi, Project, suite office, System Architect, Streak, Jira, SAP Buisiness One, Zoho, Activiti BPM
+Nombre de la empresa:
+Grupo Nacional Provincial  (GNP) | Nombre de la empresa:
+Grupo Nacional Provincial  (GNP) | Lugar: 
+Campestre Churubusco | Puesto: Arquitecto de Soluciones | Desde: 
+Junio 2015 | A: 
+Diciembre 2016
+Funciones:
+Diseño de la arquitectura de Negocio y Aplicaciones
+Planificación de tareas asignadas a los equipos de desarrollo
+Entendimiento de las necesidades de los Product Owner, apoyando en el desglose de estas en User History
+Planificación y seguimiento de los Sprint de Scrum
+Seguimiento al Product Backlog y Sprint Backlog
+Implantación del proceso de ITIl (Mesa de Ayuda)
+Gestión de equipos Multidisciplinarios
+
+Logros:
+Implantación de Success Factors en la nube, para la compañía
+Migración de versión de la plataforma tecnológica del sistema principal (Portal, BPM, Broker, WAS)
+Implantación de modelo 4+1 como referencia para la generación de documento de arquitectura de software
+Implantación de Services now en la nube como herramienta de gestión de procesos bajo el marco ITIL | Funciones:
+Diseño de la arquitectura de Negocio y Aplicaciones
+Planificación de tareas asignadas a los equipos de desarrollo
+Entendimiento de las necesidades de los Product Owner, apoyando en el desglose de estas en User History
+Planificación y seguimiento de los Sprint de Scrum
+Seguimiento al Product Backlog y Sprint Backlog
+Implantación del proceso de ITIl (Mesa de Ayuda)
+Gestión de equipos Multidisciplinarios
+
+Logros:
+Implantación de Success Factors en la nube, para la compañía
+Migración de versión de la plataforma tecnológica del sistema principal (Portal, BPM, Broker, WAS)
+Implantación de modelo 4+1 como referencia para la generación de documento de arquitectura de software
+Implantación de Services now en la nube como herramienta de gestión de procesos bajo el marco ITIL | Funciones:
+Diseño de la arquitectura de Negocio y Aplicaciones
+Planificación de tareas asignadas a los equipos de desarrollo
+Entendimiento de las necesidades de los Product Owner, apoyando en el desglose de estas en User History
+Planificación y seguimiento de los Sprint de Scrum
+Seguimiento al Product Backlog y Sprint Backlog
+Implantación del proceso de ITIl (Mesa de Ayuda)
+Gestión de equipos Multidisciplinarios
+
+Logros:
+Implantación de Success Factors en la nube, para la compañía
+Migración de versión de la plataforma tecnológica del sistema principal (Portal, BPM, Broker, WAS)
+Implantación de modelo 4+1 como referencia para la generación de documento de arquitectura de software
+Implantación de Services now en la nube como herramienta de gestión de procesos bajo el marco ITIL | Funciones:
+Diseño de la arquitectura de Negocio y Aplicaciones
+Planificación de tareas asignadas a los equipos de desarrollo
+Entendimiento de las necesidades de los Product Owner, apoyando en el desglose de estas en User History
+Planificación y seguimiento de los Sprint de Scrum
+Seguimiento al Product Backlog y Sprint Backlog
+Implantación del proceso de ITIl (Mesa de Ayuda)
+Gestión de equipos Multidisciplinarios
+
+Logros:
+Implantación de Success Factors en la nube, para la compañía
+Migración de versión de la plataforma tecnológica del sistema principal (Portal, BPM, Broker, WAS)
+Implantación de modelo 4+1 como referencia para la generación de documento de arquitectura de software
+Implantación de Services now en la nube como herramienta de gestión de procesos bajo el marco ITIL | Funciones:
+Diseño de la arquitectura de Negocio y Aplicaciones
+Planificación de tareas asignadas a los equipos de desarrollo
+Entendimiento de las necesidades de los Product Owner, apoyando en el desglose de estas en User History
+Planificación y seguimiento de los Sprint de Scrum
+Seguimiento al Product Backlog y Sprint Backlog
+Implantación del proceso de ITIl (Mesa de Ayuda)
+Gestión de equipos Multidisciplinarios
+
+Logros:
+Implantación de Success Factors en la nube, para la compañía
+Migración de versión de la plataforma tecnológica del sistema principal (Portal, BPM, Broker, WAS)
+Implantación de modelo 4+1 como referencia para la generación de documento de arquitectura de software
+Implantación de Services now en la nube como herramienta de gestión de procesos bajo el marco ITIL | Funciones:
+Diseño de la arquitectura de Negocio y Aplicaciones
+Planificación de tareas asignadas a los equipos de desarrollo
+Entendimiento de las necesidades de los Product Owner, apoyando en el desglose de estas en User History
+Planificación y seguimiento de los Sprint de Scrum
+Seguimiento al Product Backlog y Sprint Backlog
+Implantación del proceso de ITIl (Mesa de Ayuda)
+Gestión de equipos Multidisciplinarios
+
+Logros:
+Implantación de Success Factors en la nube, para la compañía
+Migración de versión de la plataforma tecnológica del sistema principal (Portal, BPM, Broker, WAS)
+Implantación de modelo 4+1 como referencia para la generación de documento de arquitectura de software
+Implantación de Services now en la nube como herramienta de gestión de procesos bajo el marco ITIL
+Herramientas: | System Architect, Archi, Suite Office, Ad words, services now, visio, project, Selenium, jira, Streak, IBM BPM | System Architect, Archi, Suite Office, Ad words, services now, visio, project, Selenium, jira, Streak, IBM BPM | System Architect, Archi, Suite Office, Ad words, services now, visio, project, Selenium, jira, Streak, IBM BPM | System Architect, Archi, Suite Office, Ad words, services now, visio, project, Selenium, jira, Streak, IBM BPM | System Architect, Archi, Suite Office, Ad words, services now, visio, project, Selenium, jira, Streak, IBM BPM
+Nombre de la empresa:
+Secretaría de Educación Pública | Nombre de la empresa:
+Secretaría de Educación Pública | Lugar: 
+Centro CDMX | Puesto:
+ Director de área | Desde: 
+Enero 2014 | A: 
+Febrero 2015
+Funciones:
+Diseño de solución para el pago de nómina de la Institución
+Pruebas de concepto de plataformas SOA
+Implantación de metodología de trabajo (Scrum)
+Colaboración con el Product Owner para la generación del Product Backlog
+Planificación de Sprints de acuerdo al Sprint Backlog
+Gestión de equipos multidisciplinarios
+Logros:
+Diseño e implementación de Arquitectura de Software
+Puesta en producción de sistema nacional FONE para pago de nómina de todos los trabajadores estatales de la Institución
+Implantación de metodología de trabajo SCRUM y XStream Programming
+Implementación del ADM de TOGAF, como modelo de implementación de la solución
+Implantación de estrategia delivery con base en ITIL | Funciones:
+Diseño de solución para el pago de nómina de la Institución
+Pruebas de concepto de plataformas SOA
+Implantación de metodología de trabajo (Scrum)
+Colaboración con el Product Owner para la generación del Product Backlog
+Planificación de Sprints de acuerdo al Sprint Backlog
+Gestión de equipos multidisciplinarios
+Logros:
+Diseño e implementación de Arquitectura de Software
+Puesta en producción de sistema nacional FONE para pago de nómina de todos los trabajadores estatales de la Institución
+Implantación de metodología de trabajo SCRUM y XStream Programming
+Implementación del ADM de TOGAF, como modelo de implementación de la solución
+Implantación de estrategia delivery con base en ITIL | Funciones:
+Diseño de solución para el pago de nómina de la Institución
+Pruebas de concepto de plataformas SOA
+Implantación de metodología de trabajo (Scrum)
+Colaboración con el Product Owner para la generación del Product Backlog
+Planificación de Sprints de acuerdo al Sprint Backlog
+Gestión de equipos multidisciplinarios
+Logros:
+Diseño e implementación de Arquitectura de Software
+Puesta en producción de sistema nacional FONE para pago de nómina de todos los trabajadores estatales de la Institución
+Implantación de metodología de trabajo SCRUM y XStream Programming
+Implementación del ADM de TOGAF, como modelo de implementación de la solución
+Implantación de estrategia delivery con base en ITIL | Funciones:
+Diseño de solución para el pago de nómina de la Institución
+Pruebas de concepto de plataformas SOA
+Implantación de metodología de trabajo (Scrum)
+Colaboración con el Product Owner para la generación del Product Backlog
+Planificación de Sprints de acuerdo al Sprint Backlog
+Gestión de equipos multidisciplinarios
+Logros:
+Diseño e implementación de Arquitectura de Software
+Puesta en producción de sistema nacional FONE para pago de nómina de todos los trabajadores estatales de la Institución
+Implantación de metodología de trabajo SCRUM y XStream Programming
+Implementación del ADM de TOGAF, como modelo de implementación de la solución
+Implantación de estrategia delivery con base en ITIL | Funciones:
+Diseño de solución para el pago de nómina de la Institución
+Pruebas de concepto de plataformas SOA
+Implantación de metodología de trabajo (Scrum)
+Colaboración con el Product Owner para la generación del Product Backlog
+Planificación de Sprints de acuerdo al Sprint Backlog
+Gestión de equipos multidisciplinarios
+Logros:
+Diseño e implementación de Arquitectura de Software
+Puesta en producción de sistema nacional FONE para pago de nómina de todos los trabajadores estatales de la Institución
+Implantación de metodología de trabajo SCRUM y XStream Programming
+Implementación del ADM de TOGAF, como modelo de implementación de la solución
+Implantación de estrategia delivery con base en ITIL | Funciones:
+Diseño de solución para el pago de nómina de la Institución
+Pruebas de concepto de plataformas SOA
+Implantación de metodología de trabajo (Scrum)
+Colaboración con el Product Owner para la generación del Product Backlog
+Planificación de Sprints de acuerdo al Sprint Backlog
+Gestión de equipos multidisciplinarios
+Logros:
+Diseño e implementación de Arquitectura de Software
+Puesta en producción de sistema nacional FONE para pago de nómina de todos los trabajadores estatales de la Institución
+Implantación de metodología de trabajo SCRUM y XStream Programming
+Implementación del ADM de TOGAF, como modelo de implementación de la solución
+Implantación de estrategia delivery con base en ITIL
+Herramientas: | Plataforma Wso2, Oracle, DB2, Mongo DB, Project, Visio, Suite office, Activiti BPM, JBPM, Jira, Selenium, JMeter | Plataforma Wso2, Oracle, DB2, Mongo DB, Project, Visio, Suite office, Activiti BPM, JBPM, Jira, Selenium, JMeter | Plataforma Wso2, Oracle, DB2, Mongo DB, Project, Visio, Suite office, Activiti BPM, JBPM, Jira, Selenium, JMeter | Plataforma Wso2, Oracle, DB2, Mongo DB, Project, Visio, Suite office, Activiti BPM, JBPM, Jira, Selenium, JMeter | Plataforma Wso2, Oracle, DB2, Mongo DB, Project, Visio, Suite office, Activiti BPM, JBPM, Jira, Selenium, JMeter
+Nombre de la empresa:
+Itera - SAT | Nombre de la empresa:
+Itera - SAT | Lugar: 
+Tlalpan Sur | Puesto:
+ Arquitecto Empresarial | Desde: 
+Abril 2012 | A: 
+Septiembre 2013
+Funciones:
+Diseño de modelos tecnológicos
+Definición de procesos de gestión de TI y los tipos de artefactos y entregables implicados
+Diseño de arquitecturas con base en pensamientos holísticos para la Institución
+Apoyo en la gestión de equipos multidisciplinarios
+Logros:
+Implementación del ADM de TOGAF para el diseño de las arquitecturas As-Is y To-be
+Implantación del TRM del SAT basado en TOGAF, FEAF y MAAGTIC como marcos de referencia.
+Diseño de Documento de arquitectura, basado en el modelo 4+1
+Diseño de arquitectura SOA basado en tecnología opensource | Funciones:
+Diseño de modelos tecnológicos
+Definición de procesos de gestión de TI y los tipos de artefactos y entregables implicados
+Diseño de arquitecturas con base en pensamientos holísticos para la Institución
+Apoyo en la gestión de equipos multidisciplinarios
+Logros:
+Implementación del ADM de TOGAF para el diseño de las arquitecturas As-Is y To-be
+Implantación del TRM del SAT basado en TOGAF, FEAF y MAAGTIC como marcos de referencia.
+Diseño de Documento de arquitectura, basado en el modelo 4+1
+Diseño de arquitectura SOA basado en tecnología opensource | Funciones:
+Diseño de modelos tecnológicos
+Definición de procesos de gestión de TI y los tipos de artefactos y entregables implicados
+Diseño de arquitecturas con base en pensamientos holísticos para la Institución
+Apoyo en la gestión de equipos multidisciplinarios
+Logros:
+Implementación del ADM de TOGAF para el diseño de las arquitecturas As-Is y To-be
+Implantación del TRM del SAT basado en TOGAF, FEAF y MAAGTIC como marcos de referencia.
+Diseño de Documento de arquitectura, basado en el modelo 4+1
+Diseño de arquitectura SOA basado en tecnología opensource | Funciones:
+Diseño de modelos tecnológicos
+Definición de procesos de gestión de TI y los tipos de artefactos y entregables implicados
+Diseño de arquitecturas con base en pensamientos holísticos para la Institución
+Apoyo en la gestión de equipos multidisciplinarios
+Logros:
+Implementación del ADM de TOGAF para el diseño de las arquitecturas As-Is y To-be
+Implantación del TRM del SAT basado en TOGAF, FEAF y MAAGTIC como marcos de referencia.
+Diseño de Documento de arquitectura, basado en el modelo 4+1
+Diseño de arquitectura SOA basado en tecnología opensource | Funciones:
+Diseño de modelos tecnológicos
+Definición de procesos de gestión de TI y los tipos de artefactos y entregables implicados
+Diseño de arquitecturas con base en pensamientos holísticos para la Institución
+Apoyo en la gestión de equipos multidisciplinarios
+Logros:
+Implementación del ADM de TOGAF para el diseño de las arquitecturas As-Is y To-be
+Implantación del TRM del SAT basado en TOGAF, FEAF y MAAGTIC como marcos de referencia.
+Diseño de Documento de arquitectura, basado en el modelo 4+1
+Diseño de arquitectura SOA basado en tecnología opensource | Funciones:
+Diseño de modelos tecnológicos
+Definición de procesos de gestión de TI y los tipos de artefactos y entregables implicados
+Diseño de arquitecturas con base en pensamientos holísticos para la Institución
+Apoyo en la gestión de equipos multidisciplinarios
+Logros:
+Implementación del ADM de TOGAF para el diseño de las arquitecturas As-Is y To-be
+Implantación del TRM del SAT basado en TOGAF, FEAF y MAAGTIC como marcos de referencia.
+Diseño de Documento de arquitectura, basado en el modelo 4+1
+Diseño de arquitectura SOA basado en tecnología opensource
+Herramientas: | System Architect, Project, Visio, Suite office, IBM Asset Management | System Architect, Project, Visio, Suite office, IBM Asset Management | System Architect, Project, Visio, Suite office, IBM Asset Management | System Architect, Project, Visio, Suite office, IBM Asset Management | System Architect, Project, Visio, Suite office, IBM Asset Management
+Nombre de la empresa:
+Hildebrando - Actinver | Nombre de la empresa:
+Hildebrando - Actinver | Lugar: 
+Santa Fe | Puesto:
+ Arquitecto de Soluciones | Desde: 
+Octubre 2013 | A: 
+Abril 2014
+Funciones:
+Assessment de arquitecturas SOA
+Diseño e implementación servicios Web 
+Gestión equipo de desarrollo multidisciplinario
+Logros:
+Definición de la estrategia para establecer una arquitectura SOA en crezkamos kapital
+Colaboración para la puesta en producción del sistema NBC de la compañía actinver
+Análisis y diseño de un DRP para actinver | Funciones:
+Assessment de arquitecturas SOA
+Diseño e implementación servicios Web 
+Gestión equipo de desarrollo multidisciplinario
+Logros:
+Definición de la estrategia para establecer una arquitectura SOA en crezkamos kapital
+Colaboración para la puesta en producción del sistema NBC de la compañía actinver
+Análisis y diseño de un DRP para actinver | Funciones:
+Assessment de arquitecturas SOA
+Diseño e implementación servicios Web 
+Gestión equipo de desarrollo multidisciplinario
+Logros:
+Definición de la estrategia para establecer una arquitectura SOA en crezkamos kapital
+Colaboración para la puesta en producción del sistema NBC de la compañía actinver
+Análisis y diseño de un DRP para actinver | Funciones:
+Assessment de arquitecturas SOA
+Diseño e implementación servicios Web 
+Gestión equipo de desarrollo multidisciplinario
+Logros:
+Definición de la estrategia para establecer una arquitectura SOA en crezkamos kapital
+Colaboración para la puesta en producción del sistema NBC de la compañía actinver
+Análisis y diseño de un DRP para actinver | Funciones:
+Assessment de arquitecturas SOA
+Diseño e implementación servicios Web 
+Gestión equipo de desarrollo multidisciplinario
+Logros:
+Definición de la estrategia para establecer una arquitectura SOA en crezkamos kapital
+Colaboración para la puesta en producción del sistema NBC de la compañía actinver
+Análisis y diseño de un DRP para actinver | Funciones:
+Assessment de arquitecturas SOA
+Diseño e implementación servicios Web 
+Gestión equipo de desarrollo multidisciplinario
+Logros:
+Definición de la estrategia para establecer una arquitectura SOA en crezkamos kapital
+Colaboración para la puesta en producción del sistema NBC de la compañía actinver
+Análisis y diseño de un DRP para actinver
+Herramientas: | System Architect, J2EE, Spring, .Net, Jira, Selenium. Oracle (BPM, AS, ESB), Office suite, visio | System Architect, J2EE, Spring, .Net, Jira, Selenium. Oracle (BPM, AS, ESB), Office suite, visio | System Architect, J2EE, Spring, .Net, Jira, Selenium. Oracle (BPM, AS, ESB), Office suite, visio | System Architect, J2EE, Spring, .Net, Jira, Selenium. Oracle (BPM, AS, ESB), Office suite, visio | System Architect, J2EE, Spring, .Net, Jira, Selenium. Oracle (BPM, AS, ESB), Office suite, visio
+Nombre de la empresa:
+HP - SAT | Nombre de la empresa:
+HP - SAT | Lugar: 
+Santa Fe | Puesto:
+ Information Specialist | Desde: 
+Enero 2009 | A: 
+Agosto 2010
+Funciones:
+Diseño e implementación servicios Web 
+Refacto de código en lenguaje java
+Líder de desarrollo
+Logros
+Diseño e implementación de procesos ETL
+Diagramas UML para el sistema MTA del SAT
+Codificación de módulos funcionales del MTA del SAT | Funciones:
+Diseño e implementación servicios Web 
+Refacto de código en lenguaje java
+Líder de desarrollo
+Logros
+Diseño e implementación de procesos ETL
+Diagramas UML para el sistema MTA del SAT
+Codificación de módulos funcionales del MTA del SAT | Funciones:
+Diseño e implementación servicios Web 
+Refacto de código en lenguaje java
+Líder de desarrollo
+Logros
+Diseño e implementación de procesos ETL
+Diagramas UML para el sistema MTA del SAT
+Codificación de módulos funcionales del MTA del SAT | Funciones:
+Diseño e implementación servicios Web 
+Refacto de código en lenguaje java
+Líder de desarrollo
+Logros
+Diseño e implementación de procesos ETL
+Diagramas UML para el sistema MTA del SAT
+Codificación de módulos funcionales del MTA del SAT | Funciones:
+Diseño e implementación servicios Web 
+Refacto de código en lenguaje java
+Líder de desarrollo
+Logros
+Diseño e implementación de procesos ETL
+Diagramas UML para el sistema MTA del SAT
+Codificación de módulos funcionales del MTA del SAT | Funciones:
+Diseño e implementación servicios Web 
+Refacto de código en lenguaje java
+Líder de desarrollo
+Logros
+Diseño e implementación de procesos ETL
+Diagramas UML para el sistema MTA del SAT
+Codificación de módulos funcionales del MTA del SAT
+Herramientas: | Struts. Spring, Ibatis, Documentum, Eclipse, Toad, Spoon Ketle, WAS, Tomcat | Struts. Spring, Ibatis, Documentum, Eclipse, Toad, Spoon Ketle, WAS, Tomcat | Struts. Spring, Ibatis, Documentum, Eclipse, Toad, Spoon Ketle, WAS, Tomcat | Struts. Spring, Ibatis, Documentum, Eclipse, Toad, Spoon Ketle, WAS, Tomcat | Struts. Spring, Ibatis, Documentum, Eclipse, Toad, Spoon Ketle, WAS, Tomcat
+Nombre de la empresa:
+Meltsan Solutions | Nombre de la empresa:
+Meltsan Solutions | Lugar: 
+Periférico Sur | Puesto:
+ Consultor | Desde: 
+Junio 2006 | A: 
+Enero 2009
+Funciones:
+Análisis, diseño y desarrollo de sistemas
+Líder de equipos de desarrollo
+Implementación de metodología SCRUM
+Logros
+Componente de cancelación de pólizas para la compañía Qualitas, Royal Sun Alliance
+Módulo de impresión de pólizas para la compañía Qualitas, Metlife 
+Puesta en producción de sistema broker entre aseguradoras (Qualitas, Royal Sun Alliance) | Funciones:
+Análisis, diseño y desarrollo de sistemas
+Líder de equipos de desarrollo
+Implementación de metodología SCRUM
+Logros
+Componente de cancelación de pólizas para la compañía Qualitas, Royal Sun Alliance
+Módulo de impresión de pólizas para la compañía Qualitas, Metlife 
+Puesta en producción de sistema broker entre aseguradoras (Qualitas, Royal Sun Alliance) | Funciones:
+Análisis, diseño y desarrollo de sistemas
+Líder de equipos de desarrollo
+Implementación de metodología SCRUM
+Logros
+Componente de cancelación de pólizas para la compañía Qualitas, Royal Sun Alliance
+Módulo de impresión de pólizas para la compañía Qualitas, Metlife 
+Puesta en producción de sistema broker entre aseguradoras (Qualitas, Royal Sun Alliance) | Funciones:
+Análisis, diseño y desarrollo de sistemas
+Líder de equipos de desarrollo
+Implementación de metodología SCRUM
+Logros
+Componente de cancelación de pólizas para la compañía Qualitas, Royal Sun Alliance
+Módulo de impresión de pólizas para la compañía Qualitas, Metlife 
+Puesta en producción de sistema broker entre aseguradoras (Qualitas, Royal Sun Alliance) | Funciones:
+Análisis, diseño y desarrollo de sistemas
+Líder de equipos de desarrollo
+Implementación de metodología SCRUM
+Logros
+Componente de cancelación de pólizas para la compañía Qualitas, Royal Sun Alliance
+Módulo de impresión de pólizas para la compañía Qualitas, Metlife 
+Puesta en producción de sistema broker entre aseguradoras (Qualitas, Royal Sun Alliance) | Funciones:
+Análisis, diseño y desarrollo de sistemas
+Líder de equipos de desarrollo
+Implementación de metodología SCRUM
+Logros
+Componente de cancelación de pólizas para la compañía Qualitas, Royal Sun Alliance
+Módulo de impresión de pólizas para la compañía Qualitas, Metlife 
+Puesta en producción de sistema broker entre aseguradoras (Qualitas, Royal Sun Alliance)
+Herramientas: | Struts. Spring, Ibatis, Documentum, Eclipse, Toad, WAS, Tomcat, Oracle Pl, UML, XPath, Postgress, Essbase, JSF, J2EE, Hibernate, JDeveloper, Squirrel | Struts. Spring, Ibatis, Documentum, Eclipse, Toad, WAS, Tomcat, Oracle Pl, UML, XPath, Postgress, Essbase, JSF, J2EE, Hibernate, JDeveloper, Squirrel | Struts. Spring, Ibatis, Documentum, Eclipse, Toad, WAS, Tomcat, Oracle Pl, UML, XPath, Postgress, Essbase, JSF, J2EE, Hibernate, JDeveloper, Squirrel | Struts. Spring, Ibatis, Documentum, Eclipse, Toad, WAS, Tomcat, Oracle Pl, UML, XPath, Postgress, Essbase, JSF, J2EE, Hibernate, JDeveloper, Squirrel | Struts. Spring, Ibatis, Documentum, Eclipse, Toad, WAS, Tomcat, Oracle Pl, UML, XPath, Postgress, Essbase, JSF, J2EE, Hibernate, JDeveloper, Squirrel
+ESTUDIOS:
+Escuela:   
+Facultad de Contaduría y Administración | Lugar:  
+FCA UNAM
+Carrera: 
+Maestría en Informática Administrativa | Fecha de duración: 
+2016 – 2018
+Escuela:   
+Escuela Superior de Computo | Lugar:  
+E.S.COM IPN
+Carrera: 
+Ingeniería en Sistemas computacionales | Fecha de duración: 
+2000 – 2005
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Certified TOGAF Foundations | Abiztar | Septiembre 2018
+Certified Scrum Master | Scrum Allianz | Abril 2015
+Curso Coaching Organizational | UNAM | Agosto 2018
+Curso PMBok 5 | UNAM | Agosto 2018
+Cursos (BPM, ITIL v2011, ISO 20000) | Itera | Julio – Diciembre 2012
+Java v1.4 | Meltsan Solutions | Octubre 2006
+IDIOMAS:
+Español: | Nativo
+Inglés: | 60%
+.
+CONOCIMIENTOS TÉCNICOS:
+Perfil principal: | Arquitecto Empresarial
+Perfil secundario: | Arquitecto de Soluciones
+Sistemas operativos: | Windows, Linux, IoS
+Lenguajes de programación: | Java, C, .Net,
+Bases de datos: | Oracle, DB2, Informix, Mongo DB
+Otros: | TOGAF, ITIL, COBIT, ISO 27000, ISO 20000, MAGTICSIC, DevOps, PmBok, Archimate, UML, BPMN, SOA, ESB, Draw.io, Archi, System Arhcitect

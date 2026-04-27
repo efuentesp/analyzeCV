@@ -1,0 +1,62 @@
+Ana Patricia Cruz Martinez
+PERFIL
+Ingeniera en Sistemas computacionales, egresada de la escuela Superior de cómputo del IPN en la Ciudad de México. Cuento con 6 años de experiencia en análisis, diseño, implementación y mantenimiento de módulos y sub módulos de sistemas Web bajo el patrón de diseño MVC con tecnología Java. Además cuento con conocimientos solidos de las tecnológias, JQuery, Javascript, PL/SQL.
+EXPERIENCIA PROFESIONAL
+Softtek	Ciudad de México ­ SYSTEM ENGINEER	De: Jun, 2020 A: La Fecha
+Descripción:
+Atención de incidentes en ambiente productivo para el sistema Accimarket que pertenece a Citibanamex. Los incidentes involucran desde resolución de issues en Base de Datos como resolución de issues en código Java 8, javascritp y JQuery.
+Diseño de casos de prueba, creación de documentación y evidencias T&T para liberaciones a ambiente producción.
+De la misma manera, se utilizan la herramientas como Service Now, Confluence, RLM, Jenkins, SonarQube y Bitbucket para realizar liberaciones a producción
+Herramientas/Habilidades:
+Microsoft SQL Management Studio (SSMS), Javascript, JQuery, Microsoft SQL Server, ServiceNow, RLM
+Softtek	Ciudad de México ­ Software Developer	De: Nov, 2019 A: Mar, 2020
+Descripción:
+Migración de Adoble Flex por EOVS.
+Migración de pantallas a tecnología actual como lo es JQuery, Javascript bajo diferentes requerimientos expuestos en documentación proporcionada. Desarrollo de pruebas unitarias y ejecución de pruebas.
+Herramientas/Habilidades:
+HTML5, CSS/CSS3, Javascript, Ajax, JQuery, .NET Core Framework
+INDRA SOFTWARE LABS MEXICO, S.A. DE	Ciudad de México ­ Desarrollador de	De: Mar, 2019 A: Nov, 2019
+C.V	sistemas Jr
+Descripción:
+Creación y mantenimiento de sub módulos del sistema SICATEL WEB de Telcel, para uso interno, bajo el patrón de arquitectura MVC. Se realizaron diferentes tipos de documentación del desarrollado para Telcel como Análisis de impacto, Reporte Técnico y Matriz de prueba.
+Herramientas/Habilidades:
+Java 8, Spring Framework, Javascript, JQuery, CSS/CSS3, HTML5
+COORDINACIÓN DEL SISTEMA	Ciudad de México ­ Desarrollador de	De: Feb, 2017 A: Dec, 2018
+INSTITUCIONAL DE	sistemas Jr
+Descripción:
+Creación y mantenimiento de módulos y submódulos de los sistemas SIADE, SIG@, SICENDI del IPN, bajo el patrón de arquitectura de software MVC; utilizando tecnologías de Ajax, Jquery y Oracle PL/SQL para el manejo de los datos.
+Creación de documentación básica de funcionamiento del módulo desarrollado y elaboración de pruebas unitarias de los mpudulos desarrollados.
+Herramientas/Habilidades:
+Ajax, Oracle PL­SQL, JQuery, Javascript, CSS/CSS3, HTML5
+EDUCACIÓN
+Escuela Superior de Cómputo IPN	Ciudad de México	De: Jan, 2011 A: Nov, 2016
+Ingeniería
+CET 1 Walter Cross Buchanan IPN	Ciudad de México	De: Aug, 2007 A: Nov, 2010
+Tecnico en Computación
+DESARROLLO PROFESIONAL
+Course: Diplomado en Java 11 Universidad Autónoma de México May, 2022 IDIOMAS
+English	Auto Evaluado	Lower Intermediate 31­50%
+HABILIDADES TÉCNICAS/GERENCIALES
+XML	 	Proficient (2­4 YoE)
+Tectia	 	Proficient (2­4 YoE)
+Team Foundation Services (TFS)	 	Senior (4­6 YoE)
+Spring Framework ­ Web Services	 	Proficient (2­4 YoE)
+Spring Framework	 	Proficient (2­4 YoE)
+Spring Data	 	Proficient (2­4 YoE)
+Spring BOOT	 	Proficient (2­4 YoE)
+SonarQube	 	Proficient (2­4 YoE)
+ServiceNow	 	Senior (4­6 YoE)
+RLM	 	Proficient (2­4 YoE)
+Oracle PL­SQL	 	Proficient (2­4 YoE)
+Microsoft SQL Management Studio (SSMS)	 	Proficient (2­4 YoE)
+Maven	 	Proficient (2­4 YoE)
+JSON	 	Proficient (2­4 YoE)
+JQuery	 	Senior (4­6 YoE)
+Javascript	 	Senior (4­6 YoE)
+Java 8	 	Senior (4­6 YoE)
+HTML5	 	Senior (4­6 YoE)
+GitHub	 	Proficient (2­4 YoE)
+CSS/CSS3	 	Senior (4­6 YoE)
+Confluence	 	Proficient (2­4 YoE)
+Apache SubVersion (SVN)	 	Proficient (2­4 YoE)
+Ajax	 	Proficient (2­4 YoE)

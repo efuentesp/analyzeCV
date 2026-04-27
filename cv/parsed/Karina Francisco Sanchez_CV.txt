@@ -1,0 +1,114 @@
+
+
+--- Página 1 ---
+
+K a r i n a   F r a n c i s c o   S a n c h e z
+P E R F I L
+1   a ñ o   d e   e x p e r i e n c i a   c o m o   D i s e ñ o   d e   S o l u c i ó n   D i g i t a l  
+1   a ñ o   d e   e x p e r i e n c i a   e n   a n a l i s t a   d e   N e g o c i o s
+A n a l i s i s   d e   H i s t o r i a   d e   U s u a r i o
+R e q u e r i m i e n t o s
+E n c u e s t a   y   e n t r e v i s t a s
+L l u v i a   d e   I d e a s
+D i a g r a m a c i ó n ( C a s o s   d e   U s o ,   E n t i d a d   r e l a c i ó n ,   M o d e l o   d e   D o m i n i o ,   B o s q u e j o   d e   P a n t a l l a s )
+J i r a
+C o n f l u e n c e
+2   a ñ o s   d e   e x p e r i e n c i a   e n   e l   d e s a r r o l l o   w e b   y   d i s e ñ o   u t i l i z a n d o   F r a m e w o r k s   c o m o   L a r a v e l   8   y   V u e   3 ,   a s í   m i s m o   u t i l i z a n d o   l o s   l e n g u a j e s   d e
+p r o g r a m a c i ó n :
+J A V A   8
+J a v a S c r i p t
+M y S Q L
+S Q L
+P H P
+• T r a b a j o   e n   e q u i p o ,   s o l u c i ó n   d e   p r o b l e m a s
+•   A n á l i s i s   d e   d a t o s
+•   M a n e j o   d e   l a   h e r r a m i e n t a   d e   t r a b a j o   J i r a
+•   M a n e j o   d e   l a   M e t o d o l o g í a   S c r u m
+• C r e a c i o n   d e   H i s t o r i a s   D e   U s u a r i o
+• A n a l i s i s   d e   N e g o c i o s
+E X P E R I E N C I A   P R O F E S I O N A L
+D i s e ñ o   d e   S o l u c i ó n   D i g i t a l M e x i c o   ­   S o l u t i o n   A r c h i t e c t   ­   J u n i o r D e :   N o v ,   2 0 2 4   A :   L a   F e c h a
+D e s c r i p c i ó n :
+A n á l i s i s   d e   n e g o c i o
+L e v a n t a m i e n t o   d e   R e q u e r i m i e n t o s
+E s t i m a c i ó n   d e   P r o y e c t o s
+R e a l i z a c i ó n   d e   P r o p u e s t a s   e n   P o w e r   P o i n t
+C o n t e o   C O S M I C
+E x p o s i c i ó n   d e   p r o p u e s t a s
+H e r r a m i e n t a s / H a b i l i d a d e s :
+D i g i t a l   O f f i c e ,   C o p i l o t ,   A l l P r o W e b T o o l s   C R M
+C i t i B a n a m e x M e x i c o   ­   B u s i n e s s   A n a l y s t   ­   J u n i o r D e :   O c t ,   2 0 2 3   A :   O c t ,   2 0 2 4
+D e s c r i p c i ó n :
+A n a l i s i s   d e   n e g o c i o
+H i s t o r i a s   d e   U s u a r i o
+R e q u e r i m i e n t o s
+D i a g r a m a c i o n
+B o s q u e j o s
+M o d e l o   d e   D o m i n i o
+E n t i d a d   R e l a c i o n
+H e r r a m i e n t a s / H a b i l i d a d e s :
+J I R A ,   C o n f l u e n c e ,   D i g i t a l   O f f i c e
+C o p p e l ­ R e m e d i a c i o n e s M e x i c o   ­   A p p l i c a t i o n   S u p p o r t   E n g i n e e r
+( L 1 . 5 ,   L 2 )   ­   J u n i o rD e :   J u n ,   2 0 2 3   A :   S e p ,   2 0 2 3
+
+--- Página 2 ---
+
+E D U C A C I Ó N
+I D I O M A S
+H A B I L I D A D E S   T É C N I C A S / G E R E N C I A L E SD e s c r i p c i ó n :
+S o l u c i ó n   d e   V u l n e r a b i l i d a d e s
+S o l u c i ó n   d e   e r r o r e s   d e   c o d i g o
+D o c u m e n t a c i ó n
+H e r r a m i e n t a s / H a b i l i d a d e s :
+A n g u l a r   J S ,   P H P
+D e s a r r o l l a d o r   B a c k e n d C u i d a d   d e   M e x i c o   ­   S o f t t e k ­ B B V A
+B a n c o m e rD e :   J u l ,   2 0 2 2   A :   S e p ,   2 0 2 2
+D e s c r i p c i ó n :
+•   A n á l i s i s   d e   D e p e n d e n c i a s   A P X
+•   D i s e ñ o   d e   T r a n s a c c i o n e s   y   L i b r e r í a s   d e   H o j a s   A P X
+•   C o n e x i ó n   d e   D B   u t i l i z a n d o   O r a c l e   y   J D B C
+•   D e s a r r o l l ó   d e   B a c k e n d   A P X
+•   P r u e b a s   U n i t a r i a s
+H e r r a m i e n t a s / H a b i l i d a d e s :
+D e s a r r o l l a d o r   B a c k e n d M e x i c o   ­   S p e e d   P r o D e :   M a r ,   2 0 2 1   A :   M a r ,   2 0 2 2
+D e s c r i p c i ó n :
+•   A n á l i s i s   d e   b a s e   d e   d a t o s
+•   D i s e ñ o   d e   b a s e   d e   d a t o s
+•   C r e a c i ó n   d e   b a s e   d e   d a t o s
+•   D e s a r r o l l o   B a c k e n d
+H e r r a m i e n t a s / H a b i l i d a d e s :
+P o s t M a n ,   M y S Q L ,   L A R A V E L   8 ,   V U E   3 ,   B O O S T R A P   5 ,   C S S ,   H T M L 5
+D e s a r r o l l a d o r   B a c k e n d M e x i c o   ­   A D I W E B D e :   M a r ,   2 0 1 9   A :   M a r ,   2 0 2 1
+D e s c r i p c i ó n :
+•   D e s a r r o l l o   y   M a n t e n i m i e n t o   d e   s i s t e m a s   p h p
+•   D i s e ñ o   y   D e s a r r o l l o   d e   n u e v o s   m ó d u l o s   d e   s i s t e m a s   ( F r o n t e n d )
+•   D o c u m e n t a c i ó n   d e   C ó d i g o
+•   E v a l u a c i ó n   d e   e s t r a t e g i a s   S E O   e n   s i t i o s   w e b
+H e r r a m i e n t a s / H a b i l i d a d e s :
+P H P ,   M y S Q L ,   B O O S T R A P ,   C S S ,   H T M L ,   G O O G L E   T R E N D S
+U n i v e r s i d a d   T e c n o l ó g i c a   F i d e l   V e l á z q u e z M e x i c o D e :   S e p ,   2 0 1 8   A :   M a r ,   2 0 2 1
+I n g e n i e r í a   e n   T e c n o l o g í a s   d e   l a
+I n f o r m a c i ó n
+E n g l i s h A u t o   E v a l u a d o L o w e r   I n t e r m e d i a t e   3 1 ­ 5 0 %
+V U E   3   J u n i o r   ( 1 ­ 2   Y o E )
+P o s t M a n   J u n i o r   ( 1 ­ 2   Y o E )
+P H P   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+P H P   J u n i o r   ( 1 ­ 2   Y o E )
+M y S Q L   J u n i o r   ( 1 ­ 2   Y o E )
+L A R A V E L   8   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+J I R A   J u n i o r   ( 1 ­ 2   Y o E )
+J a v a   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+
+--- Página 3 ---
+
+H T M L 5   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+H T M L   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+G O O G L E   T R E N D S   J u n i o r   ( 1 ­ 2   Y o E )
+D i g i t a l   O f f i c e   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+C S S   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+C o p i l o t   T r a i n e e   ( 0 ­ 1   Y o E )
+C o n f l u e n c e   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+B O O S T R A P   5   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+B O O S T R A P   T r a i n e e   ( 0 ­ 1   Y o E )
+A n g u l a r   J S   T r a i n e e   ( 0 ­ 1   Y o E )
+A l l P r o W e b T o o l s   C R M   T r a i n e e   ( 0 ­ 1   Y o E )

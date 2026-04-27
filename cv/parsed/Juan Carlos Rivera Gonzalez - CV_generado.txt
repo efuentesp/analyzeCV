@@ -1,0 +1,155 @@
+Juan Carlos Rivera Gonzalez
+Desarrollador Junior BI
+FUNCIONES
+Desarrollo e implemento sistemas mediante el uso de lenguajes de programación, realizando su puesta a punto para asegurar su correcto funcionamiento. Cuento con experiencia en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, participo en el desarrollo, mantenimiento y soporte de procesos Extraer, Transformar y Cargar (ETL) (Extraer, Transformar y Cargar (ETL)) y utilizo herramientas de Business Intelligence como Databricks y Fabric.
+Me dedico al desarrollo y soporte de procesos Extraer, Transformar y Cargar (ETL) y a la implementación de capas semánticas y flujos de consumo que entregan datos fiables y actualizados para apoyar la toma de decisiones. Me concentro en documentar soluciones, automatizar cargas y asegurar la continuidad operativa, colaborando con equipos multidisciplinarios y aplicando buenas prácticas para mantener la calidad de los entregables.
+EXPERIENCIA PROFESIONAL
+Tengo más de 2 años de experiencia en desarrollo de servicios y aplicaciones web (Frontend y Backend), dashboards, interactivos, tableros, informes automáticos y reportes. Genero soluciones de Inteligencia de Negocio mediante el desarrollo y mantenimiento de procesos y componentes de datos, implementando flujos Extraer, Transformar y Cargar (ETL) y modelos de información conforme a especificaciones técnicas, apegándome a estándares, arquitecturas y buenas prácticas de desarrollo, apoyando la calidad y correcta ejecución de las soluciones bajo supervisión.
+
+Cuento con amplia experiencia en visualización de datos, construcción y automatización de dashboards con herramientas como Tableau, QlikView, Qlik Sense y Power BI, y en el manejo de bases de datos relacionales como SQL Server (Motor de base de datos para consultas y validaciones) y Snowflake. He liderado proyectos en industrias de retail, automotriz, seguros y banca, diseñando modelos de datos y fuentes publicadas para facilitar el análisis autónomo por usuarios de negocio.
+
+Trabajo en el desarrollo y mantenimiento de procesos Extraer, Transformar y Cargar (ETL) y en la implementación de capas semánticas y flujos de consumo que garantizan datos confiables y actualizados para la toma de decisiones. Me enfoco en documentar soluciones, automatizar cargas y asegurar continuidad operativa, colaborando con equipos multidisciplinarios y aplicando buenas prácticas para mantener la calidad de los entregables.
+EXPERIENCIA LABORAL
+Empresa
+Grupo SALAV | Puesto
+Especialista de Inteligencia de Negocios | Desde:
+01 octubre 2025 | Hasta: 
+31 diciembre 2025
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y los pongo a punto para que funcionen correctamente, empleando diversos lenguajes de programación. Tengo habilidades en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL), y manejo herramientas de BI como Databricks y Fabric.
+• Desarrollo e implemento sistemas y componentes de software para soluciones de Inteligencia de Negocio.
+• Apoyo en la puesta a punto y correcto funcionamiento de las soluciones desarrolladas.
+• Desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL) para la integración y transformación de datos.
+• Colaboro en el modelado de datos utilizando bases de datos relacionales y no relacionales.
+• Apoyo en la construcción de estructuras de datos para soluciones analíticas y de BI.
+• Utilizo herramientas de BI como Databricks y Fabric para el procesamiento y análisis de información.
+• Atiendo incidencias básicas y doy soporte a los procesos y soluciones implementadas.
+• Aplico buenas prácticas de desarrollo y lineamientos definidos por el equipo.
+• Colaboro con equipos de trabajo para asegurar la correcta ejecución de las soluciones.
+• Documento procesos, desarrollos y configuraciones para asegurar su entendimiento y mantenimiento.
+• Resuelvo problemas relacionados con el desarrollo, integración y procesamiento de datos en soluciones de Inteligencia de Negocio, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en el desarrollo de soluciones BI.
+• He aplicado el curso SQL – MySQL for Data Analytics and Business Intelligence para analizar datos y generar información relevante para la toma de decisiones mediante consultas SQL en MySQL.
+• He puesto en práctica el curso Power BI – Análisis de Datos y Business Intelligence para crear reportes interactivos y dashboards orientados al análisis de datos empresariales.
+• He aplicado el curso The Complete Python Bootcamp: From Zero to Hero in Python para desarrollar scripts y soluciones utilizando Python desde nivel básico hasta intermedio.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Entrevisté a personal clave de negocio y Tecnología de la Información (TI) para el levantamiento de información con la finalidad de identificar el modelo de negocio actual, problemáticas actuales, fuentes de información, reportes, tableros de control, KPI's, arquitectura tecnológica actual, así como el inventario de aplicaciones para el soporte de procesos.
+• Analicé la información recopilada para el estudio de la operación actual y sus problemáticas.
+• Documenté los hallazgos y requerimientos de información.
+• Como parte del diagnóstico evalué acciones agrupadas en iniciativas o proyectos del grupo, identifiqué los proyectos de inteligencia de negocios, los proyectos de mejora.
+• Participé en la generación de entregables como el documento de la situación actual de grupo SALAV, la arquitectura de alto nivel, matriz de requerimientos de las diferentes áreas de negocio, definición de nivel objetivo de inteligencia de negocio, la hoja de ruta de iniciativas sugeridas, Quick Wins.
+• Desarrollé un tablero de control para dar visibilidad de las prioridades para la atención de los requerimientos por cada área de negocio.
+• En esta posición, me encargué de la construcción detallada de modelos de datos en la capa semántica de Tableau Desktop, así como de la generación y publicación de fuentes de datos en el servidor de Tableau, facilitando que los usuarios pudieran crear sus propios tableros de control.
+• Diseñé y construí modelos de datos optimizados en la capa semántica de Tableau Desktop para facilitar el análisis.
+• Generé y publiqué fuentes de datos en Tableau Server garantizando disponibilidad y actualización constante.
+• Implementé una capa de consumo que habilita la creación autónoma de dashboards por los usuarios.
+• Proporcioné visibilidad completa sobre contratos y relaciones comerciales con impacto directo en la estrategia corporativa.
+• Asumí la responsabilidad de realizar un análisis exhaustivo del caso de negocio para la implementación del Gobierno de Datos, siendo pieza clave en la generación de un glosario de términos de negocio y la documentación precisa de requerimientos para el Market Place.
+• Desarrollé un análisis detallado del caso de negocio para fortalecer el Gobierno de Datos.
+• Elaboré documentación técnica y funcional para los requerimientos del Market Place.
+• Realicé evaluaciones rigurosas de la calidad de datos y propuse recomendaciones para su mejora.
+• Diseñé controles y mecanismos de monitoreo para la garantía de la calidad de los datos.
+• Evalué plataformas existentes y generé benchmarks para optimizar procesos y la utilización de tecnologías.
+• Lideré el análisis completo del proceso de monitoreo de aplicaciones y diseñé una arquitectura de datos efectiva para el monitoreo de D£A.
+• Construí flujos Extraer, Transformar y Cargar (ETL) utilizando Tableau Prep y desarrollé tableros de control en Tableau Desktop que permitieron a los directores acceder a información actualizada automáticamente mediante la integración con Tableau Server.
+• Analicé profundamente el proceso de monitoreo de aplicaciones para optimizar su eficiencia.
+• Diseñé la arquitectura de datos para el monitoreo y reporte eficiente de DÉA.
+• Construí y optimicé flujos Extraer, Transformar y Cargar (ETL) en Tableau Prep para automatizar la carga de datos.
+• Desarrollé tableros de control dinámicos en Tableau Desktop para el análisis de los datos.
+• Automaticé la carga y actualización de datos desde Tableau Server asegurando disponibilidad constante.
+• Analicé en detalle la mecánica de cálculo de bonos para Walmart, evidenciando la necesidad de scripts claros y documentación precisa para facilitar el trabajo del equipo de desarrollo.
+• Levanté y analicé detalladamente la mecánica de cálculo de bonos para Walmart.
+• Diseñé y generé scripts de negocio que soportan el proceso de cálculo.
+• Documenté los procesos integrales de Business plan, Forecast, distribución atiendas y el proceso de dispersión.
+• Coordiné los recursos del equipo de visualización para realizar la migración exitosa de los tableros de control del portal Dealer Performance de Ford México a Qlik Sense.
+• Encabecé el levantamiento de requerimientos, análisis, diseño, desarrollo, documentación e implementación de Tableros de control con base en métricas y KPI's logrando la completa satisfacción del cliente.
+• Coordiné y lideré el equipo de desarrollo para la migración de tableros a Qlik Sense.
+• Levanté requerimientos para adaptación y mejora continua.
+• Diseñé y construí tableros interactivos centrados en métricas clave.
+• Implementé cuidadosamente para maximizar valor y satisfacción del usuario final.
+Empresa
+Nissan | Puesto
+Data Visualization Engineer Senior - SOFTTEK | Desde:
+02 enero 2025 | Hasta: 
+31 marzo 2025
+Actividades Principales | • En esta posición, me encargué de la construcción detallada de modelos de datos en la capa semántica de Tableau Desktop, así como de la generación y publicación de fuentes de datos en el servidor de Tableau, facilitando que los usuarios pudieran crear sus propios tableros de control.
+• Diseñé y construí modelos de datos optimizados en la capa semántica de Tableau Desktop para facilitar el análisis.
+• Generé y publiqué fuentes de datos en Tableau Server garantizando disponibilidad y actualización constante.
+• Implementé una capa de consumo que habilita la creación autónoma de dashboards por los usuarios.
+• Proporcioné visibilidad completa sobre contratos y relaciones comerciales con impacto directo en la estrategia corporativa.
+Empresa
+Instituto Federal de Telecomunicaciones | Puesto
+Business Analyst Senior - SOFTTEK | Desde:
+02 agosto 2024 | Hasta: 
+31 diciembre 2024
+Actividades Principales | • Asumí la responsabilidad de realizar un análisis exhaustivo del caso de negocio para la implementación del Gobierno de Datos, siendo pieza clave en la generación de un glosario de términos de negocio y la documentación precisa de requerimientos para el Market Place.
+• Desarrollé un análisis detallado del caso de negocio para fortalecer el Gobierno de Datos.
+• Elaboré documentación técnica y funcional para los requerimientos del Market Place.
+• Realicé evaluaciones rigurosas de la calidad de datos y propuse recomendaciones para su mejora.
+• Diseñé controles y mecanismos de monitoreo para la garantía de la calidad de los datos.
+• Evalué plataformas existentes y generé benchmarks para optimizar procesos y la utilización de tecnologías.
+Empresa
+Walmart | Puesto
+Data Visualization Engineer Senior - SOFTTEK | Desde:
+31 mayo 2024 | Hasta: 
+01 agosto 2024
+Actividades Principales | • Lideré el análisis completo del proceso de monitoreo de aplicaciones y diseñé una arquitectura de datos efectiva para el monitoreo de D£A.
+• Construí flujos Extraer, Transformar y Cargar (ETL) utilizando Tableau Prep y desarrollé tableros de control en Tableau Desktop que permitieron a los directores acceder a información actualizada automáticamente mediante la integración con Tableau Server.
+• Analicé profundamente el proceso de monitoreo de aplicaciones para optimizar su eficiencia.
+• Diseñé la arquitectura de datos para el monitoreo y reporte eficiente de DÉA.
+• Construí y optimicé flujos Extraer, Transformar y Cargar (ETL) en Tableau Prep para automatizar la carga de datos.
+• Desarrollé tableros de control dinámicos en Tableau Desktop para el análisis de los datos.
+• Automaticé la carga y actualización de datos desde Tableau Server asegurando disponibilidad constante.
+Empresa
+Walmart | Puesto
+Data Solutioner - SOFTTEK | Desde:
+01 diciembre 2023 | Hasta: 
+30 mayo 2024
+Actividades Principales | • Analicé en detalle la mecánica de cálculo de bonos para Walmart, evidenciando la necesidad de scripts claros y documentación precisa para facilitar el trabajo del equipo de desarrollo.
+• Levanté y analicé detalladamente la mecánica de cálculo de bonos para Walmart.
+• Diseñé y generé scripts de negocio que soportan el proceso de cálculo.
+• Documenté los procesos integrales de Business plan, Forecast, distribución atiendas y el proceso de dispersión.
+Empresa
+Ford | Puesto
+Especialista de Presentación de INFORMACIÓN (Visualización) BI/BA (Líder Técnico) - SOFTTEK | Desde:
+01 febrero 2023 | Hasta: 
+30 noviembre 2023
+Actividades Principales | • Coordiné los recursos del equipo de visualización para realizar la migración exitosa de los tableros de control del portal Dealer Performance de Ford México a Qlik Sense.
+• Encabecé el levantamiento de requerimientos, análisis, diseño, desarrollo, documentación e implementación de Tableros de control con base en métricas y KPI's logrando la completa satisfacción del cliente.
+• Coordiné y lideré el equipo de desarrollo para la migración de tableros a Qlik Sense.
+• Levanté requerimientos para adaptación y mejora continua.
+• Diseñé y construí tableros interactivos centrados en métricas clave.
+• Implementé cuidadosamente para maximizar valor y satisfacción del usuario final.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- SQL – MySQL for Data Analytics and Business Intelligence
+- Curso Power BI – Análisis de Datos y Business Intelligence
+- The Complete Python Bootcamp: From Zero to Hero in Python
+- Tableau Desktop
+- Tableau Server
+- Tableau Prep
+- QlikView
+- Qlik Sense
+- Microsoft SQL Server (T-SQL)
+- Power BI
+- Snowflake
+- Tableau Cloud
+- JIRA
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 junio de 2008 hasta 02 enero de 2023
+Durante este período asumí responsabilidades principalmente en el diseño y construcción de soluciones de inteligencia y visualización de datos. Me desempeñé en roles como Especialista de Presentación de Información (Visualización) BI/BA, Consultor BI en QlikView y Qlik Sense, Consultor Senior BI y Analista de Negocio, realizando levantamiento de requerimientos, desarrollo de dashboards, administración de servidores QlikView y documentación técnica para asegurar continuidad operativa y soporte a áreas de negocio.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en Sistemas Computacionales - Enero - 1996 | Diciembre - 2000 | Unitec | Cédula Profesional
+3813699
+16/04/2003
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- SQL – MySQL for Data Analytics and Business Intelligence
+- Curso Power BI – Análisis de Datos y Business Intelligence
+- The Complete Python Bootcamp: From Zero to Hero in Python
+______________________________________
+Juan Carlos Rivera Gonzalez
+Desarrollador Junior BI | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

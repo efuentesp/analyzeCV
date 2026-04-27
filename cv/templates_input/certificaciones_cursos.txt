@@ -1,5 +1,5 @@
 NOMBRE
-Karla Paola Pulido Guillén
+Rodolfo Pérez Abad
 
 MAIL
 
@@ -17,18 +17,14 @@ CURP
 
 
 NO CEDULA
-2334215
+5281565
 
 FECHA CEDULA
-10/7/1996
-
+26/09/2007
 
 CURSOS
-ITIL Foundation Certificate in IT Service Management 
 
 
 CERTIFICACIONES
-PMP Project Management Professional - Noviembre 2017 Noviembre 2026
-Scrum Alliance - Julio 2026
-ITIL Foundation Certificate in IT Service Management - Agosto 2019 Junio 2027
-
+TOGAF 9 Certified 2021
+Certified ScrumMaster (CSM) 2015-2017

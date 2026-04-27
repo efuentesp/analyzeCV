@@ -1,0 +1,187 @@
+Gustavo Alexis Guevara Montellano
+PERFIL
+Soy un apasionado Desarrollador de Aplicaciones Android con más de 7 años de experiencia dedicados a crear y lanzar aplicaciones móviles de alta calidad. Me especializo en el desarrollo nativo utilizando Kotlin y Java para Android, y desde hace un poco menos de un año, también he estado desarrollando aplicaciones iOS con Swift. He trabajado en una variedad de entornos, desde equipos pequeños hasta grandes empresas, participando en todas las fases del ciclo de vida del desarrollo de proyectos.
+Mi enfoque meticuloso se centra en analizar cuidadosamente los requisitos del proyecto, implementar soluciones eficientes y garantizar la entrega exitosa de aplicaciones al mercado. Mi compromiso con la excelencia se refleja en cada etapa del proceso, asegurando que cada entregable cumpla con los más altos estándares de calidad.
+Estoy profundamente motivado por seguir aprendiendo y creciendo en el campo del desarrollo de aplicaciones móviles. Constantemente busco nuevas oportunidades para aplicar mis habilidades y conocimientos técnicos en emocionantes desafíos, y estoy emocionado por las posibilidades que el futuro tiene reservado en este apasionante campo.
+EXPERIENCIA PROFESIONAL
+Softtek	CDMX ­ Application Maintenance Engineer	De: Sep, 2023 A: La Fecha
+(L3) ­ Senior Descripción:
+Funciones:
+Senior L3 Support Engineer (Ingeniero de Soporte Senior L3)
+Análisis exhaustivo de incidencias en iOS y Android utilizando Swift y Kotlin respectivamente.
+Realización de análisis desde la raíz hasta la identificación de microservicios involucrados.
+Gestión de la información y su tratamiento en los lenguajes de programación mencionados.
+Investigación de la causa raíz para proporcionar la mejor solución posible a los problemas.
+Documentación detallada de cada paso del proceso, desde la llegada de la incidencia hasta su lanzamiento a producción. Uso de Google Cloud Platform (GCP) para logs y administración de Firebase para pruebas.
+Validación de procesos mediante checkmarks y SonarQube.
+Gestión en los tableros de Azure y repositorios de ramas en Azure.
+Logros:
+Lideré con éxito el análisis y resolución de una variedad de incidencias críticas en aplicaciones móviles iOS y Android, asegurando tiempos de respuesta eficientes y soluciones efectivas.
+Implementé un proceso estructurado de análisis de raíz que resultó en una disminución significativa del tiempo de resolución de incidencias, mejorando la experiencia del usuario y la calidad del producto final.
+Desarrollé y documenté una metodología de trabajo detallada, desde la identificación inicial de una incidencia hasta su implementación en producción, asegurando una gestión eficiente del ciclo de vida del incidente.
+Amplié mis habilidades más allá de Android, adquiriendo conocimientos sólidos en Swift para iOS, lo que me permitió abordar de manera efectiva las incidencias en ambos sistemas operativos móviles.
+Implementé herramientas de control de calidad como SonarQube y procesos de validación exhaustiva, garantizando la entrega de soluciones de alta calidad y libres de errores.
+Colaboré estrechamente con equipos multidisciplinarios, incluyendo desarrolladores, testers y administradores de sistemas, para garantizar una resolución eficiente y colaborativa de las incidencias.
+adquisición de conocimientos para ofrecer soluciones completas y versátiles en el campo del desarrollo móvil.
+Fungiendo en la celula como Lider Tecnico ­ Lideré procesos de migración tecnológica: microservicios a Java Spring Boot, portales de Node.js a Angular y aplicaciones móviles de Java a Kotlin (Android) y de C++ a Swift (iOS).
+Lideré la migración de servicios y microservicios de entornos físicos a la nube (GCP), mejorando escalabilidad y disponibilidad.
+Implementé arquitectura hexagonal y desarrollé nuevos servicios en Go.
+Optimizaciones en base de datos, reduciendo tiempos de consulta y mejorando el rendimiento general.
+Refactorización de código para reducir complejidad cognitiva y deuda técnica.• Definición de estándares, documentación técnica y creación de wiki para asegurar la trazabilidad de cambios.
+Gestión de riesgos, resolución de problemas críticos y mitigación de vulnerabilidades
+Herramientas/Habilidades:
+Android Kotlin, Android, iOS Swift, PostgreSQL, PostMan, SonarQube, GCP SysOps, FireBase, Google Cloud, Google Cloud Server, Spring
+BOOT, .NET Core Framework, .NET Framework 3.5 (and above), Ajax, Node.js, Angular JS, GO/Golang, Azure DevOps, Azure for Testing,
+Docker
+Grupo Xcaret	Cancún, Quintana Roo ­ Software	De: Mar, 2023 A: Sep, 2023
+Engineer ­ Senior Descripción:
+Funciones:
+Mantenimiento, optimización y adaptación de aplicaciones Android para diversas versiones, incluyendo la actualización exitosa para Android 13.
+Mejora visual de interfaces para ofrecer una experiencia de usuario más atractiva y efectiva.
+Integración exitosa con Firebase (Realtime Database, Storage), fortaleciendo la funcionalidad de las aplicaciones.
+Implementación de un Chatbot innovador para facilitar compras y mejorar la interacción con los usuarios.
+Diseño y ejecución de Onboarding dinámico, aumentando la adopción de nuevas funcionalidades.
+Seguimiento y reporte de avances en Jira para un desarrollo transparente y colaborativo.
+Consumo eficiente de APIs externas para enriquecer las características de la aplicación.
+Estructuración y mapeo eficaz de datos para un flujo de información fluido.
+Implementación de funciones de consumo dinámico y control remoto, aumentando la flexibilidad de las aplicaciones.
+Logros:
+Lideré con éxito la actualización de aplicaciones para Android 13, asegurando la compatibilidad y funcionalidad óptima en la última versión del sistema operativo móvil de Android.
+Mejoré la interfaz visual de las aplicaciones, resultando en una experiencia de usuario más atractiva y efectiva, lo que llevó a un aumento en la retención de usuarios y la satisfacción del cliente.
+Logré una integración exitosa con Firebase, fortaleciendo la funcionalidad de las aplicaciones al aprovechar las capacidades de Realtime Database y Storage para mejorar la experiencia del usuario.
+Diseñé e implementé un Chatbot innovador que facilitó las compras y mejoró la interacción con los usuarios, lo que resultó en un aumento de la participación y la satisfacción del cliente.
+Desarrollé y ejecuté un Onboarding dinámico que aumentó la adopción de nuevas funcionalidades, mejorando la experiencia del usuario y la retención.
+Utilicé Jira para realizar un seguimiento transparente y colaborativo del progreso del desarrollo, lo que facilitó la comunicación y la coordinación entre los miembros del equipo.
+Implementé eficientemente APIs externas para enriquecer las características de la aplicación, proporcionando a los usuarios una experiencia más completa y funcional.
+Estructuré y mapeé datos de manera efectiva para un flujo de información fluido, mejorando la eficiencia y la precisión en el manejo de datos dentro de las aplicaciones.
+Introduje funciones de consumo dinámico y control remoto, lo que aumentó la flexibilidad de las aplicaciones y mejoró la experiencia del usuario al permitir un mayor control y personalización.
+Herramientas/Habilidades:
+Android Kotlin, PostMan, FireBase, AWS Microservices, GCP SysOps, Google Cloud, Google API, User Interface (UI), User Experience (UX)
+Inetum	CDMX ­ Application Maintenance Engineer	De: Jul, 2022 A: Mar, 2023
+(L3) ­ Proficient Descripción:
+Funciones:
+Mantenimiento y actualización de aplicaciones para nuevas versiones de Android (11, 12, etc.), asegurando la compatibilidad y la experiencia del usuario.
+Análisis exhaustivo, desarrollo y lanzamiento de nuevos requisitos funcionales, contribuyendo al crecimiento y la mejora continua de las aplicaciones.
+Documentación completa y ordenada del código, facilitando la colaboración y el entendimiento en equipo.
+Implementación efectiva de consumos de API's, tanto REST como SOAP, para enriquecer las funcionalidades de las aplicaciones.
+Ejecución rigurosa de pruebas en entornos productivos antes de la publicación, garantizando la estabilidad y la calidad.
+Creación y ejecución de pruebas unitarias para asegurar la funcionalidad y la integridad del código.
+Utilización experta de la metodología SCRUM y herramientas de gestión de proyectos como JIRA y MS Project.
+Actualización exitosa de proyectos para eliminar código obsoleto (Deprecated), mejorando la eficiencia y la modernidad.
+Integración de librerías de terceros de manera estratégica para optimizar el desarrollo y la funcionalidad.
+Configuración y preparación de aplicaciones para pruebas de control de calidad (QA).
+Diseño innovador de nuevas interfaces para fragments y activities utilizando herramientas como XML, Figma y Sketch.
+Brindar soporte técnico a sucursales y usuarios, asegurando una experiencia fluida y satisfactoria.
+Aplicación experta de patrones de diseño como Singleton, Factory, Builder, Adapter y Observer para crear soluciones robustas y eficientes.
+Gestión efectiva de control de versiones en Git, garantizando la colaboración segura en el desarrollo del proyecto.
+Logros:
+Integración exitosa del protocolo de mensajería MQTT con salida a internet, cumpliendo un requisito crucial para la empresa.
+Mantenimiento exitoso y actualización de aplicaciones para múltiples versiones de Android, asegurando la funcionalidad constante.
+Contribución clave en el análisis, desarrollo y lanzamiento de nuevos requerimientos, enriqueciendo la experiencia del usuario.
+Documentación detallada del código que facilitó la colaboración y el entendimiento del equipo.
+Implementación exitosa de múltiples consumos de API's, ampliando significativamente las capacidades de las aplicaciones.
+Ejecución exitosa de pruebas en entornos productivos, garantizando lanzamientos sin problemas.
+Implementación efectiva de pruebas unitarias que aseguraron la integridad del código en todo momento.
+Colaboración exitosa en equipos ágiles utilizando metodologías SCRUM y herramientas como JIRA y MS Project.
+Actualización con éxito de proyectos, eliminando código obsoleto y mejorando la eficiencia general.
+Integración exitosa de librerías de terceros que mejoraron la funcionalidad y el rendimiento.
+Diseño y preparación de interfaces impactantes que mejoraron la experiencia del usuario.
+Ofrecimiento de soporte técnico de calidad que contribuyó a la satisfacción de sucursales y usuarios.
+Implementación exitosa de patrones de diseño que mejoraron la estructura y la mantenibilidad del código.
+Gestión eficaz de versiones en Git que facilitó el trabajo colaborativo del equipo.
+Herramientas/Habilidades:
+Mobile Testing, JIRA, IBM MQ Server, MQ, FireBase, Git, PostMan, Retail, Automated Testing
+Freelancer	USA­MEX ­ Application Maintenance	De: Jan, 2021 A: Sep, 2023
+Engineer (L3) ­ Senior Descripción:
+Funciones:
+Utilización de APIs para mapas y geolocalización, mejorando la experiencia del usuario en aplicaciones de entrega y logística.
+Creación y configuración de servidores en Firebase para una gestión eficiente de datos y servicios en la nube.
+Implementación de autenticación a través de la API de Google para garantizar la seguridad de las aplicaciones.
+Desarrollo de vistas personalizadas con RecyclerViews para una visualización efectiva y estructurada de la información.
+Personalización de estados en la aplicación para proporcionar una retroalimentación clara a los usuarios.
+Diseño y creación de un carrito de compras local con capacidad de exportación a la nube, mejorando la experiencia de compra.
+Implementación de notificaciones personalizadas, manteniendo a los usuarios informados y comprometidos.
+Desarrollo exitoso de tres entregables de la aplicación: usuarios, restaurantes y repartidores, optimizando el flujo de trabajo.
+Integración de mapas y rutas para usuarios y repartidores, mejorando la eficiencia en la navegación.
+Implementación de la estructura de programación Modelo­Vista­Controlador (MVC) y Modelo­Vista­Modelo de Vista (MVVM) para una arquitectura sólida y mantenible.
+Utilización de Dagger Hilt y ViewBinding para una gestión eficiente de la inyección de dependencias y la vinculación de vistas. Desarrollo de características de carga y almacenamiento de imágenes para la aplicación de restaurantes.
+Creación y gestión de un carrito de compras local utilizando Room Database y SQLite, mejorando la experiencia del usuario.
+Diseño y desarrollo de una aplicación de gestión de almacenes para un control eficiente del inventario.
+Creación y configuración de un servidor en la nube utilizando Firestore para una gestión centralizada de datos.
+Implementación de vistas efectivas para mostrar información de manera clara y comprensible.
+Actualización en tiempo real de datos, mejorando la precisión y la usabilidad de las aplicaciones.
+Gestión de inventario en Firebase mediante el uso de operaciones CRUD, optimizando la gestión de productos y recursos.
+Autenticación de usuarios, asegurando la privacidad y la seguridad de la información.
+Creación de perfiles diferenciados (usuarios comunes y administradores) para un acceso controlado a las funcionalidades.
+Sincronización de datos offline, permitiendo a los usuarios trabajar sin conexión y mantener la coherencia de la información.
+Implementación de estados de la aplicación para una experiencia fluida y sin problemas.
+Configuración de notificaciones de alerta, manteniendo a los usuarios informados sobre eventos importantes.
+Logros:
+Lideré proyectos exitosos de desarrollo de plataformas de entrega, escolares y minoristas, aplicando una amplia gama de tecnologías para lograr resultados óptimos.
+Desarrollé aplicaciones funcionales y atractivas que mejoraron la eficiencia y la experiencia del usuario.
+Implementé con éxito soluciones de autenticación y seguridad mediante APIs de Google y Firebase.
+Diseñé vistas personalizadas y optimizadas utilizando RecyclerViews para una experiencia de usuario mejorada.
+Contribuí a la creación de carritos de compras locales y su integración en la nube, aumentando la comodidad del usuario.
+Desarrollé sistemas de notificación personalizados que mantuvieron a los usuarios comprometidos y actualizados.
+Logré la entrega exitosa de tres componentes clave de la aplicación, optimizando la funcionalidad general.
+Mejoré la navegación y la eficiencia de usuarios y repartidores mediante la implementación de mapas y rutas.
+Aplicación exitosa de arquitecturas Modelo­Vista­Controlador (MVC) y Modelo­Vista­Modelo de Vista (MVVM) para garantizar un código limpio y modular.
+Utilicé con éxito Dagger Hilt y ViewBinding para mejorar la gestión de dependencias y la vinculación de vistas.
+Diseñé y desarrollé con éxito características de carga de imágenes y carrito de compras con Room Database y SQLite.
+Logré la creación de una aplicación de gestión de almacenes funcional que mejoró la eficiencia operativa.
+Establecí un servidor en la nube utilizando Firestore que mejoró la gestión de datos y la escalabilidad.
+Implementé vistas claras y efectivas que presentaron información de manera comprensible y atractiva.
+Contribuí a la actualización en tiempo real de datos, mejorando la calidad y precisión de la información.
+Lideré la gestión de inventario en Firebase mediante CRUD, mejorando la organización y eficiencia.
+Contribuí al diseño de perfiles de usuario diferenciados y sistemas de autenticación seguros.
+Logré la implementación de sincronización de datos offline, permitiendo a los usuarios trabajar sin conexión.
+Contribuí a una experiencia de usuario fluida mediante la implementación de estados y notificaciones efectivas.
+Herramientas/Habilidades:
+Android Kotlin, AWS Data Pipeline, AWS Microservices, FireBase, User Experience (UX), User Interface (UI), Amazon API Gateway , Business Process Mapping, EDI Mapping, MVC Framework, Google API, Google Cloud
+NCR	Puebla ­ Application Maintenance	De: Sep, 2019 A: Mar, 2020
+Engineer (L3) ­ Junior Descripción:
+Funciones:
+Brindar soporte técnico a usuarios finales en servicios de retail y aplicativos de cajeros en bancos como BANORTE, BANAMEX y BBVA, tanto en sitio como de forma remota.
+Responsable del mantenimiento y solución de problemas relacionados con el hardware y software en puntos de venta y cajeros automáticos.
+Liderar la atención y resolución de incidencias para garantizar un funcionamiento continuo y eficiente de los sistemas.
+Colaborar estrechamente con equipos de trabajo interdisciplinarios para asegurar una respuesta oportuna y eficaz a las necesidades del cliente.
+Documentar detalladamente todas las actividades realizadas, incluyendo diagnósticos, soluciones implementadas y seguimiento de problemas.
+Asumir el rol de encargado de redes, gestionando equipos de Cisco y asegurando la conectividad y estabilidad de las infraestructuras de red en empresas de retail como Walmart, Bodega Aurrera y Sam's Clubs.
+Logros:
+Liderar proyectos exitosos de resolución de incidencias, resultando en una mejora significativa en la eficiencia operativa de los sistemas de cajeros automáticos y puntos de venta.
+Implementar soluciones innovadoras que redujeron el tiempo de inactividad de los sistemas y aumentaron la satisfacción del cliente en un 1%.
+Documentar detalladamente cada actividad realizada, facilitando la transferencia de conocimientos dentro del equipo y asegurando una gestión eficiente de las incidencias.
+Mejorar la estabilidad y rendimiento de las redes en empresas de retail, garantizando una conectividad confiable para operaciones críticas.
+Colaborar con equipos multidisciplinarios para implementar mejoras proactivas en la infraestructura tecnológica, aumentando la eficiencia y reduciendo los costos operativos.
+Herramientas/Habilidades:
+EDUCACIÓN
+Universidad Tecnológica de Izúcar de	Izúcar de Matamoros, Puebla | Universidad Tecnológica de Izúcar de	Izúcar de Matamoros, Puebla | De: Sep, 2015 A: Jul, 2019 Lower Intermediate 31­50%
+Matamoro
+Ingeniería
+IDIOMAS
+English
+HABILIDADES TÉCNICAS/GERENCIALES | Auto Evaluado | De: Sep, 2015 A: Jul, 2019 Lower Intermediate 31­50%
+User Interface (UI) | Senior (4­6 YoE)
+User Experience (UX) | Senior (4­6 YoE)
+SonarQube | Proficient (2­4 YoE)
+Retail | Senior (4­6 YoE)
+PostMan | Senior (4­6 YoE)
+PostgreSQL | Senior (4­6 YoE)
+MVC Framework | Proficient (2­4 YoE)
+MQ | Senior (4­6 YoE)
+Mobile Testing | Senior (4­6 YoE)
+JIRA	 Senior (4­6 YoE) iOS Swift	 Trainee (0­1 YoE) IBM MQ Server	 Senior (4­6 YoE)
+Google Cloud Server	 	Senior (4­6 YoE)
+Google Cloud	 	Senior (4­6 YoE)
+Google API	 	Senior (4­6 YoE)
+Git	 	Senior (4­6 YoE)
+GCP SysOps	 	Proficient (2­4 YoE)
+FireBase	 	Senior (4­6 YoE)
+EDI Mapping	 	Proficient (2­4 YoE)
+Business Process Mapping	 	Proficient (2­4 YoE)
+AWS Microservices	 	Senior (4­6 YoE)
+AWS Data Pipeline	 	Proficient (2­4 YoE)
+Automated Testing	 	Senior (4­6 YoE)
+Android Kotlin	 	Senior (4­6 YoE)
+Android	 	Senior (4­6 YoE)
+Amazon API Gateway	 	Proficient (2­4 YoE)

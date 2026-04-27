@@ -1,0 +1,107 @@
+Rosain Castillo Eng
+Líder Técnico
+EXPERIENCIA PROFESIONAL
+Tengo al menos 5 años de experiencia en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas. Dominio en las tecnologías de la Arquitectura de Referencia (AR)  y/o tecnologías open source. Adicional, tengo al menos 3 años de experiencia en desarrollo en metodologías ágiles. Me encargo de la planificación, control y seguimiento de la fase de construcción, asegurando la implementación y el uso de una arquitectura de software sólida, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación mediante el uso y adaptación de frameworks y estándares, además de brindar asesoría al equipo técnico en la resolución de tareas complejas.
+
+Dirijo equipos técnicos y coordino la entrega de soluciones que integran arquitecturas, seguridad y plataformas en la nube; trabajo en proyectos que requieren cumplimiento de PCI DSS (Estándar de seguridad para datos de tarjetas) e integración de Organización Internacional de Normalización (ISO 8583 - Protocolo de mensajería para transacciones financieras), y gestiono la adopción de contenedores y pipelines para automatizar despliegues. Mi enfoque está en garantizar continuidad operativa, integridad de datos y cumplimiento de requisitos no funcionales.
+
+Planifico y superviso actividades de construcción, pruebas de extremo a extremo y migraciones, así como el seguimiento de métricas y riesgos. Coordino equipos multidisciplinarios, facilito la integración entre áreas y priorizo entregables por iteración para asegurar la calidad y el cumplimiento de plazos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek - Walmart de México y Centroamérica | Puesto
+Tech Lead | Desde:
+1 junio 2020 | Hasta: 
+Actual
+Actividades Principales | • Dirijo y coordino equipos de trabajo implementando y optimizando tecnologías para cumplir los objetivos estratégicos de desarrollo. Aseguro la calidad del software, la correcta implementación de las soluciones y el uso adecuado de herramientas y buenas prácticas. Actúo como puente entre el equipo técnico y otras áreas del proyecto o de la institución. Garantizo la integración de los componentes técnicos y los alineo con la arquitectura y la seguridad del SAT. Habilidades en: Gestión de Proyectos, Liderazgo.
+• Comprendo la propuesta de negocio y las necesidades del cliente.
+• Defino un plan de trabajo detallado para la fase de construcción.
+• Estimo las tareas de programación.
+• Colaboro con el arquitecto en la definición de la arquitectura y la solución técnica.
+• Aseguro la aplicación de estándares de codificación y de base de datos.
+• Asesoro y coordino a ingenieros de software.
+• Aseguro el uso de subsistemas de soporte y la correcta implementación del framework para garantizar el cumplimiento de los requerimientos no funcionales (seguridad, disponibilidad, escalabilidad, mantenibilidad y desempeño, entre otros).
+• Administro la configuración de los productos de construcción (CTR).
+• Desarrollo y/o coordino implementaciones de referencia.
+• Aseguro la aplicación de checklists para la revisión de los productos.
+• Coordino la integración de macro-componentes a la arquitectura.
+• Defino prioridades para la construcción en cada iteración.
+• Fomento la aplicación de patrones de diseño.
+• Participo en la definición del esquema de integración de las aplicaciones.
+• He participado en proyectos de más de 20 mil horas, donde apoyo en la definición de soluciones para requerimientos no funcionales y aseguro el correcto desempeño del sistema. Además, planeo y coordino equipos de más de 15 ingenieros de software, garantizando una ejecución eficiente de las actividades.
+• He usado la certificación Scrum Alliance como fundamento para aplicar metodologías ágiles basadas en Scrum, considerando roles, eventos y artefactos.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.
+STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.
+STE: Ejecuto escenarios de prueba.
+INT: Diseño y preparo testware.
+UAT: Apoyo en las actividades de pruebas del usuario.
+• Defino las pruebas y los tiempos de respuesta del software que sustituirá el mecanismo de cifrado de tarjetas bancarias para cumplir con los controles de PCI DSS (Estándar de seguridad para datos de tarjetas).
+• Solicito los requerimientos de hardware necesarios para la ambientación de legados que utilizan el software de cifrado.
+• Realizo la ambientación de los legados y sus endpoints para ejecutar pruebas de extremo a extremo y garantizar el correcto funcionamiento del cifrado.
+• Estimo el tiempo y esfuerzo requerido para actualizar los componentes que utilizan el software de cifrado.
+• Defino el mensaje ISO-8583 (Protocolo de mensajería para transacciones financieras) para el cambio de autorizador del legado de renovación de membresías, sustituyendo EPay por Authentic.
+• Coordino el equipo de desarrollo para actualizar el código al uso del nuevo software de cifrado.
+• Diseño un modelo de cruce de información de las diferentes fuentes de ingreso para garantizar la carga completa y correcta.
+• Configuro RDS para PostgreSQL (Base de datos relacional avanzada).
+• Configuro y ejecuto SonarQube con Docker (Contenerización de aplicaciones) en una instancia de EC2.
+• Configuro Dockerfile para crear las imágenes del front (React) y del back (ASP.NET Core (Framework para APIs y aplicaciones web)).
+• Configuro AWS (Plataforma de servicios en la nube) Fargate para la ejecución de los contenedores de front y back.
+• Automatizo la publicación de los contenedores del front y del back mediante Azure DevOps (Plataforma de gestión ágil y CI/CD).
+• Coordino la etapa de análisis de procesos de conciliación de la dependencia.
+• Elaboro el cronograma utilizando MS Project (Planificación de cronogramas, ruta crítica, cargas y costos).
+• Incorporo recursos al equipo.
+• Elaboro el Plan de Desarrollo de Proyecto (PDP).
+• Reviso métricas.
+• Monitoreo y registro de riesgos.
+• Presento avance.
+Empresa
+Softtek - Element Fleet Management | Puesto
+Tech Lead | Desde:
+2 enero 2020 | Hasta: 
+31 mayo 2020
+Actividades Principales | • Configuro RDS para PostgreSQL (Base de datos relacional avanzada).
+• Configuro y ejecuto SonarQube con Docker (Contenerización de aplicaciones) en una instancia de EC2.
+• Configuro Dockerfile para crear las imágenes del front (React) y del back (ASP.NET Core (Framework para APIs y aplicaciones web)).
+• Configuro AWS (Plataforma de servicios en la nube) Fargate para la ejecución de los contenedores de front y back.
+• Automatizo la publicación de los contenedores del front y del back mediante Azure DevOps (Plataforma de gestión ágil y CI/CD).
+Empresa
+Softtek - BANOBRAS | Puesto
+Project Manager | Desde:
+3 junio 2019 | Hasta: 
+31 diciembre 2019
+Actividades Principales | • Coordino la etapa de análisis de procesos de conciliación de la dependencia.
+• Elaboro el cronograma utilizando MS Project (Planificación de cronogramas, ruta crítica, cargas y costos).
+• Incorporo recursos al equipo.
+• Elaboro el Plan de Desarrollo de Proyecto (PDP).
+• Reviso métricas.
+• Monitoreo y registro de riesgos.
+• Presento avance.
+HERRAMIENTAS CONOCIDAS
+- SonarQube
+- Docker
+- EC2
+- AWS
+- Azure DevOps
+- PostgreSQL
+- ASP.NET Core
+- React
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 febrero de 2006 hasta 31 mayo de 2019
+Durante este período asumí roles como .NET Developer, .NET Consultant, Project Manager, Software Architect y Catedrático, desempeñando responsabilidades de desarrollo y mantenimiento, migración y actualización de plataformas, planificación y seguimiento de proyectos, coordinación de equipos y ejecución de pruebas. Me encargué de garantizar la continuidad operativa, la migración tecnológica, la optimización de procesos y la implementación de controles de calidad mediante métricas y seguimiento, manteniendo comunicación con áreas de negocio y equipos distribuidos.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Sistemas Computacionales - CDMX/2005 | Universidad Tecnológica de México | Cédula Profesional
+7444528
+20 marzo 2012
+CERTIFICACIONES
+- Certified Scrum Master - ScrumAlliance | 2026-2028
+CURSOS
+- Crear Página Web con HTML y CSS
+- Diseño Página Web con HTML+CSS
+- HTML5
+- The Complete Guide to HTML
+______________________________________
+Rosain Castillo Eng
+Líder Técnico | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

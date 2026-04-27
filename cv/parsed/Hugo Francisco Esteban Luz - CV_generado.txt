@@ -1,0 +1,134 @@
+Hugo Francisco Esteban Luz
+Lider Tecnico
+FUNCIONES
+Dirijo y coordino equipos de trabajo mediante la implementación y optimización de tecnologías para alcanzar los objetivos estratégicos de desarrollo, asegurando la calidad del software, la correcta implementación de las soluciones y el uso adecuado de herramientas y buenas prácticas. Actúo como enlace entre el equipo técnico y otras áreas del proyecto o de la institución, y garantizo la integración de los componentes técnicos alineándolos con la arquitectura y los lineamientos de seguridad del SAT. Cuento con habilidades en gestión de proyectos y liderazgo.
+Dirijo equipos en proyectos del sector bancario, retail y facturación electrónica, diseñando soluciones orientadas a microservicios y proponiendo mejoras para despliegues y rendimiento. Coordino el refinamiento de historias de usuario, la integración con proveedores y la ejecución de pruebas funcionales para garantizar la continuidad y calidad del servicio.
+EXPERIENCIA PROFESIONAL
+Tengo al menos 5 años de experiencia en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas.
+Dominio en las tecnologías de la Arquitectura de Referencia (AR)  y/o tecnologías open source. Adicional, tengo al menos 3 años de experiencia en desarrollo en metodologías ágiles. Me encargo de la planificación, control y seguimiento de la fase de construcción, asegurando la implementación y el uso de una arquitectura de software sólida, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación mediante el uso y adaptación de frameworks y estándares, además de brindar asesoría al equipo técnico en la resolución de tareas complejas.
+Tengo amplia experiencia liderando equipos en proyectos bancarios, retail y de facturación electrónica, proponiendo y diseñando arquitecturas orientadas a microservicios y mejoras para despliegues y desempeño. Coordino refinamiento de historias, la integración con proveedores y la definición de flujos críticos, asegurando continuidad operativa y calidad en la entrega.
+Mi experiencia técnica incluye desarrollo en C# (Lenguaje de programación para desarrollo backend), .NET Framework y .NET Core, Web API, MVC y arquitecturas Onion/Clean; uso de Docker (Contenerización de aplicaciones), gestión de código con Git (Control de versiones distribuido)/Bitbucket (Repositorio de código y colaboración) y prácticas DevOps. Gestión sprints, revisiones de código, pruebas funcionales y despliegues a producción forman parte de mi trabajo cotidiano, orientado a soluciones escalables y mantenibles.
+EXPERIENCIA LABORAL
+Empresa
+Softtek - Walmart | Puesto
+Technical Leader | Desde:
+1 septiembre 2020 | Hasta: 
+A la fecha
+Actividades Principales | • Dirijo y coordino equipos de trabajo implementando y optimizando tecnologías para alcanzar objetivos estratégicos de desarrollo. Aseguro la calidad del software, la correcta implementación de soluciones y el uso adecuado de herramientas y buenas prácticas; me desempeño como enlace entre el equipo técnico y otras áreas, garantizando la integración de componentes técnicos alineados con la arquitectura y la seguridad del SAT. Habilidades en: Gestión de Proyectos, Liderazgo.
+• Comprendo la propuesta de negocio y las necesidades del cliente.
+• Defino un plan de trabajo detallado para la fase de construcción.
+• Estimo las tareas de programación.
+• Colaboro con el arquitecto en la definición de la arquitectura y la solución técnica.
+• Aseguro la aplicación de estándares de codificación y de base de datos.
+• Asesoro y coordino a ingenieros de software.
+• Aseguro el uso de subsistemas de soporte y la correcta implementación del framework para el cumplimiento de requerimientos no funcionales (seguridad, disponibilidad, escalabilidad, mantenibilidad y desempeño).
+• Administro la configuración de los productos de construcción (CTR).
+• Desarrollo y coordino implementaciones de referencia.
+• Aseguro la aplicación de checklists para la revisión de los productos.
+• Coordino la integración de macro-componentes a la arquitectura.
+• Defino prioridades para la construcción en cada iteración.
+• Fomento la aplicación de patrones de diseño.
+• Participo en la definición del esquema de integración de las aplicaciones.
+• He participado en proyectos de más de 20 mil horas, donde apoyo en la definición de soluciones para requerimientos no funcionales y aseguro el correcto desempeño del sistema; además, planeo y coordino equipos de más de 15 ingenieros de software para garantizar una ejecución eficiente de las actividades.
+• He usado el curso Java Message Service (JMS) Fundamentals para implementar mensajería asíncrona y desacoplada en aplicaciones Java empresariales mediante JMS
+• He usado la certificación Certified ScrumMaster® (CSM) para aplicar el marco de trabajo Scrum en la gestión de proyectos ágiles, facilitando ceremonias, promoviendo la colaboración del equipo y asegurando la entrega de valor
+• Participo en los procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek.
+• CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.
+• STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.
+• STE: Ejecuto escenarios de prueba.
+• INT: Diseño y preparo testware.
+• Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de pruebas del usuario.
+• Entiendo y refino Historias de Usuario con áreas de BA, Aseguramiento de la Calidad (QA) y DB.
+• Genero documentación técnica para especificaciones e integraciones.
+• Propongo desarrollos basados en patrones de diseño enfocados en funcionalidad.
+• Desarrollo en C# (Lenguaje de programación para desarrollo backend) (.NET Framework 4.6), .NET Core, .NET Standard; implemento WebApi y front Razor.
+• Desarrollo siguiendo arquitectura Onion, MVC y Clean.
+• Desarrollo y ejecuto pruebas funcionales.
+• Gestiono ramas en Git (Control de versiones distribuido) para múltiples proyectos (GitHub, GitFlow), realizo revisiones de código y apruebo Pull Requests.
+• Lidero equipo de desarrollo de múltiples proyectos, coordinando a 6 personas en .NET y .NET Core.
+• Genero, asigno y hago seguimiento a sprints (Scrum).
+• Documento e implemento en producción, y elaboro especificaciones técnicas para integraciones con proveedores.
+• Analizo requerimientos del Banco de México para CoDi y adecuo el negocio a las especificaciones requeridas.
+• Preparo el desarrollo de la app para certificación con Banco de México.
+• Diseño el core de la app (módulo CoDi) desarrollado en .NET WCF y bases de datos SQL (Lenguaje para gestión y consulta de bases de datos relacionales), estableciendo buenas prácticas y generando pruebas funcionales.
+• Genero historias de usuario por flujo (App, Core) y coordino tareas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) basadas en dichas historias.
+• Estimo horas de desarrollo con el equipo y coordino recursos (4 para Xamarin, 2 para Core .NET).
+• Ejecuto pruebas de desarrollo enfocadas en experiencia de usuario y funcionalidad.
+• Hago seguimiento a pruebas y mejoras por usuario.
+• Coordiné tareas con varios equipos en proyectos de banca empresarial en rol de arquitecto y Chief Scrum Master.
+• Facilito insumos (datos para pruebas, ambientes) y actúo como facilitador técnico para NodeJS y revisión de desarrollos en .NET.
+• Gestión de equipo en fábrica de software: supervisión diaria, reporte de actividades y seguimiento a gerencia.
+• Implementé manejo de Git (Control de versiones distribuido) para proyecto de App CoDi en Xamarin y Core de CoDi en .NET.
+• Introduje seguimiento ágil con reuniones diarias y establecí pruebas funcionales al core de CoDi.
+• Desarrollo en C# (Lenguaje de programación para desarrollo backend) .NET Core 2.0 aplicando arquitectura en capas.
+• Configuro clientes de Identity Server para autenticación y autorización.
+• Despliego aplicaciones en Docker (Contenerización de aplicaciones) para Windows y Linux.
+• Desarrollo servicios REST (WebApi) y pruebas funcionales.
+• Implemento cifrado de mensajes y manejo de ramas en Git (Control de versiones distribuido) con Team Services y Pull Requests.
+• Realizo análisis de requerimientos y generación de diagramas de procesos.
+• Contribuí a la certificación de Web API con First Data integrando prácticas DevOps (Team Services).
+Empresa
+Grupo Financiero Inbursa | Puesto
+Analista de Sistemas (Lider de desarrollo) | Desde:
+30 noviembre 2018 | Hasta: 
+31 diciembre 2020
+Actividades Principales | • Analizo requerimientos del Banco de México para CoDi y adecuo el negocio a las especificaciones requeridas.
+• Preparo el desarrollo de la app para certificación con Banco de México.
+• Diseño el core de la app (módulo CoDi) desarrollado en .NET WCF y bases de datos SQL (Lenguaje para gestión y consulta de bases de datos relacionales), estableciendo buenas prácticas y generando pruebas funcionales.
+• Genero historias de usuario por flujo (App, Core) y coordino tareas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) basadas en dichas historias.
+• Estimo horas de desarrollo con el equipo y coordino recursos (4 para Xamarin, 2 para Core .NET).
+• Ejecuto pruebas de desarrollo enfocadas en experiencia de usuario y funcionalidad.
+• Hago seguimiento a pruebas y mejoras por usuario.
+• Coordiné tareas con varios equipos en proyectos de banca empresarial en rol de arquitecto y Chief Scrum Master.
+• Facilito insumos (datos para pruebas, ambientes) y actúo como facilitador técnico para NodeJS y revisión de desarrollos en .NET.
+• Gestión de equipo en fábrica de software: supervisión diaria, reporte de actividades y seguimiento a gerencia.
+• Implementé manejo de Git (Control de versiones distribuido) para proyecto de App CoDi en Xamarin y Core de CoDi en .NET.
+• Introduje seguimiento ágil con reuniones diarias y establecí pruebas funcionales al core de CoDi.
+Empresa
+Gesfor | Puesto
+Desarrollador .Net Sr | Desde:
+1 noviembre 2017 | Hasta: 
+29 noviembre 2018
+Actividades Principales | • Desarrollo en C# (Lenguaje de programación para desarrollo backend) .NET Core 2.0 aplicando arquitectura en capas.
+• Configuro clientes de Identity Server para autenticación y autorización.
+• Despliego aplicaciones en Docker (Contenerización de aplicaciones) para Windows y Linux.
+• Desarrollo servicios REST (WebApi) y pruebas funcionales.
+• Implemento cifrado de mensajes y manejo de ramas en Git (Control de versiones distribuido) con Team Services y Pull Requests.
+• Realizo análisis de requerimientos y generación de diagramas de procesos.
+• Contribuí a la certificación de Web API con First Data integrando prácticas DevOps (Team Services).
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Certified ScrumMaster® (CSM) – Scrum Alliance 2026-2028
+- Java Message Service JMS Fundamentals
+- C#
+- .NET Framework
+- .NET Core
+- WebApi
+- MVC
+- Docker
+- Git
+- Bitbucket
+- SQL Server
+- Oracle Web Center
+- Node JS
+- AngularJS
+- Visual Studio
+- Xamarin
+- Identity Server
+- NGINX
+- Team Services
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 septiembre de 2012 hasta 30 octubre de 2017
+Durante este período asumí responsabilidades técnicas y de coordinación en roles como Desarrollador .Net, Analista de Sistemas y Desarrollador Net. Me enfoqué en desarrollo de aplicaciones, análisis de requerimientos, corrección de incidencias y soporte funcional, participando en la implementación de sistemas de facturación electrónica y en la administración de bases de datos. Asumí tareas de supervisión de entregables, gestión de código y apoyo a clientes para asegurar la correcta operación de las soluciones.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Lic. En Ingeniería en Sistemas Computacionales - 2010 – 2014 | Universidad Multicultural CUDEC | Cédula Profesional
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Certified ScrumMaster® (CSM) – Scrum Alliance 2026-2028 | 2026
+CURSOS
+- Java Message Service JMS Fundamentals
+______________________________________
+Hugo Francisco Esteban Luz
+Lider Tecnico | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

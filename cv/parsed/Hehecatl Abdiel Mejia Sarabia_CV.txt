@@ -1,0 +1,108 @@
+
+
+--- Página 1 ---
+
+H e h e c a t l   A b d i e l   M e j i a   S a r a b i a
+P E R F I L
+2   a ñ o s   d e   e x p e r i e n c i a   d e s a r r o l l a n d o   c o n   J A V A   y   S p r i n g   F r a m e w o r k   ( A P I   R E S T   y   S O A P )
+1   a ñ o   d e   e x p e r i e n c i a   u s a n d o   B a s e s   d e   d a t o s   ( M y S Q L ,   O r a c l e D B )
+C o n o c i m i e n t o s   B á s i c o s   e n   M o n g o D B
+E X P E R I E N C I A   P R O F E S I O N A L
+S o f t t e k ­   B B V A C i u d a d   d e   m é x i c o   ­   S D E T   ( S o f t w a r e
+D e v e l o p m e n t   E n g i n e e r   i n   T e s t i n g )   ­   J u n i o rD e :   D e c ,   2 0 2 3   A :   L a   F e c h a
+D e s c r i p c i ó n :
+C a p a c i t a c i o n   d e   A P X   B B V A
+H e r r a m i e n t a s / H a b i l i d a d e s :
+J a v a   8 ,   A P X   A r c h i t e c t u r e
+S o f t t e k   ­   A f o r e C i t i b a n a m e x C i u d a d   d e   m é x i c o   ­   S D E T   ( S o f t w a r e
+D e v e l o p m e n t   E n g i n e e r   i n   T e s t i n g )   ­   J u n i o rD e :   J u l ,   2 0 2 3   A :   O c t ,   2 0 2 3
+D e s c r i p c i ó n :
+D e s a r r o l l o   d e   f u n c i o n e s   e n   A f o r e   u t i l i z a n d o   T h y m e l e a f   c o n   J a v a   8   y   S p r i n g b o t
+P o s t e r i o r m e n t e ,   a c t u a l i z a c i o n   d e   p r o y e c t o   a   R E S T   y   u s a n d o   A n g u l a r   F r a m e w o r k
+H e r r a m i e n t a s / H a b i l i d a d e s :
+A n g u l a r   2 + ,   O r a c l e   A p p s   D B A ,   J a v a   8 ,   T h y m e l e a f ,   J a v a s c r i p t ,   J I R A ,   C o n f l u e n c e ,   M a v e n ,   T y p e S c r i p t ,   P o s t M a n
+B B V A   M é x i c o P o l a n c o ,   C D M X   ­   S O F T W A R E   A S S O C I A T E
+S O L U T I O N S   D E V E L O P M E N T   ID e :   J a n ,   2 0 2 3   A :   F e b ,   2 0 2 3
+D e s c r i p c i ó n :
+D e s a r r o l l o   d e   n u e v a   a r q u i t e c t u r a   ( C o n f i d e n c i a l ) .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+J a v a   8 ,   G O / G o l a n g
+G r u p o   N A C H T l a l p a n ,   C D M X   ­   T e c h   L e a d D e :   J a n ,   2 0 2 3   A :   M a r ,   2 0 2 3
+D e s c r i p c i ó n :
+S e l e c t i v i d a d   d e   c a n d i d a t o s   p a r a   i n g r e s o   a   s e m i l l e r o
+C a p a c i t a c i ó n   d e   l o s   c a n d i d a d o s   d e   s e m i l l e r o   o   n u e v o   i n g r e s o   p a r a   U P A X ,   e m p r e s a   d e   G r u p o   S a l i n a s
+C r e a c i ó n   d e   c o n t e n i d o   p a r a   l a   c a p a c i t a c i ó n   R e m o t a   J A V A   B a c k   E n d
+H e r r a m i e n t a s / H a b i l i d a d e s :
+S p r i n g   B O O T ,   S p r i n g   F r a m e w o r k ,   O r a c l e   D a t a b a s e ,   P o s t M a n ,   M S   T e a m s ,   J a v a s c r i p t
+D I F   M o r e l o s C u e r n a v a c a ,   M o r   ­   D e s a r r o l l a d o r   J A V A
+B a c k e n dD e :   J u l ,   2 0 2 1   A :   J u l ,   2 0 2 2
+D e s c r i p c i ó n :
+A n á l i s i s   d e   r e q u e r i m i e n t o s
+A n á l i s i s   d e   D a t o s   y   E s t r u c t u r a c i ó n   d e   B a s e   d e   d a t o s   e n   M y S Q L
+D e s a r r o l l o   d e   A P I   R E S T   ( C i u d a d a n o s , P e t i c i o n e s   y   L o g i s t i c a )
+R e p r e s e n t a c i ó n   d e   R e s p u e s t a s   M e d i a n t e   T y m e l e a f ,   J S ,   H T M L 5   Y   B o o t s t r a p   5 )
+
+--- Página 2 ---
+
+E D U C A C I Ó N
+D E S A R R O L L O   P R O F E S I O N A L
+I D I O M A S
+H A B I L I D A D E S   T É C N I C A S / G E R E N C I A L E SH e r r a m i e n t a s / H a b i l i d a d e s :
+J a v a   8 ,   S p r i n g   B O O T ,   R E S T ,   M y S Q L ,   P o s t M a n ,   B o o t s t r a p ,   J a v a s c r i p t ,   H T M L 5 ,   T y m e l e a f
+A L P H A C u e r n a v a c a ,   M o r   ­   D e s a r r o l l a d o r   J A V A D e :   M a y ,   2 0 2 0   A :   J u l ,   2 0 2 1
+D e s c r i p c i ó n :
+•   D i s e ñ o ,   i m p l e m e n t a c i ó n   y   m a n t e n i m i e n t o   a   s i t i o s   w e b .   P a r t i c i p a c i ó n   d u r a n t e   e s t a s   e t a p a s   d e l   c i c l o   d e   v i d a   d e l   d e s a r r o l l o   d e   S o f t w a r e
+•   I n t e g r a c i ó n ,   d e s a r r o l l o   y   m o d i f i c a c i ó n   d e   S c r i p t s .   D e s a r r o l l o   d e   f u n c i o n e s   r e a l i z a d a s   c o n   j a v a s c r i p t   p a r a   l a   f u n c i o n a l i d a d   d e   l a   p a r t e   w e b .
+•   D e s a r r o l l o   d e   s i t i o s ,   p l a n t i l l a s   y   a p l i c a c i o n e s   w e b .   D e s a r r o l l o   d e   i n t e r f a c e s   w e b   u t i l i z a n d o   J Q u e r y ,   a d e m á s   d e   H T M L 5
+•   D i s e ñ o   e   i m p l e m e n t a c i ó n   d e   S e r v i c i o s   w e b .   D e s a r r o l l o   d e   s e r v i c i o s   t a n t o   S O A P   c o m o   R E S T f u l .   D e s a r r o l l o   d e   u n   c l i e n t e   p a r a   s e r v i c i o s   w e b
+S O A P   m e d i a n t e   l a   l i b r e r í a   A X I S .   P u b l i c a c i ó n   d e   o p e r a c i o n e s   C R U D   m e d i a n t e   s e r v i c i o s   R E S T f u l   d e s a r r o l l a d o   c o n   S p r i n g   B o o t ,   u t i l i z a n d o
+H i b e r n a t e   c o m o   c o n e x i ó n   a   u n a   b a s e   d e   d a t o s   O r a c l e .
+•   U s o   d e l   f r a m e w o r k   d e   S c r u m .   P a r t i c i p a c i ó n   c o m o   p a r t e   d e l   D e v e l o p m e n t   T e a m .
+•   A p l i c a c i ó n   d e   a r q u i t e c t u r a   d e   m i c r o s e r v i c i o s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+I n t e l l i J   I D E A ,   O r a c l e   D a t a b a s e ,   P o s t M a n ,   J a v a   8 ,   S p r i n g   F r a m e w o r k ,   B o o t s t r a p ,   A X I S ,   H i b e r n a t e ,   J a v a s c r i p t
+U n i v e r s i d a d   d e l   V a l l e   d e   C u e r n a v a c a C u e r n a v a c a ,   M o r D e :   S e p ,   2 0 1 7   A :   D e c ,   2 0 2 0
+I n g e n i e r í a   e n   s i s t e m a s
+c o m p u t a c i o n a l e s
+C B T i s   5 6   I g n a c i o   M a y a   H e r r e r a I g u a l a   d e   l a   I n d e p e n d e n c i a ,   G r o D e :   A u g ,   2 0 1 3   A :   J u l ,   2 0 1 6
+T é c n i c o   e n   P r o g r a m a c i ó n
+C e r t i f i c a t i o n :   N e g o t i a t i o n   A s s o c i a t e S c r u m   S t u d y J a n ,   2 0 2 4
+C e r t i f i c a t i o n :   C o r p o r a t e   S a l e s   F u n d a m e n t a l s S c r u m   S t u d y J a n ,   2 0 2 4
+C e r t i f i c a t i o n :   S i x   S i g m a   Y e l l o w   B e l t S c r u m   S t u d y J a n ,   2 0 2 4
+C e r t i f i c a t i o n :   S c r u m   F u n d a m e n t a l s   C e r t i f i e d S c r u m   S t u d y N o v ,   2 0 2 3
+C o u r s e :   M o n g o D B   2 0 2 3 U d e m y J u l ,   2 0 2 3
+C o u r s e :   S Q L   B o o t C a m p   P o s t g r e S Q L U d e m y J u n ,   2 0 2 3
+C o u r s e :   O r a c l e D B   P a r a   E m p r e s a s   y   D e s a r r o l l o U d e m y J u n ,   2 0 2 3
+C o u r s e :   U n i v e r s i d a d   C S S U d e m y A u g ,   2 0 2 2
+C o u r s e :   U n i v e r s i d a d   H T M L U d e m y A u g ,   2 0 2 2
+C o u r s e :   I n t r o d u c c i ó n   a   l a   S e g u r i d a d   I n f o r m á t i c a U d e m y A u g ,   2 0 2 2
+C e r t i f i c a t i o n :   A d m i n i s t r a d o r   d e   s e r v i d o r e s   w e b   c o n   L i n u x U d e m y A u g ,   2 0 2 2
+C o u r s e :   H a c k i n g   C o r p o r a t i v o U d e m y A u g ,   2 0 2 2
+C o u r s e :   C r e a c i ó n   d e   p á g i n a s   w e b   c o n   W o r d p r e s s U d e m y A u g ,   2 0 2 2
+E n g l i s h A u t o   E v a l u a d o B e g i n n e r   1 1 ­ 3 0 %
+S p a n i s h A u t o   E v a l u a d o F l u e n t   A d v a n c e d   9 6 – 1 0 0 %
+T y p e S c r i p t   T r a i n e e   ( 0 ­ 1   Y o E )
+T y m e l e a f   J u n i o r   ( 1 ­ 2   Y o E )
+T h y m e l e a f   J u n i o r   ( 1 ­ 2   Y o E )
+S p r i n g   F r a m e w o r k   J u n i o r   ( 1 ­ 2   Y o E )
+S p r i n g   B O O T   J u n i o r   ( 1 ­ 2   Y o E )
+R E S T   J u n i o r   ( 1 ­ 2   Y o E )
+
+--- Página 3 ---
+
+P o s t M a n   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+O r a c l e   D a t a b a s e   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M y S Q L   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M S   T e a m s   J u n i o r   ( 1 ­ 2   Y o E )
+M a v e n   J u n i o r   ( 1 ­ 2   Y o E )
+J I R A   J u n i o r   ( 1 ­ 2   Y o E )
+J a v a s c r i p t   J u n i o r   ( 1 ­ 2   Y o E )
+J a v a   8   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+I n t e l l i J   I D E A   J u n i o r   ( 1 ­ 2   Y o E )
+H T M L 5   J u n i o r   ( 1 ­ 2   Y o E )
+H i b e r n a t e   J u n i o r   ( 1 ­ 2   Y o E )
+G O / G o l a n g   T r a i n e e   ( 0 ­ 1   Y o E )
+C o n f l u e n c e   J u n i o r   ( 1 ­ 2   Y o E )
+B o o t s t r a p   T r a i n e e   ( 0 ­ 1   Y o E )
+A X I S   T r a i n e e   ( 0 ­ 1   Y o E )
+A P X   A r c h i t e c t u r e   T r a i n e e   ( 0 ­ 1   Y o E )

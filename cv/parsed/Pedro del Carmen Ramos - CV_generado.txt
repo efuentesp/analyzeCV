@@ -1,0 +1,143 @@
+Pedro del Carmen Ramos
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas. Trabajo con equipos multidisciplinarios aplicando prácticas de desarrollo, pruebas unitarias y pipelines de integración continua, priorizando la calidad y el cumplimiento de plazos; mi objetivo es entregar soluciones que faciliten la operación continua y la adaptación de los sistemas a las necesidades del negocio.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 2 años de experiencia en programación en tecnologías de referencia y código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación de sistemas y su puesta en funcionamiento mediante el uso de lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y tiempos establecidos dentro del plan de trabajo.
+
+Soy ingeniero en ciencias de la computación con experiencia en desarrollo backend y portales corporativos, orientado a mantener la continuidad operativa y entregar soluciones confiables. He participado en todas las fases del ciclo de vida del software, desde levantamiento de requisitos hasta despliegue y soporte post‑implementación, contribuyendo a la disponibilidad y estabilidad de las aplicaciones.
+
+Trabajo con equipos multidisciplinarios aplicando buenas prácticas de desarrollo, pruebas unitarias y pipelines de integración continua, priorizando la calidad y el cumplimiento de plazos. Mi enfoque es entregar soluciones que faciliten la operación continua y la adaptación de los sistemas a las necesidades del negocio.
+EXPERIENCIA LABORAL
+Empresa
+AXA México | Puesto
+Software Engineer - Senior | Desde:
+01 julio de 2023 | Hasta: 
+01 julio de 2025
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y los pongo a punto para que sean funcionales, todo ello mediante lenguajes de programación. Habilidades en; conceptos de programación, trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso Gestión Continua de la Calidad del Software con SonarQube para analizar código, medir calidad y aplicar prácticas de mejora continua en proyectos de software.
+• He puesto en práctica el curso Git Essentials para gestionar control de versiones y flujos de trabajo colaborativos utilizando Git, Bitbucket y Sourcetree.
+• He aplicado el curso Project in DevOps: Jenkins CI/CD for Kubernetes Deployments para implementar pipelines CI/CD con Jenkins orientados a despliegues en Kubernetes.
+• He puesto en práctica el curso Apache Kafka for Absolute Beginners para implementar sistemas de mensajería y procesamiento de eventos distribuidos.
+• He aplicado el curso Apache Maven: Beginner to Guru para gestionar dependencias y automatizar la construcción de proyectos Java.
+• He puesto en práctica el curso Azure SQL Server for Beginners (Parte 1) para configurar y administrar bases de datos SQL Server en Azure.
+• He aplicado el curso Azure SQL Server for Beginners (Parte 2) para profundizar en consultas, seguridad y administración avanzada en Azure SQL.
+• He puesto en práctica el curso Docker for Java Developers para contenerizar aplicaciones Java y prepararlas para entornos de despliegue modernos.
+• He aplicado el curso Docker for the Absolute Beginner para implementar contenedores Docker y comprender su uso dentro de prácticas DevOps.
+• He puesto en práctica el curso Eclipse Tutorial for Beginners para desarrollar y depurar aplicaciones Java utilizando el IDE Eclipse.
+• He aplicado el curso Learn Apache Camel Framework with Spring Boot para implementar integraciones y flujos de mensajería en aplicaciones Spring Boot.
+• He puesto en práctica el curso Learn DevOps: CI/CD with Jenkins using Pipelines and Docker para implementar integración y despliegue continuo con Jenkins y Docker.
+• He aplicado el curso Learn Java Unit Testing with JUnit  Mockito para implementar pruebas unitarias y mocks en aplicaciones Java.
+• He puesto en práctica el curso Microsoft Azure: From Zero to Hero para implementar servicios de nube en Azure desde nivel básico hasta intermedio.
+• He aplicado el curso Comienza con MongoDB para modelar y gestionar bases de datos NoSQL utilizando MongoDB.
+• He puesto en práctica el curso Master Spring Boot 3  Spring Framework 6 para desarrollar aplicaciones backend modernas con Java y Spring.
+• He aplicado el curso OpenShift 4 desde cero para desplegar y administrar aplicaciones contenerizadas sobre Kubernetes empresarial.
+• He puesto en práctica el curso Java Message Service (JMS) Fundamentals para implementar mensajería asíncrona en aplicaciones Java empresariales.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Participé como desarrollador Liferay con Java (Lenguaje de programación para desarrollo de aplicaciones) 8 y Java (Lenguaje de programación para desarrollo de aplicaciones) 11, dando soporte y actualizaciones a aplicaciones desarrolladas con Spring, HTML, javascript, CSS y pruebas unitarias utilizando Mockito, PowerMock y JUnit.
+• Utilicé pipelines y Devops para la implementación y colaboración en el desarrollo, además de implementar seguridad mediante OAuth 2 para autenticación y autorización mediante los roles y permisos asociados.
+• Actué como desarrollador de software y mantenimiento de aplicaciones, creación de portlets y módulos para portales desarrollados en Liferay.
+• Creé un service builder para el consumo y persistencia de datos en Base de datos.
+• Desarrollé  templates para sitios e intranets.
+• Desarrollé aplicaciones en la nube de Google Cloud y uso de Google Cloud Storage para el envio masivo de campañas a traves de correo electrónico.
+• Desarrollé software Liferay dando soporte y mantenimiento a aplicaciones desarrolladas en liferay con Spring y Java (Lenguaje de programación para desarrollo de aplicaciones) Server Faces (JSF) y Java (Lenguaje de programación para desarrollo de aplicaciones) Server Pages (JSP).
+Empresa
+AG CONSULTORIA Y SISTEMAS DE MEXICO | Puesto
+Software Engineer - Senior | Desde:
+01 septiembre de 2022 | Hasta: 
+30 junio de 2023
+Actividades Principales | • Actué como desarrollador de software y mantenimiento de aplicaciones, creación de portlets y módulos para portales desarrollados en Liferay.
+• Creé un service builder para el consumo y persistencia de datos en Base de datos.
+• Desarrollé  templates para sitios e intranets.
+• Desarrollé aplicaciones en la nube de Google Cloud y uso de Google Cloud Storage para el envio masivo de campañas a traves de correo electrónico.
+Empresa
+NEORIS SERVICES SA DE CV | Puesto
+Software Engineer - Senior | Desde:
+01 octubre de 2022 | Hasta: 
+02 enero de 2023
+Actividades Principales | • Desarrollé software Liferay dando soporte y mantenimiento a aplicaciones desarrolladas en liferay con Spring y Java (Lenguaje de programación para desarrollo de aplicaciones) Server Faces (JSF) y Java (Lenguaje de programación para desarrollo de aplicaciones) Server Pages (JSP).
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Gestión Continua de la Calidad del Software con SonarQube
+- Git Essentials: Learn Git with Bitbucket and Sourcetree
+- Project in DevOps: Jenkins CI/CD for Kubernetes Deployments
+- Apache Kafka for Absolute Beginners
+- Apache Maven: Beginner to Guru
+- Azure SQL Server for Beginners – Part 1 of 2
+- Azure SQL Server for Beginners – Part 2 of 2
+- Docker for Java Developers
+- Docker for the Absolute Beginner – Hands On – DevOps
+- Eclipse Tutorial for Beginners: Learn Java IDE in 10 Steps
+- Learn Apache Camel Framework with Spring Boot
+- Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+- Learn Java Unit Testing with JUnit  Mockito in 30 Steps
+- Microsoft Azure: From Zero to Hero – The Complete Guide
+- Comienza con MongoDB: Curso de MongoDB desde cero
+- NEW Master Spring Boot 3  Spring Framework 6 with Java
+- OpenShift 4 desde cero
+- Java Message Service (JMS) Fundamentals
+- Liferay
+- Java 8
+- Java Server Pages (JSP)
+- Java Server Faces (JSF)
+- JUnit
+- Java Persistence API (JPA)
+- Mockito
+- PowerMock
+- OAuth 2
+- Spring
+- Spring Boot
+- HTML5
+- JavaScript
+- jQuery
+- CSS / CSS3
+- Hibernate
+- Oracle
+- Bootstrap
+- Google Cloud
+- Google Cloud Storage
+- RESTful
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 enero de 2010 hasta 01 agosto de 2022
+Durante este período asumí responsabilidades como Software Engineer - Senior, desarrollando y manteniendo soluciones para diferentes clientes. Me enfoqué en la entrega y mejora continua de aplicaciones, realizando mantenimiento, adaptación de funcionalidades y soporte técnico, además de colaborar con equipos para alinear entregables con los requerimientos. Estas actividades implicaron asegurar la continuidad operativa, resolver incidencias menores y contribuir a la estabilidad y disponibilidad de servicios.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en Ciencias de la Computación - 01 septiembre de 2005 - 01 agosto de 2010 | Benemérita Universidad Autónoma de Puebla, Puebla | Cédula Profesional
+10590679
+26/07/2017
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Gestión Continua de la Calidad del Software con SonarQube
+- Git Essentials: Learn Git with Bitbucket and Sourcetree
+- Project in DevOps: Jenkins CI/CD for Kubernetes Deployments
+- Apache Kafka for Absolute Beginners
+- Apache Maven: Beginner to Guru
+- Azure SQL Server for Beginners – Part 1 of 2
+- Azure SQL Server for Beginners – Part 2 of 2
+- Docker for Java Developers
+- Docker for the Absolute Beginner – Hands On – DevOps
+- Eclipse Tutorial for Beginners: Learn Java IDE in 10 Steps
+- Learn Apache Camel Framework with Spring Boot
+- Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+- Learn Java Unit Testing with JUnit  Mockito in 30 Steps
+- Microsoft Azure: From Zero to Hero – The Complete Guide
+- Comienza con MongoDB: Curso de MongoDB desde cero
+- NEW Master Spring Boot 3  Spring Framework 6 with Java
+- OpenShift 4 desde cero
+- Java Message Service (JMS) Fundamentals
+______________________________________
+Pedro del Carmen Ramos
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

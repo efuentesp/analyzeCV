@@ -28,3 +28,4 @@ GUI → Interfaz Gráfica de Usuario (GUI)
 QA Manager → Gerente de Aseguramiento de Calidad (QA Manager)
 PDP → Plan de Desarrollo de Proyecto (PDP)
 Delivery Manager → Gerente de entrega de proyectos (Delivery Manager)
+pruebas end to end → Pruebas de extremo a extremo

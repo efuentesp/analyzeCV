@@ -1,0 +1,91 @@
+Bayron Antonio Martinez Avalos
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Manejo tecnologías de la Arquitectura de Referencia (AR) y tecnologías de código abierto. Desarrollo el código necesario y realizo mantenimiento correctivo y adicional para cumplir la especificación técnica, ejecutando el proceso de desarrollo de software conforme a lo acordado y apegándome a los estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos establecidos en el plan de trabajo.
+
+Tengo amplia experiencia en integración y soporte de servicios middleware y aplicaciones backend, participando en pipelines CI/CD y automatización de despliegues. Trabajo con control de versiones y herramientas de gestión de incidencias para reproducir, diagnosticar y resolver fallos en entornos productivos, colaborando con equipos de Aseguramiento de la Calidad (QA) y soporte para asegurar la continuidad del servicio.
+EXPERIENCIA LABORAL
+Empresa
+Citi México | Puesto
+Especialista desarrollador TIBCO | Desde:
+25 julio 2023 | Hasta: 
+28 febrero 2026
+Actividades Principales | • Mantengo y brindo soporte a los aplicativos dominando varios lenguajes de programación. Tengo habilidades en resolución de problemas, versionamiento del código (Git (Control de versiones distribuido)) y desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño, codifico y ejecuto pruebas unitarias de componentes basándome en las especificaciones técnicas.
+• Implemento y uso de manera adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.
+• Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).
+• He usado la certificación Agile Fundamentals: Including Scrum  Kanban como marco ágil para la gestión de proyectos.
+• He aplicado el curso Learn DevOps: CI/CD with Jenkins using Pipelines and Docker para poner en práctica la integración continua, entrega continua y colaboración DevOps.
+• He usado el curso Kubernetes for the Absolute Beginners – Hands-On para aprender los fundamentos de orquestación de contenedores con Kubernetes.
+• He aplicado el curso Complete Linux Bash Shell Scripting with Real Life Examples para profundizar en administración y automatización en Linux/Unix.
+• He usado el curso Linux – The Complete Linux Guide para reforzar conocimientos de administración y operación en Linux/Unix.
+• He usado la certificación Microsoft Azure Fundamentals – Curso AZ-900 para comprender los servicios principales, la seguridad y la arquitectura de Microsoft Azure (Plataforma cloud para desarrollo e infraestructura).
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Administración y construcción de soluciones de negocio TIBCO.
+• Probar, versionar, empaquetar y promover los servicios a Dev, Pruebas de Integración de Sistemas (SIT), Aseguramiento de la Calidad (QA)/Pruebas de Aceptación de Usuario (UAT) y Producción.
+• Generación de documentos de diseño, solución de negocio, Matriz y ejecución de casos de prueba, definición de esquemas.
+• Automatización de despliegues a producción con Bitbucket (Repositorio de código y colaboración), TeamCity, UrbanCode Deploy. CI/CD
+• Generación de CR´s desde ServiceNow (ITSM para incidencias, cambios y problemas) para liberación de configuraciones en servidores Pruebas de Aceptación de Usuario (UAT), COB, PROD. Generación de INC desde ServiceNow (ITSM para incidencias, cambios y problemas).
+• Haber ejecutado de manera exitosa CI/CD con TIBCO, se llevo a cabo la configuración de TeamCity, UrbanUdeploy, y Bitbucket (Repositorio de código y colaboración) para poder liberar piezas de código de TIBCO.
+• Liberación de proyecto PII masking data, encargado de uno de los servicios (tibco) para enmascarar datos personales mediante una integración Java (Lenguaje de programación para desarrollo de aplicaciones) como solución.
+• Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones), dando soporte al aplicativo Sistema Nacional de Registro (SNR).
+Empresa
+Instituto Nacional Electoral México | Puesto
+Profesional en Desarrollo de Software | Desde:
+1 septiembre 2021 | Hasta: 
+24 julio 2023
+Actividades Principales | • Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones), dando soporte al aplicativo Sistema Nacional de Registro (SNR).
+HERRAMIENTAS CONOCIDAS
+- TIBCO
+- EMS
+- Java (Lenguaje de programación para desarrollo de aplicaciones)
+- JIRA
+- BitBucket (Repositorio de código y colaboración)
+- Teamcity
+- UrbanCode Udeploy
+- CI/CD
+- ServiceNow (ITSM para incidencias, cambios y problemas)
+- Oracle
+- MongoDB
+- AWS (Plataforma de servicios en la nube)
+- JSON
+- SOAP
+- REST
+- Maven
+- Eclipse
+- SVN
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 diciembre de 2016 hasta 31 agosto de 2021
+Durante este período asumí responsabilidades principalmente como Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) y Desarrollador TIBCO, dando soporte y mantenimiento a aplicaciones y servicios. Participé en desarrollo backend, integración de sistemas y tareas de soporte en entornos productivos, incluyendo análisis y corrección de incidencias, pruebas y despliegues. Trabajé con control de versiones y herramientas de CI/CD, colaborando con equipos de soporte y Aseguramiento de la Calidad (QA) para garantizar la continuidad operativa y la mejora continua de los aplicativos.
+FORMACIÓN ACADÉMICA:
+Licenciatura en Ingeniería en Computación - abril 2011 - agosto 2016 | Universidad Autónoma del Estado de México | Cédula Profesional
+11762148
+20/10/2019
+CURSOS
+- Agile Fundamentals: Including Scrum  Kanban
+- Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+- Kubernetes for the Absolute Beginners – Hands-On
+- Complete Linux Bash Shell Scripting with Real Life Examples
+- Linux – The Complete Linux Guide
+- Microsoft Azure Fundamentals – Curso AZ-900
+______________________________________
+Bayron Antonio Martinez Avalos
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

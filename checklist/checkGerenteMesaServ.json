@@ -1,0 +1,322 @@
+
+{
+  "capacidadRecursosHumanos": {
+    "experiencia": [
+        {
+        "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 5 años de experiencia comprobada en en Mesa de Servicios de servicios  grandes o críticos alineado al rol ?",
+        "detalle": "Para el rol del Gerente de Mesa de Servicios Al menos 5 años de experiencia en Mesa de Servicios.",
+         "resultado": ""    
+    },
+      {
+        "concepto": "¿El CV acredita funciones de dirección y coordinación de equipos de trabajo de las líneas de continuidad para restaurar un servicio ante fallas que se presenten en la operación de los aplicativos  (multi-equipo)?",
+        "detalle": "Dirigir y coordinar a los equipos de trabajo de las líneas de continuidad para restaurar un servicio ante fallas que se presenten en la operación de los aplicativos.",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia revisiones mensuales de los servicios a su cargo (seguimiento operativo y mejora)?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV reporta KPIs operativos (SLA/OLA, TTA/TTR, % de cumplimiento, calidad) atribuibles a su gestión?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV presenta evidencias de liderazgo (tamaño de equipos, turnos/coberturas gestionadas, complejidad multi-actor)?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV declara disponibilidad en Cobertura Tipo A y, para servicios grandes coberturas A–D, aportando evidencias de experiencia operando bajo dichos esquemas?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Evidencia integración con herramientas institucionales (GitLab, Monitor/AVL, SonarQube, Nexus/Archiva) cuando aplique?",
+        "detalle": "Esta clara en el CV Funciones y actas de operación",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha coordinado una mesa del proveedor supeditada a MSSAT?",
+        "detalle": "Esta clara en el CV Pantallazos/ endpoints/ equivalencia de Ids",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha implementado integración y sincronización bidireccional en línea MSSAT↔proveedor y consulta HTTPS?",
+        "detalle": "Esta clara en el CV Diagrama/ guía de estados y ejemplos",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Domina el ciclo de vida del ticket (Nuevo, Asignado, En curso, Pendiente—causas, Resuelto, Cerrado/Cancelado) y reglas de transición?",
+        "detalle": "Esta clara en el CV Catálogos vigentes; altas/bajas",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha gestionado catálogos, categorías, prioridades y grupos de soporte en MSSAT?",
+        "detalle": "Esta clara en el CV Dashboards y reglas SLA/OLA",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Opera SLA/OLA desde la Mesa (relojes, alerts), con tableros TTA/TTR y backlog/aging?",
+        "detalle": "Esta clara en el CV Matriz y evidencias de difusión",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Mantiene Matriz de Escalamiento (niveles, horarios, criterios) publicada y vigente?",
+        "detalle": "Esta clara en el CV Procedimientos + tickets",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Opera Gestión de Incidentes integrada a MSSAT (registro→cierre con comunicación)?",
+        "detalle": "Esta clara en el CV RCA, KEDB, relaciones",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Opera Gestión de Problemas (RCA, workarounds, KEDB) con trazabilidad a incidentes?",
+        "detalle": "Esta clara en el CV RFCs, minutas CAB",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Opera Gestión de Cambios (RFC, impacto/riesgo, CAB, implementación, revisión) alineada al Comité de Cambios SAT/ACOST?",
+        "detalle": "Esta clara en el CV Consultas CMDB/ baselines",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Mantiene Gestión de Configuración (CMDB, relaciones CI) vinculada a tickets/cambios/liberaciones?",
+        "detalle": "Esta clara en el CV Repositorio KMS y métricas de uso",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Alimenta la Gestión del Conocimiento (artículos, FAQs, known errors) desde incidentes/problemas?",
+        "detalle": "Esta clara en el CV OLA firmados/ aplicados",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Coordina con servicios relacionados mediante OLA’s (tiempos de interacción y escalamiento)?",
+        "detalle": "Esta clara en el CV Tickets de liberación, avisos",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Soporta liberaciones con Monitor/AVL (anuncios, ventanas, freezes, comunicación) desde la Mesa?",
+        "detalle": "Esta clara en el CV Tickets con ligas/adjuntos",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Enlaza tickets a GitLab (issues/MR), SonarQube (SAST) y Nexus/Archiva (artefactos) cuando corresponde?",
+        "detalle": "Esta clara en el CV Tickets con ligas/adjuntos",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Produce reportes/ dashboards periódicos de la Mesa y gestiona planes de mejora post-auditoría?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La experiencia suma ≥5 años en  gestión de servicios similares al objeto del SDMA7?",
+        "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+        "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+        "detalle": "Fechas correctas en el periodo de experiencia: La fecha Desde, debe ser un mes posterior a la última fecha Hasta, los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+        "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV presenta numeralia (años, FTEs, presupuesto, metodología, resultados medibles) para contextualizar el alcance gestionado?",
+        "detalle": "años, alcance, equipo gestionado, metodología y resultados medibles.",
+        "resultado": ""
+      }
+    ],
+    "competencia": [
+      {
+        "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+        "detalle": "Acreditar la competencia señalada Estudios nivel superior acreditable de nivel licenciatura o ingeniería .",
+        "resultado": ""
+      }
+    ],
+    "dominioDeHerramientas": [
+      {
+        "concepto": "¿El candidato cuenta con certificaciones requeridas?",
+        "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El documento de la certificación cuenta con la Firma de representante o apoderado legal?",
+        "detalle": "firmado por el representante o apoderado legal del Licitante para participar en el presente procedimiento de contratación",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar el dominio de herramientas señaladas - Certificaciones",
+        "detalle": "Acreditar la certificación vigente: -ITIL v 4.0",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar el dominio de herramientas señaladas -Cursos",
+        "detalle": "Acreditar 1 curso de los siguientes: -Auditoría de TI. -Gestión de servicios en tecnologías de la información (ITIL V4 Foundation)",
+        "resultado": ""
+      }
+    ]
+  },
+  "certificaciones": [
+    {
+        "concepto": "¿El candidato cuenta con la certificación ITIL v4 Foundation viggente?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "La certificación ITIL v4 es legible y vigente ",
+        "detalle": "El documento oficial de cada certificado está en el repositorio ITIL v 4.0,",
+        "resultado": ""
+      }
+  ],
+  "cursos": [
+   {
+      "concepto": "¿Las constancias de cursos están digitalizadas, con nombre coincidente y listas para cotejo?",
+      "detalle": "Evidencias escaneadas digitalizadas. Coincidencia en nombre entre CV y documentos SAT podra cotejar validez con las instituciones que imparten los cursos",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato adjunta constancia del curso Auditoría de TI?",
+      "detalle": "Incluirlo en caso de que el candidato lo tenga",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato adjunta constancia del curso Gestión de servicios en tecnologías de la información (ITIL V4 Foundation) ?",
+      "detalle": "Incluirlo en caso de que el candidato lo tenga",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato adjunta constancia del curso XXXXXX ?",
+      "detalle": "Incluir en caso de que sumen puntos el nombre de otro curso relacionado con el rol",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    }
+  ],
+  "dominioHerramientas": [
+    {
+      "concepto": "¿El CV acredita dominio de ITSM/ITIL aplicado en operación (Mesa de Servicios, gestión de incidentes/problemas/cambios) y muestra métricas/SLAs/OLAs logradas?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio. Mencionar ¿cuál?  ITSM / ITIL (Mesa de servicio) Aclarar que ha sido en proyectos grandes/críticos",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV documenta tableros/KPIs operativos usados para supervisar servicios 24×7?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio. Mencionar ¿cuál?  Herramientas de seguimiento, monitoreo y control Aclarar que ha sido en proyectos grandes/críticos",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV describe herramientas y formatos de reportería operativa (carpetas/indicadores/auditorías) y su aporte a la gobernanza del servicio?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio. Mencionar ¿cuál?   Herramientas de reporteo / documentación Aclarar que ha sido en proyectos grandes/críticos",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV acredita uso de GitLab/ALM para versionado, issues/tareas y documentación técnica con trazabilidad de cambios?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio. Mencionar ¿cuál?   Herramientas de versionado Aclarar que ha sido en proyectos grandes/críticos",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV muestra experiencia con análisis estático de código  y su integración al flujo de pruebas hasta cumplir cero bloqueantes/críticos/altos previo a liberar?",
+      "detalle": "Dominio de herramientas relacionadas con la gestión y operación del servicio. Mencionar ¿cuál?  (SonarQube/criterios Administración de Versiones AVL) Aclarar que ha sido en proyectos grandes/críticos",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV acredita uso de repositorio de artefactos binarios para control de dependencias y paquetes liberables?",
+      "detalle": "Repositorio de artefactos (Nexus Repository / Archiva institucional)",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    }
+  ]
+}

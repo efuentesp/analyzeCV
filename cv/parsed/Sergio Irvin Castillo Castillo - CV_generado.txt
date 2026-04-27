@@ -1,0 +1,150 @@
+Sergio Irvin Castillo Castillo
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.
+Colaboro en equipos Scrum y en procesos de desarrollo donde reviso, analizo y ajusto componentes de software, documento hallazgos técnicos y apoyo la operación adecuada de soluciones en entornos definidos. Mi experiencia reciente se centra en Java, JSP, JavaScript y bases de datos Oracle, con seguimiento de requerimientos, cambios funcionales y monitoreo.
+EXPERIENCIA PROFESIONAL
+Tengo más de 2 años de experiencia en programación con tecnologías de la Arquitectura de Referencia y tecnologías de código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación de sistemas y su puesta en marcha mediante el uso de lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y tiempos establecidos dentro del plan de trabajo.
+
+He colaborado en equipos Scrum y en procesos de desarrollo donde reviso, analizo y ajusto componentes de software, documento hallazgos técnicos y apoyo la operación correcta de soluciones en entornos definidos. Mi experiencia reciente se concentra en Java (Lenguaje de programación para desarrollo de aplicaciones), JSP, JavaScript y bases de datos Oracle Database (Motor de base de datos empresarial), con atención a cambios funcionales, monitoreo y seguimiento de requerimientos.
+
+También he participado en construcción y refactorización de código, creación de scripts SQL (Lenguaje para gestión y consulta de bases de datos relacionales), implementación de clases DAO, depuración, pruebas y atención de incidencias de calidad. Complemento estas actividades con una base en arquitectura APX, prácticas de desarrollo backend y trabajo colaborativo orientado al cumplimiento de lineamientos y tiempos.
+EXPERIENCIA LABORAL
+Empresa
+BBVA México | Puesto
+Software Engineer - Junior | Desde:
+30 abril 2024 | Hasta: 
+A la Fecha
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y realizo una puesta a punto para que sean funcionales, todo ello mediante lenguajes de programación. Tengo habilidades en conceptos de programación y trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He puesto en práctica el curso Java Message Service (JMS) Fundamentals para implementar mensajería asíncrona en aplicaciones Java empresariales.
+• He aplicado el curso JSP, Servlets and JDBC for Beginners para desarrollar aplicaciones web en Java integradas con bases de datos mediante JSP, Servlets y JDBC.
+• He puesto en práctica el curso Desarrollo de Software Seguro para aplicar prácticas de seguridad en el ciclo de desarrollo de software y reducir vulnerabilidades en aplicaciones.
+• He aplicado el curso JavaScript 2024 para desarrollar e implementar funcionalidades dinámicas en aplicaciones web utilizando JavaScript moderno.
+• He puesto en práctica el curso Microservices Architecture – The Complete Guide para aplicar patrones y buenas prácticas en el diseño de arquitecturas de microservicios.
+• He aplicado el curso Microservices: Designing Highly Scalable Systems para diseñar sistemas distribuidos enfocados en escalabilidad, resiliencia y alto rendimiento.
+• He puesto en práctica el curso Principios SOLID y Clean Code para escribir código limpio, mantenible y alineado con buenas prácticas de diseño de software.
+• He aplicado el curso Spring MVC For Beginners para desarrollar aplicaciones web en Java utilizando el framework Spring MVC.
+• He puesto en práctica el curso UML Class Diagrams for Programmers para modelar y documentar la estructura de sistemas de software mediante diagramas UML.
+• He aplicado el curso Web Design for Beginners para diseñar e implementar interfaces web utilizando HTML y CSS en escenarios reales.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Colaboro como externo en múltiples asignaciones que siguen el marco de trabajo Scrum.
+• Realizo tareas orientadas a comprender las necesidades y conceptualizaciones de los proyectos asignados.
+• Participo en sesiones de entendimiento con el Scrum team al que estoy asignado para la revisión del funcionamiento, análisis y modificación del componente de software del área CCS-Call Center and Claims.
+• Participo en actividades de investigación técnica para documentar información del desarrollo de los componentes solicitados.
+• Configuro herramientas de desarrollo de software.
+• Inspecciono código en lenguaje de programación Java (Lenguaje de programación para desarrollo de aplicaciones) (JSP) y Java-Script para la integración de cambios en el frontal del componente asignado.
+• Monitoreo en base de datos Oracle Database (Motor de base de datos empresarial) empleando la herramienta Oracle SQL (Lenguaje para gestión y consulta de bases de datos relacionales) Developer.
+• Recibí capacitación teórica y práctica para fortalecer mis habilidades como desarrollador de software en lenguaje de programación Java (Lenguaje de programación para desarrollo de aplicaciones), complementada con fundamentos de la arquitectura APX para el desarrollo back-end.
+• Exploré conceptos básicos para crear e implementar una transacción, librería, interfaz, DTO, patrones de diseño (CRUD en librería, paginación en librerías), así como los antipatrones de diseño (blob y contenedor mágico); revisé las restricciones y las buenas prácticas que brinda la arquitectura APX, APX-Batch así como LRBA.
+• He empleado la herramienta APX-CLI para crear la estructura de una transacción y agregar dependencias; la lógica de esa transacción consulta un objeto Json para recuperar información.
+• Realicé una prueba de certificación basada en fundamentos de Java (Lenguaje de programación para desarrollo de aplicaciones) y arquitectura APX elaborada por la plataforma Netec, en la cual el resultado fue aprobatorio.
+• Creé scripts para la generación y modificación de tablas en base de datos Oracle SQL (Lenguaje para gestión y consulta de bases de datos relacionales).
+• Realicé refactorización de código en lenguaje de programación Java (Lenguaje de programación para desarrollo de aplicaciones) para el mapeo de archivos en formato xls, xlsx.
+• Realicé refactorización e implementación de clases DAO empleando procedimientos almacenados (SP).
+• Realicé refactorización de código para la depuración del componente desarrollado.
+• Atendí incidencias reportadas por la herramienta Sonar para reestructurar código.
+• Ejecuté y reporté pruebas de depuración para un módulo específico de desarrollo.
+Empresa
+Softtek México | Puesto
+Software Engineer - Junior | Desde:
+1 febrero 2024 | Hasta: 
+29 abril 2024
+Actividades Principales | • Recibí capacitación teórica y práctica para fortalecer mis habilidades como desarrollador de software en lenguaje de programación Java (Lenguaje de programación para desarrollo de aplicaciones), complementada con fundamentos de la arquitectura APX para el desarrollo back-end.
+• Exploré conceptos básicos para crear e implementar una transacción, librería, interfaz, DTO, patrones de diseño (CRUD en librería, paginación en librerías), así como los antipatrones de diseño (blob y contenedor mágico); revisé las restricciones y las buenas prácticas que brinda la arquitectura APX, APX-Batch así como LRBA.
+• He empleado la herramienta APX-CLI para crear la estructura de una transacción y agregar dependencias; la lógica de esa transacción consulta un objeto Json para recuperar información.
+• Realicé una prueba de certificación basada en fundamentos de Java (Lenguaje de programación para desarrollo de aplicaciones) y arquitectura APX elaborada por la plataforma Netec, en la cual el resultado fue aprobatorio.
+Empresa
+Softtek Ciudad de México | Puesto
+DEV | Desde:
+27 noviembre 2023 | Hasta: 
+31 enero 2024
+Actividades Principales | • Creé scripts para la generación y modificación de tablas en base de datos Oracle SQL (Lenguaje para gestión y consulta de bases de datos relacionales).
+• Realicé refactorización de código en lenguaje de programación Java (Lenguaje de programación para desarrollo de aplicaciones) para el mapeo de archivos en formato xls, xlsx.
+• Realicé refactorización e implementación de clases DAO empleando procedimientos almacenados (SP).
+• Realicé refactorización de código para la depuración del componente desarrollado.
+• Atendí incidencias reportadas por la herramienta Sonar para reestructurar código.
+• Ejecuté y reporté pruebas de depuración para un módulo específico de desarrollo.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Java Message Service JMS Fundamentals
+- JSP, Servlets and JDBC for Beginners: Build a Database App
+- Desarrollo de Software Seguro
+- JavaScript 2024: El curso práctico y completo
+- Microservices Architecture – The Complete Guide
+- Microservices: Designing Highly Scalable Systems
+- Principios SOLID y Clean Code. Escribe código de calidad
+- Spring MVC For Beginners – Build Java Web App in 25 Steps
+- UML Class Diagrams for Programmers
+- Web Design for Beginners: Real World Coding in HTML  CSS
+- Victor Manuel Vilchis Nando
+- Scrum
+- Java / JEE
+- JSP
+- JavaScript
+- Oracle SQL Developer
+- Oracle SQL
+- SQL (DDL/DML)
+- Git-Bash
+- IntelliJ IDEA
+- APX
+- APX-Batch
+- LRBA
+- APX-CLI
+- Visual Studio Code
+- HTML y CSS
+- Angular 2+
+- Maven
+- Insomnia
+- MariaDB
+- Spring initializr
+- Spring BOOT
+- JSON-Server
+- Java Servlets
+- JDBC
+- Spring MVC
+- TypeScript
+- PrimeNG
+- Android
+- MySQL
+- SPARQL
+- C/C++
+- Informatica
+- PHP
+- WordPress
+- AutoCAD
+- Git
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 agosto de 2022 hasta 24 noviembre de 2023
+Durante este período me desempeñé en funciones como Dev Trainee y Software Engineer - Trainee, participando en actividades de formación aplicada y apoyo al desarrollo de soluciones. Fortalecí mi base profesional mediante colaboración en tareas de implementación, aprendizaje de herramientas y seguimiento de lineamientos de trabajo. Estas experiencias me permitieron adaptarme a equipos, comprender mejor los procesos de desarrollo y consolidar una preparación inicial orientada al trabajo técnico y al cumplimiento de objetivos.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en computación - 1 marzo 2018 - 31 agosto 2022 | Universidad Autónoma Metropolitana Ciudad de México | Cédula Profesional
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Java Message Service JMS Fundamentals
+- JSP, Servlets and JDBC for Beginners: Build a Database App
+- Desarrollo de Software Seguro
+- JavaScript 2024: El curso práctico y completo
+- Microservices Architecture – The Complete Guide
+- Microservices: Designing Highly Scalable Systems
+- Principios SOLID y Clean Code. Escribe código de calidad
+- Spring MVC For Beginners – Build Java Web App in 25 Steps
+- UML Class Diagrams for Programmers
+- Web Design for Beginners: Real World Coding in HTML  CSS
+- Victor Manuel Vilchis Nando
+______________________________________
+Sergio Irvin Castillo Castillo
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

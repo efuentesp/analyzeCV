@@ -1,0 +1,341 @@
+Ivan Martínez Martínez
+PERFIL: Desarrollador Java
+Ingeniero en Sistemas Computacionales experiencia como desarrollador Java.
+Utilizando tecnologías Java EE, JSF, Struts 1 y 2, Spring Mvc, JSP, Servlets, Jquery, JavaScript, Css, HTML 5, ASP clásico.
+Participando en las fases de Desarrollo de Sistemas.
+Mantenimiento de Sistemas. (Continuidad Operativa).
+Desarrollo de módulos de acuerdo con las necesidades de los usuarios.
+Capacitación a usuarios.
+Soporte técnico de PC.
+Trabajo en equipo, análisis y diseño.
+Documentación de sistemas.
+Pruebas unitarias.
+Metodología SCRUM
+Front End, desarrollo y actualización de interfaces graficas de usuario (GUI) con HTML, Javascript, JQuery, Bootstrap, CSS, Prime Faces Avalon.
+EXPERIENCIA PROFESIONAL:
+Empresa: Softtek asignado a la cuenta Banamex | Empresa: Softtek asignado a la cuenta Banamex | País: México | Puesto Desarrollador | Fecha de ingreso: diciembre 2023 | Fecha de salida: N/A
+Resumen de actividades: Soporte a microservicios | Resumen de actividades: Soporte a microservicios | Resumen de actividades: Soporte a microservicios | Resumen de actividades: Soporte a microservicios | Resumen de actividades: Soporte a microservicios | Resumen de actividades: Soporte a microservicios
+Experiencia Funcional: | Resolución de Incidentes.
+Resolución de vulnerabilidades.
+Migración de microservicios de Java 8 a Java 17.
+Análisis de código y Stored Procedure. 
+Despliegues en los ambientes DEV, UAT, PROD
+Desarrollo de nuevas funcionalidades en los microservicios. | Resolución de Incidentes.
+Resolución de vulnerabilidades.
+Migración de microservicios de Java 8 a Java 17.
+Análisis de código y Stored Procedure. 
+Despliegues en los ambientes DEV, UAT, PROD
+Desarrollo de nuevas funcionalidades en los microservicios. | Resolución de Incidentes.
+Resolución de vulnerabilidades.
+Migración de microservicios de Java 8 a Java 17.
+Análisis de código y Stored Procedure. 
+Despliegues en los ambientes DEV, UAT, PROD
+Desarrollo de nuevas funcionalidades en los microservicios. | Resolución de Incidentes.
+Resolución de vulnerabilidades.
+Migración de microservicios de Java 8 a Java 17.
+Análisis de código y Stored Procedure. 
+Despliegues en los ambientes DEV, UAT, PROD
+Desarrollo de nuevas funcionalidades en los microservicios. | Resolución de Incidentes.
+Resolución de vulnerabilidades.
+Migración de microservicios de Java 8 a Java 17.
+Análisis de código y Stored Procedure. 
+Despliegues en los ambientes DEV, UAT, PROD
+Desarrollo de nuevas funcionalidades en los microservicios.
+Herramientas: | Spring boot, Java 17, microservicios, git, Sql Server, BlackDuck, Jenkins. | Spring boot, Java 17, microservicios, git, Sql Server, BlackDuck, Jenkins. | Spring boot, Java 17, microservicios, git, Sql Server, BlackDuck, Jenkins. | Spring boot, Java 17, microservicios, git, Sql Server, BlackDuck, Jenkins. | Spring boot, Java 17, microservicios, git, Sql Server, BlackDuck, Jenkins.
+Empresa: Softtek asignado a la cuenta BMV | Empresa: Softtek asignado a la cuenta BMV | País: México | Puesto Desarrollador | Fecha de ingreso: febrero 2023 | Fecha de salida: septiembre 2023
+Resumen de actividades: Mantenimiento a los aplicativos solucionando los problemas, deprecados, vulnerabilidades. | Resumen de actividades: Mantenimiento a los aplicativos solucionando los problemas, deprecados, vulnerabilidades. | Resumen de actividades: Mantenimiento a los aplicativos solucionando los problemas, deprecados, vulnerabilidades. | Resumen de actividades: Mantenimiento a los aplicativos solucionando los problemas, deprecados, vulnerabilidades. | Resumen de actividades: Mantenimiento a los aplicativos solucionando los problemas, deprecados, vulnerabilidades. | Resumen de actividades: Mantenimiento a los aplicativos solucionando los problemas, deprecados, vulnerabilidades.
+Experiencia Funcional: | Resolución de problemas presentados por el usuario.
+Resolución de vulnerabilidades.
+Actualización de código deprecado pasando a la versión 8.
+Análisis de código. 
+Pruebas funcionales. | Resolución de problemas presentados por el usuario.
+Resolución de vulnerabilidades.
+Actualización de código deprecado pasando a la versión 8.
+Análisis de código. 
+Pruebas funcionales. | Resolución de problemas presentados por el usuario.
+Resolución de vulnerabilidades.
+Actualización de código deprecado pasando a la versión 8.
+Análisis de código. 
+Pruebas funcionales. | Resolución de problemas presentados por el usuario.
+Resolución de vulnerabilidades.
+Actualización de código deprecado pasando a la versión 8.
+Análisis de código. 
+Pruebas funcionales. | Resolución de problemas presentados por el usuario.
+Resolución de vulnerabilidades.
+Actualización de código deprecado pasando a la versión 8.
+Análisis de código. 
+Pruebas funcionales.
+Herramientas: | Spring boot, Oracle, Java,Maven, JBoss, GIT. | Spring boot, Oracle, Java,Maven, JBoss, GIT. | Spring boot, Oracle, Java,Maven, JBoss, GIT. | Spring boot, Oracle, Java,Maven, JBoss, GIT. | Spring boot, Oracle, Java,Maven, JBoss, GIT.
+Empresa: Softtek asignado a la cuenta IMSS | Empresa: Softtek asignado a la cuenta IMSS | País: México | Puesto Desarrollador | Fecha de ingreso: agosto 2022 | Fecha de salida: diciembre 2022
+Resumen de actividades: Mantenimiento y soporte a la aplicación PCCA. | Resumen de actividades: Mantenimiento y soporte a la aplicación PCCA. | Resumen de actividades: Mantenimiento y soporte a la aplicación PCCA. | Resumen de actividades: Mantenimiento y soporte a la aplicación PCCA. | Resumen de actividades: Mantenimiento y soporte a la aplicación PCCA. | Resumen de actividades: Mantenimiento y soporte a la aplicación PCCA.
+Experiencia Funcional: | Análisis de código del Portal Web PCCA y microservicios.
+Preparación de ambiente de desarrollo QA y UAT.
+Despliegue del Portal PCC en ambientes QA y UAT.
+Cambio de Look and Feel del Portal Web PCCA.
+Análisis y desarrollo para mantenimientos menores de acuerdo con los requerimientos del usuario. | Análisis de código del Portal Web PCCA y microservicios.
+Preparación de ambiente de desarrollo QA y UAT.
+Despliegue del Portal PCC en ambientes QA y UAT.
+Cambio de Look and Feel del Portal Web PCCA.
+Análisis y desarrollo para mantenimientos menores de acuerdo con los requerimientos del usuario. | Análisis de código del Portal Web PCCA y microservicios.
+Preparación de ambiente de desarrollo QA y UAT.
+Despliegue del Portal PCC en ambientes QA y UAT.
+Cambio de Look and Feel del Portal Web PCCA.
+Análisis y desarrollo para mantenimientos menores de acuerdo con los requerimientos del usuario. | Análisis de código del Portal Web PCCA y microservicios.
+Preparación de ambiente de desarrollo QA y UAT.
+Despliegue del Portal PCC en ambientes QA y UAT.
+Cambio de Look and Feel del Portal Web PCCA.
+Análisis y desarrollo para mantenimientos menores de acuerdo con los requerimientos del usuario. | Análisis de código del Portal Web PCCA y microservicios.
+Preparación de ambiente de desarrollo QA y UAT.
+Despliegue del Portal PCC en ambientes QA y UAT.
+Cambio de Look and Feel del Portal Web PCCA.
+Análisis y desarrollo para mantenimientos menores de acuerdo con los requerimientos del usuario.
+Herramientas: | Spring boot, Oracle, Java, Prime Faces, Maven, Apache tome, GIT. | Spring boot, Oracle, Java, Prime Faces, Maven, Apache tome, GIT. | Spring boot, Oracle, Java, Prime Faces, Maven, Apache tome, GIT. | Spring boot, Oracle, Java, Prime Faces, Maven, Apache tome, GIT. | Spring boot, Oracle, Java, Prime Faces, Maven, Apache tome, GIT.
+Empresa: Softtek asignado a la cuenta DHL | Empresa: Softtek asignado a la cuenta DHL | País: México | Puesto Desarrollador | Fecha de ingreso: enero 2022 | Fecha de salida: junio 2022
+Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Carta Porte | Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Carta Porte | Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Carta Porte | Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Carta Porte | Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Carta Porte | Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Carta Porte
+Experiencia Funcional: | Maquetado para nuevas pantallas para el sistema Carta Porte de acuerdo con los requerimientos.
+Documentación técnica 
+Diagramas de arquitectura
+Pruebas Unitarias. | Maquetado para nuevas pantallas para el sistema Carta Porte de acuerdo con los requerimientos.
+Documentación técnica 
+Diagramas de arquitectura
+Pruebas Unitarias. | Maquetado para nuevas pantallas para el sistema Carta Porte de acuerdo con los requerimientos.
+Documentación técnica 
+Diagramas de arquitectura
+Pruebas Unitarias. | Maquetado para nuevas pantallas para el sistema Carta Porte de acuerdo con los requerimientos.
+Documentación técnica 
+Diagramas de arquitectura
+Pruebas Unitarias. | Maquetado para nuevas pantallas para el sistema Carta Porte de acuerdo con los requerimientos.
+Documentación técnica 
+Diagramas de arquitectura
+Pruebas Unitarias.
+Herramientas: | SQL Server Management Studio, .Net Core Jquery, JavaScript, Css | SQL Server Management Studio, .Net Core Jquery, JavaScript, Css | SQL Server Management Studio, .Net Core Jquery, JavaScript, Css | SQL Server Management Studio, .Net Core Jquery, JavaScript, Css | SQL Server Management Studio, .Net Core Jquery, JavaScript, Css
+Empresa: Softtek asignado a la cuenta Element | Empresa: Softtek asignado a la cuenta Element | País: México | Puesto Desarrollador | Fecha de ingreso: septiembre 2021 | Fecha de salida: enero 2022
+Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Tracking Status. | Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Tracking Status. | Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Tracking Status. | Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Tracking Status. | Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Tracking Status. | Resumen de actividades: Análisis para el desarrollo de nuevas funcionalidades para el proyecto Tracking Status.
+Experiencia Funcional: | Desarrollo de nuevas funcionalidades para el sistema Mis Compras de acuerdo con los requerimientos.
+Análisis para la creación de nuevas tablas.
+Modificaciones a stored procedure para los nuevos requerimientos.
+Desarrollo de diagramas UML
+Pruebas Unitarias
+Acompañamiento de las pruebas UAT | Desarrollo de nuevas funcionalidades para el sistema Mis Compras de acuerdo con los requerimientos.
+Análisis para la creación de nuevas tablas.
+Modificaciones a stored procedure para los nuevos requerimientos.
+Desarrollo de diagramas UML
+Pruebas Unitarias
+Acompañamiento de las pruebas UAT | Desarrollo de nuevas funcionalidades para el sistema Mis Compras de acuerdo con los requerimientos.
+Análisis para la creación de nuevas tablas.
+Modificaciones a stored procedure para los nuevos requerimientos.
+Desarrollo de diagramas UML
+Pruebas Unitarias
+Acompañamiento de las pruebas UAT | Desarrollo de nuevas funcionalidades para el sistema Mis Compras de acuerdo con los requerimientos.
+Análisis para la creación de nuevas tablas.
+Modificaciones a stored procedure para los nuevos requerimientos.
+Desarrollo de diagramas UML
+Pruebas Unitarias
+Acompañamiento de las pruebas UAT | Desarrollo de nuevas funcionalidades para el sistema Mis Compras de acuerdo con los requerimientos.
+Análisis para la creación de nuevas tablas.
+Modificaciones a stored procedure para los nuevos requerimientos.
+Desarrollo de diagramas UML
+Pruebas Unitarias
+Acompañamiento de las pruebas UAT
+Herramientas: | SQL Server Management Studio, Java 1.8, Sprng, JPA, Jquery, JavaScript, Css, JSP | SQL Server Management Studio, Java 1.8, Sprng, JPA, Jquery, JavaScript, Css, JSP | SQL Server Management Studio, Java 1.8, Sprng, JPA, Jquery, JavaScript, Css, JSP | SQL Server Management Studio, Java 1.8, Sprng, JPA, Jquery, JavaScript, Css, JSP | SQL Server Management Studio, Java 1.8, Sprng, JPA, Jquery, JavaScript, Css, JSP
+Empresa: Softtek Academia conversión Java a Dotnet-React | Empresa: Softtek Academia conversión Java a Dotnet-React | País: México | Puesto Desarrollador | Fecha de ingreso: Mayo 2021 | Fecha de salida: Julio 2021
+Resumen de actividades: Capacitación en tecnologías de .NET, React. Capacitación UML. Revisión de mejores prácticas para el desarrollo. Cursos en plataforma Percipio (C# Channel (9 Cursos), Visual Studio Beginner, Visual Studio Code Beginner, ASP.NET MVC, Stored Procedures, Entity, REST API, REST & .NET Core, React, WCF) | Resumen de actividades: Capacitación en tecnologías de .NET, React. Capacitación UML. Revisión de mejores prácticas para el desarrollo. Cursos en plataforma Percipio (C# Channel (9 Cursos), Visual Studio Beginner, Visual Studio Code Beginner, ASP.NET MVC, Stored Procedures, Entity, REST API, REST & .NET Core, React, WCF) | Resumen de actividades: Capacitación en tecnologías de .NET, React. Capacitación UML. Revisión de mejores prácticas para el desarrollo. Cursos en plataforma Percipio (C# Channel (9 Cursos), Visual Studio Beginner, Visual Studio Code Beginner, ASP.NET MVC, Stored Procedures, Entity, REST API, REST & .NET Core, React, WCF) | Resumen de actividades: Capacitación en tecnologías de .NET, React. Capacitación UML. Revisión de mejores prácticas para el desarrollo. Cursos en plataforma Percipio (C# Channel (9 Cursos), Visual Studio Beginner, Visual Studio Code Beginner, ASP.NET MVC, Stored Procedures, Entity, REST API, REST & .NET Core, React, WCF) | Resumen de actividades: Capacitación en tecnologías de .NET, React. Capacitación UML. Revisión de mejores prácticas para el desarrollo. Cursos en plataforma Percipio (C# Channel (9 Cursos), Visual Studio Beginner, Visual Studio Code Beginner, ASP.NET MVC, Stored Procedures, Entity, REST API, REST & .NET Core, React, WCF) | Resumen de actividades: Capacitación en tecnologías de .NET, React. Capacitación UML. Revisión de mejores prácticas para el desarrollo. Cursos en plataforma Percipio (C# Channel (9 Cursos), Visual Studio Beginner, Visual Studio Code Beginner, ASP.NET MVC, Stored Procedures, Entity, REST API, REST & .NET Core, React, WCF)
+Experiencia Funcional: | Desarrollo de proyecto CRUD.
+Desarrollo API’s con .NET.
+Consumo de API’s con REACT.
+Desarrollo de Stored Procedure.
+Se implementaron mejores prácticas de desarrollo.
+Se llevaron a cabo TestUnit.
+Desarrollo de diagramas UML. | Desarrollo de proyecto CRUD.
+Desarrollo API’s con .NET.
+Consumo de API’s con REACT.
+Desarrollo de Stored Procedure.
+Se implementaron mejores prácticas de desarrollo.
+Se llevaron a cabo TestUnit.
+Desarrollo de diagramas UML. | Desarrollo de proyecto CRUD.
+Desarrollo API’s con .NET.
+Consumo de API’s con REACT.
+Desarrollo de Stored Procedure.
+Se implementaron mejores prácticas de desarrollo.
+Se llevaron a cabo TestUnit.
+Desarrollo de diagramas UML. | Desarrollo de proyecto CRUD.
+Desarrollo API’s con .NET.
+Consumo de API’s con REACT.
+Desarrollo de Stored Procedure.
+Se implementaron mejores prácticas de desarrollo.
+Se llevaron a cabo TestUnit.
+Desarrollo de diagramas UML. | Desarrollo de proyecto CRUD.
+Desarrollo API’s con .NET.
+Consumo de API’s con REACT.
+Desarrollo de Stored Procedure.
+Se implementaron mejores prácticas de desarrollo.
+Se llevaron a cabo TestUnit.
+Desarrollo de diagramas UML.
+Herramientas: | SQL Server Management Studio, Vusual Studio, Vusual Studio Code, Umbrello | SQL Server Management Studio, Vusual Studio, Vusual Studio Code, Umbrello | SQL Server Management Studio, Vusual Studio, Vusual Studio Code, Umbrello | SQL Server Management Studio, Vusual Studio, Vusual Studio Code, Umbrello | SQL Server Management Studio, Vusual Studio, Vusual Studio Code, Umbrello
+Empresa: Softtek asignado a la Cuenta Coppel. | Empresa: Softtek asignado a la Cuenta Coppel. | País: México | Puesto Desarrollador | Fecha de ingreso: enero 2021 | Fecha de salida: mayo 2021
+Resumen de actividades: Análisis y desarrollo de Stored Procedure | Resumen de actividades: Análisis y desarrollo de Stored Procedure | Resumen de actividades: Análisis y desarrollo de Stored Procedure | Resumen de actividades: Análisis y desarrollo de Stored Procedure | Resumen de actividades: Análisis y desarrollo de Stored Procedure | Resumen de actividades: Análisis y desarrollo de Stored Procedure
+Experiencia Funcional: | Análisis de Stored Procedure.
+Desarrollo de Stored Procedure agregando granularidad para las ventas y devoluciones de ropa.
+Pruebas Unitarias. | Análisis de Stored Procedure.
+Desarrollo de Stored Procedure agregando granularidad para las ventas y devoluciones de ropa.
+Pruebas Unitarias. | Análisis de Stored Procedure.
+Desarrollo de Stored Procedure agregando granularidad para las ventas y devoluciones de ropa.
+Pruebas Unitarias. | Análisis de Stored Procedure.
+Desarrollo de Stored Procedure agregando granularidad para las ventas y devoluciones de ropa.
+Pruebas Unitarias. | Análisis de Stored Procedure.
+Desarrollo de Stored Procedure agregando granularidad para las ventas y devoluciones de ropa.
+Pruebas Unitarias.
+Herramientas: | SQL Server Management Studio, Vusual Studio Code | SQL Server Management Studio, Vusual Studio Code | SQL Server Management Studio, Vusual Studio Code | SQL Server Management Studio, Vusual Studio Code | SQL Server Management Studio, Vusual Studio Code
+Empresa: Softtek asignado a la Cuenta Walmart. | Empresa: Softtek asignado a la Cuenta Walmart. | País: México | Puesto Desarrollador | Fecha de ingreso: septiembre 2020 | Fecha de salida: diciembre 2020
+Resumen de actividades: Análisis e implementación de controles de seguridad para la aplicación SIL. | Resumen de actividades: Análisis e implementación de controles de seguridad para la aplicación SIL. | Resumen de actividades: Análisis e implementación de controles de seguridad para la aplicación SIL. | Resumen de actividades: Análisis e implementación de controles de seguridad para la aplicación SIL. | Resumen de actividades: Análisis e implementación de controles de seguridad para la aplicación SIL. | Resumen de actividades: Análisis e implementación de controles de seguridad para la aplicación SIL.
+Experiencia Funcional: | Implementación de controles de seguridad Central Authentication y Password Management.
+Documentación TDD
+Pruebas unitarias. | Implementación de controles de seguridad Central Authentication y Password Management.
+Documentación TDD
+Pruebas unitarias. | Implementación de controles de seguridad Central Authentication y Password Management.
+Documentación TDD
+Pruebas unitarias. | Implementación de controles de seguridad Central Authentication y Password Management.
+Documentación TDD
+Pruebas unitarias. | Implementación de controles de seguridad Central Authentication y Password Management.
+Documentación TDD
+Pruebas unitarias.
+Herramientas: | ASP clásico, Informix, IIS | ASP clásico, Informix, IIS | ASP clásico, Informix, IIS | ASP clásico, Informix, IIS | ASP clásico, Informix, IIS
+Empresa: Softtek asignado a la Cuenta Banorte. | Empresa: Softtek asignado a la Cuenta Banorte. | País: México | Puesto Desarrollador Java | Fecha de ingreso: junio 2020 | Fecha de salida: agosto 2020
+Resumen de actividades: Análisis y desarrollo de acuerdo con los requerimientos del usuario. | Resumen de actividades: Análisis y desarrollo de acuerdo con los requerimientos del usuario. | Resumen de actividades: Análisis y desarrollo de acuerdo con los requerimientos del usuario. | Resumen de actividades: Análisis y desarrollo de acuerdo con los requerimientos del usuario. | Resumen de actividades: Análisis y desarrollo de acuerdo con los requerimientos del usuario. | Resumen de actividades: Análisis y desarrollo de acuerdo con los requerimientos del usuario.
+Experiencia Funcional: | Documentación para Análisis del Diseño Detallado para la solución del mantenimiento al aplicativo BRÓKER. 
+Desarrollo del mantenimiento de acuerdo con los requerimientos del usuario.
+Documentación de pruebas unitarias. | Documentación para Análisis del Diseño Detallado para la solución del mantenimiento al aplicativo BRÓKER. 
+Desarrollo del mantenimiento de acuerdo con los requerimientos del usuario.
+Documentación de pruebas unitarias. | Documentación para Análisis del Diseño Detallado para la solución del mantenimiento al aplicativo BRÓKER. 
+Desarrollo del mantenimiento de acuerdo con los requerimientos del usuario.
+Documentación de pruebas unitarias. | Documentación para Análisis del Diseño Detallado para la solución del mantenimiento al aplicativo BRÓKER. 
+Desarrollo del mantenimiento de acuerdo con los requerimientos del usuario.
+Documentación de pruebas unitarias. | Documentación para Análisis del Diseño Detallado para la solución del mantenimiento al aplicativo BRÓKER. 
+Desarrollo del mantenimiento de acuerdo con los requerimientos del usuario.
+Documentación de pruebas unitarias.
+Herramientas: | Java 1.8, Spring, Hibernate, Oracle, AngularJS, SoapUI, Eclipse, SqlDeveloper. | Java 1.8, Spring, Hibernate, Oracle, AngularJS, SoapUI, Eclipse, SqlDeveloper. | Java 1.8, Spring, Hibernate, Oracle, AngularJS, SoapUI, Eclipse, SqlDeveloper. | Java 1.8, Spring, Hibernate, Oracle, AngularJS, SoapUI, Eclipse, SqlDeveloper. | Java 1.8, Spring, Hibernate, Oracle, AngularJS, SoapUI, Eclipse, SqlDeveloper.
+Empresa: Softtek asignado a la cuenta Nacional Monte de Piedad | Empresa: Softtek asignado a la cuenta Nacional Monte de Piedad | País: México | Puesto: Desarrollador Front | Fecha de ingreso: marzo 2020 | Fecha de salida: mayo 2020
+Resumen de actividades: Capacitación de las tecnologías implementadas por el cliente. | Resumen de actividades: Capacitación de las tecnologías implementadas por el cliente. | Resumen de actividades: Capacitación de las tecnologías implementadas por el cliente. | Resumen de actividades: Capacitación de las tecnologías implementadas por el cliente. | Resumen de actividades: Capacitación de las tecnologías implementadas por el cliente. | Resumen de actividades: Capacitación de las tecnologías implementadas por el cliente.
+Experiencia Funcional: | Capacitación de Tecnologías implementadas en Nacional Monte de Piedad. | Capacitación de Tecnologías implementadas en Nacional Monte de Piedad. | Capacitación de Tecnologías implementadas en Nacional Monte de Piedad. | Capacitación de Tecnologías implementadas en Nacional Monte de Piedad. | Capacitación de Tecnologías implementadas en Nacional Monte de Piedad.
+Herramientas: | React, Redux, JavaScript, CSS, Bootstrap, Jest, Enzyme, SonarQube, Jenkins, BlueMix, Pivotal Cloud Foundry, Git y GitHub. | React, Redux, JavaScript, CSS, Bootstrap, Jest, Enzyme, SonarQube, Jenkins, BlueMix, Pivotal Cloud Foundry, Git y GitHub. | React, Redux, JavaScript, CSS, Bootstrap, Jest, Enzyme, SonarQube, Jenkins, BlueMix, Pivotal Cloud Foundry, Git y GitHub. | React, Redux, JavaScript, CSS, Bootstrap, Jest, Enzyme, SonarQube, Jenkins, BlueMix, Pivotal Cloud Foundry, Git y GitHub. | React, Redux, JavaScript, CSS, Bootstrap, Jest, Enzyme, SonarQube, Jenkins, BlueMix, Pivotal Cloud Foundry, Git y GitHub.
+Empresa: Softtek asignado a la cuenta CitiBanamex | Empresa: Softtek asignado a la cuenta CitiBanamex | País: México | Puesto: Desarrollador Java | Fecha de ingreso: junio 2019 | Fecha de salida: marzo 2020
+Resumen de actividades: Análisis y desarrollo de los requerimientos. | Resumen de actividades: Análisis y desarrollo de los requerimientos. | Resumen de actividades: Análisis y desarrollo de los requerimientos. | Resumen de actividades: Análisis y desarrollo de los requerimientos. | Resumen de actividades: Análisis y desarrollo de los requerimientos. | Resumen de actividades: Análisis y desarrollo de los requerimientos.
+Experiencia Funcional: | Análisis y desarrollo de Stored Procedure.
+Análisis y modificación de Stored Procedure.
+Análisis, diseño y desarrollo de los requerimientos del sistema Accimarket
+Documentación de Pruebas Unitarias. | Análisis y desarrollo de Stored Procedure.
+Análisis y modificación de Stored Procedure.
+Análisis, diseño y desarrollo de los requerimientos del sistema Accimarket
+Documentación de Pruebas Unitarias. | Análisis y desarrollo de Stored Procedure.
+Análisis y modificación de Stored Procedure.
+Análisis, diseño y desarrollo de los requerimientos del sistema Accimarket
+Documentación de Pruebas Unitarias. | Análisis y desarrollo de Stored Procedure.
+Análisis y modificación de Stored Procedure.
+Análisis, diseño y desarrollo de los requerimientos del sistema Accimarket
+Documentación de Pruebas Unitarias. | Análisis y desarrollo de Stored Procedure.
+Análisis y modificación de Stored Procedure.
+Análisis, diseño y desarrollo de los requerimientos del sistema Accimarket
+Documentación de Pruebas Unitarias.
+Herramientas: | Java 8, Java EE, Struts 2, Spring MVC, JSP, Js, JQuery, SqlServer, Tomcat, Eclipse. | Java 8, Java EE, Struts 2, Spring MVC, JSP, Js, JQuery, SqlServer, Tomcat, Eclipse. | Java 8, Java EE, Struts 2, Spring MVC, JSP, Js, JQuery, SqlServer, Tomcat, Eclipse. | Java 8, Java EE, Struts 2, Spring MVC, JSP, Js, JQuery, SqlServer, Tomcat, Eclipse. | Java 8, Java EE, Struts 2, Spring MVC, JSP, Js, JQuery, SqlServer, Tomcat, Eclipse.
+Empresa: PAE asignado a la cuenta Banco de México | Empresa: PAE asignado a la cuenta Banco de México | País: México | Puesto: Desarrollador Java | Fecha de ingreso: junio 2018 | Fecha de salida: junio 2019
+Resumen de actividades: Desarrollo de nuevos módulos a los sistemas “Premio Contacto Banxico” y “Reto Banxico” | Resumen de actividades: Desarrollo de nuevos módulos a los sistemas “Premio Contacto Banxico” y “Reto Banxico” | Resumen de actividades: Desarrollo de nuevos módulos a los sistemas “Premio Contacto Banxico” y “Reto Banxico” | Resumen de actividades: Desarrollo de nuevos módulos a los sistemas “Premio Contacto Banxico” y “Reto Banxico” | Resumen de actividades: Desarrollo de nuevos módulos a los sistemas “Premio Contacto Banxico” y “Reto Banxico” | Resumen de actividades: Desarrollo de nuevos módulos a los sistemas “Premio Contacto Banxico” y “Reto Banxico”
+Experiencia Funcional: | Análisis y desarrollo de Stored Procedure.
+Análisis e implementación de nuevas tablas a la Base de datos.
+Análisis, diseño y desarrollo de los requerimientos de los sistemas “Premio Contacto Banxico” y “Reto Banxico”
+Consumo y pruebas de WS.
+Pruebas unitarias.
+Documentación del funcionamiento del sistema para el usuario. | Análisis y desarrollo de Stored Procedure.
+Análisis e implementación de nuevas tablas a la Base de datos.
+Análisis, diseño y desarrollo de los requerimientos de los sistemas “Premio Contacto Banxico” y “Reto Banxico”
+Consumo y pruebas de WS.
+Pruebas unitarias.
+Documentación del funcionamiento del sistema para el usuario. | Análisis y desarrollo de Stored Procedure.
+Análisis e implementación de nuevas tablas a la Base de datos.
+Análisis, diseño y desarrollo de los requerimientos de los sistemas “Premio Contacto Banxico” y “Reto Banxico”
+Consumo y pruebas de WS.
+Pruebas unitarias.
+Documentación del funcionamiento del sistema para el usuario. | Análisis y desarrollo de Stored Procedure.
+Análisis e implementación de nuevas tablas a la Base de datos.
+Análisis, diseño y desarrollo de los requerimientos de los sistemas “Premio Contacto Banxico” y “Reto Banxico”
+Consumo y pruebas de WS.
+Pruebas unitarias.
+Documentación del funcionamiento del sistema para el usuario. | Análisis y desarrollo de Stored Procedure.
+Análisis e implementación de nuevas tablas a la Base de datos.
+Análisis, diseño y desarrollo de los requerimientos de los sistemas “Premio Contacto Banxico” y “Reto Banxico”
+Consumo y pruebas de WS.
+Pruebas unitarias.
+Documentación del funcionamiento del sistema para el usuario.
+Herramientas: | Java 7, Java EE, Struts 1 y 2, Javascript, Jquery, Bootstrap, HTML5, CSS, SyBase. | Java 7, Java EE, Struts 1 y 2, Javascript, Jquery, Bootstrap, HTML5, CSS, SyBase. | Java 7, Java EE, Struts 1 y 2, Javascript, Jquery, Bootstrap, HTML5, CSS, SyBase. | Java 7, Java EE, Struts 1 y 2, Javascript, Jquery, Bootstrap, HTML5, CSS, SyBase. | Java 7, Java EE, Struts 1 y 2, Javascript, Jquery, Bootstrap, HTML5, CSS, SyBase.
+Empresa: Softtek asignado a la cuenta IMSS | Empresa: Softtek asignado a la cuenta IMSS | País: México | Puesto: Ingeniero de Soporte | Fecha de ingreso: agosto 2016 | Fecha de salida: abril 2018
+Resumen de actividades: Resolución de incidencias y desarrollo de Mantenimientos menores y mayores. | Resumen de actividades: Resolución de incidencias y desarrollo de Mantenimientos menores y mayores. | Resumen de actividades: Resolución de incidencias y desarrollo de Mantenimientos menores y mayores. | Resumen de actividades: Resolución de incidencias y desarrollo de Mantenimientos menores y mayores. | Resumen de actividades: Resolución de incidencias y desarrollo de Mantenimientos menores y mayores. | Resumen de actividades: Resolución de incidencias y desarrollo de Mantenimientos menores y mayores.
+Experiencia Funcional: | Análisis de incidentes.
+Resolución de los incidentes.
+Análisis, diseño y desarrollo de mantenimientos para los sistemas “CHKT”, “SIMOC” y “CSI”
+Pruebas funcionales de los sistemas.
+Pruebas unitarias.
+Generación de reportes para el sistema “CHKT”. | Análisis de incidentes.
+Resolución de los incidentes.
+Análisis, diseño y desarrollo de mantenimientos para los sistemas “CHKT”, “SIMOC” y “CSI”
+Pruebas funcionales de los sistemas.
+Pruebas unitarias.
+Generación de reportes para el sistema “CHKT”. | Análisis de incidentes.
+Resolución de los incidentes.
+Análisis, diseño y desarrollo de mantenimientos para los sistemas “CHKT”, “SIMOC” y “CSI”
+Pruebas funcionales de los sistemas.
+Pruebas unitarias.
+Generación de reportes para el sistema “CHKT”. | Análisis de incidentes.
+Resolución de los incidentes.
+Análisis, diseño y desarrollo de mantenimientos para los sistemas “CHKT”, “SIMOC” y “CSI”
+Pruebas funcionales de los sistemas.
+Pruebas unitarias.
+Generación de reportes para el sistema “CHKT”. | Análisis de incidentes.
+Resolución de los incidentes.
+Análisis, diseño y desarrollo de mantenimientos para los sistemas “CHKT”, “SIMOC” y “CSI”
+Pruebas funcionales de los sistemas.
+Pruebas unitarias.
+Generación de reportes para el sistema “CHKT”.
+Herramientas: | Java 7, Java EE, MongoDB, Javascript, HTML, Elixir, Nginx. | Java 7, Java EE, MongoDB, Javascript, HTML, Elixir, Nginx. | Java 7, Java EE, MongoDB, Javascript, HTML, Elixir, Nginx. | Java 7, Java EE, MongoDB, Javascript, HTML, Elixir, Nginx. | Java 7, Java EE, MongoDB, Javascript, HTML, Elixir, Nginx.
+Empresa: Integrador de Servicios I.T. | Empresa: Integrador de Servicios I.T. | País: México | Puesto: Programador Analista Java | Fecha de ingreso: agosto 2016 | Fecha de salida: abril 2016
+Resumen de actividades: Desarrollo del Sistema para el control de Servidores. | Resumen de actividades: Desarrollo del Sistema para el control de Servidores. | Resumen de actividades: Desarrollo del Sistema para el control de Servidores. | Resumen de actividades: Desarrollo del Sistema para el control de Servidores. | Resumen de actividades: Desarrollo del Sistema para el control de Servidores. | Resumen de actividades: Desarrollo del Sistema para el control de Servidores.
+Experiencia Funcional: | Análisis de requerimientos.
+Desarrollo del sistema.
+Pruebas Unitarias.
+Documentación manual de usuario. | Análisis de requerimientos.
+Desarrollo del sistema.
+Pruebas Unitarias.
+Documentación manual de usuario. | Análisis de requerimientos.
+Desarrollo del sistema.
+Pruebas Unitarias.
+Documentación manual de usuario. | Análisis de requerimientos.
+Desarrollo del sistema.
+Pruebas Unitarias.
+Documentación manual de usuario. | Análisis de requerimientos.
+Desarrollo del sistema.
+Pruebas Unitarias.
+Documentación manual de usuario.
+Herramientas: | Java 6, Swing, PhpMyAdmin, MySql, Centos. | Java 6, Swing, PhpMyAdmin, MySql, Centos. | Java 6, Swing, PhpMyAdmin, MySql, Centos. | Java 6, Swing, PhpMyAdmin, MySql, Centos. | Java 6, Swing, PhpMyAdmin, MySql, Centos.
+EDUCACIÓN:
+Facultad, Universidad: Tecnológico de Estudios Superiores del Oriente del Estado de México | País | Fechas
+Ingeniería en Sistemas Computacionales. | México | Septiembre 2005-agosto 2010
+DESARROLLO PROFESIONAL: (cursos tomados)
+Nombre del curso | Lugar | Fechas
+Java 1.8 Fundamentos | Develop | Noviembre 2018
+Java 1.8 Programación | Develop | Diciembre 2018
+GIT | Udemy | Marzo 2020
+JavaScript | Udemy | Marzo 2020
+React | Udemy | Mayo 2020
+CSS | Udemy | Mayo 2020
+SonarQube | Udemy | Abril 2020
+AngularJS 1.7 | Udemy | Julio-2020
+Spring boot | Royal Máster | Noviembre-2022
+IDIOMAS:
+Español nativo, inglés básico
+.
+HABILIDADES TÉCNICAS/ADMINISTRATIVAS:
+Perfil Primario: | Desarrollador Java
+Perfil Secundario: | Analista
+Sistemas Operativos: | Windows, Linux
+Lenguajes de Programación: | Java, SQL, Javascript,
+Bases de Datos: | Oracle, Microsoft SQL Server, MySQL, Sybase, MongoDB.
+Otros: | Frameworks: Struts, Spring, Log4J, iBatis,
+Lenguajes de modelado: UML, Modelo Entidad-Relación

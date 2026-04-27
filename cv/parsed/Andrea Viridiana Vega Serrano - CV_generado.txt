@@ -1,0 +1,122 @@
+Andrea Viridiana Vega Serrano
+Analista de entrega documental
+FUNCIONES
+Realizo la entrega documental y recopilo las firmas necesarias que sustentan las evidencias de los servicios prestados. Me ocupo de compilar y normalizar evidencia, validar consistencia documental y coordinar con las áreas involucradas para asegurar que los paquetes de entrega cumplan los criterios establecidos y se mantenga la trazabilidad de los cambios.
+EXPERIENCIA PROFESIONAL
+Dispongo de más de cinco años de experiencia en entrega documental. En mi rol como analista de entrega documental, me encargo de documentar, sintetizar y analizar información de diversas fuentes, procesos y actores para garantizar la integridad y entrega ordenada de la documentación requerida. Trabajo en la coordinación y normalización de evidencias, listas de cotejo y reportes ejecutivos que aseguran la continuidad operativa y el cumplimiento de lineamientos de calidad. Coordino con áreas técnicas y de negocio para mantener trazabilidad, control de versiones y validación previa a la liberación.
+EXPERIENCIA LABORAL
+Empresa
+SOFTTEK Monterrey, N.L., México | Puesto
+Analyst / Líder de Proyectos | Desde:
+1 noviembre de 2017 | Hasta: 
+A la fecha
+Actividades Principales | • Realicé la entrega documental y la recopilación de firmas que sustentan las evidencias de los servicios prestados.
+• Ejecuto la entrega documental mensual y recopilo las firmas necesarias que sustentan las evidencias de los servicios prestados.
+• Compilo y normalizo evidencias para la Carpeta Consolidada de Servicios y la Carpeta de entregas mensuales.
+• Completo las listas de cotejo por fase (Análisis, Diseño, Desarrollo, Pruebas, Liberación).
+• Integro reportes y VoBo como evidencia previa a liberación.
+• Preparo la evidencia de entrega de paquete para su integración.
+• Aplico control de versiones y gestiono metadatos (fecha/folio/autor) en todos los archivos de la carpeta.
+• Verifico la consistencia entre nombres, fechas y folios de todos los documentos del paquete.
+• Genero el reporte ejecutivo mensual con KPIs, backlog y liberaciones para su envío.
+• Gestiono aclaraciones documentales posteriores a la revisión, asegurando la trazabilidad de los cambios.
+• Preparo la evidencia de Toma de Operación (accesos ≤60 días, enlace ≤120 días, conectividad, acta) para la carpeta del mes correspondiente.
+• Ejecuto la pre-revisión de formato, ortografía y firmas, y valido listas de distribución y acuses.
+• Gestiono entre 1 y 3 proyectos con un esfuerzo total de 15,000 a 20,000 horas, asegurando la entrega documental mensual y la recopilación de firmas que sustentan las evidencias de los servicios prestados. Doy seguimiento a los entregables y reporto avances a los administradores del proyecto y al cliente.
+• He aplicado el curso Prácticas de ofimática para utilizar herramientas ofimáticas en la gestión de documentos, hojas de cálculo y tareas administrativas
+• He puesto en práctica el curso UX: Máster en Diseño Web y Experiencia de Usuario para diseñar interfaces web centradas en la experiencia del usuario y la usabilidad
+• He aplicado el curso The Complete UML Course para modelar y documentar sistemas de software mediante diagramas UML
+• He puesto en práctica el curso Domina SCRUM con JIRA Agile para gestionar proyectos utilizando metodologías ágiles y la herramienta Jira
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• ISP: Inicializo la gestión documental del proyecto, definiendo lineamientos, estructura de carpetas y requisitos de evidencias.
+• PTO: Doy seguimiento a la entrega documental, validando avances, controlando versiones y asegurando el cumplimiento los criterios establecidos.
+• PCR: Gestiono y documento cambios en entregables, asegurando su trazabilidad, actualización y correcta integración en la documentación.
+• FPT: Formalizo la terminación del proyecto mediante la integración, validación y entrega final de la documentación con sus respectivas evidencias y firmas.
+• Documenté requerimientos funcionales (Casos de uso)
+• Aseguré el producto
+• Administré narrativas para ejecución de procesos batch.
+• Administré mejoras y defectos.
+• Ejecuté pruebas unitarias
+• Identifiqué y di seguimiento a la corrección de defectos
+• Administré requerimientos
+• Di seguimiento al plan de trabajo para la implementación del proyecto y mejoras.
+• Di seguimiento con áreas de entornos, seguridad, bases de datos de Banorte.
+• Generé estatus semanal y reporte de hrs PPM (Suites para portafolio/programa/proyectos (demanda, priorización, capacidad)) Banorte.
+• Di seguimiento con ERN (especialista de requerimiento de negocios).
+• Di seguimiento al desarrollo de mantenimientos Banorte – CREA, desarrollados en SAP Netweaver.
+• Di seguimiento a controles de cambio para ambientes previos y productivos.
+• Di seguimiento a incidencias y defectos.
+• Di seguimiento con cliente y usuarios para aseguramiento operativo hasta la garantía.
+• Planeé la migración y ejecución de servicios (procesos batch y DTSX).
+• Analicé y aseguré Requerimientos de Sistemas
+• Di seguimiento continuo con el cliente para la implementación de mejoras del producto SUITE (Software de operaciones para Comercio Exterior)
+• Diseñé wireframes de la aplicación
+• Diseñé y ejecuté casos de prueba
+• Administré Requerimientos y Planifiqué Sprints de trabajo para desarrollos nuevos e Implementaciones
+• Di seguimiento con áreas de Infraestructura y soporte técnico.
+• Planeé tareas en TFS (Gestión de work items, repos y pipelines; soporte a pruebas) con metodología ágil (Scrum Foundation (Marco ágil para gestión de proyectos)).
+• Di seguimiento a Recursos para la administración de incidencias para su atención.
+• Analicé sistemas, documentación de requerimientos funcionales, aseguramiento del producto, diseño de wireframes de la aplicación, diseño de casos de prueba
+• Analicé y documenté procesos y Casos de uso
+• Generé propuesta de interfaz
+• Generé material de capacitación
+• Di seguimiento al plan de trabajo para Implementación del proyecto y mejoras
+• Di seguimiento a Requerimientos en SOLMAN
+• Di seguimiento a incidencias y defectos
+• Realicé Roll out de Proyectos
+Empresa
+One Core Monterrey, N.L., México | Puesto
+Business Analyst / Project Leader | Desde:
+1 agosto de 2016 | Hasta: 
+30 octubre de 2017
+Actividades Principales | • Analicé y aseguré Requerimientos de Sistemas
+• Di seguimiento continuo con el cliente para la implementación de mejoras del producto SUITE (Software de operaciones para Comercio Exterior)
+• Diseñé wireframes de la aplicación
+• Diseñé y ejecuté casos de prueba
+• Administré Requerimientos y Planifiqué Sprints de trabajo para desarrollos nuevos e Implementaciones
+• Di seguimiento con áreas de Infraestructura y soporte técnico.
+• Planeé tareas en TFS (Gestión de work items, repos y pipelines; soporte a pruebas) con metodología ágil (Scrum Foundation (Marco ágil para gestión de proyectos)).
+• Di seguimiento a Recursos para la administración de incidencias para su atención.
+Empresa
+NUV A S O F T Monterrey, N.L., México | Puesto
+Business Analyst / Administrador de Proyectos | Desde:
+1 junio de 2015 | Hasta: 
+30 junio de 2016
+Actividades Principales | • Analicé sistemas, documentación de requerimientos funcionales, aseguramiento del producto, diseño de wireframes de la aplicación, diseño de casos de prueba
+• Analicé y documenté procesos y Casos de uso
+• Generé propuesta de interfaz
+• Generé material de capacitación
+• Di seguimiento al plan de trabajo para Implementación del proyecto y mejoras
+• Di seguimiento a Requerimientos en SOLMAN
+• Di seguimiento a incidencias y defectos
+• Realicé Roll out de Proyectos
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Prácticas de ofimática
+- UX: Máster en Diseño Web y Experiencia de Usuario
+- The Complete UML Course: Learn to Design UML Diagrams
+- Domina SCRUM con JIRA Agile – Metodologías Ágiles
+- COGNOS
+- TFS (Gestión de work items, repos y pipelines; soporte a pruebas)
+- PPM (Suites para portafolio/programa/proyectos (demanda, priorización, capacidad))
+- Epicor
+- SAP (SAP GUI S/4HANA)
+- Jira (Herramienta de gestión ágil y seguimiento de issues/sprints)
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 mayo de 2007 hasta 02 mayo de 2015
+Durante este período asumí responsabilidades centradas en documentación y control de entregas, coordinación de implementación y gestión de incidencias. Me desempeñé en roles como Business Analyst, Product Manager y Analista de Implementación, donde elaboré y validé requerimientos, casos de prueba y material de capacitación, además de coordinar con equipos técnicos y usuarios finales para asegurar la correcta integración de evidencias y entregables. Mantuve la trazabilidad de cambios y la comunicación con Partes interesadas para garantizar continuidad en los servicios.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Lic. en Sistemas de Información Administrativa - enero de 2003 - mayo de 2007 | Instituto Tecnológico de Sonora, Ciudad Obregón, Sonora | Cédula Profesional
+044052
+31/01/2018
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Prácticas de ofimática
+- UX: Máster en Diseño Web y Experiencia de Usuario
+- The Complete UML Course: Learn to Design UML Diagrams
+- Domina SCRUM con JIRA Agile – Metodologías Ágiles
+______________________________________
+Andrea Viridiana Vega Serrano
+Analista de entrega documental | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

@@ -1,0 +1,121 @@
+Francisca Ericela Cerqueda Garcia
+Analista Senior
+FUNCIONES
+Analizo las propuestas de requerimientos de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos, así como en la coordinación con desarrolladores, testers y áreas de negocio. Realizo validaciones funcionales mediante pruebas de aceptación y seguimiento a QA, mantengo interlocución constante con usuarios y coordino las actividades de analistas junior, asegurando un conocimiento integral de los requerimientos del proyecto asignado. Cuento con habilidades de liderazgo, identificación de problemas y propuesta de soluciones, así como dominio en el uso de herramientas y metodologías de análisis como Design Thinking y UML. Además, me comunico eficazmente con diferentes audiencias y elaboro documentación bajo marcos de trabajo tradicionales y ágiles.
+Me responsabilizo de descubrir, sintetizar y analizar información proveniente de múltiples fuentes —herramientas, procesos, documentación y stakeholders— para definir requerimientos claros y accionables que guíen el diseño y la implementación de soluciones alineadas con los objetivos del negocio.
+EXPERIENCIA PROFESIONAL
+Dispongo de más de cinco años de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y soluciones de inteligencia de negocio, además de en la gestión y coordinación de equipos de trabajo. Me especializo en descubrir, sintetizar y analizar información proveniente de múltiples fuentes, incluyendo herramientas, procesos, documentación y stakeholders. A lo largo de mi trayectoria he liderado levantamientos de requerimientos complejos, diseñado soluciones funcionales y modelos de datos, y generado material de capacitación. Trabajo de forma colaborativa con desarrolladores, Aseguramiento de la Calidad (QA) y usuarios para asegurar entregables alineados con objetivos del negocio.
+EXPERIENCIA LABORAL
+Empresa
+Softtek-Practice Specialists Group (PSG) | Puesto
+Especialista en análisis de negocio | Desde:
+1 octubre 2009 | Hasta: 
+A la fecha
+Actividades Principales | • Analicé propuestas de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos. Coordiné labores con desarrolladores, testers y áreas de negocio, ejecuté validación funcional mediante pruebas de aceptación y seguimiento a Aseguramiento de la Calidad (QA), y mantuve comunicación directa con usuarios. También coordiné a analistas junior y garantice un entendimiento integral de los requerimientos del proyecto asignado. Apliqué liderazgo, detección de problemas y propuesta de soluciones, usando herramientas y metodologías de análisis como Design Thinking y Lenguaje Unificado de Modelado (UML), además de elaborar documentación en marcos tradicionales y ágiles.
+• Comprendo las necesidades reales mediante la aplicación de diversas técnicas de análisis.
+• Involucro a los stakeholders para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.
+• Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a los stakeholders ejecutar sus procesos de negocio con eficacia y facilidad.
+• Diseño la solución funcional que satisface los requerimientos de los stakeholders, junto con la estrategia de implementación necesaria para generar valor al negocio.
+• Aseguro la aprobación consciente de la solución por parte de los stakeholders, que cumpla los objetivos planteados y que su implementación se lleve a cabo sin percances.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Participó en el entendimiento de las capacidades tecnológicas y evalúo la viabilidad de soluciones para grandes aplicaciones. Colaboro en sesiones de trabajo con usuarios, sponsors técnicos y de negocio, donde lidero el diseño del modelo de datos y defino el patrón de diseño de pantallas de usuario. Asimismo, identifico capacidades tecnológicas y de implementación, y facilito evidencia al líder de proyecto sobre cambios de alcance, contribuyendo a negociaciones exitosas en costo y calendario.
+• He usado la certificación Certified Business Analysis Professional (Profesional Certificado en Análisis de Negocios (CBAP)) – Instituto Internacional de Análisis de Negocios (IIBA).
+• He usado el curso UX: Máster en Diseño Web y Experiencia de Usuario para reforzar mis habilidades en diseño UX y experiencia de usuario.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+• SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+• ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+• DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+• CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+• GUI: Proveo entradas y valido la precisión del diseño de la Interfaz Gráfica de Usuario (GUI).
+• INT: Proveo las entradas necesarias para la integración de sistemas.
+• STD: Participo en las actividades de diseño de pruebas de sistema.
+• STE: Participo en la ejecución de las pruebas de sistema.
+• DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+• UAT: Apoyo en las actividades de usuario según lo solicitado durante las Pruebas de Aceptación de Usuario (UAT).
+• Especialista en análisis de negocio
+• Definición de procesos, lo que incluye: roles, pasos, entradas, salidas, scripts, diagramas, herramientas, ejemplos y cualquier material adicional.
+• Análisis de requerimientos.
+• Diseño funcional.
+• Diseño e implementación de base de datos.
+• Ajuste al PDSS.
+• Definición de procesos.
+• Mejoras a procesos.
+• Revisión de propuestas de solución para el desarrollo de proyectos.
+• Estimación de tamaño funcional y esfuerzo para proyectos de desarrollo de aplicaciones nuevas.
+• Estimación esfuerzo para proyectos de desarrollo de mantenimientos.
+• Generación de material para talleres presenciales, que incluyen: lectura(s) previas, examen de prerrequisito, presentación(es), documentación, prácticas, examen final: Taller de análisis de negocio para principiantes. Taller de análisis de negocio para intermedios. Taller del método de medición del tamaño funcional COSMIC. Taller de introducción a SQL (Lenguaje para gestión y consulta de bases de datos relacionales) para desarrolladores. Taller de introducción a SQL (Lenguaje para gestión y consulta de bases de datos relacionales) para testers.
+• Generación de material para cursos en línea, que incluyen: lectura(s), presentación(es), audiovisuales, prácticas, exámenes.
+• Impartición de los cursos presenciales o remotos (nueva normalidad), a demanda de los diferentes proyectos y cuentas; en promedio se imparten 6 talleres por año.
+• Realizar evaluación técnica de candidatos para su asignación a los diferentes proyectos y cuentas, a través de generar exámenes en línea, y entrevistas presenciales: Analista de negocio, Líder Funcional, DBA, Desarrollador (SQL (Lenguaje para gestión y consulta de bases de datos relacionales)).
+• Seguimiento a analistas de negocio y líderes funcionales de las diferentes cuentas respecto a su plan de capacitación, soporte en sus tareas en proyectos, apoyo en situaciones especiales para medir e impulsar su crecimiento profesional de principiante a intermedio y de intermedio a avanzado.
+• Mantener actualizado el repositorio del PSG con información del PDSS y temas de análisis de negocio principalmente.
+• Revisión funcional de las propuestas de solución para el desarrollo de proyectos.
+• Líder Funcional en proyectos: Definición e implantación del proceso de gestión y desarrollo de requerimientos; Definición e implantación del proceso de administración de cambios; Control del alcance del proyecto; Negociaciones con los stakeholders; Estrategia de trabajo en células y entregas parciales; Colaboración en la generación del plan de pruebas; Colaboración en la definición e implantación del proceso de administración de la configuración; Entrevistas a candidatos al rol de analista de negocio; Despliegue de iniciativas y procesos definidos con los equipos de analistas y otros líderes funcionales.
+• Analista de negocios: Entrevistas y talleres de requerimientos con usuarios de negocio; Obtención de requerimientos funcionales y no funcionales; Análisis de la situación actual; Bosquejo de la solución propuesta: Diagrama de procesos To-Be; Bosquejo de prototipos de pantallas para la solución, de los módulos correspondientes; Generación de casos de uso e historias de usuario; Generación de especificaciones funcionales; Administración del repositorio de reglas de negocio, repositorio de mensajes, inventario de actores, glosario de términos del proyecto; Administración del Modelo de Dominio del proyecto, diagrama de contexto; Diseño del modelo lógico de datos para la aplicación; Verificación de los productos del análisis y entrega al equipo de desarrollo; Administración de la estrategia de pruebas para el proyecto.
+• Proxy product owner: Colaborar con el PO (Propietario del Producto (Product Owner)) de la siguiente manera: Trabajar en la administración y mantenimiento del Product Backlog; Mantener la visión y objetivos del producto; Contribuir en la alineación de objetivos y metas del proyecto con los objetivos generales de la organización; Mantener una comunicación efectiva con los stakeholders asegurando que sus expectativas estén siendo consideradas en el desarrollo; Asegurar la coherencia entre productos y equipos; Participar e influir en la toma de decisiones sobre la dirección estratégica de la organización en relación con el proyecto; Contribuir en la definición y seguimiento de métricas o indicadores del progreso del proyecto; Establecer estándares de excelencia y disrupción en calidad y productividad; Impulsar la innovación y la transformación en la productividad, calidad y mejora continua.
+• Definición de estándares y lineamientos para los objetos de base de datos
+• Optimización de consultas y stored procedures
+• Análisis y diseño de base de datos de la aplicación a ser migrada
+• Análisis de estadísticas de la base de datos
+• Definición de procesos para sincronización de versiones de base de datos entre ambientes (desarrollo, pruebas, qa, producción)
+• Identificación de consultas costosas
+• Identificación de índices en desuso
+• Identificación de índices a crear y borrar para optimización de la aplicación
+• Análisis de parámetros de configuración del servidor de base de datos
+• Herramientas: SQL Server (Motor de base de datos para consultas y validaciones), Erwin 7
+Empresa
+Softtek-Megacable | Puesto
+Diseñador de Base de Datos | Desde:
+1 junio 2015 | Hasta: 
+30 noviembre 2015
+Actividades Principales | • Definición de estándares y lineamientos para los objetos de base de datos
+• Optimización de consultas y stored procedures
+• Análisis y diseño de base de datos de la aplicación a ser migrada
+• Análisis de estadísticas de la base de datos
+• Definición de procesos para sincronización de versiones de base de datos entre ambientes (desarrollo, pruebas, qa, producción)
+• Identificación de consultas costosas
+• Identificación de índices en desuso
+• Identificación de índices a crear y borrar para optimización de la aplicación
+• Análisis de parámetros de configuración del servidor de base de datos
+• Herramientas: SQL Server (Motor de base de datos para consultas y validaciones), Erwin 7
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Certified Business Analysis Professional (CBAP®) – IIBA
+- UX: Máster en Diseño Web y Experiencia de Usuario
+- Microsoft Excel
+- Word
+- Power Point
+- Visio
+- StarUML
+- Sharepoint
+- Bizagi
+- SQLServer
+- Oracle
+- Erwin
+- Tortoise SVN
+- Process Dashboard
+- DB2
+- Java
+- Jira
+- Draw.oi
+- Pencil
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 marzo de 1999 hasta 30 mayo de 2015
+Durante este período me desempeñé en roles como Analista Programador, Administrador de base de datos, DBA Oracle y Business Analyst. Asumí responsabilidades de diseño y administración de modelos de datos, optimización de performance, implementación de estándares y documentación técnica. Participé en migraciones, desarrollo de procesos de carga y automatización, y en actividades de pruebas de integración y Pruebas de Aceptación de Usuario (UAT), además de apoyar en la generación de entregables y en la coordinación técnica de pequeños equipos.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciatura en Computación - 1994-1999 | Universidad Autónoma Metropolitana, Unidad Iztapalapa | Cédula Profesional
+6867747
+07/03/2011
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Certified Business Analysis Professional (CBAP®) – IIBA | 2016 - 2028
+CURSOS
+- UX: Máster en Diseño Web y Experiencia de Usuario
+______________________________________
+Francisca Ericela Cerqueda Garcia
+Analista Senior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

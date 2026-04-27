@@ -1,0 +1,69 @@
+Edrei Arturo Graciano Alcaraz
+,Mexico
+RESUMEN
+Desarrollador de software con experiencia en .NET Core, AngularJS, Flutter y más. Líder técnico en proyectos, experto en análisis y diseño de sistemas. Licenciado en Sistemas Computacionales con logros en integración de equipos y diseño de plataformas innovadoras. Colaborador en múltiples proyectos de desarrollo de aplicaciones y plataformas, con habilidades destacadas en .NET Core, AngularJS, Flutter, y gestión de bases de datos. Reconocido por liderar equipos técnicos, analizar requerimientos y diseñar soluciones innovadoras en entornos de desarrollo de software
+Educación
+Instituto de Estudios Superiores de Chiapas (sep 2015-abr 2018)
+Licenciatura
+Estudio de Licenciatura en Sistemas Computacional en modalidad cuatrimestral.
+Experiencia
+Softtek (sep 2021-Current)
+App Maint Engineer Web Other (Py,Php) PR
+Colaboré en 4 proyectos donde manejé las mejoras en un servicio de AMS al sistema de O3. El backend de Python con el framework de Flask.Frontend en 2 aplicativos.- Front AngularJS - Front Flutter Web Android iOS Se realizaron tareas de gestión, análisis, y optimización de la BD para la operación.- MySQL - SQL Server Migración de servicios a nuevas API´s para comunicación a interfaces externas.- SOAP - REST
+ND Negocios Digitales (nov 2019-sep 2021)
+Ingeniero de Software
+Funciones:Desarrollador móvil con Flutter Desarrollador Front-End (HTML, CSS, JS, jQuery) Líder técnico de proyecto Apoyo en diseño y análisis de requerimientos Desarrollador PHP Desarrollador .NET Logros:Integración del equipo de análisis con desarrollo.. Identificación de requerimientos futuros y mejoras en el proceso.
+Cluster ITMx (ago 2019-oct 2019)
+Ingeniero de Software y Sistemas Digitales
+Funciones:Diseño y análisis de plataforma de inscripción y gestión Diseño de BD Gestión de servidor (cPanel) Desarrollo de la plataforma Colaboración con área de diseño para elaboración de plataforma Gestión de equipos de audio y video Logros:Diseño de nuevos métodos y estrategias Sistema personalizado de inscripción
+CIMA Consultoría Integral (may 2015-jul 2015)
+Ingeniero de Sistemas
+Funciones:Levantamiento de requerimientos. Diseño de BD. Diseño de flujo. Desarrollo de portal PHP. Desarrollo Front. Logros:Establecer una herramienta que cubra las necesidades de análisis y gestión del recurso humano que se postula a la bolsa de trabajo (Servicio de contratación para empresas). Permitir tener un orden y disposición inmediata de la información para el líder.
+Cursos
+Security Training - Application Maintenance Engineer (oct 2025)
+SOFTTEK
+At the end of the course, the participant will be able to identify the principles, best practices, and key cybersecurity tools that will enable them to design, implement, and maintain applications that are resilient to common threats and vulnerabilities, through a hands-on approach based on real-world secure software development scenarios
+ 
+[Languages: SPA, ENG]
+Security Awareness 2025 (jul 2025)
+SOFTTEK
+At the end of the course, the participant will reinforce their knowledge of our Information Security Policies, Ethics and processes, and will be able to identify incidents or risks, as well as the correct way to escalate them to avoid violating the security of Softtek's information and clients' assets.
+[Languages: ENG, ESP, POR]
+Frida Accelerators (jul 2025)
+SOFTTEK
+Optimizar los procesos de desarrollo. A través del uso de FRIDA, se explorarán herramientas y aceleradores que permiten automatizar tareas, mejorar la eficiencia y reducir tiempos de entrega.
+Leader's Week (may 2025)
+SOFTTEK
+Para la comunidad de líderes
+ITIL 4 Foundation Nivel 2 - Conceptos Clave del Servicio (mar 2025)
+SOFTTEK
+Reforzar los conceptos clave del servicio que se vieron en el curso ITIL 4 Foundation Overview con algunos ejemplos.
+ITIL 4 Foundation Nivel 2 - Introducción (mar 2025)
+SOFTTEK
+El objetivo de este curso es que el participante conozca e identifique los fundamentos de ITIL 4: los conceptos clave de la gestión del servicio, las Cuatro Dimensiones y los componentes del Sistema de Valor del Servicio.
+C# Intermediate: Classes, Interfaces and OOP (feb 2025)
+Whether you want to use C# to build web apps, mobile apps, desktop apps or games, understanding C# classes, interfaces and principles of object-oriented programming is crucial.
+This course is the second part of Mosh's best-selling C# series and is all about classes, interfaces and object-oriented programming. In essence, you'll learn:
+
+How to work with classes, constructors, fields, properties, methods and indexers
+
+How to use encapsulation to reduce the impact of change
+
+How to improve the robu
+Extracurricular - Technology (nov 2024)
+SOFTTEK
+TBD
+Extracurricular - Technology (nov 2024)
+SOFTTEK
+TBD
+C# Basics for Beginners: Learn C# Fundamentals by Coding (nov 2024)
+With over 50,000 happy students and 15,000+ positive reviews, this course is Udemy's most popular course for learning C# from scratch! 
+
+
+
+C# is a beautiful cross-platform language that can be used to build variety of applications. With C#, you can build mobile apps (for Windows, Android and iOS), games, web sites and desktop applications.
+
+
+Once you master fundamentals of C# and programming with .NET framework, you'll have lots of options in front of you. You can choose to build mobile apps if
+Skills
+.NET Core Framework, AMS Model, Angular JS, C#, Flutter, Git, MySQL, Python, Google Cloud Platform, Adobe Illustrator, Adobe XD, Lucidchart, Análisis Crítico, Trabajo en Equipo Colaborativo, Desarrollo Multiplataforma, Enfoques Fullstack

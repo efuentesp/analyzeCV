@@ -1,0 +1,228 @@
+
+{
+  "capacidadRecursosHumanos": {
+    "experiencia": [
+       {
+        "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 5 años de experiencia comprobada en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas. Dominio en las tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source ?",
+        "detalle": "Para el rol delLíder Técnico de atención de incidentes. Al menos 5 años de experiencia en desarrollo de software y liderazgo técnico, así como atención y resolución de problemas. Dominio en las tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source.",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV acredita que almenos tiene 3 años de experiencia desarrollo en metodologías ágiles?",
+        "detalle": "Adicional: Al menos 3 años de experiencia en desarrollo en metodologías ágiles",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV acredita funciones de dirección y coordinación a equipos de trabajo para restaurar un servicio ante fallas que se presenten en la operación de los aplicativos. Evaluar la situación, tomar decisiones críticas y asegurar la comunicación efectiva para resolver el incidente.?",
+        "detalle": "Dirigir y coordinar a equipos de trabajo para restaurar un servicio ante fallas que se presenten en la operación de los aplicativos. Evaluar la situación, tomar decisiones críticas y asegurar la comunicación efectiva para resolver el incidente. Habilidades en: Toma de decisiones. Liderazgo.",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV declara explícitamente experiencia mínima requerida en atención de incidentes en entornos productivos, preferentemente en servicios o plataformas críticas?",
+        "detalle": "Ej. ≥3 / ≥5 años ",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Acredita experiencia coordinando la atención de incidentes técnicos, incluyendo la asignación de actividades a desarrolladores, especialistas e infraestructura?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Evidencia experiencia en la gestión de incidentes por severidad/prioridad (P1–P4, Bloqueante/Crítica/Alta) y su resolución conforme a SLA/OLA?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Demuestra experiencia en la identificación de causa raíz y liderazgo en análisis post-incidente (RCA) para prevenir recurrencias?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Cuenta con experiencia en entornos de operación continua (producción), garantizando la estabilidad y continuidad del servicio tras la atención del incidente?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Acredita experiencia como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La experiencia descrita incluye resultados medibles en la mejora de la operación (reducción de tiempos de atención, reincidencias, impacto al negocio)?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La cronología laboral refleja continuidad y experiencia acumulada suficiente en roles de atención/gestión de incidentes?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La experiencia suma ≥5 añosen desarrollo de software y liderazgo técnico, así como atención y resolución de problemas. Dominio en las tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source ?",
+        "detalle": "Ej. ≥5 años",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+        "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+        "detalle": "Fechas correctas en el periodo de experiencia: La fecha \"Desde\" debe ser un mes posterior a la última fecha \"Hasta\", los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+        "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV documenta proyectos (grandes/críticos) resaltando habilidades en: Toma de decisiones, Liderazgo.?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV presenta numeralia que evidencie la experiencia del candidato como Líder Técnico de atención de incidentes, incluyendo volumen de incidentes gestionados, severidades atendidas, tiempos de respuesta y resolución, cumplimiento de SLA/OLA, coordinación de incidentes críticos y resultados obtenidos en la continuidad operativa del servicio?",
+        "detalle": "Nº total de incidentes gestionados (mensual/anual). Distribución por severidad (P1/P2/P3/P4 o Bloqueante/Crítica/Alta/Media). MTTR / tiempos de atención y resolución (promedio o rangos). % de cumplimiento de SLA/OLA. Nº de incidentes críticos (Major Incidents) coordinados (war room). Nº de escalamientos técnicos y equipos coordinados. Resultados medibles: reducción de reincidencia, estabilización del servicio, mejora de disponibilidad.",
+        "resultado": ""
+      }
+    ],
+    "competencia": [
+      {
+        "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+        "detalle": "Acreditar la competencia señalada. Estudios nivel superior acreditable de nivel licenciatura o ingeniería ",
+        "resultado": ""
+      }
+    ],
+    "dominioDeHerramientas": [
+      {
+        "concepto": "¿El candidato cuenta con certificaciones?",
+        "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar el dominio de herramientas señaladas - Certificaciones",
+        "detalle": "Adicional es deseable alguna de las siguientes certificaciones vigente: 1.  En los lenguajes de programación indicados.",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar conocimiento comprobable en las tecnologías descritas - Cursos\nLenguajes de Programación\nCómputo en la nube\nBases de Datos\nSistemas Operativos\nServicios integrales de autenticación:",
+        "detalle": "Conocimiento comprobable en las tecnologías descritas en la introducción del documento Anexo Staff\n• Lenguajes de Programación: Java (open jdk), Ansi, C#, C/, C++, DataStage, Basic, 4GL, SPL, Transact SQL, Python, Scala, R, Rust.\n• Cómputo en la nube: AWS, Azure, Data Factory, Databricks, Dockers/Kubernetes, ARO (Azure Redhat OpenShift), Data Pipelines.\n• Bases de Datos: PostgreSQL, Oracle, MariaDB, IBM, Informix, SQL Server, QVD, Azure SQL, Cassandra, DataLake, DB2.\n• Sistemas Operativos: Linux, Unix, Windows Server, z/OS, Spice.\n• Servicios integrales de autenticación: E-firma, OAuth 2.0, OWIN, SAML2, Omniguard.",
+        "resultado": ""
+      }
+    ]
+  },
+  "dominioHerramientas": [
+    {
+      "concepto": "¿Utiliza herramientas de gestión de incidentes para el registro, clasificación y seguimiento (Service Desk, Mesa SAT, ITSM, Jira Service Management, MSSAT o equivalente)?",
+      "detalle": "Tickets, estados, prioridad, historial.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Clasifica incidentes por prioridad/severidad (P1–P4 o equivalente) conforme a procedimientos establecidos?",
+      "detalle": "Matriz de priorización, tickets con severidad.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Monitorea y asegura el cumplimiento de SLA/OLA mediante herramientas de gestión?",
+      "detalle": "Reportes de SLA, tableros de cumplimiento.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Coordina la atención de incidentes con equipos técnicos (desarrollo, infraestructura, base de datos, seguridad)?",
+      "detalle": "Minutas, asignaciones, comunicaciones registradas.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Utiliza herramientas de diagnóstico técnico (logs, trazas, monitoreo) para apoyar la resolución de incidentes?",
+      "detalle": "Capturas/logs, referencias a monitoreo (APM, logs).",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Gestiona escalamientos técnicos utilizando herramientas formales de seguimiento y comunicación?",
+      "detalle": "Escalamientos documentados, tiempos de respuesta.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Opera herramientas de monitoreo/observabilidad para identificar fallas o degradaciones del servicio (APM, monitoreo de infraestructura, dashboards)?",
+      "detalle": "Tableros, alertas, reportes.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Analiza alertas y eventos para correlación y diagnóstico de causa raíz (RCA)?",
+      "detalle": "Análisis post-mortem, informes RCA.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Utiliza herramientas para la gestión de incidentes críticos (war room, bridges, comunicaciones controladas)?",
+      "detalle": "Actas de incidentes mayores, convocatorias, registros.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Coordina comunicaciones técnicas durante incidentes mayores mediante herramientas institucionales (correo, Teams, conferencias)?",
+      "detalle": "Comunicados, bitácoras de eventos.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Coordina liberaciones correctivas (hotfix, parches) utilizando herramientas de liberación (Monitor/AVL o equivalente)?",
+      "detalle": "Acuses de entrega, ventanas de cambio.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Valida cierres técnicos de incidentes tras despliegues correctivos en ambientes controlados?",
+      "detalle": "Evidencias de validación post-release.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Documenta incidentes, soluciones y lecciones aprendidas utilizando plantillas oficiales?",
+      "detalle": "Reportes de incidente, RCA, bitácoras.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Integra evidencias de atención de incidentes en carpetas operativas/mensuales para auditoría o dictamen?",
+      "detalle": "Carpetas con tickets, reportes, SLA.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Utiliza herramientas colaborativas para registrar y versionar documentación operativa (SharePoint, Confluence, OneDrive)?",
+      "detalle": "Historial de versiones, repositorios operativos.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Genera reportes operativos de incidentes (volumen, tiempos, tendencias) mediante herramientas de análisis o Excel/BI?",
+      "detalle": "Reportes periódicos, KPIs operativos.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Utiliza herramientas para asignar, coordinar y supervisar actividades del equipo de atención de incidentes?",
+      "detalle": "Asignaciones, planes de turno, seguimiento.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Capacita o guía técnicamente a personal de soporte utilizando procedimientos, manuales o sesiones registradas?",
+      "detalle": "Manuales, sesiones, listas de asistencia.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de certificaciones ITIL/ITSM/seguridad en el manejo de incidentes?",
+      "detalle": "Caso “qué-cómo-resultado” asociado a incidentes reales.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV muestra aplicación práctica de cursos o capacitaciones en atención de incidentes o continuidad operativa?",
+      "detalle": "Ejemplos claros de aplicación en operación.",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    }
+  ]
+}

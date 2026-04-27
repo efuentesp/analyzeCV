@@ -1,0 +1,239 @@
+PERFIL
+Ana Lilia Morales Gabriel
+Ingeniera en Sistemas Computacionales con 17 años y 8 meses de experiencia en proyectos de TI para el sector público y privado desempeñándome como analista de negocios, analista de sistemas, líder funcional y líder de proyecto.
+He participado en todas las fases del ciclo de desarrollo de software con las siguientes actividades:
+Levantamiento de requerimientos.
+Análisis y diseño de requerimientos.
+Realización de documentación de análisis (CU, HU, diagramas, modelo de dominio y contratos entre aplicaciones).
+Soporte al equipo de desarrollo, base de datos y QA durante las fases de desarrollo y pruebas.
+Ejecución de pruebas funcionales.
+Acompañamiento y seguimiento de pruebas UAT.
+Identificación, gestión e implementación de cambios del proyecto en conjunto con el líder funcional y líder de proyecto.
+Definición y planeación de las tareas del equipo de análisis.
+Revisión de los productos generados por el equipo de análisis para el aseguramiento de calidad.
+Apoyo en la generación de propuestas de proyectos.
+Realización y revisión de estimaciones.
+Realización de conteos cosmic.
+Acompañamiento al Líder de Proyecto para el seguimiento y control del proyecto, para la entrega de resultados en tiempo, esfuerzo, presupuesto y calidad.
+Aptitudes: organizada, comprometida, proactiva, capacidad de análisis, habilidad de negociación, capacidad de liderazgo, enfoque a resultados, responsable y gusto por aprender.
+EXPERIENCIA PROFESIONAL
+Softtek ­ CITIBANAMEX	CDMX (home office) ­ BA	De: May, 2021 A: La Fecha Descripción:
+Funciones:
+Apoyo al líder en análisis de requerimientos.
+Realización de épicas e historias de usuario.
+Acompañamiento en sesiones de revisión de documentación con el usuario.
+Apoyo en el análisis de casos de prueba a ejecutar.
+Revisión de evidencias de casos de prueba ejecutados por el equipo de QA.
+Mantenimiento de cuentas. Logros:
+Participación en la fase de análisis y pruebas para el área de Tarjetas de Crédito.
+Uso básico de la herramienta de ALM.
+Herramientas/Habilidades:
+Agile, Business Analyst Role, Scrum, SoftSkill ­ Efective Communication, SoftSkill ­ Problem solving, SoftSkill ­ Planning & Organization, SoftSkill
+­ Negotiation skills, Functional Testing
+Softtek ­ Banorte	CDMX (Home Office) ­ Analista de Negocio
+/ Analista de Sistemas
+De: Apr, 2020 A: May, 2021
+Descripción:
+Funciones:
+Levantamiento de requerimientos.
+Realización de análisis.
+Realización de Casos de Uso.
+Realización de prototipos.
+Realización de contratos entre aplicaciones.
+Realización de modelo de dominio.
+Realización de diagramas de contexto, caso de uso, estados y flujo.
+Soporte al equipo de desarrollo en la fase de Diseño.
+Realización de estimaciones (por juicio de experto).
+Definición y planeación de las tareas del equipo de análisis.
+Revisión de los artefactos generados por los analistas a mi cargo.
+Acompañamiento en sesiones de revisión de documentación con el usuario. Logros:
+Participación en la fase de análisis y diseño del proyecto de Nuevo SPEI para Banorte.
+Liderear a 2 analistas.
+Herramientas/Habilidades:
+Business Analyst Role, Business Process Model & Notation (BPMN), Business Process Mapping, Waterfall, SoftSkill ­ Teamwork, SoftSkill ­ Problem solving, SoftSkill ­ Planning & Organization, SoftSkill ­ Negotiation skills, SoftSkill ­ Leadership, SoftSkill ­ Efective Communication, Functional Testing, Agile
+Softtek ­ SCOTIABANK	CDMX (Sitio y Home Office) ­ Analista de Negocio / BA
+De: Jan, 2019 A: Apr, 2020
+Descripción:
+Funciones:
+Levantamiento de requerimientos.
+Realización de análisis y diseño de requerimientos.
+Realización de historias de usuario y casos de uso.
+Realización de diagramas de proceso.
+Realización de prototipos.
+Realización de modelo de dominio.
+Realización de pruebas funcionales.
+Soporte al equipo de desarrollo en la fase de Implementación.
+Soporte al equipo de QA en la fase de Pruebas.
+Acompañamiento al usuario en las pruebas (UAT).
+Gestión de Backlog.
+Priorización de requerimientos.
+Realización de estimaciones (por juicio de experto).
+Definición y planeación de las tareas del equipo de análisis.
+Revisión de los artefactos generados por los analistas a mi cargo.
+Reportar estatus del proyecto (internamente y con los usuarios).
+Apoyo en propuestas para los usuarios.
+Realización de planes de trabajo.
+Negociar controles de cambio con los usuarios. Logros:
+Participación en el desarrollo del proyecto de Oficios para SCOTIABANK.
+Incrementar y fortalecer los conocimientos de análisis.
+Liderar al equipo de análisis.
+Herramientas/Habilidades:
+Business Analyst Role, Business Process Mapping, Business Process Model & Notation (BPMN), Functional Testing, SoftSkill ­ Teamwork, SoftSkill ­ Problem solving, SoftSkill ­ Planning & Organization, SoftSkill ­ Negotiation skills, SoftSkill ­ Efective Communication, SoftSkill ­ Leadership, Agile
+Softtek ­ IMSS	CDMX ­ Analista de Sist/L. Funcional/ L. Proyecto
+De: Sep, 2016 A: Jan, 2019
+Descripción:
+Funciones:
+Levantamiento de requerimientos.
+Realización de análisis y diseño de requerimientos.
+Realización de Casos de Uso.
+Realización de prototipos.
+Realización de contratos entre aplicaciones.
+Generación de propuesta de tableros de control.
+Realización de modelo de dominio.
+Realización de diagramas de contexto, caso de uso, estados y flujo.
+Realización de análisis de fuentes de información.
+Realización de pruebas funcionales.
+Soporte al equipo de desarrollo en la fase de Implementación.
+Soporte al equipo de QA en la fase de Pruebas.
+Control y seguimiento en pruebas de UAT.
+Realización de estimaciones (por juicio de experto y COSMIC).
+Definición y planeación de las tareas del equipo de análisis.
+Revisión de los artefactos generados por los analistas a mi cargo.
+Control y seguimiento de proyecto.
+Reportar estatus del proyecto (internamente y con los usuarios).
+Apoyo en propuestas para los usuarios.
+Realización de planes de trabajo.
+Negociar controles de cambio con los usuarios.
+Cierre de proyectos. Logros:
+Participación en el ciclo completo del desarrollo del proyecto CSI para el Instituto Mexicano del Seguro Social (IMSS).
+Participación en el ciclo completo del desarrollo del proyecto Modelo Preventivo de Enfermedades Crónicas (MPEC) para el Instituto Mexicano del Seguro Social (IMSS).
+Participación en la reingeniería del proyecto de Subsidios para el Instituto Mexicano del Seguro Social (IMSS).
+Mejorar la comunicación con el cliente.
+Apoyar al equipo de Technical Solution para revisión de propuestas y conteos Cosmic.
+Incrementar y fortalecer los conocimientos de análisis.
+Liderar al equipo de análisis.
+Liderar a los equipos de análisis, desarrollo y pruebas.
+Herramientas/Habilidades:
+Business Analyst Role, Business Process Mapping, Business Process Model & Notation (BPMN), Functional Testing, SoftSkill ­ Teamwork, SoftSkill ­ Problem solving, SoftSkill ­ Planning & Organization, SoftSkill ­ Negotiation skills, SoftSkill ­ Leadership, SoftSkill ­ Efective Communication, Project Leader Role, Waterfall
+Softtek-SAT	CDMX - Analista negocio/L. Funcional/L. Proyecto
+De: May, 2011 A: Sep, 2016
+Descripción:
+Funciones:
+Levantamiento de requerimientos.
+Realización de análisis y diseño de requerimientos.
+Realización de Casos de Uso.
+Realización de prototipos.
+Realización de diagramas de procesos BPM.
+Realización de especificación de diagramas de procesos.
+Realización de contratos entre aplicaciones.
+Realización de modelo de dominio.
+Realización de diagramas de contexto, caso de uso, estados y flujo.
+Realización de pruebas funcionales.
+Apoyo en el diseño de Base de datos.
+Soporte al equipo de desarrollo en la fase de Implementación.
+Soporte al equipo de QA en la fase de Pruebas.
+Acompañamiento, control y seguimiento en pruebas de UAT.
+Realización de estimaciones (por juicio de experto y COSMIC).
+Definición y planeación de las tareas del equipo de análisis.
+Revisión de los artefactos generados por los analistas a mi cargo.
+Liderar al equipo de análisis, desarrollo y pruebas
+Control y seguimiento de proyecto.
+Reportar estatus del proyecto (internamente y con los usuarios).
+Apoyo en propuestas para los usuarios.
+Realización de planes de trabajo.
+Negociar controles de cambio con los usuarios.
+Cierre de proyectos. Logros:
+Participación en el proyecto de Ventanilla Única de Comercio Exterior Mexicano (VUCEM).
+Participación en el ciclo completo de diversos trámites de VUCEM para las dependencias de: SE, AGA, SAGARPA, SENER, COFEPRIS, DGN, SEMARNAT.
+Participación en la migración de los trámites de la VUCEM para cumplir con los lineamientos de GOBMX.
+Colaborar con Secretaría de Economía (SE) y el Servicio de Administración Tributaria (SAT) para integrar las ventanillas únicas de los países miembros de la Alianza del Pacífico.
+Incrementar y fortalecer los conocimientos de análisis.
+Liderar al equipo de análisis.
+Liderar a los equipos de análisis, desarrollo y pruebas.
+Herramientas/Habilidades:
+Business Analyst Role, Business Process Mapping, Business Process Model & Notation (BPMN), Functional Testing, SoftSkill ­ Teamwork, SoftSkill ­ Problem solving, SoftSkill ­ Planning & Organization, SoftSkill ­ Negotiation skills, SoftSkill ­ Leadership, Project Leader Role, SoftSkill ­ Efective Communication, CMMi
+TATA	CDMX - Analista	De: Jul, 2010 A: Apr, 2011 Descripción:
+Funciones:
+Levantamiento de requerimientos.
+Realización de análisis y diseño de requerimientos.
+Realización de Casos de Uso.
+Realización de prototipos.
+Realización de diagramas de caso de uso, estados, secuencia, actividades y flujo.
+Realización de pruebas funcionales.
+Apoyo en el diseño de Base de datos.
+Soporte al equipo de desarrollo en la fase de Implementación.
+Soporte al equipo de QA en la fase de Pruebas.
+Control y seguimiento en pruebas de UAT.
+Logros:
+Participar en el proyecto de Pensiones y SINDO del Instituto Mexicano del Seguro Social (IMSS).
+Herramientas/Habilidades:
+Business Analyst Role, Functional Testing, SoftSkill ­ Teamwork, SoftSkill ­ Problem solving, SoftSkill ­ Efective Communication, SoftSkill ­ Negotiation skills
+Grupo Tecnis	CDMX - Analista - Programador	De: Nov, 2007 A: Jul, 2010 Descripción:
+Funciones:
+Desarrollo de aplicaciones web utilizando JavaScript, Struts, JSF, Hibernate, Ibatis, Spring, EJBs, Oracle, SQL y Java.
+Mantenimiento de aplicaciones.
+Levantamiento de requerimientos.
+Realización de Casos de Uso.
+Realización de diagramas de caso de uso, secuencia y actividades.
+Realización de prototipos en HTML.
+Apoyo en el diseño de Base de datos.
+Realización de pruebas funcionales.
+Acompañamiento en pruebas de UAT.
+Apoyo para obtener la certificación de CMMI. Logros:
+Liberación de diversos proyectos para Prosa.
+Participar en el proyecto de Santander para la realización de intercambio de mensajes enviados por la Bolsa de Valores para la realización de movimientos SPEI, depósitos, entre otros.
+Se apoyó para alcanzar la certificación de CMMI nivel 5.
+Herramientas/Habilidades:
+Business Analyst Role, Functional Testing, SoftSkill ­ Teamwork, SoftSkill ­ Problem solving, SoftSkill ­ Planning & Organization, SoftSkill ­ Negotiation skills, SoftSkill ­ Efective Communication, Java 8, Java 9, HTML5, Struts, JavaServer Faces (JSF), Hibernate, Spring Framework, Oracle Database, MySQL, CMMi
+Gesfor México S.A. de C. V	CDMX - Desarrollador	De: Apr, 2007 A: Nov, 2007 Descripción:
+Funciones:
+Desarrollo de aplicaciones web utilizando JavaScript, SQL, JSP’s, Servlets y Java.
+Desarrollo de aplicaciones Stand Alone.
+Realización de prototipos en HTML
+Mantenimiento de aplicaciones.
+Realización de pruebas para los aplicativos desarrollados. Logros:
+Liberación de diversos proyectos Stand Alone (back) y web para Bancomer.
+Se aplicaron conocimientos matemáticos para la realización de un menú dinámico.
+Herramientas/Habilidades:
+Java 8, JavaServer Pages (JSP), Java Servlets, HTML, SoftSkill ­ Teamwork, SoftSkill ­ Problem solving, SoftSkill ­ Planning & Organization, SoftSkill ­ Efective Communication, Business Analyst Role
+Getronics México S.A. de C.V.	CDMX - Desarrollador	De: Aug, 2005 A: Mar, 2007 Descripción:
+Funciones:
+Desarrollo de aplicaciones web utilizando Struts, JSF, Hibernate, Spring, EJBs, SQL, Postgress, Oracle y Java.
+Realización de pruebas para los aplicativos desarrollados.
+Apoyo para obtener la certificación de CMMI nivel 5. Logros:
+Liberación de diversos proyectos web para clientes como CityBanamex, Kuehne+Nagel, entre otros.
+Se apoyó para alcanzar la certificación de CMMI.
+Herramientas/Habilidades:
+Java 8, Java 9, Struts, JavaServer Faces (JSF), Hibernate, Spring Framework, Oracle Database, CMMi, SoftSkill ­ Teamwork, SoftSkill ­ Problem solving, SoftSkill ­ Negotiation skills, SoftSkill ­ Efective Communication
+EDUCACIÓN
+Escuela Superior de Cómputo (ESCOM) Superior
+Ingeniería en Sistemas Computacionales | CDMX | De: Aug, 2001 A: Aug, 2005
+DESARROLLO PROFESIONAL
+Certification: Scrum Product Owner Professional Certificate Course: SCRUM PRODUCT OWNER
+Course: Taller de requerimientos Certification: SCRUM MASTER CERTIFIED Certification: Scrum Fundamentals Certified Course: Curso Scrum Master Certified | Certiprof Agile Academy
+SCRUM MÉXICO
+SCRUMStudy SCRUMstudy Stratominds® | May, 2021
+Mar, 2021
+Oct, 2020
+Sep, 2019
+Sep, 2019
+Feb, 2019
+IDIOMAS
+English Spanish | Auto Evaluado Auto Evaluado | Lower Intermediate 31­50%
+Fluent Advanced 96–100%
+HABILIDADES TÉCNICAS/GERENCIALES
+Waterfall Struts
+Spring Framework SoftSkill ­ Teamwork SoftSkill ­ Problem solving
+SoftSkill ­ Planning & Organization SoftSkill ­ Negotiation skills SoftSkill ­ Leadership
+SoftSkill ­ Efective Communication Scrum
+Project Leader Role Oracle Database MySQL
+JavaServer Pages (JSP) JavaServer Faces (JSF) Java Servlets
+Java 9
+Java 8 HTML5 HTML
+Hibernate Functional Testing CMMi
+Business Process Model & Notation (BPMN) Business Process Mapping
+Business Analyst Role
+Agile | Senior Junior Junior Proficient Proficient Proficient Proficient Proficient Proficient Trainee Proficient
+Junior Junior Junior Junior Junior Junior Junior Junior Junior Junior Proficient
+Junior Proficient Proficient Proficient
+Trainee

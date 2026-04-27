@@ -1,0 +1,191 @@
+
+{
+  "capacidadRecursosHumanos": {
+    "experiencia": [
+         {
+        "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 5 años de experiencia comprobada en en entrega documental de servicios  grandes o críticos alineado al rol ?",
+        "detalle": "Para el rol del Gerente de entrega documental Al menos 5 años de experiencia en entrega documental."
+      },
+      {
+        "concepto": "¿El CV demuestra experiencia coordinando el seguimiento, la elaboración y la entrega documental mensual, incluyendo la recopilación y validación de firmas que sustentan las evidencias de los servicios prestados?",
+        "detalle": "Dar seguimiento y realizar la entrega documental y recopilación de firmas que sustentan las evidencias de los servicios prestados."
+      },
+      {
+        "concepto": "¿Ha coordinado la elaboración y entrega de la Carpeta Consolidada de Servicios y la Carpeta Consolidada de Niveles de Servicio mensual dentro de los plazos establecidos?",
+        "detalle": "Esta clara en el CV Listado de entregas mensuales, calendario de corte, acuses de recepción/aceptación"
+      },
+      {
+        "concepto": "¿Ha consolidado oportunamente los insumos de evidencia (actas, reportes, tableros, métricas) que alimentan el dictamen mensual y el pago?",
+        "detalle": "Esta clara en el CV Matriz de evidencias, checklist de cierre, hitos “5/10/2/2/17” con acuses"
+      },
+      {
+        "concepto": "¿Ha gestionado la calidad documental (formato, numerales, versiones, firmas, trazabilidad) de los paquetes mensuales?",
+        "detalle": "Esta clara en el CV Procedimiento de control documental, bitácora de versiones, lista de verificación"
+      },
+      {
+        "concepto": "¿Ha integrado, por iniciativa, los documentos EUHE (3-puntos), PT (WBS) y PSE que forman parte de la CAPA, asegurando su registro en la herramienta institucional?",
+        "detalle": "Esta clara en el CV Ejemplos de CAPA/CAPA V2, EUHE con O/M/P, PT, PSE; folios de registro"
+      },
+      {
+        "concepto": "¿Ha coordinado la recopilación de artefactos por fase (Análisis, Diseño, Desarrollo, Pruebas, Liberación) para soportar CAES y cierre?",
+        "detalle": "Esta clara en el CV Relación de artefactos por fase (Plan Tipo), evidencia de CAES"
+      },
+      {
+        "concepto": "¿Ha reunido y normalizado reportes de seguridad (SAST/DAST, VoBo sin bloqueantes/críticos/altos) previos a liberación?",
+        "detalle": "Esta clara en el CV Reportes SAST/DAST, actas de VoBo, plan de remediación y re-prueba"
+      },
+      {
+        "concepto": "¿Tiene experiencia documentando entregas a AVL/Monitor (paquete, bitácora, ventanas), y su reflejo en evidencia mensual?",
+        "detalle": "Esta clara en el CV Acuses “entrega de paquete a AVL”, registros Monitor, calendario de ventanas"
+      },
+      {
+        "concepto": "¿Ha coordinado la capacitación a la Mesa del SAT y la transferencia de conocimiento para liberar/cerrar iniciativas?",
+        "detalle": "Esta clara en el CV Agenda, listas de asistencia, material de capacitación, acta de cierre"
+      },
+      {
+        "concepto": "¿Ha alineado el contenido de carpetas a los requisitos del RFP (estructura, anexos, evidencias) para maximizar aceptación y evitar deducciones?",
+        "detalle": "Esta clara en el CV Plantillas oficiales, controles de calidad, histórico de aceptaciones"
+      },
+      {
+        "concepto": "¿Ha gestionado aclaraciones y correcciones dentro de los plazos de dictamen (p. ej., 2+2 hábiles), dejando trazabilidad?",
+        "detalle": "Esta clara en el CV Bitácora de aclaraciones, acuses de envío/recepción"
+      },
+      {
+        "concepto": "¿Ha consolidado indicadores (SLA/OLA, TTA/TTR, backlog, % liberaciones a tiempo, % CAES on-time) en el reporte mensual?",
+        "detalle": "Esta clara en el CV Reporte ejecutivo mensual, tableros, narrativa de resultados"
+      },
+      {
+        "concepto": "¿Ha coordinado la documentación de Toma de Operación (accesos ≤60 días, enlace ≤120 días, pruebas de conectividad, acta de entrega-recepción) para su entrega como evidencia?",
+        "detalle": "Esta clara en el CV Cronograma TO, actas, evidencias de conectividad y altas"
+      },
+      {
+        "concepto": "¿Ha verificado la consistencia de datos (nombres, folios, fechas, versiones) entre carpetas, CAPA y documentos soporte?",
+        "detalle": "Esta clara en el CV Cuadre de folios, tabla de control, checklist de consistencia"
+      },
+      {
+        "concepto": "¿Ha articulado la logística de cierre (CAES, plan final, capacitación) para reflejarse en la carpeta del mes de liberación?",
+        "detalle": "Esta clara en el CV CAES, plan de trabajo final, minuta de cierre"
+      },
+      {
+        "concepto": "¿Ha documentado y estandarizado plantillas para disminuir reprocesos y tiempos de dictamen?",
+        "detalle": "Esta clara en el CV Manual de formato, ejemplos “antes/después”"
+      },
+      {
+        "concepto": "¿La experiencia suma ≥5 años en  gestión de servicios similares al objeto del SDMA7?"
+      },
+      {
+        "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+        "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada"
+      },
+      {
+        "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+        "detalle": "Fechas correctas en el periodo de experiencia: La fecha Desde, debe ser un mes posterior a la última fecha Hasta, los meses deben ir escritos sin abreviación e iniciando con mayúscula"
+      },
+      {
+        "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+        "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando"
+      },
+      {
+        "concepto": "¿El CV presenta numeralia (años, FTEs, presupuesto, metodología, resultados medibles) para contextualizar el alcance gestionado?",
+        "detalle": "años, alcance, equipo gestionado, metodología y resultados medibles."
+      }
+    ],
+    "competencia": [
+      {
+        "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+        "detalle": "Acreditar la competencia señalada Estudios nivel superior acreditable de nivel licenciatura o ingeniería",
+        "resultado": ""
+      },
+       {
+        "concepto": "¿Se adjunta copia digital clara del título/certificado de estudios concluidos?",
+        "detalle": "Copia simple, digitalizada preferentemente a color, con información clara y legible del Certificado de Estudios concluidos emitido por la Institución Educativa, o Título Profesional emitido por Institución Educativa Nacional o Cédula Profesional emitida por la Dirección General de Profesiones de la Secretaría de Educación Pública",
+        "resultado": ""
+      }
+    ],
+    "dominioDeHerramientas": [
+      {
+        "concepto": "Acreditar el dominio de herramientas señaladas -Cursos",
+        "detalle": "• Acreditar curso: -ISO 9001 ",
+        "resultado": ""
+      }
+    ]
+  },
+  "certificaciones": [
+    {
+      "concepto": "¿El candidato cuenta con la certificación ITIL v4 Foundation viggente?",
+      "detalle": "incluir sólo en caso de que nos genere puntos"
+    },
+    {
+      "concepto": "La certificación ITIL v4 es legible y vigente",
+      "detalle": "El documento oficial de cada certificado está en el repositorio ITIL v 4.0, (en caso de que aplique)"
+    },
+    {
+      "concepto": "¿Las fechas de emisión y expiración está claramente indicadas?",
+      "detalle": "Esta clara en el CV"
+    },
+    {
+      "concepto": "¿El nombre coincide exactamente con el CV y la identificación?",
+      "detalle": "Esta clara en el CV"
+    },
+    {
+      "concepto": "¿La certificación fue verificada en el registro oficial de la entidad emisora (cuando aplique)?",
+      "detalle": "Se hizo la consulta en la entidad oficial"
+    },
+    {
+      "concepto": "¿La certificación tendrá vigencia durante toda la vida del contrato (o existe plan de renovación documentado)?",
+      "detalle": "A partir de que inicie son 24 meses = 731 días naturales"
+    }
+  ],
+  "cursos": [
+   {
+      "concepto": "¿Las constancias de cursos están digitalizadas, con nombre coincidente y listas para cotejo?",
+      "detalle": "Evidencias escaneadas digitalizadas. Coincidencia en nombre entre CV y documentos SAT podra cotejar validez con las instituciones que imparten los cursos "
+    },
+    {
+      "concepto": "¿El candidato adjunta constancia del curso ISO 9001?",
+      "detalle": "Incluirlo en caso de que el candidato lo tenga"
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV"
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV"
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color"
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple"
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": ""
+    }
+  ],
+  "dominioHerramientas": [
+    {
+      "concepto": "¿El CV acredita el dominio o uso de estándares de calidad?",
+      "detalle": "El objetivo principal de un curso sobre la norma ISO 9001 es capacitar a los participantes para comprender, implementar y auditar un Sistema de Gestión de la Calidad (SGC) basado en un estándar internacional de excelencia."
+    },
+    {
+      "concepto": "¿El candidato demuestra uso fluido de conceptos como Enfoque basado en procesos, Ciclo PHVA o Gestión de Riesgos?",
+      "detalle": ""
+    },
+    {
+      "concepto": "El CV detalla participaciones exitosas en auditorías de calidad, ya sean internas o externas, bajo la norma ISO 9001?",
+      "detalle": ""
+    },
+    {
+      "concepto": "¿Existen ejemplos concretos de cómo sus entregables pasados (planes, metodologías o reportes) cumplieron con los estándares de control de calidad exigidos?",
+      "detalle": ""
+    },
+    {
+      "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+      "detalle": "Esta clara en el CV"
+    }
+  ]
+}

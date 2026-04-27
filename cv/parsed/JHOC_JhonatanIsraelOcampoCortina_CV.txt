@@ -1,0 +1,864 @@
+Jhonatan Israel Ocampo Cortina
+Java Sr
+PERFIL:
+Consultor Java con 13 años de experiencia desarrollando aplicaciones JAVA EE, usando como framework base Spring. Me he desempeñado en las prácticas de App Dev y AMS donde he realizado actividades de análisis y diseño de soluciones, desarrollo de código y documentación. Mi perfil principal es Java Sr, pero he desempeñado funciones de Líder técnico y actualmente Arquitecto de soluciones, llevando a cabo planeación de tareas, asignación y seguimiento de estas, al igual que capacitaciones y orientación en las tecnologías definidas para la arquitectura de desarrollo del proyecto.
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa:
+Coppel | Nombre de la empresa:
+Coppel | Lugar:
+México | Puesto:
+Application
+Maintenance Solution
+Architect (L3) Senior. | Desde: Octubre 2025 | A: 
+Actual
+Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros.
+Diseño técnico de soluciones.
+Resolución de problema / mejora complejos.
+Toma de decisiones para implemetar soluciones técnicas.
+Seguimiento de folios problema / mejora.
+Aprobación y Respaldo de las soluciones técnicas a los folios problema / mejora.
+Soluciones técnicas a problemas derivados por el proceso CI / CD.
+Solución de vulnerabilidades / code smell / clean code. | Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros.
+Diseño técnico de soluciones.
+Resolución de problema / mejora complejos.
+Toma de decisiones para implemetar soluciones técnicas.
+Seguimiento de folios problema / mejora.
+Aprobación y Respaldo de las soluciones técnicas a los folios problema / mejora.
+Soluciones técnicas a problemas derivados por el proceso CI / CD.
+Solución de vulnerabilidades / code smell / clean code. | Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros.
+Diseño técnico de soluciones.
+Resolución de problema / mejora complejos.
+Toma de decisiones para implemetar soluciones técnicas.
+Seguimiento de folios problema / mejora.
+Aprobación y Respaldo de las soluciones técnicas a los folios problema / mejora.
+Soluciones técnicas a problemas derivados por el proceso CI / CD.
+Solución de vulnerabilidades / code smell / clean code. | Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros.
+Diseño técnico de soluciones.
+Resolución de problema / mejora complejos.
+Toma de decisiones para implemetar soluciones técnicas.
+Seguimiento de folios problema / mejora.
+Aprobación y Respaldo de las soluciones técnicas a los folios problema / mejora.
+Soluciones técnicas a problemas derivados por el proceso CI / CD.
+Solución de vulnerabilidades / code smell / clean code. | Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros.
+Diseño técnico de soluciones.
+Resolución de problema / mejora complejos.
+Toma de decisiones para implemetar soluciones técnicas.
+Seguimiento de folios problema / mejora.
+Aprobación y Respaldo de las soluciones técnicas a los folios problema / mejora.
+Soluciones técnicas a problemas derivados por el proceso CI / CD.
+Solución de vulnerabilidades / code smell / clean code. | Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros.
+Diseño técnico de soluciones.
+Resolución de problema / mejora complejos.
+Toma de decisiones para implemetar soluciones técnicas.
+Seguimiento de folios problema / mejora.
+Aprobación y Respaldo de las soluciones técnicas a los folios problema / mejora.
+Soluciones técnicas a problemas derivados por el proceso CI / CD.
+Solución de vulnerabilidades / code smell / clean code.
+Herramientas: | Java 17, Java 21, GCP Google
+Cloud Platform, Google Cloud, Kubernetes, Maven, Spring BOOT, Spring Cloud | Java 17, Java 21, GCP Google
+Cloud Platform, Google Cloud, Kubernetes, Maven, Spring BOOT, Spring Cloud | Java 17, Java 21, GCP Google
+Cloud Platform, Google Cloud, Kubernetes, Maven, Spring BOOT, Spring Cloud | Java 17, Java 21, GCP Google
+Cloud Platform, Google Cloud, Kubernetes, Maven, Spring BOOT, Spring Cloud | Java 17, Java 21, GCP Google
+Cloud Platform, Google Cloud, Kubernetes, Maven, Spring BOOT, Spring Cloud
+Nombre de la empresa:
+Coppel | Nombre de la empresa:
+Coppel | Lugar:
+México | Puesto:
+Application
+Maintenance Functional Tester (L3) Senior. | Desde: Marzo 2024 | A: 
+Septiembre 2025
+Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros
+Pruebas de componentes.
+QA
+Testing.
+Documentación de pruebas
+Notas de instalacion
+RFC
+Diseño de diagramas de la solución.
+Minutas.
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades. | Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros
+Pruebas de componentes.
+QA
+Testing.
+Documentación de pruebas
+Notas de instalacion
+RFC
+Diseño de diagramas de la solución.
+Minutas.
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades. | Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros
+Pruebas de componentes.
+QA
+Testing.
+Documentación de pruebas
+Notas de instalacion
+RFC
+Diseño de diagramas de la solución.
+Minutas.
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades. | Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros
+Pruebas de componentes.
+QA
+Testing.
+Documentación de pruebas
+Notas de instalacion
+RFC
+Diseño de diagramas de la solución.
+Minutas.
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades. | Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros
+Pruebas de componentes.
+QA
+Testing.
+Documentación de pruebas
+Notas de instalacion
+RFC
+Diseño de diagramas de la solución.
+Minutas.
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades. | Actividades:
+Análisis de problemas e incidentes en Cadena de Suministros
+Pruebas de componentes.
+QA
+Testing.
+Documentación de pruebas
+Notas de instalacion
+RFC
+Diseño de diagramas de la solución.
+Minutas.
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.
+Herramientas: | Generación de diagramas, Análisis de problemas, Análisis de vulnerabilidades, Propuestas de solución, Remediación de vulnerabilidades, UML,
+.NET Core Framework, .NET Framework 3.5 (and above), C#, Microsoft SQL Server | Generación de diagramas, Análisis de problemas, Análisis de vulnerabilidades, Propuestas de solución, Remediación de vulnerabilidades, UML,
+.NET Core Framework, .NET Framework 3.5 (and above), C#, Microsoft SQL Server | Generación de diagramas, Análisis de problemas, Análisis de vulnerabilidades, Propuestas de solución, Remediación de vulnerabilidades, UML,
+.NET Core Framework, .NET Framework 3.5 (and above), C#, Microsoft SQL Server | Generación de diagramas, Análisis de problemas, Análisis de vulnerabilidades, Propuestas de solución, Remediación de vulnerabilidades, UML,
+.NET Core Framework, .NET Framework 3.5 (and above), C#, Microsoft SQL Server | Generación de diagramas, Análisis de problemas, Análisis de vulnerabilidades, Propuestas de solución, Remediación de vulnerabilidades, UML,
+.NET Core Framework, .NET Framework 3.5 (and above), C#, Microsoft SQL Server
+Nombre de la empresa:
+Banorte | Nombre de la empresa:
+Banorte | Lugar:
+México | Puesto:
+Application
+Maintenance Engineer
+(L3) Senior. | Desde: Octubre 2023 | A: 
+Febrero 2024
+Actividades:
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.
+Implementación de invocaciones asíncronas desde la aplicación para actualización de información en pantalla. | Actividades:
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.
+Implementación de invocaciones asíncronas desde la aplicación para actualización de información en pantalla. | Actividades:
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.
+Implementación de invocaciones asíncronas desde la aplicación para actualización de información en pantalla. | Actividades:
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.
+Implementación de invocaciones asíncronas desde la aplicación para actualización de información en pantalla. | Actividades:
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.
+Implementación de invocaciones asíncronas desde la aplicación para actualización de información en pantalla. | Actividades:
+Remediación de vulnerabilidades de seguridad.
+Análisis de solución a cada una de las vulnerabilidades.
+Diseño de propuesta de solución para cada una de las vulnerabilidades.
+Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.
+Implementación de invocaciones asíncronas desde la aplicación para actualización de información en pantalla.
+Herramientas: | JQuery, JSP, HTML, Javascript, Spring Core, JWS SOAP, XML, Java7, Apache Maven, Oracle 19g, IBM WAS 8.5.0, Git, Java 8, Spring MVC, Spring JDBC, Spring Batch | JQuery, JSP, HTML, Javascript, Spring Core, JWS SOAP, XML, Java7, Apache Maven, Oracle 19g, IBM WAS 8.5.0, Git, Java 8, Spring MVC, Spring JDBC, Spring Batch | JQuery, JSP, HTML, Javascript, Spring Core, JWS SOAP, XML, Java7, Apache Maven, Oracle 19g, IBM WAS 8.5.0, Git, Java 8, Spring MVC, Spring JDBC, Spring Batch | JQuery, JSP, HTML, Javascript, Spring Core, JWS SOAP, XML, Java7, Apache Maven, Oracle 19g, IBM WAS 8.5.0, Git, Java 8, Spring MVC, Spring JDBC, Spring Batch | JQuery, JSP, HTML, Javascript, Spring Core, JWS SOAP, XML, Java7, Apache Maven, Oracle 19g, IBM WAS 8.5.0, Git, Java 8, Spring MVC, Spring JDBC, Spring Batch
+Nombre de la empresa:
+Grupo Bolsa Mexicana de Valores | Nombre de la empresa:
+Grupo Bolsa Mexicana de Valores | Lugar:
+México | Puesto:
+Application
+Maintenance Engineer
+(L3) Senior. | Desde: Marzo 2023 | A: 
+Septiembre 2023
+Actividades:
+Líder técnico para la atención de vulnerabilidades de los aplicativos de Grupo Bolsa Mexicana de Valores.
+Desarrollo del backend e implementación para la exposición de servicios web REST para su consumo desde la parte frontend.
+Actualización tecnológica para los aplicativos del Grupo BMV.
+Ingeniero de Soporte para atención de incidencias en ambientes productivos de los aplicativos de Grupo BMV.
+Trasferencias de conocimiento a colaboradores de la arquitectura y ambientación local del servidor para ejecución de pruebas unitarias de los aplicativos de Grupo BMV.Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Hibernate, EJB 3, Servicios web REST, Maven, Java 1.6, 1.7 y 1.8, patrones de diseño, SQL avanzado. | Actividades:
+Líder técnico para la atención de vulnerabilidades de los aplicativos de Grupo Bolsa Mexicana de Valores.
+Desarrollo del backend e implementación para la exposición de servicios web REST para su consumo desde la parte frontend.
+Actualización tecnológica para los aplicativos del Grupo BMV.
+Ingeniero de Soporte para atención de incidencias en ambientes productivos de los aplicativos de Grupo BMV.
+Trasferencias de conocimiento a colaboradores de la arquitectura y ambientación local del servidor para ejecución de pruebas unitarias de los aplicativos de Grupo BMV.Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Hibernate, EJB 3, Servicios web REST, Maven, Java 1.6, 1.7 y 1.8, patrones de diseño, SQL avanzado. | Actividades:
+Líder técnico para la atención de vulnerabilidades de los aplicativos de Grupo Bolsa Mexicana de Valores.
+Desarrollo del backend e implementación para la exposición de servicios web REST para su consumo desde la parte frontend.
+Actualización tecnológica para los aplicativos del Grupo BMV.
+Ingeniero de Soporte para atención de incidencias en ambientes productivos de los aplicativos de Grupo BMV.
+Trasferencias de conocimiento a colaboradores de la arquitectura y ambientación local del servidor para ejecución de pruebas unitarias de los aplicativos de Grupo BMV.Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Hibernate, EJB 3, Servicios web REST, Maven, Java 1.6, 1.7 y 1.8, patrones de diseño, SQL avanzado. | Actividades:
+Líder técnico para la atención de vulnerabilidades de los aplicativos de Grupo Bolsa Mexicana de Valores.
+Desarrollo del backend e implementación para la exposición de servicios web REST para su consumo desde la parte frontend.
+Actualización tecnológica para los aplicativos del Grupo BMV.
+Ingeniero de Soporte para atención de incidencias en ambientes productivos de los aplicativos de Grupo BMV.
+Trasferencias de conocimiento a colaboradores de la arquitectura y ambientación local del servidor para ejecución de pruebas unitarias de los aplicativos de Grupo BMV.Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Hibernate, EJB 3, Servicios web REST, Maven, Java 1.6, 1.7 y 1.8, patrones de diseño, SQL avanzado. | Actividades:
+Líder técnico para la atención de vulnerabilidades de los aplicativos de Grupo Bolsa Mexicana de Valores.
+Desarrollo del backend e implementación para la exposición de servicios web REST para su consumo desde la parte frontend.
+Actualización tecnológica para los aplicativos del Grupo BMV.
+Ingeniero de Soporte para atención de incidencias en ambientes productivos de los aplicativos de Grupo BMV.
+Trasferencias de conocimiento a colaboradores de la arquitectura y ambientación local del servidor para ejecución de pruebas unitarias de los aplicativos de Grupo BMV.Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Hibernate, EJB 3, Servicios web REST, Maven, Java 1.6, 1.7 y 1.8, patrones de diseño, SQL avanzado. | Actividades:
+Líder técnico para la atención de vulnerabilidades de los aplicativos de Grupo Bolsa Mexicana de Valores.
+Desarrollo del backend e implementación para la exposición de servicios web REST para su consumo desde la parte frontend.
+Actualización tecnológica para los aplicativos del Grupo BMV.
+Ingeniero de Soporte para atención de incidencias en ambientes productivos de los aplicativos de Grupo BMV.
+Trasferencias de conocimiento a colaboradores de la arquitectura y ambientación local del servidor para ejecución de pruebas unitarias de los aplicativos de Grupo BMV.Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Hibernate, EJB 3, Servicios web REST, Maven, Java 1.6, 1.7 y 1.8, patrones de diseño, SQL avanzado.
+Herramientas: | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, RestController, Maven, Java 1.6 y 1.8.
+Patrones de diseño y buenas prácticas de desarrollo.
+Oracle 11g y Oracle 19g como base de datos.
+Jboss 7.1 como servidor de aplicacionesGIT(manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, RestController, Maven, Java 1.6 y 1.8.
+Patrones de diseño y buenas prácticas de desarrollo.
+Oracle 11g y Oracle 19g como base de datos.
+Jboss 7.1 como servidor de aplicacionesGIT(manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, RestController, Maven, Java 1.6 y 1.8.
+Patrones de diseño y buenas prácticas de desarrollo.
+Oracle 11g y Oracle 19g como base de datos.
+Jboss 7.1 como servidor de aplicacionesGIT(manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, RestController, Maven, Java 1.6 y 1.8.
+Patrones de diseño y buenas prácticas de desarrollo.
+Oracle 11g y Oracle 19g como base de datos.
+Jboss 7.1 como servidor de aplicacionesGIT(manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, RestController, Maven, Java 1.6 y 1.8.
+Patrones de diseño y buenas prácticas de desarrollo.
+Oracle 11g y Oracle 19g como base de datos.
+Jboss 7.1 como servidor de aplicacionesGIT(manejador de versiones)
+Nombre de la empresa:
+IMSS | Nombre de la empresa:
+IMSS | Lugar:
+México | Puesto:
+Application
+Maintenance Engineer
+(L3) Senior. | Desde: Febrero 2020 | A: 
+Febrero 2023
+Actividades:
+Ingeniero de Soporte para la gestión del servicio de aplicativos dentro del Instituto.
+Atención de incidencias en ambientes productivos.
+Desarrollo de Mantenimiento Menores.
+Desarrollo de servicios web.
+Desarrollo de procesos batrch para la sincronización de información.
+Trasferencias de conocimiento de la arquitectura y ambientación local del aplicativos de pensionesy el aplicativo de sincronización de pensiones, a integrantes de nevo ingreso.
+Ejecución y monitoreo de procesos batch.
+Configuración de procesos calendarizados.
+Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, Servicios web SOAP, Maven, Java 1.6, patrón de diseño Specification, SQL básico.
+Certificaciones de: Scrum Fundamentals Certificación ITIL® Foundation v4 Certificate in IT Service Management | Actividades:
+Ingeniero de Soporte para la gestión del servicio de aplicativos dentro del Instituto.
+Atención de incidencias en ambientes productivos.
+Desarrollo de Mantenimiento Menores.
+Desarrollo de servicios web.
+Desarrollo de procesos batrch para la sincronización de información.
+Trasferencias de conocimiento de la arquitectura y ambientación local del aplicativos de pensionesy el aplicativo de sincronización de pensiones, a integrantes de nevo ingreso.
+Ejecución y monitoreo de procesos batch.
+Configuración de procesos calendarizados.
+Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, Servicios web SOAP, Maven, Java 1.6, patrón de diseño Specification, SQL básico.
+Certificaciones de: Scrum Fundamentals Certificación ITIL® Foundation v4 Certificate in IT Service Management | Actividades:
+Ingeniero de Soporte para la gestión del servicio de aplicativos dentro del Instituto.
+Atención de incidencias en ambientes productivos.
+Desarrollo de Mantenimiento Menores.
+Desarrollo de servicios web.
+Desarrollo de procesos batrch para la sincronización de información.
+Trasferencias de conocimiento de la arquitectura y ambientación local del aplicativos de pensionesy el aplicativo de sincronización de pensiones, a integrantes de nevo ingreso.
+Ejecución y monitoreo de procesos batch.
+Configuración de procesos calendarizados.
+Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, Servicios web SOAP, Maven, Java 1.6, patrón de diseño Specification, SQL básico.
+Certificaciones de: Scrum Fundamentals Certificación ITIL® Foundation v4 Certificate in IT Service Management | Actividades:
+Ingeniero de Soporte para la gestión del servicio de aplicativos dentro del Instituto.
+Atención de incidencias en ambientes productivos.
+Desarrollo de Mantenimiento Menores.
+Desarrollo de servicios web.
+Desarrollo de procesos batrch para la sincronización de información.
+Trasferencias de conocimiento de la arquitectura y ambientación local del aplicativos de pensionesy el aplicativo de sincronización de pensiones, a integrantes de nevo ingreso.
+Ejecución y monitoreo de procesos batch.
+Configuración de procesos calendarizados.
+Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, Servicios web SOAP, Maven, Java 1.6, patrón de diseño Specification, SQL básico.
+Certificaciones de: Scrum Fundamentals Certificación ITIL® Foundation v4 Certificate in IT Service Management | Actividades:
+Ingeniero de Soporte para la gestión del servicio de aplicativos dentro del Instituto.
+Atención de incidencias en ambientes productivos.
+Desarrollo de Mantenimiento Menores.
+Desarrollo de servicios web.
+Desarrollo de procesos batrch para la sincronización de información.
+Trasferencias de conocimiento de la arquitectura y ambientación local del aplicativos de pensionesy el aplicativo de sincronización de pensiones, a integrantes de nevo ingreso.
+Ejecución y monitoreo de procesos batch.
+Configuración de procesos calendarizados.
+Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, Servicios web SOAP, Maven, Java 1.6, patrón de diseño Specification, SQL básico.
+Certificaciones de: Scrum Fundamentals Certificación ITIL® Foundation v4 Certificate in IT Service Management | Actividades:
+Ingeniero de Soporte para la gestión del servicio de aplicativos dentro del Instituto.
+Atención de incidencias en ambientes productivos.
+Desarrollo de Mantenimiento Menores.
+Desarrollo de servicios web.
+Desarrollo de procesos batrch para la sincronización de información.
+Trasferencias de conocimiento de la arquitectura y ambientación local del aplicativos de pensionesy el aplicativo de sincronización de pensiones, a integrantes de nevo ingreso.
+Ejecución y monitoreo de procesos batch.
+Configuración de procesos calendarizados.
+Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, Servicios web SOAP, Maven, Java 1.6, patrón de diseño Specification, SQL básico.
+Certificaciones de: Scrum Fundamentals Certificación ITIL® Foundation v4 Certificate in IT Service Management
+Herramientas: | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3,
+WS SOAP, Maven, Java 1.6, patron de diseño Specification
+Oracle 11g como base de datos.
+Tomcat y Weblogic como servidores de aplicaciones
+SVN (manejador de versiones)
+TFS (manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3,
+WS SOAP, Maven, Java 1.6, patron de diseño Specification
+Oracle 11g como base de datos.
+Tomcat y Weblogic como servidores de aplicaciones
+SVN (manejador de versiones)
+TFS (manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3,
+WS SOAP, Maven, Java 1.6, patron de diseño Specification
+Oracle 11g como base de datos.
+Tomcat y Weblogic como servidores de aplicaciones
+SVN (manejador de versiones)
+TFS (manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3,
+WS SOAP, Maven, Java 1.6, patron de diseño Specification
+Oracle 11g como base de datos.
+Tomcat y Weblogic como servidores de aplicaciones
+SVN (manejador de versiones)
+TFS (manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3,
+WS SOAP, Maven, Java 1.6, patron de diseño Specification
+Oracle 11g como base de datos.
+Tomcat y Weblogic como servidores de aplicaciones
+SVN (manejador de versiones)
+TFS (manejador de versiones)
+Nombre de la empresa:
+Infonavit | Nombre de la empresa:
+Infonavit | Lugar:
+México | Puesto:
+ Analista / Desarrollador Java Sr | Desde:
+Octubre 2018 | A: 
+Febrero 2020
+Actividades:
+Analista / Desarrollador de mejoras al sistema
+Atención de incidencias.
+Desarrollo de servicios web.
+Generación de empaquetados para el despliegue en los distintos ambientes (DEV, QA, PRO)
+Desarrollo de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables. | Actividades:
+Analista / Desarrollador de mejoras al sistema
+Atención de incidencias.
+Desarrollo de servicios web.
+Generación de empaquetados para el despliegue en los distintos ambientes (DEV, QA, PRO)
+Desarrollo de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables. | Actividades:
+Analista / Desarrollador de mejoras al sistema
+Atención de incidencias.
+Desarrollo de servicios web.
+Generación de empaquetados para el despliegue en los distintos ambientes (DEV, QA, PRO)
+Desarrollo de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables. | Actividades:
+Analista / Desarrollador de mejoras al sistema
+Atención de incidencias.
+Desarrollo de servicios web.
+Generación de empaquetados para el despliegue en los distintos ambientes (DEV, QA, PRO)
+Desarrollo de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables. | Actividades:
+Analista / Desarrollador de mejoras al sistema
+Atención de incidencias.
+Desarrollo de servicios web.
+Generación de empaquetados para el despliegue en los distintos ambientes (DEV, QA, PRO)
+Desarrollo de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables. | Actividades:
+Analista / Desarrollador de mejoras al sistema
+Atención de incidencias.
+Desarrollo de servicios web.
+Generación de empaquetados para el despliegue en los distintos ambientes (DEV, QA, PRO)
+Desarrollo de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables.
+Herramientas: | JSF/PrimeFaces.
+EJB 3, JPA, WS SOAP
+Maven, Java 1.6
+IBM WAS 8.5.0 (servidor de aplicaciones)
+SAP HANA (Base de datos) 
+SVN (manejador de versiones). | JSF/PrimeFaces.
+EJB 3, JPA, WS SOAP
+Maven, Java 1.6
+IBM WAS 8.5.0 (servidor de aplicaciones)
+SAP HANA (Base de datos) 
+SVN (manejador de versiones). | JSF/PrimeFaces.
+EJB 3, JPA, WS SOAP
+Maven, Java 1.6
+IBM WAS 8.5.0 (servidor de aplicaciones)
+SAP HANA (Base de datos) 
+SVN (manejador de versiones). | JSF/PrimeFaces.
+EJB 3, JPA, WS SOAP
+Maven, Java 1.6
+IBM WAS 8.5.0 (servidor de aplicaciones)
+SAP HANA (Base de datos) 
+SVN (manejador de versiones). | JSF/PrimeFaces.
+EJB 3, JPA, WS SOAP
+Maven, Java 1.6
+IBM WAS 8.5.0 (servidor de aplicaciones)
+SAP HANA (Base de datos) 
+SVN (manejador de versiones).
+Nombre de la empresa:
+Grupo La Comer | Nombre de la empresa:
+Grupo La Comer | Lugar:
+México | Puesto:
+ Analista / Desarrollador Java Sr. | Desde: 
+Septiembre 2017 | A: 
+Octubre 2018
+Actividades:
+Atención de incidencias en la mayoría de los módulos del sitio.
+Análisis, Diseño y Desarrollo de mejoras al sitio web de comercio en línea de Grupo La Comer
+Implementación de la cotización de los pedidos en el sitio.
+Mantenimiento y mejoras al carrito de compras.
+Desarrollo de servicios web para el consumo del sitio móvil y las apps.
+Implementación de métodos de pago en línea.
+Integración de promociones al sitio para clientes distinguidos.
+Implementación de mejoras en el performance del sitio.
+Integración de menú hamburguesa al sitio. | Actividades:
+Atención de incidencias en la mayoría de los módulos del sitio.
+Análisis, Diseño y Desarrollo de mejoras al sitio web de comercio en línea de Grupo La Comer
+Implementación de la cotización de los pedidos en el sitio.
+Mantenimiento y mejoras al carrito de compras.
+Desarrollo de servicios web para el consumo del sitio móvil y las apps.
+Implementación de métodos de pago en línea.
+Integración de promociones al sitio para clientes distinguidos.
+Implementación de mejoras en el performance del sitio.
+Integración de menú hamburguesa al sitio. | Actividades:
+Atención de incidencias en la mayoría de los módulos del sitio.
+Análisis, Diseño y Desarrollo de mejoras al sitio web de comercio en línea de Grupo La Comer
+Implementación de la cotización de los pedidos en el sitio.
+Mantenimiento y mejoras al carrito de compras.
+Desarrollo de servicios web para el consumo del sitio móvil y las apps.
+Implementación de métodos de pago en línea.
+Integración de promociones al sitio para clientes distinguidos.
+Implementación de mejoras en el performance del sitio.
+Integración de menú hamburguesa al sitio. | Actividades:
+Atención de incidencias en la mayoría de los módulos del sitio.
+Análisis, Diseño y Desarrollo de mejoras al sitio web de comercio en línea de Grupo La Comer
+Implementación de la cotización de los pedidos en el sitio.
+Mantenimiento y mejoras al carrito de compras.
+Desarrollo de servicios web para el consumo del sitio móvil y las apps.
+Implementación de métodos de pago en línea.
+Integración de promociones al sitio para clientes distinguidos.
+Implementación de mejoras en el performance del sitio.
+Integración de menú hamburguesa al sitio. | Actividades:
+Atención de incidencias en la mayoría de los módulos del sitio.
+Análisis, Diseño y Desarrollo de mejoras al sitio web de comercio en línea de Grupo La Comer
+Implementación de la cotización de los pedidos en el sitio.
+Mantenimiento y mejoras al carrito de compras.
+Desarrollo de servicios web para el consumo del sitio móvil y las apps.
+Implementación de métodos de pago en línea.
+Integración de promociones al sitio para clientes distinguidos.
+Implementación de mejoras en el performance del sitio.
+Integración de menú hamburguesa al sitio. | Actividades:
+Atención de incidencias en la mayoría de los módulos del sitio.
+Análisis, Diseño y Desarrollo de mejoras al sitio web de comercio en línea de Grupo La Comer
+Implementación de la cotización de los pedidos en el sitio.
+Mantenimiento y mejoras al carrito de compras.
+Desarrollo de servicios web para el consumo del sitio móvil y las apps.
+Implementación de métodos de pago en línea.
+Integración de promociones al sitio para clientes distinguidos.
+Implementación de mejoras en el performance del sitio.
+Integración de menú hamburguesa al sitio.
+Herramientas: | JQUERY / JSP / HTML / Struts tags (Front-End), Struts, EJB 2y 3, Java JDBC, JPA
+Servidor Weblogic 11, Json, Ajax, Maven (Back-End), Oracle SVN. Como manejadores de
+versiones.
+UML | JQUERY / JSP / HTML / Struts tags (Front-End), Struts, EJB 2y 3, Java JDBC, JPA
+Servidor Weblogic 11, Json, Ajax, Maven (Back-End), Oracle SVN. Como manejadores de
+versiones.
+UML | JQUERY / JSP / HTML / Struts tags (Front-End), Struts, EJB 2y 3, Java JDBC, JPA
+Servidor Weblogic 11, Json, Ajax, Maven (Back-End), Oracle SVN. Como manejadores de
+versiones.
+UML | JQUERY / JSP / HTML / Struts tags (Front-End), Struts, EJB 2y 3, Java JDBC, JPA
+Servidor Weblogic 11, Json, Ajax, Maven (Back-End), Oracle SVN. Como manejadores de
+versiones.
+UML | JQUERY / JSP / HTML / Struts tags (Front-End), Struts, EJB 2y 3, Java JDBC, JPA
+Servidor Weblogic 11, Json, Ajax, Maven (Back-End), Oracle SVN. Como manejadores de
+versiones.
+UML
+Nombre de la empresa:
+Bancomer | Nombre de la empresa:
+Bancomer | Lugar:
+México | Puesto:
+ Analista / Desarrollador Java Sr. | Desde: 
+Enero 2016 | A: 
+Agosto 2017
+Actividades:
+Capacitación y orientación a desarrolladores Java Jr.
+Definición de estándares de diseño y desarrollo para la implementación de Java Web.
+Coordinación de equipos de trabajo para el desarrollo de la implementación java Web.
+Participación en el generador de código para el proyecto.
+Atención de incidencias de módulos asignados y módulos de otros colaboradores
+Diseño de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables.
+Desarrollo de componentes complejos.
+Desarrollo de componentes claves para el cliente. | Actividades:
+Capacitación y orientación a desarrolladores Java Jr.
+Definición de estándares de diseño y desarrollo para la implementación de Java Web.
+Coordinación de equipos de trabajo para el desarrollo de la implementación java Web.
+Participación en el generador de código para el proyecto.
+Atención de incidencias de módulos asignados y módulos de otros colaboradores
+Diseño de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables.
+Desarrollo de componentes complejos.
+Desarrollo de componentes claves para el cliente. | Actividades:
+Capacitación y orientación a desarrolladores Java Jr.
+Definición de estándares de diseño y desarrollo para la implementación de Java Web.
+Coordinación de equipos de trabajo para el desarrollo de la implementación java Web.
+Participación en el generador de código para el proyecto.
+Atención de incidencias de módulos asignados y módulos de otros colaboradores
+Diseño de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables.
+Desarrollo de componentes complejos.
+Desarrollo de componentes claves para el cliente. | Actividades:
+Capacitación y orientación a desarrolladores Java Jr.
+Definición de estándares de diseño y desarrollo para la implementación de Java Web.
+Coordinación de equipos de trabajo para el desarrollo de la implementación java Web.
+Participación en el generador de código para el proyecto.
+Atención de incidencias de módulos asignados y módulos de otros colaboradores
+Diseño de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables.
+Desarrollo de componentes complejos.
+Desarrollo de componentes claves para el cliente. | Actividades:
+Capacitación y orientación a desarrolladores Java Jr.
+Definición de estándares de diseño y desarrollo para la implementación de Java Web.
+Coordinación de equipos de trabajo para el desarrollo de la implementación java Web.
+Participación en el generador de código para el proyecto.
+Atención de incidencias de módulos asignados y módulos de otros colaboradores
+Diseño de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables.
+Desarrollo de componentes complejos.
+Desarrollo de componentes claves para el cliente. | Actividades:
+Capacitación y orientación a desarrolladores Java Jr.
+Definición de estándares de diseño y desarrollo para la implementación de Java Web.
+Coordinación de equipos de trabajo para el desarrollo de la implementación java Web.
+Participación en el generador de código para el proyecto.
+Atención de incidencias de módulos asignados y módulos de otros colaboradores
+Diseño de componente complejos, coordinando esfuerzos para diseñar comportamientos comunes y reutilizables.
+Desarrollo de componentes complejos.
+Desarrollo de componentes claves para el cliente.
+Herramientas: | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, WS SOAP Maven, Java 1.6
+patron de diseño Specification 
+Oracle 11g como base de datos.
+Tomcat y Weblogic como servidores de aplicaciones 
+SVN (manejador de versiones) 
+TFS (manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, WS SOAP Maven, Java 1.6
+patron de diseño Specification 
+Oracle 11g como base de datos.
+Tomcat y Weblogic como servidores de aplicaciones 
+SVN (manejador de versiones) 
+TFS (manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, WS SOAP Maven, Java 1.6
+patron de diseño Specification 
+Oracle 11g como base de datos.
+Tomcat y Weblogic como servidores de aplicaciones 
+SVN (manejador de versiones) 
+TFS (manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, WS SOAP Maven, Java 1.6
+patron de diseño Specification 
+Oracle 11g como base de datos.
+Tomcat y Weblogic como servidores de aplicaciones 
+SVN (manejador de versiones) 
+TFS (manejador de versiones) | Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, WS SOAP Maven, Java 1.6
+patron de diseño Specification 
+Oracle 11g como base de datos.
+Tomcat y Weblogic como servidores de aplicaciones 
+SVN (manejador de versiones) 
+TFS (manejador de versiones)
+Nombre de la empresa:
+AON MEXICO | Nombre de la empresa:
+AON MEXICO | Lugar:
+México | Puesto:
+Líder de Proyecto / Líder Técnico | Desde: 
+Julio 2015 | A: 
+Enero 2016
+Actividades:
+Líder de Proyecto/ Líder Técnico para la actualización del aplicativo para su correcta funcionalidad y despliegue en las versiones actuales de los navegadores más demandados, ya que el Front-end del aplicativo al paso del tiempo ha quedado obsoleto.
+Tengo la funcionalidad de Líder de proyecto, así como la de líder técnico, en las cuales he tenido distintas actividades las cuales han sido:
+Definición de plan de trabajo e implementación de plan de riesgos y/o contingencias para mitigar riegos que den como resultado un desfase en el proyecto.
+Implementación de las tecnologías que resuelvan la problemática actual del proyecto
+Coordinar las actividades y/o acuerdos con el cliente
+Coordinar el equipo de trabajo para llevar a cabo la mejora.
+Soporte en servidores en ambiente UAT para el despliegue del aplicativo, reinicio de servidores y/o resolución de contingencias.
+Administrar las distintas versiones de la aplicación en los ambientes (DEV, UAT, PROD). | Actividades:
+Líder de Proyecto/ Líder Técnico para la actualización del aplicativo para su correcta funcionalidad y despliegue en las versiones actuales de los navegadores más demandados, ya que el Front-end del aplicativo al paso del tiempo ha quedado obsoleto.
+Tengo la funcionalidad de Líder de proyecto, así como la de líder técnico, en las cuales he tenido distintas actividades las cuales han sido:
+Definición de plan de trabajo e implementación de plan de riesgos y/o contingencias para mitigar riegos que den como resultado un desfase en el proyecto.
+Implementación de las tecnologías que resuelvan la problemática actual del proyecto
+Coordinar las actividades y/o acuerdos con el cliente
+Coordinar el equipo de trabajo para llevar a cabo la mejora.
+Soporte en servidores en ambiente UAT para el despliegue del aplicativo, reinicio de servidores y/o resolución de contingencias.
+Administrar las distintas versiones de la aplicación en los ambientes (DEV, UAT, PROD). | Actividades:
+Líder de Proyecto/ Líder Técnico para la actualización del aplicativo para su correcta funcionalidad y despliegue en las versiones actuales de los navegadores más demandados, ya que el Front-end del aplicativo al paso del tiempo ha quedado obsoleto.
+Tengo la funcionalidad de Líder de proyecto, así como la de líder técnico, en las cuales he tenido distintas actividades las cuales han sido:
+Definición de plan de trabajo e implementación de plan de riesgos y/o contingencias para mitigar riegos que den como resultado un desfase en el proyecto.
+Implementación de las tecnologías que resuelvan la problemática actual del proyecto
+Coordinar las actividades y/o acuerdos con el cliente
+Coordinar el equipo de trabajo para llevar a cabo la mejora.
+Soporte en servidores en ambiente UAT para el despliegue del aplicativo, reinicio de servidores y/o resolución de contingencias.
+Administrar las distintas versiones de la aplicación en los ambientes (DEV, UAT, PROD). | Actividades:
+Líder de Proyecto/ Líder Técnico para la actualización del aplicativo para su correcta funcionalidad y despliegue en las versiones actuales de los navegadores más demandados, ya que el Front-end del aplicativo al paso del tiempo ha quedado obsoleto.
+Tengo la funcionalidad de Líder de proyecto, así como la de líder técnico, en las cuales he tenido distintas actividades las cuales han sido:
+Definición de plan de trabajo e implementación de plan de riesgos y/o contingencias para mitigar riegos que den como resultado un desfase en el proyecto.
+Implementación de las tecnologías que resuelvan la problemática actual del proyecto
+Coordinar las actividades y/o acuerdos con el cliente
+Coordinar el equipo de trabajo para llevar a cabo la mejora.
+Soporte en servidores en ambiente UAT para el despliegue del aplicativo, reinicio de servidores y/o resolución de contingencias.
+Administrar las distintas versiones de la aplicación en los ambientes (DEV, UAT, PROD). | Actividades:
+Líder de Proyecto/ Líder Técnico para la actualización del aplicativo para su correcta funcionalidad y despliegue en las versiones actuales de los navegadores más demandados, ya que el Front-end del aplicativo al paso del tiempo ha quedado obsoleto.
+Tengo la funcionalidad de Líder de proyecto, así como la de líder técnico, en las cuales he tenido distintas actividades las cuales han sido:
+Definición de plan de trabajo e implementación de plan de riesgos y/o contingencias para mitigar riegos que den como resultado un desfase en el proyecto.
+Implementación de las tecnologías que resuelvan la problemática actual del proyecto
+Coordinar las actividades y/o acuerdos con el cliente
+Coordinar el equipo de trabajo para llevar a cabo la mejora.
+Soporte en servidores en ambiente UAT para el despliegue del aplicativo, reinicio de servidores y/o resolución de contingencias.
+Administrar las distintas versiones de la aplicación en los ambientes (DEV, UAT, PROD). | Actividades:
+Líder de Proyecto/ Líder Técnico para la actualización del aplicativo para su correcta funcionalidad y despliegue en las versiones actuales de los navegadores más demandados, ya que el Front-end del aplicativo al paso del tiempo ha quedado obsoleto.
+Tengo la funcionalidad de Líder de proyecto, así como la de líder técnico, en las cuales he tenido distintas actividades las cuales han sido:
+Definición de plan de trabajo e implementación de plan de riesgos y/o contingencias para mitigar riegos que den como resultado un desfase en el proyecto.
+Implementación de las tecnologías que resuelvan la problemática actual del proyecto
+Coordinar las actividades y/o acuerdos con el cliente
+Coordinar el equipo de trabajo para llevar a cabo la mejora.
+Soporte en servidores en ambiente UAT para el despliegue del aplicativo, reinicio de servidores y/o resolución de contingencias.
+Administrar las distintas versiones de la aplicación en los ambientes (DEV, UAT, PROD).
+Herramientas: | J2EE usando tanto Tomcat y Weblogic como servidores de aplicaciones, Hibernate, HTML5, CSS3 y Java Script para el Front-end, Struts2 para implementar el patrón Modelo-Vista-Controlador, Java Server Pages, Actions(struts2),Spring Core, Spring JDBC y Datasources para el acceso a datos usando como manejador de Base de Datos a Oracle 11g, . Eclipse Luna se usa como IDE para el desarrollo. Para el acceso manual a la Base de Datos usamos Toad y SQL Developer. Para el manejo de Logs se utilizó log4j. Para la concurrencia y el manejo de versiones Subversión. | J2EE usando tanto Tomcat y Weblogic como servidores de aplicaciones, Hibernate, HTML5, CSS3 y Java Script para el Front-end, Struts2 para implementar el patrón Modelo-Vista-Controlador, Java Server Pages, Actions(struts2),Spring Core, Spring JDBC y Datasources para el acceso a datos usando como manejador de Base de Datos a Oracle 11g, . Eclipse Luna se usa como IDE para el desarrollo. Para el acceso manual a la Base de Datos usamos Toad y SQL Developer. Para el manejo de Logs se utilizó log4j. Para la concurrencia y el manejo de versiones Subversión. | J2EE usando tanto Tomcat y Weblogic como servidores de aplicaciones, Hibernate, HTML5, CSS3 y Java Script para el Front-end, Struts2 para implementar el patrón Modelo-Vista-Controlador, Java Server Pages, Actions(struts2),Spring Core, Spring JDBC y Datasources para el acceso a datos usando como manejador de Base de Datos a Oracle 11g, . Eclipse Luna se usa como IDE para el desarrollo. Para el acceso manual a la Base de Datos usamos Toad y SQL Developer. Para el manejo de Logs se utilizó log4j. Para la concurrencia y el manejo de versiones Subversión. | J2EE usando tanto Tomcat y Weblogic como servidores de aplicaciones, Hibernate, HTML5, CSS3 y Java Script para el Front-end, Struts2 para implementar el patrón Modelo-Vista-Controlador, Java Server Pages, Actions(struts2),Spring Core, Spring JDBC y Datasources para el acceso a datos usando como manejador de Base de Datos a Oracle 11g, . Eclipse Luna se usa como IDE para el desarrollo. Para el acceso manual a la Base de Datos usamos Toad y SQL Developer. Para el manejo de Logs se utilizó log4j. Para la concurrencia y el manejo de versiones Subversión. | J2EE usando tanto Tomcat y Weblogic como servidores de aplicaciones, Hibernate, HTML5, CSS3 y Java Script para el Front-end, Struts2 para implementar el patrón Modelo-Vista-Controlador, Java Server Pages, Actions(struts2),Spring Core, Spring JDBC y Datasources para el acceso a datos usando como manejador de Base de Datos a Oracle 11g, . Eclipse Luna se usa como IDE para el desarrollo. Para el acceso manual a la Base de Datos usamos Toad y SQL Developer. Para el manejo de Logs se utilizó log4j. Para la concurrencia y el manejo de versiones Subversión.
+Nombre de la empresa:
+Kuspit Casa de Bolsa SA de CV | Nombre de la empresa:
+Kuspit Casa de Bolsa SA de CV | Lugar:
+México | Puesto:
+Analista / Desarrollador Java Sr. | Desde: 
+Mayo 2015 | A: 
+Junio 2015
+Analista / Desarrollador, forme parte del equipo encargado de desarrollar el aplicativo web para
+la prevención y lavado de dinero.
+El sistema requería poder ser visto desde celulares hasta computadores de escritorio, por lo
+ cual se desarrolló usando “Reponsive Web Desing” en todas sus pantallas y para agilizar 
+la parte del Front-end se usó AngularJs como framework JavaScript en conjunto con servicios 
+REST de Spring para dar mejor performace al aplicativo. Al ser un aplicativo que sería provisto
+ de información de sistemas existentes, así como actualizar información de los sistemas antes 
+mencionados se desarrolló una capa de servicios con Spring WS. | Analista / Desarrollador, forme parte del equipo encargado de desarrollar el aplicativo web para
+la prevención y lavado de dinero.
+El sistema requería poder ser visto desde celulares hasta computadores de escritorio, por lo
+ cual se desarrolló usando “Reponsive Web Desing” en todas sus pantallas y para agilizar 
+la parte del Front-end se usó AngularJs como framework JavaScript en conjunto con servicios 
+REST de Spring para dar mejor performace al aplicativo. Al ser un aplicativo que sería provisto
+ de información de sistemas existentes, así como actualizar información de los sistemas antes 
+mencionados se desarrolló una capa de servicios con Spring WS. | Analista / Desarrollador, forme parte del equipo encargado de desarrollar el aplicativo web para
+la prevención y lavado de dinero.
+El sistema requería poder ser visto desde celulares hasta computadores de escritorio, por lo
+ cual se desarrolló usando “Reponsive Web Desing” en todas sus pantallas y para agilizar 
+la parte del Front-end se usó AngularJs como framework JavaScript en conjunto con servicios 
+REST de Spring para dar mejor performace al aplicativo. Al ser un aplicativo que sería provisto
+ de información de sistemas existentes, así como actualizar información de los sistemas antes 
+mencionados se desarrolló una capa de servicios con Spring WS. | Analista / Desarrollador, forme parte del equipo encargado de desarrollar el aplicativo web para
+la prevención y lavado de dinero.
+El sistema requería poder ser visto desde celulares hasta computadores de escritorio, por lo
+ cual se desarrolló usando “Reponsive Web Desing” en todas sus pantallas y para agilizar 
+la parte del Front-end se usó AngularJs como framework JavaScript en conjunto con servicios 
+REST de Spring para dar mejor performace al aplicativo. Al ser un aplicativo que sería provisto
+ de información de sistemas existentes, así como actualizar información de los sistemas antes 
+mencionados se desarrolló una capa de servicios con Spring WS. | Analista / Desarrollador, forme parte del equipo encargado de desarrollar el aplicativo web para
+la prevención y lavado de dinero.
+El sistema requería poder ser visto desde celulares hasta computadores de escritorio, por lo
+ cual se desarrolló usando “Reponsive Web Desing” en todas sus pantallas y para agilizar 
+la parte del Front-end se usó AngularJs como framework JavaScript en conjunto con servicios 
+REST de Spring para dar mejor performace al aplicativo. Al ser un aplicativo que sería provisto
+ de información de sistemas existentes, así como actualizar información de los sistemas antes 
+mencionados se desarrolló una capa de servicios con Spring WS. | Analista / Desarrollador, forme parte del equipo encargado de desarrollar el aplicativo web para
+la prevención y lavado de dinero.
+El sistema requería poder ser visto desde celulares hasta computadores de escritorio, por lo
+ cual se desarrolló usando “Reponsive Web Desing” en todas sus pantallas y para agilizar 
+la parte del Front-end se usó AngularJs como framework JavaScript en conjunto con servicios 
+REST de Spring para dar mejor performace al aplicativo. Al ser un aplicativo que sería provisto
+ de información de sistemas existentes, así como actualizar información de los sistemas antes 
+mencionados se desarrolló una capa de servicios con Spring WS.
+Herramientas: | J2EE implementando el patrón Modelo-Vista-Controlador con Spring REST, Spring Core, Spring WS, Spring JBDC. Para la parte del Front-end HTML5 / CSS3, AngularJs, Bootstrap (Responsive Web Design). Como manejador de Base de Datos a Oracle SQL Server 2008, . Eclipse Luna se usa como IDE para el desarrollo Para el acceso manual a la Base de Datos SQL Developer. Para el manejo de Logs se utilizó log4j. Para la concurrencia y el manejo de versiones Subversión | J2EE implementando el patrón Modelo-Vista-Controlador con Spring REST, Spring Core, Spring WS, Spring JBDC. Para la parte del Front-end HTML5 / CSS3, AngularJs, Bootstrap (Responsive Web Design). Como manejador de Base de Datos a Oracle SQL Server 2008, . Eclipse Luna se usa como IDE para el desarrollo Para el acceso manual a la Base de Datos SQL Developer. Para el manejo de Logs se utilizó log4j. Para la concurrencia y el manejo de versiones Subversión | J2EE implementando el patrón Modelo-Vista-Controlador con Spring REST, Spring Core, Spring WS, Spring JBDC. Para la parte del Front-end HTML5 / CSS3, AngularJs, Bootstrap (Responsive Web Design). Como manejador de Base de Datos a Oracle SQL Server 2008, . Eclipse Luna se usa como IDE para el desarrollo Para el acceso manual a la Base de Datos SQL Developer. Para el manejo de Logs se utilizó log4j. Para la concurrencia y el manejo de versiones Subversión | J2EE implementando el patrón Modelo-Vista-Controlador con Spring REST, Spring Core, Spring WS, Spring JBDC. Para la parte del Front-end HTML5 / CSS3, AngularJs, Bootstrap (Responsive Web Design). Como manejador de Base de Datos a Oracle SQL Server 2008, . Eclipse Luna se usa como IDE para el desarrollo Para el acceso manual a la Base de Datos SQL Developer. Para el manejo de Logs se utilizó log4j. Para la concurrencia y el manejo de versiones Subversión | J2EE implementando el patrón Modelo-Vista-Controlador con Spring REST, Spring Core, Spring WS, Spring JBDC. Para la parte del Front-end HTML5 / CSS3, AngularJs, Bootstrap (Responsive Web Design). Como manejador de Base de Datos a Oracle SQL Server 2008, . Eclipse Luna se usa como IDE para el desarrollo Para el acceso manual a la Base de Datos SQL Developer. Para el manejo de Logs se utilizó log4j. Para la concurrencia y el manejo de versiones Subversión
+Nombre de la empresa:
+Metlife México | Nombre de la empresa:
+Metlife México | Lugar:
+México | Puesto:
+Analista / Desarrollador Java Sr. | Desde: 
+Octubre 2013 | A: 
+Abril 2015
+Líder Técnico / Analista y Desarrollador de sistemas asignado para el desarrollo de aplicación
+web para monitoreo de procesos online / batch así como generación de reportes y 
+configuración de roles de usuario para explotar la información del sistema de homologación de
+Cliente Único. El aplicativo es alimentado de información bajo distintas vías como Servicios
+Web, Sistema de Colas (Queues), Cargas masivas mendiante Shells. Tareas programadas 
+para depuración de información, Reportes Excel / PDF y envio de notificaciones vía Mail. 
+Generación de documentos de Diseño Funcional, Diseño Técnico, Runbook implementando UML. | Líder Técnico / Analista y Desarrollador de sistemas asignado para el desarrollo de aplicación
+web para monitoreo de procesos online / batch así como generación de reportes y 
+configuración de roles de usuario para explotar la información del sistema de homologación de
+Cliente Único. El aplicativo es alimentado de información bajo distintas vías como Servicios
+Web, Sistema de Colas (Queues), Cargas masivas mendiante Shells. Tareas programadas 
+para depuración de información, Reportes Excel / PDF y envio de notificaciones vía Mail. 
+Generación de documentos de Diseño Funcional, Diseño Técnico, Runbook implementando UML. | Líder Técnico / Analista y Desarrollador de sistemas asignado para el desarrollo de aplicación
+web para monitoreo de procesos online / batch así como generación de reportes y 
+configuración de roles de usuario para explotar la información del sistema de homologación de
+Cliente Único. El aplicativo es alimentado de información bajo distintas vías como Servicios
+Web, Sistema de Colas (Queues), Cargas masivas mendiante Shells. Tareas programadas 
+para depuración de información, Reportes Excel / PDF y envio de notificaciones vía Mail. 
+Generación de documentos de Diseño Funcional, Diseño Técnico, Runbook implementando UML. | Líder Técnico / Analista y Desarrollador de sistemas asignado para el desarrollo de aplicación
+web para monitoreo de procesos online / batch así como generación de reportes y 
+configuración de roles de usuario para explotar la información del sistema de homologación de
+Cliente Único. El aplicativo es alimentado de información bajo distintas vías como Servicios
+Web, Sistema de Colas (Queues), Cargas masivas mendiante Shells. Tareas programadas 
+para depuración de información, Reportes Excel / PDF y envio de notificaciones vía Mail. 
+Generación de documentos de Diseño Funcional, Diseño Técnico, Runbook implementando UML. | Líder Técnico / Analista y Desarrollador de sistemas asignado para el desarrollo de aplicación
+web para monitoreo de procesos online / batch así como generación de reportes y 
+configuración de roles de usuario para explotar la información del sistema de homologación de
+Cliente Único. El aplicativo es alimentado de información bajo distintas vías como Servicios
+Web, Sistema de Colas (Queues), Cargas masivas mendiante Shells. Tareas programadas 
+para depuración de información, Reportes Excel / PDF y envio de notificaciones vía Mail. 
+Generación de documentos de Diseño Funcional, Diseño Técnico, Runbook implementando UML. | Líder Técnico / Analista y Desarrollador de sistemas asignado para el desarrollo de aplicación
+web para monitoreo de procesos online / batch así como generación de reportes y 
+configuración de roles de usuario para explotar la información del sistema de homologación de
+Cliente Único. El aplicativo es alimentado de información bajo distintas vías como Servicios
+Web, Sistema de Colas (Queues), Cargas masivas mendiante Shells. Tareas programadas 
+para depuración de información, Reportes Excel / PDF y envio de notificaciones vía Mail. 
+Generación de documentos de Diseño Funcional, Diseño Técnico, Runbook implementando UML.
+Herramientas: | J2EE, implementando el patrón Modelo-Vista-Controlador con Struts2, Java Server Pages, Actions(struts2),Spring Core, Spring JDBC y Datasources para el acceso a datos usando como manejador de Base de Datos a DB2 v10. Para el acceso manual a la Base de Datos SQL Developer. Para la parte del Front-end JQUERY / JavaScript. Para los servicios web Spring WS, para las queues Spring  JMS. Spring Mail mediante protocolo SMTP. Tomcat y WAS 8.5 como servidores de aplicaciones. 
+Eclipse Indigo se usa como IDE para el desarrollo. Para el manejo de Logs se utilizó log4j.  El diseño de flujos de pantalla y el diseño en general esta descrito en lenguaje UML. Para la concurrencia y el manejo de versiones Starteam | J2EE, implementando el patrón Modelo-Vista-Controlador con Struts2, Java Server Pages, Actions(struts2),Spring Core, Spring JDBC y Datasources para el acceso a datos usando como manejador de Base de Datos a DB2 v10. Para el acceso manual a la Base de Datos SQL Developer. Para la parte del Front-end JQUERY / JavaScript. Para los servicios web Spring WS, para las queues Spring  JMS. Spring Mail mediante protocolo SMTP. Tomcat y WAS 8.5 como servidores de aplicaciones. 
+Eclipse Indigo se usa como IDE para el desarrollo. Para el manejo de Logs se utilizó log4j.  El diseño de flujos de pantalla y el diseño en general esta descrito en lenguaje UML. Para la concurrencia y el manejo de versiones Starteam | J2EE, implementando el patrón Modelo-Vista-Controlador con Struts2, Java Server Pages, Actions(struts2),Spring Core, Spring JDBC y Datasources para el acceso a datos usando como manejador de Base de Datos a DB2 v10. Para el acceso manual a la Base de Datos SQL Developer. Para la parte del Front-end JQUERY / JavaScript. Para los servicios web Spring WS, para las queues Spring  JMS. Spring Mail mediante protocolo SMTP. Tomcat y WAS 8.5 como servidores de aplicaciones. 
+Eclipse Indigo se usa como IDE para el desarrollo. Para el manejo de Logs se utilizó log4j.  El diseño de flujos de pantalla y el diseño en general esta descrito en lenguaje UML. Para la concurrencia y el manejo de versiones Starteam | J2EE, implementando el patrón Modelo-Vista-Controlador con Struts2, Java Server Pages, Actions(struts2),Spring Core, Spring JDBC y Datasources para el acceso a datos usando como manejador de Base de Datos a DB2 v10. Para el acceso manual a la Base de Datos SQL Developer. Para la parte del Front-end JQUERY / JavaScript. Para los servicios web Spring WS, para las queues Spring  JMS. Spring Mail mediante protocolo SMTP. Tomcat y WAS 8.5 como servidores de aplicaciones. 
+Eclipse Indigo se usa como IDE para el desarrollo. Para el manejo de Logs se utilizó log4j.  El diseño de flujos de pantalla y el diseño en general esta descrito en lenguaje UML. Para la concurrencia y el manejo de versiones Starteam | J2EE, implementando el patrón Modelo-Vista-Controlador con Struts2, Java Server Pages, Actions(struts2),Spring Core, Spring JDBC y Datasources para el acceso a datos usando como manejador de Base de Datos a DB2 v10. Para el acceso manual a la Base de Datos SQL Developer. Para la parte del Front-end JQUERY / JavaScript. Para los servicios web Spring WS, para las queues Spring  JMS. Spring Mail mediante protocolo SMTP. Tomcat y WAS 8.5 como servidores de aplicaciones. 
+Eclipse Indigo se usa como IDE para el desarrollo. Para el manejo de Logs se utilizó log4j.  El diseño de flujos de pantalla y el diseño en general esta descrito en lenguaje UML. Para la concurrencia y el manejo de versiones Starteam
+Nombre de la empresa:
+Estafeta Mexicana S.A. de C.V. | Nombre de la empresa:
+Estafeta Mexicana S.A. de C.V. | Lugar:
+México | Puesto:
+Líder técnico / Desarrollador Java Sr. | Desde: 
+Julio 2013 | A: 
+Septiembre 2013
+Líder Técnico / Desarrollador de sistemas, para el desarrollo de aplicaciones web para el 
+sistema de entregas en el cual estuve a cargo de un grupo de desarrolladores a los cuales
+definía los estándares y arquitectura de las implementaciones además de resolver los problemas 
+técnicos más complejos del equipo. Asesorar a los demás miembros del equipo en cuanto 
+a la tecnología a usarse y establecer la pauta de la posible solución. | Líder Técnico / Desarrollador de sistemas, para el desarrollo de aplicaciones web para el 
+sistema de entregas en el cual estuve a cargo de un grupo de desarrolladores a los cuales
+definía los estándares y arquitectura de las implementaciones además de resolver los problemas 
+técnicos más complejos del equipo. Asesorar a los demás miembros del equipo en cuanto 
+a la tecnología a usarse y establecer la pauta de la posible solución. | Líder Técnico / Desarrollador de sistemas, para el desarrollo de aplicaciones web para el 
+sistema de entregas en el cual estuve a cargo de un grupo de desarrolladores a los cuales
+definía los estándares y arquitectura de las implementaciones además de resolver los problemas 
+técnicos más complejos del equipo. Asesorar a los demás miembros del equipo en cuanto 
+a la tecnología a usarse y establecer la pauta de la posible solución. | Líder Técnico / Desarrollador de sistemas, para el desarrollo de aplicaciones web para el 
+sistema de entregas en el cual estuve a cargo de un grupo de desarrolladores a los cuales
+definía los estándares y arquitectura de las implementaciones además de resolver los problemas 
+técnicos más complejos del equipo. Asesorar a los demás miembros del equipo en cuanto 
+a la tecnología a usarse y establecer la pauta de la posible solución. | Líder Técnico / Desarrollador de sistemas, para el desarrollo de aplicaciones web para el 
+sistema de entregas en el cual estuve a cargo de un grupo de desarrolladores a los cuales
+definía los estándares y arquitectura de las implementaciones además de resolver los problemas 
+técnicos más complejos del equipo. Asesorar a los demás miembros del equipo en cuanto 
+a la tecnología a usarse y establecer la pauta de la posible solución. | Líder Técnico / Desarrollador de sistemas, para el desarrollo de aplicaciones web para el 
+sistema de entregas en el cual estuve a cargo de un grupo de desarrolladores a los cuales
+definía los estándares y arquitectura de las implementaciones además de resolver los problemas 
+técnicos más complejos del equipo. Asesorar a los demás miembros del equipo en cuanto 
+a la tecnología a usarse y establecer la pauta de la posible solución.
+Herramientas: | Programador de sistemas en plataformas JEE, definiendo arquitectura de proyectos.
+Programación de interfaces con el framework Ext-Js.
+Implementación de Subversion como manejador de versiones.
+Utilización de SQL Server 2008 para la conexión de base de datos.
+Desarrollo de módulos en la capa de datos con Spring JDBC.
+Implementación de Spring LDAP para la autenticación de usuarios
+Implementación de Spring para MVC para delimitar accesos a módulos del aplicativo mediante una configuración de roles,Spring WS | Programador de sistemas en plataformas JEE, definiendo arquitectura de proyectos.
+Programación de interfaces con el framework Ext-Js.
+Implementación de Subversion como manejador de versiones.
+Utilización de SQL Server 2008 para la conexión de base de datos.
+Desarrollo de módulos en la capa de datos con Spring JDBC.
+Implementación de Spring LDAP para la autenticación de usuarios
+Implementación de Spring para MVC para delimitar accesos a módulos del aplicativo mediante una configuración de roles,Spring WS | Programador de sistemas en plataformas JEE, definiendo arquitectura de proyectos.
+Programación de interfaces con el framework Ext-Js.
+Implementación de Subversion como manejador de versiones.
+Utilización de SQL Server 2008 para la conexión de base de datos.
+Desarrollo de módulos en la capa de datos con Spring JDBC.
+Implementación de Spring LDAP para la autenticación de usuarios
+Implementación de Spring para MVC para delimitar accesos a módulos del aplicativo mediante una configuración de roles,Spring WS | Programador de sistemas en plataformas JEE, definiendo arquitectura de proyectos.
+Programación de interfaces con el framework Ext-Js.
+Implementación de Subversion como manejador de versiones.
+Utilización de SQL Server 2008 para la conexión de base de datos.
+Desarrollo de módulos en la capa de datos con Spring JDBC.
+Implementación de Spring LDAP para la autenticación de usuarios
+Implementación de Spring para MVC para delimitar accesos a módulos del aplicativo mediante una configuración de roles,Spring WS | Programador de sistemas en plataformas JEE, definiendo arquitectura de proyectos.
+Programación de interfaces con el framework Ext-Js.
+Implementación de Subversion como manejador de versiones.
+Utilización de SQL Server 2008 para la conexión de base de datos.
+Desarrollo de módulos en la capa de datos con Spring JDBC.
+Implementación de Spring LDAP para la autenticación de usuarios
+Implementación de Spring para MVC para delimitar accesos a módulos del aplicativo mediante una configuración de roles,Spring WS
+Nombre de la empresa:
+Gamel Hus Consultancy Services S.A. | Nombre de la empresa:
+Gamel Hus Consultancy Services S.A. | Lugar:
+México | Puesto:
+Desarrollador Java Jr. | Desde: 
+Octubre 2012 | A: 
+Junio 2013
+Analista / Desarrollador, estuvo dentro del análisis y desarrollo de aplicaciones Standalone para
+el concentrado de información de sus operaciones para la generación de reportes a BANXICO 
+de clientes como Banca Mifel y Grupo Financiero Activer. | Analista / Desarrollador, estuvo dentro del análisis y desarrollo de aplicaciones Standalone para
+el concentrado de información de sus operaciones para la generación de reportes a BANXICO 
+de clientes como Banca Mifel y Grupo Financiero Activer. | Analista / Desarrollador, estuvo dentro del análisis y desarrollo de aplicaciones Standalone para
+el concentrado de información de sus operaciones para la generación de reportes a BANXICO 
+de clientes como Banca Mifel y Grupo Financiero Activer. | Analista / Desarrollador, estuvo dentro del análisis y desarrollo de aplicaciones Standalone para
+el concentrado de información de sus operaciones para la generación de reportes a BANXICO 
+de clientes como Banca Mifel y Grupo Financiero Activer. | Analista / Desarrollador, estuvo dentro del análisis y desarrollo de aplicaciones Standalone para
+el concentrado de información de sus operaciones para la generación de reportes a BANXICO 
+de clientes como Banca Mifel y Grupo Financiero Activer. | Analista / Desarrollador, estuvo dentro del análisis y desarrollo de aplicaciones Standalone para
+el concentrado de información de sus operaciones para la generación de reportes a BANXICO 
+de clientes como Banca Mifel y Grupo Financiero Activer.
+Herramientas: | Programador de sistemas en plataformas JEE, definiendo arquitectura de proyectos mediante módulos Maven, Programación de interfaces Swing, Implementación de Mantis para la incidencia de bugs,Implementación de Subversion como manejador de versiones,Utilización de SQL Server 2008 para la conexión de base de datos, Desarrollo de módulos en la capa de datos con Spring JDBC, Utilización de Enterprise Architect para la generación de documentación. | Programador de sistemas en plataformas JEE, definiendo arquitectura de proyectos mediante módulos Maven, Programación de interfaces Swing, Implementación de Mantis para la incidencia de bugs,Implementación de Subversion como manejador de versiones,Utilización de SQL Server 2008 para la conexión de base de datos, Desarrollo de módulos en la capa de datos con Spring JDBC, Utilización de Enterprise Architect para la generación de documentación. | Programador de sistemas en plataformas JEE, definiendo arquitectura de proyectos mediante módulos Maven, Programación de interfaces Swing, Implementación de Mantis para la incidencia de bugs,Implementación de Subversion como manejador de versiones,Utilización de SQL Server 2008 para la conexión de base de datos, Desarrollo de módulos en la capa de datos con Spring JDBC, Utilización de Enterprise Architect para la generación de documentación. | Programador de sistemas en plataformas JEE, definiendo arquitectura de proyectos mediante módulos Maven, Programación de interfaces Swing, Implementación de Mantis para la incidencia de bugs,Implementación de Subversion como manejador de versiones,Utilización de SQL Server 2008 para la conexión de base de datos, Desarrollo de módulos en la capa de datos con Spring JDBC, Utilización de Enterprise Architect para la generación de documentación. | Programador de sistemas en plataformas JEE, definiendo arquitectura de proyectos mediante módulos Maven, Programación de interfaces Swing, Implementación de Mantis para la incidencia de bugs,Implementación de Subversion como manejador de versiones,Utilización de SQL Server 2008 para la conexión de base de datos, Desarrollo de módulos en la capa de datos con Spring JDBC, Utilización de Enterprise Architect para la generación de documentación.
+Nombre de la empresa:
+Estafeta Mexicana S.A. de C.V. | Nombre de la empresa:
+Estafeta Mexicana S.A. de C.V. | Lugar:
+México | Puesto:
+Desarrollador Java Jr. | Desde: 
+Marzo 2012 | A: 
+Septiembre 2012
+Desarrollador de sistemas, forme parte de equipo encargado de un aplicativo capaz de poder ser usando de forma Web como Standalone. Estuvo encargado de la implementación de un 
+módulo para él envió de correos utilizando la API JavaMail, el cual permite configurar los 
+servidores de correos más populares (Gmail, Hotmail, Yahoo), utilizando el protocolo SMTP así 
+como de servicios web para la obtención y/o actualización de información del sistema. | Desarrollador de sistemas, forme parte de equipo encargado de un aplicativo capaz de poder ser usando de forma Web como Standalone. Estuvo encargado de la implementación de un 
+módulo para él envió de correos utilizando la API JavaMail, el cual permite configurar los 
+servidores de correos más populares (Gmail, Hotmail, Yahoo), utilizando el protocolo SMTP así 
+como de servicios web para la obtención y/o actualización de información del sistema. | Desarrollador de sistemas, forme parte de equipo encargado de un aplicativo capaz de poder ser usando de forma Web como Standalone. Estuvo encargado de la implementación de un 
+módulo para él envió de correos utilizando la API JavaMail, el cual permite configurar los 
+servidores de correos más populares (Gmail, Hotmail, Yahoo), utilizando el protocolo SMTP así 
+como de servicios web para la obtención y/o actualización de información del sistema. | Desarrollador de sistemas, forme parte de equipo encargado de un aplicativo capaz de poder ser usando de forma Web como Standalone. Estuvo encargado de la implementación de un 
+módulo para él envió de correos utilizando la API JavaMail, el cual permite configurar los 
+servidores de correos más populares (Gmail, Hotmail, Yahoo), utilizando el protocolo SMTP así 
+como de servicios web para la obtención y/o actualización de información del sistema. | Desarrollador de sistemas, forme parte de equipo encargado de un aplicativo capaz de poder ser usando de forma Web como Standalone. Estuvo encargado de la implementación de un 
+módulo para él envió de correos utilizando la API JavaMail, el cual permite configurar los 
+servidores de correos más populares (Gmail, Hotmail, Yahoo), utilizando el protocolo SMTP así 
+como de servicios web para la obtención y/o actualización de información del sistema. | Desarrollador de sistemas, forme parte de equipo encargado de un aplicativo capaz de poder ser usando de forma Web como Standalone. Estuvo encargado de la implementación de un 
+módulo para él envió de correos utilizando la API JavaMail, el cual permite configurar los 
+servidores de correos más populares (Gmail, Hotmail, Yahoo), utilizando el protocolo SMTP así 
+como de servicios web para la obtención y/o actualización de información del sistema.
+Herramientas: | Para la parte del Front-End se usó el framework Ext-Js en conjunto con HTML5 y CSS3, AJAX para las interfaces WEB, JSON para la transportación de datos entre el cliente y el servidor. Se implementó el patón Modelo-Vista-Controlador con Struts 2, JSP, Actions, Spring Core para la inyección de dependencias, Java JBDC para el acceso a datos usando como manejador de Base de Datos a DB2 v9, Tomcat y WAS como servidores de aplicación. JMeter para pruebas de estrés del sistema, Apache CXF para el desarrollo de servicios Web. | Para la parte del Front-End se usó el framework Ext-Js en conjunto con HTML5 y CSS3, AJAX para las interfaces WEB, JSON para la transportación de datos entre el cliente y el servidor. Se implementó el patón Modelo-Vista-Controlador con Struts 2, JSP, Actions, Spring Core para la inyección de dependencias, Java JBDC para el acceso a datos usando como manejador de Base de Datos a DB2 v9, Tomcat y WAS como servidores de aplicación. JMeter para pruebas de estrés del sistema, Apache CXF para el desarrollo de servicios Web. | Para la parte del Front-End se usó el framework Ext-Js en conjunto con HTML5 y CSS3, AJAX para las interfaces WEB, JSON para la transportación de datos entre el cliente y el servidor. Se implementó el patón Modelo-Vista-Controlador con Struts 2, JSP, Actions, Spring Core para la inyección de dependencias, Java JBDC para el acceso a datos usando como manejador de Base de Datos a DB2 v9, Tomcat y WAS como servidores de aplicación. JMeter para pruebas de estrés del sistema, Apache CXF para el desarrollo de servicios Web. | Para la parte del Front-End se usó el framework Ext-Js en conjunto con HTML5 y CSS3, AJAX para las interfaces WEB, JSON para la transportación de datos entre el cliente y el servidor. Se implementó el patón Modelo-Vista-Controlador con Struts 2, JSP, Actions, Spring Core para la inyección de dependencias, Java JBDC para el acceso a datos usando como manejador de Base de Datos a DB2 v9, Tomcat y WAS como servidores de aplicación. JMeter para pruebas de estrés del sistema, Apache CXF para el desarrollo de servicios Web. | Para la parte del Front-End se usó el framework Ext-Js en conjunto con HTML5 y CSS3, AJAX para las interfaces WEB, JSON para la transportación de datos entre el cliente y el servidor. Se implementó el patón Modelo-Vista-Controlador con Struts 2, JSP, Actions, Spring Core para la inyección de dependencias, Java JBDC para el acceso a datos usando como manejador de Base de Datos a DB2 v9, Tomcat y WAS como servidores de aplicación. JMeter para pruebas de estrés del sistema, Apache CXF para el desarrollo de servicios Web.
+ESTUDIOS:
+Escuela:   
+Instituto Tecnológico de Zacatepec | Lugar:  
+Zacatepec, Morelos, México.
+Carrera: 
+Ingeniería en Sistemas Computacionales | Fecha de duración: 
+2007-2012
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+ITIL® Foundation v4 Certificate in IT Service Management | Presencial | 24 Agosto 2019
+Scrum Fundamentals Certification | Virtual | 4 Febrero 2020
+IDIOMAS:
+Español: | Nativo
+Inglés: | Básico
+.
+Perfil principal: | Java Sr
+Perfil secundario: | Líder técnico
+Sistemas operativos: | Windows, IOS, Linux(básico)
+Lenguajes de programación: | Java
+Bases de datos: | Oracle, Microsoft SQL Server, DB2.
+Otros:

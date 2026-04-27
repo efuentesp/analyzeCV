@@ -1,0 +1,208 @@
+{
+    "capacidadRecursosHumanos": {
+        "experiencia": [
+            {
+                "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 5 años en desarrollo de soluciones de BI, en servicios y aplicaciones web (frontend y backend), dashboards interactivos, tableros automáticos, reportes?",
+                "detalle": "Para el rol del Desarrollador BI Al menos 5 años de experiencia en desarrollo de soluciones de BI.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita funciones de coordinación de actividades de los Desarrolladores Jr; así como, tener conocimiento total del desarrollo del proyecto asignado?",
+                "detalle": "Coordinar las actividades de los Desarrolladores Jr; así como, tener conocimiento total del desarrollo del proyecto asignado.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha liderado construcción con prácticas de calidad (code review, patrones, pruebas unitarias) y SAST cumplido?",
+                "detalle": "MR + cobertura + Pruebas de Seguridad de Aplicaciones Estáticas (SAST - Static Application Security Testing)",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha integrado DAST (para componentes web) y cerrado hallazgos hasta cero bloqueantes/críticos/altos?",
+                "detalle": "Reporte de Pruebas de Seguridad de Aplicaciones Dinámicas (DAST - Dynamic Application Security Testing) + fixes",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha operado GitLab (flujo de ramas/etiquetas, MR, pipelines) conforme a estándares institucionales?",
+                "detalle": "Historial GitLab",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha participado en INT/UAT/PROD y solucionado defectos hasta VoBo?",
+                "detalle": "Evidencias + VoBo en pruebas de INT-Integración, UAT pruebas de aceptación de usuarios, PROD en ambiente de producción",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha preparado evidencias de fase para carpetas y soportado dictamen?",
+                "detalle": "Check + acuses",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha preparado evidencias de fase para carpetas y soportado dictamen?",
+                "detalle": "Check + acuses",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La experiencia suma ≥5 años en desarrollo de soluciones de BI?",
+                "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+                "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+                "detalle": "Fechas correctas en el periodo de experiencia: La fecha Desde, debe ser un mes posterior a la última fecha Hasta, los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+                "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV documenta y muestra experiencia en habilidades de: Dominio de bases de datos relacionales y no relacionales. Técnicas de diseño para el modelado de datos. Metodologías de desarrollo (Cascada, Agile, SAFE). Versionamiento del código (Git). Dominio en el desarrollo de servicios y aplicaciones web (frontend y backend). Dominio en técnicas de optimización de procesos. Dominio en el desarrollo de procesos ETL (Extract, Transform, Load)?",
+                "detalle": "",
+                "resultado": ""
+            }
+        ],
+         "competenciaHabilidadTrabajo": [
+            {
+                "concepto": "¿El candidato cuenta con estudios de nivel superior en carrera técnica de nivel medio superior o nivel superior acreditable de nivel licenciatura o ingeniería?",
+                "detalle": "Acreditar la competencia señalada Estudios nivel superior acreditable de nivel licenciatura o ingeniería",
+                "resultado": ""
+            }
+        ],
+         "dominioHerramientas": [
+            {
+                "concepto": "¿El candidato cuenta con certificaciones?",
+                "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar el dominio de herramientas señaladas - Certificaciones",
+                "detalle": "Adicional es deseable alguna de las siguientes certificaciones vigente: Scrum Master. En herramientas de inteligencia de negocio (Fabric Databrick)",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar conocimiento comprobable en las tecnologías descritas - Cursos. Lenguajes de Programación de código abierto. Herramientas de inteligencia de negocio y esuemas de consumo de datos (fabric databrick)",
+                "detalle": "Conocimiento comprobable en las tecnologías descritas en la introducción del documento Anexo Staff. Lenguajes de Programación: Python, Scala, R, Rust. Data Factory, Databricks",
+                "resultado": ""
+            }
+        ]
+    },
+        "dominioHerramientas": [
+        {
+            "concepto": "¿Utiliza lenguajes de programación y frameworks orientados a BI (SQL, Python, R, DAX, MDX) con estándares de codificación establecidos?",
+            "detalle": "Módulos desarrollados, descripción de tecnologías orientadas a BI (SQL, Python, R, DAX, MDX).",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Aplica buenas prácticas en modelado de datos (normalización, optimización de consultas, uso de índices)?",
+            "detalle": "Prácticas descritas, referencias a controles aplicados.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Versiona scripts, modelos y paquetes ETL en herramientas de control de versiones (GitLab/Git) siguiendo un modelo de ramas definido?",
+            "detalle": "Repositorios, commits, historial de cambios, uso de ramas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Participa en revisiones de código SQL/ETL y aplica comentarios o correcciones técnicas?",
+            "detalle": "Correcciones aplicadas, defectos cerrados, coordinación con testers.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas de integración y automatización de procesos ETL/ELT (SSIS, Azure Data Factory, Informatica, Talend)?",
+            "detalle": "Procesos ETL implementados, herramientas utilizadas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Configura o mantiene pipelines de datos para extracción, transformación y carga en distintos ambientes?",
+            "detalle": "Descripción de pipelines, ejecución y monitoreo.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Acredita uso de herramientas de calidad de datos y atención a hallazgos (Data Quality, profiling, validaciones)?",
+            "detalle": "Validaciones, profiling de datos, controles aplicados.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Cumple lineamientos de seguridad en manejo de datos sensibles (enmascaramiento, cifrado, cumplimiento de normativas como GDPR)?",
+            "detalle": "Prácticas de seguridad implementadas, cumplimiento normativo.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Desarrolla o apoya pruebas unitarias y de integración sobre procesos ETL y modelos de datos?",
+            "detalle": "Pruebas unitarias, cobertura, frameworks utilizados.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Colabora con QA en la validación de reportes, dashboards y resolución de defectos de datos?",
+            "detalle": "Validaciones, defectos corregidos, coordinación con QA.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Trabaja con múltiples ambientes (DEV/INT/UAT/PROD) y participa en validaciones de despliegue de soluciones BI?",
+            "detalle": "Descripción de ambientes, soporte a liberaciones.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas de visualización y reporting (Power BI, Tableau, Qlik, Looker) cuando el proyecto lo requiere?",
+            "detalle": "Dashboards, reportes, herramientas utilizadas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Elabora o mantiene documentación técnica de modelos de datos, procesos ETL y reportes (guías, diagramas, configuraciones)?",
+            "detalle": "Documentos técnicos, diagramas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza repositorios o herramientas colaborativas para documentación técnica (Confluence, SharePoint, repos Git)?",
+            "detalle": "Repositorios, control de versiones documental.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Apoya y orienta a Desarrolladores Junior en aspectos técnicos de BI y modelado de datos?",
+            "detalle": "Mentoría, revisiones técnicas, apoyo al equipo.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Coordina actividades técnicas con Líder Técnico, Arquitecto de Datos o Analista de Negocio para asegurar alineación funcional y técnica?",
+            "detalle": "Coordinación técnica, comunicación con stakeholders.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas de seguimiento de tareas/incidencias (Jira, Azure DevOps, Service Desk)?",
+            "detalle": "Tickets gestionados, estados, reportes.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Reporta avances técnicos, riesgos o bloqueos mediante herramientas de seguimiento o reportes periódicos?",
+            "detalle": "Reportes de avance, tableros técnicos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones técnicas (qué, cómo, resultado)?",
+            "detalle": "Ejemplos de aplicación en proyectos reales.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV documenta aplicación práctica de cursos o capacitaciones técnicas en el desarrollo de software?",
+            "detalle": "Casos específicos, mejoras logradas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        }
+    ]
+    
+}

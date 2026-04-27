@@ -1,0 +1,72 @@
+Luis Constancio Gamiño Cereceres
+Ingeniero de Datos Senior BI
+FUNCIONES
+Diseño, construyo, optimizo y mantengo infraestructuras y soluciones tecnológicas que recolectan, almacenan, procesan y permiten el acceso a grandes volúmenes de datos de forma eficiente, segura y escalable. Cuento con habilidades en el diseño e implementación de procesos ETL/ELT para el procesamiento de grandes volúmenes de información, así como en la definición, construcción y mantenimiento de estructuras de almacenamiento que garantizan la eficiencia de las soluciones de Inteligencia de Negocio. Asimismo, optimizo la carga, el procesamiento y la consulta de grandes volúmenes de datos. Me enfoco en garantizar soluciones robustas y escalables que faciliten el acceso consistente a los datos por equipos de analítica y negocio; también lidero actividades de Aseguramiento de la Calidad (QA), optimización de cargas Extraer, Transformar y Cargar (ETL)/ELT y coordinación técnica con stakeholders para asegurar entregas y soporte operativo.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 5 años en el análisis de grandes volúmenes de datos y en el desarrollo de soluciones de Inteligencia de Negocio. Soy responsable del diseño, construcción, optimización y mantenimiento de infraestructuras y soluciones de datos, asegurando la implementación y uso de arquitecturas que permiten la recolección, almacenamiento, procesamiento y acceso eficiente, seguro y escalable a grandes volúmenes de información, participando en la definición de procesos Extraer, Transformar y Cargar (ETL)/ELT, estructuras de almacenamiento y estrategias de optimización, así como en la toma de decisiones tecnológicas mediante el uso y/o adaptación de herramientas, frameworks y estándares para garantizar soluciones robustas de Inteligencia de Negocio.
+A lo largo de mi trayectoria he trabajado como consultor senior en Information Management y en proyectos de Business Intelligence, Data Integration y Data Quality, liderando pruebas de concepto, modelado de datos y migraciones de catálogos de metadatos, con foco en continuidad y calidad de la información. Trabajo con herramientas empresariales de integración y catálogos de metadatos para soportar procesos de negocio y gobernanza de datos.
+Mi aporte se centra en garantizar soluciones estables y escalables que permitan el acceso consistente a los datos por equipos de BI y negocio; además lidero Aseguramiento de la Calidad (QA), optimización de procesos Extraer, Transformar y Cargar (ETL)/ELT y coordinación técnica con clientes para mantener entregas y operación continua.
+EXPERIENCIA LABORAL
+Empresa
+Brinker (Softtek - Brinker Guadalajara) | Puesto
+Informatica EDC and CDGC Consultant | Desde:
+1 diciembre de 2021 | Hasta: 
+A la fecha
+Actividades Principales | • Diseño, construyo, optimizo y mantengo infraestructuras y soluciones tecnológicas que recolectan, almacenan, procesan y permiten el acceso a grandes volúmenes de datos de forma eficiente, segura y escalable. Cuento con experiencia en el diseño e implementación de procesos Extraer, Transformar y Cargar (ETL) para el procesamiento de grandes volúmenes de información, así como en la definición, construcción y mantenimiento de estructuras de almacenamiento que garantizan la eficiencia de las soluciones de Inteligencia de Negocio. También optimizo la carga, el procesamiento y la consulta de grandes volúmenes de datos.
+• Diseño y lidero la implementación de procesos de integración de datos (Extraer, Transformar y Cargar (ETL)/ELT) para grandes volúmenes de información.
+• Construyo, optimizo y mantengo pipelines de datos robustos y escalables para la ingesta, transformación y carga de datos.
+• Defino, implemento y evoluciono arquitecturas de datos (Data Warehouse, Data Lake) alineadas a necesidades de negocio.
+• Aseguro la calidad, integridad, disponibilidad y gobierno de los datos en todas las etapas del procesamiento.
+• Optimizo el rendimiento de consultas, procesos de carga y almacenamiento de datos a gran escala.
+• Defino estándares, buenas prácticas y lineamientos técnicos para el manejo y procesamiento de datos.
+• Monitoreo, diagnostico y resuelvo incidencias complejas en procesos y flujos de datos.
+• Colaboro con equipos de BI, analítica y arquitectura para garantizar soluciones de datos integrales.
+• Evalúo e implemento herramientas, frameworks y tecnologías para mejorar las soluciones de datos.
+• Documento arquitecturas, procesos y flujos de datos asegurando su entendimiento y mantenibilidad.
+• Aplico conocimientos profundos y experiencia en Ingeniería de Datos para resolver problemas complejos relacionados con el procesamiento y gestión de grandes volúmenes de información, utilizando soluciones existentes de manera eficiente. Identifico, notifico y prevengo riesgos potenciales que puedan afectar la calidad, disponibilidad y desempeño de los datos, aplicando en todo momento las mejores prácticas. Trabajo de manera autónoma con un nivel mínimo de supervisión y aseguro la entrega de soluciones de datos en los tiempos comprometidos.
+• He usado la certificación AWS Certified Cloud Practitioner para aplicar los fundamentos de computación en la nube de AWS, incluyendo servicios principales, seguridad, arquitectura y modelos de costos
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Analicé y subí información al Informatica Enterprise Catalog (EDC) de diversas áreas de negocio: Proveedores, Clientes, Activos Fijos, Proyectos, Menús, Contabilidad, Órdenes de Compra, Empleados, Tarjetas de Regalo, Cheques, etc.
+• Realicé la migración de metadatos de EDC a CDGC.
+• Fui responsable de master data consulting para Brinker; actividades en inglés.
+• Fui consultor de integración de datos en Banorte.
+• Realicé la migración de procesos de creación de reportes regulatorios de DataStage (Herramienta ETL empresarial) hacia Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos).
+Empresa
+Softtek (Banorte) | Puesto
+Consultor Data Integration | Desde:
+1 abril de 2021 | Hasta: 
+30 noviembre de 2021
+Actividades Principales | • Fui consultor de integración de datos en Banorte.
+• Realicé la migración de procesos de creación de reportes regulatorios de DataStage (Herramienta ETL empresarial) hacia Ab Initio (Plataforma ETL empresarial para integración y procesamiento de datos).
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- AWS Certified Cloud Practitioner
+- Informatica Enterprise Catalog
+- Informatica Cloud Data Governance and Catalog
+- Informatica PowerCenter
+- Informatica Data Quality
+- Ab Initio
+- DataStage
+- Python
+- Pandas
+- SAP Business Objects
+- SQL Server (Motor de base de datos para consultas y validaciones)
+- Oracle (Oracle Database)
+- Xcelsius
+- Web Intelligence
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 enero de 1994 hasta 01 marzo de 2020
+Durante este período asumí responsabilidades en roles como Consultor senior en Information Management, Consultor Data Integration, Consultor Data Quality, Business Objects Consultant, Líder técnico y Project Leader. Me encargué de diseñar e implementar soluciones de inteligencia de negocio, integración y Extraer, Transformar y Cargar (ETL) de datos, coordinar equipos técnicos, realizar levantamientos de información y asegurar la continuidad operativa. Mis tareas incluyeron modelado de datos, integración Extraer, Transformar y Cargar (ETL), Aseguramiento de la Calidad (QA) y soporte a proyectos para mantener la disponibilidad y consistencia de la información para usuarios de negocio.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniero en Electrónica y Comunicaciones - 1989-1993 | Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) | Cédula Profesional
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- AWS Certified Cloud Practitioner | 2026-2029
+______________________________________
+Luis Constancio Gamiño Cereceres
+Ingeniero de Datos Senior BI | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

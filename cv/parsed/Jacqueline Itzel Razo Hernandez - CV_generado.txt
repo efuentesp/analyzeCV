@@ -1,0 +1,92 @@
+Jacqueline Itzel Razo Hernandez
+Analista Senior
+FUNCIONES
+Analizo las propuestas de requerimientos de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos, así como en la coordinación con desarrolladores, testers y áreas de negocio. Realizo validaciones funcionales mediante pruebas de aceptación y seguimiento a QA, mantengo interlocución constante con usuarios y coordino las actividades de analistas junior, asegurando un conocimiento integral de los requerimientos del proyecto asignado. Cuento con habilidades de liderazgo, identificación de problemas y propuesta de soluciones, así como dominio en el uso de herramientas y metodologías de análisis como Design Thinking y UML. Además, me comunico eficazmente con diferentes audiencias y elaboro documentación bajo marcos de trabajo tradicionales y ágiles.
+Mi experiencia se enfoca en asegurar la operación de servicios y el cumplimiento de procesos usando levantamiento y documentación de requerimientos, colaboración con desarrolladores y QA, y validación funcional. Lidero y acompaño equipos, contribuyo a la definición de soluciones funcionales y promuevo la comunicación entre áreas de negocio y técnicos para garantizar entregables alineados con los objetivos del proyecto.
+EXPERIENCIA PROFESIONAL
+Dispongo de más de cinco años de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y soluciones de Inteligencia de Negocio, así como en la gestión y coordinación de equipos de trabajo. Como analista de negocio, me encargo de descubrir, sintetizar y analizar información proveniente de diversas fuentes, incluidas herramientas, procesos, documentación y Partes interesadas (stakeholders).
+
+Mi trayectoria se centra en garantizar la continuidad de servicios y el cumplimiento de procesos mediante levantamiento y documentación de requerimientos, coordinación con desarrolladores y testers, y validación funcional. Lidero y mentoreo equipos, contribuyo a la definición de soluciones funcionales y facilito la comunicación entre áreas de negocio y técnicos para asegurar entregables alineados con los objetivos del proyecto.
+EXPERIENCIA LABORAL
+Empresa
+WM | México, DF | Puesto
+Analista | Desde:
+25 agosto 2020 | Hasta: 
+Actual
+Actividades Principales | • Analizo propuestas de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos. Coordino actividades con desarrolladores, testers y áreas de negocio, realizo validación funcional mediante pruebas de aceptación y seguimiento a Aseguramiento de la Calidad (QA), y mantengo interlocución directa con usuarios. También coordino analistas junior y aseguro un entendimiento integral de los requerimientos del proyecto asignado. Aplico liderazgo, detección de problemas y propuesta de soluciones, empleando herramientas y metodologías como Design Thinking y Lenguaje Unificado de Modelado (UML), y comunicando resultados en marcos tradicionales y ágiles.
+• Comprendo las necesidades reales mediante la aplicación de un conjunto de técnicas de análisis.
+• Involucro a los stakeholders para descubrir y documentar requerimientos funcionales, no funcionales y de transición de forma completa y consistente.
+• Genero las especificaciones de los requerimientos no funcionales, describiendo cualidades y restricciones para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que permitan a los stakeholders ejecutar sus procesos con eficacia.
+• Diseño la solución funcional que satisface los requerimientos y defino la estrategia de implementación para generar valor al negocio.
+• Aseguro que la solución sea aprobada por los stakeholders y que su implementación se realice sin percances.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Participó en el entendimiento de las capacidades tecnológicas y evalúo la viabilidad de soluciones para grandes aplicaciones. Colaboro en sesiones de trabajo con usuarios, sponsors técnicos y de negocio, donde lidero el diseño del modelo de datos y defino el patrón de diseño de pantallas de usuario. Asimismo, identifico capacidades tecnológicas y de implementación, y facilito evidencia al líder de proyecto sobre cambios de alcance, contribuyendo a negociaciones exitosas en costo y calendario.
+• He usado la certificación Profesional Certificado en Análisis de Negocios (CBAP) – Instituto Internacional de Análisis de Negocios (IIBA) como curso de fundamentos del análisis de negocio alineado al IIBA.
+• He usado la certificación UX: Máster en Diseño Web y Experiencia de Usuario como curso de diseño UX y experiencia de usuario.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+• SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+• ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+• DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+• CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+• GUI: Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.
+• INT: Proveo las entradas necesarias para la integración de sistemas.
+• STD: Participo en las actividades de diseño de pruebas de sistema.
+• STE: Participo en la ejecución de las pruebas de sistema.
+• DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+• Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.
+• Documentación de Procesos.
+• Documentación del AS IS de los procesos actuales dentro de la aplicación SMART para identificar la funcionalidad a implementar en el TO BE dentro de la migración de la aplicación.
+• Identificación, evaluación y planeación del apagado de pantallas dentro de la aplicación.
+• Documentación de la funcionalidad de las pantallas
+• Responsable del seguimiento de los proyectos para el cumplimiento de los procesos.
+• Identificación de Riesgos para asegurar la participación oportuna de la práctica, revisión de Métricas, apoyo en el arranque de los proyectos.
+Empresa
+Práctica DEV | México, DF | Puesto
+PDL | Desde:
+3 agosto 2019 | Hasta: 
+24 agosto2020
+Actividades Principales | • Responsable del seguimiento de los proyectos para el cumplimiento de los procesos.
+• Identificación de Riesgos para asegurar la participación oportuna de la práctica, revisión de Métricas, apoyo en el arranque de los proyectos.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Certified Business Analysis Professional (CBAP®) – IIBA
+- UX: Máster en Diseño Web y Experiencia de Usuario
+- Excel
+- Project
+- Start UML
+- Power Point
+- PPM
+- Microsoft Teams
+- Visio
+- Process Dashboard
+- GIT
+- Ruby
+- Oracle
+- SQL Server
+- Java
+- Visual Basic
+- Erwin
+- Eclipse
+- TOAD
+- Weblogic
+- Tomcat
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 octubre de 2007 hasta 01 abril de 2015
+Durante este período asumí responsabilidades relacionadas con el análisis e implementación de soluciones, la definición y seguimiento de requerimientos, el liderazgo funcional y la coordinación con equipos técnicos. Me desempeñé en roles como Líder Funcional, Programador Analista, Analista de Negocio y Soporte Cliente, entregando especificaciones funcionales, modelado de procesos y gestión de incidencias. Realicé entregables de análisis, participé en revisiones y aseguré la continuidad operativa y la mejora de procesos.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Administración de Sistemas Computacionales - 2002-2006 | Universidad del Valle de México Campus Lomas | Cédula Profesional
+4983280
+11/12/2006
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Certified Business Analysis Professional (CBAP®) – IIBA | 2015-2027
+CURSOS
+- UX: Máster en Diseño Web y Experiencia de Usuario
+______________________________________
+Jacqueline Itzel Razo Hernandez
+Analista Senior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

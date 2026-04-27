@@ -1,0 +1,310 @@
+Mario Alberto Cruz Colín
+PERFIL:
+años de experiencia en Java 2 años
+Bases de Datos: MySql, Oracle, plsql
+Años de experiencia BD 3 año 5 meses
+Años de experiencia Backend 2 años
+Manejo de Metodologías: Scrum, cascada, prototipo
+Frameworks:Spring, laravel
+IDEs: Eclipse, Netbeans, SQLDeveloper
+Servidores de Aplicación: Apache, Tomcat, GlashFish:
+Diagramas de secuencia
+Despliegues webLogic
+Competencias: Trabajo en equipo. Detección y resolución de problemas. Excelente comunicación verbal y buen manejo de relaciones interpersonales.
+SO: Windows, Linux (Kali. Ubuntu, Debian)
+EXPERIENCIA PROFESIONAL:
+Empresa: Softtek-COPPEL | Empresa: Softtek-COPPEL | País: México | Puesto: Desarrollador Java | Fecha de ingreso:
+09/2021 | Fecha de salida:
+Remediaciones de PHP
+manejo de API en TypeScript,
+Pruebas de sistemas web, manejo de BD PostgresSQL. 
+Documentación (Manual de usuario)
+Remediación de vulnerabilidades en C++
+Remediación de vulnerabilidades en JAVA
+Remediaciones y pruebas en sistema con lenguaje Coldfusion
+Control de cambios Git
+Migracion de componentes c++ 2003 a c++ 2017 con manejo de IA, principalmente github­copilot | Remediaciones de PHP
+manejo de API en TypeScript,
+Pruebas de sistemas web, manejo de BD PostgresSQL. 
+Documentación (Manual de usuario)
+Remediación de vulnerabilidades en C++
+Remediación de vulnerabilidades en JAVA
+Remediaciones y pruebas en sistema con lenguaje Coldfusion
+Control de cambios Git
+Migracion de componentes c++ 2003 a c++ 2017 con manejo de IA, principalmente github­copilot | Remediaciones de PHP
+manejo de API en TypeScript,
+Pruebas de sistemas web, manejo de BD PostgresSQL. 
+Documentación (Manual de usuario)
+Remediación de vulnerabilidades en C++
+Remediación de vulnerabilidades en JAVA
+Remediaciones y pruebas en sistema con lenguaje Coldfusion
+Control de cambios Git
+Migracion de componentes c++ 2003 a c++ 2017 con manejo de IA, principalmente github­copilot | Remediaciones de PHP
+manejo de API en TypeScript,
+Pruebas de sistemas web, manejo de BD PostgresSQL. 
+Documentación (Manual de usuario)
+Remediación de vulnerabilidades en C++
+Remediación de vulnerabilidades en JAVA
+Remediaciones y pruebas en sistema con lenguaje Coldfusion
+Control de cambios Git
+Migracion de componentes c++ 2003 a c++ 2017 con manejo de IA, principalmente github­copilot | Remediaciones de PHP
+manejo de API en TypeScript,
+Pruebas de sistemas web, manejo de BD PostgresSQL. 
+Documentación (Manual de usuario)
+Remediación de vulnerabilidades en C++
+Remediación de vulnerabilidades en JAVA
+Remediaciones y pruebas en sistema con lenguaje Coldfusion
+Control de cambios Git
+Migracion de componentes c++ 2003 a c++ 2017 con manejo de IA, principalmente github­copilot | Remediaciones de PHP
+manejo de API en TypeScript,
+Pruebas de sistemas web, manejo de BD PostgresSQL. 
+Documentación (Manual de usuario)
+Remediación de vulnerabilidades en C++
+Remediación de vulnerabilidades en JAVA
+Remediaciones y pruebas en sistema con lenguaje Coldfusion
+Control de cambios Git
+Migracion de componentes c++ 2003 a c++ 2017 con manejo de IA, principalmente github­copilot
+Herramientas: Visual studio code, pg admin, DBeaver, MobaXtreme, Winscp, SoapUI, Postman | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer.
+Empresa: Softtek-Metlife | Empresa: Softtek-Metlife | País: Mexico | Puesto: Desarrollador Java | Fecha de ingreso:
+09/2021 | Fecha de salida:
+11/2021
+Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo en java de web service REST utilizando lombock
+Mapeo JPA
+Creación de tablas, índices, secuencias y permisos a usuarios
+Análisis
+Diccionario de datos 
+Diagramas de flujo 
+Documentación 
+Gestión de bases de datos Oracle. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo en java de web service REST utilizando lombock
+Mapeo JPA
+Creación de tablas, índices, secuencias y permisos a usuarios
+Análisis
+Diccionario de datos 
+Diagramas de flujo 
+Documentación 
+Gestión de bases de datos Oracle. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo en java de web service REST utilizando lombock
+Mapeo JPA
+Creación de tablas, índices, secuencias y permisos a usuarios
+Análisis
+Diccionario de datos 
+Diagramas de flujo 
+Documentación 
+Gestión de bases de datos Oracle. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo en java de web service REST utilizando lombock
+Mapeo JPA
+Creación de tablas, índices, secuencias y permisos a usuarios
+Análisis
+Diccionario de datos 
+Diagramas de flujo 
+Documentación 
+Gestión de bases de datos Oracle. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo en java de web service REST utilizando lombock
+Mapeo JPA
+Creación de tablas, índices, secuencias y permisos a usuarios
+Análisis
+Diccionario de datos 
+Diagramas de flujo 
+Documentación 
+Gestión de bases de datos Oracle. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo en java de web service REST utilizando lombock
+Mapeo JPA
+Creación de tablas, índices, secuencias y permisos a usuarios
+Análisis
+Diccionario de datos 
+Diagramas de flujo 
+Documentación 
+Gestión de bases de datos Oracle.
+Herramientas: Oracle, Eclipse, SQL developer, Spring suite 4 | Programas que manejas: oracle developer, NetBeans, Eclipse | Programas que manejas: oracle developer, NetBeans, Eclipse | Programas que manejas: oracle developer, NetBeans, Eclipse | Programas que manejas: oracle developer, NetBeans, Eclipse | Programas que manejas: oracle developer, NetBeans, Eclipse
+Empresa: Softtek-Banorte | Empresa: Softtek-Banorte | País: Mexico | Puesto: Desarrollador Base de datos | Fecha de ingreso:
+01/2020 | Fecha de salida:
+07/2021
+Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Despliegues de aplicaciones war y ear en weblogic
+Cambios en harvest 
+Análisis
+Documentación 
+Revisión de logs y gestión de incidencias.
+Gestión de bases de datos Oracle. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Despliegues de aplicaciones war y ear en weblogic
+Cambios en harvest 
+Análisis
+Documentación 
+Revisión de logs y gestión de incidencias.
+Gestión de bases de datos Oracle. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Despliegues de aplicaciones war y ear en weblogic
+Cambios en harvest 
+Análisis
+Documentación 
+Revisión de logs y gestión de incidencias.
+Gestión de bases de datos Oracle. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Despliegues de aplicaciones war y ear en weblogic
+Cambios en harvest 
+Análisis
+Documentación 
+Revisión de logs y gestión de incidencias.
+Gestión de bases de datos Oracle. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Despliegues de aplicaciones war y ear en weblogic
+Cambios en harvest 
+Análisis
+Documentación 
+Revisión de logs y gestión de incidencias.
+Gestión de bases de datos Oracle. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Despliegues de aplicaciones war y ear en weblogic
+Cambios en harvest 
+Análisis
+Documentación 
+Revisión de logs y gestión de incidencias.
+Gestión de bases de datos Oracle.
+Herramientas: Oracle, Eclipse, Oracle, PLSQL, webLogic, harvest, winSP | Programas que manejas: oracle developer. | Programas que manejas: oracle developer. | Programas que manejas: oracle developer. | Programas que manejas: oracle developer. | Programas que manejas: oracle developer.
+Empresa: Enlace consultoria | Empresa: Enlace consultoria | País: Mexico | Puesto: Programador Java. | Fecha de ingreso:
+10/2019 | Fecha de salida
+04/20
+Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html. | Resumen de actividades: Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html.
+Herramientas: spring, java, jpa, hibernate, Oracle, Eclipse, Oracle, PLSQL, | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer.
+Empresa Llantas Atlacomulco S.A de C.V | Empresa Llantas Atlacomulco S.A de C.V | País Mexico | Puesto programador java | Fecha de ingreso:
+11/2018 | Fecha de salida:
+09/2019
+Resumen de actividades: 
+Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html. | Resumen de actividades: 
+Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html. | Resumen de actividades: 
+Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html. | Resumen de actividades: 
+Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html. | Resumen de actividades: 
+Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html. | Resumen de actividades: 
+Generar modelos de base de datos en UML.
+Desarrollo de procedimientos, triggers, y bloques plsql.
+Uso de metodología Rup para el ciclo de desarrollo.
+Se emplearon los frameworks de spring, struts, hibernate, para el funcionamiento óptimo y agregar nuevas funciones al sistema de pagos.
+Se agregaron CRUD de nuevas tablas en el sistema y se crearon en Oracle, creación de procedimiento almacenado para generar ticket de reservaciones.
+Módulos de reservaciones de todo el año. Desarrollo de web service para generar consultas a la bd y consultar clientes.
+Dejar en correcto funcionamiento los sitios web, equipos de cómputo clientes.
+Todo se programó con id eclipse, spring tool suite.
+Uso de jsp, json, y html.
+Experiencia Funcional:
+Herramientas:
+Herramientas: spring, java, jpa, hibernate, Eclipse, Oracle, PLSQL, webLogic, harvest | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer. | Programas que manejas: NeatBeans, eclipse, spring, oracle developer.
+EDUCACIÓN:
+Facultad, Universidad:  
+Universidad Politécnica de Atlacomulco | País: Mexico | Fechas: 2015-2019
+Nombre de la ingeniería:   Ingeniería en Sistemas Estratégicos de Información
+Certificaciones
+Cybersecurity -Awarness, Professional Certificacion CAPC
+Remote Work Professional Certificacion RWPC
+Scrum Foundation Certiprof
+Foundational C# with Microsoft
+DESARROLLO PROFESIONAL: (cursos tomados)
+Curso de fundamentos de Java EE
+Curso de Frameworks spring+hibernate
+Curso de servicios web en Java con Rest
+Curso de certificación Oracle Certified Associate Java SE 8 Programmer
+Diploma en curso de “Electrónica Aplicada a la Reparación de Laptop” por TECNOMEDIA.
+IDIOMAS:
+Español nativo, Inglés básico-intermedio
+HABILIDADES TÉCNICAS/ADMINISTRATIVAS:
+Perfil Primario: | Java, Base de datos
+Perfil Secundario: | redes
+Sistemas Operativos: | Windows, Linux (Kali. Ubuntu, Debian)
+Lenguajes de Programación: | Java, SQL, PHP, HTML, Javascript, C, ajax,plsql
+Bases de Datos: | Microsoft SQL Server, MySQL, Oracle

@@ -1,0 +1,116 @@
+Erick Daniel Lozoya Rosas
+Lider Técnico de atención de incidentes
+FUNCIONES
+Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos, evaluando la situación, tomando decisiones críticas y asegurando una comunicación efectiva para la resolución de incidentes. Cuento con habilidades en toma de decisiones y liderazgo. Me especializo en identificar y resolver incidentes en entornos productivos, realizando detección y diagnóstico de fallas, coordinando equipos técnicos y manteniendo comunicación efectiva con infraestructura y áreas de negocio para restablecer servicios y minimizar el impacto al negocio.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 5 años de experiencia en desarrollo de software, liderazgo técnico y atención y resolución de problemas. Poseo dominio de tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías open source. Adicionalmente, tengo 3 años de experiencia trabajando bajo metodologías ágiles.
+
+He trabajado en el desarrollo y mantenimiento de aplicaciones web y servicios backend, aplicando ColdFusion, C# (Lenguaje de programación para desarrollo backend), PHP (Lenguaje de desarrollo web), SQL (Lenguaje para gestión y consulta de bases de datos relacionales) y soluciones en la nube con AWS (Plataforma de servicios en la nube). Realizo correcciones de defectos, actualizaciones y mejoras, y empleo herramientas de control y escaneo de código para mantener la calidad del software.
+
+Me especializo en la identificación y resolución de incidentes en entornos productivos, realizando diagnóstico de fallas, coordinando equipos técnicos y estableciendo comunicación clara con áreas de infraestructura y negocio para restablecer servicios y minimizar el impacto operativo.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+System Engineer | Desde:
+1 marzo 2021 | Hasta: 
+A la fecha
+Actividades Principales | • Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operación de los aplicativos. Evalúo la situación, tomo decisiones críticas y aseguro la comunicación efectiva para resolver el incidente. Cuento con habilidades en toma de decisiones y liderazgo. Como líder técnico de atención de incidentes, planifico, controlo y doy seguimiento a la fase de resolución y estabilización, asegurando la correcta implementación de soluciones alineadas a la arquitectura de software, incluyendo patrones de diseño y cobertura de la aplicación. Tomo decisiones tecnológicas y de implementación adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de incidentes complejos para garantizar la continuidad operativa.
+• Comprendo la propuesta de negocio y las necesidades del cliente, aplicándolas en la atención y resolución de incidentes en entornos productivos, especialmente en servicios y plataformas críticas.
+• Defino planes de trabajo detallados para la atención de incidentes, priorizando actividades conforme a su severidad (P1–P4) y asegurando el cumplimiento de SLA/OLA.
+• Estimo y asigno tareas técnicas necesarias para la resolución de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.
+• Colaboro con el arquitecto en la definición de soluciones técnicas durante incidentes, asegurando alineación con la arquitectura y estándares establecidos.
+• Aseguro la aplicación de estándares de codificación y bases de datos durante la implementación de soluciones correctivas.
+• Asesoro y coordino a ingenieros de software en la atención de incidentes, especialmente en escenarios críticos o de alta complejidad.
+• Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atención de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeño.
+• Administro la configuración de los componentes involucrados en la solución de incidentes, asegurando control y trazabilidad de cambios.
+• Desarrollo y/o coordino implementaciones de solución (fixes, hotfixes) para restaurar servicios afectados.
+• Aseguro la aplicación de checklists en la validación de soluciones antes de su liberación a producción.
+• Coordino la integración de componentes técnicos dentro de la arquitectura para garantizar una recuperación estable del servicio.
+• Defino prioridades en cada iteración de atención de incidentes, enfocándome en minimizar el impacto al negocio.
+• Promuevo la aplicación de patrones de diseño en las soluciones implementadas para evitar recurrencias.
+• Participo en la definición de esquemas de integración entre aplicaciones durante la resolución de incidentes.
+• Coordino la atención de incidentes críticos (Major Incidents), liderando convocatorias, toma de decisiones técnicas y comunicación durante la contingencia.
+• Identifico la causa raíz de incidentes y lidero análisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.
+• Trabajo en entornos de operación continua, asegurando la estabilidad y continuidad del servicio después de la resolución de incidentes.
+• Actúo como punto de escalamiento técnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.
+• Genero resultados medibles en la mejora de la operación, reduciendo tiempos de atención, reincidencias e impacto al negocio.
+• Mantengo una trayectoria continua en roles de atención y gestión de incidentes, consolidando experiencia en entornos productivos.
+• He aplicado el diploma en Computación y modelado matemático y numérico para aplicar técnicas de cómputo, modelado matemático y métodos numéricos en la resolución de problemas complejos
+• He aplicado la certificación Certified PHP Developer para desarrollar aplicaciones web utilizando PHP y fundamentos de desarrollo web
+• He puesto en práctica la certificación Adobe Certified Professional – Adobe ColdFusion para desarrollar y mantener aplicaciones web utilizando la plataforma Adobe ColdFusion
+• He aprovechado la certificación AWS Certified Cloud Practitioner para aplicar fundamentos de computación en la nube, servicios de AWS, seguridad y modelos de costos
+• He incorporado la certificación Cybersecurity Awareness Professional Certification para aplicar prácticas de concientización en ciberseguridad y protección de la información
+• He utilizado la certificación Remote Work Professional Certification para aplicar buenas prácticas de trabajo remoto, colaboración digital y productividad distribuida
+• He aplicado la certificación Scrum Fundamentals Certified para aplicar los principios básicos del marco de trabajo Scrum en proyectos ágiles
+• He puesto en práctica la certificación Scrum Developer Certified para aplicar prácticas ágiles y técnicas Scrum orientadas al desarrollo de software
+• He integrado la certificación Scrum for Operations  DevOps Fundamentals Certified para aplicar principios ágiles en entornos de operaciones y DevOps
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek: CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.
+• CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.
+• STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.
+• STE: Ejecuto escenarios de prueba.
+• INT: Diseño y preparo testware.
+• UAT: Apoyo en las actividades de pruebas del usuario.
+• Trabajo como desarrollador backend utilizando tecnologías como ColdFusion, PHP, ASP, SQL Server y GitLab para dar mantenimiento y actualizar aplicaciones web.
+• Soluciono problemas de código, defectos del sistema y vulnerabilidades utilizando ColdFusion, PHP y ASP en aplicaciones web.
+• Utilizo herramientas de escaneo de vulnerabilidades y defectos como Checkmarx para mejorar la sanidad del código.
+• Trabajé como desarrollador backend en un sistema para una compañía de seguros en Perú, donde desarrollé servicios web y aplicaciones web con C# en ASP MVC, utilizando también SQL Server.
+• Realicé el desarrollo del rediseño completo de un sistema interno, adaptando las tecnologías a una versión más actualizada.
+• Creé y di mantenimiento a APIs REST utilizando .NET Core para implementarlas en el desarrollo Frontend.
+Empresa
+EISEI Innovation | Puesto
+Net Developer | Desde:
+2 mayo 2019 | Hasta: 
+28 febrero 2021
+Actividades Principales | • Trabajé como desarrollador backend en un sistema para una compañía de seguros en Perú, donde desarrollé servicios web y aplicaciones web con C# en ASP MVC, utilizando también SQL Server.
+• Realicé el desarrollo del rediseño completo de un sistema interno, adaptando las tecnologías a una versión más actualizada.
+• Creé y di mantenimiento a APIs REST utilizando .NET Core para implementarlas en el desarrollo Frontend.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Adobe Certified Professional – Adobe ColdFusion
+- AWS Certified Cloud Practitioner
+- Cybersecurity Awareness Professional Certification (CAPC™) – CertiProf
+- Remote Work Professional Certification (RWPC™) – CertiProf
+- Scrum Fundamentals Certified (SFC™) – SCRUMstudy
+- Scrum Developer Certified (SDC®) – SCRUMstudy
+- Scrum for Operations  DevOps Fundamentals Certified (SODFC™) – SCRUMstudy
+- Computación y modelado matemático y numérico
+- Certified PHP Developer – W3Schools
+- ColdFusion
+- C#
+- PHP
+- Javascript
+- TypeScript
+- PostgreSQL
+- SQL Server
+- DynamoDB
+- MySQL
+- GitLab
+- TFS
+- Amazon Web Services
+- Checkmarx
+- Lambda
+- API Gateway
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 agosto de 2018 hasta 30 abril de 2019
+Durante este período asumí responsabilidades en desarrollo, mantenimiento y soporte de aplicaciones y plataformas en la nube mediante AWS (Plataforma de servicios en la nube). Me desempeñé en puestos como System Engineer, Net Developer y Cloud Engineer, trabajando en implementación y modernización de sistemas, creación y consumo de APIs, y mantenimiento de bases de datos con SQL (Lenguaje para gestión y consulta de bases de datos relacionales). Participé en soporte productivo, resolución de fallas y despliegues coordinados, colaborando con equipos de desarrollo e infraestructura para asegurar la continuidad y disponibilidad de los servicios.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en Software - noviembre 2016 a diciembre 2019 | Universidad Politécnica de Durango, Durango, Durango | Cédula Profesional
+14621831
+16/12/2024
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Adobe Certified Professional – Adobe ColdFusion | 2022-2026
+- AWS Certified Cloud Practitioner | 2022-2025
+- Cybersecurity Awareness Professional Certification (CAPC™) – CertiProf | 2027
+- Remote Work Professional Certification (RWPC™) – CertiProf | 2024-2027
+- Scrum Fundamentals Certified (SFC™) – SCRUMstudy | 2022
+- Scrum Developer Certified (SDC®) – SCRUMstudy | 2023-2026
+- Scrum for Operations  DevOps Fundamentals Certified (SODFC™) – SCRUMstudy | 2024
+CURSOS
+- Computación y modelado matemático y numérico
+- Certified PHP Developer – W3Schools
+______________________________________
+Erick Daniel Lozoya Rosas
+Lider Técnico de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

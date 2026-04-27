@@ -1,0 +1,115 @@
+Jessica Irene Ramos Ramírez
+Analista Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 1 año de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, me ocupo de descubrir, sintetizar y analizar información procedente de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas.
+
+He trabajado en la identificación y formalización de requerimientos, diseño de pantallas y creación de historias de usuario, así como en la evaluación y seguimiento de cuestionarios y controles de seguridad. Aporto continuidad en el servicio mediante documentación clara, validación con Partes interesadas y soporte a equipos de implementación, buscando siempre mejorar procesos y reducir riesgos operativos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek - CITI Banamex CDMX | Puesto
+Analista de Seguridad | Desde:
+1 septiembre 2022 | Hasta: 
+31 enero 2026
+Actividades Principales | • Recojo, analizo y represento los requerimientos solicitados. Registro la propuesta de solución en los entregables pertinentes. Habilidades en: Recopilación de información, análisis e interpretación de datos, identificación de patrones y oportunidades de mejora, generación de documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.
+• Entiendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.
+• Involucro a los Partes interesadas para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.
+• Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a las Partes interesadas ejecutar sus procesos de negocio con eficacia y facilidad.
+• Diseño la solución funcional que satisface los requerimientos de las Partes interesadas, junto con la estrategia de implementación necesaria para generar valor al negocio.
+• Aseguro que la solución sea aprobada conscientemente por las Partes interesadas, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.
+• He usado la certificación The Complete UML Course: Learn to Design UML Diagrams como curso de modelado de sistemas con Lenguaje Unificado de Modelado (UML).
+• He aplicado la certificación Domina SCRUM con JIRA Agile – Metodologías Ágiles como curso de Scrum aplicado con JIRA.
+• He usado la certificación UX: Máster en Diseño web y Experiencia de Usuario como curso de diseño UX y experiencia de usuario.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+GUI: Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.
+INT: Proveo las entradas necesarias para la integración de sistemas.
+STD: Participo en las actividades de diseño de pruebas de sistema.
+STE: Participo en la ejecución de las pruebas de sistema.
+DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+UAT: Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.
+• Tomo sesiones para ISR (Information Security Review) de los diferentes proyectos.
+• Reviso plataformas (RRP, Jira (Herramienta de gestión ágil y seguimiento de issues/sprints), Confluence (Documentación colaborativa y base de conocimiento), PTS).
+• Asigno preguntas para generar el cuestionario de evaluación de seguridad de cada proyecto.
+• Reviso cuestionarios contestados por el App Manager del CSI.
+• Reviso artefactos en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) (Épicas, US, Small Enhancement).
+• Reviso y doy seguimiento a correos.
+• Reviso estándares y políticas de CITI de acuerdo a la necesidad del proyecto.
+• Evalúo cuestionarios Time Trigger.
+• Evalúo cuestionarios SDM.
+• Evalúo de CART.
+• Evalúo cuestionario ICQ.
+• Reviso cuestionario CCMq para evaluación de terceros.
+• Evalúo Self-Assessment.
+• Realizo análisis de seguridad para diferentes escenarios.
+• Reviso controles compensatorios.
+• Hago seguimiento a Indicadores de Riesgo.
+• Registro y doy seguimiento de status - proyectos para las liberaciones a producción.
+• Analizo el requerimiento del usuario.
+• Identifico y analizo riesgos potenciales para la toma de acciones preventivas.
+• Realizo el diseño de pantallas mediante la creación de maquetas.
+• Creo Historias de Usuario para establecer y formalizar los requerimientos del usuario.
+• Participo en sesiones para presentar las Historias de Usuario generadas.
+• Valido y actualizo tanto las Historias de Usuario como las maquetas de acuerdo con las observaciones del cliente.
+• Presento al equipo de desarrollo las Historias de Usuario validadas por el Propietario del Producto (Product Owner).
+• Brindo soporte a equipos de desarrollo.
+• Realizo sesiones de aclaración de dudas para Historias de Usuario y defectos.
+• Apoyo en análisis de defectos.
+• Apoyo al equipo de desarrollo para pruebas funcionales.
+Empresa
+Softtek - Citi Banamex Ciudad de México | Puesto
+Analista de Negocio | Desde:
+1 noviembre 2021 | Hasta: 
+31 agosto 2022
+Actividades Principales | • Analizo el requerimiento del usuario.
+• Identifico y analizo riesgos potenciales para la toma de acciones preventivas.
+• Realizo el diseño de pantallas mediante la creación de maquetas.
+• Creo Historias de Usuario para establecer y formalizar los requerimientos del usuario.
+• Participo en sesiones para presentar las Historias de Usuario generadas.
+• Valido y actualizo tanto las Historias de Usuario como las maquetas de acuerdo con las observaciones del cliente.
+• Presento al equipo de desarrollo las Historias de Usuario validadas por el Propietario del Producto (Product Owner).
+• Brindo soporte a equipos de desarrollo.
+• Realizo sesiones de aclaración de dudas para Historias de Usuario y defectos.
+• Apoyo en análisis de defectos.
+• Apoyo al equipo de desarrollo para pruebas funcionales.
+Empresa
+AppWhere Banco ACCENDO Ciudad de México | Puesto
+Analista de Negocio | Desde:
+1 julio 2021 | Hasta: 
+30 septiembre 2021
+Actividades Principales | • Reviso manuales de usuario para familiarizarme con la plataforma.
+• Analizo los diferentes módulos del sistema.
+• Creo el documento de requerimiento con las funcionalidades de la banca actual y la propuesta de mejora.
+• Realizo los diagramas Lenguaje Unificado de Modelado (UML).
+HERRAMIENTAS CONOCIDAS
+- JIRA
+- Confluence
+- MS Visio
+- Lenguaje Unificado de Modelado (UML)
+- Microsoft Office
+- Lucidchart
+- Modelización de Datos
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 septiembre de 2017 hasta 30 junio de 2021
+Durante este período me desempeñé en roles como Analista Funcional y Analista Documental, asumiendo responsabilidades de levantamiento y formalización de requerimientos, elaboración de documentación técnica y funcional, y creación de diagramas y prototipos. Trabajé en la validación de entregables con usuarios y en el soporte a equipos de desarrollo y pruebas, manteniendo la coherencia de la información y control de cambios para garantizar continuidad operacional y calidad en las entregas.
+FORMACIÓN ACADÉMICA:
+Licenciatura en Ciencias de la Informática - 1 agosto 2013 - 31 julio 2017 | IPN, UPII SAC Ciudad de México | Cédula Profesional
+12522238
+10/11/2021
+CURSOS
+- The Complete UML Course: Learn to Design UML Diagrams
+- Domina SCRUM con JIRA Agile – Metodologías Ágiles
+- UX: Máster en Diseño web y Experiencia de Usuario
+______________________________________
+Jessica Irene Ramos Ramírez
+Analista Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

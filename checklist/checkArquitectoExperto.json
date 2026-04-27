@@ -1,0 +1,126 @@
+{
+    "capacidadRecursosHumanos": {
+        "experiencia": [
+            {
+                "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 3 años de experiencia comprobada en centros de desarrollo de software,  así como 5 años  de experiencia en análisis de sistemas y manejo de equipos de trabajo ?",
+                "detalle": "Para el rol del Arquitecto de soluciones Al menos 3 años de experiencia en centros de desarrollo de software y 5 años en análisis de sistemas y manejo de equipos de trabajo.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita que al menos tiene 3 años de experiencia comprobada en en centros de desarrollo?",
+                "detalle": "Adicional: Al menos 3 años de experiencia en desarrollo en metodologías ágiles",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita experiencia validando la integración sistémica de componentes para asegurar congruencia con el flujo de negocio y de información.",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita  Experiencia en fases como visión, requisitos, arquitectura de negocio, arquitectura de sistemas de información y arquitectura tecnológica.?",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita haber establecido procesos de control y cumplimiento de estándares de arquitectura en proyectos.?",
+                "detalle": "Gobernanza de arquitectura: Haber establecido procesos de control y cumplimiento de estándares de arquitectura en proyectos.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita experiencia en el uso de herramientas de modelado (ArchiMate, Sparx EA, Visio, etc.) para documentar arquitecturas.?",
+                "detalle": "Modelado y documentación: Uso de herramientas de modelado (ArchiMate, Sparx EA, Visio, etc.) para documentar arquitecturas.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita la participación en proyectos de migración a la nube, modernización de aplicaciones o integración de sistemas, aplicando TOGAF como marco de referencia.?",
+                "detalle": "Transformación digital: Participación en proyectos de migración a la nube, modernización de aplicaciones o integración de sistemas, aplicando TOGAF como marco de referencia.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita experiencia en comunicar arquitecturas y roadmaps a directivos, equipos técnicos y usuarios clave.",
+                "detalle": "Gestión de stakeholders: Experiencia en comunicar arquitecturas y roadmaps a directivos, equipos técnicos y usuarios clave.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita haber demostrado cómo las soluciones tecnológicas propuestas se alinean con los objetivos de negocio?",
+                "detalle": "Alineación estratégica: Haber demostrado cómo las soluciones tecnológicas propuestas se alinean con los objetivos de negocio.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita Integración de TOGAF con metodologías ágiles (Scrum, SAFe) o tradicionales (PMI, PRINCE2).",
+                "detalle": "Metodologías de trabajo: Integración de TOGAF con metodologías ágiles (Scrum, SAFe) o tradicionales (PMI, PRINCE2).",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+                "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+                "detalle": "Fechas correctas en el periodo de experiencia: La fecha Desde, debe ser un mes posterior a la última fecha Hasta, los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+                "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV documenta proyectos (grandes/críticos) resaltando habilidades en: Gestión de proyectos Liderazgo?",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV presenta numeralia (años, FTEs, presupuesto, metodología, resultados medibles) para contextualizar el alcance gestionado?",
+                "detalle": "años, alcance, equipo gestionado, metodología y resultados medibles.",
+                "resultado": ""
+            }
+        ],
+         "dominioHerramientas": [
+            {
+                "concepto": "¿El candidato cuenta con certificaciones?",
+                "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar el dominio de herramientas señaladas - Certificaciones",
+                "detalle": "Adicional es deseable alguna de las siguientes certificaciones vigente: TOGAF 9 Foundation",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar conocimiento comprobable en las tecnologías descritas - Cursos TOGAF 9 Foundation (The Open Group Architecture Framework)",
+                "detalle": "Conocimiento comprobable en las tecnologías descritas en la introducción del documento Anexo Staff TOGAF 9 Foundation (The Open Group Architecture Framework)",
+                "resultado": ""
+            }
+        ]
+    },
+        "dominioHerramientas": [
+             {
+                "concepto": "¿El CV evidencia uso profesional de Uso de herramientas de modelado y documentación de arquitectura empresarial.",
+                "detalle": "Dominio de herramientas relacionadas con el Uso de herramientas de modelado y documentación de arquitectura empresarial. Aclarar que ha sido en proyectos grandes/críticos",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita Capacidad para evaluar rendimiento, escalabilidad y seguridad de soluciones tecnológicas.?",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV evidencia dominio Lenguajes de modelado de arquitecturas empresariales.?",
+                "detalle": "ArchiMate: Lenguaje de modelado de arquitecturas empresariales.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV evidencia dominio de herramientas para modelado TOGAF y ArchiMate?",
+                "detalle": "Sparx Enterprise Architect o Visual Paradigm: Herramientas para modelado TOGAF y ArchiMate.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV evidencia dominio en diagramación de procesos y arquitecturas.?",
+                "detalle": "Microsoft Visio o Lucidchart: Diagramación de procesos y arquitecturas.",
+                "resultado": ""
+            }
+    ]
+    
+}

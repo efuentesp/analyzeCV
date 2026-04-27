@@ -1,0 +1,420 @@
+
+
+--- Página 1 ---
+
+H e c t o r   E d m u n d o   O r t e g a   C o r r e a
+P E R F I L
+S o y   L i c e n c i a d o   e n   I n f o r m á t i c a   c o n   m á s   d e   1 0   a ñ o s   d e   e x p e r i e n c i a ,   d e s e m p e ñ a n d o   d i s t i n t a s   a c t i v i d a d e s   t a l e s   c o m o :   A n á l i s i s   y   e x p l o t a c i ó n   d e
+i n f o r m a c i ó n   e n   a m b i e n t e s   p r o d u c t i v o s   B I   y   D a t a   W a r e h o u s e ;   e n   p r o c e s o s   d e   M i n e r í a   d e   D a t o s ,   e n   p r o y e c t o s   d e   D a t a   Q u a l i t y   y   e n   l a
+g e n e r a c i ó n   y   m e d i c i ó n   d e   i n d i c a d o r e s   e   i n f o r m e s   d e   d e s e m p e ñ o   c o n   p l a t a f o r m a s   B I   d e   a n á l i s i s   v i s u a l .   M e   h e   f o r m a d o   p r i n c i p a l m e n t e   e n   e l   g i r o
+B a n c a r i o ,   p a r t i c i p a n d o   d e   f o r m a   a c t i v a   e n   p r o c e s o s   d e   g e n e r a c i ó n   y   e n t r e g a   d e   I n f o r m a c i ó n   c o r r e s p o n d i e n t e   a   p ó l i z a s   e n   S e g u r o s   B a n c o m e r ;
+a s í   c o m o   e n   e l   d i s e ñ o   e   i m p l e m e n t a c i ó n   d e   e s t r a t e g i a s   e m p r e s a r i a l e s   p a r a   m e j o r a r   l a   c a l i d a d   d e   l o s   d a t o s   d e   c l i e n t e s   b a n c a r i o s   e n   B a n c o
+S a n t a n d e r .   A d i c i o n a l   a   e s t o ,   h e   t e n i d o   e l   r e t o   d e   m e j o r a r   l o s   p r o c e s o s ,   y a   s e a   p a r a   r e d u c i r   l o s   t i e m p o s   d e   p r o c e s a m i e n t o   a c t u a l e s   o   b i e n ,   p a r a
+m e j o r a r   l o s   r e p o r t e s   o   s a l i d a s   d e   i n f o r m a c i ó n .   P a r t i c i p é   t a m b i é n   c o n   A T & T ,   h a c i e n d o   a n á l i s i s   d e   s i s t e m a s   f u e n t e   d e   A M D O C S   y   l e g a d o s ,   p a r a
+e l   d e s a r r o l l o   d e   D a t a   M a r t s .   P a r t i c i p é   c o n   l a   e m p r e s a   “ E l   P u e r t o   d e   L i v e r p o o l ” ,   p a r a   e l   á r e a   d e   S i s t e m a s   L o g í s t i c o s ,   c o n   e l   f i n   d e   p o d e r   e x t r a e r
+y   t r a n s f o r m a r   l a   i n f o r m a c i ó n   d e   l o s   p e d i d o s ,   a s í   c o m o   d e   s u   T r a z o   L o g í s t i c o .   E n   l o s   ú l t i m o s   a ñ o s   f u i   a s i g n a d o   a l   s e c t o r   p ú b l i c o ,   c o m e n z a n d o
+c o m o   a n a l i s t a   p a r a   B a n o b r a s ,   y   t i e m p o   d e s p u é s ,   p a r a   e l   I n s t i t u t o   M e x i c a n o   d e l   S e g u r o   S o c i a l .   M i   ú l t i m a   a s i g n a c i ó n   f u e   e n   e l   I n s t i t u t o   F e d e r a l
+d e   T e l e c o m u n i c a c i o n e s ,   p a r a   u n   p r o y e c t o   d e   m i g r a c i ó n   y   a u t o m a t i z a c i ó n   d e   p r o c e s o s   p a r a   e l   P o r t a l   B I T .
+E X P E R I E N C I A   P R O F E S I O N A L
+S o f t t e k C D M X   ­   A n a l i s t a   ­   I F T D e :   F e b ,   2 0 2 3   A :   A p r ,   2 0 2 4
+D e s c r i p c i ó n :
+A n á l i s i s   d e   l o s   p r o c e d i m i e n t o s   p a r a   c o n s o l i d a r ,   p r o c e s a r   y   p u b l i c a r   l a   i n f o r m a c i ó n   p r o p o r c i o n a d a   p o r   O p e r a d o r e s   n a c i o n a l e s   d e
+t e l e c o m u n i c a c i o n e s ,   a s í   c o m o   d e   r e g u l a d o r e s   i n t e r n a c i o n a l e s   d e   l a   i n d u s t r i a ,   p a r a   l a   a l i m e n t a c i ó n   d e   t a b l e r o s   y   d a s h b o a r d s   e n   e l   p o r t a l   B I T   –
+B a n c o   d e   I n f o r m a c i ó n   d e   T e l e c o m u n i c a c i o n e s .
+A n á l i s i s   d e   l a s   s e c c i o n e s   d e l   P o r t a l   B I T   p a r a   l a   i d e n t i f i c a c i ó n   d e   t a b l e r o s   y   d a s h b o a r d s   r e q u e r i d o s ,   a s í   c o m o   e l   n i v e l   d e   c o m p l e j i d a d   p a r a   s u
+d e s a r r o l l o   e   i m p l e m e n t a c i ó n ,   d e   a c u e r d o   a l   s e c t o r   ( T e l e c o m u n i c a c i o n e s   F i j a s ,   T e l e c o m u n i c a c i o n e s   M ó v i l e s ,   U s o   y   E x p l o t a c i ó n   d e l   E s p e c t r o
+R a d i o e l é c t r i c o )   o   s e c c i ó n   ( D a t o s   R á p i d o s   e n   u n   C l i c k ,   I n d i c a d o r e s   I n t e r n a c i o n a l e s   d e   l o s   S e r v i c i o s   d e
+T e l e c o m u n i c a c i o n e s ,   E s t a d í s t i c a s   e n   l a   I n d u s t r i a   c o n   P e r s p e c t i v a   d e   G é n e r o ,   E n c u e s t a s   s o b r e   l a   D i s p o n i b i l i d a d   y   U s o   d e   l a s   T e c n o l o g í a s   d e
+I n f o r m a c i ó n   y   C o m u n i c a c i ó n   ( T I C )   y   d e l   S e c t o r   d e   l a s   T e l e c o m u n i c a c i o n e s   y   R a d i o d i f u s i ó n ) .
+R e v i s i ó n   y   a n á l i s i s   d e   l o s   p r o c e s o s   a u t o m a t i z a d o s   a c t u a l e s   e n   l a   p l a t a f o r m a   S A S   d e l   c l i e n t e ,   a s í   c o m o   d e   l o s   d i f e r e n t e s   m ó d u l o s   q u e   c o n f o r m a n
+e l   p o r t a l   B I T ,   p a r a   c r e a r   l a   e s t r u c t u r a   d e   l o s   3   e s q u e m a s   d e   b a s e s   d e   d a t o s   ( c a p a   S t a g i n g ,   O D S   y   D a t a   M a r t )   e n   l o s   s e r v i d o r e s   d e   D e s a r r o l l o
+d e   S Q L   S e r v e r .
+C a r g a   d e   f u e n t e s   d e   i n f o r m a c i ó n   e   i n s u m o s ,   a   t r a v é s   d e   s c r i p t s   i m p l e m e n t a d o s   c o n   P o w e r S h e l l ,   h a c i a   l a   c a p a   S t a g i n g   d e l   s e r v i d o r   d e
+D e s a r r o l l o .
+C r e a c i ó n   d e   s c r i p t s   p a r a   l a s   t r a n s f o r m a c i o n e s   d e   d a t o s   d e s d e   l a   c a p a   O D S   y   D a t a   M a r t .
+D e s a r r o l l o   d e   p r o c e s o s   E T L s   e n   S S I S   p a r a   l a   e x t r a c c i ó n ,   t r a n s f o r m a c i ó n   y   c a r g a   d e   i n f o r m a c i ó n   h a c i a   l o s   3   e s q u e m a s   d e   b a s e s   d e   d a t o s
+( c a p a   S t a g i n g ,   O D S   y   D a t a   M a r t )   e n   l o s   s e r v i d o r e s   d e   Q A   d e   S Q L   S e r v e r .
+D o c u m e n t a c i ó n   d e   f u e n t e s   d e   i n f o r m a c i ó n   ( A r c h i v o s   d e   P r e s e n t a c i ó n   q u e   c o n f o r m a n   e l   a c e r v o   e s t a d í s t i c o   d e l   I n s t i t u t o   d e l   s e c t o r   d e
+t e l e c o m u n i c a c i o n e s ,   C a t á l o g o s   d e   C l a v e s   d e   I n f o r m a c i ó n   d e l   I F T   y   A r c h i v o s   d e   t r a b a j o   c o m p l e m e n t a r i o s   p a r a   l o s   p r o c e s o s   d e
+T e l e c o m u n i c a c i o n e s   F i j a s   y   M ó v i l e s ) .
+D o c u m e n t a c i ó n   d e   r e g l a s   d e   n e g o c i o   y   w o r k f l o w s ,   a   p a r t i r   d e   l o s   s c r i p t s   e x i s t e n t e s   d e n t r o   d e   l a   p l a t a f o r m a   S A S .
+D o c u m e n t a c i ó n   d e   m a t r i c e s   O r i g e n ­ D e s t i n o   p a r a   i n t e g r a r   l a   c a p a   S t a g i n g   d e n t r o   d e l   s e r v i d o r   d e   D e s a r r o l l o .
+A p o y o   e n   a c t i v i d a d e s   d e   m o n i t o r e o   d e   u s u a r i o s ,   s e s i o n e s   y   p r o c e s o s   a c t u a l e s   e n   l a   i n s t a n c i a   d e   S Q L   S e r v e r   Q A .
+A n á l i s i s ,   d e s a r r o l l o   y   d o c u m e n t a c i ó n   d e   p r o c e s o s   p a r a   l a   i n t e g r a c i ó n   d e   d a t o s   p r o v e n i e n t e   d e   1 6 4   a r c h i v o s   d e   p r e s e n t a c i ó n   e n t r e g a d o s   p o r   l o s
+O p e r a d o r e s   d e   t e l e c o m u n i c a c i o n e s ,   p a r t i e n d o   d e s d e   l a   e t a p a   d e   c a r g a   y   v a l i d a c i ó n   d e   d a t o s   h a s t a   l a   c o n f o r m a c i ó n   d e   t a b l a s   f i n a l e s   c o n   c i f r a s
+v a l i d a d a s .
+L l e v a r   a   c a b o   l a s   s e s i o n e s   d e   e n t e n d i m i e n t o   t é c n i c o   y   “ K n o w l e d g e   T r a n s f e r ”   d e   l o s   p r o c e s o s   d e s a r r o l l a d o s   c o n   l o s   u s u a r i o s   f i n a l e s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+S A S   E n t e r p r i s e   G u i d e ,   M i c r o s o f t   S Q L   S e r v e r ,   M i c r o s o f t   S Q L   S e r v e r   I n t e g r a t i o n   S e r v i c e s   ( S S I S ) ,   P o w e r S h e l l
+S o f t t e k C i u d a d   d e   M e x i c o   ­   P r o y e c t o   I M S S
+I n t e l i g e n t e   l o s   D a t o s   H a b l a nD e :   D e c ,   2 0 1 9   A :   D e c ,   2 0 2 2
+D e s c r i p c i ó n :
+A n á l i s i s   d e   l o s   p r o c e s o s   i n v o l u c r a d o s   p a r a   l a   g e n e r a c i ó n   m e n s u a l   d e l   T a b l e r o   d e   I n d i c a d o r e s   p a r a   l a   D i r e c c i ó n   d e   I n n o v a c i ó n   y   D e s a r r o l l o
+T e c n o l ó g i c o   ( D I D T ) ,   y   q u e   e l   d í a   d e   h o y   e s   c o n t r o l a d o   p o r   l a   D i v i s i ó n   d e   A r q u i t e c t u r a   ( D A ) ,   e n   e l   c u a l   s e   c o n c e n t r a   l a   m e d i c i ó n   d e   d i v e r s o s
+T r á m i t e s   y   S e r v i c i o s   D i g i t a l e s   a d m i n i s t r a d o s   p o r   e l   I n s t i t u t o .
+D o c u m e n t a c i ó n   d e   m a t r i z   O r i g e n ­ D e s t i n o   p a r a   e l   r e p o s i t o r i o   d e   i n f o r m a c i ó n   q u e   c o n f o r m a   e l   D a t a M a r t   A F I C O B R A N Z A ,   u t i l i z a d o   p a r a   c o n s u l t a
+d e   l o s   u s u a r i o s   d e l   I n s t i t u t o .
+G e n e r a c i ó n   m a n u a l   d e   m é t r i c a s   p a r a   d i v e r s o s   T r á m i t e s   y   S e r v i c i o s   D i g i t a l e s ,   a   t r a v é s   d e   i n f o r m e s   o   r e p o r t e s ,   s o l i c i t a d o s   p o r   l a s   d i s t i n t a s
+c o o r d i n a c i o n e s   y / o   d i v i s i o n e s   d e l   I n s t i t u t o .   E n t r e   e s t o s   r e p o r t e s   d e s t a c a n   e l   I n f o r m e   d e   L a b o r e s   y   P r o g r a m a   d e   A c t i v i d a d e s   ( I L P A )   d e l   I n s t i t u t o ,
+y   l o s   r e p o r t e s   d e   T r á m i t e s   y   S e r v i c i o s   D i g i t a l e s   a   n i v e l   D e l e g a c i o n a l ,   l o s   c u a l e s   c o n s i d e r a n   c i f r a s   h i s t ó r i c a s   a c u m u l a d a s   d e   l a s   s o l i c i t u d e s   d e
+C i t a s   M é d i c a s   y   D e n t a l e s ,   a s í   c o m o   d e   l a s   C o r r e c c i o n e s   d e   D a t o s   d e l   A s e g u r a d o .
+
+--- Página 2 ---
+
+A p o y o   e n   a c t i v i d a d e s   p a r a   l a   m i g r a c i ó n   d e   t a b l e r o s   a n a l í t i c o s ,   d e s a r r o l l a d o s   a   p a r t i r   d e   l a s   v e r s i o n e s   a n t i g u a s   d e   T a b l e a u   y   a c t u a l i z a r l o s   a   l a s
+v e r s i o n e s   m á s   r e c i e n t e s   d e   l a   p l a t a f o r m a ,   a s í   c o m o   e n   l a   c r e a c i ó n   d e   p e r f i l e s   p a r a   e l   a c c e s o   a   l o s   m i s m o s ,   i n c l u y e n d o   p e r m i s o s   y   d e f i n i c i ó n   d e
+l o s   g r u p o s   d e   u s u a r i o s   y   r o l e s .   ·   A p o y o   e n   a c t i v i d a d e s   d e   a n á l i s i s   p a r a   l a   m i g r a c i ó n   d e   i n f o r m a c i ó n   d e   l a   B a s e   d e   D a t o s   d e l   a p l i c a t i v o   S I M O C
+h a c i a   e l   s i s t e m a   d e   a p l i c a c i o n e s   d e   p r o c e s a m i e n t o   d i s t r i b u i d o   d e   d a t o s   H a d o o p .   L a s   a c t i v i d a d e s   i n c l u y e n :   R e v i s i ó n   d e   e n t i d a d e s   y   c a m p o s   c o n
+l o s   u s u a r i o s   r e s p o n s a b l e s   d e l   a p l i c a t i v o   y   l l e n a d o   d e   M a t r i z   d e   I n g e s t a   p a r a   f u e n t e   d e   d a t o s ;   a c t i v i d a d e s   p a r a   a u t o m a t i z a c i ó n   d e   f u e n t e   P A U   e n
+H a d o o p ,   l a s   c u a l e s   c o n t e m p l a n   l a   c o d i f i c a c i ó n   e n   p l a t a f o r m a   M o b a X t e r m   d e   a r c h i v o s   S q o o p ,   H q l   y   s h e l l s   p a r a   l a   a u t o m a t i z a c i ó n   d e   c a p a s   d e
+i n g e s t a   d e   d a t o s ,   l i m p i e z a   d e   d a t o s   y   c a p a   t é c n i c a ;   c o n f i g u r a c i ó n   d e   o b j e t o s   y   r u t a s   d e   c a d a   c a p a   d e n t r o   d e   p l a t a f o r m a   o n l i n e   N I F I   d e l   I n s t i t u t o .
+A n á l i s i s   y   d e f i n i c i ó n   d e   l o s   r e q u e r i m i e n t o s   y   d e   l a s   r e g l a s   d e   n e g o c i o   p a r a   a u t o m a t i z a r   l a   c o n s u l t a   d e   c i f r a s   d e l   I n f o r m e   d e   L a b o r e s   Y   P r o g r a m a
+d e   A c t i v i d a d e s   d e l   I n s t i t u t o   M e x i c a n o   d e l   S e g u r o   S o c i a l   ( I L P A ) ,   e l   c u a l   c o n c e n t r a   e l   p e r f o r m a n c e   d e   u n   c o n j u n t o   d e   T r á m i t e s   y   S e r v i c i o s
+D i g i t a l e s   a d m i n i s t r a d o s   p o r   l a   D i r e c c i ó n   d e   I n n o v a c i ó n   y   D e s a r r o l l o   T e c n o l ó g i c o   ( D I D T ) ,   y   q u e   s o n   d e   g r a n   i n t e r é s   p a r a   l a   A s a m b l e a   G e n e r a l
+d e l   I n s t i t u t o ,   p o r   t r a t a r s e   d e   u n   i n s t r u m e n t o   i m p o r t a n t e   d e   t r a n s p a r e n c i a   y   r e n d i c i ó n   d e   c u e n t a s .
+A p o y o   e n   a c t i v i d a d e s   p a r a   e l   d e s a r r o l l o   d e   u n   p r o c e s o   a u t o m a t i z a d o   e n   O r a c l e   D a t a   I n t e g r a t o r   ( O D I ) ,   q u e   p e r m i t a   e x t r a e r   l o s   d a t o s
+c o r r e s p o n d i e n t e s   a   l o s   C u r s o s   e n   L í n e a   d e l   I n s t i t u t o   ( C L I M S S ) .
+L o g r o s :
+D e s a r r o l l a r   l a   n u e v a   e s t r u c t u r a   d e   I n f o g r a f í a   d e l   I n s t i t u t o   q u e   p e r m i t e   o p t i m i z a r   e l   p r o c e s o   d e   c a r g a ,   p r o c e s a m i e n t o   y   e x p l o t a c i ó n   d e
+i n f o r m a c i ó n   g e n e r a l   d e   l a   O p e r a c i ó n   p r o v e n i e n t e   d e   d i v e r s o s   S i s t e m a s   /   T r á m i t e s   /   A p l i c a t i v o s   y   S e r v i c i o s   D i g i t a l e s   o p e r a d o s   p o r   l a   D I D T .   E s t o
+c o n   e l   f i n   d e   g e n e r a r   u n   p r o d u c t o   e s c a l a b l e   y   p a r a m e t r i z a b l e ,   d e   a c u e r d o   c o n   l a s   n e c e s i d a d e s   d e   c a d a   U s u a r i o   F i n a l ,   y   q u e ,   a   s u   v e z ,   p u e d a
+f a c i l i t a r   l a   t o m a   d e   d e c i s i o n e s   p a r a   c a d a   u n a   d e   l a s   Á r e a s   d e   N e g o c i o   y   C o o r d i n a c i o n e s   N o r m a t i v a s   d e l   I n s t i t u t o .
+I m p l e m e n t a c i ó n   d e   t a b l a s   h i s t ó r i c a s   a c t u a l i z a b l e s   p a r a   l o s   i n s u m o s   m e n s u a l e s   d e   m a y o r   v o l u m e t r í a ,   r e q u e r i d o s   e n   e l   T a b l e r o   d e   I n d i c a d o r e s
+p a r a   l a   D i r e c c i ó n   d e   I n n o v a c i ó n   y   D e s a r r o l l o   T e c n o l ó g i c o   ( D I D T ) .   E s t o   p a r a   p o d e r   d a r   s o l u c i ó n   a   l a   d i f i c u l t a d   d e   m a n i p u l a r   l a   i n f o r m a c i ó n
+a c u m u l a d a   q u e   h o y   e n   d í a   s e   e n t r e g a   e n   e s t o s   a r c h i v o s ,   p r e v i o   a   s u   c a r g a   e n   l a   b a s e   d e   d a t o s   O r a c l e .   P o r   c o n s i g u i e n t e ,   e s t o   i m p l i c a   l a
+i m p l e m e n t a c i ó n   d e   l a s   m o d i f i c a c i o n e s   n e c e s a r i a s   a l   p r o c e s o   a c t u a l   p a r a   m a n t e n e r   a c t u a l i z a d o   e l   T a b l e r o   m e n c i o n a d o .
+E x p e r i e n c i a   F u n c i o n a l :
+C o n o c i m i e n t o s   d e   O p e r a c i ó n   d e   l a s   p l a t a f o r m a s   d i g i t a l e s   e n f o c a d a s   e n   r e c a b a r   l a   i n f o r m a c i ó n   n e c e s a r i a   p a r a   l a   m e j o r a   d e   l o s   T r á m i t e s   y
+S e r v i c i o s   g e n e r a d o s   e n   l o s   c a n a l e s   d i g i t a l e s   d e   a t e n c i ó n :   V e n t a n i l l a   S i m p l i f i c a d a   ( p r e s e n c i a l ) ,   S i t i o   W e b   ( I n t e r n e t ) ,   C e n t r o   d e   C o n t a c t o
+I n s t i t u c i o n a l   ( t e l é f o n o ,   c o r r e o   e l e c t r ó n i c o ,   c h a t ,   S M S ,   e t c . )   y   A p l i c a c i ó n   M ó v i l   I M S S   D i g i t a l   ( C e l u l a r   o   T a b l e t a ) .
+C o n o c i m i e n t o s   d e   l o s   s i s t e m a s   d e   i n f o r m a c i ó n   e n c a r g a d o s   d e   l a   o p e r a c i ó n   d i a r i a   d e   l o s   p r o c e s o s   d e   A f i l i a c i o n e s   y   C o b r a n z a :   S a l d o s
+a c u m u l a d o s   d e   l o s   t r a b a j a d o r e s   p o r   c o n c e p t o s   d e   R e t i r o s ,   C e s a n t í a   y   V e j e z ,   M o d a l i d a d   4 0 ,   e n t r e   o t r o s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+O r a c l e   S Q L   D e v e l o p e r   2 0 . 2 . 0 . 1 7 5 ,   W i n S C P ,   T a b l e a u   D e s k t o p   2 0 1 9 ­ 2 0 2 0 ,   O r a c l e   D a t a   I n t e g r a t o r   1 1 g   ( 1 1 . 1 . 1 ) ,   M o b a X t e r m   2 1 . 1 . ,   D B e a v e r
+S o f t t e k C i u d a d   d e   M é x i c o   ­   B A N O B R A S D e :   S e p ,   2 0 1 9   A :   D e c ,   2 0 1 9
+D e s c r i p c i ó n :
+A n á l i s i s   d e   e s t r u c t u r a s   d e   t a b l a s   y   d i c c i o n a r i o s   d e   d a t o s ,   c o n   e l   p r o p ó s i t o   d e   l l e v a r   a   c a b o   e l   d e s a r r o l l o   d e   a c t i v i d a d e s   e n f o c a d a s   a   l a
+C o n s t r u c c i ó n   d e   M o d e l o s   p a r a   l o s   r e q u e r i m i e n t o s   q u e   c o n f o r m a n   e l   “ M o d e l o   d e   E x p l o t a c i ó n   d e   I n f o r m a c i ó n   d e   G e s t i ó n   d e   B a l a n c e ”   ( I G B ) .
+D e s a r r o l l o   i n i c i a l   d e   p r o p u e s t a s   d e   M o d e l a d o   d e   r e q u e r i m i e n t o s   I G B ,   p a r a   l o s   e s q u e m a s   S t a g i n g   e   I n f o r m a t i o n   M a n a g e m e n t   ( O D S ) ,   e n   O r a c l e
+S Q L   D e v e l o p e r   D a t a   M o d e l e r .
+A p o y o   e n   a c t i v i d a d e s   d e   r e f i n a m i e n t o   y   a c t u a l i z a c i ó n   d e   d o c u m e n t a c i ó n   T é c n i c a   y   d e   N e g o c i o   d e   l o s   r e q u e r i m i e n t o s   d e   “ C o n c i l i a c i o n e s
+O p e r a t i v a s ”   d e   l o s   b l o q u e s   d e   M e r c a d o   y   C a r t e r a   ( S e c c i o n e s   O p e r a t i v a s   y   C o n t a b l e s ) ,   p a r a   l o s   e q u i p o s   d e   A n á l i s i s   y   d e   D e s a r r o l l o .
+L o g r o s :
+D e s a r r o l l a r   p r o p u e s t a s   d e   M o d e l o s   d e   D a t o s   q u e   p e r m i t a n   m e j o r a r   e l   e n t e n d i m i e n t o   d e   l o s   p r o c e s o s   d e   I G B ,   p a r t i e n d o   p o r   l a   c a p a   i n i c i a l   d e
+S t a g i n g   y   f i n a l i z a n d o   e n   l a   c a p a   d e   p r o c e s a m i e n t o   d e   i n f o r m a c i ó n   O D S   ( I M ) .
+D e s a r r o l l a r   y   r e f i n a r   l o s   g l o s a r i o s   c o n s o l i d a d o s   d e   l o s   r e q u e r i m i e n t o s   d e   C o n c i l i a c i o n e s ,   i n c l u y e n d o   t e r m i n o l o g í a   e n f o c a d a   a l   N e g o c i o ,   a s í   c o m o
+t e r m i n o l o g í a   d e   u s o   t é c n i c o ,   c o n   e l   p r o p ó s i t o   d e   h a c e r   u n a   m e j o r a   c o n t i n u a   a   l a   d o c u m e n t a c i ó n   d e   A n á l i s i s   y   D e s a r r o l l o ,   p a r a   l o s   b l o q u e s   d e
+C o n c i l i a c i o n e s   d e   C a r t e r a ,   C o n c i l i a c i o n e s   d e   M e r c a d o s   y   C o n c i l i a c i o n e s   d e   R e c u r s o s   H u m a n o s   y   F i d u c i a r i o s .
+E x p e r i e n c i a   F u n c i o n a l :
+C o n o c i m i e n t o s   d e   p r o c e s o s   d e   O p e r a t i v i d a d   y   d e   N e g o c i o   e n f o c a d o s   a l   f i n a n c i a m i e n t o   d e   o b r a s   p a r a   c r e a r   s e r v i c i o s   p ú b l i c o s   e n   e l   p a í s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+O r a c l e   S Q L   D e v e l o p e r   1 9 . 2 . 0 . 2 0 6 ,   O r a c l e   S Q L   D e v e l o p e r   D a t a   M o d e l e r   1 9 . 2 . 0 . 1 8 2 . 1 2 1 6
+S o f t t e k C i u d a d   d e   M é x i c o   ­   S e g u i m i e n t o   d e
+R e m i s i o n e s   L i v e r p o o lD e :   F e b ,   2 0 1 9   A :   S e p ,   2 0 1 9
+D e s c r i p c i ó n :
+A n á l i s i s   d e   l o s   p r o c e s o s   i n v o l u c r a d o s   d e n t r o   d e l   C i c l o   d e   V i d a   d e   l a s   R e m i s i o n e s ,   a   p a r t i r   d e   l a   c o n f i r m a c i ó n   d e   l a   V e n t a   e n   B r i d g e   C o r e   A T G ,   l a
+c r e a c i ó n   d e   l a   R e m i s i ó n   p e n d i e n t e   p a r a   S u r t i d o   e n   S t e r l i n g   O r a c l e ,   h a s t a   e l   s e g u i m i e n t o   d e   T r a z o   L o g í s t i c o   y   E n t r e g a   d e   P e d i d o   e n   S O M S .
+A n á l i s i s   d e   l a s   f u e n t e s   d e   d a t o s   A T G ,   S t e r l i n g ­   O r a c l e   y   S O M S   –   D B 2 ,   a   f i n   d e   d o c u m e n t a r   l a s   n e c e s i d a d e s   r e a l e s   d e   i n f o r m a c i ó n ,   p a r a   l a
+c o n c e p t u a l i z a c i ó n   i n i c i a l   d e   l o s   r e q u e r i m i e n t o s   d e l   p r o y e c t o .
+A n á l i s i s   y   v a l i d a c i ó n   d e   R e g l a s   d e   T r a n s f o r m a c i ó n   y   R e g l a s   d e   N e g o c i o ,   p a r a   f o r m a l i z a r   l a s   e s t r u c t u r a s   d e   d a t o s   r e q u e r i d a s   p a r a   e l   d e s a r r o l l o
+d e   l o s   R e p o r t e s .
+D o c u m e n t a c i ó n   d e   M a t r i c e s   O r i g e n   –   D e s t i n o   ( M O D s ) ,   R e g l a s   d e   N e g o c i o   y   C a s o s   d e   P r u e b a s .
+A n á l i s i s ,   d o c u m e n t a c i ó n   y   v a l i d a c i ó n   d e l   M o n i t o r   d e   I n c o n s i s t e n c i a s   p a r a   l a s   R e m i s i o n e s   d e   L i v e r p o o l ,   c o m o   p a r t e   d e   u n   p i l o t o   e n   e j e c u c i ó n
+d u r a n t e   l a   V e n t a   N o c t u r n a   d e l   D í a   d e   l a   M a d r e .
+V a l i d a c i ó n   d e   i n f o r m a c i ó n   g e n e r a d a   e n   S A P   H a n a ,   a s í   c o m o   e n   l o s   r e p o r t e s   d e   S A P   B u s i n e s s   O b j e c t s .
+A t e n c i ó n   a   s o l i c i t u d e s   d e   i n c i d e n c i a s   g e n e r a d a s   d u r a n t e   l a   c a r g a   y   t r a n s f o r m a c i ó n   d e   d a t o s   d e   l o s   s i s t e m a s   f u e n t e .
+L o g r o s :
+D e s c u b r i m i e n t o   y   m e j o r a   d e   R e g l a s   d e   U n i ó n   y   d e   T r a n s f o r m a c i ó n   e n t r e   l o s   o b j e t o s   i n v o l u c r a d o s   e n   l o s   3   s i s t e m a s   f u e n t e   p a r a   l o s   R e p o r t e s
+e n f o c a d o s   a   M o n i t o r e o   d e   I n c o n s i s t e n c i a s ;   C u m p l i m i e n t o   d e   T i e m p o s   d e   E n t r e g a   d e   l o s   P e d i d o s   d e   L i v e r p o o l ;   M e d i c i ó n   d e   D e s v i a c i o n e s   d e   l a s
+R e m i s i o n e s   d e n t r o   d e   l a s   E t a p a s   d e   C r e a c i ó n ,   A s i g n a c i ó n ,   S u r t i d o ,   T r a z o   L o g í s t i c o   y   E n t r e g a   d e   P e d i d o s ;   G e n e r a c i ó n   d e   A n o m a l í a s   e
+
+--- Página 3 ---
+
+I n c o n s i s t e n c i a s   e n   l a   e s t r u c t u r a   d e   l a   i n f o r m a c i ó n   d e   l a s   R e m i s i o n e s ;   D e t a l l e   d e   E x c e p c i o n e s   g e n e r a d a s   d u r a n t e   l a   c o m u n i c a c i ó n   e n t r e   l o s
+s i s t e m a s   S O M S   y   S t e r l i n g .   E s t o   c o n   e l   f i n   d e   p o d e r   e n t r e g a r   u n   p r o d u c t o   i n t e g r a d o ,   q u e   p e r m i t a   d e t e c t a r   c i e r t a s   á r e a s   d e   o p o r t u n i d a d   q u e
+b e n e f i c i e n   l a   o p e r a c i ó n   l o g í s t i c a   d e   L i v e r p o o l .
+E x p e r i e n c i a   F u n c i o n a l :
+C o n o c i m i e n t o s   d e   p r o c e s o s   g e n e r a d o s   d e s p u é s   d e   l a   l i b e r a c i ó n   d e   p r o d u c t o s   v e n d i d o s ,   t a l e s   c o m o   A s i g n a c i ó n   d e   T i e n d a s   p a r a   C o n f i r m a c i ó n
+d e   L í n e a s   S u r t i d o r a s   d e   P r o d u c t o   p a r a   l o s   p e d i d o s ;   P r e p a r a c i ó n   y   e m b a l a j e   d e   p e d i d o s   l i s t o s   p a r a   e n v í o   a l   D o m i c i l i o   d e l   C l i e n t e   o   p a r a   e n t r e g a
+e n   M ó d u l o s   C l i c k   &   C o l l e c t   d e n t r o   d e   l a s   t i e n d a s   d e p a r t a m e n t a l e s   d e   L i v e r p o o l ;   G e n e r a c i ó n   y   S e g u i m i e n t o   d e l   T r a z o   L o g í s t i c o   d e   p e d i d o s   e n
+t r á n s i t o ;   C i e r r e   d e   p e d i d o s   E n t r e g a d o s   a l   C l i e n t e   o   C a n c e l a d o s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+S A P   H a n a   S t u d i o   2 . 2 . 9 ,   S A P   B u s i n e s s   O b j e c t s   4 . 2   S P 6 ,   O r a c l e   1 2 C
+S o f t t e k C i u d a d   d e   M é x i c o   ­   S c o t i a b a n k   –
+C a p t a c i ó n   y   C o l o c a c i ó nD e :   F e b ,   2 0 1 8   A :   J a n ,   2 0 1 9
+D e s c r i p c i ó n :
+V a l i d a c i ó n   d e   R e p o r t e s   M i g r a d o s   c o n t r a   R e p o r t e s   O r i g i n a l e s   e n   e l   á r e a   d e   U I M N   ( U n i d a d   d e   I n t e l i g e n c i a   M o d e r n i z a c i ó n   d e l   N e g o c i o ) ,   b a j o   l a
+p l a t a f o r m a   R e p o r t i n g   S e r v i c e s   d e   M i c r o s o f t .
+A n á l i s i s   d e   v e r s i o n e s   a c t u a l i z a d a s   d e   d i c c i o n a r i o s   E D L   ( C o r e   y   a p l i c a t i v o s   S a t é l i t e )   y   d e   D a t a M a r t   p a r a   e l a b o r a c i ó n   d e   d o c u m e n t a c i ó n   d e
+M a t r i c e s   O r i g e n   –   D e s t i n o   ( M O D s ) .
+C o n t r o l   d e   v e r s i o n e s   d e   M O D s ,   d e   a c u e r d o   c o n   l a s   v e r s i o n e s   n u e v a s   t a n t o   d e l   D i c c i o n a r i o   E D L   c o m o   D a t a M a r t ,   p a r a   e l   d e s a r r o l l o   d e
+R e p o r t e r i a   e n   S A S .
+A n á l i s i s   d e   e s t r u c t u r a ,   f o r m a t o ,   c o n t e n i d o   d e   i n f o r m a c i ó n ,   R e g l a s   d e   T r a n s f o r m a c i ó n   y   d e   N e g o c i o ,   a s í   c o m o   c á l c u l o s   y   d e f i n i c i o n e s   d e   m é t r i c a s
+r e q u e r i d o s   e n   l o s   R e p o r t e s   s o l i c i t a d o s   p o r   l a   U I M N .
+A t e n c i ó n   a   s o l i c i t u d e s   d e   i n c i d e n c i a s   d e t e c t a d a s   p o r   l a   c é l u l a   d e   D e s a r r o l l o   d e   R e p o r t e s .
+A n á l i s i s   d e   s c r i p t s   e n   S Q L   S e r v e r   y   E T L s   i n c l u i d o s   d e n t r o   d e   l o s   R e p o r t e s   O r i g i n a l e s   p a r a   e x t r a e r   y   d o c u m e n t a r   R e g l a s   d e   T r a n s f o r m a c i ó n   y
+d e   N e g o c i o   p a r a   l o s   n u e v o s   R e p o r t e s .
+L e v a n t a m i e n t o   d e   r e q u e r i m i e n t o s   p a r a   R e p o r t e r í a   e n f o c a d a   a l   S i s t e m a   d e   C á l c u l o   y   C o n t r o l   d e   C o m i s i o n e s   d e l   b a n c o .
+A p o y o   e n   v a l i d a c i ó n   d e   C u b o   e n f o c a d o   a   p r o d u c t o s   d e   C a p t a c i ó n ,   a   t r a v é s   d e   S A S   E n t e r p r i s e   G u i d e .
+L o g r o s :
+D e s c u b r i m i e n t o   d e   R e g l a s   d e   T r a n s f o r m a c i ó n   y   d e   N e g o c i o   p a r a   l o s   R e p o r t e s   e n f o c a d o s   a l   C o n s u m o   d e   A u t o s ,   H i p o t e c a s ,   P r é s t a m o s
+P e r s o n a l e s ,   a s í   c o m o   p a r a   l o s   d i f e r e n t e s   p r o d u c t o s   d e   C a p t a c i ó n ,   t a l e s   c o m o   C h e q u e s ,   F o n d o s   y   V a l o r e s ,   f a c i l i t a n d o   a s í   e l   e n t e n d i m i e n t o   d e   l a
+i n f o r m a c i ó n ,   a s í   c o m o   l o s   o b j e t i v o s   q u e   d e b e n   c u m p l i r   c a d a   u n o   d e   l o s   R e p o r t e s   s o l i c i t a d o s   p o r   l a   i n s t i t u c i ó n .
+E x p e r i e n c i a   F u n c i o n a l :
+C o n o c i m i e n t o s   d e   R e g l a s   y   p r o c e s o s   p a r a   l a   g e n e r a c i ó n   d e   i n f o r m a c i ó n   r e l a c i o n a d a   c o n   p r o d u c t o s   b a n c a r i o s   d e   C a p t a c i ó n   y   C o l o c a c i ó n ,   a s í
+c o m o   d e   p r o c e s o s   e n f o c a d o s   a l   C á l c u l o   d e   C o m i s i o n e s ,   A n t i f r a u d e s   y   R e p o r t e s   R e g u l a t o r i o s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+M i c r o s o f t   S Q L   S e r v e r   2 0 1 2   M a n a g e m e n t   S t u d i o ,   R e p o r t i n g   S e r v i c e s   2 0 1 0 ,   V i s u a l   S t u d i o   2 0 1 2
+S o f t t e k C i u d a d   d e   M é x i c o   ­   A T & T   D a t a   L a k e   D a t a
+M a r tD e :   D e c ,   2 0 1 6   A :   F e b ,   2 0 1 8
+D e s c r i p c i ó n :
+A n á l i s i s   y   d e s c u b r i m i e n t o   d e   f u e n t e s   d e   i n f o r m a c i ó n   A M D O C S   ( C R M   ­   C u s t o m e r   M a n a g e m e n t   y   M C M )   y   o t r o s   s i s t e m a s   l e g a d o s   ( N E X T E L
+S I S C O B   –   G e s t i ó n   d e   I n c i d e n t e s   d e   C o b r a n z a ) ,   a   t r a v é s   d e   b a s e s   d e   d a t o s   O r a c l e ,   p a r a   r e s p o n d e r   a   d i s t i n t o s   r e p o r t e s   r e q u e r i d o s   p o r   e l
+N e g o c i o .
+E l a b o r a c i ó n   d e   D i a g r a m a s   E ­ R   y   d o c u m e n t a c i ó n   d e   f u e n t e s   y   O b j e t o s   d e l   P r i m a r y   D a t a   L a k e   y   d e l   E n t e r p r i s e   D a t a   L a k e .
+A n á l i s i s   d e   p r o c e s o s   p a r a   e l   f u n c i o n a m i e n t o   d e l   N e g o c i o ,   t a l e s   c o m o   l a   c r e a c i ó n   d e   c l i e n t e s ,   i n c i d e n t e s   y   a t e n c i ó n   a l   c l i e n t e   ( C u s t o m e r   C a r e ) ,
+g e n e r a c i ó n   d e   ó r d e n e s   d e   c o m p r a ,   c o m p r o b a c i ó n   d e   B u r ó   d e   C r é d i t o ,   p r o c e s o s   d e   f a c t u r a c i ó n   y   c o b r a n z a ,   e n t r e   o t r o s .
+P r o g r a m a c i ó n   d e   s c r i p t s   S Q L   p a r a   d e f i n i r   l a s   e s t r u c t u r a s   n e c e s a r i a s   d e   l a s   t a b l a s   f i n a l e s ,   p a r a   l a   c o n f o r m a c i ó n   d e l   E n t e r p r i s e   D a t a   L a k e .
+D i s e ñ o   d e   E s t r u c t u r a s   d e   t a b l a s   y   d e   s c r i p t s   d e   c a r g a   d e   i n f o r m a c i ó n   e n   l a   b a s e   d e   d a t o s   H P   V e r t i c a ,   e n   r e p o s i t o r i o s   d e   P r i m a r y   D a t a   L a k e   y
+d e   E n t e r p r i s e   D a t a   L a k e .
+D o c u m e n t a c i ó n   d e   b a s e s   d e   d a t o s   d e l   E D L   e n   s i s t e m a   D a t a   G o v e r n a n c e   d e l   c l i e n t e .
+L o g r o s :
+D e s c u b r i m i e n t o   d e   l a s   e n t i d a d e s   q u e   c o n f o r m a n   e l   s i s t e m a   C R M   d e   A M D O C S ,   e l   c u a l   r e g i s t r a   l a   i n f o r m a c i ó n   p a r a   l a   G e s t i ó n   d e   R e l a c i o n e s
+c o n   e l   c l i e n t e ,   y   q u e   c o n t i e n e   t o d a   l a   i n f o r m a c i ó n   c o n c e r n i e n t e   a :   C l i e n t e s ,   D a t o s   d e   C o n t a c t o ,   C u e n t a s   F i n a n c i e r a s ,   S u s c r i p t o r e s ,   G e n e r a c i ó n
+d e   O r d e n e s ,   a s í   c o m o   i n f o r m a c i ó n   e n f o c a d a   e n   l a   A t e n c i ó n   a l   C l i e n t e ,   c o m o   l o   e s   e l   R e g i s t r o   y   S e g u i m i e n t o   d e   I n c i d e n c i a s   –   C a s e s   –   e
+I n t e r a c c i o n e s .   D i c h a   i n f o r m a c i ó n   f a c i l i t a   e l   e n t e n d i m i e n t o   d e   l a   o p e r a c i ó n   d e l   N e g o c i o ,   a s í   c o m o   e l   d e s a r r o l l o   d e   d a t a   m a r t s   q u e   s o l i c i t a   e l   á r e a
+d e   B i g   D a t a   &   D a t a   S c i e n c e   d e   A T & T ,   p a r a   a p o y a r   e n   l a   c o r r e c t a   t o m a   d e   d e c i s i o n e s   d e l   c l i e n t e .
+E x p e r i e n c i a   F u n c i o n a l :
+C o n o c i m i e n t o s   d e   P r o c e s o s   e n   l a   i n d u s t r i a   d e   l a   T e l e f o n í a   M ó v i l   y   d e   S i s t e m a s   A M D O C S .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+O r a c l e   S Q L   D e v e l o p e r   4 . 1 . 5 . 2 1 ,   O r a c l e   D a t a b a s e   1 0 g   E n t e r p r i s e   E d i t i o n   R e l e a s e   1 0 . 2 . 0 . 3 . 0   6 4 b i t ,   O r a c l e   D a t a b a s e   1 2 c   E n t e r p r i s e   E d i t i o n
+R e l e a s e   1 2 . 1 . 0 . 1 . 0   6 4 b i t ,   H P   V e r t i c a   0 8 . 0 0 . 0 1 0 0 ,   D b V i s u a l i z e r   9 . 5 . 6
+S o f t t e k C i u d a d   d e   M é x i c o   ­   M A N P O W E R   –
+T A B L E A U   B ID e :   A u g ,   2 0 1 6   A :   N o v ,   2 0 1 6
+D e s c r i p c i ó n :
+
+--- Página 4 ---
+
+A n á l i s i s   d e   r e q u e r i m i e n t o s   p a r a   e l   d e s a r r o l l o   d e   d a s h b o a r d s   i n t e r a c t i v o s   c o n   T a b l e a u   D e s k t o p :   S u e l d o s   d e   M e r c a d o ,   R e c l u t a m i e n t o   e
+I n f o S u e l d o s   ( B u s i n e s s   I n t e l l i g e n c e ) ,   p a r a   l a s   á r e a s   d e   O p e r a c i ó n   y   V e n t a s   d e   M a n p o w e r .
+E l a b o r a c i ó n   d e   M o d e l o s   E n t i d a d   –   R e l a c i ó n   y   D i c c i o n a r i o s   d e   D a t o s .
+P r o g r a m a c i ó n   d e   s c r i p t s   S Q L   p a r a   l a   l e c t u r a   d e   i n f o r m a c i ó n   e n   T a b l e a u .
+A n á l i s i s   y   a d e c u a c i ó n   d e   l a   i n f o r m a c i ó n   a l m a c e n a d a   e n   e l   D a t a w a r e h o u s e   d e   M a n p o w e r ,   a s í   c o m o   e n   r e p o r t e s   y   c u b o s   d e   C o g n o s ,   p a r a   l a
+e l a b o r a c i ó n   d e   p r o p u e s t a s   a   i m p l a n t a r   c o n   T a b l e a u .
+E l a b o r a c i ó n   d e   m a n u a l e s   d e   u s u a r i o   c o n   l a   d o c u m e n t a c i ó n   d e   l o s   d a s h b o a r d s   i m p l a n t a d o s .
+D e s a r r o l l o   d e   p r u e b a s   a   n i v e l   u s u a r i o   e n   i n t e r f a z   T a b l e a u   S e r v e r   p a r a   c o n f i r m a r   l o s   r e q u e r i m i e n t o s   y / o   c a m b i o s   s o l i c i t a d o s   p o r   l o s   u s u a r i o s
+f i n a l e s .
+L o g r o s :
+D e s a r r o l l a r   e   i m p l a n t a r   t a b l e r o s   d e   S u e l d o s   d e   M e r c a d o ,   P r o c e s o s   d e   R e c l u t a m i e n t o   e   I n f o s u e l d o s   ( B u s i n e s s   I n t e l l i g e n c e )   p a r a   a p o y a r   e n   l a
+c o r r e c t a   t o m a   d e   d e c i s i o n e s   d e n t r o   d e   l a s   á r e a s   d e   O p e r a c i o n e s   y   V e n t a s   e n   M a n p o w e r .
+E x p e r i e n c i a   F u n c i o n a l
+C o n o c i m i e n t o s   d e   P r o c e s o s   d e   R e c l u t a m i e n t o   y   S u e l d o s   d e   M e r c a d o .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+M i c r o s o f t   S Q L   S e r v e r   2 0 0 8   R 2 ,   T a b l e a u   D e s k t o p   9 . 3 . 5   –   1 0 . 1
+B a n a m e x C i u d a d   d e   M e x i c o   ­   C o n s u l t o r   S Q L D e :   A u g ,   2 0 1 5   A :   A p r ,   2 0 1 6
+D e s c r i p c i ó n :
+A n á l i s i s   y   e x p l o t a c i ó n   d e   i n f o r m a c i ó n   d e   l a   B a s e   N a c i o n a l   d e   V e n t a s   d e l   B a n c o :   A p e r t u r a s ,   P u n t a j e s   e   I n c e n t i v o s ;   D e s e m p e ñ o   d e   V e n t a s   a   n i v e l
+N a c i o n a l ,   D i v i s i o n a l ,   G e r e n c i a   d e   M e r c a d o   y   D i r e c c i ó n   R e g i o n a l
+M a n t e n i m i e n t o   d e   l a s   h e r r a m i e n t a s   d e   s i m u l a c i ó n   d e   v e n t a s   p a r a   l o s   e j e c u t i v o s   d e l   b a n c o ,   t a b l a s   d e   e q u i v a l e n c i a s   d e   p u n t a j e s   p o r   p r o d u c t o   y
+c r i t e r i o s   d e   c o n t a b i l i z a c i ó n .
+E x t r a c c i ó n   d e   G r a b a c i o n e s   p a r a   l a   a t e n c i ó n   d e   I n c i d e n c i a s   r e p o r t a d a s   a   l a   D i r e c c i ó n   C o m e r c i a l   p o r   m a l a s   p r á c t i c a s   d e   v e n t a s   e n   S u c u r s a l e s .
+P u b l i c a c i ó n   d e   i n f o r m e s   e n   l í n e a   a   t r a v é s   d e   p l a t a f o r m a   S h a r e p o i n t .
+D e s a r r o l l o   d e   p r u e b a s   a   n i v e l   u s u a r i o   p a r a   l a   m i g r a c i ó n   d e   p r o c e s o s   a c t u a l e s   d e l   á r e a   h a c i a   l a   n u e v a   p l a t a f o r m a   p r o d u c t i v a   e n   E c l i p s e .
+A p o y o   e n   l a s   m e j o r a s   d e   s c r i p t s   S Q L   ( e x t r a c c i ó n   y   t r a n s f o r m a c i ó n   d e   d a t o s )   y   l a   g e n e r a c i ó n   d e   B a s e s   d e   D a t o s   p a r a   l o s   p r o c e s o s   a c t u a l e s
+( m a c r o s   e n   E x c e l   y   A c c e s s )   y   l o s   n u e v o s   r e q u e r i m i e n t o s   d e   l a   n u e v a   p l a t a f o r m a .
+D o c u m e n t a c i ó n   d e   p r o c e s o s   a u t o m a t i z a d o s   d e n t r o   d e l   á r e a   d e   E s t r a t e g i a   C o m e r c i a l .
+L o g r o s :
+G a r a n t i z a r   l a   f i a b i l i d a d   y   d e s e m p e ñ o   d e   l a   n u e v a   p l a t a f o r m a   e n   E c l i p s e ,   a s í   c o m o   d e s a r r o l l a r   a c t i v i d a d e s   p a r a   e l   c u a d r e   d e   c i f r a s   h i s t ó r i c a s   y
+a c t u a l e s .
+E l i m i n a r   l o s   p r o c e s o s   a c t u a l e s   d e l   á r e a   y   a s í   r e d u c i r / m e j o r a r   t i e m p o s   d e   p r o c e s a m i e n t o   d e   i n f o r m a c i ó n .
+E x p e r i e n c i a   F u n c i o n a l
+C o n o c i m i e n t o s   d e   V e n t a s   y   E s t r a t e g i a s   C o m e r c i a l e s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+E x c e l   2 0 0 7 ,   A c c e s s   2 0 0 7 ,   S h a r e P o i n t   2 0 0 7 ,   E c l i p s e
+S a n t a n d e r C i u d a d   d e   M é x i c o   ­   A n a l i s t a   d e   D a t a
+M i n i n gD e :   S e p ,   2 0 1 3   A :   J u l ,   2 0 1 5
+D e s c r i p c i ó n :
+A n á l i s i s   y   e x p l o t a c i ó n   d e   i n f o r m a c i ó n   d e   c l i e n t e s   d e l   C o r p o r a t i v o   e n   l a   b a s e   A L T A I R   p a r a   t o m a   d e   d e c i s i o n e s ,   e n   f u n c i ó n   d e   l o s   e s q u e m a s
+o p e r a t i v o s   e s t a b l e c i d o s   d e n t r o   d e l   f l u j o   d e l   D a t a   G o v e r n a n c e .
+D e t e c c i ó n   d e   á r e a s   d e   o p o r t u n i d a d   p a r a   m e j o r a r   l a   c o n s i s t e n c i a   y   f i a b i l i d a d   e n   l a   c a l i d a d   d e l   d a t o   d e   l a s   t a b l a s   d e   P e r s o n a s   ( 2 5 0   m i l l o n e s   d e
+r e g i s t r o s   m e n s u a l e s ) ,   e n   c u m p l i m i e n t o   c o n   l a s   d i s p o s i c i o n e s   e s t a b l e c i d a s   e n   l a   L e y   F e d e r a l   d e   P r o t e c c i ó n   d e   D a t o s   P e r s o n a l e s   y   D e r e c h o s
+A R C O .
+G e n e r a c i ó n   y   e n t r e g a   d e   i n f o r m a c i ó n   p a r a   l a s   á r e a s   d e   R i e s g o ,   C o n t a c t   C e n t e r ,   N ó m i n a ,   I n t e l i g e n c i a   C o m e r c i a l ,   B a n c a   P r i v a d a ,   S A T ,   I P A B ,
+B u r ó   d e   C r é d i t o ,   S e g u r i d a d   I n f o r m á t i c a   y   S a n t a n d e r   E s p a ñ a .
+A c t i v i d a d e s   B A U :   A t e n c i ó n   d e   s o l i c i t u d e s   p a r a   m a n t e n i m i e n t o ,   a n á l i s i s   y   C a r g a   d e   d a t o s   d e   l o s   c l i e n t e s   r e c a b a d o s   p o r   A s e s o r e s   N ó m i n a ,
+I n t e l i g e n c i a   C o m e r c i a l ,   T D C ,   S ú p e r   C o n t a c t a b i l i d a d ,   U n i v e r s i d a d e s   y   p o r   c o m p r a s   d e   c a r t e r a s   p a r a   l a   g e n e r a c i ó n   d e   c ó d i g o s   d e   c l i e n t e .
+D e s a r r o l l o   d e   a l g o r i t m o s   e n   S Q L   ( D D L ,   D M L )   y   J o b s   e j e c u t a b l e s   e n   I n t e g r a t i o n   S e r v i c e s   y   p r o g r a m a d o s   e n   A g e n t e   S Q L   S e r v e r   p a r a   l a
+v a l i d a c i ó n   d e   t e l é f o n o s ,   m a i l s ,   R F C s   y   d o m i c i l i o s   f í s i c o s   d e   l o s   c l i e n t e s ,   p r e v i o   a   s u   c a r g a   e n   e l   s i s t e m a .
+M o n i t o r e o   d e   c a m b i o s   y   m e j o r a s   e n   l a   c a l i d a d   d e   l o s   d a t o s ,   p o r   m e d i o   d e   i n d i c a d o r e s   K P I s   y   p r o f i l i n g s   e n   I n f o r m a t i c a   A n a l y s t   y   P o w e r   C e n t e r
+E x p r e s s .
+G e n e r a c i ó n   d e   i n d i c a d o r e s   d e   d e s e m p e ñ o   d e n t r o   d e   l a s   a c t i v i d a d e s   d e l   B A U   y   e n   p r o c e s o s   d e   I n f o r m a t i c a   p o r   m e d i o   d e   T a b l e a u   D e s k t o p .
+L o g r o s :
+G a r a n t i z a r   l a   c o n s i s t e n c i a   y   f i a b i l i d a d   d e   l a   i n f o r m a c i ó n   p a r a   l a s   d e m á s   á r e a s   d e l   b a n c o ,   c o n   d a t o s   v i g e n t e s   y / o   a c t u a l i z a d o s .
+R e d u c i r   e l   t a m a ñ o   d e   l a   B a s e   d e   D a t o s   A L T A I R .
+P r o y e c t o s :
+I d e n t i f i c a c i ó n   d e   C l i e n t e s   D u p l i c a d o s   e n   l a   b a s e   d e   c l i e n t e s   A L T A I R .
+D e p u r a c i ó n   m a s i v a   d e   t e l é f o n o s   y   m a i l s   i n v á l i d o s   y / o   d u p l i c a d o s .
+A c t u a l i z a c i ó n   d e   D a t o s   B á s i c o s   e n   E x p e d i e n t e s   d e l   B a c k   O f f i c e .
+E x p e r i e n c i a   F u n c i o n a l :
+C o n o c i m i e n t o s   y   E x p e r i e n c i a   e n   E s t r a t e g i a s   e n f o c a d a s   a   l a   M e j o r a   d e   C a l i d a d   d e   l o s   D a t o s .
+C o n o c i m i e n t o s   b á s i c o s   d e   l a   O p e r a c i ó n   e n   S u c u r s a l e s   ( G e n e r a c i ó n   d e   E x p e d i e n t e s ,   R e c o p i l a c i ó n   d e   D o c u m e n t o s   y   D a t o s   P e r s o n a l e s ) .
+C o n o c i m i e n t o s   d e   G o b i e r n o   d e   D a t o s   y   N o r m a s   d e   P r o t e c c i ó n   d e   D a t o s   P e r s o n a l e s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+
+--- Página 5 ---
+
+M i c r o s o f t   S Q L   S e r v e r   2 0 1 2   M a n a g e m e n t   S t u d i o ,   I n t e g r a t i o n   S e r v i c e s   2 0 1 2 ,   I n f o r m a t i c a   A n a l y s t   9 . 5 . 1 ,   I n f o r m a t i c a   D e v e l o p e r   9 . 6 . 1 ,   I n f o r m a t i c a
+P o w e r   C e n t e r   E x p r e s s   9 . 6 . 1 ,   M y S Q L   Q u e r y   B r o w s e r   1 . 1 . 2 0 ,   E x c e l   2 0 0 7 ,   T o a d   f o r   M y S Q L ,   U l t r a ­ E d i t   1 1 . 2 0 b ,   W i n d o w s   7 / X P ,   T a b l e a u   D e s k t o p
+8
+S e g u r o s   B a n c o m e r C i u d a d   d e   M é x i c o   ­   C o n s u l t o r   B I
+D a t a W a r e h o u s e   ­   E s p e c i a l i s t aD e :   S e p ,   2 0 1 0   A :   J u l ,   2 0 1 2
+D e s c r i p c i ó n :
+A n á l i s i s ,   m o d i f i c a c i ó n ,   m a n t e n i m i e n t o   y   d o c u m e n t a c i ó n   d e   p r o c e s o s   d e   i n t e g r a c i ó n   d e   d a t o s   d e l   D a t a W a r e h o u s e   e n   a m b i e n t e   d e   P r o d u c c i ó n .
+P r o g r a m a c i ó n   d e   J o b s   a u t o e j e c u t a b l e s   p a r a   l a   e j e c u c i ó n   d e   p r o c e s o s   d i a r i o s   e n   S Q L   S e r v e r   2 0 0 0   D a t a   T r a n s f o r m a t i o n   S e r v i c e s   ( D T S )   y   E T L s
+e n   O r a c l e   D a t a   I n t e g r a t o r   ( O D I ) .
+A n á l i s i s ,   e x t r a c c i ó n ,   a c t u a l i z a c i ó n   y   c o r r e c c i ó n   d e   i n f o r m a c i ó n   e n   d i s t i n t a s   b a s e s   d e   d a t o s   e n   I n f o r m i x ,   O r a c l e ,   E x c e l   y   a r c h i v o s   C S V   c o n   g r a n
+v o l u m e n   d e   r e g i s t r o s   ( 6 5   m i l l o n e s   d e   r e g i s t r o s   m e n s u a l e s )   y   q u e   c o r r e s p o n d e n   a   p ó l i z a s ,   v e n t a s ,   c o t i z a c i o n e s ,   c a n c e l a c i o n e s ,   t r a n s a c c i o n e s ,
+p a g o   a   p r o v e e d o r e s ,   c r é d i t o s   h i p o t e c a r i o s ,   e n c u e s t a s   e   I n v e r s i ó n   L i b r e   P a t r i m o n i a l .
+G e n e r a c i ó n   d e   r e p o r t e s   y   p e d i d o s   d e   i n f o r m a c i ó n .
+I n s t a l a c i ó n   y   s o p o r t e   a   u s u a r i o s   p a r a   l a   a p l i c a c i ó n   c l i e n t e   C o g n o s   P o w e r   P l a y   p a r a   c o n s u l t a s   a   C u b o s   a   t r a v é s   d e   R e m o t e   D e s k t o p .
+G e n e r a c i ó n   d e   r e p o r t e s   e n   E x c e l   d e   l a s   v e n t a s   d i a r i a s   a   t r a v é s   d e   C o g n o s   I m p r o m p t u   A d m i n i s t r a t o r .
+M a n t e n i m i e n t o   y   p r o g r a m a c i ó n   d e   p r o c e s o s   b a t c h   p a r a   l a   a c t u a l i z a c i ó n   d e   C u b o s   M u l t i d i m e n s i o n a l e s   d e   A n a l y s i s   S e r v i c e s .
+M o n i t o r e o   d e   s e r v i d o r   e n   P r o d u c c i ó n   d e   S Q L   S e r v e r .
+P r o g r a m a c i ó n   d e   q u e r y s   y   s t o r e d   p r o c e d u r e s   ( D D L   y   D M L ) .
+E n t r e g a   d e   K P I s   c o n   l a   m e d i c i ó n   d e   l a   o p e r a c i ó n   d i a r i a .
+M a n t e n i m i e n t o   d e   T a b l e r o s   d e   I n f o r m a c i ó n   m o n t a d o s   e n   s e r v i d o r   I I S .
+L o g r o s :
+D a r   s o p o r t e   a l   D a t a W a r e h o u s e   p a r a   l a   e n t r e g a   d e   i n f o r m a c i ó n   p r o c e s a d a   a   o t r a s   á r e a s   d e   l a   I n s t i t u c i ó n ,   e n   c u m p l i m i e n t o   a   l o s   n i v e l e s   d e
+s e r v i c i o   e s t a b l e c i d o s   p o r   l a   G e r e n c i a   d e l   á r e a .
+E x p e r i e n c i a   F u n c i o n a l :
+C o n o c i m i e n t o s   d e   P r o c e s o s   e n   e l   m e r c a d o   d e   S e g u r o s   ( T r a n s a c c i o n e s ,   C o t i z a c i o n e s ,   V e n t a s   y   C a n c e l a c i o n e s ) .
+C o n o c i m i e n t o s   y   e x p e r i e n c i a   e n   p r o c e s o s   D a t a w a r e h o u s i n g   y   B u s i n e s s   I n t e l l i g e n c e .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+M i c r o s o f t   S Q L   S e r v e r   2 0 0 0 ,   S Q L   S e r v e r   2 0 0 0   E n t e r p r i s e   M a n a g e r ,   S Q L   S e r v e r   2 0 0 0   D a t a   T r a n s f o r m a t i o n   S e r v i c e s   ( D T S ) ,   I B M   I n f o r m i x ,   T o a d
+f o r   O r a c l e ,   C o g n o s   P o w e r   P l a y   7 ,   C o g n o s   I m p r o m p t u   A d m i n i s t r a t o r   7 . 4 ,   I n t e r n e t   I n f o r m a t i o n   S e r v i c e s   ( I I S )   6 . 0 ,   O r a c l e   D a t a   I n t e g r a t o r   ( O D I ) ,
+T e r a d a t a   D B   1 3 ,   I B M   I n f o r m i x   7 ,   R e m o t e   D e s k t o p ,   W i n d o w s   S e r v e r   2 0 0 3
+E x p e r i e n c i a   F r e e l a n c e r C i u d a d   d e   M é x i c o   ­   A n a l i s t a   d e   B a s e s   d e
+D a t o sD e :   J a n ,   2 0 1 0   A :   J u n ,   2 0 1 3
+D e s c r i p c i ó n :
+P r o g r a m a c i ó n   y   a d e c u a c i ó n   d e   p r o c e s o s   a u t o m á t i c o s   p a r a   l a   i m p o r t a c i ó n   y   p r o c e s a m i e n t o   d e   a r c h i v o s   y   b a s e s   d e   d a t o s   d e l   c l i e n t e .
+D e s a r r o l l o   d e   s t o r e d   p r o c e d u r e s   e n   S Q L   ( D D L ,   D M L )   y   p a q u e t e s   d e   I n t e g r a t i o n   S e r v i c e s   p a r a   e l   a n á l i s i s ,   e x t r a c c i ó n ,   t r a n s f o r m a c i ó n   y
+c o r r e c c i ó n   d e   i n f o r m a c i ó n   d e   b a s e s   d e   d a t o s   f l a t ,   E x c e l   y   C S V .
+P r o g r a m a c i ó n   d e   J o b s   a u t o m a t i z a d o s   p a r a   c a r g a s   d e   i n f o r m a c i ó n .
+D o c u m e n t a c i ó n   t é c n i c a   y   m a n u a l e s   d e   o p e r a c i ó n .
+L o g r o s :
+M i g r a r   l a   i n f o r m a c i ó n   d e l   c l i e n t e   a   u n a   b a s e   d e   d a t o s   e n   M S   S Q L   S e r v e r   p a r a   m e j o r a r   s u   p l a t a f o r m a   d e   v i s i o n a d o   d e   i n f o r m a c i ó n .
+E x p e r i e n c i a   F u n c i o n a l :
+C o n o c i m i e n t o s   b á s i c o s   d e   D a t a   Q u a l i t y .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+M i c r o s o f t   S Q L   S e r v e r   2 0 1 2   M a n a g e m e n t   S t u d i o ,   I n t e g r a t i o n   S e r v i c e s   2 0 1 2
+G r u p o   A S S A C i u d a d   d e   M é x i c o   ­   A n a l i s t a   d e   H e l p   D e s k
+­   G r u p o   D A N O N ED e :   S e p ,   2 0 0 9   A :   J u n ,   2 0 1 0
+D e s c r i p c i ó n :
+A t e n c i ó n   a   t i c k e t s   p a r a   s o p o r t e   d e   1 e r   N i v e l   a   u s u a r i o s   d e   H a n d   H e l d s ,   c o n   b a s e   a l   f l u j o   B A U   o p e r a t i v o   d e l   á r e a :   T r a n s m i s i ó n   d e   i n f o r m a c i ó n
+d e   S Q L   S e r v e r   a   H a n d   H e l d s   p o r   l a s   m a ñ a n a s   y   e n v í o   d e   i n f o r m a c i ó n   d e   H a n d   H e l d s   a   S Q L   S e r v e r   a l   f i n a l i z a r   e l   c i c l o   d e   o p e r a c i ó n
+c o r r e s p o n d i e n t e   a l   p r o c e s a m i e n t o   d e   l a s   v e n t a s   d e   p r o d u c t o s   D a n o n e .
+G e n e r a c i ó n   d e   p a q u e t e s   d e   i n f o r m a c i ó n   p a r a   H a n d   H e l d s   d e s t i n a d a s   a   v e n t a s ,   p r o m o c i o n e s ,   d e v o l u c i o n e s   y   c a n c e l a c i o n e s   d e   p r o d u c t o s ,   c o n
+r u t a s   e n   p r o d u c c i ó n   y   p r u e b a s   e n   a p l i c a t i v o   X ­ S e r v e r .
+P r o g r a m a c i ó n   d e   J o b s   p a r a   m o n i t o r e o   d e   t r a n s m i s i ó n   d e   d a t o s   e n t r e   S Q L   S e r v e r   y   H a n d   H e l d s .
+I m p o r t a c i ó n   d e   d a t o s   a u t o m a t i z a d o s   a   t r a v é s   d e   I n t e g r a t i o n   S e r v i c e s .
+M a n e j o   d e   t r a n s a c c i o n e s   S A P   S D   y   M M   p a r a   a n á l i s i s   d e   i n f o r m a c i ó n .
+M a n e j o   y   c o n f i g u r a c i ó n   d e   H a n d   H e l d s   I n t e r m e c   7 0 0 C   y   C N 3   c o n   W i n d o w s   M o b i l e ,   a   t r a v é s   d e   c l i e n t e   F T P .
+M o n i t o r e o   d e   s e r v i d o r e s   S Q L   S e r v e r   y   X ­ S e r v e r .
+C a p a c i t a c i ó n   a   v e n d e d o r e s   y   j e f e s   d e   d e p ó s i t o s   p a r a   e l   u s o   d e   H a n d   H e l d s   c o n   t e c n o l o g í a   G S M .
+L o g r o s :
+D a r   s o p o r t e   a   l o s   v e n d e d o r e s   d e   p r o d u c t o   D a n o n e ,   b r i n d a n d o   l a   i n f o r m a c i ó n   o p o r t u n a   d e l   I t i n e r a r i o   d i a r i o   d e   v e n t a s   y   d e v o l u c i o n e s   d e
+p r o d u c t o s .
+E x p e r i e n c i a   F u n c i o n a l :
+E x p e r i e n c i a   e n   A t e n c i ó n   d e   T i c k e t s .
+C o n o c i m i e n t o s   b á s i c o s   d e   M ó d u l o s   S D   y   M M   e n   S A P .
+
+--- Página 6 ---
+
+E D U C A C I Ó N
+D E S A R R O L L O   P R O F E S I O N A L
+I D I O M A S
+H A B I L I D A D E S   T É C N I C A S / G E R E N C I A L E SC o n o c i m i e n t o s   d e   m a n e j o   y   c o n f i g u r a c i ó n   d e   H a n d   H e l d s .
+H e r r a m i e n t a s / H a b i l i d a d e s :
+M i c r o s o f t   S Q L   S e r v e r   2 0 0 8   M a n a g e m e n t   S t u d i o ,   I n t e g r a t i o n   S e r v i c e s   2 0 0 8 ,   W i n d o w s   M o b i l e
+T e c n o l ó g i c o   d e   E s t u d i o s   S u p e r i o r e s   d e
+I x t a p a lE s t a d o   d e   M é x i c o D e :   A u g ,   2 0 0 4   A :   F e b ,   2 0 0 9
+L i c e n c i a t u r a   E n   I n f o r m á t i c a
+T e c n o l ó g i c o   d e   E s t u d i o s   S u p e r i o r e s   d e   I x t a p a l u c a .
+I x t a p a l u c a ,   E s t a d o   d e   M é x i c o
+L i c e n c i a t u r a   e n   I n f o r m á t i c a
+C o u r s e :   H a n d s   O n   E s s e n t i a l s   ­   D a t a   W a r e h o u s e S n o w f l a k e J a n ,   2 0 2 3
+C o u r s e :   A n a l í t i c a   d e   D a t o s   p a r a   l a   T o m a   d e   D e c i s i o n e s U d e m y O c t ,   2 0 2 2
+C o u r s e :   M a s t e r   e n   P o w e r   B I   D A X U d e m y J u n ,   2 0 2 2
+C o u r s e :   P o w e r   Q u e r y   –   T r a n s f o r m a c i ó n   d e   d a t o s   e n   E x c e U d e m y M a r ,   2 0 2 2
+C o u r s e :   E s t a d í s t i c a   p a r a   C i e n c i a   d e   D a t o s   y   A n a l í t i c a U d e m y M a r ,   2 0 2 2
+C e r t i f i c a t i o n :   B u s i n e s s   E n g l i s h :   N e t w o r k i n g C o u r s e r a D e c ,   2 0 2 1
+C e r t i f i c a t i o n :   B u s i n e s s   E n g l i s h :   M e e t i n g s C o u r s e r a S e p ,   2 0 2 1
+C o u r s e :   D a t a   V i s u a l i z a t i o n   &   S t o r y t e l l i n g U d e m y A p r ,   2 0 2 1
+C o u r s e :   C i e n c i a   d e   D a t o s   c o n   R   y   R S t u d i o U d e m y A p r ,   2 0 2 1
+C o u r s e :   Q l i k V i e w   A v a n z a d o U d e m y M a r ,   2 0 2 1
+C o u r s e :   A n á l i s i s   y   V i s u a l i z a c i ó n   d e   D a t o s   c o n   T a b l e a u U d e m y A u g ,   2 0 2 0
+C o u r s e :   O D I   1 1 g U d e m y A p r ,   2 0 2 0
+C o u r s e :   I n t r o d u c c i ó n   a   M i c r o s o f t   P o w e r   B I U d e m y J a n ,   2 0 2 0
+C o u r s e :   S A P   H a n a   L a   n u e v a   p l a t a f o r m a   t e c n o l ó g i c a U d e m y J a n ,   2 0 2 0
+C o u r s e :   I n f o r m a t i c a   D a t a   Q u a l i t y I n f o r m a t i c a   a   t r a v é s   d e   S a n t a n d e r J u n ,   2 0 1 4
+C o u r s e :   T e r a d a t a S e g u r o s   B a n c o m e r A p r ,   2 0 1 2
+C o u r s e :   M i c r o s t r a t e g y   D e s k t o p :   R e p o r t i n g   E s s e n t i a l s S e g u r o s   B a n c o m e r M a r ,   2 0 1 2
+C o u r s e :   P o w e r   P l a y   S e r i e s   7   V e r s i o n   3   E x p l o r a t i o n   a n d S e g u r o s   B a n c o m e r O c t ,   2 0 1 0
+E n g l i s h A u t o   E v a l u a d o U p p e r   I n t e r m e d i a t e   5 1 ­ 7 9 %
+W i n S C P   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+W i n d o w s   S e r v e r   2 0 0 3   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+W i n d o w s   M o b i l e   J u n i o r   ( 1 ­ 2   Y o E )
+W i n d o w s   7 / X P   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+V i s u a l   S t u d i o   2 0 1 2   T r a i n e e   ( 0 ­ 1   Y o E )
+U l t r a ­ E d i t   1 1 . 2 0 b   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+T o a d   f o r   O r a c l e   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+T o a d   f o r   M y S Q L   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+T e r a d a t a   D B   1 3   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+T a b l e a u   D e s k t o p   9 . 3 . 5   –   1 0 . 1   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+T a b l e a u   D e s k t o p   8   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+T a b l e a u   D e s k t o p   2 0 1 9 ­ 2 0 2 0   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+
+--- Página 7 ---
+
+S Q L   S e r v e r   2 0 0 0   E n t e r p r i s e   M a n a g e r   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+S Q L   S e r v e r   2 0 0 0   D a t a   T r a n s f o r m a t i o n   S e r v i c e s   ( D T S )   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+S h a r e P o i n t   2 0 0 7   J u n i o r   ( 1 ­ 2   Y o E )
+S A S   E n t e r p r i s e   G u i d e   T r a i n e e   ( 0 ­ 1   Y o E )
+S A P   H a n a   S t u d i o   2 . 2 . 9   J u n i o r   ( 1 ­ 2   Y o E )
+S A P   B u s i n e s s   O b j e c t s   4 . 2   S P 6   J u n i o r   ( 1 ­ 2   Y o E )
+R e p o r t i n g   S e r v i c e s   2 0 1 0   J u n i o r   ( 1 ­ 2   Y o E )
+R e m o t e   D e s k t o p   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+P o w e r S h e l l   J u n i o r   ( 1 ­ 2   Y o E )
+O r a c l e   S Q L   D e v e l o p e r   D a t a   M o d e l e r   1 9 . 2 . 0 . 1 8 2 . 1 2 1 6   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+O r a c l e   S Q L   D e v e l o p e r   4 . 1 . 5 . 2 1   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+O r a c l e   S Q L   D e v e l o p e r   2 0 . 2 . 0 . 1 7 5   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+O r a c l e   S Q L   D e v e l o p e r   1 9 . 2 . 0 . 2 0 6   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+O r a c l e   D a t a b a s e   1 2 c   E n t e r p r i s e   E d i t i o n   R e l e a s e   1 2 . 1 . 0 . 1 . 0   6 4 b i t   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+O r a c l e   D a t a b a s e   1 0 g   E n t e r p r i s e   E d i t i o n   R e l e a s e   1 0 . 2 . 0 . 3 . 0   6 4 b i t   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+O r a c l e   D a t a   I n t e g r a t o r   1 1 g   ( 1 1 . 1 . 1 )   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+O r a c l e   D a t a   I n t e g r a t o r   ( O D I )   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+O r a c l e   1 2 C   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M y S Q L   Q u e r y   B r o w s e r   1 . 1 . 2 0   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M o b a X t e r m   2 1 . 1 .   J u n i o r   ( 1 ­ 2   Y o E )
+M i c r o s o f t   S Q L   S e r v e r   I n t e g r a t i o n   S e r v i c e s   ( S S I S )   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M i c r o s o f t   S Q L   S e r v e r   2 0 1 2   M a n a g e m e n t   S t u d i o   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M i c r o s o f t   S Q L   S e r v e r   2 0 0 8   R 2   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M i c r o s o f t   S Q L   S e r v e r   2 0 0 8   M a n a g e m e n t   S t u d i o   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M i c r o s o f t   S Q L   S e r v e r   2 0 0 0   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+M i c r o s o f t   S Q L   S e r v e r   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+I n t e r n e t   I n f o r m a t i o n   S e r v i c e s   ( I I S )   6 . 0   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+I n t e g r a t i o n   S e r v i c e s   2 0 1 2   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+I n t e g r a t i o n   S e r v i c e s   2 0 0 8   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+I n f o r m a t i c a   P o w e r   C e n t e r   E x p r e s s   9 . 6 . 1   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+I n f o r m a t i c a   D e v e l o p e r   9 . 6 . 1   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+I n f o r m a t i c a   A n a l y s t   9 . 5 . 1   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+I B M   I n f o r m i x   7   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+I B M   I n f o r m i x   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+H P   V e r t i c a   0 8 . 0 0 . 0 1 0 0   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+E x c e l   2 0 0 7   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+E c l i p s e   T r a i n e e   ( 0 ­ 1   Y o E )
+D b V i s u a l i z e r   9 . 5 . 6   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+D B e a v e r   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+C o g n o s   P o w e r   P l a y   7   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+C o g n o s   I m p r o m p t u   A d m i n i s t r a t o r   7 . 4   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+A c c e s s   2 0 0 7   P r o f i c i e n t   ( 2 ­ 4   Y o E )

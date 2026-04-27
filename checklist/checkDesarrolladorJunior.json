@@ -1,0 +1,188 @@
+{
+    "capacidadRecursosHumanos": {
+        "experiencia": [
+             {
+                "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 2 años en un centro de desarrollo de software. Además del dominio de Tecnologías del AR y/o tecnologías open source?",
+                "detalle": "Para el rol del Desarrollador Junior Al menos 2 años de experiencia en programación en tecnologías de la AR y/o tecnologías open source.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita funciones de creación de sistemas (paquetes de software), implementación y puesta punto para que puedan ser funcionales, a través de lenguajes de programación?",
+                "detalle": "Crear los sistemas (paquetes de software), implementarlos y hacer una puesta punto para que puedan ser funcionales, todo ello a través de lenguajes de programación.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha implementado user stories con estándares de codificación y unit testing?",
+                "detalle": "MR + cobertura",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha corregido hallazgos de SAST/DAST y documentado remediaciones?",
+                "detalle": "Lista de hallazgos + fixes Pruebas de Seguridad de Aplicaciones Estáticas (SAST - Static Application Security Testing) Pruebas de Seguridad de Aplicaciones Dinámicas (DAST - Dynamic Application Security Testing)",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha preparado artefactos para el paquete (manual de instalación/configuración) y soportado entrega a AVL?",
+                "detalle": "Checklist + acuse",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha registrado tareas/issues en GitLab y seguido flujo de ramas/etiquetado?",
+                "detalle": "Historial GitLab",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha documentado evidencias de fase para carpetas y VoBo?",
+                "detalle": "Evidencias + check",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha participado en INT/UAT/PROD y solucionado defectos hasta VoBo?",
+                "detalle": "Evidencias + VoBo en pruebas de INT-Integración, UAT pruebas de aceptación de usuarios, PROD en ambiente de producción",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La cronología de periodos laborales suma al menos los 2 años requeridos?",
+                "detalle": "Check + acuses",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+                "detalle": "Fechas correctas en el periodo de experiencia: La fecha Desde, debe ser un mes posterior a la última fecha Hasta, los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La cronología de periodos laborales suma al menos los 2 años requeridos?",
+                "detalle": "Check + acuses",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+                "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV documenta y muestra experiencia en habilidades en: Conceptos de programación y trabajo en equipo?",
+                "detalle": "firmado por el recurso humano",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV evidencia su capacidad de entrega mediante métricas de ejecución, tales como: número de tickets/historias de usuario cerrados por Sprint, porcentaje de cobertura de pruebas unitarias implementadas y cumplimiento de tiempos en la atención de incidentes de mantenimiento?",
+                "detalle": "",
+                "resultado": ""
+            }
+        ],
+         "competenciaHabilidadTrabajo": [
+            {
+                "concepto": "¿El candidato cuenta con estudios de nivel superior en carrera técnica de nivel medio superior o nivel superior acreditable de nivel licenciatura o ingeniería?",
+                "detalle": "Acreditar la competencia señalada Estudios nivel superior acreditable de nivel licenciatura o ingeniería",
+                "resultado": ""
+            }
+        ],
+         "dominioHerramientas": [
+            {
+                "concepto": "¿El candidato cuenta con certificaciones?",
+                "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar el dominio de alguna - Certificación",
+                "detalle": "No es requerida",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar conocimiento comprobable en las tecnologías descritas - Cursos Lenguajes de Programación, Cómputo en la nube, Bases de Datos, Sistemas Operativos,Servicios integrales de autenticación:",
+                "detalle": "Conocimiento comprobable en las tecnologías descritas en la introducción del documento Anexo Staff, Lenguajes de Programación: Java (open jdk), Ansi, C#, C/, C++, DataStage, Basic, 4GL, SPL, Transact SQL, Python, Scala, R, Rust. Cómputo en la nube: AWS, Azure, Data Factory, Databricks, Dockers/Kubernetes, ARO (Azure Redhat OpenShift), Data Pipelines. Bases de Datos: PostgreSQL, Oracle, MariaDB, IBM, Informix, SQL Server, QVD, Azure SQL, Cassandra, DataLake, DB2. Sistemas Operativos: Linux, Unix, Windows Server, z/OS, Spice. Servicios integrales de autenticación: E-firma, OAuth 2.0, OWIN, SAML2, Omniguard.",
+                "resultado": ""
+            }
+        ]
+    },
+        "dominioHerramientas": [
+        {
+            "concepto": "¿Utiliza uno o más lenguajes de programación acordes al proyecto (backend y/o frontend) siguiendo guías básicas de codificación?",
+            "detalle": "Módulos desarrollados, descripción de tecnologías (Java, C#, JS, Python, etc.).",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Aplica buenas prácticas básicas de desarrollo (nombres claros, manejo de errores simple, comentarios)?",
+            "detalle": "Ejemplos de código o descripción de prácticas usadas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas de control de versiones (Git/GitLab/GitHub) para registrar cambios de código?",
+            "detalle": "Commits, repositorios, historial de cambios.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Trabaja bajo un flujo de ramas definido por el equipo (feature, develop, main), bajo supervisión?",
+            "detalle": "Menciones a ramas o trabajo mediante pull/merge requests.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Ejecuta compilaciones o builds locales siguiendo instrucciones del equipo o pipeline definido?",
+            "detalle": "Descripción de builds locales o ejecución de comandos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Apoya la ejecución de pruebas unitarias o básicas (propias o existentes) según indicaciones del equipo técnico?",
+            "detalle": "Uso de frameworks de prueba o apoyo en correcciones.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Registra y atiende incidencias o defectos técnicos asignados en herramientas de seguimiento (Jira, Azure DevOps, Service Desk)?",
+            "detalle": "Tickets gestionados, estados cambiados, correcciones entregadas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Corrige defectos técnicos derivados de pruebas funcionales o de integración validando la solución?",
+            "detalle": "Defectos cerrados, revalidaciones apoyadas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Trabaja en ambientes de desarrollo y pruebas (DEV/INT/UAT) siguiendo instrucciones y procedimientos definidos?",
+            "detalle": "Uso de ambientes y despliegues controlados.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Verifica su funcionalidad tras despliegues menores o cambios locales?",
+            "detalle": "Pruebas básicas post-deploy, validaciones simples.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas colaborativas para comunicación y seguimiento técnico (Teams, correo, reuniones)?",
+            "detalle": "Minutas, coordinación técnica documentada.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Consulta y actualiza documentación técnica o funcional en repositorios colaborativos (Confluence, SharePoint, repos Git)?",
+            "detalle": "Documentos consultados/actualizados, control de versiones.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Elabora o actualiza documentación técnica básica (comentarios de código, README, notas técnicas)?",
+            "detalle": "Archivos README, notas de implementación.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Tiene noción y participa en pipelines de CI/CD ejecutando tareas asignadas (build, test, deploy guiado)?",
+            "detalle": "Menciones a pipelines ejecutados o monitoreados.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye ejemplos donde aplicó conocimientos adquiridos en cursos o capacitaciones técnicas?",
+            "detalle": "Caso concreto: qué aprendió, cómo lo aplicó, resultado.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        }
+    ]
+    
+}

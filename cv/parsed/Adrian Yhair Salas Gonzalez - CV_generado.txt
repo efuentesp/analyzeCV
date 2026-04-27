@@ -1,0 +1,110 @@
+Adrian Yhair Salas Gonzalez
+Desarrollador BI de atención de incidentes
+FUNCIONES
+Analizo las propuestas de requerimientos de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos, así como en la coordinación con desarrolladores, testers y áreas de negocio. Realizo validaciones funcionales mediante pruebas de aceptación y seguimiento a Pruebas, mantengo interlocución constante con usuarios y coordino las actividades de analistas junior, asegurando un conocimiento integral de los requerimientos del proyecto asignado. Cuento con habilidades de liderazgo, identificación de problemas y propuesta de soluciones, así como dominio en el uso de herramientas y metodologías de análisis como Design Thinking y UML. Además, me comunico eficazmente con diferentes audiencias y elaboro documentación bajo marcos de trabajo tradicionales y ágiles.
+A lo largo de mi experiencia he participado en el ciclo completo de desarrollo de aplicaciones y soluciones analíticas, desde el análisis de requerimientos y comprensión de procesos y datos hasta el diseño, programación, implementación, pruebas, entrenamiento a usuarios y mantenimiento. He trabajado con Qlik, Power BI, Tableau, SQL Server, SSIS, OBIEE y BI Publisher, desarrollando paneles, reportes, modelos de datos e integraciones de múltiples fuentes.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 3 años en desarrollo de soluciones de BI, aplicaciones, dashboards interactivos, tableros, informes automáticos y reportes. Domino tecnologías de Inteligencia de Negocio aplicadas a estos entornos. Analizo, corrijo y doy mantenimiento a procesos y componentes BI para la atención de incidentes, generando y ajustando código conforme a la especificación técnica. Ejecuto actividades de soporte y desarrollo de acuerdo con lo establecido, apegándome a estándares definidos, asegurando la calidad de la información, la continuidad operativa y el cumplimiento de los tiempos establecidos.
+
+A lo largo de mi trayectoria he participado en el ciclo completo de desarrollo de aplicaciones y soluciones analíticas, desde el análisis de requerimientos y entendimiento de procesos y datos hasta el diseño, programación, implementación, pruebas, entrenamiento a usuarios y mantenimiento. He trabajado con Qlik, Microsoft Power BI, Tableau, SQL Server (Motor de base de datos para consultas y validaciones), SSIS (Herramienta ETL de Microsoft para integración de datos), OBIEE y BI Publisher, desarrollando paneles, reportes, modelos de datos e integraciones entre múltiples fuentes.
+
+También he atendido incidencias y tareas de soporte, manteniendo niveles de servicio altos, elaborando documentación de procesos y administrando ambientes y componentes de QlikSense. Mi experiencia incluye migraciones entre plataformas, automatización de informes y construcción de soluciones para áreas de ventas, finanzas, recursos humanos, encuestas y operación, con enfoque en resolver problemas y habilitar la toma de decisiones.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Sr Data Analyst  Support | Desde:
+2 octubre 2023 | Hasta: 
+A la fecha
+Actividades Principales | • Mantengo y doy soporte a los aplicativos de Inteligencia de Negocio dominando diversos lenguajes de programación. Tengo habilidades en bases de datos relacionales y no relacionales, técnicas de diseño para el modelado de datos, versionamiento del código con Git (Control de versiones distribuido) y el diseño y desarrollo de procesos de Extraer, Transformar y Cargar (ETL).
+• Diseño, desarrollo y doy mantenimiento a soluciones de BI, como dashboards, reportes, tableros automáticos y servicios web frontend y backend, asegurando al menos 2 años de experiencia en este tipo de implementaciones.
+• Construyo, implemento y pongo en operación componentes y sistemas BI mediante lenguajes de programación, garantizando su correcto funcionamiento en ambientes productivos.
+• Implemento historias de usuario cumpliendo estándares de codificación y ejecuto pruebas unitarias para asegurar la calidad de los desarrollos.
+• Analizo y corrijo hallazgos de seguridad, documentando las remediaciones aplicadas en los componentes BI.
+• Preparo artefactos técnicos, como manuales de instalación y configuración, y doy soporte a la integración y entrega de paquetes a AVL.
+• Registro y gestiono tareas e incidencias en GitLab, siguiendo flujos de ramas, versionamiento y etiquetado definidos.
+• Documento evidencias de cada fase del desarrollo y soporte para su integración en carpetas y VoBo.
+• Participo en ambientes INT, Pruebas de Aceptación de Usuario (UAT) y PROD, atendiendo y resolviendo defectos hasta obtener VoBo.
+• Mantengo una trayectoria laboral consistente, acumulando al menos 2 años de experiencia en desarrollo BI y atención de incidentes, con fechas claras y sin traslapes.
+• Aplico conocimientos en bases de datos relacionales y no relacionales, modelado de datos, versionamiento con Git (Control de versiones distribuido), desarrollo de aplicaciones web y procesos de Extraer, Transformar y Cargar (ETL) y ELT.
+• Cumplo con tiempos, esfuerzo y calidad comprometidos, generando métricas de ejecución como tickets e historias cerradas por sprint, cobertura de pruebas y cumplimiento en tiempos de atención de incidentes.
+• Atiendo incidentes en entornos productivos de BI, analizando, reproduciendo y corrigiendo fallas mediante bugfix, hotfix y parches.
+• Participo en la resolución de incidentes según su severidad y prioridad, asegurando continuidad operativa y estabilidad de la información.
+• Realizo validaciones técnicas posteriores a cada corrección para garantizar la solución definitiva del incidente.
+• Colaboro con equipos de soporte, pruebas y usuarios técnicos durante la atención de incidentes, asegurando una comunicación efectiva.
+• Documento soluciones técnicas, lecciones aprendidas y contribuyo a bases de conocimiento para mejora continua.
+• Identifico, gestiono y escalo riesgos e issues técnicos que puedan afectar la operación de soluciones BI.
+• Aseguro el cumplimiento de estándares, lineamientos del proyecto y buenas prácticas de desarrollo, calidad y operación.
+• Cuento con sólidos conocimientos en soluciones de BI que me permiten analizar y resolver incidentes complejos mediante el uso de herramientas y procesos establecidos, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos que puedan afectar la calidad de la información y la continuidad operativa; además, valido correcciones, ejecuto pruebas y documento evidencias durante la atención de incidentes. Trabajo de forma autónoma con mínima supervisión, cumpliendo los tiempos comprometidos y manteniendo un alto nivel de especialización en entornos BI.
+• He aplicado el curso SQL TOTAL – Domina Bases de Datos de 0 a Avanzado en 12 Días para diseñar, consultar y administrar bases de datos relacionales utilizando SQL desde un nivel básico hasta avanzado
+• He utilizado la certificación Certified ScrumMaster® (CSM) para facilitar equipos ágiles, coordinar eventos Scrum y promover la mejora continua en la entrega de valor
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro especificaciones detalladas de componentes y servicios, asegurando su alineación con los requerimientos operativos, los niveles de servicio (SLAs) y los estándares definidos.
+• CTR: Coordino y superviso la construcción e implementación de componentes y soluciones, garantizando su correcta integración dentro del modelo de operación del servicio.
+• DOC: Genero y mantengo la documentación técnica y operativa, asegurando la trazabilidad, estandarización y soporte a la continuidad y mejora del servicio.
+• Implemento nuevas aplicaciones.
+• Atiendo incidencias y tareas, manteniendo el SLA hasta un 95 %.
+• Creo documentación de procesos empresariales.
+• Doy soporte para informes utilizando Microsoft Report Builder.
+• Doy soporte para aplicaciones QlikSense.
+• Administro QMC, incluyendo aplicaciones, tareas, flujos, nodos, roles y reglas de seguridad.
+• Administro Vizlib.
+• Administro el servidor QlikSense.
+• Migro más de 60 paneles de control de QlikSense a Tableau.
+• Traduzco la aplicación Tickets de Microsoft Power BI a Tableau.
+• Presto apoyo al departamento de ingresos y a la administración de ventas, trabajando en estrecha colaboración con las partes interesadas para transformar sus necesidades en requisitos técnicos, añadiendo nuevas funciones a la aplicación Customer Revenue Achievement.
+• Traduzco vistas, tablas, CTE y consultas complejas de SQL Server (Motor de base de datos para consultas y validaciones) a GCP.
+• Traduzco la aplicación Inventory Forecasting de Python a Tableau.
+Empresa
+Rackspace Tecnology | Puesto
+Sr BI Developer | Desde:
+31 marzo 2022 | Hasta: 
+30 junio 2023
+Actividades Principales | • Migro más de 60 paneles de control de QlikSense a Tableau.
+• Traduzco la aplicación Tickets de Microsoft Power BI a Tableau.
+• Presto apoyo al departamento de ingresos y a la administración de ventas, trabajando en estrecha colaboración con las partes interesadas para transformar sus necesidades en requisitos técnicos, añadiendo nuevas funciones a la aplicación Customer Revenue Achievement.
+• Traduzco vistas, tablas, CTE y consultas complejas de SQL Server (Motor de base de datos para consultas y validaciones) a GCP.
+• Traduzco la aplicación Inventory Forecasting de Python a Tableau.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Certified Scrum Master - ScrumAlliance
+- SQL TOTAL – Domina Bases de Datos de 0 a Avanzado en 12 Días
+- QlikView/QlikSense Servers
+- QlikView
+- QlikSense
+- Microsoft SQL Management Studio (SSMS)
+- Microsoft SQL (T-SQL)
+- Microsoft Power BI
+- ETL Testing
+- DAX
+- Azure Data Factory
+- Microsoft Report Builder
+- QMC
+- Vizlib
+- Tableau
+- SQL Server
+- GCP
+- Python
+- Microsoft Power Automate
+- Power BI Report Builder
+- Power Query
+- Sybase DB
+- SQL Server Integration Services
+- BI Publisher
+- OBIEE
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 03 junio de 2013 hasta 30 marzo de 2022
+Durante este período me desempeñé como Sr BI Developer y BI Developer, asumiendo responsabilidades enfocadas en el desarrollo y evolución de soluciones de inteligencia de negocio para apoyar la toma de decisiones. Participé en el análisis de requerimientos, integración de información y construcción de reportes y tableros, además de colaborar en actividades de soporte, documentación y mejora de procesos. También acompañé la implementación de iniciativas analíticas y la coordinación de actividades relacionadas con la operación y continuidad de las soluciones.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciatura - agosto 2004 - diciembre 2009 | Instituto Tecnologico de Tepic, Tepic, Nayarit | Cédula Profesional
+7362758
+10/02/2012
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Certified Scrum Master - ScrumAlliance | 2026-2028
+CURSOS
+- SQL TOTAL – Domina Bases de Datos de 0 a Avanzado en 12 Días
+______________________________________
+Adrian Yhair Salas Gonzalez
+Desarrollador BI de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

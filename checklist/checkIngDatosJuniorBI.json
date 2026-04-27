@@ -1,0 +1,286 @@
+{
+  "capacidadRecursosHumanos": {
+    "experiencia": [
+      {
+        "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 2 años en el análisis de grandes volúmenes de datos y desarrollo de soluciones de Inteligencia de Negocio?",
+        "detalle": "Para el rol del Ingeniero de Datos BI Junior\nAl menos 2 años en el análisis de grandes volúmenes de datos y desarrollo de soluciones de Inteligencia de Negocio.",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV acredita funciones de diseño, construcción, optimización y mantenimiento de infraestructuras y soluciones tecnológicas que recolecten, almacenen, procesen y accedan a grandes volúmenes de datos de manera eficiente, segura y escalable?",
+        "detalle": "Diseñar, construir, optimizar y mantener infraestructuras y soluciones tecnológicas que recolecten, almacenen, procesen y accedan a grandes volúmenes de datos de manera eficiente, segura y escalable.\nHabilidades en:\nDiseño e implementación de procesos ETL/ELT que procesen grandes volúmenes de información.\nDefinición, construcción y mantenimiento de estructuras de almacenamiento de grandes volúmenes de datos que aseguren la eficiencia de las soluciones de Inteligencia de Negocio.\nOptimización de la carga, procesamiento y consulta de grandes volúmenes de datos.",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha desarrollado ETL/ELT siguiendo estándares y plantillas del equipo?",
+        "detalle": "Jobs + guía estándares",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha ejecutado pruebas de validación de datos (reconciliación, integridad, duplicados) con evidencia?",
+        "detalle": "Planillas + resultados",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha documentado diccionarios y mapeos de datos y actualizado control de versiones?",
+        "detalle": "Diccionario + historia Git",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha preparado insumos para liberación BI (artefactos, evidencias de pruebas) y ventana en Monitor?",
+        "detalle": "Acuse Monitor + artefactos",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha colaborado en dashboards (filtros, medidas, seguridad) y en su VoBo con negocio?",
+        "detalle": "Check de evidencias",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha aportado evidencias de BI a la carpeta mensual (pruebas, resultados, KPIs)?",
+        "detalle": "Lista BI en carpeta",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La experiencia suma ≥2 años en en el análisis de grandes volúmenes de datos y desarrollo de soluciones de Inteligencia de Negocio?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La cronología de periodos laborales suma al menos los 2 años requeridos?",
+        "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+        "detalle": "Fechas correctas en el periodo de experiencia:\nLa fecha \"Desde\", debe ser un mes posterior a la última fecha \"Hasta\", los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+        "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV documenta muestra experiencia en habilidades de:\nDiseño e implementación de procesos ETL/ELT que procesen grandes volúmenes de información.\nDefinición, construcción y mantenimiento de estructuras de almacenamiento de grandes volúmenes de datos que aseguren la eficiencia de las soluciones de Inteligencia de Negocio.\nOptimización de la carga, procesamiento y consulta de grandes volúmenes de datos.?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV presenta numeralia (volumen de datos, número de tablas/modelos, cantidad de ETL/ELT administrados, tiempo de procesamiento, SLAs de carga, mejoras de desempeño, usuarios/áreas atendidas, KPIs BI implementados) que permita contextualizar el alcance y complejidad de las soluciones BI que ha gestionado?",
+        "detalle": "• Volumen de datos (GB/TB) • Nº de tablas / modelos semánticos • Nº de pipelines ETL/ELT diseñados u optimizados • Porcentajes de mejora (tiempos de carga, reducción de errores, performance) • Nº de temas o dashboards implementados • SLAs de entrega de datos • Nº de usuarios/áreas atendidas",
+        "resultado": ""
+      }
+    ],
+    "competenciaHabilidadTrabajo": [
+      {
+        "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+        "detalle": "Acreditar la competencia señalada\nEstudios nivel superior acreditable de nivel licenciatura o ingeniería",
+        "resultado": ""
+      }
+    ],
+    "dominioHerramientas": [
+      {
+        "concepto": "¿El candidato cuenta con certificaciones?",
+        "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+        "resultado": ""
+      },
+      {
+        "concepto": "Acreditar conocimiento comprobable en al menos tres de los siguientes temas - Cursos\n• Cómputo en nube (AWS Certified Big Data, Azure, Databricks, Docker/Kubernetes), ARO (Azure Redhat OpenShift).\n• Big Data (Cloudera Certified Associate (CCA), Data Analyst, Hadoop, Spark).\n• Bases de datos Relacionales (MySQL, PostgreSQL, SQL Server, Oracle).\n• Bases de datos NoSQL (MongoDB, Cassandra, Redis, HBase).\n• Lenguajes de programación (Python, SQL, Scala, Rust, Java, R).\n• Herramientas de procesamiento de datos (Databricks, Data Factory, DataStage, Hadoop, Spark, Kafka).\n• Herramientas de Big Data (Apache, Dask, Flink).\n• Diseño y desarrollo de procesos ETL/ELT (Extract, Transform, Load).\n• Modelos y Arquitecturas de Datos (DataLakes, Data Pipelines, Arquitecturas distribuidas).\n• Visualización de Datos (Fabric, Tableau, Grafana).\n• Automatización de Procesos y DevOps (CI/CD).",
+        "detalle": "Conocimiento comprobable en al menos dos de los siguientes temas:\n• Cómputo en nube (AWS Certified Big Data, Azure, Databricks, Docker/Kubernetes), ARO (Azure Redhat OpenShift).\n• Big Data (Cloudera Certified Associate (CCA), Data Analyst, Hadoop, Spark).\n• Bases de datos Relacionales (MySQL, PostgreSQL, SQL Server, Oracle).\n• Bases de datos NoSQL (MongoDB, Cassandra, Redis, HBase).\n• Lenguajes de programación (Python, SQL, Scala, Rust, Java, R).\n• Herramientas de procesamiento de datos (Databricks, Data Factory, DataStage, Hadoop, Spark, Kafka).\n• Herramientas de Big Data (Apache, Dask, Flink).\n• Diseño y desarrollo de procesos ETL/ELT (Extract, Transform, Load).\n• Modelos y Arquitecturas de Datos (DataLakes, Data Pipelines, Arquitecturas distribuidas).\n• Visualización de Datos (Fabric, Tableau, Grafana).\n• Automatización de Procesos y DevOps (CI/CD).",
+        "resultado": ""
+      }
+    ]
+  },
+  "certificaciones": [
+    {
+      "concepto": "¿El candidato cuenta con los documentos que acrediten las certificaciones?",
+      "detalle": "Evidencias escaneadas digitalizadas.\nCoincidencia en nombre entre CV y documentos\nSAT cotejará validez con las instituciones certificadoras\nCopia simple, digitalizada preferentemente a color, con información clara y legible de los documentos que acrediten la(s) certificación(es) vigente(s)\nCertificaciones deben permanecer vigentes durante toda la vigencia del contrato",
+      "resultado": ""
+    },
+    {
+      "concepto": "La certificación 1 es legible y vigente",
+      "detalle": "El documento oficial de cada certificado está en el repositorio\nEspecificar ¿cuál es?",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Las fechas de emisión y expiración está claramente indicadas?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La certificación tendrá vigencia durante toda la vida del contrato (o existe plan de renovación documentado)?",
+      "detalle": "A partir de que inicie son 24 meses = 731 días naturales",
+      "resultado": ""
+    }
+  ],
+  "cursos": [
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato adjunta constancia de cursos de Bases de datos Relacionales?",
+      "detalle": "Conocimiento comprobable en al menos tres de los siguientes temas:\n• Bases de datos Relacionales (MySQL, PostgreSQL, SQL Server, Oracle).",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato adjunta constancia de cursos de Lenguajes de programación?",
+      "detalle": "Conocimiento comprobable en al menos tres de los siguientes temas:\n• Lenguajes de programación (Python, SQL, Scala, Rust, Java, R).",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El candidato adjunta constancia de cursos de Herramientas de procesamiento de datos?",
+      "detalle": "Conocimiento comprobable en al menos tres de los siguientes temas:\n• Herramientas de procesamiento de datos (Databricks, Data Factory, DataStage, Hadoop, Spark, Kafka).",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La fecha de emisión del curso está registrada?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+      "detalle": "Preferentemente a color",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿La constancia está en español o incluye traducción simple?",
+      "detalle": "En caso de que no, incluir la traducción simple",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+      "detalle": "",
+      "resultado": ""
+    }
+  ],
+  "dominioHerramientas": [
+    {
+      "concepto": "¿Usa herramientas de ETL/ELT para construir o modificar flujos según estándares del equipo?",
+      "detalle": "Scripts, flujos, logs de ejecución",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Utiliza herramientas de validación de datos (consultas SQL, planillas QA, reglas de integridad) para documentar resultados de pruebas BI?",
+      "detalle": "Planillas con validaciones y capturas",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Versiona componentes BI (consultas, scripts, DAX, pipelines) en GitLab siguiendo flujo de ramas aprobado?",
+      "detalle": "Commits/MR en GitLab",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Construye elementos de visualización BI (gráficos, campos calculados, filtros, KPIs básicos) según estándares del equipo?",
+      "detalle": "Dashboards básicos o componentes BI",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Ejecuta pruebas BI (reconciliación de datos, validaciones de cálculo, integridad) y reporta hallazgos?",
+      "detalle": "Resultados de QA + lista de hallazgos BI",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Genera evidencia BI para carpetas mensuales (capturas, logs de QA, KPIs)?",
+      "detalle": "Checklist de evidencia BI",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Maneja correctamente plantillas BI (nomenclatura, convención de nombres, versionado)?",
+      "detalle": "Control de versiones + naming",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿Opera herramientas colaborativas para documentación BI (OneDrive, Confluence, SharePoint)?",
+      "detalle": "Historial de versiones o repos BI",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    },
+    {
+      "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+      "detalle": "Esta clara en el CV",
+      "resultado": ""
+    }
+  ]
+}

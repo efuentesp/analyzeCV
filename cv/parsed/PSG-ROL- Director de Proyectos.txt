@@ -1,0 +1,151 @@
+
+
+--- Página 1 ---
+
+Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.Rol Director de 
+Proyectos
+
+--- Página 2 ---
+
+2 |           Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.Restricciones
+Nombre del documento: Rol Director de Proyectos
+Clasificación de la Información: INTERNA
+Restricciones
+›Los contenidos de este documento son propiedad de Softtek y son sólo para uso interno. Queda 
+estrictamente prohibido cualquier reproducción total o parcial sin la autorización escrita por parte de 
+Softtek. 
+›Este documento está sujeto a cambios. Los comentarios, correcciones o dudas deberán ser enviados 
+al autor
+Número de 
+versiónFecha de 
+versiónTipo de Cambios Autor / RevisorFecha de Revisión 
+/ Expiración
+1 4 Junio2020 Creacióndel Documento PSG. FECG N/AAudiencia Propósito
+Miembros de la Práctica Application Development Conocerla definición de los roles del PDSS
+Tabla de Revisión
+›La siguiente tabla enlista las revisiones realizadas a este documento. Debe utilizarse para 
+describir los cambios y adiciones cada vez que este documento vuelva a ser publicado. La 
+descripción debe ser detalla e incluir el nombre de quien solicita los cambios .
+
+--- Página 3 ---
+
+3 |           Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.›Definición Rol
+›Procesos en los que participa
+›Definición de los seniorities del rol
+›Técnicas / Métodos / Certificaciones
+›Competencias
+›Plan de carreraContenido
+
+--- Página 4 ---
+
+4 |           Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.›El Director de Proyectos es el responsable de definir las
+estrategias para el inicio, planificación, diseño, ejecución,
+seguimiento, control y cierre de un Programa de proyectos;
+considerando las restricciones del mismo en cuanto alcance,
+tiempo, calidad, costos, riesgos y satisfacción del cliente, así como
+los recursos disponibles.Definición del rol
+
+--- Página 5 ---
+
+5 |           Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.› Actividades que realiza
+›Colaborar en la definición y presentación del programa de proyectos.
+›Definir los objetivos del programa de proyectos de acuerdo a la solicitud 
+del cliente.
+›Establecer la estrategia de ejecución del programa de proyectos.
+›Revisar la sincronía/orquestación de los proyectos del programa.
+›Colaborar en la integración del equipo critico/estratégico de acuerdo a las 
+necesidades del programa.
+›Gestionar los recursos estratégicos.
+›Generar estrategias para resolver la gestión del cambio organizacional.
+›Establecer las prioridades de atención para mantener el programa 
+alineado a los objetivos establecidos.Definición del rol
+
+--- Página 6 ---
+
+6 |           Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.
+›Procesos en los que participa:
+›ENG - Engagement
+›ISP – Initialize Software Project
+›PTO – Project Tracking and Oversight
+›PCR– Project Change Request
+›FPT – Formalize Project TerminationDefinición del rol
+
+
+--- Página 7 ---
+
+7 |           Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.›Procesos en los que participa:
+›ENG
+›Colaboración en elaboración de estrategia de solución del requerimiento del cliente
+›ISP
+›Establecer la estrategia de ejecución del programa de proyectos.
+›PTO
+›Realizar el seguimiento al programa de proyectos.
+›FPT
+›Establecer la estrategia de cierre del programa de proyectos.
+›PCR
+›Establecer la estrategia de control de cambios en los proyecto del programa.Definición del rol
+
+--- Página 8 ---
+
+8 |           Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.SeniorityCaracterísticas de Programa de 
+proyectosRecursospara GestiónAños en 
+el rol
+Senior 1 programa hasta  N proyectos 
+Entre 25,000 y 50,000Hrs.35 a 70 personas
+Reportaa Gerencia media2
+Expert 1 o 2 programa hasta  N proyectos 
+Entre 51,000 y 100,000Hrs.70 a 120 participantes enadelante
+Reporta a Alta Dirección6
+Master 1 o 2 programa hasta  N proyectos 
+Entre 100,000 y 200,000Hrs.120 a 300 participantes enadelante
+Reporta a Alta Dirección10Definición de los niveles de 
+experiencia (seniority) del rol
+
+--- Página 9 ---
+
+9 |           Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.Técnicas / Métodos / Certificaciones
+Técnicas Metodos/ Modelos Certificaciones
+Estimación de tiempos PMI Certificación PMP y alguna 
+especializada-opcional.
+Diagrama de red PvTool PgM(Certificación o en 
+proceso) 
+Ruta crítica ITIL SOA -OSA
+Diagrama de Gantt Scrum
+Compresión SAFe
+Estimación de costos CMMI
+Análisis del presupuesto
+Identificación,  análisis, 
+categorización y cuantificación de 
+riesgos
+Análisis de funciones y competencias
+Valor Ganado
+
+--- Página 10 ---
+
+10 |           Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.Habilidad
+Focalizado a resultados Trabajoen equipo Comunicación oral
+Apropiamiento de la responsabilidad del resultado Liderazgo Comunicación escrita
+Asertividad Negociación Escucha activa
+Orientado a logro de objetivos Motivación Resoluciónde problemas
+Certeza de que una vez aceptado el reto del 
+programa,éste es alcanzable. Hacer el objetivo del 
+programa realidad. Toma de decisiones Manejode estrés
+Perseverancia Pensamiento estratégico Toleranciaa la frustración
+Compromiso Influencia Creatividad
+Capacidad de delegar Seleccióndel equipo de 
+trabajo primarioCompetencias
+
+--- Página 11 ---
+
+11 |           Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.
+Plan de Carrera
+
+--- Página 12 ---
+
+Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno. 
+Todos los Derechos Reservados © Valores Corporativos Softtek S.A. de C.V. Interno.Proceso de desarrollo 
+https://onesofttek.sharepoint.com/sites/SKCops
+pcs/appdev/sdpv3sp/SitePages/Home.aspxRoles PDSS
+https://onesofttek.sharepoint.com/sites/SKCops
+pcs/appdev/desapp/sitePages/Entrenamiento.a
+spx

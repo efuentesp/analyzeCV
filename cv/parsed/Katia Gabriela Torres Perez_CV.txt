@@ -1,0 +1,131 @@
+Katia Gabriela Torres Perez
+PERFIL		Administrador de Proyectos
+En los últimos años, me he desempeñado como Administradora de Proyectos, Service Manager y Scrum Master, cuento con experiencia en manejo de equipos multidisciplinarios, planificación estratégica, entrega de proyectos dentro del presupuesto y plazos establecidos. También tengo experiencia en el diseño y la implementación de procesos de gestión de proyectos con clientes de madurez baja, media y alta en esta rama. Mi objetivo es potenciar la eficiencia, calidad y satisfacción del cliente, a través de la gestión de proyectos, siempre trabajando bajo la línea de colaboración y respeto para obtener los mejores resultados.
+EXPERIENCIA PROFESIONAL
+Softtek CDMX                                                    Administrador de Proyectos                                            From: Feb, 2019 To: Actual
+Resumen de actividades
+Cliente: DHL (Scrum Master) Nov 24
+-Seguimiento, aseguramiento y coordinación de actividades del equipo. · Reporte diario al área de sistemas y reportes semanales a la PMO.
+- Control de proyecto en JIRA, PPM.
+- Identificación y gestión de riesgos e issues.
+- Negociación con el cliente.
+- Gestión de backlog, registro de defectos, creación de tableros en JIRA.
+- Acompañamiento y coordinación de pruebas y pases a QA.
+- Gestión para la implementación de la metodología Agile en el proyecto con las ceremonias establecidas por el marco.
+- Seguimiento de documentación en el repositorio oficial del cliente.
+Cliente: ELEMENT (Scrum Master) Jun 24
+-Seguimiento, aseguramiento y coordinación de actividades del equipo. · Reporte diario al área de sistemas y reportes semanales a la PMO.
+- Control de proyecto en JIRA, PPM.
+- Identificación y gestión de riesgos e issues.
+- Negociación con el cliente.
+- Gestión de backlog, registro de defectos, creación de tableros en JIRA.
+- Acompañamiento y coordinación de pruebas y pases a QA.
+- Gestión para la implementación de la metodología Agile en el proyecto con las ceremonias establecidas por el marco.
+- Seguimiento de documentación en el repositorio oficial del cliente.
+Cliente: PROSA (Consultor PMO) Abr 24
+- Apoyo en el assessment del gobierno de la PMO.
+- Apoyo en la generación de propuesta de la primera versión del Ciclo de Desarrollo para sus fábricas de Software para sus fábricas de Software.
+- Apoyo para dar recomendaciones de las mejores prácticas en Gestión de Proyectos. Apoyo para dar recomendaciones de las mejores prácticas con base en el PMI para su gobierno de Proyectos.
+Cliente: AKSI (Project Manager) Mar 24
+- Relacionamiento y atención de foros con el cliente para el reporte de estatus de cada proyecto.
+- Control del plan de trabajo y seguimiento a riesgos.
+- Aseguramiento de calidad del servicio.
+- Coordinación del equipo de 4 personas, Colombia, España y Brasil.
+Cliente: DHL (Service Manager) Sep 21
+-Coordinación de hasta 40 personas bajo el formato de Servicio Administrado.
+- Generación de reportes diarios, semanales y mensuales del Servicio.
+- Apoyo en la generación de Dashboards ejecutivos para el cliente en PPM.
+- Seguimiento al plan de diseño de procesos de la PMO, basados en el servicio de PMService que ofrece Softtek.
+- Aseguramiento y continuidad del plan de Implementación de los procesos del PMService, tales como procesos de Demanda, Capacitación, Contingencia, Riesgos, Control de Cambios.
+- Administración del equipo de Gestión (PM’s PMPool)
+- Seguimiento a planes de trabajo, control de riesgos, control de documentación, métricas, bajo la metodología Waterfall.
+- Administración del Servicio Administrado de Prevención y Fraudes, Integraciones, Infraestructura y PMO.
+- Relacionamiento y atención de foros con el cliente para el reporte de estatus de cada proyecto.
+- Aseguramiento y continuidad del plan de implementación de los procesos Globales DHL.
+- Aseguramiento de calidad del servicio.
+- Relacionamiento y atención de foros con el cliente para el reporte de estatus de cada servicio.
+- Relacionamiento y atención de foros con el cliente para el reporte de estatus de cada servicio.
+- Elaboración de planes de trabajo para el personal a mi cargo, así como tomar el liderazgo del proyecto.
+Cliente: Walmart (Scrum Master) Mar 21
+-Generación del plan de trabajo del proyecto asignado del área de Sistemas.
+- Seguimiento, aseguramiento y coordinación de actividades del equipo.
+- Reporte diario al área de sistemas y reportes semanales a áreas de negocio y CIO.
+- Control de proyecto en JIRA, PPM.
+- Identificación y gestión de riesgos e issues.
+- Negociación con el cliente y proveedores.
+- Gestión de backlog, registro de defectos, creación de tableros en JIRA.
+- Acompañamiento y coordinación de pruebas y pases a QA.
+- Gestión para la implementación de la metodología Agile en el proyecto con las ceremonias establecidas por el marco.
+- Seguimiento de documentación en el repositorio oficial del cliente.
+- Gestión con áreas de Servicios Financieros, Arquitectura, Infraestructura, Negocio, Laboratorio, Dirección, Compras y Legal.
+- Coordinación de una célula de 15 personas.
+Cliente : Element (Service Manager) · Oct 19
+- Assessment, Diseño, implementación y seguimiento del modelo del PMService.
+- Aseguramiento y continuidad del plan de implementación de los procesos de la PMO, tales como procesos de Demanda, Capacitación, Riesgos y Control de Cambios.
+- Administración del equipo de PMs del servicio, bajo el marco de trabajo waterfall y agile.
+- Apoyo en seguimiento de planes de trabajo, control de riesgos, control de documentación y métricas.
+- Generación de reportes del Servicio.
+- Relacionamiento y atención de foros con el cliente para el reporte de estatus de cada proyecto.
+- Aseguramiento de calidad del servicio.
+- Coordinación del equipo de 5 personas.
+Cliente: Bimbo (Service Manager) Feb 19
+- Aseguramiento de cumplimiento de SLAs.
+- Reforzamiento de procesos de PMO Global de Bimbo.
+- Seguimiento de Gestión de Proyectos de las diferentes torres del negocio, gestionando riesgos, planes de mitigación, documentación, bajo el marco waterfall.
+- Reporte directo a Gerente de Bimbo para brindar el estatus de los proyectos.
+- Entrega de evidencias de manera mensual al área de Governance sobre los SLAS para pago de facturas.
+- Capacitación de procesos del servicio del PMService.
+- Implementación de procesos de contingencia.
+- Seguimiento al plan de desarrollo del equipo.
+- Análisis de balanceo de cargas de trabajo para negociación de optimización de recursos.
+- Coordinación del equipo de 25 personas.
+Interno:
+Apoyo en el diseño e implementación de la mejora del servicio de PMService como una nueva oferta en la práctica de APP APP DEV.
+Apoyo en la realización y presentación de propuestas para Metalsa, Coppel, DHL, AIG, Walmart Argentina, Infonavit, ADO, Tec de Monterrey.
+Apoyo en la implementación para cumplir con el Driver de Seguridad de la cuenta de Element.
+Tools/Skills: PPM/Kintana, PDSS / SSDP, Jira ServiceDesk, Microsoft Power BI
+bSide                                                       CDMX  Back Sales                             From: Apr, 2014 To: Jan, 2019
+Resumen de actividades
+- Relación con el equipo de Microsoft México para el cierre de oportunidades, así como el manejo de sus herramientas para la venta de soluciones.
+- Administración y actualización del Pipeline de Ventas de la Compañía con oportuno seguimiento a todas las etapas de la venta.
+- Gestión de Forecast.
+- Gestión del equipo de ventas y preventa.
+- Responsable de licitaciones RFP, RFI.
+- Venta de licencias y seguimiento de licenciamiento de Office 365 a cartera vigente.
+- Soporte primer nivel de incidencias de Office 365.
+- Enlace entre área comercial y operativa.
+- Aseguramiento de entregables para seguimiento de facturación y cobranza de cada proyecto.
+- Reporte directo a Dirección Comercial y a Dirección General.
+Tools/Skills: Microsoft Power BI, MS SharePoint Designer
+TI360 CDMX                            Consultor Comercial                    From: Jan, 2013 To: Mar, 2014
+Resumen de actividades
+Atención a cuentas claves.
+-Relaciones Públicas.
+- Seguimiento a proyectos especiales, organización, logística y supervisión de ferias y exposiciones.
+- Apoyo en implementación de las soluciones móviles, así como seguimiento a la post implementación
+Apoyo a las áreas de Desarrollo, Soporte Técnico y Mercadotecnia.
+Tools/Skills: AllProWebTools CRM
+Movistar CDMX                   Consultor comercial                        From: Jun, 2007 To: Nov, 2011
+Resumen de actividades
+-Atención a clientes internos y externos.
+- Reporte y análisis de ventas.
+- Detección de nuevos canales de venta.
+- Mantenimiento y apoyo en crecimiento de cuentas claves (distribuidores)
+- Organización, logística y supervisión de eventos.
+- Seguimiento de implementación de procesos.
+- Reporte directo a Gerente de Zona y de Región.
+EDUCACIÓN
+TECMILENIO ONLINE                                                                               From: May, 2023 To: Dec, 2023  Especialidad en Innovación Se estudió la especialidad de INNOVACIÓN
+Universidad Tecnológica de México CDMX                                    From: Jan, 2017 To: Apr, 2019 Maestría en Dirección de Proyectos
+Facultad de Ciencias Políticas y Sociales CDMX                        From: Sep, 2002 To: Dec, 2006 Licenciatura Relaciones Internacionales
+DESARROLLO PROFESIONAL:
+Project Management Professional Project Management Institute Sep, 2024
+Scrum Master Scrum Study Jan, 2021
+Nivel de Ingles: Lower Intermediate
+SKILLS TÉCNICOS:
+PPM/Kintana Proficient (24 YoE)
+PDSS / SSDP Junior (12 YoE)
+MS SharePoint Designer Proficient (24 YoE)
+Microsoft Power BI Junior (12 YoE)
+Jira ServiceDesk Proficient (24 YoE)
+AllProWebTools CRM Proficient (24 YoE)

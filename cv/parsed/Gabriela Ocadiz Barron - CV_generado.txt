@@ -1,0 +1,134 @@
+Gabriela Ocadiz Barron
+Lider Tecnico de atencion de incidentes
+FUNCIONES
+Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operacion de los aplicativos, evaluando la situacion, tomando decisiones criticas y asegurando una comunicacion efectiva para la resolucion de incidentes. Cuento con habilidades en toma de decisiones y liderazgo.
+He desarrollado una trayectoria enfocada en soporte y continuidad operativa de aplicaciones empresariales para GE, atendiendo incidentes y requerimientos conforme a SLA, realizando monitoreo, analisis de impacto, documentacion y acompanamiento funcional a usuarios. Tambien he participado en mantenimiento de workflows, respaldo de bases de datos y ejecucion de pruebas en proyectos de soporte y desarrollo.
+EXPERIENCIA PROFESIONAL
+Cuento con mas de 5 anos de experiencia en desarrollo de software, liderazgo tecnico y atencion y resolucion de problemas. Poseo dominio de tecnologias de la Arquitectura de Referencia (AR) y/o tecnologias open source. Adicionalmente, tengo 3 anos de experiencia trabajando bajo metodologias agiles.
+
+He construido una trayectoria enfocada en soporte y continuidad operativa de aplicaciones empresariales para GE, atendiendo incidentes y requerimientos conforme a SLA, realizando monitoreo, analisis de impacto, documentacion y acompanamiento funcional a usuarios. Tambien he participado en mantenimiento de workflows, respaldo de bases de datos y ejecucion de pruebas en proyectos de soporte y desarrollo.
+
+Mi experiencia me permite mantener la estabilidad del servicio mediante seguimiento puntual, comunicacion con areas involucradas y resolucion ordenada de fallas en entornos con Oracle, Tableau, Informatica y herramientas de gestion. Aporto criterio tecnico para atender incidencias, dar continuidad a procesos definidos por el cliente y apoyar la operacion diaria de aplicaciones criticas.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Software Engineer | Desde:
+1 enero 2025 | Hasta: 
+30 junio 2025
+Actividades Principales | • Dirijo y coordino equipos de trabajo para restaurar servicios ante fallas que se presentan en la operacion de los aplicativos. Evaluo la situacion, tomo decisiones criticas y aseguro una comunicacion efectiva para resolver incidentes. Tengo habilidades en toma de decisiones y liderazgo. Como lider tecnico de atencion de incidentes, planifico, controlo y doy seguimiento a la fase de resolucion y estabilizacion, asegurando la correcta implementacion de soluciones alineadas a la arquitectura de software, incluidos patrones de diseno y la cobertura general de la aplicacion. Tomo decisiones tecnologicas y de implementacion utilizando y/o adaptando frameworks y estandares, y brindo asesoria al equipo tecnico en la atencion de incidentes complejos para garantizar la continuidad operativa.
+• Entiendo la propuesta de negocio y las necesidades del cliente, aplicandolas en la atencion y resolucion de incidentes en entornos productivos, especialmente en servicios y plataformas criticas.
+• Defino planes de trabajo detallados para atender incidentes, priorizando actividades conforme a su severidad (P1-P4) y asegurando el cumplimiento de SLA/OLA.
+• Estimo y asigno las tareas tecnicas necesarias para la resolucion de incidentes, coordinando esfuerzos entre desarrolladores, especialistas e infraestructura.
+• Colaboro con el arquitecto en la definicion de soluciones tecnicas durante incidentes, asegurando alineacion con la arquitectura y estandares establecidos.
+• Aseguro la aplicacion de estandares de codificacion y bases de datos durante la implementacion de soluciones correctivas.
+• Asesoro y coordino a ingenieros de software en la atencion de incidentes, especialmente en escenarios criticos o de alta complejidad.
+• Garantizo el uso adecuado de frameworks y subsistemas de soporte para asegurar la correcta atencion de requerimientos no funcionales como seguridad, disponibilidad, escalabilidad y desempeno.
+• Administro la configuracion de los componentes involucrados en la solucion de incidentes, asegurando control y trazabilidad de cambios.
+• Desarrollo y/o coordino implementaciones de solucion (fixes, hotfixes) para restaurar servicios afectados.
+• Aseguro la aplicacion de checklists en la validacion de soluciones antes de su liberacion a produccion.
+• Coordino la integracion de componentes tecnicos dentro de la arquitectura para garantizar una recuperacion estable del servicio.
+• Defino prioridades en cada iteracion de atencion de incidentes, enfocandome en minimizar el impacto al negocio.
+• Promuevo la aplicacion de patrones de diseno en las soluciones implementadas para evitar recurrencias.
+• Participo en la definicion de esquemas de integracion entre aplicaciones durante la resolucion de incidentes.
+• Coordino la atencion de incidentes criticos (Major Incidents), liderando convocatorias, toma de decisiones tecnicas y comunicacion durante la contingencia.
+• Identifico la causa raiz de incidentes y lidero analisis post-incidente (RCA), implementando acciones preventivas para evitar recurrencias.
+• Trabajo en entornos de operacion continua, asegurando la estabilidad y continuidad del servicio despues de la resolucion de incidentes.
+• Actuo como punto de escalamiento tecnico y enlace entre mesa de servicios, desarrollo, infraestructura y seguridad.
+• Genero resultados medibles en la mejora de la operacion, reduciendo tiempos de atencion, reincidencias e impacto al negocio.
+• Mantengo una trayectoria continua en roles de atencion y gestion de incidentes, consolidando experiencia en entornos productivos.
+• He participado en proyectos de mas de 20 mil horas, donde lidero la atencion de incidentes y defino soluciones para requerimientos no funcionales, asegurando la estabilidad y el correcto desempeno de los sistemas en produccion. Ademas, planifico y coordino equipos de mas de 15 ingenieros de software durante la resolucion de incidentes, garantizando una ejecucion eficiente y oportuna de las actividades.
+• He aprovechado la certificación AWS Certified Cloud Practitioner para aplicar fundamentos de computación en la nube, servicios de AWS, seguridad y modelos de costos
+• He utilizado la certificación Microsoft Certified: Azure Fundamentals para aplicar conceptos fundamentales de computación en la nube, servicios de Azure, seguridad y principios básicos de arquitectura
+• He aplicado la certificación Scrum Fundamentals Certified para comprender y aplicar los principios básicos del marco de trabajo Scrum en entornos ágiles
+• He puesto en práctica la certificación Scrum Master Certified para facilitar equipos Scrum, gestionar ceremonias ágiles y promover la entrega de valor continuo en proyectos
+• Participo en los siguientes procesos definidos por la metodologia PDSS3 de atencion de proyectos tradicionales de Softtek:
+• CTR: Diseno y preparo testware, ademas de ejecutar pruebas independientes.
+• STD: Diseno y preparo testware, asi como generar scripts de pruebas de desempeno.
+• STE: Ejecuto escenarios de prueba.
+• INT: Diseno y preparo testware.
+• Pruebas de Aceptacion de Usuario (UAT): Apoyo en las actividades de pruebas del usuario.
+• Realizo soporte de sistema SOA (Service Oriented Architecture) bajo los procesos estandar definidos por el cliente, mantenimiento de workflows y datos en Proficy Workflow Client, y respaldo de bases de datos.
+• Atiendo incidents y requerimientos de acuerdo a los SLAs.
+• Resuelvo Break/Fix basado en la metodologia del cliente.
+• Creo y mantengo documentacion.
+• Guio a usuarios sobre la funcionalidad de la aplicacion.
+• Desarrollo enhancements menores.
+• Programo mejoras de codigo y arreglo de bugs para aplicaciones en Oracle 6i, 8i, 9i, 10g, 12c y 19c, Oracle PL/SQL y Oracle Forms and Reports.
+• Realizo monitoreo de aplicaciones e interfaces.
+• Realizo analisis de impacto.
+• Modifico y publico reportes de Tableau.
+• Monitoreo y ejecuto workflows de Informatica.
+• Manejo requerimientos en ServiceNow (ITSM para incidencias, cambios y problemas).
+• Doy soporte a aplicaciones en Jira (Herramienta de gestion agil y seguimiento de issues/sprints) y Confluence (Documentacion colaborativa y base de conocimiento).
+Empresa
+Softtek | Puesto
+Software Engineer | Desde:
+1 diciembre 2005 | Hasta: 
+30 junio 2024
+Actividades Principales | • Atiendo incidents y requerimientos de acuerdo a los SLAs.
+• Resuelvo Break/Fix basado en la metodologia del cliente.
+• Creo y mantengo documentacion.
+• Guio a usuarios sobre la funcionalidad de la aplicacion.
+• Desarrollo enhancements menores.
+• Programo mejoras de codigo y arreglo de bugs para aplicaciones en Oracle 6i, 8i, 9i, 10g, 12c y 19c, Oracle PL/SQL y Oracle Forms and Reports.
+• Realizo monitoreo de aplicaciones e interfaces.
+• Realizo analisis de impacto.
+• Modifico y publico reportes de Tableau.
+• Monitoreo y ejecuto workflows de Informatica.
+• Manejo requerimientos en ServiceNow (ITSM para incidencias, cambios y problemas).
+• Doy soporte a aplicaciones en Jira (Herramienta de gestion agil y seguimiento de issues/sprints) y Confluence (Documentacion colaborativa y base de conocimiento).
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- AWS Certified Cloud Practitioner
+- Microsoft Certified: Azure Fundamentals
+- Scrum Fundamentals Certified (SFC(TM)) - SCRUMstudy
+- Scrum Master Certified (SMC(TM)) - SCRUMstudy
+- Tableau
+- PLSQL
+- Oracle SQL Developer
+- Oracle Reports
+- Oracle Forms/Reports
+- Oracle Forms
+- Oracle Database
+- Oracle
+- Microsoft SQL Server
+- JIRA
+- Informatica Power Center
+- Informatica
+- Confluence
+- SQL Server Management Studio 20.2
+- Workflow Proficy Client
+- DBeaver
+- Service Now
+- Oracle Forms and Reports 12c
+- Oracle PL/SQL
+- Pro C
+- GitHub
+- PL/SQL Developer
+- CVS
+- Oracle 8i
+- Oracle 9i
+- Oracle 10g
+- Oracle 12c
+- Oracle 19c
+- Oracle Forms and Reports 6i
+- Oracle Forms and Reports 19c
+- Oracle Forms/Reports 8i
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 febrero de 2001 hasta 31 diciembre de 2024
+Durante este periodo me desempeñe como Software Engineer y Application Developer, participando en actividades de desarrollo y soporte para aplicaciones empresariales. Realice ajustes a formas, reportes y componentes de base de datos, ejecute escenarios de prueba y apoye la atencion de necesidades operativas bajo procesos definidos. Tambien colabore en iniciativas de automatizacion orientadas a mejorar procesos de facturacion y contratacion, manteniendo un enfoque en continuidad de servicio, documentacion y cumplimiento de requerimientos del negocio.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciatura en Computacion - agosto 1996 a diciembre 2000 | Universidad Autonoma del Estado de Hidalgo, Pachuca, Hidalgo | Cédula Profesional
+3717660
+22/10/2002
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- AWS Certified Cloud Practitioner | 2022-2025
+- Microsoft Certified: Azure Fundamentals | 2020
+- Scrum Fundamentals Certified (SFC(TM)) - SCRUMstudy | 2022
+- Scrum Master Certified (SMC(TM)) - SCRUMstudy | 2022-2025
+______________________________________
+Gabriela Ocadiz Barron
+Lider Tecnico de atencion de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

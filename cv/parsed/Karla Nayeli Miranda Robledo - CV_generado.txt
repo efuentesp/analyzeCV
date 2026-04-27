@@ -1,0 +1,88 @@
+Karla Nayeli Miranda Robledo
+Analista Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, me responsabilizo de descubrir, sintetizar y analizar información procedente de herramientas, procesos, documentación y Partes interesadas.
+
+He participado en la recopilación e interpretación de necesidades digitales para la automatización de procesos, elaborando historias de usuario, diagramas y documentación funcional que han soportado mejoras operativas. Trabajo con equipos de desarrollo y áreas de negocio para definir requisitos, gestionar sprints con Jira (Herramienta de gestión ágil y seguimiento de issues/sprints), acompañar pruebas Pruebas de Integración de Sistemas (SIT)/Pruebas de Aceptación de Usuario (UAT) y asegurar liberaciones a producción, contribuyendo a la continuidad del servicio y control del alcance.
+EXPERIENCIA LABORAL
+Empresa
+SCIT IN REAL TIME CDMX | Puesto
+Business Analyst - Senior | Desde:
+2 octubre 2023 | Hasta: 
+31 marzo 2024
+Actividades Principales | • Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora, Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.
+• Entiendo las verdaderas necesidades usando un conjunto de técnicas de análisis.
+• Involucro a las Partes interesadas para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta y libre de ambigüedad.
+• Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a las Partes interesadas ejecutar sus procesos con mayor eficacia.
+• Diseño la solución funcional que satisface los requerimientos de las Partes interesadas, junto con la estrategia de implementación necesaria para generar valor al negocio.
+• Aseguro que la solución sea aprobada conscientemente por las Partes interesadas, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.
+• He usado la certificación Domina SCRUM con JIRA Agile – Metodologías Ágiles que me ha permitido aplicar Scrum con Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).
+• He usado la certificación The Complete UML Course: Learn to Design UML Diagrams que me ha permitido diseñar diagramas Lenguaje Unificado de Modelado (UML) para modelado de sistemas.
+• He usado la certificación UX: Máster en Diseño web y Experiencia de Usuario que me ha permitido diseñar experiencias web centradas en el usuario.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+GUI: Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.
+INT: Proveo las entradas necesarias para la integración de sistemas.
+STD: Participo en las actividades de diseño de pruebas de sistema.
+STE: Participo en la ejecución de las pruebas de sistema.
+DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+UAT: Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.
+• Elaboro historias de usuario funcionales y técnicas.
+• Elaboro diagramas para visualización de los procesos implementados.
+• Elaboro manuales de los procesos implementados.
+• Creo épicas, tareas para actividades y doy seguimiento de Sprints en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints). Hago seguimiento a pruebas Pruebas de Integración de Sistemas (SIT), Pruebas de Aceptación de Usuario (UAT) y liberación a Producción.
+• Soporto errores de tercer nivel a las aplicaciones de seguros AXA.
+• Elaboro el análisis de requerimientos y participo en el desarrollo de soluciones y mejoras al sistema de seguros AXA.
+• Participo en pruebas de desarrollo, seguimiento de pruebas de integración (Pruebas de Integración de Sistemas (SIT)) y pruebas de aceptación con negocio (Pruebas de Aceptación de Usuario (UAT)).
+• Defino requisitos en conjunto con el área de negocio estableciendo la mejor solución y su correcta implementación.
+• Defino las historias de usuario.
+• Uso Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) para la planeación de actividades y seguimiento a través de sprints; genero reportes y artículos de conocimiento a través de la herramienta SILVA.
+• Elaboro manuales de nuevos procesos implementados; realizo CRUD en Oracle Database (Motor de base de datos empresarial) y SQL Server (Motor de base de datos para consultas y validaciones).
+• Uso control de versiones TFS (Azure DevOps Server) (Gestión de work items, repos y pipelines; soporte a pruebas) y Git (Control de versiones distribuido); trabajo con Java (Lenguaje de programación para desarrollo de aplicaciones) Enterprise y Progress v8, v9 y v11.
+• Utilizo comandos en Linux/Unix (Sistemas operativos para administración y automatización) para la generación de control-m.
+Empresa
+Capgemini Mexico | Puesto
+Business Analyst - Senior | Desde:
+1 diciembre 2016 | Hasta: 
+30 junio 2023
+Actividades Principales | • Soporto errores de tercer nivel a las aplicaciones de seguros AXA.
+• Elaboro el análisis de requerimientos y participo en el desarrollo de soluciones y mejoras al sistema de seguros AXA.
+• Participo en pruebas de desarrollo, seguimiento de pruebas de integración (Pruebas de Integración de Sistemas (SIT)) y pruebas de aceptación con negocio (Pruebas de Aceptación de Usuario (UAT)).
+• Defino requisitos en conjunto con el área de negocio estableciendo la mejor solución y su correcta implementación.
+• Defino las historias de usuario.
+• Uso Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) para la planeación de actividades y seguimiento a través de sprints; genero reportes y artículos de conocimiento a través de la herramienta SILVA.
+• Elaboro manuales de nuevos procesos implementados; realizo CRUD en Oracle Database (Motor de base de datos empresarial) y SQL Server (Motor de base de datos para consultas y validaciones).
+• Uso control de versiones TFS (Azure DevOps Server) (Gestión de work items, repos y pipelines; soporte a pruebas) y Git (Control de versiones distribuido); trabajo con Java (Lenguaje de programación para desarrollo de aplicaciones) Enterprise y Progress v8, v9 y v11.
+• Utilizo comandos en Linux/Unix (Sistemas operativos para administración y automatización) para la generación de control-m.
+HERRAMIENTAS CONOCIDAS
+- JIRA
+- SILVA
+- Ofimática
+- NotePad++
+- GitHub
+- TFS
+- Visio
+- Ludichart
+- Macro en Excel
+FORMACIÓN ACADÉMICA:
+Licenciatura en Sistemas Computacionales - septiembre 2011 - diciembre 2014 | Universidad Mexicana CDMX | Cédula Profesional
+13648610
+8/18/2023
+CURSOS
+- Domina SCRUM con JIRA Agile – Metodologías Ágiles
+- The Complete UML Course: Learn to Design UML Diagrams
+- UX: Máster en Diseño web y Experiencia de Usuario
+______________________________________
+Karla Nayeli Miranda Robledo
+Analista Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

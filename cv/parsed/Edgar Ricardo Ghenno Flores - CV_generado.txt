@@ -1,0 +1,150 @@
+Edgar Ricardo Ghenno Flores
+Arquitecto Experto
+FUNCIONES
+Valido que cada componente interactúe de forma sistémica en todas las iteraciones de un proyecto para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades, y propongo soluciones a las necesidades de manera integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, y evaluación y optimización del rendimiento del sistema mediante la selección de las tecnologías más adecuadas.
+He participado en consultoría y arquitectura empresarial para definir capacidades, hojas de ruta y soluciones integrales en banca, retail, manufactura, energía y sector público, alineando procesos, aplicaciones e integración con necesidades de negocio, microservicios, nube y modernización. He liderado equipos multidisciplinarios y coordinado trabajo entre negocio, arquitectura y desarrollo para establecer estándares y gobierno de arquitectura, además de identificar dependencias, brechas y oportunidades de mejora para proponer soluciones integradas y comunicar roadmaps de transformación.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 3 años de experiencia en centros de desarrollo de software. Además, cuento con 5 años de experiencia en análisis de sistemas y manejo de equipos de trabajo. Soy responsable de definir la arquitectura de software a implementar, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación, definiendo y adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de tareas complejas.
+
+He participado en consultoría y arquitectura empresarial para definir capacidades, hojas de ruta y soluciones integrales en banca, retail, manufactura, energía y sector público. He alineado procesos, aplicaciones e integración con necesidades de negocio, microservicios, nube y modernización.
+
+He liderado equipos multidisciplinarios y coordinado trabajo entre negocio, arquitectura y desarrollo para establecer estándares y gobierno de arquitectura. También he identificado dependencias, brechas y oportunidades de mejora para proponer soluciones integradas y comunicar roadmaps de transformación.
+EXPERIENCIA LABORAL
+Empresa
+Softtek – Grupo Industrial Saltillo | Puesto
+Arquitecto Empresarial | Desde:
+1 abril 2025 | Hasta: 
+A la fecha
+Actividades Principales | • Valido que cada componente interactúe sistémicamente en todas las iteraciones de un proyecto para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades, y propongo soluciones a las necesidades de manera integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, y evaluación y optimización del rendimiento del sistema mediante la elección de las tecnologías más adecuadas.
+• Defino la arquitectura y la solución técnica con base en la propuesta de negocio y las necesidades del cliente.
+• Defino los estándares de codificación y de bases de datos.
+• Defino los patrones de diseño y los funcionales.
+• Brindo asesoría a los Líderes Técnicos.
+• Defino los subsistemas de soporte.
+• Defino la administración de la configuración para construcción.
+• Defino implementaciones de referencia.
+• Defino checklist para las pruebas de escritorio del diseño generado.
+• Valido la integración de macrocomponentes a la arquitectura.
+• Recomiendo prioridades para la construcción requerida en cada iteración.
+• Valido la integración sistémica de componentes para asegurar la congruencia con el flujo de negocio y de información.
+• Participo en fases de visión, levantamiento de requisitos y definición de arquitectura de negocio, sistemas de información y arquitectura tecnológica.
+• Establezco procesos de control y aseguro el cumplimiento de los estándares de arquitectura en los proyectos.
+• Utilizo herramientas de modelado como ArchiMate, Sparx EA y Visio (Herramienta de diagramación técnica) para documentar arquitecturas.
+• Participo en proyectos de migración a la nube, modernización de aplicaciones e integración de sistemas, aplicando Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) como marco de referencia.
+• Comunico arquitecturas y roadmaps a directivos, equipos técnicos y usuarios clave.
+• Demuestro la alineación de las soluciones tecnológicas propuestas con los objetivos del negocio.
+• Integro Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) con metodologías ágiles (Scrum, Marco Ágil Escalable (SAFe)) y tradicionales (Profesional en Gestión de Proyectos (PMP), PRINCE2).
+• He participado en proyectos mayores a 20 mil horas, donde soluciono requerimientos no funcionales complejos, identifico y mitigo riesgos técnicos, y aseguro el desempeño correcto del sistema.
+• He usado la certificación TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura)) 9 Certified 2013 como marco de arquitectura empresarial para aplicar ADM y gobierno de arquitectura.
+• He usado la certificación TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura)) 9 Certified 2014 como marco de arquitectura empresarial para aplicar ADM y gobierno de arquitectura.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• ARC: Encabezo las actividades de diseño de la arquitectura y su implementación, generando sus productos entregables.
+• SFD: Proveo patrones funcionales y estándares de interfaz de usuario.
+• DBI: Proveo estimados de volumen y requerimientos de desempeño.
+• CIS: Valido los entregables de la especificación detallada de componentes.
+• CTR: Doy seguimiento a los estándares utilizados en el desarrollo de componentes.
+• INT: Valido los ambientes de despliegue para la integración del sistema.
+• DOC: Proveo entradas para la documentación técnica.
+• Consultoría estratégica para homologación de procesos centrales del negocio que incluyen operaciones en México y Europa y con el fin de poder proponer la sistematización de sus funciones con soluciones integrales abarcando desde el diseño e investigación hasta la comercialización de los productos de la organización.
+• Diseño del modelo de capacidades integral de la situación actual de ambas regiones y propuesta de homologación, incluyendo no sólo soluciones homogéneas si no también soluciones que pudieran ser replicadas independientemente de la ubicación geográfica de la operación.
+• Identificación de funciones específicas para ser soportadas por un ERP y que sirvieron como base para la licitación vía un RFP de dicha solución
+• Realicé consultoría estratégica para la identificación de capacidades y funciones a soportar por la implementación de un nuevo ERP
+• Fui responsable de la definición de mapa de capacidades identificando áreas de oportunidad para la optimización de funciones operativas
+• Fui responsable de la definición de procesos y sistemas que por medio de racionalización son elegibles para integrar optimizando esfuerzo y costos
+• Fui responsable del diseño de una propuesta de modelo de capacidades, identificando nuevas áreas de negocio o integrando otras para mejorar los resultados operativos y de negocio.
+• Realicé consultoría estratégica para la identificación de áreas de mejora en la operación de CryoInfra, definición de soluciones con enfoque de RPA y automatización de procesos
+• Realicé análisis financiero de ahorro por procesos
+• Identifiqué áreas de mayor impacto para la empresa, en costos con la implementación de Robots y automatización de procesos
+• Diseñé soluciones RPA usando Frida, plataforma de Softtek  de automatización.
+• Diseñé propuestas y enfoques de implementación y ejecución de proyectos de Arquitectura Empresarial para diversos clientes, utilizando el marco de trabajo Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) y estándares de industria de banca como BIAN y retail ARTS, SCOR
+• Integrante del equipo de Arquitectura empresarial que se encargó del diseño de la situación actual y futura del proceso de CATMAN para Soriana, enfocado en el modelado de los aplicativos que soportan la operación de dicho proceso y la interacción con el equipo de Blueyonder, que implementará el módulo de CATMAN de esta herramienta
+• Hice el descubrimiento y modelado de la vista de “uso de aplicaciones”, donde se incluyen servicios externos de consultoría hecha por terceros
+• Coordiné el enfoque de solución, para la colaboración del equipo de Arquitectura Empresarial y Blueyonder.
+Empresa
+Softtek – STIVA | Puesto
+Arquitecto Empresarial | Desde:
+1 noviembre 2024 | Hasta: 
+28 febrero 2025
+Actividades Principales | • Realicé consultoría estratégica para la identificación de capacidades y funciones a soportar por la implementación de un nuevo ERP
+• Fui responsable de la definición de mapa de capacidades identificando áreas de oportunidad para la optimización de funciones operativas
+• Fui responsable de la definición de procesos y sistemas que por medio de racionalización son elegibles para integrar optimizando esfuerzo y costos
+• Fui responsable del diseño de una propuesta de modelo de capacidades, identificando nuevas áreas de negocio o integrando otras para mejorar los resultados operativos y de negocio.
+Empresa
+Softtek – CryoInfra | Puesto
+Arquitecto Empresarial | Desde:
+1 enero 2024 | Hasta: 
+31 octubre 2024
+Actividades Principales | • Realicé consultoría estratégica para la identificación de áreas de mejora en la operación de CryoInfra, definición de soluciones con enfoque de RPA y automatización de procesos
+• Realicé análisis financiero de ahorro por procesos
+• Identifiqué áreas de mayor impacto para la empresa, en costos con la implementación de Robots y automatización de procesos
+• Diseñé soluciones RPA usando Frida, plataforma de Softtek  de automatización.
+Empresa
+Softtek – Softtek | Puesto
+Arquitecto Empresarial | Desde:
+1 junio 2023 | Hasta: 
+31 diciembre 2023
+Actividades Principales | • Diseñé propuestas y enfoques de implementación y ejecución de proyectos de Arquitectura Empresarial para diversos clientes, utilizando el marco de trabajo Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) y estándares de industria de banca como BIAN y retail ARTS, SCOR
+Empresa
+Softtek – Soriana | Puesto
+Arquitecto Empresarial | Desde:
+1 febrero 2023 | Hasta: 
+31 mayo 2023
+Actividades Principales | • Integrante del equipo de Arquitectura empresarial que se encargó del diseño de la situación actual y futura del proceso de CATMAN para Soriana, enfocado en el modelado de los aplicativos que soportan la operación de dicho proceso y la interacción con el equipo de Blueyonder, que implementará el módulo de CATMAN de esta herramienta
+• Hice el descubrimiento y modelado de la vista de “uso de aplicaciones”, donde se incluyen servicios externos de consultoría hecha por terceros
+• Coordiné el enfoque de solución, para la colaboración del equipo de Arquitectura Empresarial y Blueyonder.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- TOGAF 9 Certified
+- TOGAF 9 Certified
+- Excel
+- Word
+- Mural
+- Archimate
+- Archi
+- PowerPoint
+- UML
+- Sparx Enterprise Architect
+- MS Visio
+- Confluence
+- LeanIX
+- Aris
+- BPMN
+- Kafka
+- SOA Suite Oracle
+- Arquimate
+- Bizagy BPMN
+- Project
+- Visio
+- Software AG Aris
+- Windows
+- Linux
+- Java
+- C
+- C++
+- PHP
+- Javascript
+- JQuery
+- HTML
+- CSS
+- Docker
+- ApiManager
+- DB2
+- Oracle
+- MySQL
+- PosgreSQL
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 02 octubre de 1995 hasta 31 diciembre de 2022
+Durante este período me desempeñé como Arquitecto de Soluciones, Gerente de arquitectura, Arquitecto Empresarial / Soluciones / SOa, Arquitecto empresarial, Arquitecto de Soluciones, Líder de proyecto y Arquitecto Empresarial y Arquitecto Empresarial, asumiendo responsabilidades de definición de arquitecturas, coordinación de equipos, análisis de procesos, integración de sistemas y alineación entre necesidades del negocio y soluciones tecnológicas. También participé en consultoría estratégica, elaboración de roadmaps, modernización de aplicaciones, implantación de prácticas de arquitectura y seguimiento de iniciativas institucionales y corporativas, manteniendo comunicación con áreas técnicas y de negocio para dar continuidad a los proyectos.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería Electrónica - 1988 - 1995 | Universidad Autónoma Metropolitana, UAM Iztapalapa | Cédula Profesional
+2304344
+10/07/1996
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- TOGAF 9 Certified | 2013
+- TOGAF 9 Certified | 2014
+______________________________________
+Edgar Ricardo Ghenno Flores
+Arquitecto Experto | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

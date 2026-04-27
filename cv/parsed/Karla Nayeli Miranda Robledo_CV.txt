@@ -1,0 +1,52 @@
+
+
+--- Página 1 ---
+
+K a r l a   N a y e l i   M i r a n d a   R o b l e d o
+P E R F I L
+B A   e x p e r i m e n t a d o   c o n   u n   t í t u l o   e n   S i s t e m a s   C o m p u t a c i o n a l e s ,   y   m á s   d e   7   a ñ o s   d e   e x p e r i e n c i a   p r o f e s i o n a l   e n   l a   r e c o p i l a c i ó n   e   i n t e r p r e t a c i ó n
+d e   n e c e s i d a d e s   d i g i t a l e s   q u e   a y u d e n   a   l a   a u t o m a t i z a c i ó n   d e   p r o c e s o s .   A   c a r g o   d e   p r o y e c t o s   q u e   h a n   c o n d u c i d o   a   l a   m e j o r a   c o n t i n u a   y   h a n
+g e n e r a d o   r e d u c c i ó n   d e   c o s t o s   d e   h a s t a   u n   4 0   %   e n   6   m e s e s .
+E X P E R I E N C I A   P R O F E S I O N A L
+E D U C A C I Ó N
+I D I O M A S
+H A B I L I D A D E S   T É C N I C A S / G E R E N C I A L E SC I T I   I N   R E A L   T I M E C D M X   ­   B u s i n e s s   A n a l y s t   ­   S e n i o r D e :   O c t ,   2 0 2 3   A :   M a r ,   2 0 2 4
+D e s c r i p c i ó n :
+E l a b o r a c i ó n   d e   H i s t o r i a s   d e   u s u a r i o   f u n c i o n a l e s   y   t é c n i c a s .
+E l a b o r a c i ó n   d e   d i a g r a m a s   p a r a   v i s u a l i z a c i ó n   d e   l o s   p r o c e s o s   i m p l e m e n t a d o s .
+E l a b o r a c i ó n   d e   m a n u a l e s   d e   l o s   p r o c e s o s   i m p l e m e n t a d o s .
+C r e a c i ó n   d e   é p i c a s ,   t a r e a s   p a r a   a c t i v i d a d e s   y   s e g u i m i e n t o   d e   S p r i n t s   e n   J I R A   S e g u i m i e n t o   a   p r u e b a s   S I T , U A T   y   l i b e r a c i ó n   a   P r o d u c c i ó n  
+H e r r a m i e n t a s / H a b i l i d a d e s :
+C a p g e m i n i m e x i c o   ­   B u s i n e s s   A n a l y s t   ­   S e n i o r D e :   D e c ,   2 0 1 6   A :   J u n ,   2 0 2 3
+D e s c r i p c i ó n :
+S o p o r t e   a   e r r o r e s   d e   t e r c e r   n i v e l   a   l a s   a p l i c a c i o n e s   d e   s e g u r o s   A X A .
+E l a b o r a c i ó n   d e l   a n á l i s i s   d e   r e q u e r i m i e n t o s   y   d e s a r r o l l o   d e   s o l u c i o n e s   y   m e j o r a s   a l   s i s t e m a   d e   s e g u r o s   A X A .
+P r u e b a s   d e   d e s a r r o l l o   s e g u i m i e n t o   d e   p r u e b a s   d e   i n t e g r a c i ó n   ( S I T )   y   p r u e b a s   d e   a c e p t a c i ó n   c o n   n e g o c i o ( U A T ) .
+D e f i n i c i ó n   d e   r e q u e r i m i e n t o s   e n   c o n j u n t o   c o n   e l   á r e a   d e   n e g o c i o   e s t a b l e c i e n d o   l a   m e j o r   s o l u c i ó n   y   c o r r e c t a   i m p l e m e n t a c i ó n   d e l   m i s m o .
+D e f i n i c i ó n   d e   l a s   h i s t o r i a s   d e   u s u a r i o .
+U s o   d e   J I R A   p a r a   l a   p l a n e a c i ó n   d e   a c t i v i d a d e s   y   s e g u i m i e n t o   a   t r a v é s   d e   s p r i n t s .   G e n e r a c i ó n   d e   r e p o r t e s ,   a r t í c u l o s   d e   c o n o c i m i e n t o   a   t r a v é s   d e
+l a   h e r r a m i e n t a   d e   S I L V A .
+E l a b o r a c i ó n   d e   m a n u a l e s   d e   n u e v o s   p r o c e s o s   i m p l e m e n t a d o s .   C R U D   e n   O r a c l e   y   S Q L   S e r v e r .
+U s o   d e   C o n t r o l   d e   v e r s i o n e s   T F S   y   G I T .   J a v a   E n t e r p r i s e ,   P r o g r e s s   v 8 ,   v 9   y   v 1 1 .
+U s o   d e   c o m a n d o   l i n u x   p a r a   l a   g e n e r a c i ó n   d e   c o n t r o l ­ m .  
+H e r r a m i e n t a s / H a b i l i d a d e s :
+J I R A ,   S I L V A ,   O f i m á t i c a ,   N o t e P a d + + ,   G i t H u b ,   T F S ,   V i s i o ,   L u d i c h a r t ,   M a c r o   e n   E x c e l
+U n i v e r s i d a d   M e x i c a n a C D M X D e :   J a n ,   2 0 2 0   A :   A u g ,   2 0 2 1
+M a e s t r i a   e n   H a b i l i d a d e s   D i r e c t i v a s
+G e s t i o n   d e   P r o y e c t o s ,   d i a g r a m a s   d e   t r a z a b i l i d a d ,   m a t r i c e s   d e   s e g u i m i e n t o ,   i n v e s r i g a c i ó n   d e   m e r c a d o   p a r a   v e n t a   d e   s e r v i c i o s
+U n i v e r s i d a d   M e x i c a n a C D M X D e :   S e p ,   2 0 1 1   A :   D e c ,   2 0 1 4
+L i c   S i s t e m a s   C o m p u t a c i o n a l e s
+S i s t e m a s   C o m p u t a c i o n a l e s ,   C r e a c i ó n   d e   p á g i n a s   w e b ,   g e s t i ó n   d e   p r o y e c t o s   i n f o r m a t i c o s , l o g i c a   c o m p u t a c i o n a l .
+E n g l i s h A u t o   E v a l u a d o L o w e r   I n t e r m e d i a t e   3 1 ­ 5 0 %
+V i s i o   S e n i o r   ( 4 ­ 6   Y o E )
+T F S   E x p e r t   ( 6 ­ 8   Y o E )
+S I L V A   E x p e r t   ( 6 ­ 8   Y o E )
+O f i m á t i c a   S e n i o r   ( 4 ­ 6   Y o E )
+
+--- Página 2 ---
+
+N o t e P a d + +   S e n i o r   ( 4 ­ 6   Y o E )
+M a c r o   e n   E x c e l   J u n i o r   ( 1 ­ 2   Y o E )
+L u d i c h a r t   S e n i o r   ( 4 ­ 6   Y o E )
+J I R A   E x p e r t   ( 6 ­ 8   Y o E )
+G i t H u b   S e n i o r   ( 4 ­ 6   Y o E )

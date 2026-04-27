@@ -1,224 +1,645 @@
 [
   {
     "nombre": "Jeffry Antonio Armenta Palomares",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "12505645",
+    "fecha_cedula": "10/1/2021",
     "rol_propuesto": "Analista de entrega documental",
-    "resumen_profesional": "Gestión de proyectos y coordinación de equipos en entornos ágiles y de operación.\nPlanificación y seguimiento de entregables, liberaciones y actividades mediante JIRA y SharePoint.\nInterlocución con stakeholders y conducción de sesiones de UAT para validación funcional.\nElaboración y documentación de artefactos, planes de trabajo, DRP y transferencia de conocimiento.\n\nAnálisis y documentación de procesos y requerimientos técnicos para migraciones y mejoras operativas.\nImplementación de prácticas ITIL para control de incidencias y aseguramiento de calidad.\nCoordinación de presentaciones de estatus y gestión de riesgos y escalamiento de issues.\nApoyo en propuestas, cartas de cierre y gestión de cambios en ServiceNow.",
+    "resumen_profesional": "Cuento con al menos cinco años de experiencia en entrega documental. En mi rol como analista de entrega documental, soy responsable de documentar, sintetizar y analizar información de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas (Stakeholders), asegurando la correcta integración, organización y entrega de la documentación conforme a los lineamientos establecidos.\n\nHe liderado la gestión y entrega de artefactos y expedientes en entornos corporativos, manteniendo control de versiones, metadatos y trazabilidad para garantizar la integridad de la evidencia. Trabajo con equipos multidisciplinarios para coordinar firmas, validar paquetes de entrega y preparar reportes ejecutivos que facilitan la toma de decisiones del cliente.\n\nMi enfoque está en asegurar la continuidad operativa y el cumplimiento de procesos mediante la normalización de carpetas, listas de cotejo y evidencias; doy seguimiento a aclaraciones documentales y coordino liberaciones y sesiones de aceptación para validar entregables.",
     "experiencia_laboral": [
       {
         "empresa": "Softtek - NMP",
         "puesto": "Project Manager Sr/Scrum Master",
-        "fecha_inicio": "abril 2022",
+        "fecha_inicio": "1 abril 2022",
         "fecha_fin": "Actual",
         "actividades_principales": [
-          "Elaborar propuestas de proyectos",
-          "Elaborar cartas de aceptación y cierre (facturación)",
-          "Realizar sesiones de trabajo diarias basadas en Scrum y Kanban",
-          "Gestionar entregables y artefactos en SharePoint",
-          "Documentar tickets de cambio en ServiceNow",
-          "Elaborar DRP y plan de riesgos",
-          "Generar KT (knowledge transfer) para transferencia del conocimiento"
+          "Realizo la entrega documental y la recopilación de firmas que respaldan las evidencias de los servicios prestados.",
+          "Ejecuto la entrega documental mensual y recopilo las firmas necesarias que sustentan las evidencias de los servicios prestados.",
+          "Compilo y normalizo evidencias para la Carpeta Consolidada de Servicios y la Carpeta de entregas mensuales.",
+          "Completo las listas de cotejo por fase (Análisis, Diseño, Desarrollo, Pruebas, Liberación).",
+          "Integro reportes y VoBo como evidencia previa a liberación.",
+          "Preparo la evidencia de entrega de paquete para su integración.",
+          "Aplico control de versiones y gestiono metadatos (fecha/folio/autor) en todos los archivos de la carpeta.",
+          "Verifico la consistencia entre nombres, fechas y folios de todos los documentos del paquete.",
+          "Genero el reporte ejecutivo mensual con KPIs, backlog y liberaciones para su envío.",
+          "Gestiono aclaraciones documentales posteriores a la revisión, asegurando la trazabilidad de los cambios.",
+          "Preparo la evidencia de Toma de Operación (accesos ≤60 días, enlace ≤120 días, conectividad, acta) para la carpeta del mes correspondiente.",
+          "Ejecuto la pre-revisión de formato, ortografía y firmas, y valido listas de distribución y acuses.",
+          "Gestiono entre 1 y 3 proyectos con un esfuerzo total de 15,000 a 20,000 horas, asegurando la entrega documental mensual y la recopilación de firmas que sustentan las evidencias de los servicios prestados. Doy seguimiento a los entregables y reporto avances a los administradores del proyecto y al cliente.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "ISP: Inicializo la gestión documental del proyecto, definiendo lineamientos, estructura de carpetas y requisitos de evidencias.",
+          "PTO: Doy seguimiento a la entrega documental, validando avances, controlando versiones y asegurando el cumplimiento los criterios establecidos.",
+          "PCR: Gestiono y documento cambios en entregables, asegurando su trazabilidad, actualización y correcta integración en la documentación.",
+          "FPT: Formalizo la terminación del proyecto mediante la integración, validación y entrega final de la documentación con sus respectivas evidencias y firmas.",
+          "Elaboración de Propuestas de Proyectos",
+          "Elaboración de Cartas de Aceptación y Cierre (Facturación)",
+          "Sesiones de trabajo diarias con base a la metodología Scrum Master, Kanban.",
+          "Gestión de Entregables y Artefactos en Share Point.",
+          "Acompañamiento en Liberaciones.",
+          "Sesión de Pruebas de Aceptación de Usuario (UAT) para aceptación del usuario",
+          "Realizar desasignaciones y baja de cuentas.",
+          "Elaboración de Presentaciones de Comité Quincenal y estatus con usuarios.",
+          "Análisis de las bases de Datos Teradata y BigQuery para su migración.",
+          "Sesiones de trabajo diarias con base a la metodología Scrum Master.",
+          "Generación de tareas y seguimiento de las mismas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+          "Documentar a los tickets de cambio realizados en ServiceNow (ITSM para incidencias, cambios y problemas).",
+          "Identificación de Partes interesadas (Stakeholders) para solicitar información a documentar.",
+          "Gestión de la información solicitada y seguimiento de la misma.",
+          "Documentación y entrega de artefactos identificados.",
+          "Presentación de avance semanal del proyecto asignado.",
+          "Calendarización de Daily Stand Up y sesiones para mostrar avances.",
+          "Elaboración de plan de trabajo a desarrollar.",
+          "Llevar a cabo la sesión del Kick Off con los involucrados del proyecto.",
+          "Escalamiento de Issues y Warnings detectados.",
+          "Elaboración de check list y time line de las actividades del proyecto.",
+          "Elaboración del DRP y plan de riesgos.",
+          "Realización de Minutas de acuerdos de las reuniones programadas.",
+          "Programación de sesiones de seguimiento con equipo de trabajo.",
+          "Trabajo bajo la metodología Scrum Master y Biblioteca de Infraestructura de Tecnologías de Información (ITIL) v4.",
+          "Generación del CHG y RLSE para levantar el ticket del cambio.",
+          "Generación de la Transferencia de Conocimiento (KT/KTE) para la transferencia del conocimiento.",
+          "Elaboración de documentación Manuales, Diagramas de Flujo, (Casos de uso) Organigramas, Guías operativas, Comunicados y Fichas de Producto para la mejora de procesos del grupo.",
+          "Mapeo y definición de procesos por medio de la metodologia Biblioteca de Infraestructura de Tecnologías de Información (ITIL).",
+          "Creación de los Planes de trabajo mensuales mostrando el dimensionamiento de para la mejora de la atención a clientes",
+          "Diseñar modelos de operación y rediseñar procesos para simplificar la operación para un mejor entendimiento incorporando tecnología.",
+          "Creación actualización y modificación de reporte y métricas utilizando tablas dinámicas y presentaciones visuales.",
+          "Reporte semanal de avances del proyecto con los involucrados señalando los porcentajes de avance y justificación de retrasos.",
+          "Implementar en conjunto con la operación y sistemas las soluciones identificadas (proyectos especiales) orientadas a la rentabilidad y servicio.",
+          "Elaboración de manuales institucionalales y normativos para la regulación de sector",
+          "Revisión de documentos entre las áreas involucradas",
+          "Aplicación de cambios para generar la versión final",
+          "Coordinación el desarrollo de materiales",
+          "Seguimiento de acuerdos y elaboración de minutas",
+          "Elaboraciones informes de avance del proyecto, tomando las decisiones correctivas y proponiendo soluciones alternativas",
+          "Involucrar a los usuarios o clientes cuando es necesario, haciendo la negociación de compromisos"
         ]
       },
       {
         "empresa": "Softtek - Walmart",
         "puesto": "Business Analyst",
-        "fecha_inicio": "septiembre 2021",
-        "fecha_fin": "diciembre 2021",
+        "fecha_inicio": "1 septiembre 2021",
+        "fecha_fin": "31 diciembre 2021",
         "actividades_principales": [
-          "Generar tareas y dar seguimiento en JIRA",
-          "Documentar tickets de cambio en ServiceNow",
-          "Presentar avance semanal del proyecto asignado"
+         "Análisis de las bases de Datos Teradata y BigQuery para su migración.",
+          "Sesiones de trabajo diarias con base a la metodología Scrum Master.",
+          "Generación de tareas y seguimiento de las mismas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+          "Documentar a los tickets de cambio realizados en ServiceNow (ITSM para incidencias, cambios y problemas).",
+          "Identificación de Partes interesadas (Stakeholders) para solicitar información a documentar.",
+          "Gestión de la información solicitada y seguimiento de la misma.",
+          "Documentación y entrega de artefactos identificados.",
+          "Presentación de avance semanal del proyecto asignado.",
+          "Calendarización de Daily Stand Up y sesiones para mostrar avances.",
+          "Elaboración de plan de trabajo a desarrollar.",
+          "Llevar a cabo la sesión del Kick Off con los involucrados del proyecto.",
+          "Escalamiento de Issues y Warnings detectados.",
+          "Elaboración de check list y time line de las actividades del proyecto.",
+          "Elaboración del DRP y plan de riesgos.",
+          "Realización de Minutas de acuerdos de las reuniones programadas.",
+          "Programación de sesiones de seguimiento con equipo de trabajo.",
+          "Trabajo bajo la metodología Scrum Master y Biblioteca de Infraestructura de Tecnologías de Información (ITIL) v4.",
+          "Generación del CHG y RLSE para levantar el ticket del cambio.",
+          "Generación de la Transferencia de Conocimiento (KT/KTE) para la transferencia del conocimiento."
         ]
       },
       {
         "empresa": "Grupo Futuro 46 - Metlife",
         "puesto": "Documentador de Procesos / Analista de Proyectos",
-        "fecha_inicio": "abril 2020",
-        "fecha_fin": "agosto 2021",
+        "fecha_inicio": "1 abril 2020",
+        "fecha_fin": "31 agosto 2021",
         "actividades_principales": [
-          "Elaborar manuales, diagramas de flujo, organigramas, guías operativas y fichas de producto",
-          "Mapear y definir procesos mediante metodología ITIL",
-          "Crear y actualizar reportes y métricas utilizando tablas dinámicas y presentaciones visuales",
-          "Implementar soluciones identificadas con operación y sistemas orientadas a rentabilidad y servicio"
+          "Elaboración de documentación Manuales, Diagramas de Flujo, (Casos de uso) Organigramas, Guías operativas, Comunicados y Fichas de Producto para la mejora de procesos del grupo.",
+          "Mapeo y definición de procesos por medio de la metodologia Biblioteca de Infraestructura de Tecnologías de Información (ITIL).",
+          "Creación de los Planes de trabajo mensuales mostrando el dimensionamiento de para la mejora de la atención a clientes",
+          "Diseñar modelos de operación y rediseñar procesos para simplificar la operación para un mejor entendimiento incorporando tecnología.",
+          "Creación actualización y modificación de reporte y métricas utilizando tablas dinámicas y presentaciones visuales.",
+          "Reporte semanal de avances del proyecto con los involucrados señalando los porcentajes de avance y justificación de retrasos.",
+          "Implementar en conjunto con la operación y sistemas las soluciones identificadas (proyectos especiales) orientadas a la rentabilidad y servicio.",
+          "Elaboración de manuales institucionalales y normativos para la regulación de sector",
+          "Revisión de documentos entre las áreas involucradas",
+          "Aplicación de cambios para generar la versión final",
+          "Coordinación el desarrollo de materiales",
+          "Seguimiento de acuerdos y elaboración de minutas",
+          "Elaboraciones informes de avance del proyecto, tomando las decisiones correctivas y proponiendo soluciones alternativas",
+          "Involucrar a los usuarios o clientes cuando es necesario, haciendo la negociación de compromisos"
         ]
       }
     ],
-    "periodo_resumen_laboral": "noviembre 2012 - marzo 2020",
-    "resumen_laboral": "Experiencia en supervisión y gestión de soporte técnico, capacitación e implementación de buenas prácticas ITIL. Elaboración de planes de trabajo, manuales, normas y documentación operativa, así como seguimiento de incidencias y control de calidad. Coordinación de personal, gestión documental y ejecución de auditorías de procesos.",
+    "periodo_resumen_laboral": "La experiencia abarca desde 05 noviembre de 2012 hasta 30 marzo de 2020",
+    "resumen_laboral": "Durante este período me desempeñé como Business Analyst, Líder de Proyecto / Supervisor de Soporte Técnico Tercer Nivel, Documentador MyP / Supervisor de Soporte Técnico Primer Nivel, Instructor de Capacitación de Soporte Técnico y Analista de Sistemas. Asumí responsabilidades de documentación y control de evidencias, gestión de incidencias, elaboración de manuales y diagramas, coordinación de capacitación y supervisión de equipos, así como seguimiento de planes de trabajo y reportes de avance, siempre orientado a mantener la calidad operativa y el cumplimiento de niveles de servicio.",
     "estudios": {
-      "carrera": "Licenciatura en Administración (Universidad Insurgentes)",
-      "lugar": "Ecatepec, Estado de México",
+      "carrera": "Licenciatura en Administración",
+      "lugar": "Universidad Insurgentes, Ecatepec, Estado de México",
       "periodo": "2014 - 2017"
     },
+    "herramientas": [
+      {
+        "nombre": "Visio"
+      },
+      {
+        "nombre": "Word"
+      },
+      {
+        "nombre": "Excel"
+      },
+      {
+        "nombre": "Power Point"
+      },
+      {
+        "nombre": "MS Project"
+      },
+      {
+        "nombre": "Outlook"
+      },
+      {
+        "nombre": "Bizagi Modeler"
+      },
+      {
+        "nombre": "Jira"
+      },
+      {
+        "nombre": "Kanban"
+      },
+      {
+        "nombre": "Share Point"
+      },
+      {
+        "nombre": "ServiceNow"
+      },
+      {
+        "nombre": "Remedy"
+      },
+      {
+        "nombre": "Pc Anywhere"
+      },
+      {
+        "nombre": "MySQL"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "Prezi"
+      },
+      {
+        "nombre": "Moodle"
+      }
+    ],
     "certificaciones": [],
     "cursos": [
       {
         "nombre": "Curso básico de gestión documental y organización de archivo"
-      },
-      {
-        "nombre": "Identify & Define the Problem with Business Analysis"
-      },
-      {
-        "nombre": "Project Management Complete_Everything for Everyone NEW PMI"
-      }
-    ]
-  },
-  {
-    "nombre": "Luis Manuel Hernandez Manrique",
-    "rol_propuesto": "Analista de entrega documental",
-    "resumen_profesional": "Realizar análisis de requerimientos tecnológicos y de mejora de procesos,\ndocumentar y consolidar requerimientos complejos para soluciones empresariales,\ncoordinar con equipos de desarrollo, QA y áreas de negocio para garantizar alineación,\ny validar funcionalmente entregables mediante pruebas y seguimiento a QA.\nFacilitar la interlocución con usuarios y stakeholders para definir alcance y criterios,\nliderar y orientar equipos de analistas en la elaboración de historias de usuario,\naplicar metodologías ágiles y herramientas de modelado para soportar decisiones,\ny asegurar continuidad operativa y cumplimiento de requisitos en entornos críticos.",
-    "experiencia_laboral": [
-      {
-        "empresa": "IMSS",
-        "puesto": "Analista Senior",
-        "fecha_inicio": "octubre 2025",
-        "fecha_fin": "diciembre 2025",
-        "actividades_principales": [
-          "Elaborar y definir requerimientos estructurados para sistemas críticos",
-          "Diseñar casos de uso y formatos funcionales (formularios F05) para proyectos clave"
-        ]
-      },
-      {
-        "empresa": "Staff Softtek",
-        "puesto": "Analista Senior",
-        "fecha_inicio": "enero 2025",
-        "fecha_fin": "septiembre 2025",
-        "actividades_principales": [
-          "Definir y gestionar procesos de requerimientos para áreas financieras",
-          "Realizar entrevistas con usuarios para identificar KPIs y redactar historias de usuario"
-        ]
-      },
-      {
-        "empresa": "Instituto Federal de Telecomunicaciones",
-        "puesto": "Business Analyst",
-        "fecha_inicio": "septiembre 2024",
-        "fecha_fin": "diciembre 2024",
-        "actividades_principales": [
-          "Analizar propuestas y estimar tiempos de análisis basados en juicio experto",
-          "Generar entregables formales: casos de uso, diagramas y modelos de dominio"
-        ]
-      },
-      {
-        "empresa": "KIOSKO",
-        "puesto": "Business Analyst Senior",
-        "fecha_inicio": "octubre 2023",
-        "fecha_fin": "junio 2024",
-        "actividades_principales": [
-          "Definir requerimientos integrales y crear historias de usuario con criterios claros",
-          "Modelar dominios y documentar reglas de negocio para soportar diseño funcional"
-        ]
-      },
-      {
-        "empresa": "Walmart",
-        "puesto": "Business Analyst Senior",
-        "fecha_inicio": "mayo 2023",
-        "fecha_fin": "octubre 2023",
-        "actividades_principales": [
-          "Gestionar y priorizar backlog para funcionalidades críticas en servicios de tienda",
-          "Elaborar y ajustar historias de usuario y diagramas de secuencia, apoyando control de cambios"
-        ]
-      },
-      {
-        "empresa": "Walmart Proyectos RH",
-        "puesto": "Analista de Negocio",
-        "fecha_inicio": "junio 2020",
-        "fecha_fin": "marzo 2023",
-        "actividades_principales": [
-          "Definir y diseñar reglas de negocio para procesos automatizados y sistemas de nómina",
-          "Soportar integración de interfaces y realizar pruebas end-to-end para validar interacciones"
-        ]
-      }
-    ],
-    "periodo_resumen_laboral": "febrero 2014 - mayo 2020",
-    "resumen_laboral": "Desempeñar funciones de análisis de negocio y liderazgo funcional en proyectos gubernamentales y de retail, incluyendo descubrimiento de requerimientos, diseño funcional, modelado y coordinación de pruebas, con foco en integración de sistemas y mejora de procesos.",
-    "estudios": {
-      "carrera": "Ingeniería en Informática",
-      "lugar": "Ciudad de México",
-      "periodo": "junio 2000 - julio 2004"
-    },
-    "certificaciones": [],
-    "cursos": [
-      {
-        "nombre": "Agile Business Analysis"
-      },
-      {
-        "nombre": "Estimacion de proyectos de software"
-      },
-      {
-        "nombre": "Excel -Formulas tablas dinámcas y dashboards"
-      },
-      {
-        "nombre": "Financial Modeling for Business Analysts and Consultants"
-      },
-      {
-        "nombre": "Product Management Fundamentals"
-      },
-      {
-        "nombre": "Product Owner Essential"
-      },
-      {
-        "nombre": "Robust Scrum Product Owner"
-      },
-      {
-        "nombre": "Production for Management Consultants and Business Analysts"
-      },
-      {
-        "nombre": "Strategy for Management Consultants & Business Analysts"
-      },
-      {
-        "nombre": "Supply Chain for Management Consultants & Business Analysts"
       }
     ]
   },
   {
     "nombre": "Guadalupe Rosas Bernal",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "4020471",
+    "fecha_cedula": "12/15/2003",
     "rol_propuesto": "Analista de entrega documental",
-    "resumen_profesional": "Amplia experiencia en análisis y documentación de requerimientos tecnológicos para proyectos del sector financiero y comerciales. Coordinación de equipos de desarrollo, QA y áreas de negocio para asegurar cumplimiento de entregables. Gestión de cambios y seguimiento de actividades en entornos UAT y PROD.\n\nExperiencia en preparación de paquetes de instalación y soporte a pruebas, configuración de mecanismos de intercambio de archivos y automatización de procesos. Elaboración y actualización de documentación técnica durante migraciones y upgrades para garantizar continuidad operativa.",
+    "resumen_profesional": "Dispongo de al menos 5 años de experiencia en entrega documental. En mi rol como analista de entrega documental, soy responsable de documentar, sintetizar y analizar información de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas (Stakeholders), asegurando la correcta integración, organización y entrega de la documentación conforme a los lineamientos establecidos.\n\nHe participado en proyectos del sector financiero y de consultoría donde he coordinado la preparación y control de paquetes de instalación, la elaboración de solicitudes de cambio en ServiceNow (ITSM para incidencias, cambios y problemas) y la actualización de documentación técnica para mantener la continuidad operativa. Proveo soporte a pruebas Pruebas de Aceptación de Usuario (UAT) y PROD y gestiono automatizaciones y transferencias de archivos.\n\nMe enfoco en asegurar la integridad y trazabilidad de los entregables, aplicando control de versiones, validando formatos y coordinación entre equipos técnicos y de negocio para cumplir plazos y criterios de calidad, manteniendo la disponibilidad de servicios y la correcta entrega documental.",
     "experiencia_laboral": [
       {
-        "empresa": "La Mancha Consultores SC",
-        "puesto": "ST Integrador, BA",
-        "fecha_inicio": "agosto 2019",
-        "fecha_fin": "julio 2021",
+        "empresa": "BFS_MX",
+        "puesto": "Software Developer",
+        "fecha_inicio": "15 julio 2021",
+        "fecha_fin": "Actual",
         "actividades_principales": [
-          "Analizar requerimientos de alto nivel para proyectos como Implement IFRS9 and Accounting Event Model for PILS & Payroll.",
-          "Coordinar los equipos participantes en el desarrollo para garantizar el cumplimiento de los objetivos.",
-          "Gestionar y dar seguimiento a las actividades del proyecto para asegurar entregables en tiempo y forma.",
-          "Participar como ST Integrador en proyectos CFDI Complemento de Pago y Llaves PIN CVV."
+          "Efectué la entrega documental y la recopilación de firmas que sustentan las evidencias de los servicios prestados.",
+          "Ejecuto la entrega documental mensual y recopilo las firmas necesarias que sustentan las evidencias de los servicios prestados.",
+          "Compilo y normalizo evidencias para la Carpeta Consolidada de Servicios y la carpeta de entregas mensuales.",
+          "Completo las listas de cotejo por fase (Análisis, Diseño, Desarrollo, Pruebas, Liberación).",
+          "Integro reportes y VoBo como evidencia previa a la liberación.",
+          "Preparo la evidencia de entrega de paquete para su integración.",
+          "Aplico control de versiones y gestiono metadatos (fecha/folio/autor) en todos los archivos de la carpeta.",
+          "Verifico la consistencia entre nombres, fechas y folios de todos los documentos del paquete.",
+          "Genero el reporte ejecutivo mensual con KPIs, backlog y liberaciones para su envío.",
+          "Gestiono aclaraciones documentales posteriores a la revisión, asegurando la trazabilidad de los cambios.",
+          "Preparo la evidencia de Toma de Operación (accesos ≤60 días, enlace ≤120 días, conectividad, acta) para la carpeta del mes correspondiente.",
+          "Ejecuto la pre-revisión de formato, ortografía y firmas, y valido listas de distribución y acuses.",
+          "Gestiono entre 1 y 3 proyectos con un esfuerzo total de 15,000 a 20,000 horas, asegurando la entrega documental mensual y la recopilación de firmas que sustentan las evidencias de los servicios prestados. Doy seguimiento a los entregables y reporto avances a los administradores del proyecto y al cliente.",
+          "He usado la certificación Prácticas de Ofimática para documentación operativa, métricas y cronogramas.",
+          "He usado el curso Identify & Define the Problem with Business Analysis para la identificación y definición estructurada de problemas de negocio.",
+          "He usado la certificación The Complete UML Course para el análisis, modelado y diseño de sistemas mediante diagramas UML claros y estructurados.",
+          "He usado el curso Business Analysis Working with Use Cases para el análisis y documentación de requerimientos a través de casos de uso.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "ISP: Inicializo la gestión documental del proyecto, definiendo lineamientos, estructura de carpetas y requisitos de evidencias.",
+          "PTO: Doy seguimiento a la entrega documental, validando avances, controlando versiones y asegurando el cumplimiento los criterios establecidos.",
+          "PCR: Gestiono y documento cambios en entregables, asegurando su trazabilidad, actualización y correcta integración en la documentación.",
+          "FPT: Formalizo la terminación del proyecto mediante la integración, validación y entrega final de la documentación con sus respectivas evidencias y firmas.",
+          "Me asignaron en Citibanamex para atender el proyecto Divestiture que consistió en la clonación de 14 aplicaciones que componen el sistema de Canal Inteligente para la separación del banco.",
+          "Realicé la recompilación de las aplicaciones, preparé paquetes de instalación, y elaboré Change Request en Service Now para su implementación en ambientes Pruebas de Aceptación de Usuario (UAT) y PROD, además de brindar soporte a pruebas.",
+          "Configuré Connect Direct para el envío y recepción de archivos.",
+          "Generé Jobs de Autosys y actualicé documentación.",
+          "Participé en el proyecto THOR para el upgrade de versiones de Red Hat 8, Tuxedo 22, Oracle Database (Motor de base de datos empresarial) 19 y Connect Direct, y preparé Change Request para las implementaciones en Pruebas de Aceptación de Usuario (UAT) y PROD.",
+          "Me asignaron en CitiBanamex como ST Integrador participando en los proyectos CFDI Complemento de Pago y Llaves PIN CVV; como BA trabajé en Implement IFRS9 and Accounting Event Model for PILS & Payroll, analizando requerimientos de alto nivel, coordinando equipos y gestionando y dando seguimiento a las actividades para garantizar el cumplimiento de objetivos en tiempo y forma.",
+          "Atendí diferentes sistemas comerciales de Grupo Bimbo a nivel nacional e internacional, analicé requerimientos, estimé y desarrollé nuevos requerimientos; generé, administré y tuneé bases de datos; desarrollé stored procedures para optimizar performance en reportes y procesos; actué como DBA Sybase en ambientes de pruebas y extraje información sobre incidencias en producción para la generación de tableros."
         ]
       },
       {
-        "empresa": "Randstad Mexico S de RL de CV",
-        "puesto": "Information Analyst",
-        "fecha_inicio": "mayo 2015",
-        "fecha_fin": "noviembre 2018",
+        "empresa": "La Mancha Consultores SC",
+        "puesto": "ST Integrador, BA",
+        "fecha_inicio": "1 agosto 2019",
+        "fecha_fin": "31 julio 2021",
         "actividades_principales": [
-          "Atender sistemas comerciales a nivel nacional e internacional.",
-          "Analizar requerimientos y elaborar estimaciones para nuevos desarrollos.",
-          "Desarrollar nuevos requerimientos funcionales acordes a necesidades de negocio.",
-          "Generar, administrar y realizar tuning de bases de datos para optimizar performance.",
-          "Desarrollar stored procedures para optimización de reportes y procesos.",
-          "Actuar como DBA Sybase en ambientes de pruebas.",
-          "Extraer información relacionada con incidencias para análisis y diagnóstico.",
-          "Generar tableros para el análisis y corrección de incidencias recurrentes por país."
+          "Me asignaron en CitiBanamex como ST Integrador participando en los proyectos CFDI Complemento de Pago y Llaves PIN CVV; como BA trabajé en Implement IFRS9 and Accounting Event Model for PILS & Payroll, analizando requerimientos de alto nivel, coordinando equipos y gestionando y dando seguimiento a las actividades para garantizar el cumplimiento de objetivos en tiempo y forma."
+        ]
+      },
+      {
+        "empresa": "Quality ITS, S.C.",
+        "puesto": "Líder Técnico / Information Analyst",
+        "fecha_inicio": "2 mayo 2015",
+        "fecha_fin": "30 noviembre 2018",
+        "actividades_principales": [
+          "Atendí diferentes sistemas comerciales de Grupo Bimbo a nivel nacional e internacional, analicé requerimientos, estimé y desarrollé nuevos requerimientos; generé, administré y tuneé bases de datos; desarrollé stored procedures para optimizar performance en reportes y procesos; actué como DBA Sybase en ambientes de pruebas y extraje información sobre incidencias en producción para la generación de tableros."
         ]
       }
     ],
-    "periodo_resumen_laboral": "julio 2021 - Actual",
-    "resumen_laboral": "Participación en proyectos de clonación y separación de aplicaciones para procesos de divestiture bancario. Actividades centradas en recompilación de aplicaciones, preparación de paquetes de instalación, elaboración de solicitudes de cambio en Service Now, soporte a pruebas, configuración de mecanismos de intercambio de archivos y generación de jobs de automatización, así como participación en upgrades de plataformas.",
+    "periodo_resumen_laboral": "",
+    "resumen_laboral": "",
     "estudios": {
-      "carrera": "Ingenieria en Computacion",
-      "lugar": "Facultad de Ingeniería UNAM, CDMX",
-      "periodo": "1990 - 1994"
+      "carrera": "INGENIERIA EN COMPUTACION",
+      "lugar": "Facultad de Ingeniería UNAM",
+      "periodo": "1990-1994"
     },
+    "herramientas": [
+      {
+        "nombre": "Linux"
+      },
+      {
+        "nombre": "Tandem OSS"
+      },
+      {
+        "nombre": "Service Now"
+      },
+      {
+        "nombre": "Git"
+      },
+      {
+        "nombre": "Bitbucket"
+      },
+      {
+        "nombre": "ALM"
+      },
+      {
+        "nombre": "Cti Market Place"
+      },
+      {
+        "nombre": "Confluence"
+      },
+      {
+        "nombre": "Autosys"
+      },
+      {
+        "nombre": "Agile"
+      },
+      {
+        "nombre": "Sybase"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "VS .NET"
+      },
+      {
+        "nombre": "Connect Direct"
+      },
+      {
+        "nombre": "Jira"
+      }
+    ],
     "certificaciones": [],
     "cursos": [
+      {
+        "nombre": "Identify & Define the Problem with Business Analysis"
+      },
       {
         "nombre": "Business Analysis Working with Use Cases"
       },
       {
-        "nombre": "Identify & Define the Problem with Business Analysis"
+        "nombre": "The Complete UML course : Learn to design  UML Diagrams"
+      },
+      {
+        "nombre": "Prácticas de Ofimática"
       }
     ]
+  },
+  {
+  "nombre": "Ana Lilia Morales Gabriel",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "5320541",
+  "fecha_cedula": "16/11/2007",
+  "rol_propuesto": "Analista de entrega documental",
+  "resumen_profesional": "Dispongo de más de cinco años de experiencia en entrega documental. Como analista de entrega documental, me ocupo de documentar, sintetizar y analizar información proveniente de diversas fuentes, garantizando su integración, organización y entrega conforme a los lineamientos establecidos.\n\nHe participado en múltiples proyectos de tecnología para los sectores público y privado, apoyando la definición y revisión de artefactos, la coordinación con equipos de desarrollo y Aseguramiento de la Calidad (QA), y el aseguramiento de la trazabilidad documental. Aporto continuidad de servicio mediante control de evidencias, gestión de cambios y validación de entregables orientados al cumplimiento de procesos.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek - CITIBANAMEX",
+      "puesto": "BA",
+      "fecha_inicio": "1 junio 2021",
+      "fecha_fin": "Actual",
+      "actividades_principales": [
+        "Efectué la entrega documental y recopilé las firmas que respaldan las evidencias de los servicios prestados.",
+        "Ejecuté la entrega documental mensual y recopilé las firmas necesarias que sustentan las evidencias de los servicios prestados.",
+        "Compilo y normalizo las evidencias destinadas a la Carpeta Consolidada de Servicios y a la carpeta de entregas mensuales.",
+        "Completo las listas de cotejo por fase (Análisis, Diseño, Desarrollo, Pruebas y Liberación).",
+        "Integro reportes y VoBo como evidencia previa a la liberación.",
+        "Preparo la evidencia de entrega del paquete para su integración.",
+        "Aplico control de versiones y gestiono metadatos (fecha/folio/autor) en todos los archivos de la carpeta.",
+        "Verifico la consistencia entre nombres, fechas y folios de todos los documentos del paquete.",
+        "Genero el reporte ejecutivo mensual con KPIs, backlog y liberaciones para su envío.",
+        "Gestiono aclaraciones documentales posteriores a la revisión, asegurando la trazabilidad de los cambios.",
+        "Preparo la evidencia de Toma de Operación (accesos ≤60 días, enlace ≤120 días, conectividad, acta) para la carpeta del mes correspondiente.",
+        "Ejecuto la pre-revisión de formato, ortografía y firmas, y valido listas de distribución y acuses.",
+        "Gestiono entre 1 y 3 proyectos con un esfuerzo total de 15,000 a 20,000 horas, asegurando la entrega documental mensual y la recopilación de firmas que sustentan las evidencias de los servicios prestados. Doy seguimiento a los entregables y reporto avances a los administradores del proyecto y al cliente.",
+        "He usado la certificación The Complete Lenguaje Unificado de Modelado (UML) course : Learn to design  Lenguaje Unificado de Modelado (UML) Diagrams como apoyo para diagramación Lenguaje Unificado de Modelado (UML)/BPMN y flujos.",
+        "He usado la certificación Prácticas de Ofimática como soporte para la documentación operativa, métricas y cronogramas.",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "ISP: Inicializo la gestión documental del proyecto, definiendo lineamientos, estructura de carpetas y requisitos de evidencias.",
+        "PTO: Doy seguimiento a la entrega documental, validando avances, controlando versiones y asegurando el cumplimiento los criterios establecidos.",
+        "PCR: Gestiono y documento cambios en entregables, asegurando su trazabilidad, actualización y correcta integración en la documentación.",
+        "FPT: Formalizo la terminación del proyecto mediante la integración, validación y entrega final de la documentación con sus respectivas evidencias y firmas.",
+        "Apoyo al líder en análisis de requerimientos.",
+        "Realización de épicas e historias de usuario.",
+        "Acompañamiento en sesiones de revisión de documentación con el usuario.",
+        "Apoyo en el análisis de casos de prueba a ejecutar.",
+        "Revisión de evidencias de casos de prueba ejecutados por el equipo de Aseguramiento de la Calidad (QA).",
+        "Mantenimiento de cuentas.",
+        "Participación en la fase de análisis y pruebas para el área de Tarjetas de Crédito.",
+        "Uso básico de Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos).",
+        "Realicé el levantamiento de requerimientos.",
+        "Realicé el análisis.",
+        "Elaboré los casos de uso.",
+        "Elaboré los prototipos.",
+        "Elaboré contratos entre aplicaciones.",
+        "Elaboré el modelo de dominio.",
+        "Elaboré diagramas de contexto, casos de uso, estados y flujo.",
+        "Brindé soporte al equipo de desarrollo en la fase de diseño.",
+        "Realicé estimaciones por juicio de experto.",
+        "Definí y planeé las tareas del equipo de análisis.",
+        "Revisé los artefactos generados por los analistas a mi cargo.",
+        "Acompañé en sesiones de revisión de documentación con el usuario."
+      ]
+    },
+    {
+      "empresa": "Softtek - Banorte",
+      "puesto": "Analista de Negocio / Analista de Sistemas",
+      "fecha_inicio": "1 abril 2020",
+      "fecha_fin": "31 mayo 2021",
+      "actividades_principales": [
+        "Realicé el levantamiento de requerimientos.",
+        "Realicé el análisis.",
+        "Elaboré los casos de uso.",
+        "Elaboré los prototipos.",
+        "Elaboré contratos entre aplicaciones.",
+        "Elaboré el modelo de dominio.",
+        "Elaboré diagramas de contexto, casos de uso, estados y flujo.",
+        "Brindé soporte al equipo de desarrollo en la fase de diseño.",
+        "Realicé estimaciones por juicio de experto.",
+        "Definí y planeé las tareas del equipo de análisis.",
+        "Revisé los artefactos generados por los analistas a mi cargo.",
+        "Acompañé en sesiones de revisión de documentación con el usuario."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde 1 agosto 2005 hasta 30 marzo 2020",
+  "resumen_laboral": "Durante este período asumí responsabilidades centradas en documentación, análisis y soporte a equipos técnicos, desempeñándome en roles como analista de negocio, desarrollador, analista-programador y líder funcional. Ejecuté levantamiento y análisis de requerimientos, elaboración de artefactos (casos de uso, prototipos y diagramas), soporte en pruebas y control de entregables. Mi trabajo se orientó a garantizar la trazabilidad y calidad de la documentación necesaria para la operación y entrega de soluciones tecnológicas.",
+  "estudios": {
+    "carrera": "Ingeniería en Sistemas Computacionales",
+    "lugar": "Escuela Superior de Cómputo (ESCOM) | CDMX",
+    "periodo": "1 agosto 2001 a 31 agosto 2005"
+  },
+  "herramientas": [
+    {
+      "nombre": "Waterfall"
+    },
+    {
+      "nombre": "Struts"
+    },
+    {
+      "nombre": "Spring Framework"
+    },
+    {
+      "nombre": "Scrum"
+    },
+    {
+      "nombre": "Oracle Database"
+    },
+    {
+      "nombre": "MySQL"
+    },
+    {
+      "nombre": "JSP"
+    },
+    {
+      "nombre": "JSF"
+    },
+    {
+      "nombre": "Java Servlets"
+    },
+    {
+      "nombre": "Java 9"
+    },
+    {
+      "nombre": "Java 8"
+    },
+    {
+      "nombre": "HTML5"
+    },
+    {
+      "nombre": "Hibernate"
+    },
+    {
+      "nombre": "Functional Testing"
+    },
+    {
+      "nombre": "CMMi"
+    },
+    {
+      "nombre": "Business Process Model & Notation (BPMN)"
+    },
+    {
+      "nombre": "Business Process Mapping"
+    },
+    {
+      "nombre": "Business Analyst Role"
+    }
+  ]
+  ,
+  "certificaciones": [],
+  "cursos": [
+    {
+      "nombre": "The Complete UML course : Learn to design  UML Diagrams"
+    },
+    {
+      "nombre": "Prácticas de Ofimática"
+    }
+  ]
+  },
+  {
+        "nombre": "Andrea Viridiana Vega Serrano",
+        "mail": "",
+        "genero": "",
+        "fecha_nacimiento": "",
+        "rfc": "",
+        "curp": "",
+        "no_cedula": "044052",
+        "fecha_cedula": "31/01/2018",
+        "rol_propuesto": "Analista de entrega documental",
+        "resumen_profesional": "Dispongo de más de cinco años de experiencia en entrega documental. En mi rol como analista de entrega documental, me encargo de documentar, sintetizar y analizar información de diversas fuentes, procesos y actores para garantizar la integridad y entrega ordenada de la documentación requerida. Trabajo en la coordinación y normalización de evidencias, listas de cotejo y reportes ejecutivos que aseguran la continuidad operativa y el cumplimiento de lineamientos de calidad. Coordino con áreas técnicas y de negocio para mantener trazabilidad, control de versiones y validación previa a la liberación.",
+        "funciones": "Realizo la entrega documental y recopilo las firmas necesarias que sustentan las evidencias de los servicios prestados. Me ocupo de compilar y normalizar evidencia, validar consistencia documental y coordinar con las áreas involucradas para asegurar que los paquetes de entrega cumplan los criterios establecidos y se mantenga la trazabilidad de los cambios.",
+        "experiencia_laboral": [
+            {
+                "empresa": "SOFTTEK Monterrey, N.L., México",
+                "puesto": "Analyst / Líder de Proyectos",
+                "fecha_inicio": "1 noviembre de 2017",
+                "fecha_fin": "A la fecha",
+                "actividades_principales": [
+                    "Realicé la entrega documental y la recopilación de firmas que sustentan las evidencias de los servicios prestados.",
+                    "Ejecuto la entrega documental mensual y recopilo las firmas necesarias que sustentan las evidencias de los servicios prestados.",
+                    "Compilo y normalizo evidencias para la Carpeta Consolidada de Servicios y la Carpeta de entregas mensuales.",
+                    "Completo las listas de cotejo por fase (Análisis, Diseño, Desarrollo, Pruebas, Liberación).",
+                    "Integro reportes y VoBo como evidencia previa a liberación.",
+                    "Preparo la evidencia de entrega de paquete para su integración.",
+                    "Aplico control de versiones y gestiono metadatos (fecha/folio/autor) en todos los archivos de la carpeta.",
+                    "Verifico la consistencia entre nombres, fechas y folios de todos los documentos del paquete.",
+                    "Genero el reporte ejecutivo mensual con KPIs, backlog y liberaciones para su envío.",
+                    "Gestiono aclaraciones documentales posteriores a la revisión, asegurando la trazabilidad de los cambios.",
+                    "Preparo la evidencia de Toma de Operación (accesos ≤60 días, enlace ≤120 días, conectividad, acta) para la carpeta del mes correspondiente.",
+                    "Ejecuto la pre-revisión de formato, ortografía y firmas, y valido listas de distribución y acuses.",
+                    "Gestiono entre 1 y 3 proyectos con un esfuerzo total de 15,000 a 20,000 horas, asegurando la entrega documental mensual y la recopilación de firmas que sustentan las evidencias de los servicios prestados. Doy seguimiento a los entregables y reporto avances a los administradores del proyecto y al cliente.",
+                    "He aplicado el curso Prácticas de ofimática para utilizar herramientas ofimáticas en la gestión de documentos, hojas de cálculo y tareas administrativas",
+                    "He puesto en práctica el curso UX: Máster en Diseño Web y Experiencia de Usuario para diseñar interfaces web centradas en la experiencia del usuario y la usabilidad",
+                    "He aplicado el curso The Complete UML Course para modelar y documentar sistemas de software mediante diagramas UML",
+                    "He puesto en práctica el curso Domina SCRUM con JIRA Agile para gestionar proyectos utilizando metodologías ágiles y la herramienta Jira",
+                    "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+                    "ISP: Inicializo la gestión documental del proyecto, definiendo lineamientos, estructura de carpetas y requisitos de evidencias.",
+                    "PTO: Doy seguimiento a la entrega documental, validando avances, controlando versiones y asegurando el cumplimiento los criterios establecidos.",
+                    "PCR: Gestiono y documento cambios en entregables, asegurando su trazabilidad, actualización y correcta integración en la documentación.",
+                    "FPT: Formalizo la terminación del proyecto mediante la integración, validación y entrega final de la documentación con sus respectivas evidencias y firmas.",
+                    "Documenté requerimientos funcionales (Casos de uso)",
+                    "Aseguré el producto",
+                    "Administré narrativas para ejecución de procesos batch.",
+                    "Administré mejoras y defectos.",
+                    "Ejecuté pruebas unitarias",
+                    "Identifiqué y di seguimiento a la corrección de defectos",
+                    "Administré requerimientos",
+                    "Di seguimiento al plan de trabajo para la implementación del proyecto y mejoras.",
+                    "Di seguimiento con áreas de entornos, seguridad, bases de datos de Banorte.",
+                    "Generé estatus semanal y reporte de hrs PPM (Suites para portafolio/programa/proyectos (demanda, priorización, capacidad)) Banorte.",
+                    "Di seguimiento con ERN (especialista de requerimiento de negocios).",
+                    "Di seguimiento al desarrollo de mantenimientos Banorte – CREA, desarrollados en SAP Netweaver.",
+                    "Di seguimiento a controles de cambio para ambientes previos y productivos.",
+                    "Di seguimiento a incidencias y defectos.",
+                    "Di seguimiento con cliente y usuarios para aseguramiento operativo hasta la garantía.",
+                    "Planeé la migración y ejecución de servicios (procesos batch y DTSX).",
+                    "Analicé y aseguré Requerimientos de Sistemas",
+                    "Di seguimiento continuo con el cliente para la implementación de mejoras del producto SUITE (Software de operaciones para Comercio Exterior)",
+                    "Diseñé wireframes de la aplicación",
+                    "Diseñé y ejecuté casos de prueba",
+                    "Administré Requerimientos y Planifiqué Sprints de trabajo para desarrollos nuevos e Implementaciones",
+                    "Di seguimiento con áreas de Infraestructura y soporte técnico.",
+                    "Planeé tareas en TFS (Gestión de work items, repos y pipelines; soporte a pruebas) con metodología ágil (Scrum Foundation (Marco ágil para gestión de proyectos)).",
+                    "Di seguimiento a Recursos para la administración de incidencias para su atención.",
+                    "Analicé sistemas, documentación de requerimientos funcionales, aseguramiento del producto, diseño de wireframes de la aplicación, diseño de casos de prueba",
+                    "Analicé y documenté procesos y Casos de uso",
+                    "Generé propuesta de interfaz",
+                    "Generé material de capacitación",
+                    "Di seguimiento al plan de trabajo para Implementación del proyecto y mejoras",
+                    "Di seguimiento a Requerimientos en SOLMAN",
+                    "Di seguimiento a incidencias y defectos",
+                    "Realicé Roll out de Proyectos"
+                  ]
+            },
+            {
+                "empresa": "One Core Monterrey, N.L., México",
+                "puesto": "Business Analyst / Project Leader",
+                "fecha_inicio": "1 agosto de 2016",
+                "fecha_fin": "30 octubre de 2017",
+                "actividades_principales": [
+                    "Analicé y aseguré Requerimientos de Sistemas",
+                    "Di seguimiento continuo con el cliente para la implementación de mejoras del producto SUITE (Software de operaciones para Comercio Exterior)",
+                    "Diseñé wireframes de la aplicación",
+                    "Diseñé y ejecuté casos de prueba",
+                    "Administré Requerimientos y Planifiqué Sprints de trabajo para desarrollos nuevos e Implementaciones",
+                    "Di seguimiento con áreas de Infraestructura y soporte técnico.",
+                    "Planeé tareas en TFS (Gestión de work items, repos y pipelines; soporte a pruebas) con metodología ágil (Scrum Foundation (Marco ágil para gestión de proyectos)).",
+                    "Di seguimiento a Recursos para la administración de incidencias para su atención."
+                ]
+            },
+            {
+                "empresa": "NUV A S O F T Monterrey, N.L., México",
+                "puesto": "Business Analyst / Administrador de Proyectos",
+                "fecha_inicio": "1 junio de 2015",
+                "fecha_fin": "30 junio de 2016",
+                "actividades_principales": [
+                    "Analicé sistemas, documentación de requerimientos funcionales, aseguramiento del producto, diseño de wireframes de la aplicación, diseño de casos de prueba",
+                    "Analicé y documenté procesos y Casos de uso",
+                    "Generé propuesta de interfaz",
+                    "Generé material de capacitación",
+                    "Di seguimiento al plan de trabajo para Implementación del proyecto y mejoras",
+                    "Di seguimiento a Requerimientos en SOLMAN",
+                    "Di seguimiento a incidencias y defectos",
+                    "Realicé Roll out de Proyectos"
+                ]
+            }
+        ],
+        "periodo_resumen_laboral": "La experiencia abarca desde 01 mayo de 2007 hasta 02 mayo de 2015",
+        "resumen_laboral": "Durante este período asumí responsabilidades centradas en documentación y control de entregas, coordinación de implementación y gestión de incidencias. Me desempeñé en roles como Business Analyst, Product Manager y Analista de Implementación, donde elaboré y validé requerimientos, casos de prueba y material de capacitación, además de coordinar con equipos técnicos y usuarios finales para asegurar la correcta integración de evidencias y entregables. Mantuve la trazabilidad de cambios y la comunicación con Partes interesadas para garantizar continuidad en los servicios.",
+        "estudios": {
+            "carrera": "Lic. en Sistemas de Información Administrativa",
+            "lugar": "Instituto Tecnológico de Sonora, Ciudad Obregón, Sonora",
+            "periodo": "enero de 2003 - mayo de 2007"
+        },
+        "herramientas": [
+            {
+                "nombre": "COGNOS"
+            },
+            {
+                "nombre": "TFS (Gestión de work items, repos y pipelines; soporte a pruebas)"
+            },
+            {
+                "nombre": "PPM (Suites para portafolio/programa/proyectos (demanda, priorización, capacidad))"
+            },
+            {
+                "nombre": "Epicor"
+            },
+            {
+                "nombre": "SAP (SAP GUI S/4HANA)"
+            },
+            {
+                "nombre": "Jira (Herramienta de gestión ágil y seguimiento de issues/sprints)"
+            }
+        ],
+        "certificaciones": [],
+        "cursos": [
+            {
+                "nombre": "Prácticas de ofimática"
+            },
+            {
+                "nombre": "UX: Máster en Diseño Web y Experiencia de Usuario"
+            },
+            {
+                "nombre": "The Complete UML Course: Learn to Design UML Diagrams"
+            },
+            {
+                "nombre": "Domina SCRUM con JIRA Agile – Metodologías Ágiles"
+            }
+        ]
   }
 ]

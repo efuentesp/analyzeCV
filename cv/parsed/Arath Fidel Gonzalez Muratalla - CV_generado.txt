@@ -1,0 +1,106 @@
+Arath Fidel Gonzalez Muratalla
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Domino tecnologías de la Arquitectura de Referencia y tecnologías de código abierto. Genero y doy mantenimiento al código para cumplir la especificación técnica, siguiendo los estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos acordados.
+
+Tengo experiencia en análisis y corrección de aplicaciones, asegurando la continuidad de servicios en entornos productivos mediante la identificación y resolución de incidencias. Trabajo en el desarrollo y mejora de servicios web (frontend y backend) y empleo control de versiones para coordinar entregas con equipos técnicos y garantizar calidad operacional.
+
+Aporto valor en la continuidad del servicio mediante diagnóstico, parches y despliegues correctivos, y mantengo comunicación constante con equipos de soporte y Aseguramiento de la Calidad (QA) para mitigar riesgos y entregar soluciones estables.
+EXPERIENCIA LABORAL
+Empresa
+BBVA Bancomer | Puesto
+Software Engineer - Senior | Desde:
+1 febrero 2024 | Hasta: 
+A la fecha
+Actividades Principales | • Mantengo y brindo soporte a aplicativos dominando varios lenguajes de programación. Habilidades en; Resolución de problemas, Versionamiento del código (Git (Control de versiones distribuido)), Dominio en el desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño, codifico y ejecuto pruebas unitarias de componentes a partir de las especificaciones técnicas.
+• Implemento y utilizo de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.
+• Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).
+• He usado la certificación NestJS: The Complete Developer's Guide, para crear aplicaciones backend escalables usando NestJS.
+• He aplicado la certificación The Complete SQL Bootcamp en el dominio de SQL (Lenguaje para gestión y consulta de bases de datos relacionales).
+• He usado la certificación Understanding TypeScript, para desarrollar aplicaciones más seguras mediante el uso de tipado estático en JavaScript.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Optimizé y revisé la estructura para el Modelo de Datos de la iniciativa Seguros.
+• Optimizé y revisé la estructura para los nombres asignados en tablas del Modelo de Datos y analicé el flujo por cada componente que se usaría.
+• Diseñé pruebas para el formato de las tablas que se usarían en los componentes.
+• Hice seguimiento de actividades de varios equipos para estimar fechas sin impacto en desarrollos y revisé diseños de librerías para realizar el match de información.
+• Coordiné con equipos ágiles para mitigar posibles riesgos de liberaciones y participé en capacitaciones sobre estructura de datos.
+• Analicé los requerimientos del sistema, tanto de sistemas nuevos como de los que estaban en producción, realizando análisis estático y dinámico de código.
+• Diseñé sistemas para futuras implementaciones.
+• Implementé y realicé modificaciones mediante lenguajes Back-End (Java (Lenguaje de programación para desarrollo de aplicaciones), ColdFusion (CFML)) y Front-End(HTML5, CSS, JavaScript, jQuery (Librería para manipulación del DOM), XML) y Base de Datos (SQL Server (Motor de base de datos para consultas y validaciones) v2017 a 2019).
+• Manejé versiones mediante TortoiseSVN y GitHub.
+• Fusioné y creé ramas para distintos desarrollos.
+• Di de alta y configuré conexiones en Adobe ColdFusion manejando versiones 11 a 2021.
+• Generé parches de mejoras para su implementación en Aseguramiento de la Calidad (QA) y Producción.
+• Corregí errores a nivel código y de Base de Datos.
+• Manejé el motor de Base de Datos SQL Server (Motor de base de datos para consultas y validaciones) 2017 a 2019 para creación de tablas, triggers, vistas, índices y consultas.
+• Configuré servidores en Windows Server 2012 en adelante y administré terminal Linux; elaboré manuales de usuario y reportes de pruebas y errores solucionados.
+Empresa
+Application Hosting S.A de C.V | Puesto
+SDET (Software Development Engineer in Testing) - Master | Desde:
+3 enero 2022 | Hasta: 
+30 noviembre 2023
+Actividades Principales | • Analicé los requerimientos del sistema, tanto de sistemas nuevos como de los que estaban en producción, realizando análisis estático y dinámico de código.
+• Diseñé sistemas para futuras implementaciones.
+• Implementé y realicé modificaciones mediante lenguajes Back-End (Java (Lenguaje de programación para desarrollo de aplicaciones), ColdFusion (CFML)) y Front-End(HTML5, CSS, JavaScript, jQuery (Librería para manipulación del DOM), XML) y Base de Datos (SQL Server (Motor de base de datos para consultas y validaciones) v2017 a 2019).
+• Manejé versiones mediante TortoiseSVN y GitHub.
+• Fusioné y creé ramas para distintos desarrollos.
+• Di de alta y configuré conexiones en Adobe ColdFusion manejando versiones 11 a 2021.
+• Generé parches de mejoras para su implementación en Aseguramiento de la Calidad (QA) y Producción.
+• Corregí errores a nivel código y de Base de Datos.
+• Manejé el motor de Base de Datos SQL Server (Motor de base de datos para consultas y validaciones) 2017 a 2019 para creación de tablas, triggers, vistas, índices y consultas.
+• Configuré servidores en Windows Server 2012 en adelante y administré terminal Linux; elaboré manuales de usuario y reportes de pruebas y errores solucionados.
+HERRAMIENTAS CONOCIDAS
+- phpmyadmin
+- Oracle Database
+- Oracle Data Integrator
+- MariaBD
+- SQL Server
+- TortoiseSVN
+- GitHub
+- NetBeans
+- VisualCode
+- XAMP
+- Apache
+- IIS
+- Adobe Coldfusion
+- Java
+- JavaScript
+- jQuery
+- HTML5
+- CSS
+- Bootstrap
+- FireBase
+- AlertifyJS
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 febrero de 2019 hasta 31 diciembre de 2021
+Durante este período asumí responsabilidades relacionadas con análisis y corrección de sistemas en producción, incluyendo mantenimiento de código y bases de datos, testeo y detección de servicios REST, gestión de versiones y configuración de servidores. Me desempeñé en roles como SDET, realizando soporte técnico, generación de parches y despliegues, y documenté las soluciones aplicadas. Colaboré con equipos de desarrollo, Aseguramiento de la Calidad (QA) y usuarios técnicos para asegurar la continuidad operativa y la calidad de las entregas.
+FORMACIÓN ACADÉMICA:
+Ingenieria en computacion - agosto 2015 - noviembre 2019 | Universidad Autónoma del Estado de México, Valle de Chalco, Estado de México | Cédula Profesional
+15475741
+20/02/2026
+CURSOS
+- NestJS: The Complete Developer's Guide
+- The Complete SQL Bootcamp: Go from Zero to Hero
+- Understanding TypeScript
+______________________________________
+Arath Fidel Gonzalez Muratalla
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

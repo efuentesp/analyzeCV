@@ -1,0 +1,378 @@
+{
+    "capacidadRecursosHumanos": {
+        "experiencia": [
+            {
+                "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 5 años de experiencia comprobada en entrega documental de servicios grandes o críticos alineado al rol?",
+                "detalle": "Para el rol del Analista de entrega documental. Al menos 5 años de experiencia en entrega documental.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV demuestra experiencia ejecutando la entrega documental mensual y recopilando las firmas necesarias que sustentan las evidencias de los servicios prestados?",
+                "detalle": "Realizar la entrega documental y recopilación de firmas que sustentan las evidencias de los servicios prestados.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha compilado y normalizado evidencias para Carpeta Consolidada de Servicios y Carpeta de SLAs mensuales dentro del plazo?",
+                "detalle": "Lista de verificación, acuses de entrega.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha completado las listas de cotejo por fase (Análisis, Diseño, Desarrollo, Pruebas, Liberación) para soportar CAES?",
+                "detalle": "Checklist por fase, referencias a artefactos.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha integrado reportes SAST/DAST y VoBo para evidencia previa a liberación?",
+                "detalle": "Reportes con estatus “sin bloqueantes/críticos/altos” y VoBo.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha preparado la evidencia de entrega de paquete a AVL y de Monitor (paquetes/ventanas) para la carpeta?",
+                "detalle": "Acuses, bitácoras, plan de ventanas.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha capturado y ordenado correctamente EUHE (3‑puntos), PT (WBS) y PSE, listos para su uso en CAPA/CAPA V2?",
+                "detalle": "Archivos/folios, extractos de EUHE O/M/P.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha aplicado control de versiones y metadatos (fecha/folio/autor) en todos los archivos de la carpeta?",
+                "detalle": "Nomenclatura, bitácora de cambios.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha verificado consistencia entre nombres, fechas y folios de todos los documentos del paquete?",
+                "detalle": "Cuadre de campos, hoja de control.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha integrado la capacitación a Mesa SAT (agenda, listas, material) y la transferencia de conocimiento como evidencia de liberación/cierre?",
+                "detalle": "Actas, listas, material de capacitación.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha generado el reporte ejecutivo mensual con KPIs (SLA/OLA, TTA/TTR, backlog, liberaciones, CAES) para su envío?",
+                "detalle": "Reporte mensual, tableros y narrativos.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha gestionado aclaraciones documentales (2+2 hábiles) post‑revisión, con trazabilidad de cambios?",
+                "detalle": "Correos, control de cambios, acuses.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha preparado evidencia de Toma de Operación (accesos ≤60 días, enlace ≤120 días, conectividad, acta) para la carpeta del mes correspondiente?",
+                "detalle": "Cronograma TO, actas, pruebas.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha ejecutado pre‑revisión de formato/ortografía/firmas y ha validado listas de distribución y acuses?",
+                "detalle": "Lista de control, pantallas de envío/recepción.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La experiencia suma ≥5 años en gestión de servicios similares al objeto del SDMA7?",
+                "detalle": "",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+                "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+                "detalle": "La fecha “Desde” debe ser un mes posterior a la última fecha “Hasta”. Meses sin abreviación y con inicial mayúscula.",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+                "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+                "resultado": ""
+            }
+        ],
+        "competenciaHabilidadTrabajo": [
+            {
+                "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+                "detalle": "Acreditar la competencia señalada Estudios nivel superior acreditable de nivel licenciatura o ingeniería",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Se adjunta copia digital clara del título/certificado de estudios concluidos?",
+                "detalle": "Copia simple, digitalizada preferentemente a color, con información clara y legible del Certificado de Estudios concluidos emitido por la Institución Educativa, o Título Profesional emitido por Institución Educativa Nacional o Cédula Profesional emitida por la Dirección General de Profesiones de la Secretaría de Educación Pública",
+                "resultado": ""
+            }
+        ],
+        "dominioHerramientas": [
+            {
+                "concepto": "Acreditar el dominio de herramientas señaladas -Cursos",
+                "detalle": "Acreditar 1 curso de los siguientes: Auditoría de TI, Gestión de servicios en tecnologías de la información (ITIL V4 Foundation)",
+                "resultado": ""
+            }
+        ]
+    },
+    "cursos": [
+        {
+            "concepto": "¿Las constancias de cursos están digitalizadas, con nombre coincidente y listas para cotejo?",
+            "detalle": "Evidencias escaneadas digitalizadas. Coincidencia en nombre entre CV y documentos, SAT podra cotejar validez con las instituciones que imparten los cursos",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El candidato adjunta constancia del curso Ofimática?",
+            "detalle": "Incluirlo en caso de que el candidato lo tenga",
+            "resultado": ""
+        }
+    ],
+    "dominioHerramientas": [
+        {
+            "concepto": "¿El CV acredita el dominio o uso de generación de documentos de forma automatizada?",
+            "detalle": "El objetivo principal de un curso de Ofimática es proporcionar el dominio técnico de herramientas para automatizar y optimizar tareas de oficina.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV menciona elaboración de documentos con estilos/índices/tablas automatizadas (no “a mano”)?",
+            "detalle": "Ejemplos: informes, minutas, procedimientos con estilos y tabla de contenido; capturas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Acredita revisión de ortografía y gramática y uso de control de cambios/comentarios en documentos colaborativos?",
+            "detalle": "Mención explícita + documentos con historial de cambios y panel de revisiones.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Demuestra diseño de plantillas (portadas, páginas maestras, pies, numeración) para estandarizar entregables?",
+            "detalle": "Referencias a plantillas corporativas; screenshots; vínculo a repositorio.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Evidencia tablas con formato (estilos, celdas combinadas) y tablas/figuras con títulos y referencias cruzadas en documentos?",
+            "detalle": "Documento con referencias cruzadas funcionales (no texto plano).",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Acredita modelado en hojas de cálculo con fórmulas intermedias/avanzadas (BUSCARX/ÍNDICE+COINCIDIR, SI anidadas, SUMAR.SI.CONJUNTO)?",
+            "detalle": "Listado de funciones utilizadas en proyectos; capturas con fórmulas visibles.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Menciona uso de tablas de datos, validaciones, formato condicional y gráficos para tablero ejecutivo?",
+            "detalle": "Ejemplos de dashboard; gráficos con filtros/segmentadores.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Acredita tablas dinámicas (segmentadores, campos calculados) para análisis mensual de indicadores?",
+            "detalle": "Capturas de tabla dinámica y segmentadores; extractos de reporte.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Demuestra automatización básica (macros grabadas, funciones personalizadas sencillas, o flujos low‑code) para tareas repetitivas?",
+            "detalle": "Mención de macro/grabadora; descripción breve del flujo y resultado.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Evidencia presentaciones ejecutivas con mensajes clave, diseño consistente y uso de Vista Patrón/plantilla?",
+            "detalle": "Presentaciones con plantilla corporativa y notas; historia de reuniones.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Incluye gráficos y diagramas (smartart o similares) alineados a narrativa (1 idea por slide, pocos bullets)?",
+            "detalle": "Ejemplos de 2–3 slides con mejora antes/después.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Acredita planificación y seguimiento con calendarios/tareas (integración con correo y recordatorios)?",
+            "detalle": "Agenda y convocatorias; evidencia de calendarios compartidos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Demuestra gestión de correo profesional (reglas, categorías, firmas, plantillas, listas de distribución) y archivo por carpetas?",
+            "detalle": "Capturas de reglas/categorías; plantilla de correo; firma institucional.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Evidencia colaboración en la nube: coautoría en tiempo real, control de versiones, permisos/grupos?",
+            "detalle": "Historial de versiones; registro de coedición; listado de permisos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Acredita formularios/encuestas para recolectar información y exportarla a Excel (limpieza básica de datos)?",
+            "detalle": "Ejemplos de formularios y dataset asociado; reporte de resultados.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Demuestra conversión y gestión de PDF (combinar, proteger, exportar a/desde Office, marcadores)?",
+            "detalle": "Ejemplos de PDF con seguridad (contraseña, permisos) o marcadores.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Menciona accesibilidad (lectores, texto alternativo, contraste, orden de lectura) y compatibilidad multi‑dispositivo?",
+            "detalle": "Evidencia de verificador de accesibilidad; pauta aplicada en un entregable.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Evidencia protección de información: cifrado con contraseña, restringir edición, quitar metadatos antes de enviar?",
+            "detalle": "Capturas de cifrado/restricción; guía interna o checklist final.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Incluye gestión de plantillas y repositorio (nomenclatura, versionado, carpetas) para evitar duplicados/errores?",
+            "detalle": "Ruta de repositorio; ejemplo de convención de nombres.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Ha entrenado o soportado a usuarios en ofimática (mini‑talleres, guías rápidas, tips) con resultados medibles?",
+            "detalle": "Agenda, material de capacitación, feedback/encuesta; mejora de tiempos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Presenta casos concretos donde aplicó ofimática para lograr un resultado (qué problema, qué función/herramienta, qué impacto)?",
+            "detalle": "2–3 mini‑casos con métricas de impacto (ahorro de tiempo %, reducción de errores).",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV.",
+            "resultado": ""
+        }
+    ],
+    "analistaEntregaDocumental": {
+        "nombre": "Andrea Viridiana Vega Serrano",
+        "mail": "",
+        "genero": "",
+        "fecha_nacimiento": "",
+        "rfc": "",
+        "curp": "",
+        "no_cedula": "044052",
+        "fecha_cedula": "31/01/2018",
+        "rol_propuesto": "Analista de entrega documental",
+        "resumen_profesional": "Dispongo de más de cinco años de experiencia en entrega documental. En mi rol como analista de entrega documental, me encargo de documentar, sintetizar y analizar información de diversas fuentes, procesos y actores para garantizar la integridad y entrega ordenada de la documentación requerida. Trabajo en la coordinación y normalización de evidencias, listas de cotejo y reportes ejecutivos que aseguran la continuidad operativa y el cumplimiento de lineamientos de calidad. Coordino con áreas técnicas y de negocio para mantener trazabilidad, control de versiones y validación previa a la liberación.",
+        "funciones": "Realizo la entrega documental y recopilo las firmas necesarias que sustentan las evidencias de los servicios prestados. Me ocupo de compilar y normalizar evidencia, validar consistencia documental y coordinar con las áreas involucradas para asegurar que los paquetes de entrega cumplan los criterios establecidos y se mantenga la trazabilidad de los cambios.",
+        "experiencia_laboral": [
+            {
+                "empresa": "SOFTTEK Monterrey, N.L., México",
+                "puesto": "Analyst / Líder de Proyectos",
+                "fecha_inicio": "noviembre de 2017",
+                "fecha_fin": "presente",
+                "actividades_principales": [
+                    "Realicé la entrega documental y la recopilación de firmas que sustentan las evidencias de los servicios prestados.",
+                    "Ejecuto la entrega documental mensual y recopilo las firmas necesarias que sustentan las evidencias de los servicios prestados.",
+                    "Compilo y normalizo evidencias para la Carpeta Consolidada de Servicios y la Carpeta de entregas mensuales.",
+                    "Completo las listas de cotejo por fase (Análisis, Diseño, Desarrollo, Pruebas, Liberación).",
+                    "Integro reportes y VoBo como evidencia previa a liberación.",
+                    "Preparo la evidencia de entrega de paquete para su integración.",
+                    "Aplico control de versiones y gestiono metadatos (fecha/folio/autor) en todos los archivos de la carpeta.",
+                    "Verifico la consistencia entre nombres, fechas y folios de todos los documentos del paquete.",
+                    "Genero el reporte ejecutivo mensual con KPIs, backlog y liberaciones para su envío.",
+                    "Gestiono aclaraciones documentales posteriores a la revisión, asegurando la trazabilidad de los cambios.",
+                    "Preparo la evidencia de Toma de Operación (accesos ≤60 días, enlace ≤120 días, conectividad, acta) para la carpeta del mes correspondiente.",
+                    "Ejecuto la pre-revisión de formato, ortografía y firmas, y valido listas de distribución y acuses.",
+                    "Gestiono entre 1 y 3 proyectos con un esfuerzo total de 15,000 a 20,000 horas, asegurando la entrega documental mensual y la recopilación de firmas que sustentan las evidencias de los servicios prestados. Doy seguimiento a los entregables y reporto avances a los administradores del proyecto y al cliente.",
+                    "He usado la certificación UX: Máster en Diseño Web y Experiencia de Usuario como Curso de diseño UX y experiencia de usuario.",
+                    "He usado la certificación The Complete UML Course: Learn to Design UML Diagrams como Curso de modelado de sistemas con UML (Lenguaje Unificado de Modelado (UML)).",
+                    "He usado la certificación Domina SCRUM con JIRA Agile – Metodologías Ágiles como Curso de Scrum Foundation (Marco ágil para gestión de proyectos) aplicado con Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+                    "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+                    "ISP: Inicializo la gestión documental del proyecto, definiendo lineamientos, estructura de carpetas y requisitos de evidencias.",
+                    "PTO: Doy seguimiento a la entrega documental, validando avances, controlando versiones y asegurando el cumplimiento los criterios establecidos.",
+                    "PCR: Gestiono y documento cambios en entregables, asegurando su trazabilidad, actualización y correcta integración en la documentación.",
+                    "FPT: Formalizo la terminación del proyecto mediante la integración, validación y entrega final de la documentación con sus respectivas evidencias y firmas.",
+                    "Documentación de requerimientos funcionales (Casos de uso)",
+                    "Aseguramiento del producto",
+                    "Administración de narrativas para ejecución de procesos batch.",
+                    "Administración de mejoras y defectos.",
+                    "Ejecución de pruebas unitarias",
+                    "Identificación y seguimiento de corrección de defectos",
+                    "Administración de requerimientos",
+                    "Seguimiento plan de trabajo para Implementación del proyecto y mejoras.",
+                    "Seguimiento con áreas de entornos, seguridad, bases de datos de Banorte.",
+                    "Generación de estatus semanal y reporte de hrs PPM (Suites para portafolio/programa/proyectos (demanda, priorización, capacidad)) Banorte.",
+                    "Seguimiento con ERN (especialista de requerimiento de negocios).",
+                    "Seguimiento de desarrollo de mantenimientos Banorte – CREA, desarrollados en SAP Netweaver.",
+                    "Seguimiento controles de cambio para ambientes previos y productivos.",
+                    "Seguimiento a incidencias y defectos.",
+                    "Seguimiento con cliente y usuarios para aseguramiento operativo hasta la garantía.",
+                    "Planeación de migración y ejecución de servicios (procesos batch y DTSX)."
+                ]
+            },
+            {
+                "empresa": "One Core Monterrey, N.L., México",
+                "puesto": "Business Analyst / Project Leader",
+                "fecha_inicio": "agosto de 2016",
+                "fecha_fin": "octubre de 2017",
+                "actividades_principales": [
+                    "Análisis y aseguramiento de Requerimientos de Sistemas",
+                    "Seguimiento continuo con el cliente para la implementación de mejoras del producto SUITE (Software de operaciones para Comercio Exterior)",
+                    "Diseño de wireframes de la aplicación",
+                    "Diseño y ejecución de casos de prueba",
+                    "Administración de Requerimientos y Planificación de Sprints de trabajo para desarrollos nuevos e Implementaciones",
+                    "Seguimiento con áreas de Infraestructura y soporte técnico.",
+                    "Planeación de Tareas en TFS (Gestión de work items, repos y pipelines; soporte a pruebas) con metodología ágil (Scrum Foundation (Marco ágil para gestión de proyectos)).",
+                    "Seguimiento de Recursos para la administración de incidencias para su atención."
+                ]
+            },
+            {
+                "empresa": "NUV A S O F T Monterrey, N.L., México",
+                "puesto": "Business Analyst / Administrador de Proyectos",
+                "fecha_inicio": "junio de 2015",
+                "fecha_fin": "junio de 2016",
+                "actividades_principales": [
+                    "Analista de sistemas, documentación de requerimientos funcionales, aseguramiento del producto, diseño de wireframes de la aplicación, diseño de casos de prueba",
+                    "Análisis y documentación de procesos y Casos de uso",
+                    "Generación de propuesta de interfaz",
+                    "Generación de material de capacitación",
+                    "Seguimiento plan de trabajo para Implementación del proyecto y mejoras",
+                    "Seguimiento Requerimientos en SOLMAN",
+                    "Seguimiento a incidencias y defectos",
+                    "Roll out de Proyectos"
+                ]
+            }
+        ],
+        "periodo_resumen_laboral": "La experiencia abarca desde 01 mayo de 2007 hasta 01 mayo de 2015",
+        "resumen_laboral": "Durante este período asumí responsabilidades centradas en documentación y control de entregas, coordinación de implementación y gestión de incidencias. Me desempeñé en roles como Business Analyst, Product Manager y Analista de Implementación, donde elaboré y validé requerimientos, casos de prueba y material de capacitación, además de coordinar con equipos técnicos y usuarios finales para asegurar la correcta integración de evidencias y entregables. Mantuve la trazabilidad de cambios y la comunicación con Partes interesadas para garantizar continuidad en los servicios.",
+        "estudios": {
+            "carrera": "Lic. en Sistemas de Información Administrativa",
+            "lugar": "Instituto Tecnológico de Sonora, Ciudad Obregón, Sonora",
+            "periodo": "enero de 2003 - mayo de 2007"
+        },
+        "herramientas": [
+            {
+                "nombre": "COGNOS"
+            },
+            {
+                "nombre": "TFS (Gestión de work items, repos y pipelines; soporte a pruebas)"
+            },
+            {
+                "nombre": "PPM (Suites para portafolio/programa/proyectos (demanda, priorización, capacidad))"
+            },
+            {
+                "nombre": "Epicor"
+            },
+            {
+                "nombre": "SAP (SAP GUI S/4HANA)"
+            },
+            {
+                "nombre": "Jira (Herramienta de gestión ágil y seguimiento de issues/sprints)"
+            }
+        ],
+        "certificaciones": [],
+        "cursos": [
+            {
+                "nombre": "Prácticas de ofimática"
+            },
+            {
+                "nombre": "UX: Máster en Diseño Web y Experiencia de Usuario"
+            },
+            {
+                "nombre": "The Complete UML Course: Learn to Design UML Diagrams"
+            },
+            {
+                "nombre": "Domina SCRUM con JIRA Agile – Metodologías Ágiles"
+            }
+        ]
+    }
+}

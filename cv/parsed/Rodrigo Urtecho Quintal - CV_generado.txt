@@ -1,0 +1,108 @@
+Rodrigo Urtecho Quintal
+Desarrollador Junior
+FUNCIONES
+Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas. Trabajo en equipo respetando estándares y lineamientos, aportando en la implementación y puesta en marcha de sistemas para mantener la continuidad del servicio. Empleo fundamentos de programación, verifico y valido especificaciones técnicas, y comunico avances e impedimentos para asegurar tiempos y calidad acordados.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 2 años de experiencia en programación en tecnologías de referencia y de código abierto. He trabajado en desarrollo y mantenimiento de aplicaciones Java (Lenguaje de programación para desarrollo de aplicaciones) y COBOL sobre entornos Unisys y servidores Linux/Unix (Sistemas operativos para administración y automatización), participando en la creación y ajuste de procesos batch y web, además de la ejecución de pruebas y soporte en ambientes de preproducción y producción. Tengo experiencia en administración de Tomcat, automatización con Autosys y coordinación con equipos de soporte. Colaboro en equipo siguiendo estándares y lineamientos, contribuyendo a la implementación y puesta en marcha de sistemas para garantizar la continuidad de servicios. Aplico fundamentos de programación, reviso y valido especificaciones técnicas, y reporto avances y riesgos para cumplir tiempos y calidad establecidos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek - BFS Mérida | Puesto
+Software Engineer - Junior | Desde:
+01 agosto de 2025 | Hasta: 
+30 diciembre de 2025
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que sean funcionales, todo ello mediante lenguajes de programación. Habilidades en: conceptos de programación y trabajo en equipo.
+• Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.
+• Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.
+• Aplico los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto de forma adecuada.
+• Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.
+• Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.
+• Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.
+• Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.
+• Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).
+• Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.
+• He aplicado el curso Java Programming for Complete Beginners para desarrollar los fundamentos de la programación en Java, incluyendo sintaxis, control de flujo y estructuras básicas.
+• He puesto en práctica el curso Master Microservices with Spring Boot and Spring Cloud para diseñar e implementar arquitecturas de microservicios utilizando Spring Boot y Spring Cloud.
+• He aplicado el curso Microservices: Designing Highly Scalable Systems para implementar principios de diseño orientados a la escalabilidad y resiliencia en sistemas distribuidos.
+• He puesto en práctica el curso Microservices Architecture – The Complete Guide para implementar patrones y buenas prácticas de arquitectura de microservicios.
+• He aplicado el curso Object Oriented Programming and Design Crash Course para aplicar principios de programación orientada a objetos y diseño de software.
+• He puesto en práctica el curso PHP for Beginners – Become a PHP Master para desarrollar aplicaciones web y un proyecto CMS utilizando PHP.
+• He aplicado el Curso completo de SQL para crear, consultar y gestionar bases de datos relacionales mediante comandos SQL.
+• He puesto en práctica el curso UML and Object-Oriented Design Foundations para modelar sistemas de software aplicando UML y principios de diseño orientado a objetos.
+• He aplicado el curso UML Class Diagrams for Programmers para diseñar y documentar estructuras de clases mediante diagramas UML aplicados al desarrollo de software.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Participé en el análisis de impacto de programas involucrado con procesos relacionado a ATMs por incremento de 4 a 5 posiciones en su identificador.
+• Realicé el mantenimiento de Programas en Línea y Batch en COBOL 74 en UNISYS del S018 (Sistema de Administración de Efectivo) de Banamex por proyecto Increase ID.
+• Realicé el mantenimiento de Programa Java (Lenguaje de programación para desarrollo de aplicaciones) Batch para reformatéo de archivos.
+• Realicé la ejecución de pruebas para validación de modificaciones.
+• Coordiné el equipo interno para desarrollo y pruebas.
+• Consulté y edité datos en Base de Datos DMSII, para temas de ejecución de pruebas.
+• Realicé la ambientación de Tomcat 8 y Apache en servidores REHL 8 para instalación de Opticash, Optinet y “Reformateador Web”.
+• Desarrollé y mantuve programas Java (Lenguaje de programación para desarrollo de aplicaciones) Batch para reformatéo de archivos y Web para visualización de archivos del Sistema Opticash para pronosticación de efectivo.
+• Implementé la herramienta de automatización Autosys y definí “Jobs” usando JIL (Job Information Language).
+• Desarrollé y mantuve programas Shell para automatización de tareas.
+• Implementé el agente PingAccess para Single Sign On en servidores Apache.
+• Coordiné con equipos de soporte del cliente a través del idioma inglés.
+• Brindé soporte en ambientes de prueba y productivo.
+Empresa
+Softtek - BFSMérida | Puesto
+Java Software Engineer | Desde:
+03 enero de 2024 | Hasta: 
+30 julio de 2025
+Actividades Principales | • Realicé la ambientación de Tomcat 8 y Apache en servidores REHL 8 para instalación de Opticash, Optinet y “Reformateador Web”.
+• Desarrollé y mantuve programas Java (Lenguaje de programación para desarrollo de aplicaciones) Batch para reformatéo de archivos y Web para visualización de archivos del Sistema Opticash para pronosticación de efectivo.
+• Implementé la herramienta de automatización Autosys y definí “Jobs” usando JIL (Job Information Language).
+• Desarrollé y mantuve programas Shell para automatización de tareas.
+• Implementé el agente PingAccess para Single Sign On en servidores Apache.
+• Coordiné con equipos de soporte del cliente a través del idioma inglés.
+• Brindé soporte en ambientes de prueba y productivo.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Java Programming for Complete Beginners
+- Master Microservices with Spring Boot and Spring Cloud
+- Microservices: Designing Highly Scalable Systems
+- Microservices Architecture – The Complete Guide
+- Object Oriented Programming and Design Crash Course
+- PHP for Beginners – Become a PHP Master – CMS Project
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- UML and Object-Oriented Design Foundations
+- UML Class Diagrams for Programmers
+- Java
+- Spring Boot
+- COBOL 74
+- Unisys
+- DMSII
+- Git
+- Eclipse
+- Tomcat
+- Autosys
+- PingAccess
+- MySQL
+- Hibernate
+- HTML
+- CSS
+- JavaScript
+- Shell
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 diciembre de 2019 hasta 02 enero de 2024
+Durante este período asumí responsabilidades variadas centradas en soporte operativo, logística y actividades de desarrollo bajo supervisión. Me desempeñé en roles como Auxiliar de Logística, Software Engineer - Trainee y Trainee de desarrollo, participando en administración de inventarios, pruebas funcionales, desarrollo de prototipos y tareas de implementación asistida. Asumí coordinación con equipos, ejecución de pruebas y documentación básica, aprendiendo metodologías ágiles y herramientas de soporte mientras apoyaba la continuidad operativa y las entregas conforme a cronogramas.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería de Software - agosto de 2019 - diciembre de 2023 | Universidad Autónoma de Yucatán, Mérida | Cédula Profesional
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Java Programming for Complete Beginners
+- Master Microservices with Spring Boot and Spring Cloud
+- Microservices: Designing Highly Scalable Systems
+- Microservices Architecture – The Complete Guide
+- Object Oriented Programming and Design Crash Course
+- PHP for Beginners – Become a PHP Master – CMS Project
+- SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL
+- UML and Object-Oriented Design Foundations
+- UML Class Diagrams for Programmers
+______________________________________
+Rodrigo Urtecho Quintal
+Desarrollador Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

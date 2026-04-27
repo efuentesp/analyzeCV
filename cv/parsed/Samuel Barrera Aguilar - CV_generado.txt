@@ -1,0 +1,346 @@
+Samuel Barrera Aguilar
+Arquitecto Experto
+FUNCIONES
+Valido que cada componente interactúe de forma sistémica en todas las iteraciones de un proyecto para lograr congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades, y propongo soluciones a las necesidades de manera integrada. Cuento con habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos, y evaluación y optimización del rendimiento del sistema mediante la selección de las tecnologías más adecuadas.
+He participado en consultoría de negocio y arquitectura empresarial para banca, seguros, retail, educación, transporte, gobierno y aviación, definiendo capacidades, procesos, aplicaciones e iniciativas de transformación, además de levantar requerimientos, identificar brechas y proponer soluciones integradas alineadas con necesidades operativas, regulatorias y tecnológicas. También he coordinado trabajo con usuarios de negocio, equipos técnicos y áreas directivas para estructurar roadmaps, evaluar riesgos, validar integraciones y dar continuidad a proyectos complejos, incluyendo análisis funcional, modernización tecnológica y optimización del desempeño del sistema con enfoque en la congruencia entre procesos, información y componentes.
+EXPERIENCIA PROFESIONAL
+Cuento con al menos 3 años de experiencia en centros de desarrollo de software. Además, cuento con 5 años de experiencia en análisis de sistemas y manejo de equipos de trabajo. Soy responsable de definir la arquitectura de software a implementar, incluyendo patrones de diseño y la cobertura general de la aplicación. Tomo decisiones tecnológicas y de implementación, definiendo y adaptando frameworks y estándares, y brindo asesoría al equipo técnico en la atención de tareas complejas.
+
+He participado en consultoría de negocio y arquitectura empresarial para banca, seguros, retail, educación, transporte, gobierno y aviación, definiendo capacidades, procesos, aplicaciones e iniciativas de transformación. También he levantado requerimientos, identificado brechas y propuesto soluciones integradas alineadas con necesidades operativas, regulatorias y tecnológicas.
+
+He coordinado trabajo con usuarios de negocio, equipos técnicos y áreas directivas para estructurar roadmaps, evaluar riesgos, validar integraciones y dar continuidad a proyectos complejos. Mi experiencia también incluye análisis funcional, modernización tecnológica y optimización del desempeño del sistema con enfoque en la congruencia entre procesos, información y componentes.
+EXPERIENCIA LABORAL
+Empresa
+Aeroméxico | Puesto
+Arquitecto Empresarial | Desde:
+1 julio 2025 | Hasta: 
+A la fecha
+Actividades Principales | • Valido que cada componente interactúe de forma sistémica en todas las iteraciones de un proyecto para asegurar congruencia con el flujo de negocio y de información (proceso funcional). Identifico dependencias y duplicidades. Propongo soluciones a las necesidades de manera integrada. Tengo habilidades en conocimiento de las plataformas de la Arquitectura de Referencia (AR), resolución de problemas técnicos y evaluación y optimización del rendimiento del sistema al elegir las tecnologías más adecuadas.
+• Defino la arquitectura y la solución técnica con base en la propuesta de negocio y las necesidades del cliente.
+• Defino los estándares de codificación y de base de datos.
+• Defino los patrones de diseño y funcionales.
+• Brindo asesoría a líderes técnicos.
+• Defino los subsistemas de soporte.
+• Defino la administración de la configuración para la construcción.
+• Defino implementaciones de referencia.
+• Defino checklist para pruebas de escritorio del diseño generado.
+• Valido la integración de macrocomponentes a la arquitectura.
+• Recomiendo prioridades para la construcción necesaria en cada iteración.
+• Valido la integración sistémica de componentes para asegurar la congruencia con el flujo de negocio y de información.
+• Participo en fases de visión, levantamiento de requisitos y definición de arquitectura de negocio, sistemas de información y arquitectura tecnológica.
+• Establezco procesos de control y aseguro el cumplimiento de estándares de arquitectura en los proyectos.
+• Utilizo herramientas de modelado como ArchiMate, Sparx EA y Visio (Herramienta de diagramación técnica) para documentar arquitecturas.
+• Participo en proyectos de migración a la nube, modernización de aplicaciones e integración de sistemas, aplicando Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) como marco de referencia.
+• Comunico arquitecturas y roadmaps a directivos, equipos técnicos y usuarios clave.
+• Demuestro la alineación de las soluciones tecnológicas propuestas con los objetivos del negocio.
+• Integro Marco de Arquitectura de Open Group (TOGAF (Marco de arquitectura empresarial (ADM, gobierno de arquitectura))) con metodologías ágiles (Scrum, Marco Ágil Escalable (SAFe)) y tradicionales (PMI, PRINCE2).
+• He participado en proyectos mayores a 20 mil horas, donde soluciono requerimientos no funcionales complejos, identifico y mitigo riesgos técnicos, y aseguro el desempeño correcto del sistema.
+• He utilizado el diploma Entrenandos III en Informática para desarrollar y aplicar conocimientos fundamentales en informática, apoyando la operación y gestión de sistemas tecnológicos
+• He aplicado la certificación TOGAF 9 Certified para diseñar, analizar y gestionar arquitecturas empresariales alineadas a los objetivos de negocio y las mejores prácticas de The Open Group
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• ARC: Encabezo las actividades de diseño de la arquitectura y su implementación, generando sus productos entregables.
+• SFD: Proveo patrones funcionales y estándares de interfaz de usuario.
+• DBI: Proveo estimados de volumen y requerimientos de desempeño.
+• CIS: Valido los entregables de la especificación detallada de componentes.
+• CTR: Doy seguimiento a los estándares utilizados en el desarrollo de componentes.
+• INT: Valido los ambientes de despliegue para la integración del sistema.
+• DOC: Proveo entradas para la documentación técnica.
+• Definición de la arquitectura de negocio y apoyo en la arquitectura tecnológica
+• Dar forma a historias de usuario
+• Diseñar el proceso de facturación
+• Trato directo con usuarios de negocio
+• Permitir que sea aplicable a nivel mundial
+• Considerar la menor tropicalización para cada país que se considere
+• Entendimiento del negocio de cliente, los conceptos contables y fiscales, así como las casuísticas que se presentan en el proceso de ventas de boletos, y finalmente estudio y entendimiento de la legislación fiscal y de protección de datos personales de cada país. Permitiendo crear una solución multi: país, moneda, direcciones y cálculo de impuestos ampliamente configurables
+• Le doy forma a su requerimiento
+• Realizo el análisis de su situación actual
+• Defino la misión y visión
+• Defino la arquitectura de negocio corporativa
+• Defino la arquitectura tecnológica
+• Evalúo las capacidades del personal
+• Defino la arquitectura aplicativa
+• Analizo los retos actuales del sector educativo frente a la tecnología
+• Analizo la coyuntura de migración constante de aplicativos
+• Incluyo la presencia mundial de la corporación
+• Evalúo los modelos de educación en línea y presencial
+• Realizo el análisis de riesgos y dolores operativos
+• Aplico un enfoque de arquitectura empresarial y, mediante los Modelos de Madurez y el Modelo HIP de Gartner, mido la situación actual, defino la situación deseada y establezco el camino para alcanzarla a través de quick wins, iniciativas y proyectos, logrando la satisfacción del cliente con resultados que incluyen la incorporación gradual de tecnologías de punta mediante un roadmap
+• Comprendo la situación actual respecto a sus sistemas de seguros para permitir la incorporación de un core de Seguros y otro para Reaseguros en modalidad SaaS
+• Defino las arquitecturas consideradas para la solución
+• Defino la arquitectura de negocio (dominios de negocio)
+• Defino la arquitectura aplicativa
+• Identifico la solución deseada, incluyendo:
+• Defino el modelo de gobernanza
+• Defino iPaaS como capa de integración para soluciones SaaS
+• Defino la plataforma en la nube y on-premises
+• Defino los mecanismos de monitoreo
+• Identifico brechas y hallazgos
+• Emito recomendaciones, proyectos de solución y pruebas de concepto
+• Logro la satisfacción del cliente con los productos y las soluciones recomendadas
+• Comprendo la situación actual de su stack aplicativo para implementar mejoras en su seguridad
+• Defino las arquitecturas consideradas para la solución
+• Defino la arquitectura aplicativa
+• Defino la arquitectura tecnológica
+• Identifico la solución deseada, incluyendo:
+• Defino el modelo de gobernanza
+• Defino la infraestructura
+• Defino los lineamientos de seguridad
+• Genero una solución estándar para aplicar SSO y MFA a su stack aplicativo
+• Desarrollo y pruebo las soluciones
+• Coordino células para aplicar la solución estándar y remediar las aplicaciones, identificando y solucionando oportunamente impactos colaterales
+• Comprendo la situación actual
+• Defino las arquitecturas consideradas para la solución
+• Defino la arquitectura de negocio (dominios de negocio)
+• Defino la arquitectura aplicativa
+• Defino la arquitectura tecnológica
+• Identifico la solución deseada, incluyendo:
+• Defino el modelo de gobernanza
+• Defino iPaaS como capa de integración para soluciones SaaS y on-premises
+• Defino la infraestructura
+• Defino los lineamientos de seguridad
+• Defino la plataforma en la nube y on-premises
+• Defino los mecanismos de monitoreo
+• Defino la tecnología y el gobierno de datos
+• Identifico brechas y hallazgos
+• Emito recomendaciones y proyectos de solución
+• Logro la satisfacción del cliente, ya que la arquitectura diagramada y la documentación entregada responden a los requerimientos de las diferentes áreas tecnológicas, consolidando el esfuerzo en seis meses para un proyecto con dos años de evolución
+• Comprendo la situación objetivo "TO BE", con la incorporación de:
+• Defino SAP S/4HANA Fashion  Vertical Business como parte de la solución
+• Defino XSTORE como sistema para el punto de venta
+• Defino Cloudera como bus de integración
+• Incorporo una nueva marca con tecnología de vanguardia
+• Defino las arquitecturas consideradas para la solución
+• Defino la arquitectura de negocio (dominios de negocio)
+• Defino la arquitectura aplicativa
+• Defino la arquitectura tecnológica
+• Identifico la solución deseada "TO BE"
+• Identifico brechas, hallazgos y recomendaciones
+• Genero un mapa arquitectónico de integración a alto nivel para comunicación en foros ejecutivos
+• Entrego el diagramado de la arquitectura empresarial en los dominios de negocio y aplicativo, permitiendo visualizar y dar seguimiento al proyecto de transformación en curso
+• Realizo el estudio y certificación en la plataforma de seguros
+• Participo en sesiones de trabajo desarrolladas totalmente en idioma inglés, con participación de un proveedor de Singapur
+• Implanto una solución core asiática para este tipo de seguros
+• Comprendo la situación actual "AS IS":
+• Defino la arquitectura de negocio
+• Defino la arquitectura aplicativa
+• Defino la arquitectura tecnológica
+• Identifico la solución deseada "TO BE" con el nuevo aplicativo
+• Identifico brechas "AS IS" vs "TO BE", puntos de dolor y oportunidades
+• Genero requerimientos consensuados
+• Estimo el cambio de core
+• Logro los objetivos de obtener los requerimientos y gaps de la plataforma asiática para elaborar la propuesta alineada a las expectativas del cliente
+• Comprendo la situación actual "AS IS"
+• Defino la arquitectura de negocio
+• Defino la arquitectura aplicativa
+• Defino la arquitectura tecnológica
+• Identifico la solución deseada "TO BE"
+• Identifico brechas "AS IS" vs "TO BE", puntos de dolor y oportunidades
+• Genero requerimientos consensuados
+• Identifico soluciones candidatas
+• Evalúo cada solución
+• Propongo la mejor solución
+• Recibo reconocimiento del cliente y una alta evaluación por el trabajo desarrollado
+• Comprendo la problemática del proyecto en curso
+• Estudio las especificaciones funcionales
+• Identifico brechas
+• Negocio con analistas la modificación de las especificaciones
+• Entiendo el objetivo de las especificaciones en conjunto con analistas y negocio
+• Identifico brechas entre lo esperado y lo que se está desarrollando
+• Especifico y diagramo flujos para presentar a los involucrados
+• Apoyo a que el negocio plasme su necesidad
+• Genero iniciativas de solución ante problemas
+• Documento las funcionalidades aún no desarrolladas para aumentar la certeza
+• Identifico funcionalidad faltante para lograr entregas de valor al cliente
+• Contribuyo al esfuerzo por reemplazar el core bancario de SAP a Mambu con recursos limitados del cliente
+Empresa
+Laureate Internacional Educación | Puesto
+Arquitecto Empresarial | Desde:
+2 mayo 2025 | Hasta: 
+30 junio 2025
+Actividades Principales | • Le doy forma a su requerimiento
+• Realizo el análisis de su situación actual
+• Defino la misión y visión
+• Defino la arquitectura de negocio corporativa
+• Defino la arquitectura tecnológica
+• Evalúo las capacidades del personal
+• Defino la arquitectura aplicativa
+• Analizo los retos actuales del sector educativo frente a la tecnología
+• Analizo la coyuntura de migración constante de aplicativos
+• Incluyo la presencia mundial de la corporación
+• Evalúo los modelos de educación en línea y presencial
+• Realizo el análisis de riesgos y dolores operativos
+• Aplico un enfoque de arquitectura empresarial y, mediante los Modelos de Madurez y el Modelo HIP de Gartner, mido la situación actual, defino la situación deseada y establezco el camino para alcanzarla a través de quick wins, iniciativas y proyectos, logrando la satisfacción del cliente con resultados que incluyen la incorporación gradual de tecnologías de punta mediante un roadmap
+Empresa
+Seguros Confianza | Puesto
+Arquitecto Empresarial | Desde:
+3 febrero 2025 | Hasta: 
+30 abril 2025
+Actividades Principales | • Comprendo la situación actual respecto a sus sistemas de seguros para permitir la incorporación de un core de Seguros y otro para Reaseguros en modalidad SaaS
+• Defino las arquitecturas consideradas para la solución
+• Defino la arquitectura de negocio (dominios de negocio)
+• Defino la arquitectura aplicativa
+• Identifico la solución deseada, incluyendo:
+• Defino el modelo de gobernanza
+• Defino iPaaS como capa de integración para soluciones SaaS
+• Defino la plataforma en la nube y on-premises
+• Defino los mecanismos de monitoreo
+• Identifico brechas y hallazgos
+• Emito recomendaciones, proyectos de solución y pruebas de concepto
+• Logro la satisfacción del cliente con los productos y las soluciones recomendadas
+Empresa
+NISSAN México | Puesto
+Arquitecto Empresarial | Desde:
+1 noviembre 2024 | Hasta: 
+31 enero 2025
+Actividades Principales | • Comprendo la situación actual de su stack aplicativo para implementar mejoras en su seguridad
+• Defino las arquitecturas consideradas para la solución
+• Defino la arquitectura aplicativa
+• Defino la arquitectura tecnológica
+• Identifico la solución deseada, incluyendo:
+• Defino el modelo de gobernanza
+• Defino la infraestructura
+• Defino los lineamientos de seguridad
+• Genero una solución estándar para aplicar SSO y MFA a su stack aplicativo
+• Desarrollo y pruebo las soluciones
+• Coordino células para aplicar la solución estándar y remediar las aplicaciones, identificando y solucionando oportunamente impactos colaterales
+Empresa
+Mobility ADO | Puesto
+Arquitecto Empresarial | Desde:
+1 julio 2024 | Hasta: 
+31 octubre 2024
+Actividades Principales | • Comprendo la situación actual
+• Defino las arquitecturas consideradas para la solución
+• Defino la arquitectura de negocio (dominios de negocio)
+• Defino la arquitectura aplicativa
+• Defino la arquitectura tecnológica
+• Identifico la solución deseada, incluyendo:
+• Defino el modelo de gobernanza
+• Defino iPaaS como capa de integración para soluciones SaaS y on-premises
+• Defino la infraestructura
+• Defino los lineamientos de seguridad
+• Defino la plataforma en la nube y on-premises
+• Defino los mecanismos de monitoreo
+• Defino la tecnología y el gobierno de datos
+• Identifico brechas y hallazgos
+• Emito recomendaciones y proyectos de solución
+• Logro la satisfacción del cliente, ya que la arquitectura diagramada y la documentación entregada responden a los requerimientos de las diferentes áreas tecnológicas, consolidando el esfuerzo en seis meses para un proyecto con dos años de evolución
+Empresa
+Grupo Axo | Puesto
+Arquitecto Empresarial | Desde:
+2 mayo 2024 | Hasta: 
+30 junio 2024
+Actividades Principales | • Comprendo la situación objetivo "TO BE", con la incorporación de:
+• Defino SAP S/4HANA Fashion  Vertical Business como parte de la solución
+• Defino XSTORE como sistema para el punto de venta
+• Defino Cloudera como bus de integración
+• Incorporo una nueva marca con tecnología de vanguardia
+• Defino las arquitecturas consideradas para la solución
+• Defino la arquitectura de negocio (dominios de negocio)
+• Defino la arquitectura aplicativa
+• Defino la arquitectura tecnológica
+• Identifico la solución deseada "TO BE"
+• Identifico brechas, hallazgos y recomendaciones
+• Genero un mapa arquitectónico de integración a alto nivel para comunicación en foros ejecutivos
+• Entrego el diagramado de la arquitectura empresarial en los dominios de negocio y aplicativo, permitiendo visualizar y dar seguimiento al proyecto de transformación en curso
+Empresa
+CHUBB Seguros CHILE | Puesto
+Arquitecto Empresarial | Desde:
+1 marzo 2024 | Hasta: 
+30 abril 2024
+Actividades Principales | • Realizo el estudio y certificación en la plataforma de seguros
+• Participo en sesiones de trabajo desarrolladas totalmente en idioma inglés, con participación de un proveedor de Singapur
+• Implanto una solución core asiática para este tipo de seguros
+• Comprendo la situación actual "AS IS":
+• Defino la arquitectura de negocio
+• Defino la arquitectura aplicativa
+• Defino la arquitectura tecnológica
+• Identifico la solución deseada "TO BE" con el nuevo aplicativo
+• Identifico brechas "AS IS" vs "TO BE", puntos de dolor y oportunidades
+• Genero requerimientos consensuados
+• Estimo el cambio de core
+• Logro los objetivos de obtener los requerimientos y gaps de la plataforma asiática para elaborar la propuesta alineada a las expectativas del cliente
+Empresa
+CHUBB Seguros | Puesto
+Arquitecto Empresarial | Desde:
+2 mayo 2023 | Hasta: 
+31 octubre 2023
+Actividades Principales | • Comprendo la situación actual "AS IS"
+• Defino la arquitectura de negocio
+• Defino la arquitectura aplicativa
+• Defino la arquitectura tecnológica
+• Identifico la solución deseada "TO BE"
+• Identifico brechas "AS IS" vs "TO BE", puntos de dolor y oportunidades
+• Genero requerimientos consensuados
+• Identifico soluciones candidatas
+• Evalúo cada solución
+• Propongo la mejor solución
+• Recibo reconocimiento del cliente y una alta evaluación por el trabajo desarrollado
+Empresa
+Financiera Monte de Piedad | Puesto
+Arquitecto Empresarial | Desde:
+1 diciembre 2022 | Hasta: 
+14 abril 2023
+Actividades Principales | • Comprendo la problemática del proyecto en curso
+• Estudio las especificaciones funcionales
+• Identifico brechas
+• Negocio con analistas la modificación de las especificaciones
+• Entiendo el objetivo de las especificaciones en conjunto con analistas y negocio
+• Identifico brechas entre lo esperado y lo que se está desarrollando
+• Especifico y diagramo flujos para presentar a los involucrados
+• Apoyo a que el negocio plasme su necesidad
+• Genero iniciativas de solución ante problemas
+• Documento las funcionalidades aún no desarrolladas para aumentar la certeza
+• Identifico funcionalidad faltante para lograr entregas de valor al cliente
+• Contribuyo al esfuerzo por reemplazar el core bancario de SAP a Mambu con recursos limitados del cliente
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- TOGAF 9 Certified 2023
+- Entrenandos III en Informática
+- TOGAF
+- Agile
+- SCRUM
+- AWS
+- Jira
+- Archimate
+- Bizagi
+- ARIS
+- BPMN
+- Project
+- IBM DataStage
+- Windows
+- Linux
+- C
+- Oracle Developer
+- Cobol
+- Oracle
+- SQLSERVER
+- DBII
+- DMSII
+- CRM Dynamics
+- ERP Dynamics
+- ERP SAP
+- Power Point
+- Excel
+- SAP S/4HANA Fashion  Vertical Business
+- XSTORE
+- Cloudera
+- Mambu
+- MQ Series
+- CICS
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 03 mayo de 2004 hasta 31 enero de 2024
+Durante este período me desempeñé como Scrum Master de célula PCI, Arquitecto Empresarial, SME Banking / Arquitecto Empresarial, Analista de Negocio Arquitecto, Líder de Analistas, Consultor de BI y Líder Analista de Negocio. Asumí responsabilidades de análisis funcional, levantamiento de información, definición de soluciones, documentación, coordinación con usuarios, seguimiento de procesos y soporte a proyectos de transformación tecnológica. También participé en integración de sistemas, atención de requerimientos, control operativo, desarrollo de productos y acompañamiento a pruebas, manteniendo alineación entre necesidades de negocio, continuidad de servicio y cumplimiento documental.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciatura en Ciencias de la Computación - 1986 - 1990 | Universidad Autónoma Metropolitana, División de Ingeniería, CDMEX | Cédula Profesional
+1641183
+14/10/2013
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- TOGAF 9 Certified 2023 | 2023
+CURSOS
+- Entrenandos III en Informática
+______________________________________
+Samuel Barrera Aguilar
+Arquitecto Experto | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

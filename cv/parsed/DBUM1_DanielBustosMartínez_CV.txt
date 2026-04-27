@@ -1,0 +1,176 @@
+Daniel Bustos Martínez
+PERFIL: Desarrollador Full Stack (Java/PHP)
+Más de 10 años de experiencia en el ciclo completo de desarrollo de software.
+Especialista en modernización de sistemas heredados, optimización de bases de datos y desarrollo Full Stack con Java y PHP.
+Enfoque en calidad de código y liderazgo técnico.
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa:
+Softtek | Nombre de la empresa:
+Softtek | Lugar:
+Toreo - Ciudad de México | Puesto: 
+Desarrollador Java / Líder técnico | Desde: 
+Junio 2022 | A: 
+Actualidad
+Funciones:
+Análisis, refactorización y migración de código legacy para cumplimiento de nuevos estándares.
+Desarrollo y mantenimiento de aplicaciones empresariales utilizando Java, PHP y ColdFusion.
+Gestión técnica del equipo de desarrollo, mentoría y ejecución de revisión de pares, asegurando la calidad de cada entrega mediante la automatización de análisis estático con SonarQube integrado en flujos de Jenkins.
+Logros:
+Lideré técnica y operativamente a un equipo de hasta 10 desarrolladores; gestionando la asignación de tareas, brindando soporte en la resolución de incidentes complejos y asegurando la entrega exitosa de los proyectos en tiempo y forma.
+Diagnostiqué y solucioné un problema crítico de concurrencia en la descarga de reportes Excel del Portal Dalí (Indeval/BMV) que provocaba saturación de CPU y agotamiento de espacio en disco por logs excesivos. Mediante análisis con JProfiler, optimicé este proceso, estabilizando el clúster JBoss y reduciendo los tiempos de respuesta de minutos a segundos.
+Desarrollé una herramienta de automatización en Java 8 que redujo de 20 minutos a 1 minuto la preparación del ambiente de desarrollo. Esta aplicación orquesta el reinicio de servidores JBoss, la limpieza de colas Sonic y la ejecución de scripts de base de datos requeridos para el inicio de la jornada. Otorgó autonomía al equipo de Análisis y Testing para ejecutar este proceso sin depender de un desarrollador experto.
+Implementé y configuré un entorno de desarrollo ColdFusion para optimizar el flujo de trabajo del equipo. | Funciones:
+Análisis, refactorización y migración de código legacy para cumplimiento de nuevos estándares.
+Desarrollo y mantenimiento de aplicaciones empresariales utilizando Java, PHP y ColdFusion.
+Gestión técnica del equipo de desarrollo, mentoría y ejecución de revisión de pares, asegurando la calidad de cada entrega mediante la automatización de análisis estático con SonarQube integrado en flujos de Jenkins.
+Logros:
+Lideré técnica y operativamente a un equipo de hasta 10 desarrolladores; gestionando la asignación de tareas, brindando soporte en la resolución de incidentes complejos y asegurando la entrega exitosa de los proyectos en tiempo y forma.
+Diagnostiqué y solucioné un problema crítico de concurrencia en la descarga de reportes Excel del Portal Dalí (Indeval/BMV) que provocaba saturación de CPU y agotamiento de espacio en disco por logs excesivos. Mediante análisis con JProfiler, optimicé este proceso, estabilizando el clúster JBoss y reduciendo los tiempos de respuesta de minutos a segundos.
+Desarrollé una herramienta de automatización en Java 8 que redujo de 20 minutos a 1 minuto la preparación del ambiente de desarrollo. Esta aplicación orquesta el reinicio de servidores JBoss, la limpieza de colas Sonic y la ejecución de scripts de base de datos requeridos para el inicio de la jornada. Otorgó autonomía al equipo de Análisis y Testing para ejecutar este proceso sin depender de un desarrollador experto.
+Implementé y configuré un entorno de desarrollo ColdFusion para optimizar el flujo de trabajo del equipo. | Funciones:
+Análisis, refactorización y migración de código legacy para cumplimiento de nuevos estándares.
+Desarrollo y mantenimiento de aplicaciones empresariales utilizando Java, PHP y ColdFusion.
+Gestión técnica del equipo de desarrollo, mentoría y ejecución de revisión de pares, asegurando la calidad de cada entrega mediante la automatización de análisis estático con SonarQube integrado en flujos de Jenkins.
+Logros:
+Lideré técnica y operativamente a un equipo de hasta 10 desarrolladores; gestionando la asignación de tareas, brindando soporte en la resolución de incidentes complejos y asegurando la entrega exitosa de los proyectos en tiempo y forma.
+Diagnostiqué y solucioné un problema crítico de concurrencia en la descarga de reportes Excel del Portal Dalí (Indeval/BMV) que provocaba saturación de CPU y agotamiento de espacio en disco por logs excesivos. Mediante análisis con JProfiler, optimicé este proceso, estabilizando el clúster JBoss y reduciendo los tiempos de respuesta de minutos a segundos.
+Desarrollé una herramienta de automatización en Java 8 que redujo de 20 minutos a 1 minuto la preparación del ambiente de desarrollo. Esta aplicación orquesta el reinicio de servidores JBoss, la limpieza de colas Sonic y la ejecución de scripts de base de datos requeridos para el inicio de la jornada. Otorgó autonomía al equipo de Análisis y Testing para ejecutar este proceso sin depender de un desarrollador experto.
+Implementé y configuré un entorno de desarrollo ColdFusion para optimizar el flujo de trabajo del equipo. | Funciones:
+Análisis, refactorización y migración de código legacy para cumplimiento de nuevos estándares.
+Desarrollo y mantenimiento de aplicaciones empresariales utilizando Java, PHP y ColdFusion.
+Gestión técnica del equipo de desarrollo, mentoría y ejecución de revisión de pares, asegurando la calidad de cada entrega mediante la automatización de análisis estático con SonarQube integrado en flujos de Jenkins.
+Logros:
+Lideré técnica y operativamente a un equipo de hasta 10 desarrolladores; gestionando la asignación de tareas, brindando soporte en la resolución de incidentes complejos y asegurando la entrega exitosa de los proyectos en tiempo y forma.
+Diagnostiqué y solucioné un problema crítico de concurrencia en la descarga de reportes Excel del Portal Dalí (Indeval/BMV) que provocaba saturación de CPU y agotamiento de espacio en disco por logs excesivos. Mediante análisis con JProfiler, optimicé este proceso, estabilizando el clúster JBoss y reduciendo los tiempos de respuesta de minutos a segundos.
+Desarrollé una herramienta de automatización en Java 8 que redujo de 20 minutos a 1 minuto la preparación del ambiente de desarrollo. Esta aplicación orquesta el reinicio de servidores JBoss, la limpieza de colas Sonic y la ejecución de scripts de base de datos requeridos para el inicio de la jornada. Otorgó autonomía al equipo de Análisis y Testing para ejecutar este proceso sin depender de un desarrollador experto.
+Implementé y configuré un entorno de desarrollo ColdFusion para optimizar el flujo de trabajo del equipo. | Funciones:
+Análisis, refactorización y migración de código legacy para cumplimiento de nuevos estándares.
+Desarrollo y mantenimiento de aplicaciones empresariales utilizando Java, PHP y ColdFusion.
+Gestión técnica del equipo de desarrollo, mentoría y ejecución de revisión de pares, asegurando la calidad de cada entrega mediante la automatización de análisis estático con SonarQube integrado en flujos de Jenkins.
+Logros:
+Lideré técnica y operativamente a un equipo de hasta 10 desarrolladores; gestionando la asignación de tareas, brindando soporte en la resolución de incidentes complejos y asegurando la entrega exitosa de los proyectos en tiempo y forma.
+Diagnostiqué y solucioné un problema crítico de concurrencia en la descarga de reportes Excel del Portal Dalí (Indeval/BMV) que provocaba saturación de CPU y agotamiento de espacio en disco por logs excesivos. Mediante análisis con JProfiler, optimicé este proceso, estabilizando el clúster JBoss y reduciendo los tiempos de respuesta de minutos a segundos.
+Desarrollé una herramienta de automatización en Java 8 que redujo de 20 minutos a 1 minuto la preparación del ambiente de desarrollo. Esta aplicación orquesta el reinicio de servidores JBoss, la limpieza de colas Sonic y la ejecución de scripts de base de datos requeridos para el inicio de la jornada. Otorgó autonomía al equipo de Análisis y Testing para ejecutar este proceso sin depender de un desarrollador experto.
+Implementé y configuré un entorno de desarrollo ColdFusion para optimizar el flujo de trabajo del equipo. | Funciones:
+Análisis, refactorización y migración de código legacy para cumplimiento de nuevos estándares.
+Desarrollo y mantenimiento de aplicaciones empresariales utilizando Java, PHP y ColdFusion.
+Gestión técnica del equipo de desarrollo, mentoría y ejecución de revisión de pares, asegurando la calidad de cada entrega mediante la automatización de análisis estático con SonarQube integrado en flujos de Jenkins.
+Logros:
+Lideré técnica y operativamente a un equipo de hasta 10 desarrolladores; gestionando la asignación de tareas, brindando soporte en la resolución de incidentes complejos y asegurando la entrega exitosa de los proyectos en tiempo y forma.
+Diagnostiqué y solucioné un problema crítico de concurrencia en la descarga de reportes Excel del Portal Dalí (Indeval/BMV) que provocaba saturación de CPU y agotamiento de espacio en disco por logs excesivos. Mediante análisis con JProfiler, optimicé este proceso, estabilizando el clúster JBoss y reduciendo los tiempos de respuesta de minutos a segundos.
+Desarrollé una herramienta de automatización en Java 8 que redujo de 20 minutos a 1 minuto la preparación del ambiente de desarrollo. Esta aplicación orquesta el reinicio de servidores JBoss, la limpieza de colas Sonic y la ejecución de scripts de base de datos requeridos para el inicio de la jornada. Otorgó autonomía al equipo de Análisis y Testing para ejecutar este proceso sin depender de un desarrollador experto.
+Implementé y configuré un entorno de desarrollo ColdFusion para optimizar el flujo de trabajo del equipo.
+Herramientas: | Java 7, Java 8, Java 17, Spring, Hibernate, Maven, JBoss, JavaScript, JQuery, Oracle, SQL Server, PostgreSQL, PHP, ColdFusion, HTML, CSS, Linux, JProfiler, Jenkins y SonarQube | Java 7, Java 8, Java 17, Spring, Hibernate, Maven, JBoss, JavaScript, JQuery, Oracle, SQL Server, PostgreSQL, PHP, ColdFusion, HTML, CSS, Linux, JProfiler, Jenkins y SonarQube | Java 7, Java 8, Java 17, Spring, Hibernate, Maven, JBoss, JavaScript, JQuery, Oracle, SQL Server, PostgreSQL, PHP, ColdFusion, HTML, CSS, Linux, JProfiler, Jenkins y SonarQube | Java 7, Java 8, Java 17, Spring, Hibernate, Maven, JBoss, JavaScript, JQuery, Oracle, SQL Server, PostgreSQL, PHP, ColdFusion, HTML, CSS, Linux, JProfiler, Jenkins y SonarQube | Java 7, Java 8, Java 17, Spring, Hibernate, Maven, JBoss, JavaScript, JQuery, Oracle, SQL Server, PostgreSQL, PHP, ColdFusion, HTML, CSS, Linux, JProfiler, Jenkins y SonarQube
+Nombre de la empresa:
+Universidad Autónoma del Estado de Morelos (UAEM) | Nombre de la empresa:
+Universidad Autónoma del Estado de Morelos (UAEM) | Lugar:
+Cuernavaca, Morelos | Puesto: 
+Desarrollador Full Stack PHP | Desde: 
+Noviembre 2015 | A: 
+Junio 2022
+Funciones:
+Desarrollé el sitio web del departamento de formación docente, así como de dos instrumentos de evaluación docente aplicando diseño web responsive (Bootstrap), HTML, CSS, JavaScript y JQuery para el frontend, y PHP para el backend.
+Sistematicé la generación de reportes individuales de evaluación docente, calculando los resultados a partir de las respuestas almacenadas en la base de datos PostgreSQL.
+Desarrollé nuevos scripts PHP para la obtención de los resultados de evaluación docente, así como de corrección en posibles inconsistencias en la base de datos PostgreSQL.
+Desarrollé nuevos módulos de administrador para el sistema "Monitoreo de evaluación docente".
+Rediseñé y optimicé la base de datos PostgreSQL ya existente.
+Impartí diversas capacitaciones semestrales en el uso del sistema de evaluación docente y realicé la transmisión en vivo (streaming) de diversos cursos en línea, un foro estatal y un congreso nacional.
+
+Logros:
+Generé semestralmente más de 6,000 reportes individuales de evaluación docente, procesando casi 200,000 instrumentos aplicados. Esta tarea inicialmente requería un equipo de 4 personas trabajando en la generación en Excel de dichos reportes, por aproximadamente 2 meses. Con la sistematización de esta actividad, solo se requiere el trabajo de 1 persona por 1 a 2 semanas.
+Aumenté considerablemente la usabilidad del sitio web del Departamento de Formación Docente, mejorando su diseño y el de los instrumentos de evaluación docente mediante diseño web responsive y otras tecnologías.
+Aumenté significativamente la estabilidad de la base de datos, logrando reducir hasta en un 90% el número de conexiones paralelas a la base de datos, durante la aplicación del instrumento de evaluación docente.
+Optimicé la consulta de datos del Sistema de Administración Documental y de Control Escolar, así como del Sistema de Personal, mediante el desarrollo de nuevos módulos en el sistema “Monitoreo de evaluación docente”.
+Incrementé los niveles de participación en cursos de formación docente, mediante las transmisiones en vivo por YouTube a diferentes unidades académicas, ubicadas por todo el estado de Morelos. | Funciones:
+Desarrollé el sitio web del departamento de formación docente, así como de dos instrumentos de evaluación docente aplicando diseño web responsive (Bootstrap), HTML, CSS, JavaScript y JQuery para el frontend, y PHP para el backend.
+Sistematicé la generación de reportes individuales de evaluación docente, calculando los resultados a partir de las respuestas almacenadas en la base de datos PostgreSQL.
+Desarrollé nuevos scripts PHP para la obtención de los resultados de evaluación docente, así como de corrección en posibles inconsistencias en la base de datos PostgreSQL.
+Desarrollé nuevos módulos de administrador para el sistema "Monitoreo de evaluación docente".
+Rediseñé y optimicé la base de datos PostgreSQL ya existente.
+Impartí diversas capacitaciones semestrales en el uso del sistema de evaluación docente y realicé la transmisión en vivo (streaming) de diversos cursos en línea, un foro estatal y un congreso nacional.
+
+Logros:
+Generé semestralmente más de 6,000 reportes individuales de evaluación docente, procesando casi 200,000 instrumentos aplicados. Esta tarea inicialmente requería un equipo de 4 personas trabajando en la generación en Excel de dichos reportes, por aproximadamente 2 meses. Con la sistematización de esta actividad, solo se requiere el trabajo de 1 persona por 1 a 2 semanas.
+Aumenté considerablemente la usabilidad del sitio web del Departamento de Formación Docente, mejorando su diseño y el de los instrumentos de evaluación docente mediante diseño web responsive y otras tecnologías.
+Aumenté significativamente la estabilidad de la base de datos, logrando reducir hasta en un 90% el número de conexiones paralelas a la base de datos, durante la aplicación del instrumento de evaluación docente.
+Optimicé la consulta de datos del Sistema de Administración Documental y de Control Escolar, así como del Sistema de Personal, mediante el desarrollo de nuevos módulos en el sistema “Monitoreo de evaluación docente”.
+Incrementé los niveles de participación en cursos de formación docente, mediante las transmisiones en vivo por YouTube a diferentes unidades académicas, ubicadas por todo el estado de Morelos. | Funciones:
+Desarrollé el sitio web del departamento de formación docente, así como de dos instrumentos de evaluación docente aplicando diseño web responsive (Bootstrap), HTML, CSS, JavaScript y JQuery para el frontend, y PHP para el backend.
+Sistematicé la generación de reportes individuales de evaluación docente, calculando los resultados a partir de las respuestas almacenadas en la base de datos PostgreSQL.
+Desarrollé nuevos scripts PHP para la obtención de los resultados de evaluación docente, así como de corrección en posibles inconsistencias en la base de datos PostgreSQL.
+Desarrollé nuevos módulos de administrador para el sistema "Monitoreo de evaluación docente".
+Rediseñé y optimicé la base de datos PostgreSQL ya existente.
+Impartí diversas capacitaciones semestrales en el uso del sistema de evaluación docente y realicé la transmisión en vivo (streaming) de diversos cursos en línea, un foro estatal y un congreso nacional.
+
+Logros:
+Generé semestralmente más de 6,000 reportes individuales de evaluación docente, procesando casi 200,000 instrumentos aplicados. Esta tarea inicialmente requería un equipo de 4 personas trabajando en la generación en Excel de dichos reportes, por aproximadamente 2 meses. Con la sistematización de esta actividad, solo se requiere el trabajo de 1 persona por 1 a 2 semanas.
+Aumenté considerablemente la usabilidad del sitio web del Departamento de Formación Docente, mejorando su diseño y el de los instrumentos de evaluación docente mediante diseño web responsive y otras tecnologías.
+Aumenté significativamente la estabilidad de la base de datos, logrando reducir hasta en un 90% el número de conexiones paralelas a la base de datos, durante la aplicación del instrumento de evaluación docente.
+Optimicé la consulta de datos del Sistema de Administración Documental y de Control Escolar, así como del Sistema de Personal, mediante el desarrollo de nuevos módulos en el sistema “Monitoreo de evaluación docente”.
+Incrementé los niveles de participación en cursos de formación docente, mediante las transmisiones en vivo por YouTube a diferentes unidades académicas, ubicadas por todo el estado de Morelos. | Funciones:
+Desarrollé el sitio web del departamento de formación docente, así como de dos instrumentos de evaluación docente aplicando diseño web responsive (Bootstrap), HTML, CSS, JavaScript y JQuery para el frontend, y PHP para el backend.
+Sistematicé la generación de reportes individuales de evaluación docente, calculando los resultados a partir de las respuestas almacenadas en la base de datos PostgreSQL.
+Desarrollé nuevos scripts PHP para la obtención de los resultados de evaluación docente, así como de corrección en posibles inconsistencias en la base de datos PostgreSQL.
+Desarrollé nuevos módulos de administrador para el sistema "Monitoreo de evaluación docente".
+Rediseñé y optimicé la base de datos PostgreSQL ya existente.
+Impartí diversas capacitaciones semestrales en el uso del sistema de evaluación docente y realicé la transmisión en vivo (streaming) de diversos cursos en línea, un foro estatal y un congreso nacional.
+
+Logros:
+Generé semestralmente más de 6,000 reportes individuales de evaluación docente, procesando casi 200,000 instrumentos aplicados. Esta tarea inicialmente requería un equipo de 4 personas trabajando en la generación en Excel de dichos reportes, por aproximadamente 2 meses. Con la sistematización de esta actividad, solo se requiere el trabajo de 1 persona por 1 a 2 semanas.
+Aumenté considerablemente la usabilidad del sitio web del Departamento de Formación Docente, mejorando su diseño y el de los instrumentos de evaluación docente mediante diseño web responsive y otras tecnologías.
+Aumenté significativamente la estabilidad de la base de datos, logrando reducir hasta en un 90% el número de conexiones paralelas a la base de datos, durante la aplicación del instrumento de evaluación docente.
+Optimicé la consulta de datos del Sistema de Administración Documental y de Control Escolar, así como del Sistema de Personal, mediante el desarrollo de nuevos módulos en el sistema “Monitoreo de evaluación docente”.
+Incrementé los niveles de participación en cursos de formación docente, mediante las transmisiones en vivo por YouTube a diferentes unidades académicas, ubicadas por todo el estado de Morelos. | Funciones:
+Desarrollé el sitio web del departamento de formación docente, así como de dos instrumentos de evaluación docente aplicando diseño web responsive (Bootstrap), HTML, CSS, JavaScript y JQuery para el frontend, y PHP para el backend.
+Sistematicé la generación de reportes individuales de evaluación docente, calculando los resultados a partir de las respuestas almacenadas en la base de datos PostgreSQL.
+Desarrollé nuevos scripts PHP para la obtención de los resultados de evaluación docente, así como de corrección en posibles inconsistencias en la base de datos PostgreSQL.
+Desarrollé nuevos módulos de administrador para el sistema "Monitoreo de evaluación docente".
+Rediseñé y optimicé la base de datos PostgreSQL ya existente.
+Impartí diversas capacitaciones semestrales en el uso del sistema de evaluación docente y realicé la transmisión en vivo (streaming) de diversos cursos en línea, un foro estatal y un congreso nacional.
+
+Logros:
+Generé semestralmente más de 6,000 reportes individuales de evaluación docente, procesando casi 200,000 instrumentos aplicados. Esta tarea inicialmente requería un equipo de 4 personas trabajando en la generación en Excel de dichos reportes, por aproximadamente 2 meses. Con la sistematización de esta actividad, solo se requiere el trabajo de 1 persona por 1 a 2 semanas.
+Aumenté considerablemente la usabilidad del sitio web del Departamento de Formación Docente, mejorando su diseño y el de los instrumentos de evaluación docente mediante diseño web responsive y otras tecnologías.
+Aumenté significativamente la estabilidad de la base de datos, logrando reducir hasta en un 90% el número de conexiones paralelas a la base de datos, durante la aplicación del instrumento de evaluación docente.
+Optimicé la consulta de datos del Sistema de Administración Documental y de Control Escolar, así como del Sistema de Personal, mediante el desarrollo de nuevos módulos en el sistema “Monitoreo de evaluación docente”.
+Incrementé los niveles de participación en cursos de formación docente, mediante las transmisiones en vivo por YouTube a diferentes unidades académicas, ubicadas por todo el estado de Morelos. | Funciones:
+Desarrollé el sitio web del departamento de formación docente, así como de dos instrumentos de evaluación docente aplicando diseño web responsive (Bootstrap), HTML, CSS, JavaScript y JQuery para el frontend, y PHP para el backend.
+Sistematicé la generación de reportes individuales de evaluación docente, calculando los resultados a partir de las respuestas almacenadas en la base de datos PostgreSQL.
+Desarrollé nuevos scripts PHP para la obtención de los resultados de evaluación docente, así como de corrección en posibles inconsistencias en la base de datos PostgreSQL.
+Desarrollé nuevos módulos de administrador para el sistema "Monitoreo de evaluación docente".
+Rediseñé y optimicé la base de datos PostgreSQL ya existente.
+Impartí diversas capacitaciones semestrales en el uso del sistema de evaluación docente y realicé la transmisión en vivo (streaming) de diversos cursos en línea, un foro estatal y un congreso nacional.
+
+Logros:
+Generé semestralmente más de 6,000 reportes individuales de evaluación docente, procesando casi 200,000 instrumentos aplicados. Esta tarea inicialmente requería un equipo de 4 personas trabajando en la generación en Excel de dichos reportes, por aproximadamente 2 meses. Con la sistematización de esta actividad, solo se requiere el trabajo de 1 persona por 1 a 2 semanas.
+Aumenté considerablemente la usabilidad del sitio web del Departamento de Formación Docente, mejorando su diseño y el de los instrumentos de evaluación docente mediante diseño web responsive y otras tecnologías.
+Aumenté significativamente la estabilidad de la base de datos, logrando reducir hasta en un 90% el número de conexiones paralelas a la base de datos, durante la aplicación del instrumento de evaluación docente.
+Optimicé la consulta de datos del Sistema de Administración Documental y de Control Escolar, así como del Sistema de Personal, mediante el desarrollo de nuevos módulos en el sistema “Monitoreo de evaluación docente”.
+Incrementé los niveles de participación en cursos de formación docente, mediante las transmisiones en vivo por YouTube a diferentes unidades académicas, ubicadas por todo el estado de Morelos.
+Herramientas: | Linux, PHP, HTML, CSS, JavaScript, JQuery, Bootstrap, PostgreSQL e Informix | Linux, PHP, HTML, CSS, JavaScript, JQuery, Bootstrap, PostgreSQL e Informix | Linux, PHP, HTML, CSS, JavaScript, JQuery, Bootstrap, PostgreSQL e Informix | Linux, PHP, HTML, CSS, JavaScript, JQuery, Bootstrap, PostgreSQL e Informix | Linux, PHP, HTML, CSS, JavaScript, JQuery, Bootstrap, PostgreSQL e Informix
+ESTUDIOS:
+Escuela:   
+Tecnológico Nacional de México, campus Zacatepec | Lugar:  
+Zacatepec, Morelos
+Carrera: 
+Ingeniería en Sistemas Computacionales | Fecha de duración: 
+Agosto 2010 – Junio 2015
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Six Sigma Yellow Belt | Udemy (Softtek) | 2022
+Máster en PHP 8, POO, MVC, MySQL, Laravel 8, CodeIgniter 4 | Udemy (Softtek) | 2022
+Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress + | Udemy (Softtek) | 2022
+Desarrollo de sistemas web en PHP 7 POO, MySQL, Jquery Ajax | Udemy (Softtek) | 2022
+Scrum Developer Professional Certificate SDPC | SoyLider.Net (Virtual) | 2022
+Scrum Product Owner Professional Certificate SPOPC | SoyLider.Net (Virtual) | 2022
+Scrum Fundamentals Certified | SoyLider.Net (Virtual) | 2021
+IDIOMAS:
+Español: | Nativo
+Inglés: | Intermedio-Avanzado
+CONOCIMIENTOS TÉCNICOS:
+Perfil principal: | Desarrollador Full Stack Java
+Perfil secundario: | Desarrollador Full Stack PHP
+Sistemas operativos: | Windows y Linux
+Lenguajes de programación: | Java, PHP y ColdFusion
+Bases de datos: | Oracle, SQL Server, PostgreSQL, Informix y MySQL
+Otros: | Hibernate, Spring, Maven, JBoss, JavaScript, JQuery, HTML, CSS, Bootstrap, Git, JProfiler, Jenkins, SonarQube

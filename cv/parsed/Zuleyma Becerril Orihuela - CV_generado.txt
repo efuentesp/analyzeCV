@@ -1,0 +1,102 @@
+Zuleyma Becerril Orihuela
+Analista Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 1 año de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, me encargo de descubrir, sintetizar y analizar información proveniente de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas.
+
+He trabajado en la documentación y validación funcional de requerimientos, elaboración de diagramas As-Is/To-Be y diseño de maquetas de pantalla, contribuyendo con la identificación de patrones en incidencias recurrentes para prevenir errores repetitivos y mejorar la comunicación entre negocio y Tecnología de la Información (TI).
+
+Apoyo la gestión de backlog y el seguimiento de incidencias, realizo validaciones funcionales en sistemas internos y colaboro con equipos ágiles para entregar especificaciones claras y soluciones prácticas que garanticen la continuidad del servicio y la reducción de fallos repetitivos.
+EXPERIENCIA LABORAL
+Empresa
+Sofftek | Puesto
+Business Analyst Jr | Desde:
+24 diciembre 2024 | Hasta: 
+A la fecha
+Actividades Principales | • Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora., Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.
+• Comprendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.
+• Involucro a las Partes interesadas para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.
+• Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a las Partes interesadas ejecutar sus procesos de negocio con eficacia y facilidad.
+• Diseño la solución funcional que satisface los requerimientos de las Partes interesadas, junto con la estrategia de implementación necesaria para generar valor al negocio.
+• Aseguro que la solución sea aprobada conscientemente por las Partes interesadas, que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.
+• He usado la certificación UX: Máster en Diseño web y Experiencia de Usuario que me ha permitido aplicar conocimientos de diseño UX y experiencia de usuario.
+• He aplicado la certificación Domina SCRUM con JIRA Agile - Metodologías Ágiles que me ha permitido aplicar prácticas de Scrum integradas con JIRA.
+• He usado la certificación The Complete UML Course: Learn to Design UML Diagrams que me ha permitido diseñar diagramas UML para modelado de sistemas.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+Interfaz Gráfica de Usuario (GUI): Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.
+INT: Proveo las entradas necesarias para la integración de sistemas.
+STD: Participo en las actividades de diseño de pruebas de sistema.
+STE: Participo en la ejecución de las pruebas de sistema.
+DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+UAT: Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.
+• Documento historias de usuario (HU).
+• Elaboro diagramas de flujo (As-Is/To-Be).
+• Diseño maquetados de pantalla.
+• Gestiono y doy seguimiento a incidentes (INC).
+• Identifico la causa raíz y detecto incidentes recurrentes.
+• Realizo la validación funcional de pólizas y movimientos en sistemas internos (SVI y VT).
+• Analizo y documento IAD detallando la situación actual y el comportamiento esperado.
+• Administro y doy seguimiento al backlog de incidencias en seguimiento.
+• Ejecuto proyectos bajo marcos ágiles.
+• Facilito ceremonias de marco de trabajo scrum.
+• Gestiono y doy seguimiento a impedimentos.
+• Gestiono el backlog en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).
+• Documento requerimientos de negocio.
+• Elaboro diagramas de flujo y maquetados de pantallas.
+• Co-facilito en planeación trimestral.
+• Documento procesos y procedimientos de gestión interna.
+• Documento manuales de capacitación para nuevos ingresos.
+• Elaboro cronogramas de actividades para capacitaciones.
+• Apoyo en el proceso de reclutamiento y selección de personal.
+Empresa
+Grupo Salinas | Puesto
+Scrum Master y Business analyst | Desde:
+2 enero 2024 | Hasta: 
+1 diciembre 2024
+Actividades Principales | • Ejecuto proyectos bajo marcos ágiles.
+• Facilito ceremonias de marco de trabajo scrum.
+• Gestiono y doy seguimiento a impedimentos.
+• Gestiono el backlog en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).
+• Documento requerimientos de negocio.
+• Elaboro diagramas de flujo y maquetados de pantallas.
+• Co-facilito en la planeación trimestral.
+Empresa
+Hospital Angeles Metropolitano | Puesto
+Residencia profesional | Desde:
+2 enero 2023 | Hasta: 
+31 diciembre 2023
+Actividades Principales | • Documento procesos y procedimientos de gestión interna.
+• Documento manual de capacitación para nuevos ingresos.
+• Elaboro cronogramas de actividades para capacitaciones.
+• Apoyo en el proceso de reclutamiento y selección de personal.
+HERRAMIENTAS CONOCIDAS
+- Jira
+- Bizagi
+- Figma
+- Confluence
+- Miro
+- Drawio
+- IBM Clear Quest
+- Whimsical
+FORMACIÓN ACADÉMICA:
+Ingeniería en Administración - 2018 a 2023 | Instituto Tecnológico de Tláhuac 3 | Cédula Profesional
+14128271
+4/24/2024
+CURSOS
+- UX: Máster en Diseño web y Experiencia de Usuario
+- Domina SCRUM con JIRA Agile - Metodologías Ágiles
+- The Complete UML Course: Learn to Design UML Diagrams
+______________________________________
+Zuleyma Becerril Orihuela
+Analista Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

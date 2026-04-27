@@ -1,0 +1,149 @@
+Jeffry Antonio Armenta Palomares
+Analista de entrega documental
+EXPERIENCIA PROFESIONAL
+Cuento con al menos cinco años de experiencia en entrega documental. En mi rol como analista de entrega documental, soy responsable de documentar, sintetizar y analizar información de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas (Stakeholders), asegurando la correcta integración, organización y entrega de la documentación conforme a los lineamientos establecidos.
+
+He liderado la gestión y entrega de artefactos y expedientes en entornos corporativos, manteniendo control de versiones, metadatos y trazabilidad para garantizar la integridad de la evidencia. Trabajo con equipos multidisciplinarios para coordinar firmas, validar paquetes de entrega y preparar reportes ejecutivos que facilitan la toma de decisiones del cliente.
+
+Mi enfoque está en asegurar la continuidad operativa y el cumplimiento de procesos mediante la normalización de carpetas, listas de cotejo y evidencias; doy seguimiento a aclaraciones documentales y coordino liberaciones y sesiones de aceptación para validar entregables.
+EXPERIENCIA LABORAL
+Empresa
+Softtek - NMP | Puesto
+Project Manager Sr/Scrum Master | Desde:
+1 abril 2022 | Hasta: 
+Actual
+Actividades Principales | • Realizo la entrega documental y la recopilación de firmas que respaldan las evidencias de los servicios prestados.
+• Ejecuto la entrega documental mensual y recopilo las firmas necesarias que sustentan las evidencias de los servicios prestados.
+• Compilo y normalizo evidencias para la Carpeta Consolidada de Servicios y la Carpeta de entregas mensuales.
+• Completo las listas de cotejo por fase (Análisis, Diseño, Desarrollo, Pruebas, Liberación).
+• Integro reportes y VoBo como evidencia previa a liberación.
+• Preparo la evidencia de entrega de paquete para su integración.
+• Aplico control de versiones y gestiono metadatos (fecha/folio/autor) en todos los archivos de la carpeta.
+• Verifico la consistencia entre nombres, fechas y folios de todos los documentos del paquete.
+• Genero el reporte ejecutivo mensual con KPIs, backlog y liberaciones para su envío.
+• Gestiono aclaraciones documentales posteriores a la revisión, asegurando la trazabilidad de los cambios.
+• Preparo la evidencia de Toma de Operación (accesos ≤60 días, enlace ≤120 días, conectividad, acta) para la carpeta del mes correspondiente.
+• Ejecuto la pre-revisión de formato, ortografía y firmas, y valido listas de distribución y acuses.
+• Gestiono entre 1 y 3 proyectos con un esfuerzo total de 15,000 a 20,000 horas, asegurando la entrega documental mensual y la recopilación de firmas que sustentan las evidencias de los servicios prestados. Doy seguimiento a los entregables y reporto avances a los administradores del proyecto y al cliente.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• ISP: Inicializo la gestión documental del proyecto, definiendo lineamientos, estructura de carpetas y requisitos de evidencias.
+• PTO: Doy seguimiento a la entrega documental, validando avances, controlando versiones y asegurando el cumplimiento los criterios establecidos.
+• PCR: Gestiono y documento cambios en entregables, asegurando su trazabilidad, actualización y correcta integración en la documentación.
+• FPT: Formalizo la terminación del proyecto mediante la integración, validación y entrega final de la documentación con sus respectivas evidencias y firmas.
+• Elaboración de Propuestas de Proyectos
+• Elaboración de Cartas de Aceptación y Cierre (Facturación)
+• Sesiones de trabajo diarias con base a la metodología Scrum Master, Kanban.
+• Gestión de Entregables y Artefactos en Share Point.
+• Acompañamiento en Liberaciones.
+• Sesión de Pruebas de Aceptación de Usuario (UAT) para aceptación del usuario
+• Realizar desasignaciones y baja de cuentas.
+• Elaboración de Presentaciones de Comité Quincenal y estatus con usuarios.
+• Análisis de las bases de Datos Teradata y BigQuery para su migración.
+• Sesiones de trabajo diarias con base a la metodología Scrum Master.
+• Generación de tareas y seguimiento de las mismas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).
+• Documentar a los tickets de cambio realizados en ServiceNow (ITSM para incidencias, cambios y problemas).
+• Identificación de Partes interesadas (Stakeholders) para solicitar información a documentar.
+• Gestión de la información solicitada y seguimiento de la misma.
+• Documentación y entrega de artefactos identificados.
+• Presentación de avance semanal del proyecto asignado.
+• Calendarización de Daily Stand Up y sesiones para mostrar avances.
+• Elaboración de plan de trabajo a desarrollar.
+• Llevar a cabo la sesión del Kick Off con los involucrados del proyecto.
+• Escalamiento de Issues y Warnings detectados.
+• Elaboración de check list y time line de las actividades del proyecto.
+• Elaboración del DRP y plan de riesgos.
+• Realización de Minutas de acuerdos de las reuniones programadas.
+• Programación de sesiones de seguimiento con equipo de trabajo.
+• Trabajo bajo la metodología Scrum Master y Biblioteca de Infraestructura de Tecnologías de Información (ITIL) v4.
+• Generación del CHG y RLSE para levantar el ticket del cambio.
+• Generación de la Transferencia de Conocimiento (KT/KTE) para la transferencia del conocimiento.
+• Elaboración de documentación Manuales, Diagramas de Flujo, (Casos de uso) Organigramas, Guías operativas, Comunicados y Fichas de Producto para la mejora de procesos del grupo.
+• Mapeo y definición de procesos por medio de la metodologia Biblioteca de Infraestructura de Tecnologías de Información (ITIL).
+• Creación de los Planes de trabajo mensuales mostrando el dimensionamiento de para la mejora de la atención a clientes
+• Diseñar modelos de operación y rediseñar procesos para simplificar la operación para un mejor entendimiento incorporando tecnología.
+• Creación actualización y modificación de reporte y métricas utilizando tablas dinámicas y presentaciones visuales.
+• Reporte semanal de avances del proyecto con los involucrados señalando los porcentajes de avance y justificación de retrasos.
+• Implementar en conjunto con la operación y sistemas las soluciones identificadas (proyectos especiales) orientadas a la rentabilidad y servicio.
+• Elaboración de manuales institucionalales y normativos para la regulación de sector
+• Revisión de documentos entre las áreas involucradas
+• Aplicación de cambios para generar la versión final
+• Coordinación el desarrollo de materiales
+• Seguimiento de acuerdos y elaboración de minutas
+• Elaboraciones informes de avance del proyecto, tomando las decisiones correctivas y proponiendo soluciones alternativas
+• Involucrar a los usuarios o clientes cuando es necesario, haciendo la negociación de compromisos
+Empresa
+Softtek - Walmart | Puesto
+Business Analyst | Desde:
+1 septiembre 2021 | Hasta: 
+31 diciembre 2021
+Actividades Principales | • Análisis de las bases de Datos Teradata y BigQuery para su migración.
+• Sesiones de trabajo diarias con base a la metodología Scrum Master.
+• Generación de tareas y seguimiento de las mismas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).
+• Documentar a los tickets de cambio realizados en ServiceNow (ITSM para incidencias, cambios y problemas).
+• Identificación de Partes interesadas (Stakeholders) para solicitar información a documentar.
+• Gestión de la información solicitada y seguimiento de la misma.
+• Documentación y entrega de artefactos identificados.
+• Presentación de avance semanal del proyecto asignado.
+• Calendarización de Daily Stand Up y sesiones para mostrar avances.
+• Elaboración de plan de trabajo a desarrollar.
+• Llevar a cabo la sesión del Kick Off con los involucrados del proyecto.
+• Escalamiento de Issues y Warnings detectados.
+• Elaboración de check list y time line de las actividades del proyecto.
+• Elaboración del DRP y plan de riesgos.
+• Realización de Minutas de acuerdos de las reuniones programadas.
+• Programación de sesiones de seguimiento con equipo de trabajo.
+• Trabajo bajo la metodología Scrum Master y Biblioteca de Infraestructura de Tecnologías de Información (ITIL) v4.
+• Generación del CHG y RLSE para levantar el ticket del cambio.
+• Generación de la Transferencia de Conocimiento (KT/KTE) para la transferencia del conocimiento.
+Empresa
+Grupo Futuro 46 - Metlife | Puesto
+Documentador de Procesos / Analista de Proyectos | Desde:
+1 abril 2020 | Hasta: 
+31 agosto 2021
+Actividades Principales | • Elaboración de documentación Manuales, Diagramas de Flujo, (Casos de uso) Organigramas, Guías operativas, Comunicados y Fichas de Producto para la mejora de procesos del grupo.
+• Mapeo y definición de procesos por medio de la metodologia Biblioteca de Infraestructura de Tecnologías de Información (ITIL).
+• Creación de los Planes de trabajo mensuales mostrando el dimensionamiento de para la mejora de la atención a clientes
+• Diseñar modelos de operación y rediseñar procesos para simplificar la operación para un mejor entendimiento incorporando tecnología.
+• Creación actualización y modificación de reporte y métricas utilizando tablas dinámicas y presentaciones visuales.
+• Reporte semanal de avances del proyecto con los involucrados señalando los porcentajes de avance y justificación de retrasos.
+• Implementar en conjunto con la operación y sistemas las soluciones identificadas (proyectos especiales) orientadas a la rentabilidad y servicio.
+• Elaboración de manuales institucionalales y normativos para la regulación de sector
+• Revisión de documentos entre las áreas involucradas
+• Aplicación de cambios para generar la versión final
+• Coordinación el desarrollo de materiales
+• Seguimiento de acuerdos y elaboración de minutas
+• Elaboraciones informes de avance del proyecto, tomando las decisiones correctivas y proponiendo soluciones alternativas
+• Involucrar a los usuarios o clientes cuando es necesario, haciendo la negociación de compromisos
+HERRAMIENTAS CONOCIDAS
+- Visio
+- Word
+- Excel
+- Power Point
+- MS Project
+- Outlook
+- Bizagi Modeler
+- Jira
+- Kanban
+- Share Point
+- ServiceNow
+- Remedy
+- Pc Anywhere
+- MySQL
+- SQL Server
+- Prezi
+- Moodle
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 05 noviembre de 2012 hasta 30 marzo de 2020
+Durante este período me desempeñé como Business Analyst, Líder de Proyecto / Supervisor de Soporte Técnico Tercer Nivel, Documentador MyP / Supervisor de Soporte Técnico Primer Nivel, Instructor de Capacitación de Soporte Técnico y Analista de Sistemas. Asumí responsabilidades de documentación y control de evidencias, gestión de incidencias, elaboración de manuales y diagramas, coordinación de capacitación y supervisión de equipos, así como seguimiento de planes de trabajo y reportes de avance, siempre orientado a mantener la calidad operativa y el cumplimiento de niveles de servicio.
+FORMACIÓN ACADÉMICA:
+Licenciatura en Administración - 2014 - 2017 | Universidad Insurgentes, Ecatepec, Estado de México | Cédula Profesional
+12505645
+10/1/2021
+CURSOS
+- Curso básico de gestión documental y organización de archivo
+______________________________________
+Jeffry Antonio Armenta Palomares
+Analista de entrega documental | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

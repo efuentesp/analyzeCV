@@ -1,0 +1,141 @@
+Aurora Vargas Palomares
+Desarrollador BI de atención de incidentes
+FUNCIONES
+Analizo las propuestas de requerimientos de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos, así como en la coordinación con desarrolladores, testers y áreas de negocio. Realizo validaciones funcionales mediante pruebas de aceptación y seguimiento a Pruebas, mantengo interlocución constante con usuarios y coordino las actividades de analistas junior, asegurando un conocimiento integral de los requerimientos del proyecto asignado. Cuento con habilidades de liderazgo, identificación de problemas y propuesta de soluciones, así como dominio en el uso de herramientas y metodologías de análisis como Design Thinking y UML. Además, me comunico eficazmente con diferentes audiencias y elaboro documentación bajo marcos de trabajo tradicionales y ágiles.
+He brindado atención a solicitudes, monitoreos e incidentes en aplicaciones institucionales, realizando análisis funcional, construcción de scripts en Oracle, SQL Server y Hive, operación de cargas con ODI Studio y elaboración de reportes para distintos usuarios. También he promovido mejoras para disminuir tiempos de ejecución, fortalecer el rendimiento y sostener la operación continua de soluciones analíticas.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 3 años en desarrollo de soluciones de BI, en servicios y aplicaciones web frontend y backend, dashboards interactivos, tableros, informes automáticos y reportes. Domino tecnologías aplicadas a entornos de Inteligencia de Negocio. Analizo, corrijo y doy mantenimiento a procesos y componentes BI para la atención de incidentes, generando y ajustando código conforme a la especificación técnica. Ejecuto las actividades de soporte y desarrollo de acuerdo con lo establecido, apegándome a estándares, arquitectura y frameworks definidos, asegurando la calidad de la información, la continuidad operativa y el cumplimiento de los tiempos establecidos.
+
+He atendido solicitudes, monitoreos e incidentes en aplicaciones institucionales, realizando análisis funcional, construcción de scripts en Oracle Database (Motor de base de datos empresarial), SQL Server (Motor de base de datos para consultas y validaciones) y Hive, operación de cargas con ODI Studio y generación de reportes para distintos usuarios. También he impulsado mejoras para reducir tiempos de ejecución, fortalecer el rendimiento y mantener la operación continua de soluciones analíticas.
+
+Complemento esta experiencia con soporte y mantenimiento a aplicaciones críticas en Java (Lenguaje de programación para desarrollo de aplicaciones), validación de defectos y vulnerabilidades, pruebas funcionales, documentación técnica y trato directo con usuarios y equipos de operación. Esto me permite aportar criterio para resolver incidencias, ordenar prioridades y sostener la calidad del servicio en ambientes productivos.
+EXPERIENCIA LABORAL
+Empresa
+Softtek (Proyecto BMV) | Puesto
+Ingeniero de software | Desde:
+1 febrero 2023 | Hasta: 
+30 novimbre 2023
+Actividades Principales | • Mantengo y doy soporte a los aplicativos de Inteligencia de Negocio dominando varios lenguajes de programación. Tengo habilidades en Bases de Datos relacionales y no relacionales, técnicas de diseño para el Modelado de Datos, versionamiento del código (Git (Control de versiones distribuido)) y diseño y desarrollo de procesos de Extraer, Transformar y Cargar (ETL).
+• Diseño, desarrollo y realizo mantenimiento a soluciones de BI (dashboards, reportes, tableros automáticos y servicios web frontend/backend), asegurando al menos 2 años de experiencia en este tipo de implementaciones.
+• Construyo, implemento y pongo en operación componentes y sistemas BI mediante lenguajes de programación, garantizando su correcto funcionamiento en ambientes productivos.
+• Implemento historias de usuario cumpliendo estándares de codificación y ejecuto pruebas unitarias para asegurar la calidad de los desarrollos.
+• Analizo y corrijo hallazgos de seguridad (SAST/DAST), documentando las remediaciones aplicadas en los componentes BI.
+• Preparo artefactos técnicos (manuales de instalación/configuración) y doy soporte a la integración y entrega de paquetes a AVL.
+• Registro y gestiono tareas e incidencias en GitLab, siguiendo flujos de ramas, versionamiento y etiquetado definidos.
+• Documento evidencias de cada fase del desarrollo y soporte para su integración en carpetas y VoBo.
+• Participo en ambientes INT, Pruebas de Aceptación de Usuario (UAT) y PROD, atendiendo y resolviendo defectos hasta obtener VoBo.
+• Mantengo una trayectoria laboral consistente, acumulando al menos 2 años de experiencia en desarrollo BI y atención de incidentes, con fechas claras y sin traslapes.
+• Aplico conocimientos en bases de datos relacionales y no relacionales, modelado de datos, versionamiento con Git (Control de versiones distribuido), desarrollo de aplicaciones web y procesos Extraer, Transformar y Cargar (ETL)/ELT.
+• Cumplo con tiempos, esfuerzo y calidad comprometidos, generando métricas de ejecución como tickets/historias cerradas por sprint, cobertura de pruebas y cumplimiento en tiempos de atención de incidentes.
+• Atiendo incidentes en entornos productivos de BI, analizando, reproduciendo y corrigiendo fallas mediante bugfix, hotfix y parches.
+• Participo en la resolución de incidentes según su severidad/prioridad, asegurando continuidad operativa y estabilidad de la información.
+• Realizo validaciones técnicas posteriores a cada corrección para garantizar la solución definitiva del incidente.
+• Colaboro con equipos de soporte, pruebas y usuarios técnicos durante la atención de incidentes, asegurando una comunicación efectiva.
+• Documento soluciones técnicas, lecciones aprendidas y contribuyo a bases de conocimiento para mejora continua.
+• Identifico, gestiono y escalo riesgos e issues técnicos que puedan afectar la operación de soluciones BI.
+• Aseguro el cumplimiento de estándares, lineamientos del proyecto y buenas prácticas de desarrollo, calidad y operación.
+• Cuento con sólidos conocimientos en soluciones de BI que me permiten analizar y resolver incidentes complejos mediante el uso de herramientas y procesos establecidos, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos que puedan afectar la calidad de la información y la continuidad operativa; además, valido correcciones, ejecuto pruebas y documento evidencias durante la atención de incidentes. Trabajo de forma autónoma con mínima supervisión, cumpliendo los tiempos comprometidos y manteniendo un alto nivel de especialización en entornos BI.
+• He aplicado el curso SQL TOTAL – Domina Bases de Datos de 0 a Avanzado en 12 Días para diseñar, consultar y administrar bases de datos relacionales utilizando SQL desde nivel básico hasta avanzado
+• He utilizado la certificación Certified ScrumMaster® (CSM) para facilitar equipos ágiles, coordinar eventos Scrum y promover la mejora continua en la entrega de valor
+• He puesto en práctica la certificación Scrum Fundamentals Certified para comprender y aplicar los principios, roles y eventos del marco de trabajo Scrum en entornos ágiles
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro especificaciones detalladas de componentes y servicios, asegurando su alineación con los requerimientos operativos, los niveles de servicio (SLAs) y los estándares definidos.
+• CTR: Coordino y superviso la construcción e implementación de componentes y soluciones, garantizando su correcta integración dentro del modelo de operación del servicio.
+• DOC: Genero y mantengo la documentación técnica y operativa, asegurando la trazabilidad, estandarización y soporte a la continuidad y mejora del servicio.
+• Realizo el análisis, validación y atención de problemas en aplicaciones de INDEVAL
+• Analizo y apoyo en la atención de vulnerabilidades identificadas en los sistemas de INDEVAL
+• Realizo el análisis y validación de defectos reportados en los sistemas de INDEVAL
+• Ejecuto pruebas funcionales en los diferentes sistemas de INDEVAL
+• Genero documentación para la entrega al cliente sobre problemas, vulnerabilidades o defectos reportados
+• Atiendo servicios de solicitudes de usuario, monitoreo e incidentes para su análisis y validación en las aplicaciones SIMF, SINOLAVE, MPEC, FEPAC, CIMA y ECE del IMSS
+• Analizo, diseño y construyo scripts para la extracción de información en bases de datos SQL Server y Oracle Database, generando reportes bajo demanda del usuario
+• Analizo, diseño y construyo escenarios para la ejecución de pruebas de estrés con JMeter, validando sistemas y módulos para asegurar el rendimiento de servidor, base de datos y red, además de documentar resultados y conclusiones
+• Genero y valido documentación aplicativa Maagtic de los sistemas del IMSS, asegurando la calidad en las divisiones DSDICDS y DSDIOH para el cumplimiento de SLAs en los repositorios
+• Imparto capacitación al equipo de continuidad operativa de las divisiones DSDICDS y DSDIOH, alineando procesos y asegurando el cumplimiento de SLAs
+• Implemento y valido despliegues a producción para la aplicación de cambios en el sistema SIMF a nivel nacional
+• Analizo, diseño y construyo scripts en Oracle Database para la atención de solicitudes del sistema SINOLAVE
+• Atiendo y resuelvo incidentes del sistema ECE, generando y entregando reportes semanales de niveles 1N, 2N y 3N
+• Opero soluciones analíticas para la extracción mensual de información de sistemas del IMSS, realizando cargas a SQL Server mediante ODI Studio para su tratamiento y análisis
+• Analizo y actualizo scripts en Hive y SQL Server para optimizar consultas, reduciendo tiempos de ejecución y mejorando el rendimiento
+• Genero diagramas UML de casos de uso, actividades y secuencia para documentar el flujo y comportamiento de procesos en MPEC
+• Diseño e implemento propuestas de mejora en sistemas para reducir tickets, esfuerzo y tiempos de atención
+• Diseño e implemento propuestas de innovación para optimizar la arquitectura y el rendimiento de soluciones analíticas
+• Implemento mantenimientos menores para la evolución de componentes ETL en soluciones analíticas
+• Genero respaldos de la base de datos MPEC
+• Desarrollo y opero bases de datos enfocadas a la continuidad operativa
+Empresa
+Softtek (Proyecto IMSS) | Puesto
+Ingeniero de software | Desde:
+1 abril 2016 | Hasta: 
+31 diciembre 2022
+Actividades Principales | • Atiendo servicios de solicitudes de usuario, monitoreo e incidentes para su análisis y validación en las aplicaciones SIMF, SINOLAVE, MPEC, FEPAC, CIMA y ECE del IMSS
+• Analizo, diseño y construyo scripts para la extracción de información en bases de datos SQL Server y Oracle Database, generando reportes bajo demanda del usuario
+• Analizo, diseño y construyo escenarios para la ejecución de pruebas de estrés con JMeter, validando sistemas y módulos para asegurar el rendimiento de servidor, base de datos y red, además de documentar resultados y conclusiones
+• Genero y valido documentación aplicativa Maagtic de los sistemas del IMSS, asegurando la calidad en las divisiones DSDICDS y DSDIOH para el cumplimiento de SLAs en los repositorios
+• Imparto capacitación al equipo de continuidad operativa de las divisiones DSDICDS y DSDIOH, alineando procesos y asegurando el cumplimiento de SLAs
+• Implemento y valido despliegues a producción para la aplicación de cambios en el sistema SIMF a nivel nacional
+• Analizo, diseño y construyo scripts en Oracle Database para la atención de solicitudes del sistema SINOLAVE
+• Atiendo y resuelvo incidentes del sistema ECE, generando y entregando reportes semanales de niveles 1N, 2N y 3N
+• Opero soluciones analíticas para la extracción mensual de información de sistemas del IMSS, realizando cargas a SQL Server mediante ODI Studio para su tratamiento y análisis
+• Analizo y actualizo scripts en Hive y SQL Server para optimizar consultas, reduciendo tiempos de ejecución y mejorando el rendimiento
+• Genero diagramas UML de casos de uso, actividades y secuencia para documentar el flujo y comportamiento de procesos en MPEC
+• Diseño e implemento propuestas de mejora en sistemas para reducir tickets, esfuerzo y tiempos de atención
+• Diseño e implemento propuestas de innovación para optimizar la arquitectura y el rendimiento de soluciones analíticas
+• Implemento mantenimientos menores para la evolución de componentes ETL en soluciones analíticas
+• Genero respaldos de la base de datos MPEC
+• Desarrollo y opero bases de datos enfocadas a la continuidad operativa
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Certified Scrum Master - ScrumAlliance
+- Scrum Fundamentals Certified (SFC™)
+- SQL TOTAL – Domina Bases de Datos de 0 a Avanzado en 12 Días
+- XML
+- UML
+- Struts
+- SSH
+- SQL Server
+- Spring
+- Servlets
+- PL SQL
+- PHP
+- Oracle 11
+- Oracle
+- ODI Studio
+- Navicat
+- MS Visual Basic For Applications
+- Microstrategy
+- Microsoft Office
+- JSON
+- JSF
+- JQuery
+- Jmeter
+- JIRA
+- Jboss
+- JavaServer Pages (JSP)
+- Javascript
+- Java
+- IPC (Informática Power Center).
+- HTML
+- Hive
+- EJBs
+- Eclipse
+- API Security
+- Ajax
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 marzo de 2012 hasta 14 abril de 2026
+Durante este período me desempeñé como Desarrollador Software, Ingeniero de software, Software Engineer y Auditor de Seguridad, asumiendo funciones de soporte, mantenimiento, atención de incidencias, validación de problemas y acompañamiento operativo a usuarios y proyectos. También participé en pruebas funcionales, documentación, seguimiento de liberaciones y revisión de controles de seguridad, manteniendo comunicación con áreas usuarias y técnicas para dar continuidad al servicio y asegurar el cumplimiento de lineamientos, políticas y procesos establecidos.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Licenciatura en Informática - De agosto 2007 a diciembre 2011 | Zacatepec, Morelos | Cédula Profesional
+7794564
+31/10/2012
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Certified Scrum Master - ScrumAlliance | 2026-2028
+- Scrum Fundamentals Certified (SFC™) | 2021
+CURSOS
+- SQL TOTAL – Domina Bases de Datos de 0 a Avanzado en 12 Días
+______________________________________
+Aurora Vargas Palomares
+Desarrollador BI de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

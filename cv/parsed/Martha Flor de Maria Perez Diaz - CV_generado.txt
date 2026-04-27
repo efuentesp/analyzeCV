@@ -1,0 +1,105 @@
+Martha Flor de María Pérez Díaz
+Analista Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 1 año de experiencia en análisis de sistemas, aplicaciones, servicios, procesos y/o soluciones de Inteligencia de Negocio. Como analista de negocio, soy responsable de descubrir, sintetizar y analizar información proveniente de diversas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas (Stakeholders).
+
+He desarrollado actividades continuas de levantamiento y documentación de requerimientos, diseño funcional y coordinación con equipos de implementación para asegurar continuidad de servicio y control de cambios. Aporto claridad en la especificación de soluciones y apoyo en la ejecución y validación de pruebas.
+
+Trabajo con metodologías ágiles y herramientas de documentación para traducir necesidades del negocio en entregables técnicos que facilitan la implementación y el mantenimiento de soluciones.
+EXPERIENCIA LABORAL
+Empresa
+Softtek CDMX | Puesto
+Business Analyst - Expert | Desde:
+1 diciembre 2025 | Hasta: 
+31 enero 2026
+Actividades Principales | • Recolecto, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora., Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.
+• Entiendo las verdaderas necesidades mediante el uso de un conjunto de técnicas de análisis.
+• Involucro a las Partes interesadas (Stakeholders) para descubrir los requerimientos funcionales, no funcionales y de transición, documentándolos de manera completa, clara, correcta, consistente, factible y libre de ambigüedad.
+• Genero las especificaciones de los requerimientos no funcionales, describiendo las cualidades y restricciones que deben considerarse para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que se conviertan en herramientas efectivas, permitiendo a las Partes interesadas (Stakeholders) ejecutar sus procesos de negocio con eficacia y facilidad.
+• Diseño la solución funcional que satisface los requerimientos de las Partes interesadas (Stakeholders), junto con la estrategia de implementación necesaria para generar valor al negocio.
+• Aseguro que la solución sea aprobada conscientemente por las Partes interesadas (Stakeholders), que cumpla con los objetivos planteados y que su implementación se lleve a cabo sin percances.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.
+• He usado la certificación UX: Máster en Diseño web y Experiencia de Usuario como curso de diseño UX y experiencia de usuario.
+• He aplicado la certificación Domina SCRUM con JIRA Agile - Metodologías Ágiles como curso de Scrum aplicado con JIRA.
+• He usado la certificación The Complete UML Course: Learn to Design UML Diagrams como curso de modelado de sistemas con UML.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+GUI: Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.
+INT: Proveo las entradas necesarias para la integración de sistemas.
+STD: Participo en las actividades de diseño de pruebas de sistema.
+STE: Participo en la ejecución de las pruebas de sistema.
+DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+UAT: Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.
+• Reviso los requisitos y elaboro la documentación del aplicativo DEB/SEF.
+• Reviso el aplicativo (reingeniería inversa) para complemento de documentación.
+• Coordino en conjunto con el cliente y la IA (ejecución de prompts) la definición de requerimientos; reglas de negocio y entendimiento técnico del aplicativo.
+• Revisión de requisitos y documentación de los proyectos para análisis y diseño técnico.
+• Coordino en conjunto con el cliente la definición de las necesidades existentes y requerimientos; con conocimiento, contexto general e integral del proyecto.
+• Analizo los procesos involucrados en negocios, realizo revisión y seguimiento al levantamiento de requerimientos y documentos generados.
+• Elaboro y actualizo documentos, historias de usuario, diseño de la solución, reportes, etc.
+• Elaboro documentos técnicos.
+• Apoyo al equipo de desarrollo en la elaboración de controles.
+• Apoyo en la elaboración de casos de prueba a nivel funcional e integral.
+• Planifico, ejecuto y doy seguimiento a pruebas funcionales, integrales y de regresión.
+• Hago seguimiento a control de cambios.
+• Elaboración de pantallas prototipo.
+Empresa
+Softtek CDMX | Puesto
+Business Analyst - Expert | Desde:
+1 junio 2020 | Hasta: 
+30 noviembre 2025
+Actividades Principales | • Revisión de requisitos y documentación de los proyectos para análisis y diseño técnico.
+• Coordino en conjunto con el cliente la definición de las necesidades existentes y requerimientos; con conocimiento, contexto general e integral del proyecto.
+• Analizo los procesos involucrados en negocios, realizo revisión y seguimiento al levantamiento de requerimientos y documentos generados.
+• Elaboro y actualizo documentos, historias de usuario, diseño de la solución, reportes, etc.
+• Elaboro documentos técnicos.
+• Apoyo al equipo de desarrollo en la elaboración de controles.
+• Apoyo en la elaboración de casos de prueba a nivel funcional e integral.
+• Planifico, ejecuto y doy seguimiento a pruebas funcionales, integrales y de regresión.
+• Hago seguimiento a control de cambios.
+• Elaboración de pantallas prototipo.
+HERRAMIENTAS CONOCIDAS
+- Agile
+- Business Process Mapping
+- Copilot
+- GitHub
+- Confluence
+- MS Teams
+- VMware Horizon
+- Sharepoint
+- draw.io
+- SQL Server
+- Oracle
+- Visio
+- Microsoft Office
+- JIRA
+- VirtualBox
+- Bizagi
+- Eclipse UML
+- JMeter
+- Excel
+- Power Point
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 enero de 2008 hasta 30 noviembre de 2018
+Durante este período asumí responsabilidades centradas en la recopilación y documentación de requisitos, diseño funcional y apoyo en pruebas de sistemas. Me desempeñé en roles como Analista de Negocio, Líder Funcional, Analista de Requerimientos, Diseñador de Sistemas, Analista Tester y Supervisor Jr. Realicé actividades de coordinación con usuarios y equipos técnicos, preparación de entregables y control de cambios, manteniendo continuidad operativa y calidad en la entrega sin detallar empresas específicas.
+FORMACIÓN ACADÉMICA:
+Lic. Informática Administrativa - mayo 2005 - agosto 2008 | Universidad Tecnológica de México cdmx | Cédula Profesional
+6430642
+4/20/2010
+CURSOS
+- UX: Máster en Diseño web y Experiencia de Usuario
+- Domina SCRUM con JIRA Agile - Metodologías Ágiles
+- The Complete UML Course: Learn to Design UML Diagrams
+______________________________________
+Martha Flor de María Pérez Díaz
+Analista Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

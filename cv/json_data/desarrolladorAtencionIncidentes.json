@@ -1,0 +1,1827 @@
+[
+  {
+    "nombre": "Arath Fidel Gonzalez Muratalla",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "15475741",
+    "fecha_cedula": "20/02/2026",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Domino tecnologías de la Arquitectura de Referencia y tecnologías de código abierto. Genero y doy mantenimiento al código para cumplir la especificación técnica, siguiendo los estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos acordados.\n\nTengo experiencia en análisis y corrección de aplicaciones, asegurando la continuidad de servicios en entornos productivos mediante la identificación y resolución de incidencias. Trabajo en el desarrollo y mejora de servicios web (frontend y backend) y empleo control de versiones para coordinar entregas con equipos técnicos y garantizar calidad operacional.\n\nAporto valor en la continuidad del servicio mediante diagnóstico, parches y despliegues correctivos, y mantengo comunicación constante con equipos de soporte y Aseguramiento de la Calidad (QA) para mitigar riesgos y entregar soluciones estables.",
+    "experiencia_laboral": [
+      {
+        "empresa": "BBVA Bancomer",
+        "puesto": "Software Engineer - Senior",
+        "fecha_inicio": "1 febrero 2024",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Mantengo y brindo soporte a aplicativos dominando varios lenguajes de programación. Habilidades en; Resolución de problemas, Versionamiento del código (Git (Control de versiones distribuido)), Dominio en el desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño, codifico y ejecuto pruebas unitarias de componentes a partir de las especificaciones técnicas.",
+          "Implemento y utilizo de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.",
+          "Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+          "Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+          "He usado la certificación NestJS: The Complete Developer's Guide, para crear aplicaciones backend escalables usando NestJS.",
+          "He aplicado la certificación The Complete SQL Bootcamp en el dominio de SQL (Lenguaje para gestión y consulta de bases de datos relacionales).",
+          "He usado la certificación Understanding TypeScript, para desarrollar aplicaciones más seguras mediante el uso de tipado estático en JavaScript.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Optimizé y revisé la estructura para el Modelo de Datos de la iniciativa Seguros.",
+          "Optimizé y revisé la estructura para los nombres asignados en tablas del Modelo de Datos y analicé el flujo por cada componente que se usaría.",
+          "Diseñé pruebas para el formato de las tablas que se usarían en los componentes.",
+          "Hice seguimiento de actividades de varios equipos para estimar fechas sin impacto en desarrollos y revisé diseños de librerías para realizar el match de información.",
+          "Coordiné con equipos ágiles para mitigar posibles riesgos de liberaciones y participé en capacitaciones sobre estructura de datos.",
+          "Analicé los requerimientos del sistema, tanto de sistemas nuevos como de los que estaban en producción, realizando análisis estático y dinámico de código.",
+          "Diseñé sistemas para futuras implementaciones.",
+          "Implementé y realicé modificaciones mediante lenguajes Back-End (Java (Lenguaje de programación para desarrollo de aplicaciones), ColdFusion (CFML)) y Front-End(HTML5, CSS, JavaScript, jQuery (Librería para manipulación del DOM), XML) y Base de Datos (SQL Server (Motor de base de datos para consultas y validaciones) v2017 a 2019).",
+          "Manejé versiones mediante TortoiseSVN y GitHub.",
+          "Fusioné y creé ramas para distintos desarrollos.",
+          "Di de alta y configuré conexiones en Adobe ColdFusion manejando versiones 11 a 2021.",
+          "Generé parches de mejoras para su implementación en Aseguramiento de la Calidad (QA) y Producción.",
+          "Corregí errores a nivel código y de Base de Datos.",
+          "Manejé el motor de Base de Datos SQL Server (Motor de base de datos para consultas y validaciones) 2017 a 2019 para creación de tablas, triggers, vistas, índices y consultas.",
+          "Configuré servidores en Windows Server 2012 en adelante y administré terminal Linux; elaboré manuales de usuario y reportes de pruebas y errores solucionados."
+        ]
+      },
+      {
+        "empresa": "Application Hosting S.A de C.V",
+        "puesto": "SDET (Software Development Engineer in Testing) - Master",
+        "fecha_inicio": "3 enero 2022",
+        "fecha_fin": "30 noviembre 2023",
+        "actividades_principales": [
+          "Analicé los requerimientos del sistema, tanto de sistemas nuevos como de los que estaban en producción, realizando análisis estático y dinámico de código.",
+          "Diseñé sistemas para futuras implementaciones.",
+          "Implementé y realicé modificaciones mediante lenguajes Back-End (Java (Lenguaje de programación para desarrollo de aplicaciones), ColdFusion (CFML)) y Front-End(HTML5, CSS, JavaScript, jQuery (Librería para manipulación del DOM), XML) y Base de Datos (SQL Server (Motor de base de datos para consultas y validaciones) v2017 a 2019).",
+          "Manejé versiones mediante TortoiseSVN y GitHub.",
+          "Fusioné y creé ramas para distintos desarrollos.",
+          "Di de alta y configuré conexiones en Adobe ColdFusion manejando versiones 11 a 2021.",
+          "Generé parches de mejoras para su implementación en Aseguramiento de la Calidad (QA) y Producción.",
+          "Corregí errores a nivel código y de Base de Datos.",
+          "Manejé el motor de Base de Datos SQL Server (Motor de base de datos para consultas y validaciones) 2017 a 2019 para creación de tablas, triggers, vistas, índices y consultas.",
+          "Configuré servidores en Windows Server 2012 en adelante y administré terminal Linux; elaboré manuales de usuario y reportes de pruebas y errores solucionados."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 febrero de 2019 hasta 31 diciembre de 2021",
+    "resumen_laboral": "Durante este período asumí responsabilidades relacionadas con análisis y corrección de sistemas en producción, incluyendo mantenimiento de código y bases de datos, testeo y detección de servicios REST, gestión de versiones y configuración de servidores. Me desempeñé en roles como SDET, realizando soporte técnico, generación de parches y despliegues, y documenté las soluciones aplicadas. Colaboré con equipos de desarrollo, Aseguramiento de la Calidad (QA) y usuarios técnicos para asegurar la continuidad operativa y la calidad de las entregas.",
+    "estudios": {
+      "carrera": "Ingenieria en computacion",
+      "lugar": "Universidad Autónoma del Estado de México, Valle de Chalco, Estado de México",
+      "periodo": "agosto 2015 - noviembre 2019"
+    },
+    "herramientas": [
+      {
+        "nombre": "phpmyadmin"
+      },
+      {
+        "nombre": "Oracle Database"
+      },
+      {
+        "nombre": "Oracle Data Integrator"
+      },
+      {
+        "nombre": "MariaBD"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "TortoiseSVN"
+      },
+      {
+        "nombre": "GitHub"
+      },
+      {
+        "nombre": "NetBeans"
+      },
+      {
+        "nombre": "VisualCode"
+      },
+      {
+        "nombre": "XAMP"
+      },
+      {
+        "nombre": "Apache"
+      },
+      {
+        "nombre": "IIS"
+      },
+      {
+        "nombre": "Adobe Coldfusion"
+      },
+      {
+        "nombre": "Java"
+      },
+      {
+        "nombre": "JavaScript"
+      },
+      {
+        "nombre": "jQuery"
+      },
+      {
+        "nombre": "HTML5"
+      },
+      {
+        "nombre": "CSS"
+      },
+      {
+        "nombre": "Bootstrap"
+      },
+      {
+        "nombre": "FireBase"
+      },
+      {
+        "nombre": "AlertifyJS"
+      }
+    ],
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "NestJS: The Complete Developer's Guide"
+      },
+      {
+        "nombre": "The Complete SQL Bootcamp: Go from Zero to Hero"
+      },
+      {
+        "nombre": "Understanding TypeScript"
+      }
+    ]
+  },
+  {
+    "nombre": "Ana Patricia Cruz Martinez",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "11676491",
+    "fecha_cedula": "19/08/2019",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Domino tecnologías de la Arquitectura de Referencia y tecnologías de código abierto. Genero el código necesario y doy mantenimiento correctivo y evolutivo para cumplir la especificación técnica, siguiendo estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos establecidos en el plan de trabajo.\n\nA lo largo de mi trayectoria he atendido incidentes en entornos productivos, realizado correcciones en base de datos y en código (Java (Lenguaje de programación para desarrollo de aplicaciones), Javascript, jQuery (Librería para manipulación del DOM)) y participado en liberaciones controladas utilizando herramientas de versionamiento y automatización. Complemento mi trabajo con diseño de casos de prueba, documentación de evidencia y validaciones posteriores a los cambios.\n\nMi enfoque está en mantener la continuidad operativa y la calidad del servicio: diagnostico y corrijo incidencias, colaboro con equipos multidisciplinarios y aplico buenas prácticas de control de versiones y despliegue para asegurar entregas estables y puntuales.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "SYSTEM ENGINEER",
+        "fecha_inicio": "1 junio 2020",
+        "fecha_fin": "6 abril 2026",
+        "actividades_principales": [
+          "Mantengo y doy soporte a los aplicativos dominando varios lenguajes de programación. Poseo habilidades en resolución de problemas, versionamiento de código (Git (Control de versiones distribuido)) y desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.",
+          "Utilizo e implemento de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.",
+          "Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+          "Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+          "He usado la certificación JavaScript TOTAL – De Cero a Programador Web en 18 Días para adquirir y reforzar conocimientos en JavaScript orientados al desarrollo web, cubriendo desde los fundamentos del lenguaje hasta la creación de aplicaciones web funcionales.",
+          "He usado la certificación SQL Server Performance Tuning Part 1 para profundizar en el motor de base de datos para consultas y validaciones (SQL Server (Motor de base de datos para consultas y validaciones)).",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Atiendo incidentes en ambiente productivo para el sistema Accimarket que pertenece a Citibanamex, incluyendo resolución de issues en base de datos y en código Java (Lenguaje de programación para desarrollo de aplicaciones), Javascript y jQuery (Librería para manipulación del DOM).",
+          "Diseño casos de prueba, creo documentación y evidencias T&T para liberaciones a ambiente de producción.",
+          "Utilizo herramientas como ServiceNow (ITSM para incidencias, cambios y problemas), Confluence (Documentación colaborativa y base de conocimiento), RLM, Jenkins (Automatización de pipelines CI/CD), SonarQube y Bitbucket (Repositorio de código y colaboración) para realizar liberaciones a producción.",
+          "Migré Adobe Flex por EOVS.",
+          "Migré pantallas a tecnología actual como jQuery (Librería para manipulación del DOM) y Javascript bajo diferentes requerimientos expuestos en documentación proporcionada.",
+          "Desarrollo pruebas unitarias y ejecuto pruebas.",
+          "Creo y mantengo submódulos del sistema SICATEL WEB de Telcel para uso interno bajo el patrón de arquitectura MVC.",
+          "Elaboré documentación del desarrollado para Telcel como análisis de impacto, reporte técnico y matriz de prueba."
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Software Developer",
+        "fecha_inicio": "5 noviembre 2019",
+        "fecha_fin": "31 marzo 2020",
+        "actividades_principales": [
+          "Migré Adobe Flex por EOVS.",
+          "Migré pantallas a tecnología actual como jQuery (Librería para manipulación del DOM) y Javascript bajo diferentes requerimientos expuestos en documentación proporcionada.",
+          "Desarrollo pruebas unitarias y ejecuto pruebas."
+        ]
+      },
+      {
+        "empresa": "INDRA SOFTWARE LABS MEXICO, S.A. DE C.V",
+        "puesto": "Desarrollador de sistemas Jr",
+        "fecha_inicio": "1 marzo 2019",
+        "fecha_fin": "4 noviembre 2019",
+        "actividades_principales": [
+          "Creo y mantengo submódulos del sistema SICATEL WEB de Telcel para uso interno bajo el patrón de arquitectura MVC.",
+          "Elaboré documentación del desarrollado para Telcel como análisis de impacto, reporte técnico y matriz de prueba."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 febrero de 2017 hasta 31 diciembre de 2018",
+    "resumen_laboral": "Durante este período asumí responsabilidades centradas en la creación y mantenimiento de módulos de software y soporte al desarrollo como Desarrollador de sistemas Jr. Realicé tareas de análisis y desarrollo con tecnologías web y bases de datos, además de elaborar documentación técnica y ejecutar pruebas unitarias. Mis funciones incluyeron soporte al ciclo de desarrollo, generación de evidencia y colaboración con equipos para asegurar la operación y calidad de los sistemas.",
+    "estudios": {
+      "carrera": "Ingeniera en Sistemas Computacionales",
+      "lugar": "Escuela Superior de Cómputo IPN, Ciudad de México",
+      "periodo": "1 enero 2011 - 30 noviembre 2016"
+    },
+    "herramientas": [
+      {
+        "nombre": "Microsoft SQL Management Studio (SSMS)"
+      },
+      {
+        "nombre": "Microsoft SQL Server"
+      },
+      {
+        "nombre": "Oracle PL-SQL"
+      },
+      {
+        "nombre": "PL/SQL"
+      },
+      {
+        "nombre": "Java 8"
+      },
+      {
+        "nombre": "Javascript"
+      },
+      {
+        "nombre": "JQuery"
+      },
+      {
+        "nombre": "HTML5"
+      },
+      {
+        "nombre": "CSS/CSS3"
+      },
+      {
+        "nombre": "ServiceNow"
+      },
+      {
+        "nombre": "Confluence"
+      },
+      {
+        "nombre": "RLM"
+      },
+      {
+        "nombre": "SonarQube"
+      },
+      {
+        "nombre": "Maven"
+      },
+      {
+        "nombre": "GitHub"
+      },
+      {
+        "nombre": "Apache SubVersion (SVN)"
+      },
+      {
+        "nombre": "Ajax"
+      },
+      {
+        "nombre": "JSON"
+      }
+    ],
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "JavaScript TOTAL – De Cero a Programador Web en 18 Días"
+      },
+      {
+        "nombre": "SQL Server Performance Tuning Part 1"
+      }
+    ]
+  },
+  {
+    "nombre": "Ana Patricia Pérez Morales",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "09289470",
+    "fecha_cedula": "8/7/2015",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Dispongo de al menos 3 años de experiencia en centros de desarrollo de software, domino tecnologías de la Arquitectura de Referencia y tecnologías de código abierto. Genero código necesario y doy mantenimiento correctivo y evolutivo para cumplir la especificación técnica, siguiendo los procesos y estándares acordados y respetando la arquitectura y los frameworks definidos.\n\nTengo 10 años de experiencia en desarrollo web (JEE) y 8 años como ingeniero de soporte, aportando continuidad de servicio y resolución de incidentes en entornos productivos. Trabajo en desarrollo backend y frontend, pruebas automatizadas y soporte de aplicaciones, colaborando con equipos técnicos para asegurar la disponibilidad y cumplimiento de plazos.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Ingeniero de Soporte",
+        "fecha_inicio": "29 febrero 2016",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Mantengo y brindo soporte a los aplicativos dominando varios lenguajes de programación. Poseo habilidades en resolución de problemas, versionamiento de código (Git (Control de versiones distribuido)) y en el desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño, codifico y pruebo unitariamente componentes a partir de las especificaciones técnicas.",
+          "Utilizo e implemento adecuadamente el framework, subsistemas de soporte y componentes reutilizables definidos por la arquitectura, incluyendo aspectos de seguridad de la información.",
+          "Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+          "Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recopilando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización, incluidos acuerdos de negocio, políticas, horarios, registro de horas y estándares.",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y resolución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos y liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "He obtenido la certificación ISO/IEC 27001:2022 Foundation, que me ha permitido comprender los fundamentos de la gestión de la seguridad de la información.",
+          "He obtenido la certificación ISO/IEC 27001:2022 Lead Implementer, que me ha permitido implementar y gestionar sistemas de seguridad de la información conforme al estándar ISO 27001.",
+          "He usado la certificación AWS Lambda and the Serverless Framework – Hands On Learning para aprovechar la plataforma de servicios en la nube de AWS (Plataforma de servicios en la nube).",
+          "He usado la certificación Bash Scripting and Shell Programming (Linux/Unix (Sistemas operativos para administración y automatización) Command Line) que me ha permitido trabajar con sistemas operativos para administración y automatización.",
+          "He aplicado la certificación Linux for Beginners parao trabajar con sistemas operativos para administración y automatización.",
+          "He usado la certificación Scaling Docker on AWS para aplicar técnicas de contenerización de aplicaciones con Docker (Contenerización de aplicaciones) y plataformas cloud como AWS (Plataforma de servicios en la nube).",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Detecto incidentes y registro tickets en la herramienta DASH.",
+          "Clasifico y doy soporte inicial sobre el problema que enfrenta el usuario.",
+          "Investigo y diagnostico el problema registrado en el ticket.",
+          "Resuelvo el problema y recupero el sistema a la normalidad.",
+          "Soy propietario del incidente; hago monitoreo, seguimiento y facilito la comunicación.",
+          "Aprovecho la gestión del conocimiento para uso futuro.",
+          "Realizo actividades asociadas a la gestión de incidencias.",
+          "Brindo soporte de aplicaciones.",
+          "Realizo cambios de Interfaz Gráfica de Usuario (GUI) usando Angular (Framework frontend para aplicaciones SPA), jQuery (Librería para manipulación del DOM) y JavaScript.",
+          "Desarrollo requerimientos de usuarios.",
+          "Desarrollo aplicaciones Java (Lenguaje de programación para desarrollo y soporte técnico) bajo el framework Spring MVC.",
+          "Realizo pruebas frontend usando Protractor y Selenium (Framework de automatización web).",
+          "Gestiono solicitudes de cambio de usuario.",
+          "Trabajo bajo metodología AGILE utilizando el framework SCRUM.",
+          "Desarrollo backend con Spring MVC.",
+          "Desarrollo frontend con Angular (Framework frontend para aplicaciones SPA)."
+        
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Ingeniero de Software",
+        "fecha_inicio": "2 junio 2015",
+        "fecha_fin": "22 febrero 2016",
+        "actividades_principales": [
+          "Realizo cambios de Interfaz Gráfica de Usuario (GUI) usando Angular (Framework frontend para aplicaciones SPA), jQuery (Librería para manipulación del DOM) y JavaScript.",
+          "Desarrollo requerimientos de usuarios.",
+          "Desarrollo aplicaciones Java (Lenguaje de programación para desarrollo y soporte técnico) bajo el framework Spring MVC.",
+          "Realizo pruebas frontend usando Protractor y Selenium (Framework de automatización web).",
+          "Gestiono solicitudes de cambio de usuario.",
+          "Trabajo bajo metodología AGILE utilizando el framework SCRUM.",
+          "Desarrollo backend con Spring MVC.",
+          "Desarrollo frontend con Angular (Framework frontend para aplicaciones SPA)."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 julio de 2005 hasta 31 marzo de 2015",
+    "resumen_laboral": "Durante este período asumí responsabilidades centradas en desarrollo y operación de aplicaciones, desempeñándome como Programador/Analista y Analista de Sistemas. Me encargué del análisis y programación de requerimientos, administración y operación de aplicaciones web, implementación de WebServices y mantenimiento de sistemas en producción. Trabajé con bases de datos empresariales y servidores de aplicaciones, aportando continuidad operativa y soporte técnico orientado a la disponibilidad y mejora de aplicaciones.",
+    "estudios": {
+      "carrera": "Ingeniería en Computación",
+      "lugar": "Universidad Nacional Autónoma de México (UNAM), CDMX",
+      "periodo": "2000 - 2005"
+    },
+    "herramientas": [
+      {
+        "nombre": "Java"
+      },
+      {
+        "nombre": "Spring Framework"
+      },
+      {
+        "nombre": "JEE"
+      },
+      {
+        "nombre": "JPA"
+      },
+      {
+        "nombre": "AngularJS"
+      },
+      {
+        "nombre": "JavaScript"
+      },
+      {
+        "nombre": "jQuery"
+      },
+      {
+        "nombre": "Protractor"
+      },
+      {
+        "nombre": "Selenium"
+      },
+      {
+        "nombre": "Git"
+      },
+      {
+        "nombre": "RESTful"
+      },
+      {
+        "nombre": "SOAP"
+      },
+      {
+        "nombre": "Oracle Database"
+      },
+      {
+        "nombre": "AWS"
+      },
+      {
+        "nombre": "Unix/Linux"
+      },
+      {
+        "nombre": "Shell script"
+      },
+      {
+        "nombre": "JDBC"
+      },
+      {
+        "nombre": "SQL"
+      },
+      {
+        "nombre": "Postman"
+      },
+      {
+        "nombre": "WebLogic"
+      },
+      {
+        "nombre": "GWT"
+      },
+      {
+        "nombre": "Backbone"
+      },
+      {
+        "nombre": "MyBatis"
+      },
+      {
+        "nombre": "SVN"
+      },
+      {
+        "nombre": "DASH (Incident Management)"
+      },
+      {
+        "nombre": "ITIL"
+      },
+      {
+        "nombre": "SQL Developer"
+      },
+      {
+        "nombre": "Docker"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "ISO/IEC 27001:2022 Foundation 2025",
+        "anio": "2025"
+      },
+      {
+        "nombre": "ISO/IEC 27001:2022 Lead Implementer 2026-2029",
+        "anio": "2026-2029"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "AWS Lambda and the Serverless Framework – Hands On Learning"
+      },
+      {
+        "nombre": "Bash Scripting and Shell Programming (Linux Command Line)"
+      },
+      {
+        "nombre": "Linux for Beginners"
+      },
+      {
+        "nombre": "Scaling Docker on AWS"
+      }
+    ]
+  },
+  {
+    "nombre": "Bayron Antonio Martinez Avalos",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "11762148",
+    "fecha_cedula": "20/10/2019",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Manejo tecnologías de la Arquitectura de Referencia (AR) y tecnologías de código abierto. Desarrollo el código necesario y realizo mantenimiento correctivo y adicional para cumplir la especificación técnica, ejecutando el proceso de desarrollo de software conforme a lo acordado y apegándome a los estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos establecidos en el plan de trabajo.\n\nTengo amplia experiencia en integración y soporte de servicios middleware y aplicaciones backend, participando en pipelines CI/CD y automatización de despliegues. Trabajo con control de versiones y herramientas de gestión de incidencias para reproducir, diagnosticar y resolver fallos en entornos productivos, colaborando con equipos de Aseguramiento de la Calidad (QA) y soporte para asegurar la continuidad del servicio.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Citi México",
+        "puesto": "Especialista desarrollador TIBCO",
+        "fecha_inicio": "25 julio 2023",
+        "fecha_fin": "28 febrero 2026",
+        "actividades_principales": [
+          "Mantengo y brindo soporte a los aplicativos dominando varios lenguajes de programación. Tengo habilidades en resolución de problemas, versionamiento del código (Git (Control de versiones distribuido)) y desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño, codifico y ejecuto pruebas unitarias de componentes basándome en las especificaciones técnicas.",
+          "Implemento y uso de manera adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.",
+          "Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+          "Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+          "He usado la certificación Agile Fundamentals: Including Scrum & Kanban como marco ágil para la gestión de proyectos.",
+          "He aplicado el curso Learn DevOps: CI/CD with Jenkins using Pipelines and Docker para poner en práctica la integración continua, entrega continua y colaboración DevOps.",
+          "He usado el curso Kubernetes for the Absolute Beginners – Hands-On para aprender los fundamentos de orquestación de contenedores con Kubernetes.",
+          "He aplicado el curso Complete Linux Bash Shell Scripting with Real Life Examples para profundizar en administración y automatización en Linux/Unix.",
+          "He usado el curso Linux – The Complete Linux Guide para reforzar conocimientos de administración y operación en Linux/Unix.",
+          "He usado la certificación Microsoft Azure Fundamentals – Curso AZ-900 para comprender los servicios principales, la seguridad y la arquitectura de Microsoft Azure (Plataforma cloud para desarrollo e infraestructura).",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Administración y construcción de soluciones de negocio TIBCO.",
+          "Probar, versionar, empaquetar y promover los servicios a Dev, Pruebas de Integración de Sistemas (SIT), Aseguramiento de la Calidad (QA)/Pruebas de Aceptación de Usuario (UAT) y Producción.",
+          "Generación de documentos de diseño, solución de negocio, Matriz y ejecución de casos de prueba, definición de esquemas.",
+          "Automatización de despliegues a producción con Bitbucket (Repositorio de código y colaboración), TeamCity, UrbanCode Deploy. CI/CD",
+          "Generación de CR´s desde ServiceNow (ITSM para incidencias, cambios y problemas) para liberación de configuraciones en servidores Pruebas de Aceptación de Usuario (UAT), COB, PROD. Generación de INC desde ServiceNow (ITSM para incidencias, cambios y problemas).",
+          "Haber ejecutado de manera exitosa CI/CD con TIBCO, se llevo a cabo la configuración de TeamCity, UrbanUdeploy, y Bitbucket (Repositorio de código y colaboración) para poder liberar piezas de código de TIBCO.",
+          "Liberación de proyecto PII masking data, encargado de uno de los servicios (tibco) para enmascarar datos personales mediante una integración Java (Lenguaje de programación para desarrollo de aplicaciones) como solución.",
+          "Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones), dando soporte al aplicativo Sistema Nacional de Registro (SNR)."
+        ]
+      },
+      {
+        "empresa": "Instituto Nacional Electoral México",
+        "puesto": "Profesional en Desarrollo de Software",
+        "fecha_inicio": "1 septiembre 2021",
+        "fecha_fin": "24 julio 2023",
+        "actividades_principales": [
+          "Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones), dando soporte al aplicativo Sistema Nacional de Registro (SNR)."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 diciembre de 2016 hasta 31 agosto de 2021",
+    "resumen_laboral": "Durante este período asumí responsabilidades principalmente como Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) y Desarrollador TIBCO, dando soporte y mantenimiento a aplicaciones y servicios. Participé en desarrollo backend, integración de sistemas y tareas de soporte en entornos productivos, incluyendo análisis y corrección de incidencias, pruebas y despliegues. Trabajé con control de versiones y herramientas de CI/CD, colaborando con equipos de soporte y Aseguramiento de la Calidad (QA) para garantizar la continuidad operativa y la mejora continua de los aplicativos.",
+    "estudios": {
+      "carrera": "Licenciatura en Ingeniería en Computación",
+      "lugar": "Universidad Autónoma del Estado de México",
+      "periodo": "abril 2011 - agosto 2016"
+    },
+    "herramientas": [
+      {
+        "nombre": "TIBCO"
+      },
+      {
+        "nombre": "EMS"
+      },
+      {
+        "nombre": "Java (Lenguaje de programación para desarrollo de aplicaciones)"
+      },
+      {
+        "nombre": "JIRA"
+      },
+      {
+        "nombre": "BitBucket (Repositorio de código y colaboración)"
+      },
+      {
+        "nombre": "Teamcity"
+      },
+      {
+        "nombre": "UrbanCode Udeploy"
+      },
+      {
+        "nombre": "CI/CD"
+      },
+      {
+        "nombre": "ServiceNow (ITSM para incidencias, cambios y problemas)"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "MongoDB"
+      },
+      {
+        "nombre": "AWS (Plataforma de servicios en la nube)"
+      },
+      {
+        "nombre": "JSON"
+      },
+      {
+        "nombre": "SOAP"
+      },
+      {
+        "nombre": "REST"
+      },
+      {
+        "nombre": "Maven"
+      },
+      {
+        "nombre": "Eclipse"
+      },
+      {
+        "nombre": "SVN"
+      }
+    ],
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "Agile Fundamentals: Including Scrum & Kanban"
+      },
+      {
+        "nombre": "Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+      },
+      {
+        "nombre": "Kubernetes for the Absolute Beginners – Hands-On"
+      },
+      {
+        "nombre": "Complete Linux Bash Shell Scripting with Real Life Examples"
+      },
+      {
+        "nombre": "Linux – The Complete Linux Guide"
+      },
+      {
+        "nombre": "Microsoft Azure Fundamentals – Curso AZ-900"
+      }
+    ]
+  },
+  {
+    "nombre": "Edrei Arturo Graciano Alcaraz",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "12001977",
+    "fecha_cedula": "25/05/2020",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Tengo al menos 3 años de experiencia en centros de desarrollo de software. Domino tecnologías de arquitectura de referencia y herramientas de código abierto. Realizo y mantengo código para garantizar el cumplimiento de especificaciones, siguiendo estándares, arquitecturas y frameworks definidos.\n\nEn mi trayectoria me he especializado en mantenimiento y soporte de aplicaciones, resolución de incidencias y en la implementación de mejoras que aseguran la continuidad del servicio. Trabajo estrechamente con equipos técnicos para diagnosticar, corregir y desplegar soluciones en entornos productivos, cuidando la calidad y los tiempos de entrega.\n\nAplico buenas prácticas de control de versiones y pruebas, contribuyendo a la estabilidad de aplicaciones frontend y backend y a la optimización de bases de datos para lograr operaciones más eficientes.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "App Maint Engineer Web Other (Py,Php) PR",
+        "fecha_inicio": "28 septiembre 2021",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Mantengo y doy soporte a los aplicativos dominando múltiples lenguajes de programación. Habilidades en: resolución de problemas, versionamiento del código (Git (Control de versiones distribuido)) y en el desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.",
+          "Utilizo e implemento de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.",
+          "Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+          "Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+          "He usado la certificación Azure DevOps de Cero a Experto como plataforma de gestión ágil y CI/CD.",
+          "He aplicado la certificación C# Intermediate: Classes, Interfaces and OOP como lenguaje de programación para desarrollo backend.",
+          "He usado la certificación PostgreSQL. Curso completo de PostgreSQL. Aprende desde cero, como base para el uso de datos relacionales avanzados.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Colaboré en 4 proyectos donde manejé las mejoras en un servicio de AMS al sistema de O3.",
+          "Implementé y mantuve el backend en Python con el framework Flask.",
+          "Desarrollé frontend en dos aplicativos utilizando Angular (Framework frontend para aplicaciones SPA) y desarrollos con Flutter para Web, Android e iOS.",
+          "Realicé tareas de gestión, análisis y optimización de la base de datos para la operación (MySQL, SQL Server (Motor de base de datos para consultas y validaciones)).",
+          "Migré servicios a nuevas APIs para comunicación con interfaces externas (SOAP, REST).",
+          "Desarrollé aplicaciones móviles con Flutter.",
+          "Desarrollé Front-End (HTML, CSS, JS, jQuery (Librería para manipulación del DOM)).",
+          "Actué como líder técnico de proyecto.",
+          "Apoyé en el diseño y análisis de requerimientos.",
+          "Desarrollé en PHP (Lenguaje de desarrollo web).",
+          "Desarrollé en ASP.NET Core (Framework para APIs y aplicaciones web).",
+          "Integré el equipo de análisis con desarrollo e identifiqué requerimientos futuros y mejoras en el proceso."
+        ]
+      },
+      {
+        "empresa": "ND Negocios Digitales",
+        "puesto": "Ingeniero de Software",
+        "fecha_inicio": "1 noviembre 2019",
+        "fecha_fin": "27 septiembre 2021",
+        "actividades_principales": [
+          "Desarrollé aplicaciones móviles con Flutter.",
+          "Desarrollé Front-End (HTML, CSS, JS, jQuery (Librería para manipulación del DOM)).",
+          "Actué como líder técnico de proyecto.",
+          "Apoyé en el diseño y análisis de requerimientos.",
+          "Desarrollé en PHP (Lenguaje de desarrollo web).",
+          "Desarrollé en ASP.NET Core (Framework para APIs y aplicaciones web).",
+          "Integré el equipo de análisis con desarrollo e identifiqué requerimientos futuros y mejoras en el proceso."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 mayo de 2015 hasta 31 julio de 2019",
+    "resumen_laboral": "Durante este período asumí responsabilidades relacionadas con levantamiento de requerimientos, diseño y desarrollo de plataformas y portales. Me desempeñé como Ingeniero de Sistemas y participé en actividades de análisis, diseño de bases de datos y desarrollo de interfaces. Colaboré en la implementación de soluciones para gestión de recursos humanos, contribuyendo a organizar y disponer la información de manera eficiente para los líderes.",
+    "estudios": {
+      "carrera": "Licenciatura en Sistemas Computacionales",
+      "lugar": "Instituto de Estudios Superiores de Chiapas",
+      "periodo": "1 septiembre 2015 - 30 abril 2018"
+    },
+    "herramientas": [
+      {
+        "nombre": ".NET Core"
+      },
+      {
+        "nombre": "Angular JS"
+      },
+      {
+        "nombre": "C#"
+      },
+      {
+        "nombre": "Flutter"
+      },
+      {
+        "nombre": "Git"
+      },
+      {
+        "nombre": "MySQL"
+      },
+      {
+        "nombre": "Python"
+      },
+      {
+        "nombre": "Google Cloud Platform"
+      },
+      {
+        "nombre": "Adobe Illustrator"
+      },
+      {
+        "nombre": "Lucidchart"
+      }
+    ],
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "Azure DevOps de Cero a Experto"
+      },
+      {
+        "nombre": "C# Intermediate: Classes, Interfaces and OOP"
+      },
+      {
+        "nombre": "PostgreSQL. Curso completo de PostgreSQL. Aprende desde cero"
+      }
+    ]
+  },
+  {
+    "nombre": "Francisco Emanuel Herrera Bautista",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "12857825",
+    "fecha_cedula": "25/05/2022",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Cuento con al menos 3 años de experiencia en centros de desarrollo de software. Domino tecnologías de la Arquitectura de Referencia y tecnologías de código abierto. Genero el código necesario y doy mantenimiento correctivo y adicional para cumplir con la especificación técnica, ejecutando el proceso de desarrollo de software conforme a lo acordado y apegándome a los estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos establecidos en el plan de trabajo.\n\nTengo experiencia en el mantenimiento y la continuidad de servicios productivos, incluyendo remediación de vulnerabilidades críticas y liberación de componentes. Desarrollo y mantengo APIs y aplicaciones web (frontend y backend), y trabajo usando control de versiones para coordinar entregas con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos. Como líder técnico he gestionado el seguimiento diario de células, identificando riesgos y reportando avances para asegurar el cumplimiento de objetivos.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Ingeniero Fullstack",
+        "fecha_inicio": "30 noviembre 2021",
+        "fecha_fin": "Actual",
+        "actividades_principales": [
+          "Mantengo y brindo soporte a los aplicativos dominando varios lenguajes de programación. Tengo habilidades en resolución de problemas, control de versiones (Git (Control de versiones distribuido)) y desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.",
+          "Implemento y utilizo de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.",
+          "Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+          "Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización, incluyendo políticas, registro de horas y estándares.",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+          "He usado la certificación GitLab CI: Pipelines, CI/CD and DevOps for Beginners para aplicar prácticas de integración continua, entrega continua y colaboración Dev–Ops.",
+          "La certificación Foundational C# with Microsoft me ha permitido aplicar acertadamente mis conocimientos en C#, un lenguaje de programación para desarrollo backend.",
+          "He usado la certificación Scrum Fundamentals Certified (SFC™) – SCRUMstudy como fundamento de marco ágil para gestión de proyectos.",
+          "He usado la certificación Certified PHP Developer – W3Schools para reforzar conocimientos en PHP, un lenguaje de desarrollo web.",
+          "He usado el curso GitLab CI: Pipelines, CI/CD and DevOps for Beginners para aprender a configurar y ejecutar pipelines de integración y despliegue continuo utilizando GitLab CI.",
+          "Participo en los procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek.",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Remedio vulnerabilidades altas y críticas para garantizar la continuidad del servicio en sistemas de Grupo Coppel; apoyo en la liberación de componentes modificados.",
+          "Desarrollo nuevas APIs como parte de la migración a Java (Lenguaje de programación para desarrollo de aplicaciones) Spring del Sistema Administrativo Jurídico de Coppel.",
+          "Como Technical Leader, doy seguimiento diario a la célula, identificando riesgos y obstáculos para asegurar el alcance de objetivos y reportando avances a niveles superiores.",
+          "Desarrollo nuevos módulos y doy mantenimiento a la plataforma de control escolar; colaboro en proyectos de la Secretaría de Educación del Estado de México."
+        ]
+      },
+      {
+        "empresa": "UTTEC",
+        "puesto": "Desarrollador .Net",
+        "fecha_inicio": "1 abril 2018",
+        "fecha_fin": "29 noviembre 2021",
+        "actividades_principales": [
+          "Desarrollo nuevos módulos y doy mantenimiento a la plataforma de control escolar; colaboro en proyectos de la Secretaría de Educación del Estado de México."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "",
+    "resumen_laboral": "",
+    "estudios": {
+      "carrera": "Tecnologías de Información y Comunicación",
+      "lugar": "Universidad Tecnológica de Tecámac, Tecámac, Estado de México",
+      "periodo": "2015-2019"
+    },
+    "herramientas": [
+      { "nombre": "Coldfusion" },
+      { "nombre": "PHP (Lenguaje de desarrollo web)" },
+      { "nombre": "JavaScript" },
+      { "nombre": "jQuery" },
+      { "nombre": "CheckMarx" },
+      { "nombre": "PostgreSQL (Base de datos relacional avanzada)" },
+      { "nombre": "SQL Server (Motor de base de datos para consultas y validaciones)" },
+      { "nombre": "Git (Control de versiones distribuido)" },
+      { "nombre": "GitLab" },
+      { "nombre": "AzureRepos" },
+      { "nombre": "HTML" },
+      { "nombre": "CSS" },
+      { "nombre": "Apache HTTP Server" },
+      { "nombre": "Java Spring Boot" },
+      { "nombre": "Apache Tomcat" },
+      { "nombre": "Docker (Contenerización de aplicaciones)" },
+      { "nombre": "C# (Lenguaje de programación para desarrollo backend)" },
+      { "nombre": ".Net" },
+      { "nombre": ".Net Core" },
+      { "nombre": "iTextSharp" },
+      { "nombre": "Bootstrap UI" },
+      { "nombre": "Semantic UI" },
+      { "nombre": "ChartJS" },
+      { "nombre": "NodeJS" },
+      { "nombre": "Visual Studio Enterprise (IDE para desarrollo .NET)" },
+      { "nombre": "Windows 10" },
+      { "nombre": "Debian 12" },
+      { "nombre": "MySQL" },
+      { "nombre": "MariaDB" },
+      { "nombre": "MongoDB" },
+      { "nombre": "Java (Lenguaje de programación para desarrollo de aplicaciones)" }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "Remote Work Professional Certification (RWPC™) – CertiProf",
+        "anio": "2024-2027"
+      },
+      {
+        "nombre": "Foundational C# with Microsoft – freeCodeCamp / Microsoft",
+        "anio": "2024"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified (SFC™) – SCRUMstudy",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Certified PHP Developer – W3Schools",
+        "anio": "2024"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "GitLab CI: Pipelines, CI/CD and DevOps for Beginners"
+      }
+    ]
+  },
+  {
+    "nombre": "Gustavo Alexis Guevara Montellano",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "",
+    "fecha_cedula": "",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Manejo tecnologías de la Arquitectura de Referencia (AR) y herramientas open source. Desarrollo y mantengo el código necesario, realizando mantenimiento correctivo y evolutivo para cumplir la especificación técnica, siguiendo estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos establecidos.\n\nMe especializo en soporte y mantenimiento de aplicaciones móviles y backend, con experiencia como ingeniero L3 en la atención y resolución de incidencias en producción. Trabajo con Kotlin, Swift, Google Cloud (Plataforma cloud para desarrollo e infraestructura), Firebase y SonarQube, participo en migraciones a la nube y mejoras de rendimiento, colaborando con equipos multidisciplinarios para entregar soluciones estables y trazables.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Application Maintenance Engineer",
+        "fecha_inicio": "26 septiembre 2023",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Mantengo y brindo soporte a los aplicativos dominando varios lenguajes de programación. Tengo habilidades en resolución de problemas, versionamiento de código (Git (Control de versiones distribuido)) y en el desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.",
+          "Utilizo e implemento de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.",
+          "Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+          "Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+          "He usado el curso Java Programming for Complete Beginners para aprender los fundamentos de la programación en Java, incluyendo sintaxis, estructuras básicas y lógica de programación.",
+          "He usado el curso Microservicios con Spring Boot, Cloud y Docker para desarrollar y desplegar arquitecturas de microservicios utilizando Spring Boot y contenedores Docker.",
+          "He usado el curso Oracle WebLogic 12c for Administrators para administrar y configurar el servidor de aplicaciones Oracle WebLogic en entornos empresariales.",
+          "He usado el curso Python and Flask Bootcamp para crear aplicaciones web utilizando Python y el framework Flask.",
+          "He usado el curso Python Programming: The Complete Python Bootcamp 2023 para aprender Python desde nivel básico hasta avanzado y desarrollar aplicaciones prácticas.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Analizo exhaustivamente incidencias en iOS y Android utilizando Swift y Kotlin respectivamente.",
+          "Realizo análisis desde la raíz hasta la identificación de microservicios involucrados.",
+          "Gestiono la información y su tratamiento en los lenguajes de programación mencionados.",
+          "Investigo la causa raíz para proporcionar la mejor solución posible a los problemas.",
+          "Documento de forma detallada cada paso del proceso, desde la llegada de la incidencia hasta su lanzamiento a producción, usando Google Cloud (Plataforma cloud para desarrollo e infraestructura) para logs y Firebase para pruebas.",
+          "Valido procesos mediante checkmarks y SonarQube.",
+          "Gestiono tableros en Microsoft Azure (Plataforma cloud para desarrollo e infraestructura) y repositorios de ramas en Microsoft Azure (Plataforma cloud para desarrollo e infraestructura).",
+          "Lideré procesos de migración tecnológica: microservicios a Java (Lenguaje de programación para desarrollo de aplicaciones) Spring Boot, portales de Node.js a Angular (Framework frontend para aplicaciones SPA) y aplicaciones móviles de Java (Lenguaje de programación para desarrollo de aplicaciones) a Kotlin (Android) y de C++ a Swift (iOS).",
+          "Lideré la migración de servicios y microservicios de entornos físicos a la nube (Google Cloud (Plataforma cloud para desarrollo e infraestructura)).",
+          "Implementé arquitectura hexagonal y desarrollé servicios en Go.",
+          "Realicé optimizaciones en base de datos, reduciendo tiempos de consulta y mejorando el rendimiento.",
+          "Refactoricé código para reducir complejidad cognitiva y deuda técnica, y definí estándares y documentación técnica para asegurar trazabilidad.",
+          "Mantenimiento, optimización y adaptación de aplicaciones Android para diversas versiones, incluyendo la actualización para Android 13.",
+          "Mejoré visualmente interfaces para ofrecer una experiencia de usuario más atractiva y efectiva.",
+          "Integré con Firebase (Realtime Database, Storage) para fortalecer la funcionalidad de las aplicaciones.",
+          "Implementé un chatbot para facilitar compras y mejorar la interacción con usuarios.",
+          "Diseñé y ejecuté un onboarding dinámico para aumentar la adopción de nuevas funcionalidades.",
+          "Realicé seguimiento y reporte de avances en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+          "Consumí APIs externas para enriquecer funcionalidades de la aplicación.",
+          "Estructuré y mapeé datos para un flujo de información fluido.",
+          "Implementé funciones de consumo dinámico y control remoto para aumentar la flexibilidad de las aplicaciones.",
+          "Lideré la actualización de aplicaciones para Android 13 asegurando compatibilidad y funcionalidad.",
+          "Mejoré interfaces resultando en mayor retención de usuarios y satisfacción.",
+          "Implementé integración con Firebase aprovechando Realtime Database y Storage.",
+          "Diseñé e implementé un chatbot que facilitó compras y aumentó la interacción con usuarios.",
+          "Diseñé e implementé onboarding dinámico que aumentó la adopción de funcionalidades."
+        ]
+      },
+      {
+        "empresa": "Grupo Xcaret",
+        "puesto": "Software Engineer",
+        "fecha_inicio": "1 marzo 2023",
+        "fecha_fin": "25 septiembre 2023",
+        "actividades_principales": [
+          "Mantenimiento, optimización y adaptación de aplicaciones Android para diversas versiones, incluyendo la actualización para Android 13.",
+          "Mejoré visualmente interfaces para ofrecer una experiencia de usuario más atractiva y efectiva.",
+          "Integré con Firebase (Realtime Database, Storage) para fortalecer la funcionalidad de las aplicaciones.",
+          "Implementé un chatbot para facilitar compras y mejorar la interacción con usuarios.",
+          "Diseñé y ejecuté un onboarding dinámico para aumentar la adopción de nuevas funcionalidades.",
+          "Realicé seguimiento y reporte de avances en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+          "Consumí APIs externas para enriquecer funcionalidades de la aplicación.",
+          "Estructuré y mapeé datos para un flujo de información fluido.",
+          "Implementé funciones de consumo dinámico y control remoto para aumentar la flexibilidad de las aplicaciones.",
+          "Lideré la actualización de aplicaciones para Android 13 asegurando compatibilidad y funcionalidad.",
+          "Mejoré interfaces resultando en mayor retención de usuarios y satisfacción.",
+          "Implementé integración con Firebase aprovechando Realtime Database y Storage.",
+          "Diseñé e implementé un chatbot que facilitó compras y aumentó la interacción con usuarios.",
+          "Diseñé e implementé onboarding dinámico que aumentó la adopción de funcionalidades."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 septiembre de 2019 hasta 28 febrero de 2023",
+    "resumen_laboral": "Durante este período asumí responsabilidades como Application Maintenance Engineer, Application Maintenance Engineer (L3) y Engineer (L3). Me encargué del mantenimiento y soporte de aplicaciones móviles y sistemas de retail, análisis y resolución de incidencias en entornos productivos, implementación de actualizaciones y pruebas, integración con servicios en la nube y soporte a usuarios y sucursales. Trabajé con metodologías ágiles y herramientas de gestión para asegurar la continuidad operativa y la entrega de soluciones estables.",
+    "estudios": {
+      "carrera": "Ingeniería",
+      "lugar": "Universidad Tecnológica de Izúcar de Matamoros, Puebla",
+      "periodo": "1 septiembre 2015 a 31 julio 2019"
+    },
+    "herramientas": [
+      {
+        "nombre": "Android Kotlin"
+      },
+      {
+        "nombre": "Android"
+      },
+      {
+        "nombre": "iOS Swift"
+      },
+      {
+        "nombre": "PostgreSQL"
+      },
+      {
+        "nombre": "PostMan"
+      },
+      {
+        "nombre": "SonarQube"
+      },
+      {
+        "nombre": "GCP SysOps"
+      },
+      {
+        "nombre": "FireBase"
+      },
+      {
+        "nombre": "Google Cloud"
+      },
+      {
+        "nombre": "Spring BOOT"
+      },
+      {
+        "nombre": "Node.js"
+      },
+      {
+        "nombre": "Angular JS"
+      },
+      {
+        "nombre": "GO/Golang"
+      },
+      {
+        "nombre": "Azure DevOps"
+      },
+      {
+        "nombre": "Docker"
+      }
+    ],
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "Java Programming for Complete Beginners"
+      },
+      {
+        "nombre": "Microservicios con Spring Boot, Cloud y Docker"
+      },
+      {
+        "nombre": "Oracle WebLogic 12c for Administrators"
+      },
+      {
+        "nombre": "Python and Flask Bootcamp: Create Websites using Flask!"
+      },
+      {
+        "nombre": "Python Programming: The Complete Python Bootcamp 2023"
+      }
+    ]
+  },
+  {
+    "nombre": "Jhonatan Israel Ocampo Cortina",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "8018220",
+    "fecha_cedula": "1/4/2013",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Cuento con al menos 3 años de experiencia en centro de desarrollo de software. Domino tecnologías de la Arquitectura de Referencia (AR) y/o tecnologías de código abierto. Genero el código necesario y doy mantenimiento correctivo y adicional para cumplir con la especificación técnica, ejecutando el proceso de desarrollo de software conforme a lo acordado y apegándome a los estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos establecidos en el plan de trabajo.\n\nTengo amplia experiencia en atención y resolución de incidentes en entornos productivos, diseño técnico de soluciones y remediación de vulnerabilidades. Trabajo tanto en desarrollo backend como en soporte de aplicaciones, colaborando con equipos Aseguramiento de la Calidad (QA) y operaciones para restaurar servicios y aplicar correcciones seguras.\n\nMi enfoque es garantizar la continuidad del servicio mediante diagnósticos precisos, parches y pruebas posteriores, aportando transferencia de conocimiento y cumplimiento de acuerdos de calidad.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Coppel",
+        "puesto": "Application Maintenance Solution Architect (L3) Senior.",
+        "fecha_inicio": "1 octubre 2025",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Mantengo y doy soporte a los aplicativos dominando varios lenguajes de programación. Tengo habilidades en Resolución de problemas, Versionamiento del código (Git (Control de versiones distribuido)) y dominio en el desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño, desarrollo y ejecuto pruebas unitarias de componentes a partir de las especificaciones técnicas.",
+          "Utilizo e implemento adecuadamente el framework, subsistemas y componentes reutilizables definidos por la arquitectura, considerando aspectos de seguridad de la información.",
+          "Verifico que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+          "Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, registrando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización, incluyendo políticas, registros de horas y estándares.",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+          "He usado el curso Docker in AWS – Deploy Java Spring Boot to AWS Fargate & ECS para contenerizar y desplegar aplicaciones Spring Boot en AWS utilizando ECS y Fargate.",
+          "He usado el curso Introduction to Java EE para aprender los fundamentos del desarrollo de aplicaciones empresariales usando Java EE.",
+          "He usado el curso Ultimate Elasticsearch 8, Kibana, Logstash, Beats para implementar soluciones de búsqueda, análisis y monitoreo utilizando el stack ELK.",
+          "He usado la certificación ITIL® Foundation Certificate in IT Service Management 2019 como Marco de mejores prácticas para gestión de servicios de TI (incidentes, problemas, cambios, niveles de servicio, catálogo, CMDB, etc.).",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Diseño técnico de soluciones.",
+          "Resolución de problema / mejora complejos.",
+          "Toma de decisiones para implemetar soluciones técnicas.",
+          "Seguimiento de folios problema / mejora.",
+          "Aprobación y Respaldo de las soluciones técnicas a los folios problema / mejora.",
+          "Soluciones técnicas a problemas derivados por el proceso CI / CD.",
+          "Solución de vulnerabilidades / code smell / clean code.",
+          "Análisis de problemas e incidentes en Cadena de Suministros",
+          "Pruebas de componentes.",
+          "Aseguramiento de la Calidad (QA)",
+          "Documentación de pruebas",
+          "Notas de instalacion",
+          "Diseño de diagramas de la solución.",
+          "Remediación de vulnerabilidades de seguridad.",
+          "Análisis de solución a cada una de las vulnerabilidades.",
+          "Diseño de propuesta de solución para cada una de las vulnerabilidades.",
+          "Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.",
+          "Líder técnico para la atención de vulnerabilidades de los aplicativos de Grupo Bolsa Mexicana de Valores.",
+          "Desarrollo del backend e implementación para la exposición de servicios web REST para su consumo desde la parte frontend.",
+          "Actualización tecnológica para los aplicativos del Grupo BMV.",
+          "Ingeniero de Soporte para atención de incidencias en ambientes productivos de los aplicativos de Grupo BMV.",
+          "Trasferencias de conocimiento a colaboradores de la arquitectura y ambientación local del servidor para ejecución de pruebas unitarias de los aplicativos de Grupo BMV.Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Hibernate, EJB 3, Servicios web REST, Maven, Java (Lenguaje de programación para desarrollo de aplicaciones) 1.6, 1.7 y 1.8, patrones de diseño, SQL (Lenguaje para gestión y consulta de bases de datos relacionales) avanzado.",
+          "Ingeniero de Soporte para la gestión del servicio de aplicativos dentro del Instituto.",
+          "Atención de incidencias en ambientes productivos.",
+          "Desarrollo de Mantenimiento Menores.",
+          "Desarrollo de servicios web.",
+          "Desarrollo de procesos batrch para la sincronización de información.",
+          "Trasferencias de conocimiento de la arquitectura y ambientación local del aplicativos de pensionesy el aplicativo de sincronización de pensiones, a integrantes de nevo ingreso.",
+          "Ejecución y monitoreo de procesos batch.",
+          "Configuración de procesos calendarizados.",
+          "Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, Servicios web SOAP, Maven, Java (Lenguaje de programación para desarrollo de aplicaciones) 1.6, patrón de diseño Specification, SQL (Lenguaje para gestión y consulta de bases de datos relacionales) básico." 
+        ]
+      },
+      {
+        "empresa": "Coppel",
+        "puesto": "Application Maintenance Functional Tester (L3) Senior.",
+        "fecha_inicio": "4 marzo 2024",
+        "fecha_fin": "30 septiembre 2025",
+        "actividades_principales": [
+          "Análisis de problemas e incidentes en Cadena de Suministros",
+          "Pruebas de componentes.",
+          "Aseguramiento de la Calidad (QA)",
+          "Documentación de pruebas",
+          "Notas de instalacion",
+          "Diseño de diagramas de la solución."
+         ]
+      },
+      {
+        "empresa": "Banorte",
+        "puesto": "Application Maintenance Engineer (L3) Senior.",
+        "fecha_inicio": "2 octubre 2023",
+        "fecha_fin": "29 febrero 2024",
+        "actividades_principales": [
+          "Remediación de vulnerabilidades de seguridad.",
+          "Análisis de solución a cada una de las vulnerabilidades.",
+          "Diseño de propuesta de solución para cada una de las vulnerabilidades.",
+          "Estimación de tiempo de construcción y pruebas unitarias para la remediación de las vulnerabilidades.",
+          "Implementación de invocaciones asíncronas desde la aplicación para actualización de información en pantalla."
+        ]
+      },
+      {
+        "empresa": "Grupo Bolsa Mexicana de Valores",
+        "puesto": "Application Maintenance Engineer (L3) Senior.",
+        "fecha_inicio": "2 marzo 2023",
+        "fecha_fin": "29 septiembre 2023",
+        "actividades_principales": [
+          "Líder técnico para la atención de vulnerabilidades de los aplicativos de Grupo Bolsa Mexicana de Valores.",
+          "Desarrollo del backend e implementación para la exposición de servicios web REST para su consumo desde la parte frontend.",
+          "Actualización tecnológica para los aplicativos del Grupo BMV.",
+          "Ingeniero de Soporte para atención de incidencias en ambientes productivos de los aplicativos de Grupo BMV.",
+          "Trasferencias de conocimiento a colaboradores de la arquitectura y ambientación local del servidor para ejecución de pruebas unitarias de los aplicativos de Grupo BMV.Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Hibernate, EJB 3, Servicios web REST, Maven, Java (Lenguaje de programación para desarrollo de aplicaciones) 1.6, 1.7 y 1.8, patrones de diseño, SQL (Lenguaje para gestión y consulta de bases de datos relacionales) avanzado."
+        ]
+      },
+      {
+        "empresa": "IMSS",
+        "puesto": "Application Maintenance Engineer (L3) Senior.",
+        "fecha_inicio": "3 febrero 2020",
+        "fecha_fin": "28 febrero 2023",
+        "actividades_principales": [
+          "Ingeniero de Soporte para la gestión del servicio de aplicativos dentro del Instituto.",
+          "Atención de incidencias en ambientes productivos.",
+          "Desarrollo de Mantenimiento Menores.",
+          "Desarrollo de servicios web.",
+          "Desarrollo de procesos batrch para la sincronización de información.",
+          "Trasferencias de conocimiento de la arquitectura y ambientación local del aplicativos de pensionesy el aplicativo de sincronización de pensiones, a integrantes de nevo ingreso.",
+          "Ejecución y monitoreo de procesos batch.",
+          "Configuración de procesos calendarizados.",
+          "Capacitación a colaboradores que se integran al proyecto en temas: Spring MVC, Spring Core, Spring JPA, Spring Batch, Hibernate, EJB 3, Servicios web SOAP, Maven, Java (Lenguaje de programación para desarrollo de aplicaciones) 1.6, patrón de diseño Specification, SQL (Lenguaje para gestión y consulta de bases de datos relacionales) básico."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 marzo de 2012 hasta 01 febrero de 2020",
+    "resumen_laboral": "Durante este período asumí responsabilidades técnicas y de soporte enfocadas en mantenimiento y desarrollo de aplicaciones. Me desempeñé como Analista/Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) Sr., Desarrollador Java (Lenguaje de programación para desarrollo de aplicaciones) Jr. y Líder Técnico, asumiendo la atención de incidencias en ambientes productivos, desarrollo de servicios web y generación de empaquetados para despliegues. Participé en la actualización tecnológica, capacitación de nuevos integrantes y en la documentación técnica necesaria para asegurar continuidad operativa y transferencia de conocimiento.",
+    "estudios": {
+      "carrera": "Ingeniería en Sistemas Computacionales",
+      "lugar": "Instituto Tecnológico de Zacatepec, Zacatepec, Morelos, México.",
+      "periodo": "2007-2012"
+    },
+    "herramientas": [
+      { "nombre": "Java 17" },
+      { "nombre": "Java 21" },
+      { "nombre": "Spring Boot" },
+      { "nombre": "Spring Cloud" },
+      { "nombre": "Spring MVC" },
+      { "nombre": "Spring Core" },
+      { "nombre": "Spring Batch" },
+      { "nombre": "Hibernate" },
+      { "nombre": "Maven" },
+      { "nombre": "Git" },
+      { "nombre": "Kubernetes" },
+      { "nombre": "Google Cloud Platform (GCP)" },
+      { "nombre": "Oracle 11g/19g" },
+      { "nombre": "Microsoft SQL Server" },
+      { "nombre": "DB2" },
+      { "nombre": "Tomcat" },
+      { "nombre": "WebLogic" },
+      { "nombre": "JBoss" },
+      { "nombre": "SVN" },
+      { "nombre": "TFS" },
+      { "nombre": "AngularJs" },
+      { "nombre": "JSF/PrimeFaces" },
+      { "nombre": "log4j" },
+      { "nombre": "Spring WS" },
+      { "nombre": "JMS / Queues" }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "ITIL® Foundation Certificate in IT Service Management",
+        "anio": "2019"
+      }
+    ],
+    "cursos": [
+      { "nombre": "Docker in AWS – Deploy Java Spring Boot to AWS Fargate & ECS" },
+      { "nombre": "Introduction to Java EE" },
+      { "nombre": "Ultimate Elasticsearch 8, Kibana, Logstash, Beats: ELK Stack" },
+      { "nombre": "Diego TT Exam" }
+    ]
+  },
+  {
+    "nombre": "Jose Luis Garcia Ramos",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "11802118",
+    "fecha_cedula": "16/11/2019",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Manejo tecnologías de la Arquitectura de Referencia y herramientas de código abierto. Genero y mantengo el código necesario, brindando mantenimiento correctivo y evolutivo conforme a la especificación técnica, respetando estándares, la arquitectura y los frameworks definidos para garantizar calidad y cumplimiento de plazos.\n\nEn mi trayectoria he priorizado la continuidad del servicio y la resolución de problemas en entornos productivos, trabajando sobre aplicaciones frontend y backend, creación y consumo de servicios REST y control de versiones con Git (Control de versiones distribuido). Participo en despliegues, remediación de vulnerabilidades y coordinación con equipos técnicos para asegurar la operación y estabilidad de los sistemas.",
+    "experiencia_laboral": [
+      {
+        "empresa": "SOFTTEK",
+        "puesto": "System Engineer",
+        "fecha_inicio": "01 diciembre de 2021",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Mantengo y doy soporte a los aplicativos dominando diversos lenguajes de programación; tengo habilidades en resolución de problemas, versionamiento con Git (Control de versiones distribuido) y en el desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño, codifico y efectúo pruebas unitarias de componentes a partir de las especificaciones técnicas.",
+          "Utilizo e implemento de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.",
+          "Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+          "Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+          "He obtenido la certificación ISO/IEC 27001:2022 Foundation, que valida conocimientos fundamentales en la gestión de la seguridad de la información.",
+          "He obtenido la certificación Foundational C# with Microsoft, que valida conocimientos básicos en programación con C# y el ecosistema Microsoft.",
+          "He obtenido la certificación Scrum Fundamentals Certified (SFC™), que valida el conocimiento de los principios y fundamentos del marco de trabajo Scrum.",
+          "He usado el curso Ultimate Elasticsearch 8, Kibana, Logstash, Beats para implementar y administrar soluciones de búsqueda, análisis y monitoreo utilizando el stack ELK.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Realizar mantenimiento a aplicativos desarrollados en:",
+          "·   PHP (Lenguaje de desarrollo web).",
+          "·   Java (Lenguaje de programación para desarrollo de aplicaciones).",
+          "·   C# (Lenguaje de programación para desarrollo backend).",
+          "Control de versiones con Git (Control de versiones distribuido).",
+          "Upgrade de versión de base de datos PostgreSQL (Base de datos relacional avanzada), SQL Server (Motor de base de datos para consultas y validaciones).",
+          "Se realizaron correcciones y/o mejoras a diferentes sp, funciones, vistas.",
+          "Remediación de vulnerabilidades en C# (Lenguaje de programación para desarrollo backend), algunas de ellas son SQL inyección, exposición de datos sensibles, etc.",
+          "Actualización de versión de .net en algunos componentes.",
+          "Creación de componentes del FrontEnd con Angular (Framework frontend para aplicaciones SPA).",
+          "Creación y consumo de servicios REST en java y node.",
+          "Upgrade de versión de php.",
+          "Mejoras en código de php para tener mayor seguridad a las peticiones a las BD y evitar posibles ataques.",
+          "Acceso a servidor Linux/Unix (Sistemas operativos para administración y automatización) a mediante ssh para el despliegue de servicios, modificar permisos de lectura, escritura, cambio de owner en directorios y archivos; revisión de log y estatus de los servicios desplegados.",
+          "Nacional Monte de Piedad Tareas:",
+          "Modificación a microservicio desarrollado en node para la autenticación.",
+          "Generar archivos de configuración en xml para dar accesos a una herramienta encargada de la transferencia de archivos a través de diferentes protocolos de comunicación.",
+          "Uso de Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+          "Realizar migración de aplicativo java 8 con servlets a java 21 de backend y angular 16 para frontend.",
+          "Creación de stored procedures y optimización de consultas.",
+          "Manejo de despliegues con Jenkins (Automatización de pipelines CI/CD), RLM, autosys.",
+          "Desarrollo y mantenimiento de aplicativos.",
+          "Realizar migraciones de distintos sistemas: .Net a Java (Lenguaje de programación para desarrollo de aplicaciones), Asp clásico a .Net., Visual basic 6 a .Net",
+          "Desarrollo y mantenimiento de servicios REST/SOAP mediante WCF y WEB API.",
+          "Desarrollo y mantenimiento de windows services.",
+          "Control de versiones con Git (Control de versiones distribuido), Apache SubVersion (SVN) y TFS (Azure DevOps Server) (Gestión de work items, repos y pipelines; soporte a pruebas).",
+          "Desarrollo y modificación de objetos de base de datos (Stored Procedures, funciones, secuencias, índices, tablas, vistas) en SQL Server (Motor de base de datos para consultas y validaciones) y Oracle Database (Motor de base de datos empresarial).",
+          "Implementación de metodología SCRUM.",
+          "Líder técnico, encargado de gestionar y dar seguimiento a las actividades del equipo."
+        ]
+      },
+      {
+        "empresa": "GRUPO FINANCIERO INBURSA S.A. DE C.V",
+        "puesto": "Engineer - Senior",
+        "fecha_inicio": "03 mayo de 2018",
+        "fecha_fin": "01 noviembre de 2021",
+        "actividades_principales": [
+          "Desarrollo y mantenimiento de aplicativos.",
+          "Realizar migraciones de distintos sistemas: .Net a Java (Lenguaje de programación para desarrollo de aplicaciones), Asp clásico a .Net., Visual basic 6 a .Net",
+          "Desarrollo y mantenimiento de servicios REST/SOAP mediante WCF y WEB API.",
+          "Desarrollo y mantenimiento de windows services.",
+          "Control de versiones con Git (Control de versiones distribuido), Apache SubVersion (SVN) y TFS (Azure DevOps Server) (Gestión de work items, repos y pipelines; soporte a pruebas).",
+          "Desarrollo y modificación de objetos de base de datos (Stored Procedures, funciones, secuencias, índices, tablas, vistas) en SQL Server (Motor de base de datos para consultas y validaciones) y Oracle Database (Motor de base de datos empresarial).",
+          "Implementación de metodología SCRUM.",
+          "Líder técnico, encargado de gestionar y dar seguimiento a las actividades del equipo."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 septiembre de 2015 hasta 02 mayo de 2018",
+    "resumen_laboral": "Durante este período me desempeñé como Desarrollador asumiendo responsabilidades de desarrollo y migración de aplicaciones, así como mantenimiento de objetos de base de datos en SQL Server (Motor de base de datos para consultas y validaciones) y Oracle Database (Motor de base de datos empresarial). Realicé tareas de adaptación tecnológica entre plataformas, soporte a aplicaciones y modificación de componentes para su correcto funcionamiento. Participé en actividades de análisis y corrección de fallas técnicas, documentación de cambios y colaboración con equipos técnicos para asegurar la continuidad y estabilidad de los servicios.",
+    "estudios": {
+      "carrera": "Licenciatura en Informática",
+      "lugar": "Universidad Mexiquense del Bicentenario, Villa Victoria, estado de México",
+      "periodo": "Sep, 2011 - Apr, 2016"
+    },
+    "herramientas": [
+      { "nombre": "WebLogic Server" },
+      { "nombre": "Teradata DB" },
+      { "nombre": "Team Foundation Services (TFS)" },
+      { "nombre": "Struts" },
+      { "nombre": "Spring Framework" },
+      { "nombre": "Spring BOOT" },
+      { "nombre": "SoapUI" },
+      { "nombre": "SOAP" },
+      { "nombre": "Scrum" },
+      { "nombre": "REST" },
+      { "nombre": "PostMan" },
+      { "nombre": "PostgreSQL" },
+      { "nombre": "PHP" },
+      { "nombre": "Oracle Database" },
+      { "nombre": "Oracle" },
+      { "nombre": "MS Visual Basic.NET (VB.NET)" },
+      { "nombre": "MS Visual Basic 6" },
+      { "nombre": "Microsoft SQL Server" },
+      { "nombre": "JIRA" },
+      { "nombre": "JavaServer Pages (JSP)" },
+      { "nombre": "Java EE / J2EE" },
+      { "nombre": "Java 8" },
+      { "nombre": "Java 21" },
+      { "nombre": "Hibernate" },
+      { "nombre": "Git" },
+      { "nombre": "C#" },
+      { "nombre": "ASP.NET" },
+      { "nombre": "ASP Classic" },
+      { "nombre": "Apache SubVersion (SVN)" },
+      { "nombre": "Angular 2+" },
+      { "nombre": ".NET Framework 3.5 (and above)" },
+      { "nombre": ".NET Core Framework" }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "ISO/IEC 27001:2022 Foundation – CertiProf",
+        "anio": "2025"
+      },
+      {
+        "nombre": "Foundational C# with Microsoft",
+        "anio": "2024"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified (SFC™)",
+        "anio": "2022"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "Diego TT Exam"
+      },
+      {
+        "nombre": "Ultimate Elasticsearch 8, Kibana, Logstash, Beats: ELK Stack"
+      }
+    ]
+  },
+  {
+    "nombre": "Jesus Norberto Rivera Miranda",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "",
+    "fecha_cedula": "",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Poseo más de 3 años de experiencia en centros de desarrollo de software. Manejo tecnologías de referencia de arquitectura y herramientas de codigo abierto. Produzco y mantengo el codigo necesario para cumplir las especificaciones tecnicas, ejecutando el proceso de desarrollo conforme a lo acordado y ajustandome a los estandares, la arquitectura y los frameworks establecidos, garantizando calidad y cumplimiento de tiempos.\n\nTengo experiencia en desarrollo y mantenimiento de aplicaciones web, atencion y resolucion de incidencias en entornos productivos y soporte de segundo y tercer nivel. He trabajado con PHP (Lenguaje de desarrollo web), Java (Lenguaje de programación para desarrollo de aplicaciones) y Coldfusion, gestionando bases de datos como Informix, SQL Server (Motor de base de datos para consultas y validaciones) y MySQL, y realizando pruebas con usuarios, migraciones y actualizaciones de entornos.",
+    "experiencia_laboral": [
+        {
+      "empresa": "SOFTTEK S.A. de C.V. (Mitika)",
+      "puesto": "Ingeniero de sistemas",
+      "fecha_inicio": "1 diciembre 2021",
+      "fecha_fin": "A la fecha",
+      "actividades_principales": [
+        "Mantengo y doy soporte a los aplicativos, dominando diversos lenguajes de programación; tengo habilidades en resolución de problemas, versionamiento de código (Git) y en el desarrollo de servicios y aplicaciones web (frontend y backend).",
+        "Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.",
+        "Utilizo e implemento adecuadamente el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.",
+        "Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+        "Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.",
+        "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+        "Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).",
+        "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+        "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+        "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+        "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+        "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+        "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+        "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+        "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+        "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+        "He usado la certificación Scrum Foundation Professional Certification (SFPC™) – CertiProf como marco ágil para la gestión de proyectos.",
+        "He obtenido la certificación Lean Six Sigma White Belt, que valida conocimientos básicos sobre mejora continua, eficiencia de procesos y reducción de desperdicios.",
+        "He usado la certificación Foundational C# with Microsoft para reforzar y aplicar conocimientos en C# (Lenguaje de programación para desarrollo backend).",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "CIS: Elaboro la especificación detallada de componentes.",
+        "CTR: Realizo la construcción de componentes.",
+        "DOC: Genero la documentación técnica.",
+        "Desarrollo y mantengo código PHP.",
+        "Dirijo y opero soporte técnico de aplicaciones web.",
+        "Utilizo herramientas Checkmarx para identificar vulnerabilidades en el código.",
+        "Migro aplicaciones entre diferentes lenguajes de programación.",
+        "Ejecuto pruebas en ambiente de test y de calidad con el usuario.",
+        "Brindo soporte de segundo y tercer nivel.",
+        "Realizo desarrollo, mantenimiento y soporte de código en PHP, Java y Coldfusion.",
+        "Realizo desarrollo, mantenimiento y soporte de bases de datos Informix y SQL Server.",
+        "Desarrollo y mantenimiento de código Java.",
+        "Actualizo aplicaciones en servidores WAS de la versión 8 a la 9.",
+        "Utilizo la herramienta SONAR para promover buenas prácticas de código.",
+        "Actualizo versiones de código CSS cuando es requerido.",
+        "Analizo bases de datos MySQL: configuro accesos y analizo la estructura de datos.",
+        "Analizo y actualizo Store Procedures para adecuarlos a la estructura de datos."
+    ]
+    },
+    {
+      "empresa": "TOWA SOFTWARE S.A. de C.V.",
+      "puesto": "Ingeniero de desarrollo java",
+      "fecha_inicio": "2 mayo 2021",
+      "fecha_fin": "30 noviembre 2021",
+      "actividades_principales": [
+        "Desarrollo y mantenimiento de código Java.",
+        "Actualizo aplicaciones en servidores WAS de la versión 8 a la 9.",
+        "Utilizo la herramienta SONAR para promover buenas prácticas de código.",
+        "Actualizo versiones de código CSS cuando es requerido.",
+        "Analizo bases de datos MySQL: configuro accesos y analizo la estructura de datos.",
+        "Analizo y actualizo Store Procedures para adecuarlos a la estructura de datos."
+      ]
+    }
+    ],
+    "periodo_resumen_laboral": "",
+    "resumen_laboral": "",
+    "estudios": {
+      "carrera": "Ingenieria en Software",
+      "lugar": "Universidad Politecnica de Tecamac",
+      "periodo": "septiembre 2014 – diciembre 2017"
+    },
+    "herramientas": [
+      { "nombre": "PHP (Lenguaje de desarrollo web)" },
+      { "nombre": "Java (Lenguaje de programación para desarrollo de aplicaciones)" },
+      { "nombre": "Coldfusion" },
+      { "nombre": "CSS" },
+      { "nombre": "HTML" },
+      { "nombre": "Informix" },
+      { "nombre": "SQL Server (Motor de base de datos para consultas y validaciones)" },
+      { "nombre": "MySQL" },
+      { "nombre": "Checkmarx" },
+      { "nombre": "SONAR" },
+      { "nombre": "WAS" },
+      { "nombre": "Liberty" },
+      { "nombre": "Tomcat" },
+      { "nombre": "Windows" }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "Scrum Foundation Professional Certification (SFPC) – CertiProf",
+        "anio": "2024"
+      },
+      {
+        "nombre": "Lean Six Sigma White Belt Professional Certification (LSSWBPC) – CertiProf",
+        "anio": "2024"
+      },
+      {
+        "nombre": "Foundational C# with Microsoft",
+        "anio": "2024"
+      }
+    ],
+    "cursos": []
+  },
+  {
+    "nombre": "Mario Alberto Cruz Colín",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "12673310",
+    "fecha_cedula": "17/01/2022",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Poseo al menos 3 años de experiencia en centros de desarrollo de software. Domino tecnologías de la Arquitectura de Referencia y herramientas de código abierto. Produzco código y doy mantenimiento correctivo y adicional para cumplir la especificación técnica, siguiendo estándares, arquitectura y frameworks definidos, asegurando calidad y cumplimiento de plazos.\n\nTengo experiencia en desarrollo backend con Java (Lenguaje de programación para desarrollo de aplicaciones), diseño y gestión de bases de datos, creación de servicios REST y uso de frameworks como Spring. Participo en remediaciones de vulnerabilidades, pruebas de sistemas web, control de versiones con Git (Control de versiones distribuido) y migraciones de componentes, lo que me permite identificar y resolver incidentes para garantizar la continuidad de servicios y la correcta operación de aplicaciones.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek-COPPEL",
+        "puesto": "Desarrollador Java",
+        "fecha_inicio": "1 septiembre 2021",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Mantengo y doy soporte a los aplicativos, dominando varios lenguajes de programación; tengo habilidades en resolución de problemas, control de versiones (Git (Control de versiones distribuido)) y en el desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño y codifico componentes y ejecuto pruebas unitarias según las especificaciones técnicas.",
+          "Utilizo e implemento de forma adecuada los frameworks, subsistemas y componentes reutilizables establecidos por la arquitectura, incorporando aspectos de seguridad de la información.",
+          "Verifico que las especificaciones técnicas estén completas y correctas antes de su implementación.",
+          "Cumplo con tiempos, esfuerzo y calidad acordados en el proyecto, recolectando y reportando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización, incluyendo políticas, registros de horas y estándares.",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+          "He obtenido la certificación Six Sigma Yellow Belt, que valida conocimientos fundamentales en mejora continua, análisis de procesos y reducción de variabilidad.",
+          "He obtenido la certificación Remote Work Professional Certification (RWPC™), que valida buenas prácticas para el trabajo remoto y la colaboración en entornos distribuidos.",
+          "He obtenido la certificación Cybersecurity Awareness, que valida conocimientos básicos sobre concientización en ciberseguridad y protección de la información.",
+          "He obtenido la certificación Foundational C# with Microsoft, que valida conocimientos fundamentales en programación con C# y el ecosistema Microsoft.",
+          "He obtenido la certificación Scrum Fundamentals Certified (SFC™), que valida el conocimiento de los principios y fundamentos del marco de trabajo Scrum.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Remediaciones de PHP (Lenguaje de desarrollo web)",
+          "Manejo de API en TypeScript,",
+          "Pruebas de sistemas web, manejo de BD PostgreSQL (Base de datos relacional avanzada).",
+          "Documentación (Manual de usuario)",
+          "Remediación de vulnerabilidades en C++",
+          "Remediación de vulnerabilidades en Java (Lenguaje de programación para desarrollo de aplicaciones)",
+          "Remediaciones y pruebas en sistema con lenguaje Coldfusion",
+          "Control de cambios Git (Control de versiones distribuido)",
+          "Migracion de componentes c++ 2003 a c++ 2017 con manejo de IA, principalmente github-­copilot",
+          "Generar modelos de base de datos en Lenguaje Unificado de Modelado (UML).",
+          "Desarrollo en Java (Lenguaje de programación para desarrollo de aplicaciones) de web service REST utilizando lombock",
+          "Mapeo JPA",
+          "Creación de tablas, índices, secuencias y permisos a usuarios",
+          "Fuí responsable de crear/modificar el diccionario de datos",
+          "Cree Diagramas de flujo",
+          "Gestión de bases de datos Oracle Database (Motor de base de datos empresarial)."
+        
+        ]
+      },
+      {
+        "empresa": "Softtek-Metlife",
+        "puesto": "Desarrollador Java",
+        "fecha_inicio": "1 septiembre 2021",
+        "fecha_fin": "30 noviembre 2021",
+        "actividades_principales": [
+          "Generar modelos de base de datos en Lenguaje Unificado de Modelado (UML).",
+          "Desarrollo en Java (Lenguaje de programación para desarrollo de aplicaciones) de web service REST utilizando lombock",
+          "Mapeo JPA",
+          "Creación de tablas, índices, secuencias y permisos a usuarios",
+          "Fuí responsable de crear/modificar el diccionario de datos",
+          "Cree Diagramas de flujo",
+          "Gestión de bases de datos Oracle Database (Motor de base de datos empresarial)."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 1 noviembre de 2018 hasta 31 julio de 2021",
+    "resumen_laboral": "Durante este período me desempeñé como Programador Java asumiendo responsabilidades centradas en el desarrollo y mantenimiento de aplicaciones web y bases de datos. Realicé diseño de modelos de datos, desarrollo de procedimientos almacenados, implementación de CRUD y creación de servicios web. Participé en despliegues y en la resolución de incidencias técnicas, asegurando la continuidad operativa y realizando documentación técnica y pruebas para la correcta operación de los sistemas.",
+    "estudios": {
+      "carrera": "Ingeniería en Sistemas Estratégicos de Información",
+      "lugar": "Universidad Politécnica de Atlacomulco",
+      "periodo": "2015-2019"
+    },
+    "herramientas": [
+      {
+        "nombre": "Visual Studio Code"
+      },
+      {
+        "nombre": "pgAdmin"
+      },
+      {
+        "nombre": "DBeaver"
+      },
+      {
+        "nombre": "MobaXterm"
+      },
+      {
+        "nombre": "WinSCP"
+      },
+      {
+        "nombre": "SoapUI"
+      },
+      {
+        "nombre": "Postman"
+      },
+      {
+        "nombre": "Eclipse"
+      },
+      {
+        "nombre": "NetBeans"
+      },
+      {
+        "nombre": "SQLDeveloper"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "MySQL"
+      },
+      {
+        "nombre": "PostgreSQL"
+      },
+      {
+        "nombre": "PL/SQL"
+      },
+      {
+        "nombre": "Spring"
+      },
+      {
+        "nombre": "Hibernate"
+      },
+      {
+        "nombre": "JPA"
+      },
+      {
+        "nombre": "Tomcat"
+      },
+      {
+        "nombre": "Apache"
+      },
+      {
+        "nombre": "webLogic"
+      },
+      {
+        "nombre": "Git"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "Six Sigma Yellow Belt Professional",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Remote Work Professional Certification (RWPC™) – CertiProf",
+        "anio": "2024-2027"
+      },
+      {
+        "nombre": "Cybersecurity Awareness Professional Certification (CAPC™) – CertiProf",
+        "anio": "2027"
+      },
+      {
+        "nombre": "Foundational C# with Microsoft",
+        "anio": "2024"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified (SFC™)",
+        "anio": "2022"
+      }
+    ],
+    "cursos": []
+  },
+  {
+    "nombre": "Sergio Paulo Morales Hernández",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "5262600",
+    "fecha_cedula": "5/10/2007",
+    "rol_propuesto": "Desarrollador de atención de incidentes",
+    "resumen_profesional": "Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Manejo tecnologías de la Arquitectura de Referencia y herramientas de código abierto. Desarrollo el código requerido y brindo mantenimiento correctivo y evolutivo para cumplir la especificación técnica, siguiendo el proceso de desarrollo, respetando estándares, arquitectura y frameworks, y asegurando la calidad y cumplimiento de los plazos.\n\nTengo amplia experiencia trabajando con aplicaciones Java (Lenguaje de programación para desarrollo de aplicaciones) y .NET, liderando equipos y gestionando operaciones DevOps y soporte para ambientes de desarrollo y Aseguramiento de la Calidad (QA). Aporto continuidad de servicio mediante resolución de incidentes, despliegues automatizados y mejoras funcionales, apoyándome en control de versiones y herramientas de monitoreo para mantener la operatividad y la trazabilidad de los entregables.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Cuenta Softtek / IMSS",
+        "puesto": "Application Support Engineer L3 Java Sr",
+        "fecha_inicio": "1 agosto 2025",
+        "fecha_fin": "28 febrero 2026",
+        "actividades_principales": [
+          "Mantengo y doy soporte a los aplicativos dominando diversos lenguajes de programación; tengo habilidades en resolución de problemas, control de versiones (Git (Control de versiones distribuido)) y desarrollo de servicios y aplicaciones web (frontend y backend).",
+          "Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.",
+          "Utilizo e implemento adecuadamente el framework y los subsistemas reutilizables definidos por la arquitectura, incluyendo aspectos de seguridad de la información.",
+          "Valido que las especificaciones técnicas estén completas y correctas antes de proceder a su implementación.",
+          "Cumplo con los tiempos, esfuerzo y calidad acordados en el proyecto, recolectando las métricas correspondientes.",
+          "Identifico y escalo issues y riesgos detectados durante el desarrollo.",
+          "Acato los lineamientos y acuerdos del proyecto y de la organización, tales como políticas, horarios, registro de horas y estándares.",
+          "Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.",
+          "Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.",
+          "Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.",
+          "Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.",
+          "Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.",
+          "Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.",
+          "Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.",
+          "Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.",
+          "Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).",
+          "He usado el curso AWS Essentials para comprender y aplicar los servicios principales de Amazon Web Services en entornos de computación en la nube.",
+          "He usado el curso Introduction to Cloud Computing on Amazon AWS for Beginners para aplicar los fundamentos de la computación en la nube utilizando servicios de AWS.",
+          "He usado el curso A Practical Introduction to Cloud Computing para implementar conceptos básicos de la nube en escenarios prácticos.",
+          "He usado el curso Learn DevOps: CI/CD with Jenkins using Pipelines and Docker para implementar procesos de integración y despliegue continuo con Jenkins y contenedores Docker.",
+          "He usado el curso Modern Java – Learn Java 8 Features by Coding It para implementar características modernas de Java 8 en aplicaciones mediante programación práctica.",
+          "He usado el curso Java Debugging With IntelliJ IDEA para mejorar el diagnóstico, depuración y resolución de errores en aplicaciones Java.",
+          "He usado el curso Python and Flask Bootcamp para desarrollar e implementar aplicaciones web utilizando Python y el framework Flask.",
+          "He usado el curso The Complete Python Bootcamp para aplicar Python desde nivel básico hasta avanzado en el desarrollo de soluciones prácticas.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Mejoras al Sistema web de reporte de almacén.",
+          "Habilitar la función de personalización de columnas en los reportes del sistema.",
+          "Atender tickets del equipo de desarrollo para los ambientes de desarrollo como cambios en configuraciones, despliegue de sistemas y actualizaciones de datos.",
+          "Gestionar un equipo de DevOps con la responsabilidad de mantener los ambientes de Dev y Aseguramiento de la Calidad (QA) disponibles y actualizados",
+          "Crear flujos para despliegues automatizados utilizando Gitlab, scripts bash y Ansible.",
+          "Crear tableros de monitoreo con AppDynamics"
+        ]
+      },
+      {
+        "empresa": "Cuenta Softtek / Southwest",
+        "puesto": "Ingeniero de Dev Ops / Lider de equipo",
+        "fecha_inicio": "30 noviembre 2022",
+        "fecha_fin": "31 mayo 2025",
+        "actividades_principales": [
+          "Atender tickets del equipo de desarrollo para los ambientes de desarrollo como cambios en configuraciones, despliegue de sistemas y actualizaciones de datos.",
+          "Gestionar un equipo de DevOps con la responsabilidad de mantener los ambientes de Dev y Aseguramiento de la Calidad (QA) disponibles y actualizados",
+          "Crear flujos para despliegues automatizados utilizando Gitlab, scripts bash y Ansible.",
+          "Crear tableros de monitoreo con AppDynamics"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 septiembre de 2013 hasta 29 noviembre de 2022",
+    "resumen_laboral": "Durante este período asumí responsabilidades centradas en desarrollo y soporte de aplicaciones, mantenimiento de sistemas y coordinación técnica. Desempeñé roles como desarrollador, líder de equipo, Scrum Master y release manager, participando en análisis funcional, resolución de defectos y coordinación de equipos. Me enfoqué en asegurar la continuidad operativa, soportar ambientes de pruebas y producción, y colaborar en despliegues y mejoras funcionales manteniendo comunicación constante con usuarios técnicos y equipos de Aseguramiento de la Calidad (QA).",
+    "estudios": {
+      "carrera": "Ingeniería en Sistemas Computacionales",
+      "lugar": "Universidad de las Américas Puebla – Puebla, Mx.",
+      "periodo": "2001 – 2006"
+    },
+    "herramientas": [
+      {
+        "nombre": "Java"
+      },
+      {
+        "nombre": "C#"
+      },
+      {
+        "nombre": "Spring Boot"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "Gitlab"
+      },
+      {
+        "nombre": "Ansible"
+      },
+      {
+        "nombre": "AppDynamics"
+      },
+      {
+        "nombre": "Jenkins"
+      },
+      {
+        "nombre": "Docker"
+      },
+      {
+        "nombre": "Git"
+      },
+      {
+        "nombre": "Linux"
+      },
+      {
+        "nombre": "Jira"
+      }
+    ],
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "AWS Essentials"
+      },
+      {
+        "nombre": "Introduction to Cloud Computing on Amazon AWS for Beginners"
+      },
+      {
+        "nombre": "A Practical Introduction to Cloud Computing"
+      },
+      {
+        "nombre": "Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+      },
+      {
+        "nombre": "Modern Java – Learn Java 8 Features by Coding It"
+      },
+      {
+        "nombre": "Java Debugging With IntelliJ IDEA"
+      },
+      {
+        "nombre": "Python and Flask Bootcamp: Create Websites Using Flask"
+      },
+      {
+        "nombre": "The Complete Python Bootcamp: From Zero to Hero in Python"
+      }
+    ]
+  }
+]

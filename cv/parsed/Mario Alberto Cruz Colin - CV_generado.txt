@@ -1,0 +1,106 @@
+Mario Alberto Cruz Colín
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Poseo al menos 3 años de experiencia en centros de desarrollo de software. Domino tecnologías de la Arquitectura de Referencia y herramientas de código abierto. Produzco código y doy mantenimiento correctivo y adicional para cumplir la especificación técnica, siguiendo estándares, arquitectura y frameworks definidos, asegurando calidad y cumplimiento de plazos.
+
+Tengo experiencia en desarrollo backend con Java (Lenguaje de programación para desarrollo de aplicaciones), diseño y gestión de bases de datos, creación de servicios REST y uso de frameworks como Spring. Participo en remediaciones de vulnerabilidades, pruebas de sistemas web, control de versiones con Git (Control de versiones distribuido) y migraciones de componentes, lo que me permite identificar y resolver incidentes para garantizar la continuidad de servicios y la correcta operación de aplicaciones.
+EXPERIENCIA LABORAL
+Empresa
+Softtek-COPPEL | Puesto
+Desarrollador Java | Desde:
+1 septiembre 2021 | Hasta: 
+A la fecha
+Actividades Principales | • Mantengo y doy soporte a los aplicativos, dominando varios lenguajes de programación; tengo habilidades en resolución de problemas, control de versiones (Git (Control de versiones distribuido)) y en el desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño y codifico componentes y ejecuto pruebas unitarias según las especificaciones técnicas.
+• Utilizo e implemento de forma adecuada los frameworks, subsistemas y componentes reutilizables establecidos por la arquitectura, incorporando aspectos de seguridad de la información.
+• Verifico que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con tiempos, esfuerzo y calidad acordados en el proyecto, recolectando y reportando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización, incluyendo políticas, registros de horas y estándares.
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).
+• He obtenido la certificación Six Sigma Yellow Belt, que valida conocimientos fundamentales en mejora continua, análisis de procesos y reducción de variabilidad.
+• He obtenido la certificación Remote Work Professional Certification (RWPC™), que valida buenas prácticas para el trabajo remoto y la colaboración en entornos distribuidos.
+• He obtenido la certificación Cybersecurity Awareness, que valida conocimientos básicos sobre concientización en ciberseguridad y protección de la información.
+• He obtenido la certificación Foundational C# with Microsoft, que valida conocimientos fundamentales en programación con C# y el ecosistema Microsoft.
+• He obtenido la certificación Scrum Fundamentals Certified (SFC™), que valida el conocimiento de los principios y fundamentos del marco de trabajo Scrum.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Remediaciones de PHP (Lenguaje de desarrollo web)
+• Manejo de API en TypeScript,
+• Pruebas de sistemas web, manejo de BD PostgreSQL (Base de datos relacional avanzada).
+• Documentación (Manual de usuario)
+• Remediación de vulnerabilidades en C++
+• Remediación de vulnerabilidades en Java (Lenguaje de programación para desarrollo de aplicaciones)
+• Remediaciones y pruebas en sistema con lenguaje Coldfusion
+• Control de cambios Git (Control de versiones distribuido)
+• Migracion de componentes c++ 2003 a c++ 2017 con manejo de IA, principalmente github-­copilot
+• Generar modelos de base de datos en Lenguaje Unificado de Modelado (UML).
+• Desarrollo en Java (Lenguaje de programación para desarrollo de aplicaciones) de web service REST utilizando lombock
+• Mapeo JPA
+• Creación de tablas, índices, secuencias y permisos a usuarios
+• Fuí responsable de crear/modificar el diccionario de datos
+• Cree Diagramas de flujo
+• Gestión de bases de datos Oracle Database (Motor de base de datos empresarial).
+Empresa
+Softtek-Metlife | Puesto
+Desarrollador Java | Desde:
+1 septiembre 2021 | Hasta: 
+30 noviembre 2021
+Actividades Principales | • Generar modelos de base de datos en Lenguaje Unificado de Modelado (UML).
+• Desarrollo en Java (Lenguaje de programación para desarrollo de aplicaciones) de web service REST utilizando lombock
+• Mapeo JPA
+• Creación de tablas, índices, secuencias y permisos a usuarios
+• Fuí responsable de crear/modificar el diccionario de datos
+• Cree Diagramas de flujo
+• Gestión de bases de datos Oracle Database (Motor de base de datos empresarial).
+HERRAMIENTAS CONOCIDAS
+- Visual Studio Code
+- pgAdmin
+- DBeaver
+- MobaXterm
+- WinSCP
+- SoapUI
+- Postman
+- Eclipse
+- NetBeans
+- SQLDeveloper
+- Oracle
+- MySQL
+- PostgreSQL
+- PL/SQL
+- Spring
+- Hibernate
+- JPA
+- Tomcat
+- Apache
+- webLogic
+- Git
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 1 noviembre de 2018 hasta 31 julio de 2021
+Durante este período me desempeñé como Programador Java asumiendo responsabilidades centradas en el desarrollo y mantenimiento de aplicaciones web y bases de datos. Realicé diseño de modelos de datos, desarrollo de procedimientos almacenados, implementación de CRUD y creación de servicios web. Participé en despliegues y en la resolución de incidencias técnicas, asegurando la continuidad operativa y realizando documentación técnica y pruebas para la correcta operación de los sistemas.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Sistemas Estratégicos de Información - 2015-2019 | Universidad Politécnica de Atlacomulco | Cédula Profesional
+12673310
+17/01/2022
+CERTIFICACIONES
+- Six Sigma Yellow Belt Professional | 2022
+- Remote Work Professional Certification (RWPC™) – CertiProf | 2024-2027
+- Cybersecurity Awareness Professional Certification (CAPC™) – CertiProf | 2027
+- Foundational C# with Microsoft | 2024
+- Scrum Fundamentals Certified (SFC™) | 2022
+______________________________________
+Mario Alberto Cruz Colín
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

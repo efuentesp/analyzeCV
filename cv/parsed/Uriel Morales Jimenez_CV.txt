@@ -1,0 +1,897 @@
+URIEL MORALES JIMÉNEZ
+PERFIL:
+Ingeniero en Sistemas Computacionales con más de 6 años de experiencia en Desarrollo de Aplicaciones, APIS y Microservicios en JAVA, Bases de Datos Relacionales y No Relacionales, Elaboración de requerimientos y estimaciones de desarrollo de software, supervisión en el desarrollo de software y en la implementación y liberación de Aplicaciones de Software a nivel nacional. 
+
+Experiencia como Líder de Proyectos y apoyo en diseño de Microservicios. Soporte Técnico en Sistemas interactuando directamente con el cliente, Desarrollo y Pruebas de Aplicaciones, así como despliegue y mantenimiento de Aplicaciones, conocimientos en DevOps y mejora continua
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa:
+SOFTTEK – Citi Banamex | Nombre de la empresa:
+SOFTTEK – Citi Banamex | Lugar:
+CDMX | Puesto:
+Desarrollador | Desde: 
+Abril 2023 | A: 
+La Fecha
+Funciones:
+Desarrollo de aplicaciones Java.
+Desarrollo de Aplicaciones WEB con Java.
+Migraciones de consumo de servicios de APIConnect a APIGee.
+Solución de Incidentes Productivos.
+Soporte Posterior a Despliegue de Aplicaciones
+Merge de Codigo en repositorio para versionamiento del código.
+Elaboración de Documentacion en Confluence.
+Analisis para Desarrollo de Aplicaciones
+Analisis de Clases para desarrollo de diagramas.
+Analisis de código para identificación de Reportes.
+Documentación de Servicios en Swagger.
+
+Herramientas y Técnologias:
+Spring
+Java 5
+Java 6
+Java 8
+Maven
+BitBucket
+Confluence
+C# .NET
+PostMan
+Rest API
+PINPAD
+Swagger
+
+Logros:
+Despliegue de mejoras para proyectos Nerkey Movil. 
+Despliegue de consumo de servicios OTP, PINPAD en Aperturas WEB.
+Elaboración de Diagramas de Clases y Funcionalidad de Pantallas para proyecto Inventario.
+Elaboración de documentación de Diagramas de Arquitectura y secuencia de Microservicios Transmit con Aplicación Aperturas y Actualizaciones WEB para la solución.
+Implementación de funcionalidades especificas con códigos QR en proyecto Aperturas y Actualizaciones WEB. | Funciones:
+Desarrollo de aplicaciones Java.
+Desarrollo de Aplicaciones WEB con Java.
+Migraciones de consumo de servicios de APIConnect a APIGee.
+Solución de Incidentes Productivos.
+Soporte Posterior a Despliegue de Aplicaciones
+Merge de Codigo en repositorio para versionamiento del código.
+Elaboración de Documentacion en Confluence.
+Analisis para Desarrollo de Aplicaciones
+Analisis de Clases para desarrollo de diagramas.
+Analisis de código para identificación de Reportes.
+Documentación de Servicios en Swagger.
+
+Herramientas y Técnologias:
+Spring
+Java 5
+Java 6
+Java 8
+Maven
+BitBucket
+Confluence
+C# .NET
+PostMan
+Rest API
+PINPAD
+Swagger
+
+Logros:
+Despliegue de mejoras para proyectos Nerkey Movil. 
+Despliegue de consumo de servicios OTP, PINPAD en Aperturas WEB.
+Elaboración de Diagramas de Clases y Funcionalidad de Pantallas para proyecto Inventario.
+Elaboración de documentación de Diagramas de Arquitectura y secuencia de Microservicios Transmit con Aplicación Aperturas y Actualizaciones WEB para la solución.
+Implementación de funcionalidades especificas con códigos QR en proyecto Aperturas y Actualizaciones WEB. | Funciones:
+Desarrollo de aplicaciones Java.
+Desarrollo de Aplicaciones WEB con Java.
+Migraciones de consumo de servicios de APIConnect a APIGee.
+Solución de Incidentes Productivos.
+Soporte Posterior a Despliegue de Aplicaciones
+Merge de Codigo en repositorio para versionamiento del código.
+Elaboración de Documentacion en Confluence.
+Analisis para Desarrollo de Aplicaciones
+Analisis de Clases para desarrollo de diagramas.
+Analisis de código para identificación de Reportes.
+Documentación de Servicios en Swagger.
+
+Herramientas y Técnologias:
+Spring
+Java 5
+Java 6
+Java 8
+Maven
+BitBucket
+Confluence
+C# .NET
+PostMan
+Rest API
+PINPAD
+Swagger
+
+Logros:
+Despliegue de mejoras para proyectos Nerkey Movil. 
+Despliegue de consumo de servicios OTP, PINPAD en Aperturas WEB.
+Elaboración de Diagramas de Clases y Funcionalidad de Pantallas para proyecto Inventario.
+Elaboración de documentación de Diagramas de Arquitectura y secuencia de Microservicios Transmit con Aplicación Aperturas y Actualizaciones WEB para la solución.
+Implementación de funcionalidades especificas con códigos QR en proyecto Aperturas y Actualizaciones WEB. | Funciones:
+Desarrollo de aplicaciones Java.
+Desarrollo de Aplicaciones WEB con Java.
+Migraciones de consumo de servicios de APIConnect a APIGee.
+Solución de Incidentes Productivos.
+Soporte Posterior a Despliegue de Aplicaciones
+Merge de Codigo en repositorio para versionamiento del código.
+Elaboración de Documentacion en Confluence.
+Analisis para Desarrollo de Aplicaciones
+Analisis de Clases para desarrollo de diagramas.
+Analisis de código para identificación de Reportes.
+Documentación de Servicios en Swagger.
+
+Herramientas y Técnologias:
+Spring
+Java 5
+Java 6
+Java 8
+Maven
+BitBucket
+Confluence
+C# .NET
+PostMan
+Rest API
+PINPAD
+Swagger
+
+Logros:
+Despliegue de mejoras para proyectos Nerkey Movil. 
+Despliegue de consumo de servicios OTP, PINPAD en Aperturas WEB.
+Elaboración de Diagramas de Clases y Funcionalidad de Pantallas para proyecto Inventario.
+Elaboración de documentación de Diagramas de Arquitectura y secuencia de Microservicios Transmit con Aplicación Aperturas y Actualizaciones WEB para la solución.
+Implementación de funcionalidades especificas con códigos QR en proyecto Aperturas y Actualizaciones WEB. | Funciones:
+Desarrollo de aplicaciones Java.
+Desarrollo de Aplicaciones WEB con Java.
+Migraciones de consumo de servicios de APIConnect a APIGee.
+Solución de Incidentes Productivos.
+Soporte Posterior a Despliegue de Aplicaciones
+Merge de Codigo en repositorio para versionamiento del código.
+Elaboración de Documentacion en Confluence.
+Analisis para Desarrollo de Aplicaciones
+Analisis de Clases para desarrollo de diagramas.
+Analisis de código para identificación de Reportes.
+Documentación de Servicios en Swagger.
+
+Herramientas y Técnologias:
+Spring
+Java 5
+Java 6
+Java 8
+Maven
+BitBucket
+Confluence
+C# .NET
+PostMan
+Rest API
+PINPAD
+Swagger
+
+Logros:
+Despliegue de mejoras para proyectos Nerkey Movil. 
+Despliegue de consumo de servicios OTP, PINPAD en Aperturas WEB.
+Elaboración de Diagramas de Clases y Funcionalidad de Pantallas para proyecto Inventario.
+Elaboración de documentación de Diagramas de Arquitectura y secuencia de Microservicios Transmit con Aplicación Aperturas y Actualizaciones WEB para la solución.
+Implementación de funcionalidades especificas con códigos QR en proyecto Aperturas y Actualizaciones WEB. | Funciones:
+Desarrollo de aplicaciones Java.
+Desarrollo de Aplicaciones WEB con Java.
+Migraciones de consumo de servicios de APIConnect a APIGee.
+Solución de Incidentes Productivos.
+Soporte Posterior a Despliegue de Aplicaciones
+Merge de Codigo en repositorio para versionamiento del código.
+Elaboración de Documentacion en Confluence.
+Analisis para Desarrollo de Aplicaciones
+Analisis de Clases para desarrollo de diagramas.
+Analisis de código para identificación de Reportes.
+Documentación de Servicios en Swagger.
+
+Herramientas y Técnologias:
+Spring
+Java 5
+Java 6
+Java 8
+Maven
+BitBucket
+Confluence
+C# .NET
+PostMan
+Rest API
+PINPAD
+Swagger
+
+Logros:
+Despliegue de mejoras para proyectos Nerkey Movil. 
+Despliegue de consumo de servicios OTP, PINPAD en Aperturas WEB.
+Elaboración de Diagramas de Clases y Funcionalidad de Pantallas para proyecto Inventario.
+Elaboración de documentación de Diagramas de Arquitectura y secuencia de Microservicios Transmit con Aplicación Aperturas y Actualizaciones WEB para la solución.
+Implementación de funcionalidades especificas con códigos QR en proyecto Aperturas y Actualizaciones WEB.
+Herramientas: | Java 5, Java 6, Java 8, Maven, Bitbucket, Confluence, C#, PostMan, REST, Spring, Swagger, APIConnect, APIGee. | Java 5, Java 6, Java 8, Maven, Bitbucket, Confluence, C#, PostMan, REST, Spring, Swagger, APIConnect, APIGee. | Java 5, Java 6, Java 8, Maven, Bitbucket, Confluence, C#, PostMan, REST, Spring, Swagger, APIConnect, APIGee. | Java 5, Java 6, Java 8, Maven, Bitbucket, Confluence, C#, PostMan, REST, Spring, Swagger, APIConnect, APIGee. | Java 5, Java 6, Java 8, Maven, Bitbucket, Confluence, C#, PostMan, REST, Spring, Swagger, APIConnect, APIGee.
+Nombre de la empresa:
+SOFTTEK – Santander México | Nombre de la empresa:
+SOFTTEK – Santander México | Lugar:
+CDMX | Puesto:
+Desarrollador | Desde: 
+Febrero 2023 | A: 
+Abril 2023
+Funciones:
+Elaboracion de temario para entrevistas tecnicas.
+Entrevistas a candidatos para Desarrollador Java Senior
+Reclutamiento de candidatos para Desarrollo de Microservicios en Java
+
+Herramientas y Técnologias:
+Spring BOOT.
+Spring FrameWork.
+Spring Cloud.
+Spring Security.
+Bases de Datos Relacionales y No Relacionales.
+
+Logros:
+Construcción de Celular de desarrolladores para microservicios en Java para Santander México. | Funciones:
+Elaboracion de temario para entrevistas tecnicas.
+Entrevistas a candidatos para Desarrollador Java Senior
+Reclutamiento de candidatos para Desarrollo de Microservicios en Java
+
+Herramientas y Técnologias:
+Spring BOOT.
+Spring FrameWork.
+Spring Cloud.
+Spring Security.
+Bases de Datos Relacionales y No Relacionales.
+
+Logros:
+Construcción de Celular de desarrolladores para microservicios en Java para Santander México. | Funciones:
+Elaboracion de temario para entrevistas tecnicas.
+Entrevistas a candidatos para Desarrollador Java Senior
+Reclutamiento de candidatos para Desarrollo de Microservicios en Java
+
+Herramientas y Técnologias:
+Spring BOOT.
+Spring FrameWork.
+Spring Cloud.
+Spring Security.
+Bases de Datos Relacionales y No Relacionales.
+
+Logros:
+Construcción de Celular de desarrolladores para microservicios en Java para Santander México. | Funciones:
+Elaboracion de temario para entrevistas tecnicas.
+Entrevistas a candidatos para Desarrollador Java Senior
+Reclutamiento de candidatos para Desarrollo de Microservicios en Java
+
+Herramientas y Técnologias:
+Spring BOOT.
+Spring FrameWork.
+Spring Cloud.
+Spring Security.
+Bases de Datos Relacionales y No Relacionales.
+
+Logros:
+Construcción de Celular de desarrolladores para microservicios en Java para Santander México. | Funciones:
+Elaboracion de temario para entrevistas tecnicas.
+Entrevistas a candidatos para Desarrollador Java Senior
+Reclutamiento de candidatos para Desarrollo de Microservicios en Java
+
+Herramientas y Técnologias:
+Spring BOOT.
+Spring FrameWork.
+Spring Cloud.
+Spring Security.
+Bases de Datos Relacionales y No Relacionales.
+
+Logros:
+Construcción de Celular de desarrolladores para microservicios en Java para Santander México. | Funciones:
+Elaboracion de temario para entrevistas tecnicas.
+Entrevistas a candidatos para Desarrollador Java Senior
+Reclutamiento de candidatos para Desarrollo de Microservicios en Java
+
+Herramientas y Técnologias:
+Spring BOOT.
+Spring FrameWork.
+Spring Cloud.
+Spring Security.
+Bases de Datos Relacionales y No Relacionales.
+
+Logros:
+Construcción de Celular de desarrolladores para microservicios en Java para Santander México.
+Herramientas: | Spring BOOT, Spring Framework, Spring Cloud, Spring Security, Arquitectura de Microservicios, Patrones de Diseño, Java 8 | Spring BOOT, Spring Framework, Spring Cloud, Spring Security, Arquitectura de Microservicios, Patrones de Diseño, Java 8 | Spring BOOT, Spring Framework, Spring Cloud, Spring Security, Arquitectura de Microservicios, Patrones de Diseño, Java 8 | Spring BOOT, Spring Framework, Spring Cloud, Spring Security, Arquitectura de Microservicios, Patrones de Diseño, Java 8 | Spring BOOT, Spring Framework, Spring Cloud, Spring Security, Arquitectura de Microservicios, Patrones de Diseño, Java 8
+Nombre de la empresa:
+SOFTTEK – Nacional Monte de Piedad | Nombre de la empresa:
+SOFTTEK – Nacional Monte de Piedad | Lugar:
+CDMX | Puesto:
+Desarrollador de Sistemas | Desde: 
+30 de Marzo de 2020 | A: 
+Actualmente
+Funciones:
+Microservicios
+Patrones de diseño CRUD para Microservicios.
+Creación de arquetipos para Microservicios. 
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+Propuestas de solución para Microservicios. 
+Estimaciones para desarrollo de componentes y Microservicios.
+Conexión y operaciones con base de datos no relacionales (ElasticSearch, MongoDB).
+Consumo de servicios REST.
+Consumo de servicios SOAP.
+
+Bases de Datos
+Creación y operación con índices en ElasticSearch.
+Creación de colecciones y operaciones en MongoDB.
+Creación, modificación y operaciones en MySQL.
+
+Despliegue Aplicaciones
+Despliegue y configuracion en CloudFoundry.
+Despliegue y configuracion en Pivotal.
+Despliegue en Microsoft Azure (Visual Studio Code).
+Uso de Jenkins para despliegues.
+
+
+Pruebas Unitarias
+JUnit Para realizar Pruebas Unitarias.
+SonarQube para análisis de código estático.
+
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Desarrollo de Conjunto de 3 Microservicios de transacciones de pagos para OXXO y Despliegue a nivel Nacional.
+Desarrollo de Microservicios para Depuración de Clientes por medio de CRUD de reglas definidas y configurables. 
+Elaboración de estimaciones autorizadas e implementadas para cambios y creación de componentes y Microservicios.
+Desarrollo de Soluciones para nuevos flujos de negocio y, optimizadas para agilizar transacciones en flujo de negocio interno de NMP. | Funciones:
+Microservicios
+Patrones de diseño CRUD para Microservicios.
+Creación de arquetipos para Microservicios. 
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+Propuestas de solución para Microservicios. 
+Estimaciones para desarrollo de componentes y Microservicios.
+Conexión y operaciones con base de datos no relacionales (ElasticSearch, MongoDB).
+Consumo de servicios REST.
+Consumo de servicios SOAP.
+
+Bases de Datos
+Creación y operación con índices en ElasticSearch.
+Creación de colecciones y operaciones en MongoDB.
+Creación, modificación y operaciones en MySQL.
+
+Despliegue Aplicaciones
+Despliegue y configuracion en CloudFoundry.
+Despliegue y configuracion en Pivotal.
+Despliegue en Microsoft Azure (Visual Studio Code).
+Uso de Jenkins para despliegues.
+
+
+Pruebas Unitarias
+JUnit Para realizar Pruebas Unitarias.
+SonarQube para análisis de código estático.
+
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Desarrollo de Conjunto de 3 Microservicios de transacciones de pagos para OXXO y Despliegue a nivel Nacional.
+Desarrollo de Microservicios para Depuración de Clientes por medio de CRUD de reglas definidas y configurables. 
+Elaboración de estimaciones autorizadas e implementadas para cambios y creación de componentes y Microservicios.
+Desarrollo de Soluciones para nuevos flujos de negocio y, optimizadas para agilizar transacciones en flujo de negocio interno de NMP. | Funciones:
+Microservicios
+Patrones de diseño CRUD para Microservicios.
+Creación de arquetipos para Microservicios. 
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+Propuestas de solución para Microservicios. 
+Estimaciones para desarrollo de componentes y Microservicios.
+Conexión y operaciones con base de datos no relacionales (ElasticSearch, MongoDB).
+Consumo de servicios REST.
+Consumo de servicios SOAP.
+
+Bases de Datos
+Creación y operación con índices en ElasticSearch.
+Creación de colecciones y operaciones en MongoDB.
+Creación, modificación y operaciones en MySQL.
+
+Despliegue Aplicaciones
+Despliegue y configuracion en CloudFoundry.
+Despliegue y configuracion en Pivotal.
+Despliegue en Microsoft Azure (Visual Studio Code).
+Uso de Jenkins para despliegues.
+
+
+Pruebas Unitarias
+JUnit Para realizar Pruebas Unitarias.
+SonarQube para análisis de código estático.
+
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Desarrollo de Conjunto de 3 Microservicios de transacciones de pagos para OXXO y Despliegue a nivel Nacional.
+Desarrollo de Microservicios para Depuración de Clientes por medio de CRUD de reglas definidas y configurables. 
+Elaboración de estimaciones autorizadas e implementadas para cambios y creación de componentes y Microservicios.
+Desarrollo de Soluciones para nuevos flujos de negocio y, optimizadas para agilizar transacciones en flujo de negocio interno de NMP. | Funciones:
+Microservicios
+Patrones de diseño CRUD para Microservicios.
+Creación de arquetipos para Microservicios. 
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+Propuestas de solución para Microservicios. 
+Estimaciones para desarrollo de componentes y Microservicios.
+Conexión y operaciones con base de datos no relacionales (ElasticSearch, MongoDB).
+Consumo de servicios REST.
+Consumo de servicios SOAP.
+
+Bases de Datos
+Creación y operación con índices en ElasticSearch.
+Creación de colecciones y operaciones en MongoDB.
+Creación, modificación y operaciones en MySQL.
+
+Despliegue Aplicaciones
+Despliegue y configuracion en CloudFoundry.
+Despliegue y configuracion en Pivotal.
+Despliegue en Microsoft Azure (Visual Studio Code).
+Uso de Jenkins para despliegues.
+
+
+Pruebas Unitarias
+JUnit Para realizar Pruebas Unitarias.
+SonarQube para análisis de código estático.
+
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Desarrollo de Conjunto de 3 Microservicios de transacciones de pagos para OXXO y Despliegue a nivel Nacional.
+Desarrollo de Microservicios para Depuración de Clientes por medio de CRUD de reglas definidas y configurables. 
+Elaboración de estimaciones autorizadas e implementadas para cambios y creación de componentes y Microservicios.
+Desarrollo de Soluciones para nuevos flujos de negocio y, optimizadas para agilizar transacciones en flujo de negocio interno de NMP. | Funciones:
+Microservicios
+Patrones de diseño CRUD para Microservicios.
+Creación de arquetipos para Microservicios. 
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+Propuestas de solución para Microservicios. 
+Estimaciones para desarrollo de componentes y Microservicios.
+Conexión y operaciones con base de datos no relacionales (ElasticSearch, MongoDB).
+Consumo de servicios REST.
+Consumo de servicios SOAP.
+
+Bases de Datos
+Creación y operación con índices en ElasticSearch.
+Creación de colecciones y operaciones en MongoDB.
+Creación, modificación y operaciones en MySQL.
+
+Despliegue Aplicaciones
+Despliegue y configuracion en CloudFoundry.
+Despliegue y configuracion en Pivotal.
+Despliegue en Microsoft Azure (Visual Studio Code).
+Uso de Jenkins para despliegues.
+
+
+Pruebas Unitarias
+JUnit Para realizar Pruebas Unitarias.
+SonarQube para análisis de código estático.
+
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Desarrollo de Conjunto de 3 Microservicios de transacciones de pagos para OXXO y Despliegue a nivel Nacional.
+Desarrollo de Microservicios para Depuración de Clientes por medio de CRUD de reglas definidas y configurables. 
+Elaboración de estimaciones autorizadas e implementadas para cambios y creación de componentes y Microservicios.
+Desarrollo de Soluciones para nuevos flujos de negocio y, optimizadas para agilizar transacciones en flujo de negocio interno de NMP. | Funciones:
+Microservicios
+Patrones de diseño CRUD para Microservicios.
+Creación de arquetipos para Microservicios. 
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+Propuestas de solución para Microservicios. 
+Estimaciones para desarrollo de componentes y Microservicios.
+Conexión y operaciones con base de datos no relacionales (ElasticSearch, MongoDB).
+Consumo de servicios REST.
+Consumo de servicios SOAP.
+
+Bases de Datos
+Creación y operación con índices en ElasticSearch.
+Creación de colecciones y operaciones en MongoDB.
+Creación, modificación y operaciones en MySQL.
+
+Despliegue Aplicaciones
+Despliegue y configuracion en CloudFoundry.
+Despliegue y configuracion en Pivotal.
+Despliegue en Microsoft Azure (Visual Studio Code).
+Uso de Jenkins para despliegues.
+
+
+Pruebas Unitarias
+JUnit Para realizar Pruebas Unitarias.
+SonarQube para análisis de código estático.
+
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Desarrollo de Conjunto de 3 Microservicios de transacciones de pagos para OXXO y Despliegue a nivel Nacional.
+Desarrollo de Microservicios para Depuración de Clientes por medio de CRUD de reglas definidas y configurables. 
+Elaboración de estimaciones autorizadas e implementadas para cambios y creación de componentes y Microservicios.
+Desarrollo de Soluciones para nuevos flujos de negocio y, optimizadas para agilizar transacciones en flujo de negocio interno de NMP.
+Herramientas: | Spring boot, MySQL, MongoDB, ElasticSearch, Postman, Insomnia, Peticiones Oracle Api Gateway, AWS, Apache Kafka , RabbitMQ, Azure, Archi (Diagramación), Swagger, Apiary, Docker, Visual Studio Code, Node JS, Paqueteria de Office. | Spring boot, MySQL, MongoDB, ElasticSearch, Postman, Insomnia, Peticiones Oracle Api Gateway, AWS, Apache Kafka , RabbitMQ, Azure, Archi (Diagramación), Swagger, Apiary, Docker, Visual Studio Code, Node JS, Paqueteria de Office. | Spring boot, MySQL, MongoDB, ElasticSearch, Postman, Insomnia, Peticiones Oracle Api Gateway, AWS, Apache Kafka , RabbitMQ, Azure, Archi (Diagramación), Swagger, Apiary, Docker, Visual Studio Code, Node JS, Paqueteria de Office. | Spring boot, MySQL, MongoDB, ElasticSearch, Postman, Insomnia, Peticiones Oracle Api Gateway, AWS, Apache Kafka , RabbitMQ, Azure, Archi (Diagramación), Swagger, Apiary, Docker, Visual Studio Code, Node JS, Paqueteria de Office. | Spring boot, MySQL, MongoDB, ElasticSearch, Postman, Insomnia, Peticiones Oracle Api Gateway, AWS, Apache Kafka , RabbitMQ, Azure, Archi (Diagramación), Swagger, Apiary, Docker, Visual Studio Code, Node JS, Paqueteria de Office.
+Nombre de la empresa:
+SOFTTEK - BBVA | Nombre de la empresa:
+SOFTTEK - BBVA | Lugar:
+CDMX | Puesto:
+Desarrollador de Sistemas | Desde: 
+04 de Febrero de 2020 | A: 
+28 de Febrero de 2020
+Funciones:
+APX
+Patrones de diseño CRUD.
+Creación de Componentes DTO, Librerías, Transacciones para ONLINE.
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+JaCoCo para cobertura del código.
+Algoritmia
+Algoritmos de ordenamiento.
+Algoritmos de búsqueda.
+Modelos matemáticos.
+Temas selectos de Java: 
+Manejo de arreglos. 
+Manejo de cadenas.
+Tipos de datos primitivos, compuestos.
+Programación Orientada a Objetos: 
+Herencia.
+Polimorfismo.
+Encapsulamiento.
+Shadowing.
+Interfaces.
+JUnit
+Para realizar Pruebas Unitarias.
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Manejo del entorno de desarrollo para creación de componentes APX. | Funciones:
+APX
+Patrones de diseño CRUD.
+Creación de Componentes DTO, Librerías, Transacciones para ONLINE.
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+JaCoCo para cobertura del código.
+Algoritmia
+Algoritmos de ordenamiento.
+Algoritmos de búsqueda.
+Modelos matemáticos.
+Temas selectos de Java: 
+Manejo de arreglos. 
+Manejo de cadenas.
+Tipos de datos primitivos, compuestos.
+Programación Orientada a Objetos: 
+Herencia.
+Polimorfismo.
+Encapsulamiento.
+Shadowing.
+Interfaces.
+JUnit
+Para realizar Pruebas Unitarias.
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Manejo del entorno de desarrollo para creación de componentes APX. | Funciones:
+APX
+Patrones de diseño CRUD.
+Creación de Componentes DTO, Librerías, Transacciones para ONLINE.
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+JaCoCo para cobertura del código.
+Algoritmia
+Algoritmos de ordenamiento.
+Algoritmos de búsqueda.
+Modelos matemáticos.
+Temas selectos de Java: 
+Manejo de arreglos. 
+Manejo de cadenas.
+Tipos de datos primitivos, compuestos.
+Programación Orientada a Objetos: 
+Herencia.
+Polimorfismo.
+Encapsulamiento.
+Shadowing.
+Interfaces.
+JUnit
+Para realizar Pruebas Unitarias.
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Manejo del entorno de desarrollo para creación de componentes APX. | Funciones:
+APX
+Patrones de diseño CRUD.
+Creación de Componentes DTO, Librerías, Transacciones para ONLINE.
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+JaCoCo para cobertura del código.
+Algoritmia
+Algoritmos de ordenamiento.
+Algoritmos de búsqueda.
+Modelos matemáticos.
+Temas selectos de Java: 
+Manejo de arreglos. 
+Manejo de cadenas.
+Tipos de datos primitivos, compuestos.
+Programación Orientada a Objetos: 
+Herencia.
+Polimorfismo.
+Encapsulamiento.
+Shadowing.
+Interfaces.
+JUnit
+Para realizar Pruebas Unitarias.
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Manejo del entorno de desarrollo para creación de componentes APX. | Funciones:
+APX
+Patrones de diseño CRUD.
+Creación de Componentes DTO, Librerías, Transacciones para ONLINE.
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+JaCoCo para cobertura del código.
+Algoritmia
+Algoritmos de ordenamiento.
+Algoritmos de búsqueda.
+Modelos matemáticos.
+Temas selectos de Java: 
+Manejo de arreglos. 
+Manejo de cadenas.
+Tipos de datos primitivos, compuestos.
+Programación Orientada a Objetos: 
+Herencia.
+Polimorfismo.
+Encapsulamiento.
+Shadowing.
+Interfaces.
+JUnit
+Para realizar Pruebas Unitarias.
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Manejo del entorno de desarrollo para creación de componentes APX. | Funciones:
+APX
+Patrones de diseño CRUD.
+Creación de Componentes DTO, Librerías, Transacciones para ONLINE.
+Manejo de pruebas unitarias con JUnit utilizando Mocks.
+JaCoCo para cobertura del código.
+Algoritmia
+Algoritmos de ordenamiento.
+Algoritmos de búsqueda.
+Modelos matemáticos.
+Temas selectos de Java: 
+Manejo de arreglos. 
+Manejo de cadenas.
+Tipos de datos primitivos, compuestos.
+Programación Orientada a Objetos: 
+Herencia.
+Polimorfismo.
+Encapsulamiento.
+Shadowing.
+Interfaces.
+JUnit
+Para realizar Pruebas Unitarias.
+MAVEN: 
+Creación de proyectos. 
+Comandos en Maven para Limpiar, Compilar, Empaquetar e Instalar los Componentes
+Logros:
+Manejo del entorno de desarrollo para creación de componentes APX.
+Herramientas: | SQL SERVER 2005, MySQL Workbench, TOAD FOR ORACLE, POSTMAN, EXCEL , VISOR DE PETICIONES AL MIDDLEWARE, ECLIPSE, SPRING STS 4.5.1. | SQL SERVER 2005, MySQL Workbench, TOAD FOR ORACLE, POSTMAN, EXCEL , VISOR DE PETICIONES AL MIDDLEWARE, ECLIPSE, SPRING STS 4.5.1. | SQL SERVER 2005, MySQL Workbench, TOAD FOR ORACLE, POSTMAN, EXCEL , VISOR DE PETICIONES AL MIDDLEWARE, ECLIPSE, SPRING STS 4.5.1. | SQL SERVER 2005, MySQL Workbench, TOAD FOR ORACLE, POSTMAN, EXCEL , VISOR DE PETICIONES AL MIDDLEWARE, ECLIPSE, SPRING STS 4.5.1. | SQL SERVER 2005, MySQL Workbench, TOAD FOR ORACLE, POSTMAN, EXCEL , VISOR DE PETICIONES AL MIDDLEWARE, ECLIPSE, SPRING STS 4.5.1.
+Nombre de la empresa:
+HITSS CONSULTING SA DE CV | Nombre de la empresa:
+HITSS CONSULTING SA DE CV | Lugar:
+Parque Vía, Cuauhtémoc | Puesto:
+ Analista de Sistemas | Desde: 
+Enero 2018 | A: 
+Enero 2020
+Funciones:
+
+
+Levantamiento de requerimientos para nuevos desarrollos y mejoras a los sistemas de de Telmex Planta Externa.
+Definición de requerimientos con fábrica de software.
+Diseño de infraestructura de servidores para alta disponibilidad de sistemas expuestos a internet.
+Supervisar el desarrollo de sistemas para Telmex Planta Externa
+Pruebas de servicios REST, POST y GET.
+Testeo de los sistemas WEB, Android y de Aplicación.
+Manejo de bitácora para seguimiento. 
+Soporte al usuario final.
+Administración de bases de datos MySQL y Oracle.
+Captura y seguimiento de controles de cambios para posteos de mejoras y nuevos sistemas de Telmex.
+Pruebas de Campo.
+Nivelación de información de bases de datos.
+Logros:
+Implementación de Citas Telmex a nivel nacional
+Implementación de sistema Applex para técnicos Telmex y Terceros a nivel nacional
+Sistema Middleware de alta disponibilidad.
+Mejora en el diseño de los procesos de carga de información de tareas para Telmex Planta Externa. | Funciones:
+
+
+Levantamiento de requerimientos para nuevos desarrollos y mejoras a los sistemas de de Telmex Planta Externa.
+Definición de requerimientos con fábrica de software.
+Diseño de infraestructura de servidores para alta disponibilidad de sistemas expuestos a internet.
+Supervisar el desarrollo de sistemas para Telmex Planta Externa
+Pruebas de servicios REST, POST y GET.
+Testeo de los sistemas WEB, Android y de Aplicación.
+Manejo de bitácora para seguimiento. 
+Soporte al usuario final.
+Administración de bases de datos MySQL y Oracle.
+Captura y seguimiento de controles de cambios para posteos de mejoras y nuevos sistemas de Telmex.
+Pruebas de Campo.
+Nivelación de información de bases de datos.
+Logros:
+Implementación de Citas Telmex a nivel nacional
+Implementación de sistema Applex para técnicos Telmex y Terceros a nivel nacional
+Sistema Middleware de alta disponibilidad.
+Mejora en el diseño de los procesos de carga de información de tareas para Telmex Planta Externa. | Funciones:
+
+
+Levantamiento de requerimientos para nuevos desarrollos y mejoras a los sistemas de de Telmex Planta Externa.
+Definición de requerimientos con fábrica de software.
+Diseño de infraestructura de servidores para alta disponibilidad de sistemas expuestos a internet.
+Supervisar el desarrollo de sistemas para Telmex Planta Externa
+Pruebas de servicios REST, POST y GET.
+Testeo de los sistemas WEB, Android y de Aplicación.
+Manejo de bitácora para seguimiento. 
+Soporte al usuario final.
+Administración de bases de datos MySQL y Oracle.
+Captura y seguimiento de controles de cambios para posteos de mejoras y nuevos sistemas de Telmex.
+Pruebas de Campo.
+Nivelación de información de bases de datos.
+Logros:
+Implementación de Citas Telmex a nivel nacional
+Implementación de sistema Applex para técnicos Telmex y Terceros a nivel nacional
+Sistema Middleware de alta disponibilidad.
+Mejora en el diseño de los procesos de carga de información de tareas para Telmex Planta Externa. | Funciones:
+
+
+Levantamiento de requerimientos para nuevos desarrollos y mejoras a los sistemas de de Telmex Planta Externa.
+Definición de requerimientos con fábrica de software.
+Diseño de infraestructura de servidores para alta disponibilidad de sistemas expuestos a internet.
+Supervisar el desarrollo de sistemas para Telmex Planta Externa
+Pruebas de servicios REST, POST y GET.
+Testeo de los sistemas WEB, Android y de Aplicación.
+Manejo de bitácora para seguimiento. 
+Soporte al usuario final.
+Administración de bases de datos MySQL y Oracle.
+Captura y seguimiento de controles de cambios para posteos de mejoras y nuevos sistemas de Telmex.
+Pruebas de Campo.
+Nivelación de información de bases de datos.
+Logros:
+Implementación de Citas Telmex a nivel nacional
+Implementación de sistema Applex para técnicos Telmex y Terceros a nivel nacional
+Sistema Middleware de alta disponibilidad.
+Mejora en el diseño de los procesos de carga de información de tareas para Telmex Planta Externa. | Funciones:
+
+
+Levantamiento de requerimientos para nuevos desarrollos y mejoras a los sistemas de de Telmex Planta Externa.
+Definición de requerimientos con fábrica de software.
+Diseño de infraestructura de servidores para alta disponibilidad de sistemas expuestos a internet.
+Supervisar el desarrollo de sistemas para Telmex Planta Externa
+Pruebas de servicios REST, POST y GET.
+Testeo de los sistemas WEB, Android y de Aplicación.
+Manejo de bitácora para seguimiento. 
+Soporte al usuario final.
+Administración de bases de datos MySQL y Oracle.
+Captura y seguimiento de controles de cambios para posteos de mejoras y nuevos sistemas de Telmex.
+Pruebas de Campo.
+Nivelación de información de bases de datos.
+Logros:
+Implementación de Citas Telmex a nivel nacional
+Implementación de sistema Applex para técnicos Telmex y Terceros a nivel nacional
+Sistema Middleware de alta disponibilidad.
+Mejora en el diseño de los procesos de carga de información de tareas para Telmex Planta Externa. | Funciones:
+
+
+Levantamiento de requerimientos para nuevos desarrollos y mejoras a los sistemas de de Telmex Planta Externa.
+Definición de requerimientos con fábrica de software.
+Diseño de infraestructura de servidores para alta disponibilidad de sistemas expuestos a internet.
+Supervisar el desarrollo de sistemas para Telmex Planta Externa
+Pruebas de servicios REST, POST y GET.
+Testeo de los sistemas WEB, Android y de Aplicación.
+Manejo de bitácora para seguimiento. 
+Soporte al usuario final.
+Administración de bases de datos MySQL y Oracle.
+Captura y seguimiento de controles de cambios para posteos de mejoras y nuevos sistemas de Telmex.
+Pruebas de Campo.
+Nivelación de información de bases de datos.
+Logros:
+Implementación de Citas Telmex a nivel nacional
+Implementación de sistema Applex para técnicos Telmex y Terceros a nivel nacional
+Sistema Middleware de alta disponibilidad.
+Mejora en el diseño de los procesos de carga de información de tareas para Telmex Planta Externa.
+Herramientas: | SQL SERVER 2005, MySQL Workbench, TOAD FOR ORACLE, POSTMAN, EXCEL, VISOR DE PETICIONES AL MIDDLEWARE. | SQL SERVER 2005, MySQL Workbench, TOAD FOR ORACLE, POSTMAN, EXCEL, VISOR DE PETICIONES AL MIDDLEWARE. | SQL SERVER 2005, MySQL Workbench, TOAD FOR ORACLE, POSTMAN, EXCEL, VISOR DE PETICIONES AL MIDDLEWARE. | SQL SERVER 2005, MySQL Workbench, TOAD FOR ORACLE, POSTMAN, EXCEL, VISOR DE PETICIONES AL MIDDLEWARE. | SQL SERVER 2005, MySQL Workbench, TOAD FOR ORACLE, POSTMAN, EXCEL, VISOR DE PETICIONES AL MIDDLEWARE.
+Nombre de la empresa:
+TELEFONOS DE MEXICO SAB DE CV | Nombre de la empresa:
+TELEFONOS DE MEXICO SAB DE CV | Lugar: 
+Veronica Anzures, Miguel Hidalgo | Puesto: 
+Becario | Desde: 
+Julio 2017 | A: 
+Diciembre 2017
+Funciones:
+Homologación de software para equipos terminales.
+Evaluación de rendimiento WiFi y Ethernet de equipos terminales (ONTs y MODEMS).
+Manejo de bitácoras de seguimiento.
+Soporte técnico al usuario con fallas de aprovisionamiento de servicios de Internet y VoIP. 
+Manejo de analizador de protocolos para pruebas de comunicación en ONT´s y MODEMS. 
+Seguimiento a fallas en el software con proveedor.
+Configuración de VPNs
+
+Logros:
+Implementación de procesos nuevos para la evaluación completa de hardware y software de     dispositivos terminales.
+Solución a problemas de aprovisionamiento de datos y voz a cliente Telmex. | Funciones:
+Homologación de software para equipos terminales.
+Evaluación de rendimiento WiFi y Ethernet de equipos terminales (ONTs y MODEMS).
+Manejo de bitácoras de seguimiento.
+Soporte técnico al usuario con fallas de aprovisionamiento de servicios de Internet y VoIP. 
+Manejo de analizador de protocolos para pruebas de comunicación en ONT´s y MODEMS. 
+Seguimiento a fallas en el software con proveedor.
+Configuración de VPNs
+
+Logros:
+Implementación de procesos nuevos para la evaluación completa de hardware y software de     dispositivos terminales.
+Solución a problemas de aprovisionamiento de datos y voz a cliente Telmex. | Funciones:
+Homologación de software para equipos terminales.
+Evaluación de rendimiento WiFi y Ethernet de equipos terminales (ONTs y MODEMS).
+Manejo de bitácoras de seguimiento.
+Soporte técnico al usuario con fallas de aprovisionamiento de servicios de Internet y VoIP. 
+Manejo de analizador de protocolos para pruebas de comunicación en ONT´s y MODEMS. 
+Seguimiento a fallas en el software con proveedor.
+Configuración de VPNs
+
+Logros:
+Implementación de procesos nuevos para la evaluación completa de hardware y software de     dispositivos terminales.
+Solución a problemas de aprovisionamiento de datos y voz a cliente Telmex. | Funciones:
+Homologación de software para equipos terminales.
+Evaluación de rendimiento WiFi y Ethernet de equipos terminales (ONTs y MODEMS).
+Manejo de bitácoras de seguimiento.
+Soporte técnico al usuario con fallas de aprovisionamiento de servicios de Internet y VoIP. 
+Manejo de analizador de protocolos para pruebas de comunicación en ONT´s y MODEMS. 
+Seguimiento a fallas en el software con proveedor.
+Configuración de VPNs
+
+Logros:
+Implementación de procesos nuevos para la evaluación completa de hardware y software de     dispositivos terminales.
+Solución a problemas de aprovisionamiento de datos y voz a cliente Telmex. | Funciones:
+Homologación de software para equipos terminales.
+Evaluación de rendimiento WiFi y Ethernet de equipos terminales (ONTs y MODEMS).
+Manejo de bitácoras de seguimiento.
+Soporte técnico al usuario con fallas de aprovisionamiento de servicios de Internet y VoIP. 
+Manejo de analizador de protocolos para pruebas de comunicación en ONT´s y MODEMS. 
+Seguimiento a fallas en el software con proveedor.
+Configuración de VPNs
+
+Logros:
+Implementación de procesos nuevos para la evaluación completa de hardware y software de     dispositivos terminales.
+Solución a problemas de aprovisionamiento de datos y voz a cliente Telmex. | Funciones:
+Homologación de software para equipos terminales.
+Evaluación de rendimiento WiFi y Ethernet de equipos terminales (ONTs y MODEMS).
+Manejo de bitácoras de seguimiento.
+Soporte técnico al usuario con fallas de aprovisionamiento de servicios de Internet y VoIP. 
+Manejo de analizador de protocolos para pruebas de comunicación en ONT´s y MODEMS. 
+Seguimiento a fallas en el software con proveedor.
+Configuración de VPNs
+
+Logros:
+Implementación de procesos nuevos para la evaluación completa de hardware y software de     dispositivos terminales.
+Solución a problemas de aprovisionamiento de datos y voz a cliente Telmex.
+Herramientas: | WIRESHARK, UBUNTU, EXCEL, PuTTY, CISCO VPN, ECO MANAGE, ECO ASSIST. | WIRESHARK, UBUNTU, EXCEL, PuTTY, CISCO VPN, ECO MANAGE, ECO ASSIST. | WIRESHARK, UBUNTU, EXCEL, PuTTY, CISCO VPN, ECO MANAGE, ECO ASSIST. | WIRESHARK, UBUNTU, EXCEL, PuTTY, CISCO VPN, ECO MANAGE, ECO ASSIST. | WIRESHARK, UBUNTU, EXCEL, PuTTY, CISCO VPN, ECO MANAGE, ECO ASSIST.
+ESTUDIOS:
+Escuela:   
+Tecnológico de Estudios Superiores de Ecatepec | Lugar:  
+Ecatepec, Estado de México
+Carrera: 
+Ingeniería en Sistemas Computacionales | Fecha de duración: 
+2013 – 2018
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Fundamentos de Administración de Proyectos-PMP | Softtek University | 2024
+Patrones de Diseño | Softtek University | 2023
+DevOps Experiencia con Azure Básico | Softtek University | 2023
+Introducción AWS | Softtek University | 2023
+Cloud Operations | Softtek University | 2023
+Introducción a Microsoft Azure | Softtek University | 2023
+Arquitectura de Sistemas R3 | Softtek University | 2023
+Taller de Microservicios | Softtek University | 2023
+IDIOMAS:
+Español: | Nativo
+Inglés: | 40%
+CONOCIMIENTOS TÉCNICOS:
+Perfil principal: | Desarrollador JAVA
+Perfil secundario: | Business Analyst
+Sistemas operativos: | Windows\Linux
+Lenguajes de programación: | Java, .NET
+Bases de datos: | ElasticSearch, MongoDB, Oracle, Sql Server, MySQL, POSTGRESQL
+Otros: | Spring STS, Visual Studio Code, Android Studio, POSTMAN, WIRESHARK, PAQUETERÍA DE OFFICE

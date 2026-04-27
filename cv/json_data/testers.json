@@ -248,67 +248,102 @@
     ]
   },
   {
-    "nombre": "Giovanni Barragán García",
-    "mail": "g19.barragan@gmail.com",
-    "genero": "Masculino",
-    "fecha_nacimiento": "5/7/1994",
-    "rfc": "BAGG940705SG9",
-    "curp": "BAGG940705HDFRRV01",
+    "nombre": "Giovanni Barragan Garcia",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
     "no_cedula": "10508108",
     "fecha_cedula": "18/09/2017",
     "rol_propuesto": "Tester",
-    "resumen_profesional": "Cuento con al menos 2 años de experiencia en pruebas de software, orientado a garantizar el cumplimiento de requerimientos funcionales y la calidad de los productos mediante la planeación y ejecución de pruebas. He liderado y coordinado actividades de prueba en entornos ágiles, estableciendo matrices de trazabilidad, revisiones por pares y gestión de defectos para validar entregables.\n\nMi trabajo incluye análisis de requerimientos, diseño y generación de casos en Testlink, ejecución y control de pruebas de regresión y Pruebas de Aceptación de Usuario (UAT), consultas a bases de datos para validación y apoyo en automatización con herramientas como Selenium y Postman. Aplico pensamiento lógico, atención al detalle y comunicación efectiva para entregar reportes y métricas que facilitan la toma de decisiones.",
+    "resumen_profesional": "Dispongo de al menos 2 años de experiencia en pruebas de software. Me responsabilizo del diseño y la ejecución de pruebas funcionales e integrales, así como de la evaluación de sus resultados.\n\nHe liderado la planeación, diseño y ejecución de pruebas en entornos críticos, desarrollando matrices de trazabilidad y asegurando la conformidad de los entregables. Aplico metodologías de pruebas estructuradas para garantizar continuidad de servicio y mitigación de riesgos, favoreciendo la comunicación con equipos técnicos y usuarios.\n\nTrabajo en colaboración con equipos multidisciplinarios para validar requerimientos, generar evidencia de pruebas y gestionar defectos, manteniendo atención al detalle, pensamiento lógico y adaptabilidad en entornos ágiles y tradicionales.",
     "experiencia_laboral": [
       {
         "empresa": "Softtek – IFT",
         "puesto": "Líder de pruebas",
-        "fecha_inicio": "02 septiembre 2024",
-        "fecha_fin": "Actual",
+        "fecha_inicio": "2 septiembre 2024",
+        "fecha_fin": "Actualmente",
         "actividades_principales": [
-          "Superviso que se cumplan los requerimientos funcionales establecidos para el producto y me aseguro de que esté libre de fallas mediante la planeación y ejecución de pruebas apoyadas en una matriz. Habilidades en: metodologías de pruebas, pensamiento lógico, comunicación, atención al detalle, adaptabilidad y flexibilidad",
-          "Elaboro el plan y la estrategia de pruebas para IFT.",
-          "Implemento un template para carga de casos de prueba a teatlink.",
-          "Diseño casos de prueba en Testlink.",
-          "Genero peer review para garantizar calidad de entregables de diseño.",
-          "Realizo seguimiento y levantamiento de defectos en Mantis.",
-          "Analicé y diseñé documentación para generación de matrices de casos de prueba.",
-          "Generé casos de prueba aplicando técnicas de diseño de casos de prueba.",
-          "Realicé seguimiento y control de pruebas manuales y de regresión.",
-          "Creé scripts para consulta de datos en BDD.",
-          "Generé peer review para garantizar calidad de entregables de diseño.",
-          "Generé diagramas para entendimiento y revisión con usuarios.",
-          "Generé matrices de datos y trazabilidad.",
-          "Realicé seguimiento y asignación de tareas en Jira.",
-          "Creé FMEA para identificación y mitigación de riesgos.",
-          "Planifiqué y organicé pruebas desde la etapa de análisis hasta el cierre."
+          "Superviso el cumplimiento de los requerimientos funcionales del producto y verifico que esté libre de fallas, mediante la planificación y ejecución de pruebas apoyadas en una matriz que valida de forma específica el software desarrollado. Dispongo de habilidades en metodologías de pruebas, pensamiento lógico, comunicación efectiva, atención al detalle y adaptabilidad.",
+          "Brindo soporte al usuario y cliente durante las pruebas de aceptación.",
+          "Participo en la elaboración del plan de pruebas.",
+          "Analizo los insumos para obtener la cobertura y los casos de prueba (diagramas de casos de uso, especificaciones técnicas, prototipos, modelos de base de datos, entre otros).",
+          "Utilizo técnicas como partición equivalente, análisis de límites y árboles de decisión para identificar casos de prueba.",
+          "Diseño los casos de prueba, generando u obteniendo datos de prueba y definiendo los resultados esperados.",
+          "Ejecuto los casos de prueba y valido el resultado real contra el resultado esperado.",
+          "Documento los defectos identificados en la herramienta correspondiente.",
+          "Al diseñar las pruebas, aplico los controles definidos por el Líder de Pruebas para la validación de datos de entrada y la protección de datos de prueba.",
+          "Cuento con fuertes habilidades de análisis y un sólido dominio en el diseño de casos de prueba y matrices de prueba. Tengo experiencia en pruebas funcionales y de regresión, donde desarrollo, implemento y analizo los resultados, además de generar y administrar los datos de prueba. También gestiono los ambientes de prueba y su configuración, asegurando que las entregas sean completas y correctas. Poseo conocimientos en bases de datos como SQL (Lenguaje para gestión y consulta de bases de datos relacionales) y Oracle (Motor de base de datos empresarial), así como la capacidad de anticipar posibles soluciones ante situaciones complejas. Me distingo por mi alta productividad, precisión en la estimación de tareas y excelentes habilidades de comunicación tanto escrita como verbal.",
+          "He usado la certificación ISTQB Certified Tester Advanced Level - Test Manager- Junta Internacional de Calificaciones de Pruebas de Software (ISTQB) para gestión avanzada de pruebas y liderazgo.",
+          "He usado la certificación Scrum Foundation Professional Certificate para aplicar marcos ágiles basados en Scrum, considerando roles, eventos y artefactos.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.",
+          "STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.",
+          "STE: Ejecuto escenarios de prueba.",
+          "INT: Diseño y preparo testware.",
+          "Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de pruebas del usuario.",
+          "Creo el plan de pruebas y la estrategia de pruebas para IFT.",
+          "Implemento un template para la carga de casos de prueba a Testlink (Herramienta para gestión de casos de prueba)..",
+          "Analizo documentación para generar matrices de casos de prueba.",
+          "Diseño casos de prueba en Testlink (Herramienta para gestión de casos de prueba).",
+          "Realizo seguimiento y control de pruebas manuales y de regresión.",
+          "Hago seguimiento y levanto defectos en Mantis (Sistema de gestión de incidencias).",
+          "Analizo y diseño documentación para generación de matrices de casos de prueba.",
+          "Genero casos de prueba aplicando técnicas de diseño de casos de prueba.",
+          "Hago seguimiento y control de pruebas manuales y de regresión.",
+          "Creo scripts para consulta de datos en BDD.",
+          "Genero peer reviews para garantizar la calidad de entregables de diseño.",
+          "Genero diagramas para entendimiento y revisión con usuarios.",
+          "Genero matrices de datos y trazabilidad.",
+          "Hago seguimiento y asigno tareas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+          "Creo FMEA para identificación y mitigación de riesgos.",
+          "Planifico y organizo pruebas desde la etapa de análisis hasta el cierre."
         ]
       },
       {
         "empresa": "Softtek – Digital office",
         "puesto": "Líder de pruebas",
-        "fecha_inicio": "02 agosto 2022",
+        "fecha_inicio": "2 agosto 2022",
         "fecha_fin": "31 agosto 2024",
         "actividades_principales": [
-          "Analicé y diseñé documentación para generación de matrices de casos de prueba.",
-          "Generé casos de prueba aplicando técnicas de diseño de casos de prueba.",
-          "Realicé seguimiento y control de pruebas manuales y de regresión.",
-          "Creé scripts para consulta de datos en BDD.",
-          "Generé peer review para garantizar calidad de entregables de diseño.",
-          "Generé diagramas para entendimiento y revisión con usuarios.",
-          "Generé matrices de datos y trazabilidad.",
-          "Realicé seguimiento y asignación de tareas en Jira.",
-          "Creé FMEA para identificación y mitigación de riesgos.",
-          "Planifiqué y organicé pruebas desde la etapa de análisis hasta el cierre."
+          "Analizo y diseño documentación para generación de matrices de casos de prueba.",
+          "Genero casos de prueba aplicando técnicas de diseño de casos de prueba.",
+          "Hago seguimiento y control de pruebas manuales y de regresión.",
+          "Creo scripts para consulta de datos en BDD.",
+          "Genero peer reviews para garantizar la calidad de entregables de diseño.",
+          "Genero diagramas para entendimiento y revisión con usuarios.",
+          "Genero matrices de datos y trazabilidad.",
+          "Hago seguimiento y asigno tareas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).",
+          "Creo FMEA para identificación y mitigación de riesgos.",
+          "Planifico y organizo pruebas desde la etapa de análisis hasta el cierre."
         ]
       }
     ],
     "periodo_resumen_laboral": "La experiencia abarca desde 01 junio de 2017 hasta 01 agosto de 2022",
-    "resumen_laboral": "Durante este período me desempeñé como Líder de pruebas y Tester Sr., asumiendo responsabilidades de planeación, diseño y ejecución de pruebas, gestión de equipos y coordinación de actividades de prueba. Realicé estimaciones de esfuerzo, generación y revisión de matrices y planes de prueba, seguimiento y gestión de incidencias, soporte en pruebas de aceptación y reporte de métricas. Participé en la coordinación de automatización y en consultas a bases de datos para validación, manteniendo comunicación con partes interesadas y asegurando control de calidad en los entregables.",
+    "resumen_laboral": "Durante este período asumí responsabilidades orientadas a la calidad del software y la coordinación de equipos de pruebas. Me desempeñé como Líder de pruebas, Tester Sr. y gestor de proyectos TI, donde planifiqué, diseñé y supervisé la ejecución de pruebas funcionales, de regresión y de aceptación, además de liderar la generación de matrices, trazabilidad y reportes de estatus. Fomenté la colaboración con Partes interesadas (Stakeholders), apoyé la validación de requisitos y gestioné la resolución de incidencias.",
     "estudios": {
       "carrera": "Ingeniería en Sistemas de Información",
       "lugar": "CDMX",
       "periodo": "2015"
     },
+    "herramientas": [
+      {
+        "nombre": "Testlink"
+      },
+      {
+        "nombre": "Mantis"
+      },
+      {
+        "nombre": "Jira"
+      },
+      {
+        "nombre": "SQL"
+      },
+      {
+        "nombre": "Oracle"
+      }
+    ],
     "certificaciones": [
       {
         "nombre": "Scrum Foundation Professional Certificate (SFPC)",
@@ -331,7 +366,7 @@
     "no_cedula": "8275769",
     "fecha_cedula": "20/08/2013",
     "rol_propuesto": "Tester",
-    "resumen_profesional": "Cuento con más de dos años de experiencia en pruebas de software. \n\nSoy especialista en aseguramiento de la calidad con trayectoria en sectores regulados como banca y gobierno; lidero la planeación, diseño y ejecución de estrategias de pruebas para garantizar el cumplimiento de requisitos y la entrega de productos con baja tasa de fallas. Trabajo con metodologías ágiles y tradicionales, gestiono ciclos de pruebas y coordinación de Pruebas de Aceptación de Usuario (UAT), y participo en auditorías y cumplimiento normativo. \n\nMi enfoque está en garantizar eficiencia operativa y mitigación de riesgos mediante trazabilidad de requerimientos, métricas de calidad y mejora continua; comunico hallazgos con claridad y fomento la colaboración entre áreas para entregar soluciones confiables.",
+    "resumen_profesional": "Dispongo de al menos 2 años de experiencia en pruebas de software. Me responsabilizo del diseño y ejecución de pruebas funcionales e integrales, así como de la evaluación de sus resultados.\n\nSoy especialista en aseguramiento de calidad con amplia experiencia en sectores regulados, orientado a garantizar continuidad de servicio y cumplimiento de procesos. Lidero la planeación, diseño y ejecución de pruebas, desarrollo Matriz de Trazabilidad (Relación requisito→caso→ejecución→evidencia→defecto) y documentación de evidencia, enfocándome en mitigación de riesgos, eficiencia operativa y colaboración con áreas de desarrollo y clientes para entregar soluciones con baja tasa de fallas.",
     "experiencia_laboral": [
       {
         "empresa": "Softtek - IMSS",
@@ -339,16 +374,33 @@
         "fecha_inicio": "1 agosto 2025",
         "fecha_fin": "31 enero 2026",
         "actividades_principales": [
-          "Superviso el cumplimiento de los requerimientos funcionales del producto y verifico que esté libre de fallas mediante la planificación y ejecución de pruebas apoyadas en una matriz de trazabilidad que valide el software entregado. Habilidades en: metodologías de pruebas, pensamiento lógico, comunicación, atención al detalle, adaptabilidad y flexibilidad",
-          "Reúno y entiendo los requerimientos funcionales y no funcionales del sistema; participo en reuniones con Partes interesadas para aclarar dudas y validar especificaciones; elaboro casos de uso, historias de usuario o especificaciones funcionales; identifico criterios de aceptación y condiciones de prueba.",
-          "Diseño casos de prueba detallados con pasos, datos de entrada, resultados esperados y prerequisitos; defino matrices de trazabilidad entre requerimientos y pruebas; estimo el esfuerzo de pruebas y planifico actividades de pruebas; preparo ambientes de prueba y datos de prueba.",
-          "Ejecuto pruebas funcionales, de regresión, de integración, de sistema y de aceptación; registro resultados de pruebas y documento defectos encontrados; valido correcciones y realizo pruebas de revalidación.",
-          "Participé en proyecto de SAP Interfaz Gráfica de Usuario (GUI) S/4 HANA, ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos de cuentas por cobrar, finanzas y cuentas de mayor.",
+          "Superviso que se cumplan los requerimientos funcionales establecidos para el producto y que este se encuentre libre de fallas, mediante la planeación y ejecución de pruebas a través de una matriz que permite validar de manera específica el software construido. Cuento con habilidades técnicas en metodologías de pruebas, pensamiento lógico, habilidades de comunicación, atención al detalle, así como adaptabilidad y flexibilidad.",
+          "Brindo soporte al usuario o cliente durante las pruebas de aceptación.",
+          "Participo en la elaboración del plan de pruebas.",
+          "Realizo un análisis de los insumos para obtener la cobertura y los casos de prueba, revisando diagramas, casos de uso, especificaciones y prototipos.",
+          "Utilizo técnicas para identificar casos de prueba, como partición equivalente, análisis de límites y diagramas de flujo.",
+          "Diseño los casos de prueba, incluyendo la generación u obtención de datos de prueba y resultados esperados.",
+          "Ejecuto los casos de prueba validando el resultado real contra el resultado esperado.",
+          "Documento los defectos identificados en la herramienta correspondiente.",
+          "Al diseñar las pruebas, utilizo la definición establecida por el Líder de Pruebas sobre los controles adecuados para la validación de datos de entrada y la protección de datos de prueba.",
+          "Cuento con fuertes habilidades de análisis y un sólido dominio en el diseño de casos de prueba y matrices de prueba. Tengo experiencia en pruebas funcionales y de regresión, donde desarrollo, implemento y analizo los resultados, además de generar y administrar los datos de prueba. También gestiono los ambientes de prueba y su configuración, asegurando que las entregas sean completas y correctas. Poseo conocimientos en bases de datos como SQL (Lenguaje para gestión y consulta de bases de datos relacionales) y Oracle Database (Motor de base de datos empresarial), así como la capacidad de anticipar posibles soluciones ante situaciones complejas. Me distingo por mi alta productividad, precisión en la estimación de tareas y excelentes habilidades de comunicación tanto escrita como verbal.",
+          "He aplicado la certificación Certified Scrum Master (ScrumAlliance) en la gestión de proyectos bajo el enfoque ágil Scrum.",
+          "He usado la certificación ISTQB Test Manager Advanced (Gestión avanzada de pruebas y liderazgo) que me ha permitido gestión avanzada de pruebas y liderazgo.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.",
+          "STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.",
+          "STE: Ejecuto escenarios de prueba.",
+          "INT: Diseño y preparo testware.",
+          "UAT: Apoyo en las actividades de pruebas del usuario.",
+          "Análisis de Requisitos: Reunir y entender los requerimientos funcionales y no funcionales del sistema; participar en reuniones con stakeholders para aclarar dudas y validar especificaciones; elaborar documentos como casos de uso, historias de usuario o especificaciones funcionales; identificar criterios de aceptación y condiciones de prueba.",
+          "Diseño de Pruebas: Diseñar casos de prueba detallados con pasos, datos de entrada, resultados esperados y prerequisitos; definir Matriz de Trazabilidad (Relación requisito→caso→ejecución→evidencia→defecto); estimar el esfuerzo de pruebas y planificar actividades; preparar ambientes y datos de prueba.",
+          "Ejecución de Pruebas: Ejecutar pruebas funcionales, de regresión, de integración, de sistema y de aceptación; registrar resultados y documentar defectos; validar correcciones y realizar revalidación.",
+          "Participé en proyecto de SAP GUI S/4HANA (Interfaz de SAP para pruebas funcionales), ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos de cuentas por cobrar, finanzas y cuentas de mayor.",
           "Generé documentación para evidencia de pruebas y desarrollé prompts para plantillas de evidencias.",
           "Lideré pruebas para la administración y manejo del equipo de pruebas interno y del cliente; recibo y administro proyectos y gestiono pruebas según requerimientos del cliente.",
           "Apliqué metodologías de prueba acorde a las necesidades del cliente; elaboro y reviso requerimientos y documentación (UH/FRD/BRD) para análisis y diseño de casos de prueba.",
-          "Elaboré planes de pruebas identificando cálculo de esfuerzo, recursos y métricas; creo y doy seguimiento a proyectos en ALM; elaboro matrices de prueba y Informe de Cierre de Pruebas.",
-          "Ejecuté pruebas de aceptación con el área usuaria; ejecuté pruebas funcionales, no funcionales, automatizadas y de regresión en diferentes ambientes; ejecuté Pruebas de Integración de Sistemas (SIT) y Pruebas de Aceptación de Usuario (UAT) y pruebas móviles.",
+          "Elaboré planes de pruebas identificando cálculo de esfuerzo, recursos y métricas; creo y doy seguimiento a proyectos en Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos); elaboro Matriz de Trazabilidad (Relación requisito→caso→ejecución→evidencia→defecto) y Informe de Cierre de Pruebas.",
+          "Ejecuto pruebas de aceptación con el área usuaria; ejecuté pruebas funcionales, no funcionales, automatizadas y de regresión en diferentes ambientes; ejecuté Pruebas de Integración de Sistemas (SIT) y Pruebas de Aceptación de Usuario (UAT) y pruebas móviles.",
           "Solicité ambientes y datos, revisé riesgos con el equipo y cliente, creé informes de métricas y tableros de indicadores, y di seguimiento a incidentes y administración de defectos; revisé objetivos y desempeño del equipo y asigné cargas de trabajo."
         ]
       },
@@ -358,8 +410,8 @@
         "fecha_inicio": "5 mayo 2025",
         "fecha_fin": "30 junio 2025",
         "actividades_principales": [
-          "Participé en proyecto de SAP Interfaz Gráfica de Usuario (GUI) S/4 HANA, ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos de cuentas por cobrar, finanzas y cuentas de mayor.",
-          "Generé documentación para evidencia de pruebas y desarrollé prompts para plantillas de evidencias."
+          "Participé en proyecto de SAP GUI S/4HANA (Interfaz de SAP para pruebas funcionales), ejecutando pruebas funcionales, pruebas de regresión y pruebas unitarias a los módulos de cuentas por cobrar, finanzas y cuentas de mayor.",
+          "Generé documentación para evidencia de pruebas y desarrollé prompts para plantillas de evidencias."  
         ]
       },
       {
@@ -370,9 +422,9 @@
         "actividades_principales": [
           "Lideré pruebas para la administración y manejo del equipo de pruebas interno y del cliente; recibo y administro proyectos y gestiono pruebas según requerimientos del cliente.",
           "Apliqué metodologías de prueba acorde a las necesidades del cliente; elaboro y reviso requerimientos y documentación (UH/FRD/BRD) para análisis y diseño de casos de prueba.",
-          "Elaboré planes de pruebas identificando cálculo de esfuerzo, recursos y métricas; creo y doy seguimiento a proyectos en ALM; elaboro matrices de prueba y Informe de Cierre de Pruebas.",
+          "Elaboré planes de pruebas identificando cálculo de esfuerzo, recursos y métricas; creo y doy seguimiento a proyectos en Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos); elaboro Matriz de Trazabilidad (Relación requisito→caso→ejecución→evidencia→defecto) y Informe de Cierre de Pruebas.",
           "Ejecuto pruebas de aceptación con el área usuaria; ejecuté pruebas funcionales, no funcionales, automatizadas y de regresión en diferentes ambientes; ejecuté Pruebas de Integración de Sistemas (SIT) y Pruebas de Aceptación de Usuario (UAT) y pruebas móviles.",
-          "Solicité ambientes y datos, revisé riesgos con el equipo y cliente, creé informes de métricas y tableros de indicadores, y di seguimiento a incidentes y administración de defectos; revisé objetivos y desempeño del equipo y asigné cargas de trabajo."
+          "Solicité ambientes y datos, revisé riesgos con el equipo y cliente, creé informes de métricas y tableros de indicadores, y di seguimiento a incidentes y administración de defectos; revisé objetivos y desempeño del equipo y asigné cargas de trabajo."  
         ]
       }
     ],
@@ -383,11 +435,70 @@
       "lugar": "Universidad Tecnológica de Nezahualcóyotl",
       "periodo": "2013"
     },
-    "certificaciones": [],
-    "cursos": [
-      {
-        "nombre": "(ISTQB) Certified Tester Advanced Level - Test Manager - Junta Internacional de Calificaciones de Pruebas de Software"
-      }
-    ]
+    "herramientas": [
+    {
+      "nombre": "Bizagi Modeler"
+    },
+    {
+      "nombre": "Draw.io"
+    },
+    {
+      "nombre": "Java"
+    },
+    {
+      "nombre": "Microsoft Office"
+    },
+    {
+      "nombre": "SAP GUI S/4HANA"
+    },
+    {
+      "nombre": "Copilot"
+    },
+    {
+      "nombre": "JIRA"
+    },
+    {
+      "nombre": "Eclipse"
+    },
+    {
+      "nombre": "TFS"
+    },
+    {
+      "nombre": "ALM"
+    },
+    {
+      "nombre": "SQL Server"
+    },
+    {
+      "nombre": "Beyond Compare"
+    },
+    {
+      "nombre": "Planview"
+    },
+    {
+      "nombre": "Confluence"
+    },
+    {
+      "nombre": "XMind"
+    },
+    {
+      "nombre": "FastStone Capture"
+    },
+    {
+      "nombre": "Notepad++"
+    }
+  ]
+  ,
+  "certificaciones": [
+    {
+      "nombre": "Certified Scrum Master - ScrumAlliance",
+      "anio": "2026-2028"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "(ISTQB) Certified Tester Advanced Level - Test Manager - Junta Internacional de Calificaciones de Pruebas de Software"
+    }
+  ]
   }
 ]

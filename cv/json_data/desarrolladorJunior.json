@@ -1,0 +1,949 @@
+[
+  {
+    "nombre": "Gema Liliana Ferrera Euan",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "14584936",
+    "fecha_cedula": "29/11/2024",
+    "rol_propuesto": "Desarrollador Junior",
+    "resumen_profesional": "Cuento con más de 2 años de experiencia en programación en tecnologías de la Arquitectura de Referencia (AR) y tecnologías de código abierto. He desarrollado y puesto en marcha componentes y funcionalidades para aplicaciones Java (Lenguaje de programación para desarrollo de aplicaciones) y soluciones web, participando en la generación de código, ejecución y documentación de pruebas unitarias, y en tareas de integración y despliegue mediante prácticas de CI/CD y control de versiones. \n\nColaboro activamente en equipos ágiles (Scrum y Kanban), participando en refinamientos, planning y revisiones; contribuyo a la mejora de la calidad del código mediante análisis estático y pruebas, aplicando buenas prácticas de desarrollo, comunicación efectiva y entrega oportuna para asegurar la continuidad de los servicios.",
+    "funciones": "Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.\n\nParticipo activamente en equipos ágiles (Scrum y Kanban), asisto en refinamientos, planning y revisiones, y contribuyo a mejorar la calidad del código mediante análisis estático y pruebas; aplico buenas prácticas de desarrollo, mantengo comunicación efectiva y cumplo con entregas oportunas para apoyar la continuidad operativa.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Software Engineer Beginner",
+        "fecha_inicio": "18 de enero del 2024",
+        "fecha_fin": "19 de septiembre del 2024",
+        "actividades_principales": [
+          "Creo paquetes de software, los implemento y ajusto para que funcionen correctamente mediante el uso de lenguajes de programación. Tengo habilidades en conceptos de programación y trabajo en equipo.",
+          "Desarrollo y codifico componentes de software a partir de especificaciones técnicas, aplicando fundamentos de programación.",
+          "Participo en la implementación y puesta en funcionamiento de sistemas, garantizando su correcta operación en los entornos establecidos.",
+          "Aplico los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.",
+          "Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo cuando tengo dudas o inconsistencias.",
+          "Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.",
+          "Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.",
+          "Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.",
+          "Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).",
+          "Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.",
+          "He aplicado el curso DevOps, CI/CD for Beginners para comprender e implementar conceptos básicos de integración y entrega continua en flujos de desarrollo de software.",
+          "He puesto en práctica el curso Crear una Página Web Moderna 2024 con HTML y CSS para diseñar e implementar sitios web modernos utilizando HTML5 y CSS3.",
+          "He aplicado el curso Introducción a Docker para principiantes para contenerizar aplicaciones y comprender el uso básico de contenedores Docker.",
+          "He puesto en práctica el curso Introducción a Jira para gestión de proyectos con Kanban para organizar y gestionar proyectos utilizando tableros Kanban en Jira.",
+          "He aplicado el curso Master IntelliJ IDEA para aumentar la productividad en el desarrollo Java mediante el uso avanzado del IDE IntelliJ IDEA.",
+          "He puesto en práctica el curso Object Oriented Programming and Design Crash Course para aplicar principios de programación orientada a objetos y diseño de software.",
+          "He aplicado el curso Curso completo de SQL para crear y ejecutar consultas SQL orientadas a la gestión y análisis de bases de datos relacionales.",
+          "He puesto en práctica el curso The Complete Guide to HTML para estructurar y desarrollar interfaces web utilizando buenas prácticas de HTML.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Aplico Scrum como marco de trabajo ágil.",
+          "Entiendo las funcionalidades que se codificarían.",
+          "Confirmo las aplicaciones impactadas, conectadas y de soporte durante el Refinamiento con base en la solución técnica.",
+          "Colaboro en el diseño de la solución junto con roles como el Tech Lead y Testers.",
+          "Genero código fuente de las historias de usuario seleccionadas en el Sprint y gestiono su versionado en los repositorios correspondientes.",
+          "Ejecuto y documento pruebas unitarias o equivalentes para cada componente de desarrollo.",
+          "Soluciono los defectos encontrados en pruebas unitarias o funcionales.",
+          "Participo en sesiones del sprint (daily meetings, refinamiento, planning o estimación de historias de usuario, sprint review, etc).",
+          "Realizo cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training.",
+          "Genero diagramas Lenguaje Unificado de Modelado (UML) (clases, secuencia, casos de uso).",
+          "Genero proyectos con programación orientada a objetos.",
+          "Implemento técnicas de ingeniería de software aplicadas a la programación (TISAP) en los proyectos, para mejorar la calidad del código.",
+          "Genero proyectos con Data Access Object (DAO) y Spring Boot/Spring Framework y JPA.",
+          "Desarrollo 18 proyectos guiados por Udemy, utilizando HTML, CSS y JavaScript.",
+          "Conozco los versionadores Citi y la herramienta ServiceNow (ITSM para incidencias, cambios y problemas).",
+          "Apoyo en la programación y mantenimiento de plataformas digitales para la geovisualización y analítica visual de datos generados.",
+          "Desarrollo formularios y diseño de la plataforma web en frontend.",
+          "Participo en reuniones internas para seguimiento.",
+          "Ejecuto pruebas manuales para distintos módulos.",
+          "Reporto incidencias de los módulos probados.",
+          "Elaboro manuales de usuario y documentación de casos de prueba."
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Software Engineer Trainee",
+        "fecha_inicio": "27 de noviembre del 2023",
+        "fecha_fin": "17 de enero del 2024",
+        "actividades_principales": [
+          "Genero diagramas Lenguaje Unificado de Modelado (UML) (clases, secuencia, casos de uso).",
+          "Genero proyectos con programación orientada a objetos.",
+          "Implemento técnicas de ingeniería de software aplicadas a la programación (TISAP) en los proyectos, para mejorar la calidad del código.",
+          "Genero proyectos con Data Access Object (DAO) y Spring Boot/Spring Framework y JPA.",
+          "Desarrollo 18 proyectos guiados por Udemy, utilizando HTML, CSS y JavaScript.",
+          "Conozco los versionadores Citi y la herramienta ServiceNow (ITSM para incidencias, cambios y problemas)."
+        ]
+      },
+      {
+        "empresa": "CentroGeo Subsede Yucatán",
+        "puesto": "Programadora",
+        "fecha_inicio": "1 marzo del 2020",
+        "fecha_fin": "30 octubre del 2022",
+        "actividades_principales": [
+          "Apoyo en la programación y mantenimiento de plataformas digitales para la geovisualización y analítica visual de datos generados.",
+          "Desarrollo formularios y diseño de la plataforma web en frontend.",
+          "Participo en reuniones internas para seguimiento.",
+          "Ejecuto pruebas manuales para distintos módulos.",
+          "Reporto incidencias de los módulos probados.",
+          "Elaboro manuales de usuario y documentación de casos de prueba."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 septiembre de 2019 hasta 09 abril de 2026",
+    "resumen_laboral": "Durante este período me desempeñé como L3 Technical Support y Documentadora, asumiendo responsabilidades relacionadas con automatización y operación de despliegues, gestión de incidentes, documentación y pruebas. Realicé seguimiento de procesos, elaboración de diagramas y reportes, ejecución de pruebas manuales y reporte de incidencias, además de colaborar en reuniones de coordinación. Trabajé con herramientas de administración y soporte aplicando procedimientos organizacionales y manteniendo comunicación con equipos técnicos para asegurar la continuidad operativa.",
+    "estudios": {
+      "carrera": "Licenciatura en Ciencias de la Computación",
+      "lugar": "Facultad de Matemáticas UADY, Mérida, Yucatán, México",
+      "periodo": "Marzo 2024"
+    },
+    "herramientas": [
+      {
+        "nombre": "Java (Lenguaje de programación para desarrollo de aplicaciones)"
+      },
+      {
+        "nombre": "Spring Boot"
+      },
+      {
+        "nombre": "JavaScript"
+      },
+      {
+        "nombre": "HTML"
+      },
+      {
+        "nombre": "CSS"
+      },
+      {
+        "nombre": "Oracle SQL Developer"
+      },
+      {
+        "nombre": "MySQL Workbench"
+      },
+      {
+        "nombre": "Git"
+      },
+      {
+        "nombre": "Bitbucket"
+      },
+      {
+        "nombre": "Postman"
+      },
+      {
+        "nombre": "Eclipse"
+      },
+      {
+        "nombre": "MS Visual Studio Code"
+      },
+      {
+        "nombre": "WebLogic"
+      },
+      {
+        "nombre": "Ansible"
+      },
+      {
+        "nombre": "Sonarqube"
+      },
+      {
+        "nombre": "LightSpeed Enterprise (Tekton/Harness)"
+      },
+      {
+        "nombre": "Maven"
+      },
+      {
+        "nombre": "Tomcat"
+      }
+    ],
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "DevOps, CI/CD (Continuous Integration/Delivery) for Beginners"
+      },
+      {
+        "nombre": "Crear una Página Web Moderna 2024 Desde Cero con HTML y CSS"
+      },
+      {
+        "nombre": "Introducción a Docker para principiantes"
+      },
+      {
+        "nombre": "Introducción a Jira para gestión de proyectos con Kanban"
+      },
+      {
+        "nombre": "Master IntelliJ IDEA | Become a Productive Java Developer"
+      },
+      {
+        "nombre": "Object Oriented Programming and Design Crash Course"
+      },
+      {
+        "nombre": "SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL"
+      },
+      {
+        "nombre": "The Complete Guide to HTML"
+      }
+    ]
+  },
+  {
+    "nombre": "Jorge Martin Vazquez Flores",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "15164466",
+    "fecha_cedula": "19/09/2025",
+    "rol_propuesto": "Desarrollador Junior",
+    "resumen_profesional": "Cuento con más de 2 años de experiencia en programación con tecnologías de la Arquitectura de Referencia (AR) y tecnologías de código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación de sistemas y su puesta en funcionamiento mediante el uso de lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y tiempos establecidos dentro del plan de trabajo.\n\nHe participado en proyectos FullStack para instituciones financieras donde he liderado parte del ciclo de vida del software: análisis de requerimientos, diseño, codificación, pruebas y despliegue en producción. Manejo herramientas de control de versiones y plataformas de gestión de incidencias; priorizo la mejora continua del código, la documentación y los repositorios para mantener la continuidad y calidad del servicio.\n\nTrabajo bajo metodologías ágiles en equipos de trabajo, entregando funcionalidades por sprint y atendiendo defectos mediante Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos). Aplico buenas prácticas, busco automatizar pruebas y mantengo comunicación efectiva con clientes y Aseguramiento de la Calidad (QA), lo que me ha permitido consolidar habilidades técnicas y adaptarme rápidamente a nuevas tecnologías.",
+    "funciones": "Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.\n\nTrabajo en equipos ágiles, entregando funcionalidades por sprint y atendiendo defectos con ALM; mantengo comunicación cercana con QA y clientes para aplicar buenas prácticas, automatizar pruebas y adaptarme a nuevas tecnologías.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Software Engineer",
+        "fecha_inicio": "30 septiembre de 2024",
+        "fecha_fin": "Actual",
+        "actividades_principales": [
+          "Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que sean funcionales, todo ello mediante lenguajes de programación. Habilidades en; Conceptos de programación, Trabajo en equipo.",
+          "Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.",
+          "Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.",
+          "Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.",
+          "Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.",
+          "Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.",
+          "Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.",
+          "Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.",
+          "Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).",
+          "Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.",
+          "He aplicado el curso Curso completo de SQL para crear, consultar y gestionar bases de datos relacionales mediante comandos SQL aplicados a escenarios reales.",
+          "He puesto en práctica el curso Docker for the Absolute Beginner para contenerizar aplicaciones y aplicar conceptos básicos de DevOps utilizando Docker.",
+          "He aplicado el curso OpenShift 4 desde cero para desplegar y gestionar aplicaciones en plataformas de contenedores basadas en Kubernetes.",
+          "He puesto en práctica el curso PostgreSQL de Cero a Avanzado para administrar bases de datos PostgreSQL utilizando pgAdmin4 y herramientas de línea de comandos.",
+          "He aplicado el curso Spring Framework Master Class para desarrollar aplicaciones backend modernas en Java utilizando el framework Spring.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro la especificación detallada de componentes.",
+          "CTR: Realizo la construcción de componentes.",
+          "DOC: Genero la documentación técnica.",
+          "Participé en el proyecto PEMEX S740 de CITI mediante el cual he continuado desarrollándome como Ingeniero de Software.",
+          "Gracias a esta oportunidad he continuado expandiendo mi conocimiento respecto a múltiples tecnologías, tanto más modernas como clásicas.",
+          "He liderado del proceso de ciclo de vida de Software al guíar y acompañar a mis compañeros a través del análisis de las necesidades del cliente, así como el diseño e identificación de requisitos, para así presentarle al cliente una propuesta como documento de diseño de Software para así llevar a cabo el proceso de codificación y testeo, este proceso finalizó exitosamente con el despliegue de los cambios en producción.",
+          "De igual manera generé experiencia en la plataforma de generación de tickets ServiceNow (ITSM para incidencias, cambios y problemas) y similares.",
+          "Finalmente, dediqué tiempo para priorizar tanto el mantenimiento como la mejora continua del código, documentación y repositorios.",
+          "Participé en el proyecto PEMEX S740 de CITI mediante el cual he continuado desarrollándome como Ingeniero de Software.",
+          "Usé (Framework frontend para aplicaciones SPA) y Thymeleaf para el Frontend y Java (Lenguaje de programación para desarrollo de aplicaciones) en conjunto con Spring para el Backend.",
+          "Desarrollé FullStack (Frontend y Backend).",
+          "Cursos corporativos que me permitieron promover la seguridad, ética, profesionalismo y el saber qué hacer en ciertas emergencias.",
+          "Hice uso del Inglés al emplear herramientas, tecnicismos e investigar documentación de las tecnologías empleadas.",
+          "Atendí y resolví defectos mediante el uso de Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos), es decir, recibimiento de la retroalimentación del equipo de Aseguramiento de la Calidad (QA) para llevar a cabo las correcciones indicadas para tener un producto perfeccionado en relación a lo solicitado en la HU.",
+          "Desarrollé exitosamente entregables en cada Sprint usando Angular (Framework frontend para aplicaciones SPA), Java (Lenguaje de programación para desarrollo de aplicaciones), Bitbucket (Repositorio de código y colaboración), Confluence (Documentación colaborativa y base de conocimiento), Jira (Herramienta de gestión ágil y seguimiento de issues/sprints). Esta oportunidad me permitió trabajar con diferentes equipos dentro del proyecto en donde me pude desarrollar tanto para el trabajo en equipo y desarrollo de HUs en conjunto, así como el desarrollo de HUs de manera individual."
+        
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Software Engineer",
+        "fecha_inicio": "01 enero de 2024",
+        "fecha_fin": "27 septiembre de 2024",
+        "actividades_principales": [
+          "Participé en el proyecto PEMEX S740 de CITI mediante el cual he continuado desarrollándome como Ingeniero de Software.",
+          "Usé (Framework frontend para aplicaciones SPA) y Thymeleaf para el Frontend y Java (Lenguaje de programación para desarrollo de aplicaciones) en conjunto con Spring para el Backend.",
+          "Desarrollé FullStack (Frontend y Backend).",
+          "Cursos corporativos que me permitieron promover la seguridad, ética, profesionalismo y el saber qué hacer en ciertas emergencias.",
+          "Hice uso del Inglés al emplear herramientas, tecnicismos e investigar documentación de las tecnologías empleadas.",
+          "Atendí y resolví defectos mediante el uso de Micro Focus ALM (Suite ALM para planear, diseñar, ejecutar pruebas y dar seguimiento a defectos), es decir, recibimiento de la retroalimentación del equipo de Aseguramiento de la Calidad (QA) para llevar a cabo las correcciones indicadas para tener un producto perfeccionado en relación a lo solicitado en la HU.",
+          "Desarrollé exitosamente entregables en cada Sprint usando Angular (Framework frontend para aplicaciones SPA), Java (Lenguaje de programación para desarrollo de aplicaciones), Bitbucket (Repositorio de código y colaboración), Confluence (Documentación colaborativa y base de conocimiento), Jira (Herramienta de gestión ágil y seguimiento de issues/sprints). Esta oportunidad me permitió trabajar con diferentes equipos dentro del proyecto en donde me pude desarrollar tanto para el trabajo en equipo y desarrollo de HUs en conjunto, así como el desarrollo de HUs de manera individual."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 27 noviembre de 2023 hasta 01 enero de 2024",
+    "resumen_laboral": "Durante este período asumí responsabilidades centradas en aprendizaje y apoyo al desarrollo de software, desempeñándome como Software Engineer Trainee. Realicé actividades de formación técnica y práctica en programación, participación en sesiones de academia y tareas de apoyo a proyectos, complementando conocimientos en Java (Lenguaje de programación para desarrollo de aplicaciones), Spring y herramientas de versionamiento. Participé en actividades de control de calidad incipientes y seguí procesos de inducción y mejora continua para consolidar competencias profesionales.",
+    "estudios": {
+      "carrera": "Licenciatura en Ingeniería de Software",
+      "lugar": "UNIVERSIDAD AUTÓNOMA DE YUCATÁN - FACULTAD DE MATEMÁTICAS",
+      "periodo": "AGOSTO 2019 A JULIO 2024"
+    },
+    "herramientas": [
+      {
+        "nombre": "WebLogic Server"
+      },
+      {
+        "nombre": "Tuxedo"
+      },
+      {
+        "nombre": "Java"
+      },
+      {
+        "nombre": "JSP"
+      },
+      {
+        "nombre": "SonarQube"
+      },
+      {
+        "nombre": "C++"
+      },
+      {
+        "nombre": "Oracle Console"
+      },
+      {
+        "nombre": "Tectia"
+      },
+      {
+        "nombre": "Jira"
+      },
+      {
+        "nombre": "Agile"
+      },
+      {
+        "nombre": "BitBucket"
+      },
+      {
+        "nombre": "Git"
+      },
+      {
+        "nombre": "ServiceNow"
+      },
+      {
+        "nombre": "Oracle SQL Developer"
+      },
+      {
+        "nombre": "Angular"
+      },
+      {
+        "nombre": "Spring Framework"
+      },
+      {
+        "nombre": "Spring Boot"
+      },
+      {
+        "nombre": "TypeScript"
+      },
+      {
+        "nombre": "HTML"
+      },
+      {
+        "nombre": "CSS"
+      },
+      {
+        "nombre": "Bootstrap"
+      },
+      {
+        "nombre": "Thymeleaf"
+      },
+      {
+        "nombre": "Jaspersoft"
+      },
+      {
+        "nombre": "JPA"
+      },
+      {
+        "nombre": "TISAP"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "JDK"
+      },
+      {
+        "nombre": "Draw.io"
+      },
+      {
+        "nombre": "JavaScript"
+      },
+      {
+        "nombre": "MySQL"
+      },
+      {
+        "nombre": "MariaDB"
+      },
+      {
+        "nombre": "MongoDB"
+      },
+      {
+        "nombre": "Python"
+      },
+      {
+        "nombre": "C#"
+      },
+      {
+        "nombre": "C"
+      }
+    ],
+    "certificaciones": [],
+    "cursos": [
+      {
+        "nombre": "SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL"
+      },
+      {
+        "nombre": "Docker for the Absolute Beginner – Hands On – DevOps"
+      },
+      {
+        "nombre": "OpenShift 4 desde cero"
+      },
+      {
+        "nombre": "PostgreSQL de Cero a Avanzado (pgAdmin4 y Shell)"
+      },
+      {
+        "nombre": "Spring Framework Master Class – Java Spring the Modern Way"
+      }
+    ]
+  },
+  {
+  "nombre": "Pedro del Carmen Ramos",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "10590679",
+  "fecha_cedula": "26/07/2017",
+  "rol_propuesto": "Desarrollador Junior",
+  "resumen_profesional": "Cuento con más de 2 años de experiencia en programación en tecnologías de referencia y código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación de sistemas y su puesta en funcionamiento mediante el uso de lenguajes de programación y fundamentos de desarrollo, colaboro activamente en equipo y sigo estándares, lineamientos y tiempos establecidos dentro del plan de trabajo.\n\nSoy ingeniero en ciencias de la computación con experiencia en desarrollo backend y portales corporativos, orientado a mantener la continuidad operativa y entregar soluciones confiables. He participado en todas las fases del ciclo de vida del software, desde levantamiento de requisitos hasta despliegue y soporte post‑implementación, contribuyendo a la disponibilidad y estabilidad de las aplicaciones.\n\nTrabajo con equipos multidisciplinarios aplicando buenas prácticas de desarrollo, pruebas unitarias y pipelines de integración continua, priorizando la calidad y el cumplimiento de plazos. Mi enfoque es entregar soluciones que faciliten la operación continua y la adaptación de los sistemas a las necesidades del negocio.",
+  "funciones": "Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas. Trabajo con equipos multidisciplinarios aplicando prácticas de desarrollo, pruebas unitarias y pipelines de integración continua, priorizando la calidad y el cumplimiento de plazos; mi objetivo es entregar soluciones que faciliten la operación continua y la adaptación de los sistemas a las necesidades del negocio.",
+  "experiencia_laboral": [
+    {
+      "empresa": "AXA México",
+      "puesto": "Software Engineer - Senior",
+      "fecha_inicio": "01 julio de 2023",
+      "fecha_fin": "01 julio de 2025",
+      "actividades_principales": [
+        "Creo sistemas (paquetes de software), los implemento y los pongo a punto para que sean funcionales, todo ello mediante lenguajes de programación. Habilidades en; conceptos de programación, trabajo en equipo.",
+        "Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.",
+        "Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.",
+        "Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.",
+        "Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.",
+        "Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.",
+        "Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.",
+        "Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.",
+        "Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).",
+        "Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.",
+        "He aplicado el curso Gestión Continua de la Calidad del Software con SonarQube para analizar código, medir calidad y aplicar prácticas de mejora continua en proyectos de software.",
+        "He puesto en práctica el curso Git Essentials para gestionar control de versiones y flujos de trabajo colaborativos utilizando Git, Bitbucket y Sourcetree.",
+        "He aplicado el curso Project in DevOps: Jenkins CI/CD for Kubernetes Deployments para implementar pipelines CI/CD con Jenkins orientados a despliegues en Kubernetes.",
+        "He puesto en práctica el curso Apache Kafka for Absolute Beginners para implementar sistemas de mensajería y procesamiento de eventos distribuidos.",
+        "He aplicado el curso Apache Maven: Beginner to Guru para gestionar dependencias y automatizar la construcción de proyectos Java.",
+        "He puesto en práctica el curso Azure SQL Server for Beginners (Parte 1) para configurar y administrar bases de datos SQL Server en Azure.",
+        "He aplicado el curso Azure SQL Server for Beginners (Parte 2) para profundizar en consultas, seguridad y administración avanzada en Azure SQL.",
+        "He puesto en práctica el curso Docker for Java Developers para contenerizar aplicaciones Java y prepararlas para entornos de despliegue modernos.",
+        "He aplicado el curso Docker for the Absolute Beginner para implementar contenedores Docker y comprender su uso dentro de prácticas DevOps.",
+        "He puesto en práctica el curso Eclipse Tutorial for Beginners para desarrollar y depurar aplicaciones Java utilizando el IDE Eclipse.",
+        "He aplicado el curso Learn Apache Camel Framework with Spring Boot para implementar integraciones y flujos de mensajería en aplicaciones Spring Boot.",
+        "He puesto en práctica el curso Learn DevOps: CI/CD with Jenkins using Pipelines and Docker para implementar integración y despliegue continuo con Jenkins y Docker.",
+        "He aplicado el curso Learn Java Unit Testing with JUnit & Mockito para implementar pruebas unitarias y mocks en aplicaciones Java.",
+        "He puesto en práctica el curso Microsoft Azure: From Zero to Hero para implementar servicios de nube en Azure desde nivel básico hasta intermedio.",
+        "He aplicado el curso Comienza con MongoDB para modelar y gestionar bases de datos NoSQL utilizando MongoDB.",
+        "He puesto en práctica el curso Master Spring Boot 3 & Spring Framework 6 para desarrollar aplicaciones backend modernas con Java y Spring.",
+        "He aplicado el curso OpenShift 4 desde cero para desplegar y administrar aplicaciones contenerizadas sobre Kubernetes empresarial.",
+        "He puesto en práctica el curso Java Message Service (JMS) Fundamentals para implementar mensajería asíncrona en aplicaciones Java empresariales.",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "CIS: Elaboro la especificación detallada de componentes.",
+        "CTR: Realizo la construcción de componentes.",
+        "DOC: Genero la documentación técnica.",
+        "Participé como desarrollador Liferay con Java (Lenguaje de programación para desarrollo de aplicaciones) 8 y Java (Lenguaje de programación para desarrollo de aplicaciones) 11, dando soporte y actualizaciones a aplicaciones desarrolladas con Spring, HTML, javascript, CSS y pruebas unitarias utilizando Mockito, PowerMock y JUnit.",
+        "Utilicé pipelines y Devops para la implementación y colaboración en el desarrollo, además de implementar seguridad mediante OAuth 2 para autenticación y autorización mediante los roles y permisos asociados.",
+        "Actué como desarrollador de software y mantenimiento de aplicaciones, creación de portlets y módulos para portales desarrollados en Liferay.",
+        "Creé un service builder para el consumo y persistencia de datos en Base de datos.",
+        "Desarrollé  templates para sitios e intranets.",
+        "Desarrollé aplicaciones en la nube de Google Cloud y uso de Google Cloud Storage para el envio masivo de campañas a traves de correo electrónico.",
+        "Desarrollé software Liferay dando soporte y mantenimiento a aplicaciones desarrolladas en liferay con Spring y Java (Lenguaje de programación para desarrollo de aplicaciones) Server Faces (JSF) y Java (Lenguaje de programación para desarrollo de aplicaciones) Server Pages (JSP)."
+      ]
+    },
+    {
+      "empresa": "AG CONSULTORIA Y SISTEMAS DE MEXICO",
+      "puesto": "Software Engineer - Senior",
+      "fecha_inicio": "01 septiembre de 2022",
+      "fecha_fin": "30 junio de 2023",
+      "actividades_principales": [
+        "Actué como desarrollador de software y mantenimiento de aplicaciones, creación de portlets y módulos para portales desarrollados en Liferay.",
+        "Creé un service builder para el consumo y persistencia de datos en Base de datos.",
+        "Desarrollé  templates para sitios e intranets.",
+        "Desarrollé aplicaciones en la nube de Google Cloud y uso de Google Cloud Storage para el envio masivo de campañas a traves de correo electrónico."
+      ]
+    },
+    {
+      "empresa": "NEORIS SERVICES SA DE CV",
+      "puesto": "Software Engineer - Senior",
+      "fecha_inicio": "01 octubre de 2022",
+      "fecha_fin": "02 enero de 2023",
+      "actividades_principales": [
+        "Desarrollé software Liferay dando soporte y mantenimiento a aplicaciones desarrolladas en liferay con Spring y Java (Lenguaje de programación para desarrollo de aplicaciones) Server Faces (JSF) y Java (Lenguaje de programación para desarrollo de aplicaciones) Server Pages (JSP)."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde 01 enero de 2010 hasta 01 agosto de 2022",
+  "resumen_laboral": "Durante este período asumí responsabilidades como Software Engineer - Senior, desarrollando y manteniendo soluciones para diferentes clientes. Me enfoqué en la entrega y mejora continua de aplicaciones, realizando mantenimiento, adaptación de funcionalidades y soporte técnico, además de colaborar con equipos para alinear entregables con los requerimientos. Estas actividades implicaron asegurar la continuidad operativa, resolver incidencias menores y contribuir a la estabilidad y disponibilidad de servicios.",
+  "estudios": {
+    "carrera": "Ingeniería en Ciencias de la Computación",
+    "lugar": "Benemérita Universidad Autónoma de Puebla, Puebla",
+    "periodo": "01 septiembre de 2005 - 01 agosto de 2010"
+  },
+  "herramientas": [
+    {
+      "nombre": "Liferay"
+    },
+    {
+      "nombre": "Java 8"
+    },
+    {
+      "nombre": "Java Server Pages (JSP)"
+    },
+    {
+      "nombre": "Java Server Faces (JSF)"
+    },
+    {
+      "nombre": "JUnit"
+    },
+    {
+      "nombre": "Java Persistence API (JPA)"
+    },
+    {
+      "nombre": "Mockito"
+    },
+    {
+      "nombre": "PowerMock"
+    },
+    {
+      "nombre": "OAuth 2"
+    },
+    {
+      "nombre": "Spring"
+    },
+    {
+      "nombre": "Spring Boot"
+    },
+    {
+      "nombre": "HTML5"
+    },
+    {
+      "nombre": "JavaScript"
+    },
+    {
+      "nombre": "jQuery"
+    },
+    {
+      "nombre": "CSS / CSS3"
+    },
+    {
+      "nombre": "Hibernate"
+    },
+    {
+      "nombre": "Oracle"
+    },
+    {
+      "nombre": "Bootstrap"
+    },
+    {
+      "nombre": "Google Cloud"
+    },
+    {
+      "nombre": "Google Cloud Storage"
+    },
+    {
+      "nombre": "RESTful"
+    }
+    ],
+  "certificaciones": [],
+  "cursos": [
+    {
+      "nombre": "Gestión Continua de la Calidad del Software con SonarQube"
+    },
+    {
+      "nombre": "Git Essentials: Learn Git with Bitbucket and Sourcetree"
+    },
+    {
+      "nombre": "Project in DevOps: Jenkins CI/CD for Kubernetes Deployments"
+    },
+    {
+      "nombre": "Apache Kafka for Absolute Beginners"
+    },
+    {
+      "nombre": "Apache Maven: Beginner to Guru"
+    },
+    {
+      "nombre": "Azure SQL Server for Beginners – Part 1 of 2"
+    },
+    {
+      "nombre": "Azure SQL Server for Beginners – Part 2 of 2"
+    },
+    {
+      "nombre": "Docker for Java Developers"
+    },
+    {
+      "nombre": "Docker for the Absolute Beginner – Hands On – DevOps"
+    },
+    {
+      "nombre": "Eclipse Tutorial for Beginners: Learn Java IDE in 10 Steps"
+    },
+    {
+      "nombre": "Learn Apache Camel Framework with Spring Boot"
+    },
+    {
+      "nombre": "Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+    },
+    {
+      "nombre": "Learn Java Unit Testing with JUnit & Mockito in 30 Steps"
+    },
+    {
+      "nombre": "Microsoft Azure: From Zero to Hero – The Complete Guide"
+    },
+    {
+      "nombre": "Comienza con MongoDB: Curso de MongoDB desde cero"
+    },
+    {
+      "nombre": "NEW Master Spring Boot 3 & Spring Framework 6 with Java"
+    },
+    {
+      "nombre": "OpenShift 4 desde cero"
+    },
+    {
+      "nombre": "Java Message Service (JMS) Fundamentals"
+    }
+  ]
+  },
+  {
+    "nombre": "Rodrigo Urtecho Quintal",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "",
+    "fecha_cedula": "",
+    "rol_propuesto": "Desarrollador Junior",
+    "resumen_profesional": "Cuento con más de 2 años de experiencia en programación en tecnologías de referencia y de código abierto. He trabajado en desarrollo y mantenimiento de aplicaciones Java (Lenguaje de programación para desarrollo de aplicaciones) y COBOL sobre entornos Unisys y servidores Linux/Unix (Sistemas operativos para administración y automatización), participando en la creación y ajuste de procesos batch y web, además de la ejecución de pruebas y soporte en ambientes de preproducción y producción. Tengo experiencia en administración de Tomcat, automatización con Autosys y coordinación con equipos de soporte. Colaboro en equipo siguiendo estándares y lineamientos, contribuyendo a la implementación y puesta en marcha de sistemas para garantizar la continuidad de servicios. Aplico fundamentos de programación, reviso y valido especificaciones técnicas, y reporto avances y riesgos para cumplir tiempos y calidad establecidos.",
+    "funciones": "Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas. Trabajo en equipo respetando estándares y lineamientos, aportando en la implementación y puesta en marcha de sistemas para mantener la continuidad del servicio. Empleo fundamentos de programación, verifico y valido especificaciones técnicas, y comunico avances e impedimentos para asegurar tiempos y calidad acordados.",
+    "experiencia_laboral": [
+        {
+        "empresa": "Softtek - BFS Mérida",
+        "puesto": "Software Engineer - Junior",
+        "fecha_inicio": "01 agosto de 2025",
+        "fecha_fin": "30 diciembre de 2025",
+        "actividades_principales": [
+            "Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que sean funcionales, todo ello mediante lenguajes de programación. Habilidades en: conceptos de programación y trabajo en equipo.",
+            "Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.",
+            "Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.",
+            "Aplico los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto de forma adecuada.",
+            "Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.",
+            "Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.",
+            "Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.",
+            "Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.",
+            "Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).",
+            "Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.",
+            "He aplicado el curso Java Programming for Complete Beginners para desarrollar los fundamentos de la programación en Java, incluyendo sintaxis, control de flujo y estructuras básicas.",
+            "He puesto en práctica el curso Master Microservices with Spring Boot and Spring Cloud para diseñar e implementar arquitecturas de microservicios utilizando Spring Boot y Spring Cloud.",
+            "He aplicado el curso Microservices: Designing Highly Scalable Systems para implementar principios de diseño orientados a la escalabilidad y resiliencia en sistemas distribuidos.",
+            "He puesto en práctica el curso Microservices Architecture – The Complete Guide para implementar patrones y buenas prácticas de arquitectura de microservicios.",
+            "He aplicado el curso Object Oriented Programming and Design Crash Course para aplicar principios de programación orientada a objetos y diseño de software.",
+            "He puesto en práctica el curso PHP for Beginners – Become a PHP Master para desarrollar aplicaciones web y un proyecto CMS utilizando PHP.",
+            "He aplicado el Curso completo de SQL para crear, consultar y gestionar bases de datos relacionales mediante comandos SQL.",
+            "He puesto en práctica el curso UML and Object-Oriented Design Foundations para modelar sistemas de software aplicando UML y principios de diseño orientado a objetos.",
+            "He aplicado el curso UML Class Diagrams for Programmers para diseñar y documentar estructuras de clases mediante diagramas UML aplicados al desarrollo de software.",
+            "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+            "CIS: Elaboro la especificación detallada de componentes.",
+            "CTR: Realizo la construcción de componentes.",
+            "DOC: Genero la documentación técnica.",
+            "Participé en el análisis de impacto de programas involucrado con procesos relacionado a ATMs por incremento de 4 a 5 posiciones en su identificador.",
+            "Realicé el mantenimiento de Programas en Línea y Batch en COBOL 74 en UNISYS del S018 (Sistema de Administración de Efectivo) de Banamex por proyecto Increase ID.",
+            "Realicé el mantenimiento de Programa Java (Lenguaje de programación para desarrollo de aplicaciones) Batch para reformatéo de archivos.",
+            "Realicé la ejecución de pruebas para validación de modificaciones.",
+            "Coordiné el equipo interno para desarrollo y pruebas.",
+            "Consulté y edité datos en Base de Datos DMSII, para temas de ejecución de pruebas.",
+            "Realicé la ambientación de Tomcat 8 y Apache en servidores REHL 8 para instalación de Opticash, Optinet y “Reformateador Web”.",
+            "Desarrollé y mantuve programas Java (Lenguaje de programación para desarrollo de aplicaciones) Batch para reformatéo de archivos y Web para visualización de archivos del Sistema Opticash para pronosticación de efectivo.",
+            "Implementé la herramienta de automatización Autosys y definí “Jobs” usando JIL (Job Information Language).",
+            "Desarrollé y mantuve programas Shell para automatización de tareas.",
+            "Implementé el agente PingAccess para Single Sign On en servidores Apache.",
+            "Coordiné con equipos de soporte del cliente a través del idioma inglés.",
+            "Brindé soporte en ambientes de prueba y productivo."
+        ]
+        },
+        {
+        "empresa": "Softtek - BFSMérida",
+        "puesto": "Java Software Engineer",
+        "fecha_inicio": "03 enero de 2024",
+        "fecha_fin": "30 julio de 2025",
+        "actividades_principales": [
+            "Realicé la ambientación de Tomcat 8 y Apache en servidores REHL 8 para instalación de Opticash, Optinet y “Reformateador Web”.",
+            "Desarrollé y mantuve programas Java (Lenguaje de programación para desarrollo de aplicaciones) Batch para reformatéo de archivos y Web para visualización de archivos del Sistema Opticash para pronosticación de efectivo.",
+            "Implementé la herramienta de automatización Autosys y definí “Jobs” usando JIL (Job Information Language).",
+            "Desarrollé y mantuve programas Shell para automatización de tareas.",
+            "Implementé el agente PingAccess para Single Sign On en servidores Apache.",
+            "Coordiné con equipos de soporte del cliente a través del idioma inglés.",
+            "Brindé soporte en ambientes de prueba y productivo."
+        ]
+        }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 diciembre de 2019 hasta 02 enero de 2024",
+    "resumen_laboral": "Durante este período asumí responsabilidades variadas centradas en soporte operativo, logística y actividades de desarrollo bajo supervisión. Me desempeñé en roles como Auxiliar de Logística, Software Engineer - Trainee y Trainee de desarrollo, participando en administración de inventarios, pruebas funcionales, desarrollo de prototipos y tareas de implementación asistida. Asumí coordinación con equipos, ejecución de pruebas y documentación básica, aprendiendo metodologías ágiles y herramientas de soporte mientras apoyaba la continuidad operativa y las entregas conforme a cronogramas.",
+    "estudios": {
+        "carrera": "Ingeniería de Software",
+        "lugar": "Universidad Autónoma de Yucatán, Mérida",
+        "periodo": "agosto de 2019 - diciembre de 2023"
+    },
+    "herramientas": [
+        {
+        "nombre": "Java"
+        },
+        {
+        "nombre": "Spring Boot"
+        },
+        {
+        "nombre": "COBOL 74"
+        },
+        {
+        "nombre": "Unisys"
+        },
+        {
+        "nombre": "DMSII"
+        },
+        {
+        "nombre": "Git"
+        },
+        {
+        "nombre": "Eclipse"
+        },
+        {
+        "nombre": "Tomcat"
+        },
+        {
+        "nombre": "Autosys"
+        },
+        {
+        "nombre": "PingAccess"
+        },
+        {
+        "nombre": "MySQL"
+        },
+        {
+        "nombre": "Hibernate"
+        },
+        {
+        "nombre": "HTML"
+        },
+        {
+        "nombre": "CSS"
+        },
+        {
+        "nombre": "JavaScript"
+        },
+        {
+        "nombre": "Shell"
+        }
+    ],
+    "certificaciones": [],
+    "cursos": [
+        {
+        "nombre": "Java Programming for Complete Beginners"
+        },
+        {
+        "nombre": "Master Microservices with Spring Boot and Spring Cloud"
+        },
+        {
+        "nombre": "Microservices: Designing Highly Scalable Systems"
+        },
+        {
+        "nombre": "Microservices Architecture – The Complete Guide"
+        },
+        {
+        "nombre": "Object Oriented Programming and Design Crash Course"
+        },
+        {
+        "nombre": "PHP for Beginners – Become a PHP Master – CMS Project"
+        },
+        {
+        "nombre": "SQL. Curso completo de SQL. Aprende desde cero. Comandos SQL"
+        },
+        {
+        "nombre": "UML and Object-Oriented Design Foundations"
+        },
+        {
+        "nombre": "UML Class Diagrams for Programmers"
+        }
+    ]
+  },
+  {
+  "nombre": "Ruben Silva Garcia",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "13890182",
+  "fecha_cedula": "28/12/2023",
+  "rol_propuesto": "Desarrollador Junior",
+  "resumen_profesional": "Cuento con más de 2 años de experiencia en programación con tecnologías de referencia y de código abierto. Desarrollo y construyo componentes de software conforme a especificaciones técnicas definidas, participo en la implementación y puesta en funcionamiento de sistemas usando lenguajes de programación y fundamentos de desarrollo, colaboro en equipo y sigo estándares, lineamientos y plazos establecidos en el plan de trabajo.\nHe trabajado principalmente con Java (Lenguaje de programación para desarrollo de aplicaciones) y el ecosistema Spring, implementando procesos batch, modelado de bases de datos y generación de documentación técnica para entornos del sector financiero; participo en la creación de componentes backend, integración con repositorios como Bitbucket (Repositorio de código y colaboración) y en la definición de jobs y transferencias de datos con DataX y Control-M.\nAdemás, he colaborado en desarrollos frontend con Angular (Framework frontend para aplicaciones SPA) para la construcción de CRUD dinámicos y en actividades de pruebas y despliegues a producción, generando insumos y evidencia para pruebas, documentando procesos y checklist técnicos que ayudan a garantizar la continuidad y cumplimiento de procesos operativos.",
+  "funciones": "Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para asegurar su correcto funcionamiento, utilizando diversos lenguajes de programación. Cuento con sólidos conocimientos en conceptos de programación y trabajo en equipo, lo que me permite colaborar de manera efectiva en el desarrollo de soluciones tecnológicas.\nAdemás, participo en desarrollos frontend con Angular (Framework frontend para aplicaciones SPA) para construir CRUD dinámicos y en actividades de pruebas y despliegues a producción, preparando insumos y evidencias de pruebas, así como documentación y checklists técnicos que contribuyen a la continuidad y cumplimiento de procesos operativos.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Softtek CDMX",
+      "puesto": "Software Engineer - Junior",
+      "fecha_inicio": "01 agosto de 2023",
+      "fecha_fin": "presente",
+      "actividades_principales": [
+        "Creo paquetes de software, los implemento y hago su puesta en punto para que sean funcionales, todo ello a través de lenguajes de programación. Habilidades en; Conceptos de programación, Trabajo en equipo.",
+        "Desarrollo y codifico componentes de software a partir de especificaciones técnicas definidas, aplicando fundamentos de programación.",
+        "Participo en la implementación y puesta en funcionamiento de sistemas, asegurando su correcta operación en los entornos establecidos.",
+        "Aplico de forma adecuada los estándares, lineamientos, frameworks y componentes definidos por la arquitectura del proyecto.",
+        "Valido que las especificaciones técnicas asignadas sean claras y completas, solicitando apoyo en caso de dudas o inconsistencias.",
+        "Cumplo con los tiempos, esfuerzo y calidad comprometidos en mis tareas, reportando avances de manera oportuna.",
+        "Colaboro activamente con el equipo de trabajo, fomentando la comunicación y el aprendizaje continuo.",
+        "Identifico, comunico y escalo oportunamente impedimentos, incidencias o riesgos en mis actividades.",
+        "Acato las políticas, lineamientos y acuerdos del proyecto y de la organización (horarios, registro de actividades, estándares y buenas prácticas).",
+        "Resuelvo problemas técnicos sencillos y claramente definidos dentro del desarrollo de software, analizando alternativas mediante el uso de prácticas y procedimientos estandarizados; desempeño mis actividades bajo supervisión frecuente, fortaleciendo mi aprendizaje continuo, con posibles variaciones en los tiempos de entrega mientras consolido mi experiencia.",
+        "He aplicado el curso JSP, Servlets and JDBC for Beginners para desarrollar aplicaciones web en Java conectadas a bases de datos mediante JSP, Servlets y JDBC.",
+        "He puesto en práctica el curso Master Microservices with Spring Boot and Spring Cloud para diseñar e implementar arquitecturas de microservicios utilizando Spring Boot y Spring Cloud.",
+        "He aplicado el curso Microservices: Designing Highly Scalable Systems para implementar principios de diseño orientados a la escalabilidad, resiliencia y sistemas distribuidos.",
+        "He puesto en práctica el curso Microservices Architecture – The Complete Guide para implementar patrones y buenas prácticas de arquitectura de microservicios.",
+        "He aplicado el curso Principios SOLID y Clean Code para aplicar buenas prácticas de diseño y escribir código limpio, mantenible y de alta calidad.",
+        "He puesto en práctica el curso Spring MVC For Beginners para desarrollar aplicaciones web en Java utilizando el framework Spring MVC.",
+        "He aplicado el curso UML Class Diagrams for Programmers para diseñar y documentar estructuras de clases mediante diagramas UML aplicados al desarrollo de software.",
+        "He puesto en práctica el curso Web Design for Beginners para diseñar e implementar interfaces web utilizando HTML y CSS en escenarios reales.",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "CIS: Elaboro la especificación detallada de componentes.",
+        "CTR: Realizo la construcción de componentes.",
+        "DOC: Genero la documentación técnica.",
+        "Cree un CRUD dinámico en Angular (Framework frontend para aplicaciones SPA)",
+        "Me certifiqué en la tecnología interna de BBV A - APX",
+        "Me certifiqué en el Marco Ágil Escalable (SAFe) Scaled Agile",
+        "Manejo la tecnología APX y creación de múltiples procesos batch con cliente BBV A",
+        "He realizado versionamientos con Bitbucket (Repositorio de código y colaboración)",
+        "Genero documentación componentes de librerías , jobs , transacciones y objetos de datos de cliente",
+        "Genero documentación de procesos de pruebas y generación de insumos para evidencias de pruebas",
+        "Genero documentación para proceso de despliegue a producción (CVT, CRQ, C205, DQ, Checklist técnico)",
+        "Modelo y diseño de modelos de base de datos con PowerDesigner",
+        "Levanto tickets para generación de modelos de datos",
+        "Creo jobs en Control - M",
+        "Creo y modifico objetos, conectores schemas, para transferencias DataX",
+        "Participé en el desarrollo de modulos con spring boot y maven para plataforma de control de obras de la CDMX . Implementando generador de reportes , roles de usuario para distintas funciones , mapas , vistas , manejo de archivos multimedia , graficación tiempo real de la cartera financiera .",
+        "Creé plantilla para aplicaciones web con spring boot .",
+        "Participé en proyecto generador de reportes con uso de framework Laravel ."
+      ]
+    },
+    {
+      "empresa": "SACMEX CDMX",
+      "puesto": "Software Engineer - Trainee",
+      "fecha_inicio": "01 marzo de 2022",
+      "fecha_fin": "30 junio de 2023",
+      "actividades_principales": [
+        "Participé en el desarrollo de modulos con spring boot y maven para plataforma de control de obras de la CDMX . Implementando generador de reportes , roles de usuario para distintas funciones , mapas , vistas , manejo de archivos multimedia , graficación tiempo real de la cartera financiera .",
+        "Creé plantilla para aplicaciones web con spring boot .",
+        "Participé en proyecto generador de reportes con uso de framework Laravel ."
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde 01 julio de 2023 hasta 31 julio de 2023",
+  "resumen_laboral": "Durante este período asumí responsabilidades relacionadas con el desarrollo y validación de capturas y parte de frontend; me desempeñé como Software Engineer - Junior, realizando tareas de implementación de módulos, pruebas y soporte al despliegue. Participé en actividades de programación en Java (Lenguaje de programación para desarrollo de aplicaciones) y uso de frameworks para asegurar el correcto funcionamiento de aplicaciones, colaborando con el equipo en la resolución de incidencias y en la elaboración de documentación técnica que soportó los procesos de entrega.",
+  "estudios": {
+    "carrera": "Ingeniero en computación",
+    "lugar": "Facultad de Estudios Superiores Aragón, UNAM - Nezahualcóyotl",
+    "periodo": "agosto de 2017 - enero de 2022"
+  },
+  "herramientas": [
+    {
+      "nombre": "Java 8"
+    },
+    {
+      "nombre": "Java 9"
+    },
+    {
+      "nombre": "Spring Framework"
+    },
+    {
+      "nombre": "Spring Boot"
+    },
+    {
+      "nombre": "Hibernate"
+    },
+    {
+      "nombre": "JSP"
+    },
+    {
+      "nombre": "AngularJS"
+    },
+    {
+      "nombre": "Angular (Framework frontend para aplicaciones SPA)"
+    },
+    {
+      "nombre": "HTML5"
+    },
+    {
+      "nombre": "CSS3"
+    },
+    {
+      "nombre": "TypeScript"
+    },
+    {
+      "nombre": "JavaScript"
+    },
+    {
+      "nombre": "Oracle Database (Motor de base de datos empresarial)"
+    },
+    {
+      "nombre": "PostgreSQL (Base de datos relacional avanzada)"
+    },
+    {
+      "nombre": "MySQL"
+    },
+    {
+      "nombre": "Maven"
+    },
+    {
+      "nombre": "GitHub"
+    },
+    {
+      "nombre": "Bitbucket (Repositorio de código y colaboración)"
+    },
+    {
+      "nombre": "Jenkins (Automatización de pipelines CI/CD)"
+    },
+    {
+      "nombre": "JIRA (Herramienta de gestión ágil y seguimiento de issues/sprints)"
+    },
+    {
+      "nombre": "PowerDesigner"
+    },
+    {
+      "nombre": "Control-M"
+    },
+    {
+      "nombre": "DataX"
+    },
+    {
+      "nombre": "Laravel"
+    },
+    {
+      "nombre": "Ajax"
+    },
+    {
+      "nombre": "jQuery"
+    },
+    {
+      "nombre": "Bootstrap"
+    }
+    ],
+  "certificaciones": [],
+  "cursos": [
+    {
+      "nombre": "JSP, Servlets and JDBC for Beginners: Build a Database App"
+    },
+    {
+      "nombre": "Master Microservices with Spring Boot and Spring Cloud"
+    },
+    {
+      "nombre": "Microservices: Designing Highly Scalable Systems"
+    },
+    {
+      "nombre": "Microservices Architecture – The Complete Guide"
+    },
+    {
+      "nombre": "Principios SOLID y Clean Code. Escribe código de calidad"
+    },
+    {
+      "nombre": "Spring MVC For Beginners – Build Java Web App in 25 Steps"
+    },
+    {
+      "nombre": "UML Class Diagrams for Programmers"
+    },
+    {
+      "nombre": "Web Design for Beginners: Real World Coding in HTML & CSS"
+    }
+    ]
+}
+]

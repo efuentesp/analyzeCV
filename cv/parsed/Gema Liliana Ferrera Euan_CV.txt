@@ -1,0 +1,489 @@
+GEMA LILIANA FERRERA EUAN
+DESARROLLADORA DE SOFTWARE
+PERFIL:
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa:
+Softtek | Nombre de la empresa:
+Softtek | Lugar:
+Mérida, Yucatán
+(Remoto) | Puesto:
+ L3 Technical Support | Desde: 
+23 de Septiembre del 2024 | A:
+Ahora
+Colaboración en el proyecto "Servicio de Estabilización de Aplicativos TTS" de CitiBank México: Automatización del ciclo de vida de 3 aplicaciones Java Middleware, utilizando pipelines de Continuous Integration (CI) y Countinuos Deployment (CD), que puedan establecer un despliegue rápido, seguro y consistente en los ambientes de desarrollo, pruebas y producción.
+Actividades:
+Aplicación de Scrum y Kanban como marcos de trabajo ágil.
+Análisis de código fuente.
+Carga de código fuente en los repositorios institucionales.
+Adecuación del template del rol Ansible para despliegue en el servidor WebLogic: Personalización de archivos YAML.
+Generación de los pipelines de CI/CD.
+Generación de los Manifest: definición de pasos de los pipelines de CD en LightSpeed Enterprise.
+Monitoreo de logs de CD.
+Uso de comandos básicos para la administración de directorios y archivos en Linux.
+Uso de las herramientas Service Now (SaaS y Fuji), para la creación de Incidentes, REQUs y Change Requests.
+Atención de reuniones con los operadores e ingenieros DevOps para la implementación del rol Ansible de WebLogic, así como para proporcionarles feedback de la misma.
+Participación en sesiones del Scrum sprint (daily meetings, refinamiento, planning o estimación de historias de usuario y subtareas, sprint review & demo, sprint retrospective).
+Participación en reuniones de seguimiento de acuerdo a la metodología ágil Kanban.
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training.
+Atención de hallazgos de tipo “code smells” del escáner del código estático (Sonarqube), para mejorar la calidad de código fuente. | Colaboración en el proyecto "Servicio de Estabilización de Aplicativos TTS" de CitiBank México: Automatización del ciclo de vida de 3 aplicaciones Java Middleware, utilizando pipelines de Continuous Integration (CI) y Countinuos Deployment (CD), que puedan establecer un despliegue rápido, seguro y consistente en los ambientes de desarrollo, pruebas y producción.
+Actividades:
+Aplicación de Scrum y Kanban como marcos de trabajo ágil.
+Análisis de código fuente.
+Carga de código fuente en los repositorios institucionales.
+Adecuación del template del rol Ansible para despliegue en el servidor WebLogic: Personalización de archivos YAML.
+Generación de los pipelines de CI/CD.
+Generación de los Manifest: definición de pasos de los pipelines de CD en LightSpeed Enterprise.
+Monitoreo de logs de CD.
+Uso de comandos básicos para la administración de directorios y archivos en Linux.
+Uso de las herramientas Service Now (SaaS y Fuji), para la creación de Incidentes, REQUs y Change Requests.
+Atención de reuniones con los operadores e ingenieros DevOps para la implementación del rol Ansible de WebLogic, así como para proporcionarles feedback de la misma.
+Participación en sesiones del Scrum sprint (daily meetings, refinamiento, planning o estimación de historias de usuario y subtareas, sprint review & demo, sprint retrospective).
+Participación en reuniones de seguimiento de acuerdo a la metodología ágil Kanban.
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training.
+Atención de hallazgos de tipo “code smells” del escáner del código estático (Sonarqube), para mejorar la calidad de código fuente. | Colaboración en el proyecto "Servicio de Estabilización de Aplicativos TTS" de CitiBank México: Automatización del ciclo de vida de 3 aplicaciones Java Middleware, utilizando pipelines de Continuous Integration (CI) y Countinuos Deployment (CD), que puedan establecer un despliegue rápido, seguro y consistente en los ambientes de desarrollo, pruebas y producción.
+Actividades:
+Aplicación de Scrum y Kanban como marcos de trabajo ágil.
+Análisis de código fuente.
+Carga de código fuente en los repositorios institucionales.
+Adecuación del template del rol Ansible para despliegue en el servidor WebLogic: Personalización de archivos YAML.
+Generación de los pipelines de CI/CD.
+Generación de los Manifest: definición de pasos de los pipelines de CD en LightSpeed Enterprise.
+Monitoreo de logs de CD.
+Uso de comandos básicos para la administración de directorios y archivos en Linux.
+Uso de las herramientas Service Now (SaaS y Fuji), para la creación de Incidentes, REQUs y Change Requests.
+Atención de reuniones con los operadores e ingenieros DevOps para la implementación del rol Ansible de WebLogic, así como para proporcionarles feedback de la misma.
+Participación en sesiones del Scrum sprint (daily meetings, refinamiento, planning o estimación de historias de usuario y subtareas, sprint review & demo, sprint retrospective).
+Participación en reuniones de seguimiento de acuerdo a la metodología ágil Kanban.
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training.
+Atención de hallazgos de tipo “code smells” del escáner del código estático (Sonarqube), para mejorar la calidad de código fuente. | Colaboración en el proyecto "Servicio de Estabilización de Aplicativos TTS" de CitiBank México: Automatización del ciclo de vida de 3 aplicaciones Java Middleware, utilizando pipelines de Continuous Integration (CI) y Countinuos Deployment (CD), que puedan establecer un despliegue rápido, seguro y consistente en los ambientes de desarrollo, pruebas y producción.
+Actividades:
+Aplicación de Scrum y Kanban como marcos de trabajo ágil.
+Análisis de código fuente.
+Carga de código fuente en los repositorios institucionales.
+Adecuación del template del rol Ansible para despliegue en el servidor WebLogic: Personalización de archivos YAML.
+Generación de los pipelines de CI/CD.
+Generación de los Manifest: definición de pasos de los pipelines de CD en LightSpeed Enterprise.
+Monitoreo de logs de CD.
+Uso de comandos básicos para la administración de directorios y archivos en Linux.
+Uso de las herramientas Service Now (SaaS y Fuji), para la creación de Incidentes, REQUs y Change Requests.
+Atención de reuniones con los operadores e ingenieros DevOps para la implementación del rol Ansible de WebLogic, así como para proporcionarles feedback de la misma.
+Participación en sesiones del Scrum sprint (daily meetings, refinamiento, planning o estimación de historias de usuario y subtareas, sprint review & demo, sprint retrospective).
+Participación en reuniones de seguimiento de acuerdo a la metodología ágil Kanban.
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training.
+Atención de hallazgos de tipo “code smells” del escáner del código estático (Sonarqube), para mejorar la calidad de código fuente. | Colaboración en el proyecto "Servicio de Estabilización de Aplicativos TTS" de CitiBank México: Automatización del ciclo de vida de 3 aplicaciones Java Middleware, utilizando pipelines de Continuous Integration (CI) y Countinuos Deployment (CD), que puedan establecer un despliegue rápido, seguro y consistente en los ambientes de desarrollo, pruebas y producción.
+Actividades:
+Aplicación de Scrum y Kanban como marcos de trabajo ágil.
+Análisis de código fuente.
+Carga de código fuente en los repositorios institucionales.
+Adecuación del template del rol Ansible para despliegue en el servidor WebLogic: Personalización de archivos YAML.
+Generación de los pipelines de CI/CD.
+Generación de los Manifest: definición de pasos de los pipelines de CD en LightSpeed Enterprise.
+Monitoreo de logs de CD.
+Uso de comandos básicos para la administración de directorios y archivos en Linux.
+Uso de las herramientas Service Now (SaaS y Fuji), para la creación de Incidentes, REQUs y Change Requests.
+Atención de reuniones con los operadores e ingenieros DevOps para la implementación del rol Ansible de WebLogic, así como para proporcionarles feedback de la misma.
+Participación en sesiones del Scrum sprint (daily meetings, refinamiento, planning o estimación de historias de usuario y subtareas, sprint review & demo, sprint retrospective).
+Participación en reuniones de seguimiento de acuerdo a la metodología ágil Kanban.
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training.
+Atención de hallazgos de tipo “code smells” del escáner del código estático (Sonarqube), para mejorar la calidad de código fuente. | Colaboración en el proyecto "Servicio de Estabilización de Aplicativos TTS" de CitiBank México: Automatización del ciclo de vida de 3 aplicaciones Java Middleware, utilizando pipelines de Continuous Integration (CI) y Countinuos Deployment (CD), que puedan establecer un despliegue rápido, seguro y consistente en los ambientes de desarrollo, pruebas y producción.
+Actividades:
+Aplicación de Scrum y Kanban como marcos de trabajo ágil.
+Análisis de código fuente.
+Carga de código fuente en los repositorios institucionales.
+Adecuación del template del rol Ansible para despliegue en el servidor WebLogic: Personalización de archivos YAML.
+Generación de los pipelines de CI/CD.
+Generación de los Manifest: definición de pasos de los pipelines de CD en LightSpeed Enterprise.
+Monitoreo de logs de CD.
+Uso de comandos básicos para la administración de directorios y archivos en Linux.
+Uso de las herramientas Service Now (SaaS y Fuji), para la creación de Incidentes, REQUs y Change Requests.
+Atención de reuniones con los operadores e ingenieros DevOps para la implementación del rol Ansible de WebLogic, así como para proporcionarles feedback de la misma.
+Participación en sesiones del Scrum sprint (daily meetings, refinamiento, planning o estimación de historias de usuario y subtareas, sprint review & demo, sprint retrospective).
+Participación en reuniones de seguimiento de acuerdo a la metodología ágil Kanban.
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training.
+Atención de hallazgos de tipo “code smells” del escáner del código estático (Sonarqube), para mejorar la calidad de código fuente.
+Herramientas: | JavaEE, WebLogic, LightSpeed, Tekton(Openshift), Harness, SaaS (Service Now Citi), Eclipse, Maven , MS Visual Studio Code, Git, GitBash, Bitbucket, Confluence, Jira, Starfleet (Citi), Ansible (YAML), Tectia. | JavaEE, WebLogic, LightSpeed, Tekton(Openshift), Harness, SaaS (Service Now Citi), Eclipse, Maven , MS Visual Studio Code, Git, GitBash, Bitbucket, Confluence, Jira, Starfleet (Citi), Ansible (YAML), Tectia. | JavaEE, WebLogic, LightSpeed, Tekton(Openshift), Harness, SaaS (Service Now Citi), Eclipse, Maven , MS Visual Studio Code, Git, GitBash, Bitbucket, Confluence, Jira, Starfleet (Citi), Ansible (YAML), Tectia. | JavaEE, WebLogic, LightSpeed, Tekton(Openshift), Harness, SaaS (Service Now Citi), Eclipse, Maven , MS Visual Studio Code, Git, GitBash, Bitbucket, Confluence, Jira, Starfleet (Citi), Ansible (YAML), Tectia. | JavaEE, WebLogic, LightSpeed, Tekton(Openshift), Harness, SaaS (Service Now Citi), Eclipse, Maven , MS Visual Studio Code, Git, GitBash, Bitbucket, Confluence, Jira, Starfleet (Citi), Ansible (YAML), Tectia.
+Logros: | Automatización del ciclo de vida de aplicaciones Java Enterprise (Middleware).
+Artefactos publicados exitosamente en el repositorio institucional de aplicaciones.
+Aplicaciones instaladas en los ambientes DEV, UAT y PROD.
+Código cargado en los repositorios de código, en sus respectivas ramas de desarrollo y liberación.
+Mejora en el uso de las plataformas Service Now (SaaS y Fuji) de Citi.
+Mejora de comunicación (en inglés y español) con los diferentes miembros de los equipos de trabajo.
+Entrega de actividades en tiempo y forma.
+Mejora de la calidad del código fuente, aplicando buenas prácticas de codificación. | Automatización del ciclo de vida de aplicaciones Java Enterprise (Middleware).
+Artefactos publicados exitosamente en el repositorio institucional de aplicaciones.
+Aplicaciones instaladas en los ambientes DEV, UAT y PROD.
+Código cargado en los repositorios de código, en sus respectivas ramas de desarrollo y liberación.
+Mejora en el uso de las plataformas Service Now (SaaS y Fuji) de Citi.
+Mejora de comunicación (en inglés y español) con los diferentes miembros de los equipos de trabajo.
+Entrega de actividades en tiempo y forma.
+Mejora de la calidad del código fuente, aplicando buenas prácticas de codificación. | Automatización del ciclo de vida de aplicaciones Java Enterprise (Middleware).
+Artefactos publicados exitosamente en el repositorio institucional de aplicaciones.
+Aplicaciones instaladas en los ambientes DEV, UAT y PROD.
+Código cargado en los repositorios de código, en sus respectivas ramas de desarrollo y liberación.
+Mejora en el uso de las plataformas Service Now (SaaS y Fuji) de Citi.
+Mejora de comunicación (en inglés y español) con los diferentes miembros de los equipos de trabajo.
+Entrega de actividades en tiempo y forma.
+Mejora de la calidad del código fuente, aplicando buenas prácticas de codificación. | Automatización del ciclo de vida de aplicaciones Java Enterprise (Middleware).
+Artefactos publicados exitosamente en el repositorio institucional de aplicaciones.
+Aplicaciones instaladas en los ambientes DEV, UAT y PROD.
+Código cargado en los repositorios de código, en sus respectivas ramas de desarrollo y liberación.
+Mejora en el uso de las plataformas Service Now (SaaS y Fuji) de Citi.
+Mejora de comunicación (en inglés y español) con los diferentes miembros de los equipos de trabajo.
+Entrega de actividades en tiempo y forma.
+Mejora de la calidad del código fuente, aplicando buenas prácticas de codificación. | Automatización del ciclo de vida de aplicaciones Java Enterprise (Middleware).
+Artefactos publicados exitosamente en el repositorio institucional de aplicaciones.
+Aplicaciones instaladas en los ambientes DEV, UAT y PROD.
+Código cargado en los repositorios de código, en sus respectivas ramas de desarrollo y liberación.
+Mejora en el uso de las plataformas Service Now (SaaS y Fuji) de Citi.
+Mejora de comunicación (en inglés y español) con los diferentes miembros de los equipos de trabajo.
+Entrega de actividades en tiempo y forma.
+Mejora de la calidad del código fuente, aplicando buenas prácticas de codificación.
+Nombre de la empresa:
+Softtek | Nombre de la empresa:
+Softtek | Lugar:
+Mérida, Yucatán
+(Remoto) | Puesto:
+ Software Engineer Beginner | Desde: 
+18 de Enero del 2024 | A:
+19 de Septiembre del 2024
+Colaboración en el proyecto "Plata Afore" de Citibanamex: desarrollo y documentación de funcionalidades requeridas en los productos, asegurando su correcto funcionamiento durante la ejecución de pruebas, para convertirlos en valor hacia los clientes de la organización.
+Actividades:
+Aplicación de Scrum como marco de trabajo ágil.
+Entendimiento de las funcionalidades que se codificarían.
+Confirmación de las aplicaciones impactadas, conectadas y de soporte, durante el Refinamiento con base en la solución técnica.
+Colaboración en el diseño de la solución en conjunto con roles como el Tech Lead, Testers, etc.
+Generación de código fuente de las historias de usuario seleccionadas en el Sprint y gestionar su versionado en los repositorios correspondientes.
+Ejecución y documentación de pruebas unitarias o equivalentes para cada componente de desarrollo.
+Solución de los defectos encontrados, en pruebas unitarias o funcionales.
+Participación en sesiones del sprint (daily meetings, refinamiento, planning o estimación de historias de usuario, sprint review, etc).
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training. | Colaboración en el proyecto "Plata Afore" de Citibanamex: desarrollo y documentación de funcionalidades requeridas en los productos, asegurando su correcto funcionamiento durante la ejecución de pruebas, para convertirlos en valor hacia los clientes de la organización.
+Actividades:
+Aplicación de Scrum como marco de trabajo ágil.
+Entendimiento de las funcionalidades que se codificarían.
+Confirmación de las aplicaciones impactadas, conectadas y de soporte, durante el Refinamiento con base en la solución técnica.
+Colaboración en el diseño de la solución en conjunto con roles como el Tech Lead, Testers, etc.
+Generación de código fuente de las historias de usuario seleccionadas en el Sprint y gestionar su versionado en los repositorios correspondientes.
+Ejecución y documentación de pruebas unitarias o equivalentes para cada componente de desarrollo.
+Solución de los defectos encontrados, en pruebas unitarias o funcionales.
+Participación en sesiones del sprint (daily meetings, refinamiento, planning o estimación de historias de usuario, sprint review, etc).
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training. | Colaboración en el proyecto "Plata Afore" de Citibanamex: desarrollo y documentación de funcionalidades requeridas en los productos, asegurando su correcto funcionamiento durante la ejecución de pruebas, para convertirlos en valor hacia los clientes de la organización.
+Actividades:
+Aplicación de Scrum como marco de trabajo ágil.
+Entendimiento de las funcionalidades que se codificarían.
+Confirmación de las aplicaciones impactadas, conectadas y de soporte, durante el Refinamiento con base en la solución técnica.
+Colaboración en el diseño de la solución en conjunto con roles como el Tech Lead, Testers, etc.
+Generación de código fuente de las historias de usuario seleccionadas en el Sprint y gestionar su versionado en los repositorios correspondientes.
+Ejecución y documentación de pruebas unitarias o equivalentes para cada componente de desarrollo.
+Solución de los defectos encontrados, en pruebas unitarias o funcionales.
+Participación en sesiones del sprint (daily meetings, refinamiento, planning o estimación de historias de usuario, sprint review, etc).
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training. | Colaboración en el proyecto "Plata Afore" de Citibanamex: desarrollo y documentación de funcionalidades requeridas en los productos, asegurando su correcto funcionamiento durante la ejecución de pruebas, para convertirlos en valor hacia los clientes de la organización.
+Actividades:
+Aplicación de Scrum como marco de trabajo ágil.
+Entendimiento de las funcionalidades que se codificarían.
+Confirmación de las aplicaciones impactadas, conectadas y de soporte, durante el Refinamiento con base en la solución técnica.
+Colaboración en el diseño de la solución en conjunto con roles como el Tech Lead, Testers, etc.
+Generación de código fuente de las historias de usuario seleccionadas en el Sprint y gestionar su versionado en los repositorios correspondientes.
+Ejecución y documentación de pruebas unitarias o equivalentes para cada componente de desarrollo.
+Solución de los defectos encontrados, en pruebas unitarias o funcionales.
+Participación en sesiones del sprint (daily meetings, refinamiento, planning o estimación de historias de usuario, sprint review, etc).
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training. | Colaboración en el proyecto "Plata Afore" de Citibanamex: desarrollo y documentación de funcionalidades requeridas en los productos, asegurando su correcto funcionamiento durante la ejecución de pruebas, para convertirlos en valor hacia los clientes de la organización.
+Actividades:
+Aplicación de Scrum como marco de trabajo ágil.
+Entendimiento de las funcionalidades que se codificarían.
+Confirmación de las aplicaciones impactadas, conectadas y de soporte, durante el Refinamiento con base en la solución técnica.
+Colaboración en el diseño de la solución en conjunto con roles como el Tech Lead, Testers, etc.
+Generación de código fuente de las historias de usuario seleccionadas en el Sprint y gestionar su versionado en los repositorios correspondientes.
+Ejecución y documentación de pruebas unitarias o equivalentes para cada componente de desarrollo.
+Solución de los defectos encontrados, en pruebas unitarias o funcionales.
+Participación en sesiones del sprint (daily meetings, refinamiento, planning o estimación de historias de usuario, sprint review, etc).
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training. | Colaboración en el proyecto "Plata Afore" de Citibanamex: desarrollo y documentación de funcionalidades requeridas en los productos, asegurando su correcto funcionamiento durante la ejecución de pruebas, para convertirlos en valor hacia los clientes de la organización.
+Actividades:
+Aplicación de Scrum como marco de trabajo ágil.
+Entendimiento de las funcionalidades que se codificarían.
+Confirmación de las aplicaciones impactadas, conectadas y de soporte, durante el Refinamiento con base en la solución técnica.
+Colaboración en el diseño de la solución en conjunto con roles como el Tech Lead, Testers, etc.
+Generación de código fuente de las historias de usuario seleccionadas en el Sprint y gestionar su versionado en los repositorios correspondientes.
+Ejecución y documentación de pruebas unitarias o equivalentes para cada componente de desarrollo.
+Solución de los defectos encontrados, en pruebas unitarias o funcionales.
+Participación en sesiones del sprint (daily meetings, refinamiento, planning o estimación de historias de usuario, sprint review, etc).
+Realización de cursos de entrenamiento para “no empleados” a través de la plataforma Citi Training.
+Herramientas: | Java, Spring Boot/Spring Framework, Javascript, HTML, CSS, Oracle SQL Developer, Postman, Eclipse, MS Visual Studio Code, Git, Bitbucket, Confluence, Jira, TIBCO Jaspersoft, Tomcat, Maven, Thymeleaf, JUNIT | Java, Spring Boot/Spring Framework, Javascript, HTML, CSS, Oracle SQL Developer, Postman, Eclipse, MS Visual Studio Code, Git, Bitbucket, Confluence, Jira, TIBCO Jaspersoft, Tomcat, Maven, Thymeleaf, JUNIT | Java, Spring Boot/Spring Framework, Javascript, HTML, CSS, Oracle SQL Developer, Postman, Eclipse, MS Visual Studio Code, Git, Bitbucket, Confluence, Jira, TIBCO Jaspersoft, Tomcat, Maven, Thymeleaf, JUNIT | Java, Spring Boot/Spring Framework, Javascript, HTML, CSS, Oracle SQL Developer, Postman, Eclipse, MS Visual Studio Code, Git, Bitbucket, Confluence, Jira, TIBCO Jaspersoft, Tomcat, Maven, Thymeleaf, JUNIT | Java, Spring Boot/Spring Framework, Javascript, HTML, CSS, Oracle SQL Developer, Postman, Eclipse, MS Visual Studio Code, Git, Bitbucket, Confluence, Jira, TIBCO Jaspersoft, Tomcat, Maven, Thymeleaf, JUNIT
+Logros: | Aprendizaje de procesos para AFORES de la industria bancaria.
+Mejora en el dominio de las herramientas y lenguaje de programación involucrados en el proyecto.
+Entrega de actividades en tiempo y forma.
+Adaptación e implementación de una metodología de desarrollo ágil.
+Mejora de comunicación en los diferentes roles del equipo de trabajo. | Aprendizaje de procesos para AFORES de la industria bancaria.
+Mejora en el dominio de las herramientas y lenguaje de programación involucrados en el proyecto.
+Entrega de actividades en tiempo y forma.
+Adaptación e implementación de una metodología de desarrollo ágil.
+Mejora de comunicación en los diferentes roles del equipo de trabajo. | Aprendizaje de procesos para AFORES de la industria bancaria.
+Mejora en el dominio de las herramientas y lenguaje de programación involucrados en el proyecto.
+Entrega de actividades en tiempo y forma.
+Adaptación e implementación de una metodología de desarrollo ágil.
+Mejora de comunicación en los diferentes roles del equipo de trabajo. | Aprendizaje de procesos para AFORES de la industria bancaria.
+Mejora en el dominio de las herramientas y lenguaje de programación involucrados en el proyecto.
+Entrega de actividades en tiempo y forma.
+Adaptación e implementación de una metodología de desarrollo ágil.
+Mejora de comunicación en los diferentes roles del equipo de trabajo. | Aprendizaje de procesos para AFORES de la industria bancaria.
+Mejora en el dominio de las herramientas y lenguaje de programación involucrados en el proyecto.
+Entrega de actividades en tiempo y forma.
+Adaptación e implementación de una metodología de desarrollo ágil.
+Mejora de comunicación en los diferentes roles del equipo de trabajo.
+Nombre de la empresa:
+Softtek | Nombre de la empresa:
+Softtek | Lugar:
+Mérida, Yucatán
+(Remoto) | Puesto:
+ Software Engineer Trainee | Desde: 
+27 de Noviembre del 2023 | A:
+17 de Enero del 2024
+Participación en el proyecto “Academia Java Citi” en Softtek.
+
+Actividades:
+Generación de diagramas UML (clases, secuencia, casos de uso).
+Generación de proyectos con programación orientada a objetos.
+Implementación de técnicas de ingeniería de software aplicadas a la programación (TISAP) en los proyectos generados, para mejorar la calidad del código.
+Generación de proyectos con Data Access Object (DAO) y Spring Boot/Spring Framework y JPA.
+Generación de 18 proyectos guiados por Udemy, utilizando herramientas HTML, CSS y JavaScript.
+Conocimiento de los versionadores Citi y la herramienta Servicenow. | Participación en el proyecto “Academia Java Citi” en Softtek.
+
+Actividades:
+Generación de diagramas UML (clases, secuencia, casos de uso).
+Generación de proyectos con programación orientada a objetos.
+Implementación de técnicas de ingeniería de software aplicadas a la programación (TISAP) en los proyectos generados, para mejorar la calidad del código.
+Generación de proyectos con Data Access Object (DAO) y Spring Boot/Spring Framework y JPA.
+Generación de 18 proyectos guiados por Udemy, utilizando herramientas HTML, CSS y JavaScript.
+Conocimiento de los versionadores Citi y la herramienta Servicenow. | Participación en el proyecto “Academia Java Citi” en Softtek.
+
+Actividades:
+Generación de diagramas UML (clases, secuencia, casos de uso).
+Generación de proyectos con programación orientada a objetos.
+Implementación de técnicas de ingeniería de software aplicadas a la programación (TISAP) en los proyectos generados, para mejorar la calidad del código.
+Generación de proyectos con Data Access Object (DAO) y Spring Boot/Spring Framework y JPA.
+Generación de 18 proyectos guiados por Udemy, utilizando herramientas HTML, CSS y JavaScript.
+Conocimiento de los versionadores Citi y la herramienta Servicenow. | Participación en el proyecto “Academia Java Citi” en Softtek.
+
+Actividades:
+Generación de diagramas UML (clases, secuencia, casos de uso).
+Generación de proyectos con programación orientada a objetos.
+Implementación de técnicas de ingeniería de software aplicadas a la programación (TISAP) en los proyectos generados, para mejorar la calidad del código.
+Generación de proyectos con Data Access Object (DAO) y Spring Boot/Spring Framework y JPA.
+Generación de 18 proyectos guiados por Udemy, utilizando herramientas HTML, CSS y JavaScript.
+Conocimiento de los versionadores Citi y la herramienta Servicenow. | Participación en el proyecto “Academia Java Citi” en Softtek.
+
+Actividades:
+Generación de diagramas UML (clases, secuencia, casos de uso).
+Generación de proyectos con programación orientada a objetos.
+Implementación de técnicas de ingeniería de software aplicadas a la programación (TISAP) en los proyectos generados, para mejorar la calidad del código.
+Generación de proyectos con Data Access Object (DAO) y Spring Boot/Spring Framework y JPA.
+Generación de 18 proyectos guiados por Udemy, utilizando herramientas HTML, CSS y JavaScript.
+Conocimiento de los versionadores Citi y la herramienta Servicenow. | Participación en el proyecto “Academia Java Citi” en Softtek.
+
+Actividades:
+Generación de diagramas UML (clases, secuencia, casos de uso).
+Generación de proyectos con programación orientada a objetos.
+Implementación de técnicas de ingeniería de software aplicadas a la programación (TISAP) en los proyectos generados, para mejorar la calidad del código.
+Generación de proyectos con Data Access Object (DAO) y Spring Boot/Spring Framework y JPA.
+Generación de 18 proyectos guiados por Udemy, utilizando herramientas HTML, CSS y JavaScript.
+Conocimiento de los versionadores Citi y la herramienta Servicenow.
+Herramientas: | Java, UML, SQL Server, MySQL Workbench, Umbrello, Drawio, JPA, Spring Boot/Spring Framework, Javascript, HTML, CSS, Git, Bitbucket, Servicenow. | Java, UML, SQL Server, MySQL Workbench, Umbrello, Drawio, JPA, Spring Boot/Spring Framework, Javascript, HTML, CSS, Git, Bitbucket, Servicenow. | Java, UML, SQL Server, MySQL Workbench, Umbrello, Drawio, JPA, Spring Boot/Spring Framework, Javascript, HTML, CSS, Git, Bitbucket, Servicenow. | Java, UML, SQL Server, MySQL Workbench, Umbrello, Drawio, JPA, Spring Boot/Spring Framework, Javascript, HTML, CSS, Git, Bitbucket, Servicenow. | Java, UML, SQL Server, MySQL Workbench, Umbrello, Drawio, JPA, Spring Boot/Spring Framework, Javascript, HTML, CSS, Git, Bitbucket, Servicenow.
+Logros: | Dominio de las herramientas involucradas.
+Entrega de proyectos con lo solicitado.
+Adaptación al nuevo esquema de trabajo.
+Mejora de comunicación en los equipos de trabajo. | Dominio de las herramientas involucradas.
+Entrega de proyectos con lo solicitado.
+Adaptación al nuevo esquema de trabajo.
+Mejora de comunicación en los equipos de trabajo. | Dominio de las herramientas involucradas.
+Entrega de proyectos con lo solicitado.
+Adaptación al nuevo esquema de trabajo.
+Mejora de comunicación en los equipos de trabajo. | Dominio de las herramientas involucradas.
+Entrega de proyectos con lo solicitado.
+Adaptación al nuevo esquema de trabajo.
+Mejora de comunicación en los equipos de trabajo. | Dominio de las herramientas involucradas.
+Entrega de proyectos con lo solicitado.
+Adaptación al nuevo esquema de trabajo.
+Mejora de comunicación en los equipos de trabajo.
+Nombre de la empresa:
+CentroGeo Subsede Yucatán | Nombre de la empresa:
+CentroGeo Subsede Yucatán | Lugar:
+Parque Científico y Tecnológico de Yucatán (Yucatán, México) | Puesto:
+ Programadora | Desde: 
+Marzo del 2020 | A: 
+Octubre del 2022
+Apoyo en la programación y mantenimiento de plataformas digitales para la geovisualización y analítica visual de datos generados.
+
+Actividades:
+Desarrollo de formularios, diseño de la plataforma web en frontend.
+Participación en reuniones internas para seguiiento.
+Ejecución de pruebas manuales para distintos módulos
+Reporte de incidencias de los módulos probados.
+Elaboración de manuales de usuario y documentación de casos de prueba. | Apoyo en la programación y mantenimiento de plataformas digitales para la geovisualización y analítica visual de datos generados.
+
+Actividades:
+Desarrollo de formularios, diseño de la plataforma web en frontend.
+Participación en reuniones internas para seguiiento.
+Ejecución de pruebas manuales para distintos módulos
+Reporte de incidencias de los módulos probados.
+Elaboración de manuales de usuario y documentación de casos de prueba. | Apoyo en la programación y mantenimiento de plataformas digitales para la geovisualización y analítica visual de datos generados.
+
+Actividades:
+Desarrollo de formularios, diseño de la plataforma web en frontend.
+Participación en reuniones internas para seguiiento.
+Ejecución de pruebas manuales para distintos módulos
+Reporte de incidencias de los módulos probados.
+Elaboración de manuales de usuario y documentación de casos de prueba. | Apoyo en la programación y mantenimiento de plataformas digitales para la geovisualización y analítica visual de datos generados.
+
+Actividades:
+Desarrollo de formularios, diseño de la plataforma web en frontend.
+Participación en reuniones internas para seguiiento.
+Ejecución de pruebas manuales para distintos módulos
+Reporte de incidencias de los módulos probados.
+Elaboración de manuales de usuario y documentación de casos de prueba. | Apoyo en la programación y mantenimiento de plataformas digitales para la geovisualización y analítica visual de datos generados.
+
+Actividades:
+Desarrollo de formularios, diseño de la plataforma web en frontend.
+Participación en reuniones internas para seguiiento.
+Ejecución de pruebas manuales para distintos módulos
+Reporte de incidencias de los módulos probados.
+Elaboración de manuales de usuario y documentación de casos de prueba. | Apoyo en la programación y mantenimiento de plataformas digitales para la geovisualización y analítica visual de datos generados.
+
+Actividades:
+Desarrollo de formularios, diseño de la plataforma web en frontend.
+Participación en reuniones internas para seguiiento.
+Ejecución de pruebas manuales para distintos módulos
+Reporte de incidencias de los módulos probados.
+Elaboración de manuales de usuario y documentación de casos de prueba.
+Herramientas: | HTML, CSS, JS, VueJS, Trello, Git, Gitlab, SQL, Linux, Postman, MS Visual Studio Code | HTML, CSS, JS, VueJS, Trello, Git, Gitlab, SQL, Linux, Postman, MS Visual Studio Code | HTML, CSS, JS, VueJS, Trello, Git, Gitlab, SQL, Linux, Postman, MS Visual Studio Code | HTML, CSS, JS, VueJS, Trello, Git, Gitlab, SQL, Linux, Postman, MS Visual Studio Code | HTML, CSS, JS, VueJS, Trello, Git, Gitlab, SQL, Linux, Postman, MS Visual Studio Code
+Logros: | Reducción de los defectos de los módulos probados
+Adaptación del trabajo a distancia
+Adquirir experiencia en desarrollo frontend en plataformas web. | Reducción de los defectos de los módulos probados
+Adaptación del trabajo a distancia
+Adquirir experiencia en desarrollo frontend en plataformas web. | Reducción de los defectos de los módulos probados
+Adaptación del trabajo a distancia
+Adquirir experiencia en desarrollo frontend en plataformas web. | Reducción de los defectos de los módulos probados
+Adaptación del trabajo a distancia
+Adquirir experiencia en desarrollo frontend en plataformas web. | Reducción de los defectos de los módulos probados
+Adaptación del trabajo a distancia
+Adquirir experiencia en desarrollo frontend en plataformas web.
+Nombre de la empresa: 
+Subsecretaría de Tecnologías de la Información y Comunicaciones del Gobierno del estado de Yucatán | Nombre de la empresa: 
+Subsecretaría de Tecnologías de la Información y Comunicaciones del Gobierno del estado de Yucatán | Lugar:
+Yucatán, México | Puesto:
+Documentadora | Desde: 
+Septiembre 2019 | A: 
+Diciembre 2019
+Documentación de los servicios de implementación de un macrosistema de tipo GRP que administra las dependencias y entidades del Gobierno del estado de Yucatán.
+
+Actividades:
+Elaboración de diagramas de flujo y componentes.
+Análisis de casos de uso y sus respectivos diagramas.
+Análisis de diagramas de procesos de los sistemas internos.
+Reuniones internas con los encargados de los sistemas.
+Reuniones externas con los consultores miembros de la empresa proveedora de los servicios de implementación.
+Colaboración en la elaboración de minutas de reuniones de trabajo. | Documentación de los servicios de implementación de un macrosistema de tipo GRP que administra las dependencias y entidades del Gobierno del estado de Yucatán.
+
+Actividades:
+Elaboración de diagramas de flujo y componentes.
+Análisis de casos de uso y sus respectivos diagramas.
+Análisis de diagramas de procesos de los sistemas internos.
+Reuniones internas con los encargados de los sistemas.
+Reuniones externas con los consultores miembros de la empresa proveedora de los servicios de implementación.
+Colaboración en la elaboración de minutas de reuniones de trabajo. | Documentación de los servicios de implementación de un macrosistema de tipo GRP que administra las dependencias y entidades del Gobierno del estado de Yucatán.
+
+Actividades:
+Elaboración de diagramas de flujo y componentes.
+Análisis de casos de uso y sus respectivos diagramas.
+Análisis de diagramas de procesos de los sistemas internos.
+Reuniones internas con los encargados de los sistemas.
+Reuniones externas con los consultores miembros de la empresa proveedora de los servicios de implementación.
+Colaboración en la elaboración de minutas de reuniones de trabajo. | Documentación de los servicios de implementación de un macrosistema de tipo GRP que administra las dependencias y entidades del Gobierno del estado de Yucatán.
+
+Actividades:
+Elaboración de diagramas de flujo y componentes.
+Análisis de casos de uso y sus respectivos diagramas.
+Análisis de diagramas de procesos de los sistemas internos.
+Reuniones internas con los encargados de los sistemas.
+Reuniones externas con los consultores miembros de la empresa proveedora de los servicios de implementación.
+Colaboración en la elaboración de minutas de reuniones de trabajo. | Documentación de los servicios de implementación de un macrosistema de tipo GRP que administra las dependencias y entidades del Gobierno del estado de Yucatán.
+
+Actividades:
+Elaboración de diagramas de flujo y componentes.
+Análisis de casos de uso y sus respectivos diagramas.
+Análisis de diagramas de procesos de los sistemas internos.
+Reuniones internas con los encargados de los sistemas.
+Reuniones externas con los consultores miembros de la empresa proveedora de los servicios de implementación.
+Colaboración en la elaboración de minutas de reuniones de trabajo. | Documentación de los servicios de implementación de un macrosistema de tipo GRP que administra las dependencias y entidades del Gobierno del estado de Yucatán.
+
+Actividades:
+Elaboración de diagramas de flujo y componentes.
+Análisis de casos de uso y sus respectivos diagramas.
+Análisis de diagramas de procesos de los sistemas internos.
+Reuniones internas con los encargados de los sistemas.
+Reuniones externas con los consultores miembros de la empresa proveedora de los servicios de implementación.
+Colaboración en la elaboración de minutas de reuniones de trabajo.
+Herramientas: | Word, Excel, Trello, UML | Word, Excel, Trello, UML | Word, Excel, Trello, UML | Word, Excel, Trello, UML | Word, Excel, Trello, UML
+Logros: | Manejo de procesos y su documentación
+Entendimiento de la forma de trabajo de una empresa mediana
+Apoyo en la generación de casos de uso con su metodología y procesos | Manejo de procesos y su documentación
+Entendimiento de la forma de trabajo de una empresa mediana
+Apoyo en la generación de casos de uso con su metodología y procesos | Manejo de procesos y su documentación
+Entendimiento de la forma de trabajo de una empresa mediana
+Apoyo en la generación de casos de uso con su metodología y procesos | Manejo de procesos y su documentación
+Entendimiento de la forma de trabajo de una empresa mediana
+Apoyo en la generación de casos de uso con su metodología y procesos | Manejo de procesos y su documentación
+Entendimiento de la forma de trabajo de una empresa mediana
+Apoyo en la generación de casos de uso con su metodología y procesos
+EDUCACIÓN:
+Escuela: 
+Facultad de Matemáticas UADY | Lugar: 
+Mérida, Yucatán, México
+Carrera: 
+Licenciatura en Ciencias de la Computación | Titulación: Marzo 2024
+Cédula: 14584936
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Introduction to the Cloud - The basics in only 2 hours! | Udemy | Noviembre 2025
+Ley Federal de Protección de Datos Personales en Posesión de Particulares para No Empleados | Citi Training | Noviembre 2025
+Using Electronic Communications for Non-Employees | Citi Training | Noviembre 2025
+Barreras Informativas – México para No-Empleados | Citi Training | Noviembre 2025
+Citi Cyber and Information Security 2025 for Non-Employees | Citi Training | Septiembre 2025
+Object Oriented Programming and Design Crash Course" | Udemy | Agosto 2025
+Advanced Artificial Intelligence and Machine Learning | Citi Training | Agosto 2025
+Fundamentals of Artificial Intelligence/Machine Learning-Non-Employees | Citi Training | Agosto 2025
+Enterprise Resilience: An Essential Partnership | Citi Training | Julio 2025
+DevOps, CI/CD (Continuous Integration/Delivery) for Beginners | Udemy | Junio 2025
+Services Agile Refresher – KANBAN – Non-employee – ET - Spanish | Citi Training | Junio 2025
+Release Management Process Training | Citi Training | Junio 2025
+Estructuras de Datos en JavaScript | Udemy | Mayo 2025
+Master IntelliJ Idea | Become a Productive Java Developer | Udemy | Abril 2025
+Crear Una Página Web Moderna 2024 Desde Cero con HTML y CSS | Udemy | Abril 2025
+The Complete Guide to HTML | Udemy | Marzo 2025
+Using Electronic Communications for Non-Employees | Citi Training | Enero 2025
+Java para Administradores de Sistemas | Udemy/Grabaciones | Noviembre 2024
+Oracle WebLogic desde Cero | Udemy/Grabaciones | Octubre 2024
+Citi Cyber and Information Security 2024 for Non-Employees | Citi Training | Agosto 2024
+Global Protective Action Awareness and Fire Safety Non Employees | Citi Training | Julio 2024
+Seguridad y salud en el lugar de trabajo 2024 NEMS | Citi Training | Junio 2024
+Privacy and records management awareness for non-employees | Citi Training | Marzo 2024
+Seguridad y salud en el lugar de trabajo para no empleados | Citi Training | Enero 2024
+Using electronic communications for non-employees | Citi Training | Enero 2024
+Citi cyber and information security 2023 for non-employees | Citi Training | Enero 2024
+Accounting, ledger, and close policy training multilang- ne | Citi Training | Enero 2024
+JavaScript TOTAL - De Cero a Desarrollador Web 
+(Prototipos, Seguridad, Modulación, Programacion asíncrona, React) | Udemy | Enero 2024
+Introducción al testing de software | Udemy | Octubre 2023
+Fundamentos de Scrum: Comprensión para cualquier industria no importando la especialidad | Soylider.net | Septiembre 2023
+Introducción a la geointeligencia computacional | Plataforma MexicoX | Julio 2021
+IT Essentials | Cisco Networking Academy | 2016
+IDIOMAS:
+Español: | Nativo
+Inglés: | Intermedio
+Conversacional 60%
+.
+HABILIDADES TÉCNICAS/ADMINISTRATIVAS:
+Perfil Primario: | Desarrolladora de software
+Perfil Secundario:
+Sistemas Operativos: | Windows, GNU/Linux
+Lenguajes de Programación: | Javascript, Java, Python
+Bases de Datos: | SQL - Oracle SQL Developer, MySQL Workbench
+Otros: | HTML, CSS, Git, Gitlab, Git Bash, Postman, Trello, Jira, VirtualBox, Eclipse, MS Visual Studio Code, Notepad ++, Confluence, Bitbucket, TIBCO JasperSoft, Tomcat, Maven, Thymeleaf, JUNIT, Spring/Spring Boot, LightSpeed Enterprise de Citi (Tekton, Harness), WebLogic, SaaS (Service Now Citi), Tectia, Ansible (YAML), Starfleet (Citi), Pruebas Manuales, Inkscape, Sonarqube

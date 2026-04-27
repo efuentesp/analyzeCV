@@ -1,0 +1,211 @@
+{
+  "nombre": "Israel Sarmiento Garcia",
+  "mail": "",
+  "genero": "",
+  "fecha_nacimiento": "",
+  "rfc": "",
+  "curp": "",
+  "no_cedula": "9007695",
+  "fecha_cedula": "10/03/2015",
+  "rol_propuesto": "Gerente de Entrega Documental",
+  "resumen_profesional": "Cuento con más de 5 años de experiencia en entrega documental. Realizo labores de guía y acompañamiento para que los responsables de la entrega documental a mi cargo ejecuten correctamente el proceso, asegurando el cumplimiento de calendarios, lineamientos, calidad de la documentación y compromisos acordados con el cliente.\n\nHe coordinado el control y seguimiento de proyectos, la entrega formal de documentación comprometida y la elaboración de bitácoras, minutas, reportes y matrices de entregables. También he dado seguimiento a riesgos, problemas y cambios de alcance para sostener cierres ordenados y entregas a la operación.\n\nMi experiencia también incluye la validación de documentación facturable, la coordinación con proveedores y áreas internas, y el resguardo de evidencias para la liberación de servicios. He trabajado con prácticas ágiles y tradicionales, cuidando la calidad documental, la trazabilidad y la continuidad operativa.",
+  "funciones": "Doy seguimiento y realizo la entrega documental y la recopilación de firmas que sustentan las evidencias de los servicios prestados.\n\nHe coordinado el control y seguimiento de proyectos, la entrega formal de documentación comprometida y la elaboración de bitácoras, minutas, reportes y matrices de entregables. Asimismo, he dado seguimiento a riesgos, problemas y cambios de alcance para mantener cierres ordenados y entregas a la operación.",
+  "experiencia_laboral": [
+    {
+      "empresa": "Instituto Mexicano del Seguro Social",
+      "puesto": "Administrador de Proyectos MP/Project Manager/Service Manager Senior",
+      "fecha_inicio": "09 marzo 2021",
+      "fecha_fin": "A la fecha",
+      "actividades_principales": [
+        "Doy seguimiento y realizo la entrega documental, además de la recopilación de firmas que sustentan las evidencias de los servicios prestados.",
+        "Coordino la elaboración y la entrega de la Carpeta Consolidada de Servicios y la Carpeta Consolidada de Niveles de Servicio mensual, asegurando el cumplimiento de los plazos establecidos.",
+        "Consolido oportunamente los insumos de evidencia (actas, reportes, tableros, métricas) que alimentan el dictamen mensual y el proceso de pago.",
+        "Gestiono la calidad documental de los paquetes mensuales, asegurando formato, numerales, control de versiones, firmas y trazabilidad.",
+        "Integro los documentos EUHE (3-puntos), PT (WBS) y PSE como parte de la CAPA, asegurando su correcto registro en la herramienta institucional.",
+        "Coordino la recopilación de artefactos por fase (Análisis, Diseño, Desarrollo, Pruebas, Liberación) para soportar CAES y el cierre de iniciativas.",
+        "Reúno y normalizo reportes de seguridad (SAST/DAST y VoBo sin bloqueantes, críticos o altos) como evidencia previa a liberación.",
+        "Documento entregas a AVL/Monitor (paquetes, bitácoras, ventanas) y aseguro su correcta integración en la evidencia mensual.",
+        "Coordino la capacitación a la Mesa del SAT y la transferencia de conocimiento como parte del proceso de liberación y cierre.",
+        "Alineo el contenido de las carpetas a los requisitos del RFP (estructura, anexos y evidencias), maximizando la aceptación y evitando deducciones.",
+        "Gestiono aclaraciones y correcciones dentro de los plazos de dictamen, asegurando la trazabilidad de los cambios realizados.",
+        "Consolido indicadores (SLA/OLA, TTA/TTR, backlog, porcentaje de liberaciones a tiempo y CAES on-time) en el reporte ejecutivo mensual.",
+        "Coordino la documentación de Toma de Operación (accesos, enlace, conectividad y acta de entrega-recepción) para su integración como evidencia.",
+        "Verifico la consistencia de datos (nombres, folios, fechas y versiones) entre carpetas, CAPA y documentos soporte.",
+        "Coordino la logística de cierre (CAES, plan final, capacitación) para su correcta integración en la carpeta del mes de liberación.",
+        "Documento y estandarizo plantillas para reducir reprocesos y tiempos de dictamen.",
+        "Participo en la elaboración de propuestas relacionadas con los servicios y procesos documentales.",
+        "Reviso y autorizo propuestas que posteriormente estaré a cargo de operar.",
+        "Selecciono y asigno responsables para la ejecución de actividades de entrega documental.",
+        "Gestiono y autorizo la asignación y desasignación de recursos humanos, materiales y financieros para la operación documental.",
+        "Respaldo y autorizo la toma de decisiones de los responsables a mi cargo.",
+        "Reporto información operativa y de avance relacionada con la gestión documental.",
+        "Superviso las actividades de gestión documental, dirigiendo y corrigiendo cuando es necesario.",
+        "Establezco lineamientos de operación y la estrategia global para la entrega documental.",
+        "Informo de manera periódica y consolidada los resultados a niveles directivos y equipos de trabajo.",
+        "Comunico a los equipos la información relevante para la correcta operación documental.",
+        "Mantengo la relación con el cliente como punto de contacto y escalación en temas de entrega documental.",
+        "Gestiono entre 1 y 3 proyectos con un esfuerzo total que oscila entre más de 5,000 y hasta 10,000 horas. Coordino equipos de entre 10 y 15 participantes y administro a un conjunto de líderes con menor seniority. Asimismo, reporto avances y resultados a PM (integrador), DM y cliente, a nivel de gerencia media.",
+        "He aplicado el curso Aprende Microsoft Project 2019 para planificar, dar seguimiento y controlar proyectos mediante el uso de cronogramas, recursos y costos",
+        "He utilizado el curso básico de gestión documental y organización de archivo para estructurar, clasificar y administrar documentación conforme a buenas prácticas de archivo",
+        "He puesto en práctica la Especialización en Gestión de Proyectos [2026] para fortalecer competencias en planeación, ejecución y control de proyectos",
+        "He aprovechado el curso Estimación de proyectos de software para calcular esfuerzo, costos y tiempos en proyectos de desarrollo de software",
+        "He aplicado el curso Industria 4.0 y Nuevas Tendencias Tecnológicas para comprender la evolución tecnológica y su impacto en los procesos organizacionales",
+        "He utilizado el curso Introducción al mundo de la Inteligencia Artificial para comprender conceptos básicos de IA y su aplicación en distintos contextos",
+        "He puesto en práctica el curso Introducción al PowerPoint 2013 para crear presentaciones profesionales y estructuradas",
+        "He aprovechado el curso Máster Excel – Desde Cero a Profesional en 12 Horas para analizar datos y automatizar tareas mediante funciones y herramientas de Excel",
+        "He aplicado el curso Microsoft Project: MS Project 2019 2016 2013 Complete – 8 PDUs para gestionar proyectos utilizando diferentes versiones de Microsoft Project",
+        "He utilizado el curso Project Management Complete: Everything for Everyone NEW PMI para reforzar conocimientos integrales de gestión de proyectos alineados a buenas prácticas del PMI",
+        "He puesto en práctica el curso Auditor Interno de Normas ISO 9001:2015 para evaluar el cumplimiento de sistemas de gestión de calidad y apoyar la mejora continua",
+        "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+        "ISP: Defino el proyecto alineando objetivos, alcance, recursos y equipo.",
+        "PTO: Doy seguimiento al avance y gestiono desviaciones.",
+        "FPT: Aseguro un cierre ordenado con entregables y lecciones aprendidas.",
+        "CHM: Gestiono cambios evaluando impacto e implementación.",
+        "SCM: Controlo versiones y configuraciones, garantizando trazabilidad.",
+        "Responsable del control y seguimiento de proyectos",
+        "Alinear el proyecto al Modelo de Trabajo Ágil (MTA) o Modelo de Trabajo Tradicional (MTT)",
+        "Facilitador de reuniones y del equipo de trabajo (Dailys, Check Point, Refinamiento y Retrospectivas)",
+        "Gestionar los obstáculos que impiden o ponen en riesgo alcance del objetivo del sprint",
+        "Elaboración de cronogramas, RoadMaps y matiz de entregables para el control de proyectos",
+        "Elaboración de documentación de la fase inicial",
+        "Reportar avances semanales con las coordinaciones",
+        "Evaluar, planear y coordinar cambios de alcance",
+        "Seguimiento y atención de Riesgos y Problemas",
+        "Organizar y gestionar con equipo de trabajo para realizar entrega de aplicativos a la operación",
+        "Seguimiento a las diferentes áreas para la elaboración documental y lograr el cierre de proyecto",
+        "Generación de bitácoras para reportar actividades realizadas durante la semana",
+        "Responsable de la generación, administración y seguimiento del plan de trabajo",
+        "Comunicar oportunamente al líder de proyecto y colaboradores sobre el avance de cada una de las tareas y entregables",
+        "Realizar la entrega formal de documentación comprometida en las fases del proyecto",
+        "Apoyar a la DM en la gestión de insumos requeridos para generar la pre-factura",
+        "Responsable de la elaboración de presentación semanal para comunicar el estatus del proyecto y su avance",
+        "Generación de minuta y seguimiento a los acuerdos",
+        "Revisión semanal de métricas en PPM (Suites para portafolio/programa/proyectos (demanda, priorización, capacidad)) con el cliente",
+        "Atención de riesgos en conjunto con el líder del proyecto y DM de para el cumplimiento del plan del proyecto",
+        "Planeación, coordinación, validación y aseguramiento de que se ejecuten las actividades programadas en el plan de trabajo",
+        "Coordinación de proveedores en la implementación de las diversas fases del proyecto.",
+        "Validación y gestión de entrega de documentación facturable al cliente sobre los servicios realizados en fase de implementación.",
+        "Elaboración de reportes, bitácoras, minutas, presentaciones y seguimiento de actividades de electromecánicos directamente en sedes.",
+        "Seguimiento a la adquisición con proveedores, logística y entrega de elementos suministrados al cliente y gestión de entregas en centrales AT&T.",
+        "Gestión y ejecución de ventanas de mantenimientos e instalación de electromecánicos (identificando y administrando riesgos e issues).",
+        "Gestión y planeación de accesos a las instalaciones del cliente programando las visitas de instalación de equipos.",
+        "Diseño de la logística de instalación de elementos electromecánicos (Plantas Millenium, PDFs y PDBs), Configuración, Etiquetado y Conexión a monitoreo de elementos GE y Medidores Eléctricos.",
+        "Generación de inventarios y administración de insumos"
+      ]
+    },
+    {
+      "empresa": "Coppel",
+      "puesto": "Administrador de proyecto",
+      "fecha_inicio": "20 enero 2020",
+      "fecha_fin": "11 enero 2021",
+      "actividades_principales": [
+        "Responsable de la generación, administración y seguimiento del plan de trabajo",
+        "Comunicar oportunamente al líder de proyecto y colaboradores sobre el avance de cada una de las tareas y entregables",
+        "Realizar la entrega formal de documentación comprometida en las fases del proyecto",
+        "Apoyar a la DM en la gestión de insumos requeridos para generar la pre-factura",
+        "Responsable de la elaboración de presentación semanal para comunicar el estatus del proyecto y su avance",
+        "Generación de minuta y seguimiento a los acuerdos",
+        "Revisión semanal de métricas en PPM (Suites para portafolio/programa/proyectos (demanda, priorización, capacidad)) con el cliente",
+        "Atención de riesgos en conjunto con el líder del proyecto y DM de para el cumplimiento del plan del proyecto"
+      ]
+    },
+    {
+      "empresa": "AT&T-Softtek",
+      "puesto": "Administrador de proyecto",
+      "fecha_inicio": "08 octubre 2018",
+      "fecha_fin": "12 diciembre 2019",
+      "actividades_principales": [
+        "Planeación, coordinación, validación y aseguramiento de que se ejecuten las actividades programadas en el plan de trabajo",
+        "Coordinación de proveedores en la implementación de las diversas fases del proyecto.",
+        "Validación y gestión de entrega de documentación facturable al cliente sobre los servicios realizados en fase de implementación.",
+        "Elaboración de reportes, bitácoras, minutas, presentaciones y seguimiento de actividades de electromecánicos directamente en sedes.",
+        "Seguimiento a la adquisición con proveedores, logística y entrega de elementos suministrados al cliente y gestión de entregas en centrales AT&T.",
+        "Gestión y ejecución de ventanas de mantenimientos e instalación de electromecánicos (identificando y administrando riesgos e issues).",
+        "Gestión y planeación de accesos a las instalaciones del cliente programando las visitas de instalación de equipos.",
+        "Diseño de la logística de instalación de elementos electromecánicos (Plantas Millenium, PDFs y PDBs), Configuración, Etiquetado y Conexión a monitoreo de elementos GE y Medidores Eléctricos.",
+        "Generación de inventarios y administración de insumos"
+      ]
+    }
+  ],
+  "periodo_resumen_laboral": "La experiencia abarca desde 01 abril de 2005 hasta 31 agosto de 2018",
+  "resumen_laboral": "Durante este período, me desempeñé como Administrador de proyecto, Líder de Calidad, Líder de Servicio, Líder de Pruebas, Analista Aseguramiento de la Calidad (QA), Analista AIS y Coordinador interno. Asumí responsabilidades de seguimiento operativo, control de entregables, revisión documental, atención de incidencias, coordinación de equipos, planeación de trabajo y aseguramiento del cumplimiento de procesos y lineamientos. También participé en actividades de pruebas, control de versiones, liberaciones, atención a solicitudes y soporte a la operación, manteniendo orden, continuidad del servicio y seguimiento a los compromisos establecidos.",
+  "estudios": {
+    "carrera": "Ingeniería en Sistemas Computacionales",
+    "lugar": "México",
+    "periodo": "Sep 2000 – Abr 2006"
+  },
+  "herramientas": [
+    {
+      "nombre": "Project Server"
+    },
+    {
+      "nombre": "Microsoft Project"
+    },
+    {
+      "nombre": "Power BI"
+    },
+    {
+      "nombre": "Teams"
+    },
+    {
+      "nombre": "Excel"
+    },
+    {
+      "nombre": "PPM"
+    },
+    {
+      "nombre": "Project"
+    },
+    {
+      "nombre": "Project libre"
+    },
+    {
+      "nombre": "SVN"
+    },
+    {
+      "nombre": "SharePoint"
+    },
+    {
+      "nombre": "Macros (Excel)"
+    },
+    {
+      "nombre": "draw.io (modelado de diagramas de ingeniería)"
+    }
+  ],
+  "certificaciones": [],
+  "cursos": [
+    {
+      "nombre": "Aprende Microsoft Project 2019"
+    },
+    {
+      "nombre": "Curso básico de gestión documental y organización de archivo"
+    },
+    {
+      "nombre": "Especialización en Gestión de Proyectos [2026]"
+    },
+    {
+      "nombre": "Estimación de proyectos de software"
+    },
+    {
+      "nombre": "Industria 4.0 y Nuevas Tendencias Tecnológicas"
+    },
+    {
+      "nombre": "Introducción al mundo de la Inteligencia Artificial"
+    },
+    {
+      "nombre": "Introducción al PowerPoint 2013"
+    },
+    {
+      "nombre": "Máster Excel – Desde Cero a Profesional en 12 Horas"
+    },
+    {
+      "nombre": "Microsoft Project: MS Project 2019 2016 2013 Complete – 8 PDUs"
+    },
+    {
+      "nombre": "Project Management Complete: Everything for Everyone NEW PMI"
+    },
+    {
+      "nombre": "Auditor Interno de Normas ISO 9001:2015"
+    }
+  ]
+}

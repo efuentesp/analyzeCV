@@ -1,0 +1,147 @@
+
+
+--- Página 1 ---
+
+J o s é   A n d r a d e   A l v a r e z
+P R O F I L E
+S o y   u n   I n g e n i e r o   e n   I n f o r m a t i c a   c o n   m á s   d e   1 5   a ñ o s   d e   e x p e r i e n c i a   e n   d e s a r r o l l o   d e   s o f t w a r e   m e d i a n t e   t e c n o l o g í a   c o m o   J a v a ,   S p r i n g   p a r a   e l
+d e s a r r o l l o   d e   b a c k e n d   y   H T M L ,   J a v a S c r i p t ,   A n g u l a r   y   J Q u e r y   p a r a   e l   d e s a r r o l l o   d e   f r o n t e n d .   T e n g o   u n a   a m p l i a   e x p e r i e n c i a   e n   m a n e j o   d e
+b a s e s   d e   d a t o s   r e l a c i o n a l e s   c o m o   S Q L   S e r v e r   y   M y S Q L .   H e   t r a b a j a d o   e n   e n t o r n o s   á g i l e s   ( S C R U M )   p a r t i c i p a n d o   e n   s e s i o n e s   c o m o   s o n   d a y l i ' s ,
+s p r i n t   p l a n i n g ' s   y   s p r i n t   r e v i e w s .   C u e n t o   c o n   e x p e r i e n c i a   e n   e l   d e s a r r o l l o   d e   p r u e b a s   u n i t a r i a s   ( J U n i t ,   M o c k i t o ) ,   h e r r a m i e n t a s   p a r a   e l   c o n t r o l   d e
+v e r s i o n e s   d e   c ó d i g o   ( G i t ,   S V N ) .   P a r a   l a   g e s t i ó n   d e   p r o y e c t o s   h e   u s a d o   h e r r a m i e n t a s   c o m o   J i r a ,   C o n f l u e n c e ,   B i t b u k e t .
+P R O F E S S I O N A L   E X P E R I E N C E
+S o f t t e k M é x i c o   ­   S o f t w a r e   D e v e l o p e r F r o m :   A p r ,   2 0 2 3   T o :   D e c ,   2 0 2 5
+D e s c r i p t i o n :
+D e s a r r o l l o   d e   H U ' s   p a r a   p r o y e c t o   p l a t a .
+D e s a r r o l l o   d e   d o c u m e n t a c i ó n   d e l   d i s e ñ o   t é c n i c o .
+C r e a c i o n   d e   r e p o r t e s .
+C r e a c i o n   d e   D M L ' s
+P r u e b a s   u n i t a r i a s
+S p r i n t   P l a n n i n g ' s
+S p r i n t   R e v i e w ' s .
+D a i l y ' s   i n t e r n a s .
+A t e n c i ó n   a   d e f e c t o s   e   i n c i d e n t e s .
+S e g u i m i e n t o   a   l i b e r a c i o n e s   e n   a m b i e n t e s   a l t o s .
+T o o l s / S k i l l s :
+E c l i p s e ,   O r a c l e   S Q L   D e v e l o p e r ,   A p a c h e   T o m c a t ,   J a v a   1 . 8 ,   S p r i n g   F r a m e w o r k ,   S p r i n g   F r a m e w o r k   ­   W e b   S e r v i c e s ,   T h y m e l e a f ,   b i t b u c k e t ,
+C o n f l u e n c e ,   P o s t M a n ,   J I R A ,   J a s p e r ,   M a v e n ,   J U N I T ,   M o k i t o
+S o f t t e k M é x i c o   ­   A M S   S u p p o r t   E n g i n e e r F r o m :   J u n ,   2 0 2 0   T o :   J a n ,   2 0 2 3
+D e s c r i p t i o n :
+·             S o p o r t e   y   m a n t e n i m i e n t o   d e   a p l i c a c i o n e s   p a r a   l o s   r e q u e r i m i e n t o s   I n c i d e n t s ,   T i c k e t s   E n h a n c e m e n t s .
+·             D o c u m e n t a r   l o s   r e q u e r i m i e n t o s .
+·             C r e a c i ó n   y   a c t u a l i z a c i ó n   d e   S O P ’ s ,   p a r a   a q u e l l a s   a c t i v i d a d e s   r e c u r r e n t e s .
+·             G e n e r a c i ó n   d e   s c r i p t s .
+·             M o n i t o r e o   d e   l o g ´ s .
+·             E s t i m a c i ó n   d e   t i e m p o s .
+·             P r o p o n e r   s o l u c i o n e s .
+T o o l s / S k i l l s :
+J a v a   8 ,   S t r u t s ,   H i b e r n a t e ,   S p r i n g   F r a m e w o r k ,   O r a c l e   S Q L   D e v e l o p e r ,   W e b L o g i c   S e r v e r ,   A p a c h e   S u b V e r s i o n   ( S V N ) ,   T e a m   F o u n d a t i o n   S e r v i c e s
+( T F S ) ,   J a v a S e r v e r   P a g e s   ( J S P ) ,   H T M L ,   S o a p U I ,   P o s t M a n
+S o f t t e k M é x i c o   ­   S o f t w a r e   D e v e l o p e r F r o m :   A p r ,   2 0 2 0   T o :   M a y ,   2 0 2 0
+D e s c r i p t i o n :
+·             C u r s o   d e   h e r r a m i e n t a   R e a c t .
+·             C u r s o   d e   D e v o p s   ( D o c k e r ,   J e n k i n s   y   S o n a r q u e )
+T o o l s / S k i l l s :
+R e a c t   N a t i v e ,   S o n a r Q u b e
+S o f t t e k M é x i c o   ­   A r q u i t e c t o   d e   S o f t w a r e F r o m :   J a n ,   2 0 2 0   T o :   M a r ,   2 0 2 0
+D e s c r i p t i o n :
+·             A n á l i s i s   d e   c ó d i g o   F r o n t   ( f l e x )   y   b a c k   ( S p r i n g   y   s t r u t s )
+·             A n á l i s i s   d e   n e g o c i o .
+·             M i g r a c i ó n   a p l i c a t i v a   f l e x .
+·             G e n e r a c i ó n   d e   d o c u m e n t o s   e x p l i c a n d o   f u n c i o n a l i d a d   d e   c o m p o n e n t e s   f l e x .
+
+--- Página 2 ---
+
+E D U C A T I O N
+P R O F E S S I O N A L   D E V E L O P M E N T
+L A N G U A G E ST o o l s / S k i l l s :
+M i c r o s o f t   S Q L   S e r v e r ,   J a v a   8 ,   S p r i n g   F r a m e w o r k ,   H i b e r n a t e ,   S t r u t s ,   A d o b e   F l e x
+T e c n o A p l i c a d a M é x i c o   ­   J a v a   D e v e l o p e r   S r . F r o m :   M a y ,   2 0 1 6   T o :   J a n ,   2 0 2 0
+D e s c r i p t i o n :
+·             A n á l i s i s   d e   l a   i n f o r m a c i ó n   p a r a   d e s a r r o l l o   y   d i s e ñ o   d e   n u e v a s   s o l u c i o n e s .
+·             D e s a r r o l l o   d e   m e j o r a s   e n   e l   a p l i c a t i v o   d e l   c l i e n t e   ( m e d i a n t e   p r o g r a m a c i ó n   o r i e n t a d a   a   o b j e t o s   y   u s a n d o   e l   p a t r ó n   d e   d i s e ñ o   M V C ) ,
+p e r m i t i e n d o   u n   i n c r e m e n t o   e n   p e r f o r m a n c e   d e l   1 5 % .
+·             E x t r a c c i ó n   d e   i n f o r m a c i ó n   d e l   r e p o s i t o r i o   d e   d a t o s   ( O r a c l e )   p a r a   l a   e l a b o r a c i ó n   d e   r e p o r t e s   m e d i a n t e   i R e p o r t s ,   p a r a   l a   t o m a   d e   d e c i s i o n e s .
+·             E l a b o r a c i ó n   d e   p a q u e t e s   d e   t r a b a j o   u t i l i z a n d o   l o s   f u n d a m e n t o s   d e   m e t o d o l o g í a   S C R U M .
+·             A p o y o   a l   H e l p D e s k   p a r a   r e s o l u c i ó n   d e   i n c i d e n t e s .
+·             E n t r e g a   d e   p r o y e c t o   e n   t i e m p o   y   f o r m a   c o n   l a   d o c u m e n t a c i ó n   s o l i c i t a d a   p o r   e l   c l i e n t e   M A A G T I C S I
+·             M o n i t o r e o   d e l   W e b L o g i c   p a r a   a s e g u r a r   e s t a b i l i d a d   d e l   a p l i c a t i v o ,   p o r   m e d i o   d e   l a   h e r r a m i e n t a   M o b a X t e r m ,   r e v i s a n d o   l o s   a r c h i v o s   d e   l o g ’ s
+g e n e r a d o s   e n   l o s   s e r v i d o r e s .
+·             E l a b o r a c i ó n   d e   p l a n   d e   t r a b a j o   e n   P r o j e c t .
+T o o l s / S k i l l s :
+E c l i p s e ,   O r a c l e   S Q L   D e v e l o p e r ,   A p a c h e   S u b V e r s i o n   ( S V N ) ,   M a v e n ,   J a v a S e r v e r   F a c e s   ( J S F ) ,   S t r u t s ,   H i b e r n a t e ,   A d o b e   F l e x ,   i B A T I S ,   J a v a
+P e r s i s t e n c e   A P I   ( J P A ) ,   J a v a   8 ,   N g i n x ,   B o o t s t r a p ,   J a v a   S E ,   W e b L o g i c   S e r v e r
+U N A C A R M é x i c o   ­   J a v a   D e v e l o p e r F r o m :   A p r ,   2 0 1 4   T o :   M a r ,   2 0 1 6
+D e s c r i p t i o n :
+·             A n á l i s i s   d e   l a   i n f o r m a c i ó n   p a r a   d e s a r r o l l o   y   d i s e ñ o   d e   n u e v a s   s o l u c i o n e s .
+·             D e s a r r o l l o   d e   m e j o r a s   e n   e l   a p l i c a t i v o   d e l   c l i e n t e   ( d e s a r r o l l o   w e b ) ,   p e r m i t i e n d o   u n   i n c r e m e n t o   e n   p e r f o r m a n c e   d e l   1 0 %   a s í   c o m o   l a
+r e d u c c i ó n   d e   i n c i d e n t e   r e p o r t a d o s .
+·             E l a b o r a c i ó n   d e   r e p o r t e s   m e d i a n t e   i R e p o r t s ,   p a r a   l a   t o m a   d e   d e c i s i o n e s .
+·             E l a b o r a c i ó n   d e   p l a n   d e   t r a b a j o   e n   P r o j e c t .
+·             A p o y o   a l   H e l p D e s k   p a r a   r e s o l u c i ó n   d e   i n c i d e n t e s .
+·             E n t r e g a   d e   p r o y e c t o   e n   t i e m p o   y   f o r m a   c o n   l a   d o c u m e n t a c i ó n   s o l i c i t a d a   p o r   e l   c l i e n t e   ( M A A G T I C   S I )
+·             E l a b o r a c i ó n   d e   p l a n   d e   t r a b a j o   e n   P r o j e c t .
+T o o l s / S k i l l s :
+W e b L o g i c   S e r v e r ,   J a v a   S E ,   O r a c l e   S Q L   D e v e l o p e r ,   A p a c h e   S u b V e r s i o n   ( S V N ) ,   M a v e n ,   J a v a S e r v e r   F a c e s   ( J S F ) ,   S t r u t s ,   H i b e r n a t e ,   J a v a
+P e r s i s t e n c e   A P I   ( J P A ) ,   A d o b e   F l e x
+C N T I M é x i c o   ­   J a v a   D e v e l o p e r F r o m :   M a y ,   2 0 1 1   T o :   F e b ,   2 0 1 4
+D e s c r i p t i o n :
+·             D e s a r r o l l o   d e   m e j o r a s   e n   e l   a p l i c a t i v o   d e l   c l i e n t e   ( d e s a r r o l l o   w e b ) ,   p e r m i t i e n d o   u n   i n c r e m e n t o   e n   p e r f o r m a n c e   d e l   5 %   a s í   c o m o   l a
+r e d u c c i ó n   d e   i n c i d e n t e   r e p o r t a d o s .
+·             E l a b o r a c i ó n   d e   r e p o r t e s   m e d i a n t e   i R e p o r t s ,   p a r a   l a   t o m a   d e   d e c i s i o n e s .
+·             A p o y o   a l   H e l p D e s k   p a r a   r e s o l u c i ó n   d e   i n c i d e n t e s .
+·             E n t r e g a   d e   p r o y e c t o   e n   t i e m p o   y   f o r m a   c o n   l a   d o c u m e n t a c i ó n   s o l i c i t a d a   p o r   e l   c l i e n t e   y   d e   a c u e r d o   c o n   e l   e s t a n d a r   g u b e r n a m e n t a l
+M A A G T I C   S I
+T o o l s / S k i l l s :
+J a v a   S E ,   W e b L o g i c   S e r v e r ,   A p a c h e   S u b V e r s i o n   ( S V N ) ,   M a v e n ,   J a v a S e r v e r   F a c e s   ( J S F ) ,   J a v a S e r v e r   P a g e s   ( J S P ) ,   S t r u t s ,   A d o b e   F l e x ,   i B A T I S ,
+H i b e r n a t e
+U P I I C S A ­ I P N M é x i c o F r o m :   J a n ,   2 0 0 7   T o :   D e c ,   2 0 1 0
+T i t u l a d o
+L i c e n c i a t u r a   e n   I n g e n i e r í a   e n   I n f o r m á t i c a
+C o u r s e :   M i c r o s e r v i c i o s   c o n   S p r i n g   B o o t   Y   S p r i n g   C l o u d U D E M Y D e c ,   2 0 2 2
+C o u r s e :   A p r e n d i e n d o   a   u s a r   G i t   y   G i t h u b U D E M Y A p r ,   2 0 2 0
+C o u r s e :   J a v a   S E 8   P r o g r a m m e r   I H i t t e c h s   T r a i n i n g   &   C o n s u l t i n g M a y ,   2 0 1 9
+C e r t i f i c a t i o n :   S C R U M   F u n d a m e n t a l s S C R U M s t u d y M a r ,   2 0 1 8
+
+--- Página 3 ---
+
+T E C H N I C A L / M A N A G E R I A L   S K I L L SE n g l i s h S e l f   E v a l u a t e d L o w e r   I n t e r m e d i a t e   3 1 ­ 5 0 %
+S p a n i s h S e l f   E v a l u a t e d A d v a n c e d   8 0 ­ 9 5 %
+W e b L o g i c   S e r v e r   S e n i o r   ( 4 ­ 6   Y o E )
+T h y m e l e a f   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+T e a m   F o u n d a t i o n   S e r v i c e s   ( T F S )   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+S t r u t s   E x p e r t   ( 6 ­ 8   Y o E )
+S p r i n g   F r a m e w o r k   ­   W e b   S e r v i c e s   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+S p r i n g   F r a m e w o r k   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+S o n a r Q u b e   J u n i o r   ( 1 ­ 2   Y o E )
+S o a p U I   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+R E S T f u l   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+R e a c t   N a t i v e   J u n i o r   ( 1 ­ 2   Y o E )
+P o s t M a n   S e n i o r   ( 4 ­ 6   Y o E )
+O r a c l e   S Q L   D e v e l o p e r   S e n i o r   ( 4 ­ 6   Y o E )
+N g i n x   J u n i o r   ( 1 ­ 2   Y o E )
+M o k i t o   J u n i o r   ( 1 ­ 2   Y o E )
+M i c r o s o f t   S Q L   S e r v e r   J u n i o r   ( 1 ­ 2   Y o E )
+M i c r o s e r v i c e s   &   A P I s   J u n i o r   ( 1 ­ 2   Y o E )
+M a v e n   S e n i o r   ( 4 ­ 6   Y o E )
+J U N I T   J u n i o r   ( 1 ­ 2   Y o E )
+J I R A   J u n i o r   ( 1 ­ 2   Y o E )
+J a v a S e r v e r   P a g e s   ( J S P )   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+J a v a S e r v e r   F a c e s   ( J S F )   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+J a v a   S E   S e n i o r   ( 4 ­ 6   Y o E )
+J a v a   P e r s i s t e n c e   A P I   ( J P A )   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+J a v a   8   S e n i o r   ( 4 ­ 6   Y o E )
+J a v a   1 . 8   S e n i o r   ( 4 ­ 6   Y o E )
+J a s p e r   E x p e r t   ( 6 ­ 8   Y o E )
+i B A T I S   S e n i o r   ( 4 ­ 6   Y o E )
+H T M L   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+H i b e r n a t e   E x p e r t   ( 6 ­ 8   Y o E )
+E c l i p s e   S e n i o r   ( 4 ­ 6   Y o E )
+E c l i p s e   S e n i o r   ( 4 ­ 6   Y o E )
+C o n f l u e n c e   J u n i o r   ( 1 ­ 2   Y o E )
+B o o t s t r a p   P r o f i c i e n t   ( 2 ­ 4   Y o E )
+b i t b u c k e t   J u n i o r   ( 1 ­ 2   Y o E )
+A p a c h e   T o m c a t   J u n i o r   ( 1 ­ 2   Y o E )
+A p a c h e   S u b V e r s i o n   ( S V N )   S e n i o r   ( 4 ­ 6   Y o E )
+A n g u l a r   J S   J u n i o r   ( 1 ­ 2   Y o E )
+A d o b e   F l e x   S e n i o r   ( 4 ­ 6   Y o E )

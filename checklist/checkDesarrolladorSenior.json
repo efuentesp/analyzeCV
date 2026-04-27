@@ -1,0 +1,177 @@
+{
+    "capacidadRecursosHumanos": {
+        "experiencia": [
+            {
+                "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 5 años  en un  centro de desarrollo de software. Además del Dominio de Tecnologías del AR y/o tecnologías open source?",
+                "detalle": "Para el rol del Desarrollador Senior Al menos 5 años de experiencia centro de desarrollo de software. Dominio de Tecnologías del AR y/o tecnologías open source"
+            },
+            {
+                "concepto": "¿El CV acredita funciones de coordinación de actividades de los Desarrolladores Jr; así como, tener conocimiento total del desarrollo del proyecto asignado.?",
+                "detalle": "Coordinar las actividades de los Desarrolladores Jr; así como, tener conocimiento total del desarrollo del proyecto asignado."
+            },
+            {
+                "concepto": "¿Ha liderado construcción con prácticas de calidad (code review, patrones, pruebas unitarias) y SAST cumplido?",
+                "detalle": "MR + cobertura + Pruebas de Seguridad de Aplicaciones Estáticas (SAST - Static Application Security Testing)"
+            },
+            {
+                "concepto": "¿Ha integrado DAST (para componentes web) y cerrado hallazgos hasta cero bloqueantes/críticos/altos?",
+                "detalle": "Reporte de Pruebas de Seguridad de Aplicaciones Dinámicas (DAST - Dynamic Application Security Testing) + fixes"
+            },
+            {
+                "concepto": "¿Ha operado GitLab (flujo de ramas/etiquetas, MR, pipelines) conforme a estándares institucionales?",
+                "detalle": "Historial GitLab"
+            },
+            {
+                "concepto": "¿Ha participado en INT/UAT/PROD y solucionado defectos hasta VoBo?",
+                "detalle": "Evidencias + VoBo en pruebas de INT-Integración, UAT pruebas de aceptaciín de usuarios, PROD en ambiente de produccoón"
+            },
+            {
+                "concepto": "¿Ha preparado evidencias de fase para carpetas y soportado dictamen?",
+                "detalle": "Check + acuses"
+            },
+            {
+                "concepto": "¿Ha preparado evidencias de fase para carpetas y soportado dictamen?",
+                "detalle": "Check + acuses"
+            },
+            {
+                "concepto": "¿La experiencia suma ≥5 años en desarrollo de software?",
+                "detalle": ""
+            },
+            {
+                "concepto": "¿La cronología de periodos laborales suma al menos los 5 años requeridos?",
+                "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada"
+            },
+            {
+                "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+                "detalle": "Fechas correctas en el periodo de experiencia: La fecha Desde, debe ser un mes posterior a la última fecha Hasta, los meses deben ir escritos sin abreviación e iniciando con mayúscula"
+            },
+            {
+                "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+                "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando"
+            },
+            {
+                "concepto": "¿El CV documentay muestra experiencia en habilidades de: Resolución de problemasLiderazgo Metodologías de desarrollo (Cascada, Agile, SAFE) Versionamiento del código (Git) Dominio en el desarrollo de servicios y aplicaciones web (frontend y backend) Dominio en técnicas de optimización de procesos.?",
+                "detalle": ""
+            },
+            {
+                "concepto": "¿El CV cuantifica su experiencia técnica mediante indicadores de impacto, tales como: número de microservicios/APIs desarrollados, volumen de transacciones procesadas por segundo (TPS), porcentaje de optimización de consultas (queries) y reducción de tiempos de respuesta en ambientes de Producción?",
+                "detalle": ""
+            }
+        ],
+         "competenciaHabilidadTrabajo": [
+            {
+                "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+                "detalle": "Acreditar la competencia señalada Estudios nivel superior acreditable de nivel licenciatura o ingeniería",
+                "resultado": ""
+            }
+        ],
+         "dominioHerramientas": [
+            {
+                "concepto": "¿El candidato cuenta con certificaciones?",
+                "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar el dominio de herramientas señaladas - Certificaciones",
+                "detalle": "Adicional es deseable alguna de las siguientes certificaciones vigente: Scrum Master En los lenguajes de programación indicados.",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar conocimiento comprobable en las tecnologías descritas - Cursos Lenguajes de Programación Cómputo en la nube Bases de Datos Sistemas Operativos Servicios integrales de autenticación:",
+                "detalle": "Conocimiento comprobable en las tecnologías descritas en la introducción del documento Anexo Staff. Lenguajes de Programación: Java (open jdk), Ansi, C#, C/, C++, DataStage, Basic, 4GL, SPL, Transact SQL, Python, Scala, R, Rust. Cómputo en la nube: AWS, Azure, Data Factory, Databricks, Dockers/Kubernetes, ARO (Azure Redhat OpenShift), Data Pipelines. Bases de Datos: PostgreSQL, Oracle, MariaDB, IBM, Informix, SQL Server, QVD, Azure SQL, Cassandra, DataLake, DB2. Sistemas Operativos: Linux, Unix, Windows Server, z/OS, Spice. Servicios integrales de autenticación: E-firma, OAuth 2.0, OWIN, SAML2, Omniguard.",
+                "resultado": ""
+            }
+        ]
+    },
+        "dominioHerramientas": [
+            {
+            "concepto": "¿Utiliza lenguajes de programación y frameworks acorde a la arquitectura del proyecto (backend y/o frontend) con estándares de codificación establecidos?",
+            "detalle": "Repositorios, módulos desarrollados, descripción de tecnologías usadas."
+            },
+            {
+            "concepto": "¿Aplica buenas prácticas de desarrollo (clean code, patrones de diseño, manejo de excepciones, logging)?",
+            "detalle": "Ejemplos de patrones, descripciones técnicas, revisiones de código."
+            },
+            {
+            "concepto": "¿Versiona el código en herramientas de control de versiones (GitLab/Git) siguiendo un modelo de ramas definido?",
+            "detalle": "Commits, ramas, tags, descripción de flujo (GitFlow, trunk-based)."
+            },
+            {
+            "concepto": "¿Participa en revisiones de código (merge/pull requests) y aplica comentarios o correcciones técnicas?",
+            "detalle": "MR/PR, roles como revisor, prácticas de code review."
+            },
+            {
+            "concepto": "¿Utiliza herramientas de CI/CD (pipelines) para compilación, pruebas y despliegue de aplicaciones?",
+            "detalle": "Pipelines descritos, automatizaciones, herramientas (GitLab CI, Azure DevOps, Jenkins)."
+            },
+            {
+            "concepto": "¿Configura o mantiene scripts de automatización para build, pruebas o despliegue?",
+            "detalle": "Scripts, descripciones de automatización."
+            },
+            {
+            "concepto": "¿Acredita uso de herramientas de calidad de código (SAST como SonarQube) y atención a hallazgos?",
+            "detalle": "Reportes SAST, acciones de remediación, criterios de calidad."
+            },
+            {
+            "concepto": "¿Cumple lineamientos de seguridad en desarrollo (validaciones, manejo de datos sensibles, OWASP básico)?",
+            "detalle": "Prácticas descritas, referencias a controles aplicados."
+            },
+            {
+            "concepto": "¿Desarrolla o apoya pruebas unitarias y de integración utilizando frameworks adecuados?",
+            "detalle": "Pruebas unitarias, cobertura, frameworks (JUnit, NUnit, Jest, etc.)."
+            },
+            {
+            "concepto": "¿Colabora con QA en la resolución de defectos técnicos y reejecución de pruebas?",
+            "detalle": "Correcciones aplicadas, defectos cerrados, coordinación con testers."
+            },
+            {
+            "concepto": "¿Trabaja con múltiples ambientes (DEV/INT/UAT/PROD) y participa en validaciones de despliegue?",
+            "detalle": "Descripción de ambientes, soporte a liberaciones."
+            },
+            {
+            "concepto": "¿Utiliza herramientas de contenedorización o plataformas cloud cuando el proyecto lo requiere (Docker, Kubernetes, AWS/Azure)?",
+            "detalle": "Imágenes, servicios, despliegues descritos."
+            },
+            {
+            "concepto": "¿Elabora o mantiene documentación técnica del desarrollo (guías, diagramas, configuraciones)?",
+            "detalle": "Documentos técnicos, diagramas"
+            },
+            {
+            "concepto": "¿Utiliza repositorios o herramientas colaborativas para documentación técnica (Confluence, SharePoint, repos Git)?",
+            "detalle": "Historial de versiones, enlaces a repositorios."
+            },
+            {
+            "concepto": "¿Apoya y orienta a Desarrolladores Junior en aspectos técnicos y de herramientas?",
+            "detalle": "Actividades de mentoring, revisión de entregables."
+            },
+            {
+            "concepto": "¿Coordina actividades técnicas con Líder Técnico, Arquitecto o Analista para asegurar alineación funcional y técnica?",
+            "detalle": "Participación en sesiones técnicas, definición de soluciones."
+            },
+            {
+            "concepto": "¿Utiliza herramientas de seguimiento de tareas/incidencias (Jira, Azure DevOps, Service Desk)?",
+            "detalle": "Tickets gestionados, estados, reportes."
+            },
+            {
+            "concepto": "¿Reporta avances técnicos, riesgos o bloqueos mediante herramientas de seguimiento o reportes periódicos?",
+            "detalle": "Reportes de avance, tableros técnicos."
+            },
+            {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones técnicas (qué, cómo, resultado)?",
+            "detalle": "Ejemplos de aplicación en proyectos reales."
+            },
+            {
+            "concepto": "¿El CV documenta aplicación práctica de cursos o capacitaciones técnicas en el desarrollo de software?",
+            "detalle": "Casos específicos, mejoras logradas."
+            },
+            {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV"
+            },
+            {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV"
+            }
+    ]
+    
+}

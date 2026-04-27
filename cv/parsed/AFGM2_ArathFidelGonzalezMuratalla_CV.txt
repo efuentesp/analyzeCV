@@ -1,0 +1,79 @@
+Arath Fidel Gonzalez Muratalla
+PERFIL
+Ingeniero en Computación con +4 años de experiencia como Software Developer Front-End and Back-End en sector público y privado. Experiencia en soluciones de ámbito critico en donde se necesita una solución viable para el problema.
+EXPERIENCIA PROFESIONAL
+BBVA Bancomer	Mexico ­ Software Engineer ­ Senior	De: Feb, 2024 A: La Fecha Descripción:
+Actividades:
+Optimizacion y revision de estructura para el Modelo de Datos de iniciativa Seguros.
+Optimizacion y revision de estructura para los nombres asignados en tablas para el Modelo de Datos. Analisis de flujo por cada componente que se usara.
+Diseño de pruebas para el formato de las tablas que se usara en los componentes.
+Seguimiento de actividades de varios equipos para realizar una estimacion de fechas sin impacto en desarrollos. Revision de diseños de liberias para realizar el match de informacion que se pretende usar.
+Seguimiento de entendimiento de estructura para los componente. Optimizacion de revision de las estructuras del modelo ddee datos de Seguros. Coordinacion con equipos agile para mitigar posibles riesgos de liberaciones. Capacitacion con equipo agile estrucutura de datos.
+Herramientas/Habilidades:
+Database Testing, Oracle Database, Agile Testing, Java 21, Datacenters DRP Architecture, Oracle Data Integrator, Learning & Capability Development, FireBase
+Application Hosting S.A de C.V	Insurgentes Sur, CDMX ­ SDET (Software
+Development Engineer in Testing) ­ Master
+De: Jan, 2022 A: Nov, 2023
+Descripción:
+Análisis de los requerimientos del sistema, tanto sistemas nuevos como los que están en producción, análisis estático y dinámico de código.
+Diseño de sistemas para futuras implementaciones.
+Implementación y modificaciones mediante lenguajes Back-End(Java, ColdFusion(CFML)) y Front-End(HTML5, CSS, JavaScript, JQuery, XML) y Base de Datos (SQL Server v 2017 a 2019).
+Manejo de Versiones mediante TortoiseSVN y GitHub.
+Unión, Creación de ramas para distintos desarrollos.
+Alta y configuración de Conexiones en Adobe Coldfusion manejando versiones 11 a 2021.
+Generación de Parches de mejoras para implementación en QA y Producción.
+Corrección de errores a nivel código y Base de Datos.
+Manejo de Motor de Base de Datos SQL Server 2017 a 2019 para creación de tablas, triggers, vistas, índices, uniones.
+Configuración de servidores en Windows Server 2012 en adelante y Terminal Linux. Creación de Manuales de Usuario, configuración y reporte de pruebas y errores solucionados.
+Herramientas/Habilidades:
+Desarrollo en ambiente VisualCode con uso de: Coldfusion (11 - 2021), Java, Ajax, Jquery y JS Manejo de información: SQL Server 2021 Manejo de Servidores: XAMP, Apache, IIS Herramientas de Front-End: HTML5, CSS, Bootstrap, AlertifyJS.
+Secretaria de Movilidad del Edo Mex	Tlalnepantla de Baz, Edo Mex. ­ SDET
+(Software Development Engineer in Testing) ­ Expert
+De: Feb, 2019 A: Dec, 2021
+Descripción:
+Análisis de los requerimientos del sistema, tanto sistemas nuevos como los que están en producción, análisis estático y dinámico de código.
+Creación e implementación de varios sistemas de uso internos y externos.
+Corrección de errores y mantenimiento tanto a nivel código como base de datos.
+Manejo de versiones por GitHub y almacenamiento en carpeta compartida en Red o OneDrive.
+Testeo, detección y corrección de servicios Rest.
+Implementación y modificaciones mediante lenguajes Back-End (Java y PHP) y Front-End (HTML5, CSS, JavaScript, JQuery, XML) y Base de Datos (SQL Server v 2017 a 2019).
+Alta y configuración de servidores (Windows Server 2012 a 2018).
+Conexión y mantenimientos a servidores remotos vía Team Viewere, Any Desk, Control Remoto. Creación de Manuales de Usuario, configuración y reporte de pruebas y errores solucionados.
+Herramientas/Habilidades:
+Herramientas de Desarrollo: NetBeans -> Java (6- actual), JQuery, Ajax, JavaScript Sublime Text V(1 - 3) .-> PHP, Javascript Manejo de información: SQL Server 2021, phpmyadmin, MariaBD Manejo de Servidores: XAMP, Apache, IIS Herramientas de Front-End: HTML5, CSS, Bootstrap, AlertifyJS
+EDUCACIÓN
+Universidad Autónoma del Estado de México
+Titulado en Ingenieria en computacion
+Valle de Chalco, Estado de México	De: Aug, 2015 A: Nov, 2019
+Licenciatura en Ingenieria en computacion terminada con titulo profesional.
+DESARROLLO PROFESIONAL
+Certification: ITIL 4 Foundation	Softtek	Apr, 2025
+Certification: Power BI con ChatGPT y Excel	Seminarios Top	Aug, 2023
+IDIOMAS
+English	Auto Evaluado	Lower Intermediate 31-50%
+HABILIDADES TÉCNICAS/GERENCIALES
+phpmyadmin	Senior (4-6 YoE)
+Oracle Database	Senior (4-6 YoE)
+Oracle Data Integrator	Proficient (2-4 YoE)
+MariaBD Manejo de Servidores: XAMP	Proficient (2-4 YoE)
+Learning & Capability Development	Proficient (2-4 YoE)
+Jquery y JS Manejo de información: SQL Server 2021 Manejo de Servidores: XAMP
+Proficient (2-4 YoE)
+JQuery	Senior (4-6 YoE)
+JavaScript Sublime Text V(1 - 3) .-> PHP	Proficient (2-4 YoE)
+Javascript Manejo de información: SQL Server 2021	Senior (4-6 YoE)
+Java 21	Senior (4-6 YoE)
+Java	Senior (4-6 YoE)
+IIS Herramientas de Front-End: HTML5	Senior (4-6 YoE)
+Herramientas de Desarrollo: NetBeans -> Java (6- actual)	Senior (4-6 YoE)
+FireBase	Junior (1-2 YoE)
+Desarrollo en ambiente VisualCode con uso de: Coldfusion (11 - 2021)	Proficient (2-4 YoE)
+Datacenters DRP Architecture	Proficient (2-4 YoE)
+Database Testing	Proficient (2-4 YoE)
+CSS	Proficient (2-4 YoE)
+Bootstrap	Senior (4-6 YoE)
+Apache	Proficient (2-4 YoE)
+AlertifyJS.	Proficient (2-4 YoE)
+AlertifyJS	Junior (1-2 YoE)
+Ajax	Proficient (2-4 YoE)
+Agile Testing	Proficient (2-4 YoE)

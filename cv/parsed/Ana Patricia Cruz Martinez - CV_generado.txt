@@ -1,0 +1,94 @@
+Ana Patricia Cruz Martinez
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Domino tecnologías de la Arquitectura de Referencia y tecnologías de código abierto. Genero el código necesario y doy mantenimiento correctivo y evolutivo para cumplir la especificación técnica, siguiendo estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos establecidos en el plan de trabajo.
+
+A lo largo de mi trayectoria he atendido incidentes en entornos productivos, realizado correcciones en base de datos y en código (Java (Lenguaje de programación para desarrollo de aplicaciones), Javascript, jQuery (Librería para manipulación del DOM)) y participado en liberaciones controladas utilizando herramientas de versionamiento y automatización. Complemento mi trabajo con diseño de casos de prueba, documentación de evidencia y validaciones posteriores a los cambios.
+
+Mi enfoque está en mantener la continuidad operativa y la calidad del servicio: diagnostico y corrijo incidencias, colaboro con equipos multidisciplinarios y aplico buenas prácticas de control de versiones y despliegue para asegurar entregas estables y puntuales.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+SYSTEM ENGINEER | Desde:
+1 junio 2020 | Hasta: 
+6 abril 2026
+Actividades Principales | • Mantengo y doy soporte a los aplicativos dominando varios lenguajes de programación. Poseo habilidades en resolución de problemas, versionamiento de código (Git (Control de versiones distribuido)) y desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.
+• Utilizo e implemento de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.
+• Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).
+• He usado la certificación JavaScript TOTAL – De Cero a Programador Web en 18 Días para adquirir y reforzar conocimientos en JavaScript orientados al desarrollo web, cubriendo desde los fundamentos del lenguaje hasta la creación de aplicaciones web funcionales.
+• He usado la certificación SQL Server Performance Tuning Part 1 para profundizar en el motor de base de datos para consultas y validaciones (SQL Server (Motor de base de datos para consultas y validaciones)).
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Atiendo incidentes en ambiente productivo para el sistema Accimarket que pertenece a Citibanamex, incluyendo resolución de issues en base de datos y en código Java (Lenguaje de programación para desarrollo de aplicaciones), Javascript y jQuery (Librería para manipulación del DOM).
+• Diseño casos de prueba, creo documentación y evidencias T para liberaciones a ambiente de producción.
+• Utilizo herramientas como ServiceNow (ITSM para incidencias, cambios y problemas), Confluence (Documentación colaborativa y base de conocimiento), RLM, Jenkins (Automatización de pipelines CI/CD), SonarQube y Bitbucket (Repositorio de código y colaboración) para realizar liberaciones a producción.
+• Migré Adobe Flex por EOVS.
+• Migré pantallas a tecnología actual como jQuery (Librería para manipulación del DOM) y Javascript bajo diferentes requerimientos expuestos en documentación proporcionada.
+• Desarrollo pruebas unitarias y ejecuto pruebas.
+• Creo y mantengo submódulos del sistema SICATEL WEB de Telcel para uso interno bajo el patrón de arquitectura MVC.
+• Elaboré documentación del desarrollado para Telcel como análisis de impacto, reporte técnico y matriz de prueba.
+Empresa
+Softtek | Puesto
+Software Developer | Desde:
+5 noviembre 2019 | Hasta: 
+31 marzo 2020
+Actividades Principales | • Migré Adobe Flex por EOVS.
+• Migré pantallas a tecnología actual como jQuery (Librería para manipulación del DOM) y Javascript bajo diferentes requerimientos expuestos en documentación proporcionada.
+• Desarrollo pruebas unitarias y ejecuto pruebas.
+Empresa
+INDRA SOFTWARE LABS MEXICO, S.A. DE C.V | Puesto
+Desarrollador de sistemas Jr | Desde:
+1 marzo 2019 | Hasta: 
+4 noviembre 2019
+Actividades Principales | • Creo y mantengo submódulos del sistema SICATEL WEB de Telcel para uso interno bajo el patrón de arquitectura MVC.
+• Elaboré documentación del desarrollado para Telcel como análisis de impacto, reporte técnico y matriz de prueba.
+HERRAMIENTAS CONOCIDAS
+- Microsoft SQL Management Studio (SSMS)
+- Microsoft SQL Server
+- Oracle PL-SQL
+- PL/SQL
+- Java 8
+- Javascript
+- JQuery
+- HTML5
+- CSS/CSS3
+- ServiceNow
+- Confluence
+- RLM
+- SonarQube
+- Maven
+- GitHub
+- Apache SubVersion (SVN)
+- Ajax
+- JSON
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 febrero de 2017 hasta 31 diciembre de 2018
+Durante este período asumí responsabilidades centradas en la creación y mantenimiento de módulos de software y soporte al desarrollo como Desarrollador de sistemas Jr. Realicé tareas de análisis y desarrollo con tecnologías web y bases de datos, además de elaborar documentación técnica y ejecutar pruebas unitarias. Mis funciones incluyeron soporte al ciclo de desarrollo, generación de evidencia y colaboración con equipos para asegurar la operación y calidad de los sistemas.
+FORMACIÓN ACADÉMICA:
+Ingeniera en Sistemas Computacionales - 1 enero 2011 - 30 noviembre 2016 | Escuela Superior de Cómputo IPN, Ciudad de México | Cédula Profesional
+11676491
+19/08/2019
+CURSOS
+- JavaScript TOTAL – De Cero a Programador Web en 18 Días
+- SQL Server Performance Tuning Part 1
+______________________________________
+Ana Patricia Cruz Martinez
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

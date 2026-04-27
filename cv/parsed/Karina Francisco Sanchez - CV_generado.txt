@@ -1,0 +1,101 @@
+Karina Francisco Sanchez
+Analista Junior
+EXPERIENCIA PROFESIONAL
+Dispongo de por lo menos un año de experiencia en el análisis de sistemas, aplicaciones, servicios, procesos y soluciones de Inteligencia de Negocio. Como analista de negocio, me encargo de identificar, sintetizar y evaluar información procedente de distintas fuentes, incluyendo herramientas, procesos, documentación y Partes interesadas.
+
+He trabajado en proyectos de diseño de soluciones y análisis de negocio, levantando y documentando requerimientos, creando historias de usuario y preparando propuestas técnicas para su aprobación. Colaboro estrechamente con equipos técnicos para garantizar continuidad de servicios y calidad en los entregables.
+
+Mi enfoque es convertir necesidades de negocio en especificaciones claras y viables: estimar alcance, proponer soluciones sencillas y apoyar la comunicación entre usuarios y desarrolladores, asegurando el control de cambios durante la implementación.
+EXPERIENCIA LABORAL
+Empresa
+Diseño de Solución Digital Mexico | Puesto
+Solution Architect - Junior | Desde:
+4 noviembre, 2024 | Hasta: 
+A la Fecha
+Actividades Principales | • Recopilo, analizo y represento los requerimientos solicitados. Documento la propuesta de solución en los entregables correspondientes. Habilidades en: Recopilación de información, Análisis e interpretación de datos, Identificación de patrones y oportunidades de mejora, Generación de la documentación de requerimientos funcionales y técnicos, adaptabilidad y flexibilidad.
+• Comprendo las verdaderas necesidades usando un conjunto de técnicas de análisis.
+• Involucro a las Partes interesadas para descubrir y documentar requerimientos funcionales, no funcionales y de transición de manera completa, clara y consistente.
+• Genero especificaciones de requerimientos no funcionales describiendo las cualidades y restricciones que deben considerarse para su implementación.
+• Identifico patrones funcionales para diseñar soluciones que permitan a las Partes interesadas ejecutar sus procesos de negocio con eficacia.
+• Diseño la solución funcional que satisface los requerimientos de las Partes interesadas y la estrategia de implementación necesaria para generar valor al negocio.
+• Aseguro que la solución sea aprobada conscientemente por las stakeholders y que su implementación cumpla con los objetivos planteados.
+• Expreso los resultados del análisis y comunico claramente los requerimientos a los equipos implementadores.
+• Administro y doy seguimiento a los cambios de alcance durante el ciclo de vida de la solución.
+• Me enfoco en el análisis y documentación de requerimientos de baja complejidad, trabajando directamente con usuarios de negocio para atender necesidades asociadas a un solo componente o módulo. Diseño y gestiono módulos pequeños o sencillos, elaboro modelos simples de datos y documento los requerimientos de manera individual, asegurando además el seguimiento y control de los cambios a lo largo del tiempo.
+• He usado el curso Agile Business Analysis: Getting / Writing Lean Requirements como fundamento para la documentación ágil y Lean de requerimientos.
+• He aplicado los conocimientos del curso Business Analysis Modeling Skills  Techniques como fundamento para aplicar técnicas de modelado en el análisis de negocio.
+• He usado el curso Business Analysis: Working with Use Cases como fundamento para documentar requerimientos mediante casos de uso.
+• He implementado el curso Business Analysis Fundamentals – ECBA, CCBA, CBAP endorsed como fundamento para fortalecer el análisis de negocio alineado al IIBA.
+• He usado el curso Historias de Usuario – Cómo escribir User Story como fundamento para la redacción de historias de usuario.
+• He aplicado el curso Identify  Define the Problem with Business Analysis como fundamento para la definición de problemas de negocio.
+• He usado el curso The Complete UML Course: Learn to Design UML Diagrams como fundamento para el modelado de sistemas con UML.
+• He utilizado el curso UX: Máster en Diseño web y Experiencia de Usuario como fundamento para el diseño de experiencias centradas en el usuario.
+• He usado la certificación Domina SCRUM con Jira (Herramienta de gestión ágil y seguimiento de issues/sprints) Agile – Metodologías Ágiles como fundamento para aplicar metodologías ágiles para la gestión de proyectos.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+REQ: Encabezo las actividades de generación de los requerimientos y produzco los entregables correspondientes.
+SFD: Encabezo las actividades de diseño funcional de la solución, asegurando la correcta generación de los entregables.
+ARC: Proveo las entradas necesarias al proceso, principalmente los requerimientos funcionales.
+DBI: Proveo el modelo lógico de base de datos (modelo de dominio) y las especificaciones de los componentes funcionales.
+CIS: Proveo entradas al proceso y valido la precisión de los entregables.
+Interfaz Gráfica de Usuario (GUI): Proveo entradas y valido la precisión del diseño de la interfaz gráfica de usuario.
+INT: Proveo las entradas necesarias para la integración de sistemas.
+STD: Participo en las actividades de diseño de pruebas de sistema.
+STE: Participo en la ejecución de las pruebas de sistema.
+DOC: Proveo entradas y valido la precisión de los entregables de documentación.
+UAT: Apoyo en las actividades de usuario según lo solicitado durante las pruebas de aceptación.
+• Realizo levantamiento de requerimientos
+• Realizo estimaciones de proyectos
+• Realizo propuestas y presentaciones en Power Point
+• Realizo conteo COSMIC
+• Hago exposición de propuestas
+• Realizo análisis de negocio
+• Elaboro historias de usuario
+• Documento requerimientos
+• Realizo diagramación (casos de uso, modelo de dominio)
+• Creo bosquejos y propuestas de diseño
+• Elaboro modelos de dominio y diagramas entidad-relación
+Empresa
+CitiBanamex Mexico | Puesto
+Business Analyst - Junior | Desde:
+2 octubre, 2023 | Hasta: 
+31 octubre, 2024
+Actividades Principales | • Realizo análisis de negocio
+• Elaboro historias de usuario
+• Documento requerimientos
+• Realizo diagramación (casos de uso, modelo de dominio)
+• Creo bosquejos y propuestas de diseño
+• Elaboro modelos de dominio y diagramas entidad-relación
+HERRAMIENTAS CONOCIDAS
+- Jira
+- Confluence
+- Digital Office
+- Copilot (M365 Copilot)
+- Postman
+- MySQL
+- Laravel 8
+- Vue 3
+- Bootstrap 5
+- PHP
+- HTML5
+- CSS
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 marzo de 2019 hasta 29 septiembre de 2023
+Durante este período asumí responsabilidades relacionadas con roles como Desarrollador Backend, Application Support Engineer y Application Support. Principalmente participé en análisis técnico y de dependencias, diseño y creación de módulos backend, mantenimiento de sistemas y soporte de aplicaciones. Mis tareas incluyeron diseño y creación de bases de datos, pruebas unitarias y documentación de código, siempre con foco en mantener continuidad de servicio y cumplimiento de procesos.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Tecnologías de la Información - Sep, 2018 - Mar, 2021 | Universidad Tecnológica Fidel Velázquez Mexico | Cédula Profesional
+CURSOS
+- Agile Business Analysis: Getting / Writing Lean Requirements
+- Business Analysis Modeling Skills  Techniques
+- Business Analysis: Working with Use Cases
+- Business Analysis Fundamentals – ECBA, CCBA, CBAP endorsed
+- Historias de Usuario – Cómo escribir User Story
+- Identify  Define the Problem with Business Analysis
+- Domina SCRUM con JIRA Agile – Metodologías Ágiles
+- The Complete UML Course: Learn to Design UML Diagrams
+- UX: Máster en Diseño web y Experiencia de Usuario
+______________________________________
+Karina Francisco Sanchez
+Analista Junior | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

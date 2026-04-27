@@ -1,0 +1,122 @@
+José Luis García Ramos
+PERFIL
+Desarrollador de software con 9 años de experiencia usando las siguientes tecnologías
+c#, entityFramework, net framework, net core.
+java, spring boot, hibernate,spring data, spring security.
+Php
+Angular
+Mi propósito es ser un desarrollador de software proactivo y comprometido con el trabajo para dar lo mejor de mí y así tener un buen desempeño laboral.
+En base a la experiencia adquirida y con los conocimientos conseguidos tener siempre la mejor solución a los problemas que tenga que desafiar.
+He liderado equipos de desarrollo en la creación de aplicaciones escalables y eficientes, utilizando herramientas como c#, ASP.Net, entity framework, java y spring. Mi enfoque se centraliza en la entrega de soluciones de alta calidad, garantizando que se cumplan los plazos y requisitos del cliente.
+He gestionado proyectos desde la fase de planificación hasta la implementación, coordinando diferentes áreas para asegurar una integración fluida y eficiente. Mi experiencia incluye:
+Metodologías ágiles: Implementación de metodologías ágiles (Scrum) para mejorar la eficiencia del equipo y adaptabilidad a cambios en los requisitos.
+Resolución de problemas: Capacidad para identificar y resolver problemas técnicos, garantizando la continuidad del negocio y la satisfacción del cliente.
+Colaboración: Trabajo en conjunto con distintos equipos para asegurar una entrega integral y alineada con las expectativas del cliente.
+Aspiro a seguir creciendo profesionalmente en un entorno desafiante donde pueda aplicar mis habilidades técnicas y de liderazgo para impulsar el éxito del equipo y la organización.
+EXPERIENCIA PROFESIONAL
+SOFTTEK	Ciudad de México ­ System Engineer	De: Dec, 2021 A: La Fecha
+Descripción:
+He trabajado con diferentes clientes dentro de la organización, de los cuales menciono las actividades que he desarrollado con cada uno de ellos:
+Coppel Tareas:
+Realizar mantenimiento a aplicativos desarrollados en:
+·   PHP.
+·   Java.
+·   C#.
+Control de versiones con GIT.
+Upgrade de versión de base de datos postgresql, sql server.
+Se realizaron correcciones y/o mejoras a diferentes sp, funciones, vistas.
+Remediación de vulnerabilidades en C#, algunas de ellas son SQL inyección, exposición de datos sensibles, etc.
+Actualización de versión de .net en algunos componentes.
+Creación de componentes del FrontEnd con Angular.
+Creación y consumo de servicios REST en java y node.
+Upgrade de versión de php.
+Mejoras en código de php para tener mayor seguridad a las peticiones a las BD y evitar posibles ataques.
+Acceso a servidor linux a mediante ssh para el despliegue de servicios, modificar permisos de lectura, escritura, cambio de owner en directorios y archivos; revisión de log y estatus de los servicios desplegados.
+Nacional Monte de Piedad Tareas:
+Modificación a microservicio desarrollado en node para la autenticación.
+Citi Banamex Tareas:
+Generar archivos de configuración en xml para dar accesos a una herramienta encargada de la transferencia de archivos a través de diferentes protocolos de comunicación.
+Uso de JIRA.
+Banamex
+Tareas:
+Realizar migración de aplicativo java 8 con servlets a java 21 de backend y angular 16 para frontend.
+creación de stored procedures y optimización de consultas.
+Manejo de despliegues con Jeinkins, RLM, autosys.
+Herramientas/Habilidades:
+Java 8, PHP, Git, C#, Angular 2+, .NET Framework 3.5 (and above), Microsoft SQL Server, PostgreSQL, PostMan, Spring BOOT, Java 21,
+Oracle, Teradata DB
+GRUPO FINANCIERO INBURSA S.A. DE	Toluca, Estado de México ­ Software	De: May, 2018 A: Nov, 2021
+C.V	Engineer ­ Senior
+Descripción:
+Tareas:
+Desarrollo y mantenimiento de aplicativos.
+Realizar migraciones de distintos sistemas:
+.Net a Java
+Asp clásico a .Net.
+Visual basic 6 a .Net
+Desarrollo y mantenimiento de servicios REST/SOAP mediante WCF y WEB API.
+Desarrollo y mantenimiento de windows services.
+Control de versiones con GIT, SVN y TeamFoundation.
+Desarrollo y modificación de objetos de base de datos (Stored Procedures, funciones, secuencias, índices, tablas, vistas) en SQL Server yOracle.
+Implementación de metodología SCRUM.
+Líder técnico, encargado de gestionar y dar seguimiento a las actividades del equipo.
+Herramientas/Habilidades:
+.NET Framework 3.5 (and above), ASP Classic, ASP.NET, Java 8, C#, Git, Apache SubVersion (SVN), Team Foundation Services (TFS), Oracle Database, Microsoft SQL Server, Scrum, JIRA, WebLogic Server, Spring Framework, SoapUI, SOAP, REST, MS Visual Basic 6, Java EE / J2EE, Hibernate, Spring BOOT
+EDEM CONSULTORES	Toluca, estado de México ­ Desarrollador	De: Jan, 2017 A: May, 2018
+.Net Descripción:
+Tareas:
+Desarrollo y mantenimiento de aplicativos creados en VB .Net.
+Migración de Visual Basic 6 a VB .Net.
+Desarrollo y mantenimiento a módulo de facturación.
+Desarrollo y modificación de objetos de base de datos (Stored Procedures, funciones, secuencias, índices, tablas, vistas) en SQL Server.
+Herramientas/Habilidades:
+MS Visual Basic.NET (VB.NET), ASP.NET, ASP Classic, C#, Microsoft SQL Server
+Unidad de Desarrollo Administrativo e Info Toluca, estado de México ­ Desarrollador	De: Sep, 2015 A: Jan, 2016 java Descripción:
+Tareas:
+Migración de aplicativo .Net a java.
+Desarrollo y modificación de objetos de base de datos (Stored Procedures, funciones, secuencias, índices, tablas, vistas) en ORACLE
+Herramientas/Habilidades:
+Java 8, JavaServer Pages (JSP), Struts, Oracle Database
+EDUCACIÓN
+Universidad Mexiquense del Bicentenario	Villa Victoria, estado de México	De: Sep, 2011 A: Apr, 2016
+Licenciatura en Informática
+Colegio de Estudios Científicos y Tecnológico Técnico en Informática
+DESARROLLO PROFESIONAL
+Villa Victoria, estado de México	De: Aug, 2008 A: Jul, 2011
+Certification: ISO/IEC 27001:2022 FOUNDATION I27001F CertiProf Mar, 2025
+Certification: Foundational C# with Microsoft freeCodeCamp ­ Microsoft Jul, 2024
+Certification: Scrum Fundamentals Certified	SCRUMstudy	Jul, 2022
+IDIOMAS
+English	Auto Evaluado	Beginner 11­30%
+HABILIDADES TÉCNICAS/GERENCIALES
+WebLogic Server	 Junior (1­2 YoE) Teradata DB	 Trainee (0­1 YoE)
+Team Foundation Services (TFS)	 	Proficient (2­4 YoE)
+Struts	 	Trainee (0­1 YoE)
+Spring Framework	 	Proficient (2­4 YoE)
+Spring BOOT	 	Junior (1­2 YoE)
+SoapUI	 	Proficient (2­4 YoE)
+SOAP	 	Proficient (2­4 YoE)
+Scrum	 	Proficient (2­4 YoE)
+REST	 	Proficient (2­4 YoE)
+PostMan	 	Proficient (2­4 YoE)
+PostgreSQL	 	Proficient (2­4 YoE)
+PHP	 	Junior (1­2 YoE)
+Oracle Database	 	Proficient (2­4 YoE)
+Oracle	 	Proficient (2­4 YoE)
+MS Visual Basic.NET (VB.NET)	 	Proficient (2­4 YoE)
+MS Visual Basic 6	 	Proficient (2­4 YoE)
+Microsoft SQL Server	 	Senior (4­6 YoE)
+JIRA	 	Proficient (2­4 YoE)
+JavaServer Pages (JSP)	 	Junior (1­2 YoE)
+Java EE / J2EE	 	Proficient (2­4 YoE)
+Java 8	 	Junior (1­2 YoE)
+Java 21	 	Proficient (2­4 YoE)
+Hibernate	 	Proficient (2­4 YoE)
+Git	 	Proficient (2­4 YoE)
+C#	 	Proficient (2­4 YoE)
+ASP.NET	 	Proficient (2­4 YoE)
+ASP Classic	 	Proficient (2­4 YoE)
+Apache SubVersion (SVN)	 	Proficient (2­4 YoE)
+Angular 2+	 	Trainee (0­1 YoE)
+.NET Framework 3.5 (and above)	 	Proficient (2­4 YoE)
+.NET Core Framework	 	Junior (1­2 YoE)

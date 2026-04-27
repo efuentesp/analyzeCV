@@ -1,0 +1,87 @@
+Jatziry Eugenia De La Oca Vazquez
+Gerente de Mesa de Servicios
+FUNCIONES
+Dirijo y coordino a los equipos de trabajo de las líneas de continuidad para restaurar un servicio ante fallas que se presenten en la operación de los aplicativos.
+Gestiono cambios operativos y contractuales, administro riesgos y defectos que puedan impactar compromisos, e impulso la implementación de mejores prácticas para optimizar la operación. Fomento la mejora continua y la colaboración entre equipos y proveedores para mantener una operación estable, eficiente y alineada a los objetivos del negocio.
+EXPERIENCIA PROFESIONAL
+Cuento con más de 5 años de experiencia en mesa de servicios. Soy responsable de asegurar el cumplimiento del desempeño del servicio, gestionando la satisfacción del cliente con base en los niveles de servicio y CTQs establecidos.
+
+Coordino cambios operativos y contractuales, gestiono riesgos y defectos que puedan impactar compromisos, e impulso la implementación de mejores prácticas para optimizar la operación. Promuevo la mejora continua y la colaboración entre equipos y proveedores para mantener una operación estable, eficiente y alineada a los objetivos del negocio.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Service manager | Desde:
+1 abril 2016 | Hasta: 
+13 abril 2026
+Actividades Principales | • Dirijo y coordino equipos de trabajo de las líneas de continuidad para restaurar servicios ante fallas en la operación de los aplicativos.
+• Dirijo y coordino equipos de trabajo de múltiples líneas de continuidad para restaurar servicios ante fallas en la operación de aplicativos, asegurando una atención efectiva en entornos multi-equipo.
+• Realizo revisiones mensuales de los servicios a mi cargo, dando seguimiento al desempeño operativo e impulsando acciones de mejora continua.
+• Monitoreo y reporto KPIs operativos (SLA/OLA, TTA/TTR, % de cumplimiento y calidad), asegurando su actualización sistemática y el cumplimiento de objetivos del servicio.
+• Opero bajo esquemas definidos para garantizar la continuidad del servicio en distintos niveles de demanda.
+• Coordino mesas de servicio, asegurando la correcta ejecución de procesos y niveles de servicio.
+• Domino y administro el ciclo de vida del ticket (Nuevo, Asignado, En curso, Pendiente, Resuelto, Cerrado/Cancelado), asegurando el cumplimiento de reglas de transición.
+• Gestiono catálogos, categorías, prioridades y grupos de soporte para una correcta operación del servicio.
+• Mantengo actualizada y vigente la matriz de escalamiento, definiendo niveles, horarios y criterios de atención.
+• Gestiono incidentes de extremo a extremo, desde su registro hasta su cierre, asegurando comunicación efectiva con los involucrados.
+• Administro la gestión de problemas mediante análisis de causa raíz (RCA), definición de workarounds y documentación en KEDB, garantizando trazabilidad con incidentes.
+• Coordino la gestión de cambios (RFC, análisis de impacto/riesgo, CAB, implementación y revisión) alineada a los lineamientos del comité correspondiente.
+• Mantengo la gestión de configuración (CMDB) asegurando la relación entre elementos de configuración, tickets, cambios y liberaciones.
+• Fomento la gestión del conocimiento mediante la generación de artículos, FAQs y registro de errores conocidos a partir de incidentes y problemas.
+• Soporto procesos de liberación desde la mesa mediante herramientas que gestionen ventanas, freezes y comunicación.
+• Genero reportes y dashboards periódicos de la operación de la mesa y gestiono planes de mejora derivados de auditorías.
+• Identifico, evalúo y gestiono riesgos asociados a la prestación de servicios, implementando medidas de mitigación para asegurar la continuidad operativa.
+• Experiencia en coordinación de equipos de soporte, gestión integral de incidentes, problemas y cambios, administración de KPIs y procesos de mejora continua. Enfocado en asegurar la continuidad operativa, la calidad del servicio y la eficiencia en entornos multi-equipo, gestionando iniciativas con un esfuerzo que pueden estar entre 5,000 y 10,000 horas con equipos de entre 10 y 15 participantes, coordinando a líderes con menor seniority y asegurando la correcta ejecución de las actividades. Asimismo, reporto avances y resultados a niveles de gerencia media del cliente y de la organización.
+• He aplicado el Bootcamp para Certificación Top Agility  Accountability Professional (BTAAP) para fortalecer competencias en agilidad, accountability y buenas prácticas de gestión profesional en entornos organizacionales
+• He utilizado el curso AWS Cloud Practitioner para comprender los fundamentos de la computación en la nube, los servicios principales de AWS y los modelos de costos asociados
+• He aplicado el curso Microsoft Official Course AZ-900T01-A para adquirir conocimientos fundamentales sobre Microsoft Azure, servicios en la nube, seguridad y principios de arquitectura
+• He puesto en práctica la certificación Top Agility  Accountability Professional para demostrar hábitos, competencias y responsabilidad profesional alineadas a modelos de agilidad organizacional
+• He utilizado la certificación Scrum Fundamentals Certified para comprender y aplicar los principios básicos del marco de trabajo Scrum en entornos ágiles
+• He aplicado la certificación Scrum Fundamentals Certified para reforzar el entendimiento de roles, eventos y artefactos Scrum conforme a la Scrum Guide
+• He puesto en práctica la certificación Scrum Master Certified para facilitar equipos Scrum, coordinar ceremonias ágiles y promover la mejora continua
+• He utilizado la certificación ITIL® Foundation Certificate in IT Service Management para aplicar buenas prácticas en la gestión de servicios de TI orientadas al valor y la mejora continua
+• He aplicado la certificación ITIL® Foundation Certificate in IT Service Management para fortalecer el enfoque de gestión de servicios alineado a estándares ITIL
+• He aprovechado la certificación Microsoft Certified: Azure Fundamentals para aplicar conceptos clave de computación en la nube, servicios de Azure, seguridad y modelos de costos
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+ISP: Defino la operación del servicio alineando objetivos, alcance, recursos, SLAs y equipo de trabajo.
+PTO: Doy seguimiento al desempeño del servicio, monitoreo KPIs y gestiono desviaciones operativas.
+FPT: Aseguro el cierre ordenado de servicios o etapas, validando entregables, reportes y lecciones aprendidas.
+CHM: Gestiono cambios operativos y de servicio, evaluando su impacto y asegurando su correcta implementación.
+SCM: Controlo configuraciones y versiones de componentes del servicio, garantizando trazabilidad y continuidad operativa.
+• Tengo experiencia orientada a la administración de diferentes proyectos, logrando sinergia y colaboración entre los diferentes equipos y proveedores para entregar con la mayor calidad y valor para el cliente.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Top Agility  Accountability Professional
+- Scrum Fundamentals Certified (SFC™)
+- Scrum Fundamentals Certified (SFC™)
+- Scrum Master Certified (SMC®)
+- ITIL® Foundation Certificate in IT Service Management
+- ITIL® Foundation Certificate in IT Service Management
+- Microsoft Certified: Azure Fundamentals
+- Bootcamp para Certificación Top Agility  Accountability Professional (BTAAP)
+- AWS Cloud Practitioner (Capacitación Oficial AWS)
+- Microsoft Official Course AZ-900T01-A: Microsoft Azure Fundamentals
+-
+HISTORIAL PROFESIONAL ADICIONAL
+Durante este período me desempeñé como Service manager, asumiendo responsabilidades de administración de proyectos, coordinación de equipos y proveedores, y gestión de riesgos e issues. Aseguré la entrega de servicios con foco en calidad y valor para el cliente, promoviendo la colaboración entre áreas y respondiendo con sentido de urgencia ante desviaciones operativas. También mantuve seguimiento de compromisos y comunicación con Partes interesadas para sostener la continuidad y estabilidad de los servicios.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+- 1 agosto 2000 - 31 agosto 2004 | Universidad Autónoma de México, CDMX | Cédula Profesional
+6429635
+19/04/2010
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Top Agility  Accountability Professional | 2022-2024
+- Scrum Fundamentals Certified (SFC™) | 2019-NA
+- Scrum Fundamentals Certified (SFC™) | 2024-NA
+- Scrum Master Certified (SMC®) | 2024-2027
+- ITIL® Foundation Certificate in IT Service Management | 2018-NA
+- ITIL® Foundation Certificate in IT Service Management | 2024-2027
+- Microsoft Certified: Azure Fundamentals | 2020-NA
+CURSOS
+- Bootcamp para Certificación Top Agility  Accountability Professional (BTAAP)
+- AWS Cloud Practitioner (Capacitación Oficial AWS)
+- Microsoft Official Course AZ-900T01-A: Microsoft Azure Fundamentals
+______________________________________
+Jatziry Eugenia De La Oca Vazquez
+Gerente de Mesa de Servicios | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

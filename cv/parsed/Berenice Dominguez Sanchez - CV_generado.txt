@@ -1,0 +1,92 @@
+Berenice Dominguez Sanchez
+Desarrollador Junior BI
+FUNCIONES
+Desarrollo e implemento sistemas mediante el uso de lenguajes de programación, realizando su puesta a punto para asegurar su correcto funcionamiento. Cuento con experiencia en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, participo en el desarrollo, mantenimiento y soporte de procesos Extraer, Transformar y Cargar (ETL) y utilizo herramientas de Business Intelligence como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.
+Me enfoco en producir soluciones de Inteligencia de Negocio mediante la creación y mantenimiento de procesos y componentes de datos, implementando flujos Extraer, Transformar y Cargar (ETL), modelado de información y asegurando la calidad y cumplimiento de estándares y arquitecturas.
+EXPERIENCIA PROFESIONAL
+Tengo más de 2 años de experiencia en desarrollo de servicios y aplicaciones web (frontend y backend), dashboards, tableros e informes automáticos.
+
+Mi trabajo se centra en generar soluciones de Inteligencia de Negocio mediante la construcción y mantenimiento de procesos y componentes de datos; implemento flujos Extraer, Transformar y Cargar (ETL), diseño modelos de información y garantizo la calidad y cumplimiento de estándares y arquitecturas.
+
+Colaboro con equipos multidisciplinarios en entornos ágiles, participando en la definición de políticas de gobierno de datos, en el diseño de arquitecturas de datos y en el soporte operativo de plataformas cloud para consumo analítico.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Data Governance Consultant PR | Desde:
+31 octubre de 2024 | Hasta: 
+A la fecha
+Actividades Principales | • Creo paquetes de software, los implemento y realizo su puesta a punto para que funcionen, usando distintos lenguajes de programación. Cuento con habilidades en bases de datos relacionales y no relacionales, así como en técnicas de modelado de datos. Además, desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL), y manejo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.
+• Desarrollo e implemento sistemas y componentes de software para soluciones de Inteligencia de Negocio.
+• Apoyo en la puesta a punto y correcto funcionamiento de las soluciones desarrolladas.
+• Desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL) para la integración y transformación de datos.
+• Colaboro en el modelado de datos utilizando bases de datos relacionales y no relacionales.
+• Apoyo en la construcción de estructuras de datos para soluciones analíticas y de Business Intelligence.
+• Utilizo herramientas de Business Intelligence como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric para el procesamiento y análisis de información.
+• Atiendo incidencias básicas y doy soporte a los procesos y soluciones implementadas.
+• Aplico buenas prácticas de desarrollo y lineamientos definidos por el equipo.
+• Colaboro con equipos de trabajo para asegurar la correcta ejecución de las soluciones.
+• Documento procesos, desarrollos y configuraciones para asegurar su entendimiento y mantenimiento.
+• Resuelvo problemas relacionados con el desarrollo, integración y procesamiento de datos en soluciones de Inteligencia de Negocio, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en el desarrollo de soluciones BI.
+• He aplicado el curso The Complete Python Bootcamp: From Zero to Hero in Python para desarrollar scripts y soluciones utilizando Python desde nivel básico hasta intermedio
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Implementé las mejores prácticas del DAMA-DMBOK Segunda Edición 2024.
+• Evangelicé Gobierno de Datos con curso institucional.
+• Contruí y actualicé políticas, estándares y anexos.
+• Construí y dí mantenimiento a Sharepoint Enterprise Data Governance.
+• Discovery de roles de gobierno de datos y certificación de ingesta de información.
+• Herramientas: GCP BigQuery, Confluence (Documentación colaborativa y base de conocimiento), Jira (Herramienta de gestión ágil y seguimiento de issues/sprints). Excel (Herramienta de análisis de datos), Microsoft Office (Documentación operativa, métricas y cronogramas), Microsoft Office (Documentación operativa, métricas y cronogramas) y Sharepoint.
+• A partir de febrero de 2025, estoy participando en el Centro de Excelencia (COE) de Gobierno de Datos y Master Data Management (MDM). Contribuí en la elaboración del Data Governance Playbook y en el diseño de enfoques estratégicos para la implementación de gobierno de datos.
+• Octubre 2025 a 15 de diciembre: Colaboré en Gobierno de datos para el cliente Grupo Salav en la definición de la Estrategia de Inteligencia de Negocio, participando en la creación de artefactos clave como: Agenda de entrevistas, Radiografía del estado actual y Nivel esperado de Inteligencia de Negocio. Participé en las sesiones de Discovery para realizar el assessment de Grupo SALAV.
+• Fuí responsable como Product Owner del diseño y entrega de un Data Lake para e-commerce y T1 envíos, asegurando escalabilidad y eficiencia en la plataforma AWS (Plataforma de servicios en la nube).
+• Participé en el descubrimiento, ingesta de datos, almacenamiento, procesamiento y transformación, gobernanza de datos, consumo y analítica.
+• Herramientas: AWS (Plataforma de servicios en la nube): Database Migration Service (DMS), IAM (Identity and Access Management), Amazon Athena, Amazon Redshift, Quicksight, Amazon S3 (Simple Storage Service), Amazon VPC (Virtual Private Cloud) y Amazon EC2 (Elastic Compute Cloud).
+• Establecí convenciones de nombre de buckets, esquemas y tablas; administré Quicksight y diseñé casos de uso para creación de dashboards.
+• Construí la estrategia de datos y participé en la definición de la arquitectura del Data Lake, administré IAM y gestioné usuarios y políticas por capa (Raw, Staging, Client).
+• Realicé discovery de fuentes de información, definí la ingesta y formé en cadencia con AWS (Plataforma de servicios en la nube); administré la consola y coordiné con especialistas AWS.
+Empresa
+Claroshop | Puesto
+Big Data Manager | Desde:
+2 diciembre de 2023 | Hasta: 
+30 octubre de 2024
+Actividades Principales | • Fuí responsable como Product Owner del diseño y entrega de un Data Lake para e-commerce y T1 envíos, asegurando escalabilidad y eficiencia en la plataforma AWS (Plataforma de servicios en la nube).
+• Participé en el descubrimiento, ingesta de datos, almacenamiento, procesamiento y transformación, gobernanza de datos, consumo y analítica.
+• Herramientas: AWS (Plataforma de servicios en la nube): Database Migration Service (DMS), IAM (Identity and Access Management), Amazon Athena, Amazon Redshift, Quicksight, Amazon S3 (Simple Storage Service), Amazon VPC (Virtual Private Cloud) y Amazon EC2 (Elastic Compute Cloud).
+• Establecí convenciones de nombre de buckets, esquemas y tablas; administré Quicksight y diseñé casos de uso para creación de dashboards.
+• Construí la estrategia de datos y participé en la definición de la arquitectura del Data Lake, administré IAM y gestioné usuarios y políticas por capa (Raw, Staging, Client).
+• Realicé discovery de fuentes de información, definí la ingesta y formé en cadencia con AWS (Plataforma de servicios en la nube); administré la consola y coordiné con especialistas AWS.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- The Complete Python Bootcamp: From Zero to Hero in Python
+- GCP BigQuery
+- Confluence (Documentación colaborativa y base de conocimiento)
+- Jira (Herramienta de gestión ágil y seguimiento de issues/sprints)
+- Amazon S3
+- Amazon Redshift
+- Amazon Athena
+- AWS (Plataforma de servicios en la nube)
+- Quicksight
+- Cloudera (Hive, Impala)
+- RStudio
+- Python
+- MySQL
+- Visual FoxPro
+- SPSS
+- Tableau
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 02 enero de 2010 hasta 1 diciembre de 2023
+Durante este período asumí responsabilidades principalmente en áreas de análisis de datos y actuaría. Ejercí roles como Becario de la Oficina de Suscripción, Auxiliar en el área de Administración, Analista Actuarial, Jefe de Departamento de la Dirección de Análisis Estadístico y Senior Actuary. Me encargué de la administración de bases de datos, elaboración y entrega de reportes regulatorios, modelado estadístico, generación de indicadores y apoyo en procesos de suscripción y valoración técnica, colaborando con equipos multidisciplinarios.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Maestría en Ciencia e Ingeniería de la Computación - enero de 2022 - enero de 2024 | Universidad Nacional Autónoma de México | Cédula Profesional
+10151643
+24/11/2016
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- The Complete Python Bootcamp: From Zero to Hero in Python
+______________________________________
+Berenice Dominguez Sanchez
+Desarrollador Junior BI | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

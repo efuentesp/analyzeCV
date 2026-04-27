@@ -1,0 +1,205 @@
+Miguel Angel Toribio Montoya
+miguel.toribio@softtek.com
+PERFIL:
+Capacitado para realizar componentes de software.
+EXPERIENCIA PROFESIONAL:
+Nombre de empresa
+SOFTTEK | Nombre de empresa
+SOFTTEK | Lugar
+Querétaro | Puesto
+Desarrollador web | Fecha: De
+08/05/2023 | A: 19/11/2024
+Actividades: 
+
+Trabajo como desarrollador frontend creando componentes Angular y consumiendo servicios rest. | Actividades: 
+
+Trabajo como desarrollador frontend creando componentes Angular y consumiendo servicios rest. | Actividades: 
+
+Trabajo como desarrollador frontend creando componentes Angular y consumiendo servicios rest. | Actividades: 
+
+Trabajo como desarrollador frontend creando componentes Angular y consumiendo servicios rest. | Actividades: 
+
+Trabajo como desarrollador frontend creando componentes Angular y consumiendo servicios rest. | Actividades: 
+
+Trabajo como desarrollador frontend creando componentes Angular y consumiendo servicios rest.
+Herramientas: | Angular
+NodeJs
+Git, Bitbucket | Angular
+NodeJs
+Git, Bitbucket | Angular
+NodeJs
+Git, Bitbucket | Angular
+NodeJs
+Git, Bitbucket | Angular
+NodeJs
+Git, Bitbucket
+Nombre de empresa
+Solser Information Technology | Nombre de empresa
+Solser Information Technology | Lugar
+Querétaro | Puesto
+Desarrollador web | Fecha: De
+04/04/2022 | A
+17/04/2023
+Actividades: 
+
+Desarrollo de componentes angulares con Material, consumo de rest api, servicios usando wildfly, desarrollo de funcionalidades backend con spring boot. | Actividades: 
+
+Desarrollo de componentes angulares con Material, consumo de rest api, servicios usando wildfly, desarrollo de funcionalidades backend con spring boot. | Actividades: 
+
+Desarrollo de componentes angulares con Material, consumo de rest api, servicios usando wildfly, desarrollo de funcionalidades backend con spring boot. | Actividades: 
+
+Desarrollo de componentes angulares con Material, consumo de rest api, servicios usando wildfly, desarrollo de funcionalidades backend con spring boot. | Actividades: 
+
+Desarrollo de componentes angulares con Material, consumo de rest api, servicios usando wildfly, desarrollo de funcionalidades backend con spring boot. | Actividades: 
+
+Desarrollo de componentes angulares con Material, consumo de rest api, servicios usando wildfly, desarrollo de funcionalidades backend con spring boot.
+Herramientas: | Spring boot, Angular
+GitLab, Json | Spring boot, Angular
+GitLab, Json | Spring boot, Angular
+GitLab, Json | Spring boot, Angular
+GitLab, Json | Spring boot, Angular
+GitLab, Json
+Nombre de empresa
+Grupo TUM | Nombre de empresa
+Grupo TUM | Lugar
+Querétaro | Puesto
+Desarrollador web | Fecha: De
+30/07/2020 | A
+15/03/2022
+Actividades: 
+
+Trabajé como programador web diseñando, creando componentes angular consumiendo api rest en nodejs con manejo de express y transacciones en PostgreSQL. | Actividades: 
+
+Trabajé como programador web diseñando, creando componentes angular consumiendo api rest en nodejs con manejo de express y transacciones en PostgreSQL. | Actividades: 
+
+Trabajé como programador web diseñando, creando componentes angular consumiendo api rest en nodejs con manejo de express y transacciones en PostgreSQL. | Actividades: 
+
+Trabajé como programador web diseñando, creando componentes angular consumiendo api rest en nodejs con manejo de express y transacciones en PostgreSQL. | Actividades: 
+
+Trabajé como programador web diseñando, creando componentes angular consumiendo api rest en nodejs con manejo de express y transacciones en PostgreSQL. | Actividades: 
+
+Trabajé como programador web diseñando, creando componentes angular consumiendo api rest en nodejs con manejo de express y transacciones en PostgreSQL.
+Herramientas: | Angular, Nodejs
+HTML, CSS, Git
+PostreSQL | Angular, Nodejs
+HTML, CSS, Git
+PostreSQL | Angular, Nodejs
+HTML, CSS, Git
+PostreSQL | Angular, Nodejs
+HTML, CSS, Git
+PostreSQL | Angular, Nodejs
+HTML, CSS, Git
+PostreSQL
+Nombre de empresa
+HUMAN TECHNOLOGIES VC SC DE CV DE
+RL | Nombre de empresa
+HUMAN TECHNOLOGIES VC SC DE CV DE
+RL | Lugar
+Querétaro | Puesto
+Desarrollador Jr | Fecha: De
+27/03/2019 | A
+17/07/2020
+Actividades: 
+
+Trabajé como desarrollador web Jr en el área frontend realizando componentes Angular, colaboré en la creación de endpoints para microservicios en Spring boot. También colaboré en el levantamiento de requisitos con el cliente. | Actividades: 
+
+Trabajé como desarrollador web Jr en el área frontend realizando componentes Angular, colaboré en la creación de endpoints para microservicios en Spring boot. También colaboré en el levantamiento de requisitos con el cliente. | Actividades: 
+
+Trabajé como desarrollador web Jr en el área frontend realizando componentes Angular, colaboré en la creación de endpoints para microservicios en Spring boot. También colaboré en el levantamiento de requisitos con el cliente. | Actividades: 
+
+Trabajé como desarrollador web Jr en el área frontend realizando componentes Angular, colaboré en la creación de endpoints para microservicios en Spring boot. También colaboré en el levantamiento de requisitos con el cliente. | Actividades: 
+
+Trabajé como desarrollador web Jr en el área frontend realizando componentes Angular, colaboré en la creación de endpoints para microservicios en Spring boot. También colaboré en el levantamiento de requisitos con el cliente. | Actividades: 
+
+Trabajé como desarrollador web Jr en el área frontend realizando componentes Angular, colaboré en la creación de endpoints para microservicios en Spring boot. También colaboré en el levantamiento de requisitos con el cliente.
+Herramientas: | Spring boot, NodeJs
+Angular, Git
+OracleSql | Spring boot, NodeJs
+Angular, Git
+OracleSql | Spring boot, NodeJs
+Angular, Git
+OracleSql | Spring boot, NodeJs
+Angular, Git
+OracleSql | Spring boot, NodeJs
+Angular, Git
+OracleSql
+Nombre de empresa
+Reformas de consolidacion empresarial | Nombre de empresa
+Reformas de consolidacion empresarial | Lugar
+Querétaro | Puesto
+Desarrollador Jr | Fecha: De
+01/04/2018 | A
+10/12/2020
+Actividades: 
+
+Trabajé como desarrollador de componentes backend realizando servicios rest. | Actividades: 
+
+Trabajé como desarrollador de componentes backend realizando servicios rest. | Actividades: 
+
+Trabajé como desarrollador de componentes backend realizando servicios rest. | Actividades: 
+
+Trabajé como desarrollador de componentes backend realizando servicios rest. | Actividades: 
+
+Trabajé como desarrollador de componentes backend realizando servicios rest. | Actividades: 
+
+Trabajé como desarrollador de componentes backend realizando servicios rest.
+Herramientas: | Spring boot
+Oraclesql, Git | Spring boot
+Oraclesql, Git | Spring boot
+Oraclesql, Git | Spring boot
+Oraclesql, Git | Spring boot
+Oraclesql, Git
+Nombre de empresa
+CINTE JOBS | Nombre de empresa
+CINTE JOBS | Lugar
+Querétaro | Puesto
+Desarrollador web | Fecha: De
+09/10/2017 | A
+18/06/2018
+Actividades: 
+
+Trabajé como desarrollador front­end usando bootstrap, jquery y javascript. | Actividades: 
+
+Trabajé como desarrollador front­end usando bootstrap, jquery y javascript. | Actividades: 
+
+Trabajé como desarrollador front­end usando bootstrap, jquery y javascript. | Actividades: 
+
+Trabajé como desarrollador front­end usando bootstrap, jquery y javascript. | Actividades: 
+
+Trabajé como desarrollador front­end usando bootstrap, jquery y javascript. | Actividades: 
+
+Trabajé como desarrollador front­end usando bootstrap, jquery y javascript.
+Herramientas: | Bootstrap, Jquery, Javascript | Bootstrap, Jquery, Javascript | Bootstrap, Jquery, Javascript | Bootstrap, Jquery, Javascript | Bootstrap, Jquery, Javascript
+Nombre de empresa
+OSRH | Nombre de empresa
+OSRH | Lugar
+Querétaro | Puesto
+Desarrollador web | Fecha: De
+09/10/2017 | A
+18/06/2018
+Actividades: 
+
+Colaboré en el desarrollo de libros digitales, utilizado Javascript, css, html5 | Actividades: 
+
+Colaboré en el desarrollo de libros digitales, utilizado Javascript, css, html5 | Actividades: 
+
+Colaboré en el desarrollo de libros digitales, utilizado Javascript, css, html5 | Actividades: 
+
+Colaboré en el desarrollo de libros digitales, utilizado Javascript, css, html5 | Actividades: 
+
+Colaboré en el desarrollo de libros digitales, utilizado Javascript, css, html5 | Actividades: 
+
+Colaboré en el desarrollo de libros digitales, utilizado Javascript, css, html5
+Herramientas: | Javascript, css/css3, Html5 | Javascript, css/css3, Html5 | Javascript, css/css3, Html5 | Javascript, css/css3, Html5 | Javascript, css/css3, Html5
+EDUCACIÓN:
+Escuela: Universidad Tecnológica de Querétaro | Lugar | Fechas
+Carrera: : Ingeniería en Tecnologías de la Información y las Comunicaciones | Querétaro | 2013-2016
+IDIOMAS:
+Español nativo
+Inglés básico y técnico
+.
+HABILIDADES TÉCNICAS/ADMINISTRATIVAS:
+Perfil Primario: | Desarrollador fullstack para aplicaciones web utilizando Angular, Spring boot.
+Lenguajes de Programación: | Javascript, Typescript, Java, css/css3
+Bases de Datos: | SQL Server, PostgreSQL
+Otros: | Git, Json, HTML5

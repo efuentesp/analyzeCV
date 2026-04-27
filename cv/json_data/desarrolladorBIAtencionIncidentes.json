@@ -1,0 +1,851 @@
+[
+  {
+    "nombre": "Aurora Vargas Palomares",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "7794564",
+    "fecha_cedula": "31/10/2012",
+    "rol_propuesto": "Desarrollador BI de atención de incidentes",
+    "resumen_profesional": "Cuento con más de 3 años en desarrollo de soluciones de BI, en servicios y aplicaciones web frontend y backend, dashboards interactivos, tableros, informes automáticos y reportes. Domino tecnologías aplicadas a entornos de Inteligencia de Negocio. Analizo, corrijo y doy mantenimiento a procesos y componentes BI para la atención de incidentes, generando y ajustando código conforme a la especificación técnica. Ejecuto las actividades de soporte y desarrollo de acuerdo con lo establecido, apegándome a estándares, arquitectura y frameworks definidos, asegurando la calidad de la información, la continuidad operativa y el cumplimiento de los tiempos establecidos.\n\nHe atendido solicitudes, monitoreos e incidentes en aplicaciones institucionales, realizando análisis funcional, construcción de scripts en Oracle Database (Motor de base de datos empresarial), SQL Server (Motor de base de datos para consultas y validaciones) y Hive, operación de cargas con ODI Studio y generación de reportes para distintos usuarios. También he impulsado mejoras para reducir tiempos de ejecución, fortalecer el rendimiento y mantener la operación continua de soluciones analíticas.\n\nComplemento esta experiencia con soporte y mantenimiento a aplicaciones críticas en Java (Lenguaje de programación para desarrollo de aplicaciones), validación de defectos y vulnerabilidades, pruebas funcionales, documentación técnica y trato directo con usuarios y equipos de operación. Esto me permite aportar criterio para resolver incidencias, ordenar prioridades y sostener la calidad del servicio en ambientes productivos.",
+    "funciones": "Analizo las propuestas de requerimientos de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos, así como en la coordinación con desarrolladores, testers y áreas de negocio. Realizo validaciones funcionales mediante pruebas de aceptación y seguimiento a Pruebas, mantengo interlocución constante con usuarios y coordino las actividades de analistas junior, asegurando un conocimiento integral de los requerimientos del proyecto asignado. Cuento con habilidades de liderazgo, identificación de problemas y propuesta de soluciones, así como dominio en el uso de herramientas y metodologías de análisis como Design Thinking y UML. Además, me comunico eficazmente con diferentes audiencias y elaboro documentación bajo marcos de trabajo tradicionales y ágiles.\n\nHe brindado atención a solicitudes, monitoreos e incidentes en aplicaciones institucionales, realizando análisis funcional, construcción de scripts en Oracle, SQL Server y Hive, operación de cargas con ODI Studio y elaboración de reportes para distintos usuarios. También he promovido mejoras para disminuir tiempos de ejecución, fortalecer el rendimiento y sostener la operación continua de soluciones analíticas.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek (Proyecto BMV)",
+        "puesto": "Ingeniero de software",
+        "fecha_inicio": "1 febrero 2023",
+        "fecha_fin": "30 novimbre 2023",
+        "actividades_principales": [
+          "Mantengo y doy soporte a los aplicativos de Inteligencia de Negocio dominando varios lenguajes de programación. Tengo habilidades en Bases de Datos relacionales y no relacionales, técnicas de diseño para el Modelado de Datos, versionamiento del código (Git (Control de versiones distribuido)) y diseño y desarrollo de procesos de Extraer, Transformar y Cargar (ETL).",
+          "Diseño, desarrollo y realizo mantenimiento a soluciones de BI (dashboards, reportes, tableros automáticos y servicios web frontend/backend), asegurando al menos 2 años de experiencia en este tipo de implementaciones.",
+          "Construyo, implemento y pongo en operación componentes y sistemas BI mediante lenguajes de programación, garantizando su correcto funcionamiento en ambientes productivos.",
+          "Implemento historias de usuario cumpliendo estándares de codificación y ejecuto pruebas unitarias para asegurar la calidad de los desarrollos.",
+          "Analizo y corrijo hallazgos de seguridad (SAST/DAST), documentando las remediaciones aplicadas en los componentes BI.",
+          "Preparo artefactos técnicos (manuales de instalación/configuración) y doy soporte a la integración y entrega de paquetes a AVL.",
+          "Registro y gestiono tareas e incidencias en GitLab, siguiendo flujos de ramas, versionamiento y etiquetado definidos.",
+          "Documento evidencias de cada fase del desarrollo y soporte para su integración en carpetas y VoBo.",
+          "Participo en ambientes INT, Pruebas de Aceptación de Usuario (UAT) y PROD, atendiendo y resolviendo defectos hasta obtener VoBo.",
+          "Mantengo una trayectoria laboral consistente, acumulando al menos 2 años de experiencia en desarrollo BI y atención de incidentes, con fechas claras y sin traslapes.",
+          "Aplico conocimientos en bases de datos relacionales y no relacionales, modelado de datos, versionamiento con Git (Control de versiones distribuido), desarrollo de aplicaciones web y procesos Extraer, Transformar y Cargar (ETL)/ELT.",
+          "Cumplo con tiempos, esfuerzo y calidad comprometidos, generando métricas de ejecución como tickets/historias cerradas por sprint, cobertura de pruebas y cumplimiento en tiempos de atención de incidentes.",
+          "Atiendo incidentes en entornos productivos de BI, analizando, reproduciendo y corrigiendo fallas mediante bugfix, hotfix y parches.",
+          "Participo en la resolución de incidentes según su severidad/prioridad, asegurando continuidad operativa y estabilidad de la información.",
+          "Realizo validaciones técnicas posteriores a cada corrección para garantizar la solución definitiva del incidente.",
+          "Colaboro con equipos de soporte, pruebas y usuarios técnicos durante la atención de incidentes, asegurando una comunicación efectiva.",
+          "Documento soluciones técnicas, lecciones aprendidas y contribuyo a bases de conocimiento para mejora continua.",
+          "Identifico, gestiono y escalo riesgos e issues técnicos que puedan afectar la operación de soluciones BI.",
+          "Aseguro el cumplimiento de estándares, lineamientos del proyecto y buenas prácticas de desarrollo, calidad y operación.",
+          "Cuento con sólidos conocimientos en soluciones de BI que me permiten analizar y resolver incidentes complejos mediante el uso de herramientas y procesos establecidos, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos que puedan afectar la calidad de la información y la continuidad operativa; además, valido correcciones, ejecuto pruebas y documento evidencias durante la atención de incidentes. Trabajo de forma autónoma con mínima supervisión, cumpliendo los tiempos comprometidos y manteniendo un alto nivel de especialización en entornos BI.",
+          "He aplicado el curso SQL TOTAL – Domina Bases de Datos de 0 a Avanzado en 12 Días para diseñar, consultar y administrar bases de datos relacionales utilizando SQL desde nivel básico hasta avanzado",
+          "He utilizado la certificación Certified ScrumMaster® (CSM) para facilitar equipos ágiles, coordinar eventos Scrum y promover la mejora continua en la entrega de valor",
+          "He puesto en práctica la certificación Scrum Fundamentals Certified para comprender y aplicar los principios, roles y eventos del marco de trabajo Scrum en entornos ágiles",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro especificaciones detalladas de componentes y servicios, asegurando su alineación con los requerimientos operativos, los niveles de servicio (SLAs) y los estándares definidos.",
+          "CTR: Coordino y superviso la construcción e implementación de componentes y soluciones, garantizando su correcta integración dentro del modelo de operación del servicio.",
+          "DOC: Genero y mantengo la documentación técnica y operativa, asegurando la trazabilidad, estandarización y soporte a la continuidad y mejora del servicio.",
+          "Realizo el análisis, validación y atención de problemas en aplicaciones de INDEVAL",
+          "Analizo y apoyo en la atención de vulnerabilidades identificadas en los sistemas de INDEVAL",
+          "Realizo el análisis y validación de defectos reportados en los sistemas de INDEVAL",
+          "Ejecuto pruebas funcionales en los diferentes sistemas de INDEVAL",
+          "Genero documentación para la entrega al cliente sobre problemas, vulnerabilidades o defectos reportados",
+          "Atiendo servicios de solicitudes de usuario, monitoreo e incidentes para su análisis y validación en las aplicaciones SIMF, SINOLAVE, MPEC, FEPAC, CIMA y ECE del IMSS",
+            "Analizo, diseño y construyo scripts para la extracción de información en bases de datos SQL Server y Oracle Database, generando reportes bajo demanda del usuario",
+            "Analizo, diseño y construyo escenarios para la ejecución de pruebas de estrés con JMeter, validando sistemas y módulos para asegurar el rendimiento de servidor, base de datos y red, además de documentar resultados y conclusiones",
+            "Genero y valido documentación aplicativa Maagtic de los sistemas del IMSS, asegurando la calidad en las divisiones DSDICDS y DSDIOH para el cumplimiento de SLAs en los repositorios",
+            "Imparto capacitación al equipo de continuidad operativa de las divisiones DSDICDS y DSDIOH, alineando procesos y asegurando el cumplimiento de SLAs",
+            "Implemento y valido despliegues a producción para la aplicación de cambios en el sistema SIMF a nivel nacional",
+            "Analizo, diseño y construyo scripts en Oracle Database para la atención de solicitudes del sistema SINOLAVE",
+            "Atiendo y resuelvo incidentes del sistema ECE, generando y entregando reportes semanales de niveles 1N, 2N y 3N",
+            "Opero soluciones analíticas para la extracción mensual de información de sistemas del IMSS, realizando cargas a SQL Server mediante ODI Studio para su tratamiento y análisis",
+            "Analizo y actualizo scripts en Hive y SQL Server para optimizar consultas, reduciendo tiempos de ejecución y mejorando el rendimiento",
+            "Genero diagramas UML de casos de uso, actividades y secuencia para documentar el flujo y comportamiento de procesos en MPEC",
+            "Diseño e implemento propuestas de mejora en sistemas para reducir tickets, esfuerzo y tiempos de atención",
+            "Diseño e implemento propuestas de innovación para optimizar la arquitectura y el rendimiento de soluciones analíticas",
+            "Implemento mantenimientos menores para la evolución de componentes ETL en soluciones analíticas",
+            "Genero respaldos de la base de datos MPEC",
+            "Desarrollo y opero bases de datos enfocadas a la continuidad operativa"
+       
+        ]
+      },
+      {
+        "empresa": "Softtek (Proyecto IMSS)",
+        "puesto": "Ingeniero de software",
+        "fecha_inicio": "1 abril 2016",
+        "fecha_fin": "31 diciembre 2022",
+        "actividades_principales": [
+            "Atiendo servicios de solicitudes de usuario, monitoreo e incidentes para su análisis y validación en las aplicaciones SIMF, SINOLAVE, MPEC, FEPAC, CIMA y ECE del IMSS",
+            "Analizo, diseño y construyo scripts para la extracción de información en bases de datos SQL Server y Oracle Database, generando reportes bajo demanda del usuario",
+            "Analizo, diseño y construyo escenarios para la ejecución de pruebas de estrés con JMeter, validando sistemas y módulos para asegurar el rendimiento de servidor, base de datos y red, además de documentar resultados y conclusiones",
+            "Genero y valido documentación aplicativa Maagtic de los sistemas del IMSS, asegurando la calidad en las divisiones DSDICDS y DSDIOH para el cumplimiento de SLAs en los repositorios",
+            "Imparto capacitación al equipo de continuidad operativa de las divisiones DSDICDS y DSDIOH, alineando procesos y asegurando el cumplimiento de SLAs",
+            "Implemento y valido despliegues a producción para la aplicación de cambios en el sistema SIMF a nivel nacional",
+            "Analizo, diseño y construyo scripts en Oracle Database para la atención de solicitudes del sistema SINOLAVE",
+            "Atiendo y resuelvo incidentes del sistema ECE, generando y entregando reportes semanales de niveles 1N, 2N y 3N",
+            "Opero soluciones analíticas para la extracción mensual de información de sistemas del IMSS, realizando cargas a SQL Server mediante ODI Studio para su tratamiento y análisis",
+            "Analizo y actualizo scripts en Hive y SQL Server para optimizar consultas, reduciendo tiempos de ejecución y mejorando el rendimiento",
+            "Genero diagramas UML de casos de uso, actividades y secuencia para documentar el flujo y comportamiento de procesos en MPEC",
+            "Diseño e implemento propuestas de mejora en sistemas para reducir tickets, esfuerzo y tiempos de atención",
+            "Diseño e implemento propuestas de innovación para optimizar la arquitectura y el rendimiento de soluciones analíticas",
+            "Implemento mantenimientos menores para la evolución de componentes ETL en soluciones analíticas",
+            "Genero respaldos de la base de datos MPEC",
+            "Desarrollo y opero bases de datos enfocadas a la continuidad operativa"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 marzo de 2012 hasta 14 abril de 2026",
+    "resumen_laboral": "Durante este período me desempeñé como Desarrollador Software, Ingeniero de software, Software Engineer y Auditor de Seguridad, asumiendo funciones de soporte, mantenimiento, atención de incidencias, validación de problemas y acompañamiento operativo a usuarios y proyectos. También participé en pruebas funcionales, documentación, seguimiento de liberaciones y revisión de controles de seguridad, manteniendo comunicación con áreas usuarias y técnicas para dar continuidad al servicio y asegurar el cumplimiento de lineamientos, políticas y procesos establecidos.",
+    "estudios": {
+      "carrera": "Licenciatura en Informática",
+      "lugar": "Zacatepec, Morelos",
+      "periodo": "De agosto 2007 a diciembre 2011"
+    },
+    "herramientas": [
+      {
+        "nombre": "XML"
+      },
+      {
+        "nombre": "UML"
+      },
+      {
+        "nombre": "Struts"
+      },
+      {
+        "nombre": "SSH"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "Spring"
+      },
+      {
+        "nombre": "Servlets"
+      },
+      {
+        "nombre": "PL SQL"
+      },
+      {
+        "nombre": "PHP"
+      },
+      {
+        "nombre": "Oracle 11"
+      },
+      {
+        "nombre": "Oracle"
+      },
+      {
+        "nombre": "ODI Studio"
+      },
+      {
+        "nombre": "Navicat"
+      },
+      {
+        "nombre": "MS Visual Basic For Applications"
+      },
+      {
+        "nombre": "Microstrategy"
+      },
+      {
+        "nombre": "Microsoft Office"
+      },
+      {
+        "nombre": "JSON"
+      },
+      {
+        "nombre": "JSF"
+      },
+      {
+        "nombre": "JQuery"
+      },
+      {
+        "nombre": "Jmeter"
+      },
+      {
+        "nombre": "JIRA"
+      },
+      {
+        "nombre": "Jboss"
+      },
+      {
+        "nombre": "JavaServer Pages (JSP)"
+      },
+      {
+        "nombre": "Javascript"
+      },
+      {
+        "nombre": "Java"
+      },
+      {
+        "nombre": "IPC (Informática Power Center)."
+      },
+      {
+        "nombre": "HTML"
+      },
+      {
+        "nombre": "Hive"
+      },
+      {
+        "nombre": "EJBs"
+      },
+      {
+        "nombre": "Eclipse"
+      },
+      {
+        "nombre": "API Security"
+      },
+      {
+        "nombre": "Ajax"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "Certified Scrum Master - ScrumAlliance",
+        "anio": "2026-2028"
+      },
+      {
+        "nombre": "Scrum Fundamentals Certified (SFC™)",
+        "anio": "2021"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "SQL TOTAL – Domina Bases de Datos de 0 a Avanzado en 12 Días"
+      }
+    ]
+  },
+  {
+    "nombre": "Adrian Yhair Salas Gonzalez",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "7362758",
+    "fecha_cedula": "10/02/2012",
+    "rol_propuesto": "Desarrollador BI de atención de incidentes",
+    "resumen_profesional": "Cuento con más de 3 años en desarrollo de soluciones de BI, aplicaciones, dashboards interactivos, tableros, informes automáticos y reportes. Domino tecnologías de Inteligencia de Negocio aplicadas a estos entornos. Analizo, corrijo y doy mantenimiento a procesos y componentes BI para la atención de incidentes, generando y ajustando código conforme a la especificación técnica. Ejecuto actividades de soporte y desarrollo de acuerdo con lo establecido, apegándome a estándares definidos, asegurando la calidad de la información, la continuidad operativa y el cumplimiento de los tiempos establecidos.\n\nA lo largo de mi trayectoria he participado en el ciclo completo de desarrollo de aplicaciones y soluciones analíticas, desde el análisis de requerimientos y entendimiento de procesos y datos hasta el diseño, programación, implementación, pruebas, entrenamiento a usuarios y mantenimiento. He trabajado con Qlik, Microsoft Power BI, Tableau, SQL Server (Motor de base de datos para consultas y validaciones), SSIS (Herramienta ETL de Microsoft para integración de datos), OBIEE y BI Publisher, desarrollando paneles, reportes, modelos de datos e integraciones entre múltiples fuentes.\n\nTambién he atendido incidencias y tareas de soporte, manteniendo niveles de servicio altos, elaborando documentación de procesos y administrando ambientes y componentes de QlikSense. Mi experiencia incluye migraciones entre plataformas, automatización de informes y construcción de soluciones para áreas de ventas, finanzas, recursos humanos, encuestas y operación, con enfoque en resolver problemas y habilitar la toma de decisiones.",
+    "funciones": "Analizo las propuestas de requerimientos de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos, así como en la coordinación con desarrolladores, testers y áreas de negocio. Realizo validaciones funcionales mediante pruebas de aceptación y seguimiento a Pruebas, mantengo interlocución constante con usuarios y coordino las actividades de analistas junior, asegurando un conocimiento integral de los requerimientos del proyecto asignado. Cuento con habilidades de liderazgo, identificación de problemas y propuesta de soluciones, así como dominio en el uso de herramientas y metodologías de análisis como Design Thinking y UML. Además, me comunico eficazmente con diferentes audiencias y elaboro documentación bajo marcos de trabajo tradicionales y ágiles.\n\nA lo largo de mi experiencia he participado en el ciclo completo de desarrollo de aplicaciones y soluciones analíticas, desde el análisis de requerimientos y comprensión de procesos y datos hasta el diseño, programación, implementación, pruebas, entrenamiento a usuarios y mantenimiento. He trabajado con Qlik, Power BI, Tableau, SQL Server, SSIS, OBIEE y BI Publisher, desarrollando paneles, reportes, modelos de datos e integraciones de múltiples fuentes.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Sr Data Analyst & Support",
+        "fecha_inicio": "2 octubre 2023",
+        "fecha_fin": "A la fecha",
+        "actividades_principales": [
+          "Mantengo y doy soporte a los aplicativos de Inteligencia de Negocio dominando diversos lenguajes de programación. Tengo habilidades en bases de datos relacionales y no relacionales, técnicas de diseño para el modelado de datos, versionamiento del código con Git (Control de versiones distribuido) y el diseño y desarrollo de procesos de Extraer, Transformar y Cargar (ETL).",
+          "Diseño, desarrollo y doy mantenimiento a soluciones de BI, como dashboards, reportes, tableros automáticos y servicios web frontend y backend, asegurando al menos 2 años de experiencia en este tipo de implementaciones.",
+          "Construyo, implemento y pongo en operación componentes y sistemas BI mediante lenguajes de programación, garantizando su correcto funcionamiento en ambientes productivos.",
+          "Implemento historias de usuario cumpliendo estándares de codificación y ejecuto pruebas unitarias para asegurar la calidad de los desarrollos.",
+          "Analizo y corrijo hallazgos de seguridad, documentando las remediaciones aplicadas en los componentes BI.",
+          "Preparo artefactos técnicos, como manuales de instalación y configuración, y doy soporte a la integración y entrega de paquetes a AVL.",
+          "Registro y gestiono tareas e incidencias en GitLab, siguiendo flujos de ramas, versionamiento y etiquetado definidos.",
+          "Documento evidencias de cada fase del desarrollo y soporte para su integración en carpetas y VoBo.",
+          "Participo en ambientes INT, Pruebas de Aceptación de Usuario (UAT) y PROD, atendiendo y resolviendo defectos hasta obtener VoBo.",
+          "Mantengo una trayectoria laboral consistente, acumulando al menos 2 años de experiencia en desarrollo BI y atención de incidentes, con fechas claras y sin traslapes.",
+          "Aplico conocimientos en bases de datos relacionales y no relacionales, modelado de datos, versionamiento con Git (Control de versiones distribuido), desarrollo de aplicaciones web y procesos de Extraer, Transformar y Cargar (ETL) y ELT.",
+          "Cumplo con tiempos, esfuerzo y calidad comprometidos, generando métricas de ejecución como tickets e historias cerradas por sprint, cobertura de pruebas y cumplimiento en tiempos de atención de incidentes.",
+          "Atiendo incidentes en entornos productivos de BI, analizando, reproduciendo y corrigiendo fallas mediante bugfix, hotfix y parches.",
+          "Participo en la resolución de incidentes según su severidad y prioridad, asegurando continuidad operativa y estabilidad de la información.",
+          "Realizo validaciones técnicas posteriores a cada corrección para garantizar la solución definitiva del incidente.",
+          "Colaboro con equipos de soporte, pruebas y usuarios técnicos durante la atención de incidentes, asegurando una comunicación efectiva.",
+          "Documento soluciones técnicas, lecciones aprendidas y contribuyo a bases de conocimiento para mejora continua.",
+          "Identifico, gestiono y escalo riesgos e issues técnicos que puedan afectar la operación de soluciones BI.",
+          "Aseguro el cumplimiento de estándares, lineamientos del proyecto y buenas prácticas de desarrollo, calidad y operación.",
+          "Cuento con sólidos conocimientos en soluciones de BI que me permiten analizar y resolver incidentes complejos mediante el uso de herramientas y procesos establecidos, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos que puedan afectar la calidad de la información y la continuidad operativa; además, valido correcciones, ejecuto pruebas y documento evidencias durante la atención de incidentes. Trabajo de forma autónoma con mínima supervisión, cumpliendo los tiempos comprometidos y manteniendo un alto nivel de especialización en entornos BI.",
+          "He aplicado el curso SQL TOTAL – Domina Bases de Datos de 0 a Avanzado en 12 Días para diseñar, consultar y administrar bases de datos relacionales utilizando SQL desde un nivel básico hasta avanzado",
+          "He utilizado la certificación Certified ScrumMaster® (CSM) para facilitar equipos ágiles, coordinar eventos Scrum y promover la mejora continua en la entrega de valor",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro especificaciones detalladas de componentes y servicios, asegurando su alineación con los requerimientos operativos, los niveles de servicio (SLAs) y los estándares definidos.",
+          "CTR: Coordino y superviso la construcción e implementación de componentes y soluciones, garantizando su correcta integración dentro del modelo de operación del servicio.",
+          "DOC: Genero y mantengo la documentación técnica y operativa, asegurando la trazabilidad, estandarización y soporte a la continuidad y mejora del servicio.",
+          "Implemento nuevas aplicaciones.",
+          "Atiendo incidencias y tareas, manteniendo el SLA hasta un 95 %.",
+          "Creo documentación de procesos empresariales.",
+          "Doy soporte para informes utilizando Microsoft Report Builder.",
+          "Doy soporte para aplicaciones QlikSense.",
+          "Administro QMC, incluyendo aplicaciones, tareas, flujos, nodos, roles y reglas de seguridad.",
+          "Administro Vizlib.",
+          "Administro el servidor QlikSense.",
+          "Migro más de 60 paneles de control de QlikSense a Tableau.",
+          "Traduzco la aplicación Tickets de Microsoft Power BI a Tableau.",
+          "Presto apoyo al departamento de ingresos y a la administración de ventas, trabajando en estrecha colaboración con las partes interesadas para transformar sus necesidades en requisitos técnicos, añadiendo nuevas funciones a la aplicación Customer Revenue Achievement.",
+          "Traduzco vistas, tablas, CTE y consultas complejas de SQL Server (Motor de base de datos para consultas y validaciones) a GCP.",
+          "Traduzco la aplicación Inventory Forecasting de Python a Tableau."
+        ]
+      },
+      {
+        "empresa": "Rackspace Tecnology",
+        "puesto": "Sr BI Developer",
+        "fecha_inicio": "31 marzo 2022",
+        "fecha_fin": "30 junio 2023",
+        "actividades_principales": [
+          "Migro más de 60 paneles de control de QlikSense a Tableau.",
+          "Traduzco la aplicación Tickets de Microsoft Power BI a Tableau.",
+          "Presto apoyo al departamento de ingresos y a la administración de ventas, trabajando en estrecha colaboración con las partes interesadas para transformar sus necesidades en requisitos técnicos, añadiendo nuevas funciones a la aplicación Customer Revenue Achievement.",
+          "Traduzco vistas, tablas, CTE y consultas complejas de SQL Server (Motor de base de datos para consultas y validaciones) a GCP.",
+          "Traduzco la aplicación Inventory Forecasting de Python a Tableau."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 03 junio de 2013 hasta 30 marzo de 2022",
+    "resumen_laboral": "Durante este período me desempeñé como Sr BI Developer y BI Developer, asumiendo responsabilidades enfocadas en el desarrollo y evolución de soluciones de inteligencia de negocio para apoyar la toma de decisiones. Participé en el análisis de requerimientos, integración de información y construcción de reportes y tableros, además de colaborar en actividades de soporte, documentación y mejora de procesos. También acompañé la implementación de iniciativas analíticas y la coordinación de actividades relacionadas con la operación y continuidad de las soluciones.",
+    "estudios": {
+      "carrera": "Licenciatura",
+      "lugar": "Instituto Tecnologico de Tepic, Tepic, Nayarit",
+      "periodo": "agosto 2004 - diciembre 2009"
+    },
+    "herramientas": [
+      {
+        "nombre": "QlikView/QlikSense Servers"
+      },
+      {
+        "nombre": "QlikView"
+      },
+      {
+        "nombre": "QlikSense"
+      },
+      {
+        "nombre": "Microsoft SQL Management Studio (SSMS)"
+      },
+      {
+        "nombre": "Microsoft SQL (T-SQL)"
+      },
+      {
+        "nombre": "Microsoft Power BI"
+      },
+      {
+        "nombre": "ETL Testing"
+      },
+      {
+        "nombre": "DAX"
+      },
+      {
+        "nombre": "Azure Data Factory"
+      },
+      {
+        "nombre": "Microsoft Report Builder"
+      },
+      {
+        "nombre": "QMC"
+      },
+      {
+        "nombre": "Vizlib"
+      },
+      {
+        "nombre": "Tableau"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "GCP"
+      },
+      {
+        "nombre": "Python"
+      },
+      {
+        "nombre": "Microsoft Power Automate"
+      },
+      {
+        "nombre": "Power BI Report Builder"
+      },
+      {
+        "nombre": "Power Query"
+      },
+      {
+        "nombre": "Sybase DB"
+      },
+      {
+        "nombre": "SQL Server Integration Services"
+      },
+      {
+        "nombre": "BI Publisher"
+      },
+      {
+        "nombre": "OBIEE"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "Certified Scrum Master - ScrumAlliance",
+        "anio": "2026-2028"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "SQL TOTAL – Domina Bases de Datos de 0 a Avanzado en 12 Días"
+      }
+    ]
+  },
+  {
+    "nombre": "Hillel Romero Monsivais",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "6466034",
+    "fecha_cedula": "10/05/2010",
+    "rol_propuesto": "Desarrollador BI de atención de incidentes",
+    "resumen_profesional": "Cuento con más de 3 años en desarrollo de soluciones de BI, servicios y aplicaciones web, dashboards interactivos, tableros, informes automáticos y reportes. Domino tecnologías aplicadas a entornos de Inteligencia de Negocio. Analizo, corrijo y doy mantenimiento a procesos y componentes BI para la atención de incidentes, generando y ajustando código conforme a la especificación técnica. Ejecuto actividades de soporte y desarrollo conforme a lo establecido, apegándome a estándares y frameworks definidos, procurando la calidad de la información y la continuidad operativa.\n\nMe he desempeñado como Desarrollador Power Platform, Administrador de SharePoint y Desarrollador Web, participando en el desarrollo de aplicaciones, flujos y reportes con Power BI, así como en la atención de incidentes, mejoras funcionales y administración de contenido. He trabajado con SQL Server (Motor de base de datos para consultas y validaciones), SharePoint Lists, Dataverse y herramientas web para construir soluciones orientadas a la operación.\n\nAporto una combinación de desarrollo, soporte y seguimiento de requerimientos que me permite atender ajustes, resolver incidencias y mantener la continuidad de los servicios. También cuento con experiencia previa coordinando proyectos y equipos, lo que fortalece mi comunicación con usuarios y mi capacidad para dar seguimiento al trabajo con enfoque en calidad y tiempos comprometidos.",
+    "funciones": "Analizo las propuestas de requerimientos de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos, así como en la coordinación con desarrolladores, testers y áreas de negocio. Realizo validaciones funcionales mediante pruebas de aceptación y seguimiento a Pruebas, mantengo interlocución constante con usuarios y coordino las actividades de analistas junior, asegurando un conocimiento integral de los requerimientos del proyecto asignado. Cuento con habilidades de liderazgo, identificación de problemas y propuesta de soluciones, así como dominio en el uso de herramientas y metodologías de análisis como Design Thinking y UML. Además, me comunico eficazmente con diferentes audiencias y elaboro documentación bajo marcos de trabajo tradicionales y ágiles.\n\nMe he desarrollado como Desarrollador Power Platform, Administrador de SharePoint y Desarrollador Web, participando en el desarrollo de aplicaciones, flujos y reportes con Power BI, además de la atención de incidentes, mejoras funcionales y administración de contenido. He trabajado con SQL Server (Motor de base de datos para consultas y validaciones), SharePoint Lists, Dataverse y herramientas web para construir soluciones orientadas a la operación.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Desarrollador Power Platform",
+        "fecha_inicio": "1 julio 2019",
+        "fecha_fin": "30 abril 2026",
+        "actividades_principales": [
+          "Mantengo y doy soporte a los aplicativos de Inteligencia de Negocio dominando varios lenguajes de programación. Tengo habilidades en dominio de bases de datos relacionales y no relacionales, técnicas de diseño para el modelado de datos, versionamiento del código y dominio en el diseño y desarrollo de procesos de Extraer, Transformar y Cargar.",
+          "Diseño, desarrollo y mantengo soluciones de BI (dashboards, reportes, tableros automáticos y servicios web frontend/backend), asegurando al menos 2 años de experiencia en este tipo de implementaciones.",
+          "Construyo, implemento y pongo en operación componentes y sistemas BI mediante lenguajes de programación, garantizando su correcto funcionamiento en ambientes productivos.",
+          "Implemento historias de usuario cumpliendo estándares de codificación y ejecuto pruebas unitarias para asegurar la calidad de los desarrollos.",
+          "Analizo y corrijo hallazgos de seguridad, documentando las remediaciones aplicadas en los componentes BI.",
+          "Preparo artefactos técnicos y doy soporte a la integración y entrega de paquetes a AVL.",
+          "Registro y gestiono tareas e incidencias en GitLab, siguiendo flujos de ramas, versionamiento y etiquetado definidos.",
+          "Documento evidencias de cada fase del desarrollo y soporte para su integración en carpetas y VoBo.",
+          "Participo en ambientes INT, Pruebas de Aceptación de Usuario (UAT) y PROD, atendiendo y resolviendo defectos hasta obtener VoBo.",
+          "Mantengo una trayectoria laboral consistente, acumulando al menos 2 años de experiencia en desarrollo BI y atención de incidentes, con fechas claras y sin traslapes.",
+          "Aplico conocimientos en bases de datos relacionales y no relacionales, modelado de datos, versionamiento con Git (Control de versiones distribuido), desarrollo de aplicaciones web y procesos de Extraer, Transformar y Cargar (ETL)/ELT.",
+          "Cumplo con tiempos, esfuerzo y calidad comprometidos, generando métricas de ejecución como tickets o historias cerradas por sprint, cobertura de pruebas y cumplimiento en tiempos de atención de incidentes.",
+          "Atiendo incidentes en entornos productivos de BI, analizando, reproduciendo y corrigiendo fallas mediante bugfix, hotfix y parches.",
+          "Participo en la resolución de incidentes según su severidad o prioridad, asegurando continuidad operativa y estabilidad de la información.",
+          "Realizo validaciones técnicas posteriores a cada corrección para garantizar la solución definitiva del incidente.",
+          "Colaboro con equipos de soporte, pruebas y usuarios técnicos durante la atención de incidentes, asegurando una comunicación efectiva.",
+          "Documento soluciones técnicas, lecciones aprendidas y contribuyo a bases de conocimiento para mejora continua.",
+          "Identifico, gestiono y escalo riesgos e issues técnicos que puedan afectar la operación de soluciones BI.",
+          "Aseguro el cumplimiento de estándares, lineamientos del proyecto y buenas prácticas de desarrollo, calidad y operación.",
+          "Cuento con sólidos conocimientos en soluciones de BI que me permiten analizar y resolver incidentes complejos mediante el uso de herramientas y procesos establecidos, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos que puedan afectar la calidad de la información y la continuidad operativa; además, valido correcciones, ejecuto pruebas y documento evidencias durante la atención de incidentes. Trabajo de forma autónoma con mínima supervisión, cumpliendo los tiempos comprometidos y manteniendo un alto nivel de especialización en entornos BI.",
+          "He aplicado la certificación Certified ScrumMaster® (CSM) para facilitar equipos ágiles, coordinar eventos Scrum y promover la mejora continua en la entrega de valor",
+          "He utilizado la certificación ITIL® Foundation Certificate in IT Service Management para aplicar buenas prácticas en la gestión de servicios de TI orientadas al valor y la mejora continua",
+          "He puesto en práctica la certificación Microsoft Certified: Azure Developer Associate para desarrollar, implementar y mantener soluciones en la nube utilizando Microsoft Azure",
+          "He aprovechado la certificación Microsoft Certified: Azure Fundamentals para aplicar conceptos clave de computación en la nube, servicios de Azure, seguridad y modelos de costos",
+          "He aplicado la certificación Microsoft Certified: Data Analyst Associate para analizar datos, crear modelos analíticos y generar visualizaciones que apoyen la toma de decisiones",
+          "He utilizado la certificación Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate para configurar y optimizar procesos comerciales mediante Dynamics 365",
+          "He aplicado la certificación Microsoft Certified: Dynamics 365 Fundamentals (CRM) para comprender y utilizar los principios básicos de gestión de relaciones con clientes",
+          "He puesto en práctica la certificación Microsoft Certified: Power Platform App Maker Associate para crear aplicaciones y automatizaciones empresariales con Power Platform",
+          "He utilizado la certificación Microsoft Certified: Power Platform Functional Consultant Associate para diseñar e implementar soluciones empresariales basadas en Power Platform",
+          "He aplicado la certificación Microsoft Certified: Power BI Data Analyst Associate para modelar datos y desarrollar reportes interactivos con Power BI",
+          "He aprovechado la certificación Microsoft Certified: Power Platform Developer Associate para desarrollar soluciones personalizadas utilizando componentes avanzados de Power Platform",
+          "He utilizado la certificación Microsoft Certified: Power Platform Fundamentals para aplicar los fundamentos de automatización, análisis y desarrollo de soluciones empresariales",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro especificaciones detalladas de componentes y servicios, asegurando su alineación con los requerimientos operativos, los niveles de servicio (SLAs) y los estándares definidos.",
+          "CTR: Coordino y superviso la construcción e implementación de componentes y soluciones, garantizando su correcta integración dentro del modelo de operación del servicio.",
+          "DOC: Genero y mantengo la documentación técnica y operativa, asegurando la trazabilidad, estandarización y soporte a la continuidad y mejora del servicio.",
+          "Desarrollador de aplicaciones",
+          "Fuente de datos: SQL Server (Motor de base de datos para consultas y validaciones), SP lists, dataverse, documentos",
+          "Elementos como: Multipantallas, Formularios, Galerías, Funciones, etc.",
+          "Desarrollador de flujos",
+          "Proceso de aprobación",
+          "Automatización para otorgar accesos",
+          "Notificaciones masivas",
+          "Desarrollador de reportes en Power BI",
+          "Fuente de datos: SP list and SLQ server",
+          "Desarrollé mejoras como módulos, funcionalidad, etc.",
+          "Soluciono de incidents",
+          "Atiendo peticiones como: Agregar información, cambio en reportes, mejoras de diseño, etc.",
+          "Resolución de ticket cumpliendo con los estándares de calidad y tiempo",
+          "Administré proyectos nacionales e internacionales",
+          "Creé planes de proyectos",
+          "Hice seguimiento y monitoreo de tareas",
+          "Realicé demostraciones al cliente"
+        ]
+      },
+      {
+        "empresa": "Softtek",
+        "puesto": "Administrador de SharePoint",
+        "fecha_inicio": "1 noviembre 2016",
+        "fecha_fin": "30 abril 2026",
+        "actividades_principales": [
+          "Desarrollé mejoras como módulos, funcionalidad, etc.",
+          "Soluciono de incidents",
+          "Atiendo peticiones como: Agregar información, cambio en reportes, mejoras de diseño, etc.",
+          "Resolución de ticket cumpliendo con los estándares de calidad y tiempo"
+        ]
+      },
+      {
+        "empresa": "SVAM International",
+        "puesto": "Portfolio Project Leader",
+        "fecha_inicio": "1 marzo 2013",
+        "fecha_fin": "31 octubre 2016",
+        "actividades_principales": [
+          "Administré proyectos nacionales e internacionales",
+          "Creé planes de proyectos",
+          "Hice seguimiento y monitoreo de tareas",
+          "Realicé demostraciones al cliente"
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 1 marzo de 2013 hasta 30 abril de 2026",
+    "resumen_laboral": "Durante este período me desempeñé como Desarrollador Web y Project Leader, asumiendo responsabilidades de migración de sitios, administración de contenido, creación de módulos, planeación y seguimiento de proyectos, así como coordinación de equipos de análisis, pruebas y desarrollo. También di seguimiento al ciclo de vida del software, preparé estimaciones, busqué estrategias para acelerar la productividad y participé en actividades de liderazgo y comunicación con clientes para mantener el avance del trabajo y la organización de las tareas.",
+    "estudios": {
+      "carrera": "Ingeniería en sistemas computacionales",
+      "lugar": "Instituto Tecnológico de Saltillo | Saltillo, Coah, México",
+      "periodo": "2004-2008"
+    },
+    "herramientas": [
+      {
+        "nombre": "Craft CMS"
+      },
+      {
+        "nombre": "WordPress"
+      },
+      {
+        "nombre": "Drupal"
+      },
+      {
+        "nombre": "Angular JS"
+      },
+      {
+        "nombre": "Power Platform"
+      },
+      {
+        "nombre": "Power Apps"
+      },
+      {
+        "nombre": "Power Automate"
+      },
+      {
+        "nombre": "Power BI"
+      },
+      {
+        "nombre": "SQL Server"
+      },
+      {
+        "nombre": "SharePoint Lists"
+      },
+      {
+        "nombre": "Dataverse"
+      },
+      {
+        "nombre": "SharePoint Online"
+      },
+      {
+        "nombre": "SharePoint 2013"
+      },
+      {
+        "nombre": "SharePoint 2010"
+      },
+      {
+        "nombre": "InfoPath"
+      },
+      {
+        "nombre": "SharePoint Designer"
+      },
+      {
+        "nombre": "SharePoint Shell"
+      },
+      {
+        "nombre": "Microsoft Project"
+      },
+      {
+        "nombre": "Team Foundation Server"
+      },
+      {
+        "nombre": "Microsoft Visio"
+      },
+      {
+        "nombre": "Asana"
+      },
+      {
+        "nombre": "Basecamp"
+      },
+      {
+        "nombre": "Cluster"
+      },
+      {
+        "nombre": "Windows Server"
+      },
+      {
+        "nombre": "Ubuntu"
+      },
+      {
+        "nombre": "C"
+      },
+      {
+        "nombre": "C# .Net"
+      },
+      {
+        "nombre": "JavaScript"
+      },
+      {
+        "nombre": "PHP"
+      },
+      {
+        "nombre": "Java"
+      },
+      {
+        "nombre": "HTML"
+      },
+      {
+        "nombre": "MySQL"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "Certified Scrum Master - ScrumAlliance",
+        "anio": "2026-2028"
+      },
+      {
+        "nombre": "ITIL Foundation Certificate in IT Service Management",
+        "anio": "2019"
+      },
+      {
+        "nombre": "Microsoft Certified: Azure Developer Associate",
+        "anio": "2022-2023"
+      },
+      {
+        "nombre": "Microsoft Certified: Azure Fundamentals",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Microsoft Certified: Data Analyst Associate",
+        "anio": "2021-2023"
+      },
+      {
+        "nombre": "Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate",
+        "anio": "2022-2023"
+      },
+      {
+        "nombre": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Microsoft Certified: Power Platform App Maker Associate",
+        "anio": "2021-2024"
+      },
+      {
+        "nombre": "Microsoft Certified: Power Platform Functional Consultant Associate",
+        "anio": "2021-2024"
+      },
+      {
+        "nombre": "Microsoft Certified: Power BI Data Analyst Associate",
+        "anio": "2021-2024"
+      },
+      {
+        "nombre": "Microsoft Certified: Power Platform Developer Associate",
+        "anio": "2022-2023"
+      },
+      {
+        "nombre": "Microsoft Certified: Power Platform Fundamentals",
+        "anio": "2021"
+      }
+    ],
+    "cursos": []
+  },
+  {
+    "nombre": "Miguel Angel Oros Hernandez",
+    "mail": "",
+    "genero": "",
+    "fecha_nacimiento": "",
+    "rfc": "",
+    "curp": "",
+    "no_cedula": "1495359",
+    "fecha_cedula": "16/08/1990",
+    "rol_propuesto": "Desarrollador BI de atención de incidentes",
+    "resumen_profesional": "Cuento con más de 3 años en desarrollo de soluciones de BI, servicios y aplicaciones web, dashboards interactivos, tableros, informes automáticos y reportes. Domino tecnologías de Arquitectura de Referencia y herramientas de código abierto aplicadas a entornos de Inteligencia de Negocio. Analizo, corrijo y doy mantenimiento a procesos y componentes BI para la atención de incidentes, ajustando código conforme a la especificación técnica. Ejecuto actividades de soporte y desarrollo apegándome a estándares, arquitectura y frameworks definidos, asegurando la calidad de la información, la continuidad operativa y el cumplimiento de los tiempos establecidos.\n\nHe participado en soporte, mejora e implementación de tableros, reportes y procesos de Extraer, Transformar y Cargar (ETL) para clientes de distintos sectores, utilizando Power BI, QlikView, Qlik Sense, SQL Server (Motor de base de datos para consultas y validaciones), SSIS (Herramienta ETL de Microsoft para integración de datos), Oracle Database (Motor de base de datos empresarial), Informix e IBM InfoSphere DataStage (Herramienta ETL empresarial). También he intervenido en modelado de datos, arquitectura BI, gobierno de datos y administración de plataformas analíticas, incorporando automatización con Python, Power Automate y Streamlit.\n\nMi experiencia combina atención de incidentes, optimización de consultas, refresco de aplicaciones y seguimiento de requerimientos, con una trayectoria prolongada en proyectos de bases de datos y analítica. Aporto criterio para diseñar soluciones, mantener la operación y alinear el desarrollo con procesos de calidad, documentación y colaboración con equipos técnicos y usuarios.",
+    "funciones": "Analizo las propuestas de requerimientos de mejora tecnológica y de procesos, participando en el levantamiento y documentación de requerimientos complejos, así como en la coordinación con desarrolladores, testers y áreas de negocio. Realizo validaciones funcionales mediante pruebas de aceptación y seguimiento a Pruebas, mantengo interlocución constante con usuarios y coordino las actividades de analistas junior, asegurando un conocimiento integral de los requerimientos del proyecto asignado. Cuento con habilidades de liderazgo, identificación de problemas y propuesta de soluciones, así como dominio en el uso de herramientas y metodologías de análisis como Design Thinking y UML. Además, me comunico eficazmente con diferentes audiencias y elaboro documentación bajo marcos de trabajo tradicionales y ágiles.\n\nHe participado en soporte, optimización e implementación de tableros, reportes y procesos ETL para clientes de distintos sectores, utilizando Power BI, QlikView, Qlik Sense, SQL Server, SSIS, Oracle, Informix y DataStage. También he intervenido en modelado de datos, arquitectura BI, gobierno de datos y administración de plataformas analíticas, incorporando automatización mediante Python, Power Automate y Streamlit.",
+    "experiencia_laboral": [
+      {
+        "empresa": "Softtek",
+        "puesto": "Miembro del Equipo de Soporte/Consultor BI Sr",
+        "fecha_inicio": "2 marzo 2020",
+        "fecha_fin": "14 abril 2026",
+        "actividades_principales": [
+          "Mantengo y doy soporte a los aplicativos de Inteligencia de Negocio dominando varios lenguajes de programación. Tengo habilidades en bases de datos relacionales y no relacionales, técnicas de diseño para el modelado de datos, versionamiento del código (Git (Control de versiones distribuido)) y dominio en el diseño y desarrollo de procesos de Extraer, Transformar y Cargar (ETL).",
+          "Diseño, desarrollo y doy mantenimiento a soluciones de BI (dashboards, reportes, tableros automáticos y servicios web frontend/backend), asegurando al menos 2 años de experiencia en este tipo de implementaciones.",
+          "Construyo, implemento y pongo en operación componentes y sistemas BI mediante lenguajes de programación, garantizando su correcto funcionamiento en ambientes productivos.",
+          "Implemento historias de usuario cumpliendo estándares de codificación y ejecuto pruebas unitarias para asegurar la calidad de los desarrollos.",
+          "Analizo y corrijo hallazgos de seguridad (SAST/DAST), documentando las remediaciones aplicadas en los componentes BI.",
+          "Preparo artefactos técnicos (manuales de instalación/configuración) y doy soporte a la integración y entrega de paquetes a AVL.",
+          "Registro y gestiono tareas e incidencias en GitLab, siguiendo flujos de ramas, versionamiento y etiquetado definidos.",
+          "Documento evidencias de cada fase del desarrollo y soporte para su integración en carpetas y VoBo.",
+          "Participo en ambientes INT, Pruebas de Aceptación de Usuario (UAT) y PROD, atendiendo y resolviendo defectos hasta obtener VoBo.",
+          "Mantengo una trayectoria laboral consistente, acumulando al menos 2 años de experiencia en desarrollo BI y atención de incidentes, con fechas claras y sin traslapes.",
+          "Aplico conocimientos en bases de datos relacionales y no relacionales, modelado de datos, versionamiento con Git (Control de versiones distribuido), desarrollo de aplicaciones web y procesos de Extraer, Transformar y Cargar / ELT.",
+          "Cumplo con tiempos, esfuerzo y calidad comprometidos, generando métricas de ejecución como tickets o historias cerradas por sprint, cobertura de pruebas y cumplimiento en tiempos de atención de incidentes.",
+          "Atiendo incidentes en entornos productivos de BI, analizando, reproduciendo y corrigiendo fallas mediante bugfix, hotfix y parches.",
+          "Participo en la resolución de incidentes según su severidad o prioridad, asegurando continuidad operativa y estabilidad de la información.",
+          "Realizo validaciones técnicas posteriores a cada corrección para garantizar la solución definitiva del incidente.",
+          "Colaboro con equipos de soporte, pruebas y usuarios técnicos durante la atención de incidentes, asegurando una comunicación efectiva.",
+          "Documento soluciones técnicas, lecciones aprendidas y contribuyo a bases de conocimiento para la mejora continua.",
+          "Identifico, gestiono y escalo riesgos e issues técnicos que puedan afectar la operación de soluciones BI.",
+          "Aseguro el cumplimiento de estándares, lineamientos del proyecto y buenas prácticas de desarrollo, calidad y operación.",
+          "He aplicado la certificación Certified ScrumMaster® (CSM) para facilitar equipos ágiles, coordinar eventos Scrum y promover la mejora continua en la entrega de valor",
+          "He utilizado la certificación Scrum Master Certified para aplicar el marco de trabajo Scrum en la gestión de proyectos ágiles y la coordinación de equipos",
+          "He puesto en práctica la certificación Certified Data Management Professional – Data Management Fundamentals para aplicar principios de gobierno, calidad y gestión de datos en entornos organizacionales",
+          "He aprovechado la certificación Google Cloud Certified: Professional Cloud Database Engineer para diseñar, implementar y administrar soluciones de bases de datos en Google Cloud",
+          "He aplicado la certificación Microsoft Certified: Azure Fundamentals para utilizar conceptos clave de computación en la nube, servicios de Azure, seguridad y modelos de costos",
+          "He utilizado la certificación Microsoft Certified: Azure Data Fundamentals para comprender y aplicar fundamentos de datos relacionales, no relacionales y analíticos en Azure",
+          "He puesto en práctica la certificación Cypher Aggregations para construir consultas avanzadas y análisis de datos utilizando el lenguaje Cypher en Neo4j",
+          "He aplicado la certificación Cypher Indexes and Constraints para optimizar el rendimiento y la integridad de datos en bases de datos de grafos Neo4j",
+          "He utilizado la certificación Intermediate Cypher Queries para desarrollar consultas intermedias orientadas al análisis y exploración de datos en grafos",
+          "Cuento con sólidos conocimientos en soluciones de BI que me permiten analizar y resolver incidentes complejos mediante el uso de herramientas y procesos establecidos, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos que puedan afectar la calidad de la información y la continuidad operativa; además, valido correcciones, ejecuto pruebas y documento evidencias durante la atención de incidentes. Trabajo de forma autónoma con mínima supervisión, cumpliendo los tiempos comprometidos y manteniendo un alto nivel de especialización en entornos BI.",
+          "Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:",
+          "CIS: Elaboro especificaciones detalladas de componentes y servicios, asegurando su alineación con los requerimientos operativos, los niveles de servicio (SLAs) y los estándares definidos.",
+          "CTR: Coordino y superviso la construcción e implementación de componentes y soluciones, garantizando su correcta integración dentro del modelo de operación del servicio.",
+          "DOC: Genero y mantengo la documentación técnica y operativa, asegurando la trazabilidad, estandarización y soporte a la continuidad y mejora del servicio.",
+          "Asignado a clientes en USA y en modalidad remota.",
+          "El cliente actual requiere la utilización de Qlik Sense, Qlik Management Console, SQL Server (Motor de base de datos para consultas y validaciones).",
+          "Con otro de los clientes fui encargado de la implementación, mejora y mantenimiento de tableros y reportes realizados con Power BI.",
+          "Participación en la administración de los sitios Power BI and Tableau utilizando Python, Power Automate y Streamlit.",
+          "También con fueron optimizadas expresiones SQL (Lenguaje para gestión y consulta de bases de datos relacionales), así como las operaciones de refrescado de aplicaciones Power BI.",
+          "Con un tercer cliente, se trabajó con la solución de incidentes de tableros QlikView. Con este cliente se utilizó la técnica de linked tabla para QlikView.",
+          "De acuerdo a las necesidades del cliente, se participó en la elaboración de propuestas, diseño, implementación utilizando Qlik View, Power BI.",
+          "Atendí los requerimientos a ser implementados, publicados. Los tableros y reportes generados fueron incluidos en interfaces Web para el Grupo Polesa (https://www.grupopolesa.com.mx/) y Tappinc (https://www.tappinc.com/).",
+          "Desarrollé algunas tareas de Extraer, Transformar y Cargar (ETL) utilizando SQL Server Integration Servces.",
+          "En los diferentes proyectos en los cuales participé fueron asumidos los roles:",
+          "Realicé Administración de Proyecto de Inteligencia de Negocios.",
+          "Me desempeñé como Arquitecto de Inteligencia de Negocios / Líder de Gobierno de Datos.",
+          "Evalué herramientas de Inteligencia de Negocio.",
+          "Modelé datos.",
+          "Diseñé la Arquitectura.",
+          "Perfilé Datos y realicé tareas de mapeo.",
+          "Diseñé e implementé los procesos de Extraer, Transformar y Cargar (ETL)."
+        ]
+      },
+      {
+        "empresa": "Equal - Plus",
+        "puesto": "Consultor BI Sr",
+        "fecha_inicio": "30 noviembre 2019",
+        "fecha_fin": "31 diciembre 2019",
+        "actividades_principales": [
+          "Atendí los requerimientos a ser implementados, publicados. Los tableros y reportes generados fueron incluidos en interfaces Web para el Grupo Polesa (https://www.grupopolesa.com.mx/) y Tappinc (https://www.tappinc.com/).",
+          "Desarrollé algunas tareas de Extraer, Transformar y Cargar (ETL) utilizando SQL Server Integration Servces."
+        ]
+      },
+      {
+        "empresa": "Nubaj IT & Consultant",
+        "puesto": "Consultor BI Sr / Arquitecto BI",
+        "fecha_inicio": "1 diciembre 2015",
+        "fecha_fin": "29 noviembre 2019",
+        "actividades_principales": [
+          "En los diferentes proyectos en los cuales participé fueron asumidos los roles:",
+          "Realicé Administración de Proyecto de Inteligencia de Negocios.",
+          "Me desempeñé como Arquitecto de Inteligencia de Negocios / Líder de Gobierno de Datos.",
+          "Evalué herramientas de Inteligencia de Negocio.",
+          "Modelé datos.",
+          "Diseñé la Arquitectura.",
+          "Perfilé Datos y realicé tareas de mapeo.",
+          "Diseñé e implementé los procesos de Extraer, Transformar y Cargar (ETL)."
+        ]
+      }
+    ],
+    "periodo_resumen_laboral": "La experiencia abarca desde 01 enero de 1987 hasta 31 octubre de 2017",
+    "resumen_laboral": "Durante este período me desempeñé como Profesor de Cátedra, Arquitecto de Sistemas, DBA e Ingeniero de Desarrollo, Líder de Proyectos / Investigador de Sistemas, Profesor e Investigador, Analista de Sistemas, System Programmer y Coordinador de Servicios Académicos. Asumí responsabilidades de soporte técnico, docencia, investigación, administración y desarrollo de proyectos informáticos, además de modelado de datos, diseño de soluciones y capacitación de usuarios y equipos de trabajo. También participé en análisis, implantación y mantenimiento de aplicaciones, así como en acompañamiento académico para programas de ingeniería y maestría.",
+    "estudios": {
+      "carrera": "Ingeniería en Sistemas Computacionales",
+      "lugar": "Cholula, Puebla",
+      "periodo": "Ago 1986 - Dic 1986"
+    },
+    "herramientas": [
+      {
+        "nombre": "Microsoft Power BI"
+      },
+      {
+        "nombre": "QlikView"
+      },
+      {
+        "nombre": "QlikSense"
+      },
+      {
+        "nombre": "Microsoft SQL Server"
+      },
+      {
+        "nombre": "Microsoft SQL (T-SQL)"
+      },
+      {
+        "nombre": "Microsoft SQL Server Integration Services (SSIS)"
+      },
+      {
+        "nombre": "Microsoft SQL Server Analysis Services"
+      },
+      {
+        "nombre": "Microsoft SQL Management Studio (SSMS)"
+      },
+      {
+        "nombre": "Oracle Database"
+      },
+      {
+        "nombre": "Informix"
+      },
+      {
+        "nombre": "IBM InfoSphere Datastage"
+      },
+      {
+        "nombre": "Python"
+      },
+      {
+        "nombre": "Streamlit"
+      },
+      {
+        "nombre": "MS Power Automation"
+      },
+      {
+        "nombre": "GitHub"
+      },
+      {
+        "nombre": "JIRA"
+      },
+      {
+        "nombre": "Confluence"
+      },
+      {
+        "nombre": "MongoDB"
+      },
+      {
+        "nombre": "Neo4j"
+      },
+      {
+        "nombre": "Data Factory"
+      },
+      {
+        "nombre": "Azure Synapse Analytics"
+      },
+      {
+        "nombre": "Tableau Administration"
+      }
+    ],
+    "certificaciones": [
+      {
+        "nombre": "Certified ScrumMaster® (CSM)",
+        "anio": "2026-2028"
+      },
+      {
+        "nombre": "Scrum Master Certified (SMC™)",
+        "anio": "2016"
+      },
+      {
+        "nombre": "Certified Data Management Professional – Data Management Fundamentals (CDMP Associate)",
+        "anio": "2019-2024"
+      },
+      {
+        "nombre": "Google Cloud Certified: Professional Cloud Database Engineer",
+        "anio": "2024-2026"
+      },
+      {
+        "nombre": "Microsoft Certified: Azure Fundamentals",
+        "anio": "2022"
+      },
+      {
+        "nombre": "Microsoft Certified: Azure Data Fundamentals",
+        "anio": "2023"
+      },
+      {
+        "nombre": "Cypher Aggregations (Neo4j GraphAcademy)",
+        "anio": "2023"
+      },
+      {
+        "nombre": "Cypher Indexes and Constraints (Neo4j GraphAcademy)",
+        "anio": "2023"
+      },
+      {
+        "nombre": "Intermediate Cypher Queries (Neo4j GraphAcademy)",
+        "anio": "2023"
+      }
+    ],
+    "cursos": []
+  }
+]

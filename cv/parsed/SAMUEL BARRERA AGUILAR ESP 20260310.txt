@@ -1,0 +1,1631 @@
+PERFIL
+Consultoría de Negocio
+La consultoría de negocio es mi principal fortaleza. Estoy certificado como Arquitecto Empresarial, lo que me permite comprender profundamente las necesidades organizacionales y diseñar soluciones alineadas con restricciones de presupuesto y tiempo.
+Trabajé como consultor durante tres años en el SAT y en Aduanas de México, contribuyendo al desarrollo y mantenimiento de sistemas de recaudación, la Facturación Electrónica Nacional y la Ventanilla Única de Comercio Exterior.
+Desde 1996 realizo ejercicios de Discovery utilizando técnicas de Arquitectura Empresarial en diversas industrias. Esto incluye el análisis de procesos en su estado actual y futuro, identificación de brechas y definición de propuestas de solución. Actualmente llevo a cabo al menos un Discovery al año.
+Experiencia en la Industria de Seguros
+Mi trayectoria en seguros inició en 1998 con proyectos de análisis y optimización de sistemas de comisiones para GNP. A partir del año 2000, contribuí a la modernización tecnológica del sector, migrando aplicaciones IBM hacia arquitecturas multicapa basadas en VB, MQ Series, CICS y servicios COBOL.
+En 2001 obtuve un diplomado en Seguros por la Universidad Panamericana.
+He participado en iniciativas clave del sector, como el desarrollo del Datamart de Solvencia II para Metlife (2014) y el assessment de procesos, levantamiento de requerimientos y selección tecnológica para el área de cobranza de Chubb México (2023).
+En 2024 colaboré en el levantamiento de requerimientos para la integración de una plataforma asiática de seguros de vida con componente de ahorro para retiro en Chubb Chile, desempeñándome en sesiones de trabajo en idioma inglés.
+Especialista en Banca (SME Banking)
+Desde la década de 1990 he liderado y participado en proyectos estratégicos de consultoría para los principales bancos del país, incluyendo BBVA, Banorte, Banamex y Santander. He colaborado también con instituciones gubernamentales como Nacional Financiera, Banobras y Banjercito.
+Entre mis logros destaca la creación de un banco de nicho para una Fintech mexicana, obteniendo con éxito la certificación regulatoria de la CNBV. Cuento con experiencia aplicando el marco de arquitectura bancaria BIAN.
+EXPERIENCIA PROFESIONAL DETALLADA:
+Nombre de la empresa:
+Aeroméxico | Nombre de la empresa:
+Aeroméxico | Lugar:
+CDMEX | Puesto:
+Arquitecto Empresarial | Desde: 
+Julio 2025 | A: 
+Actual
+Proyecto Arquitectura Empresarial con Énfasis en Negocio de Facturación Internacional
+Funciones: 
+Definición de la arquitectura de negocio y apoyo en la arquitectura tecnológica
+Dar forma a historias de usuario
+Diseñar el proceso de facturación
+Trato directo con usuarios de negocio
+Permitir que sea aplicable a nivel mundial
+Considerar la menor tropicalización para cada país que se considere
+
+Logros:
+Entendimiento del negocio de cliente, los conceptos contables y fiscales, así como las casuísticas que se presentan en el proceso de ventas de boletos, y finalmente estudio y entendimiento de la legislación fiscal y de protección de datos personales de cada país. Permitiendo crear una solución multi: país, moneda, direcciones y cálculo de impuestos ampliamente configurables | Proyecto Arquitectura Empresarial con Énfasis en Negocio de Facturación Internacional
+Funciones: 
+Definición de la arquitectura de negocio y apoyo en la arquitectura tecnológica
+Dar forma a historias de usuario
+Diseñar el proceso de facturación
+Trato directo con usuarios de negocio
+Permitir que sea aplicable a nivel mundial
+Considerar la menor tropicalización para cada país que se considere
+
+Logros:
+Entendimiento del negocio de cliente, los conceptos contables y fiscales, así como las casuísticas que se presentan en el proceso de ventas de boletos, y finalmente estudio y entendimiento de la legislación fiscal y de protección de datos personales de cada país. Permitiendo crear una solución multi: país, moneda, direcciones y cálculo de impuestos ampliamente configurables | Proyecto Arquitectura Empresarial con Énfasis en Negocio de Facturación Internacional
+Funciones: 
+Definición de la arquitectura de negocio y apoyo en la arquitectura tecnológica
+Dar forma a historias de usuario
+Diseñar el proceso de facturación
+Trato directo con usuarios de negocio
+Permitir que sea aplicable a nivel mundial
+Considerar la menor tropicalización para cada país que se considere
+
+Logros:
+Entendimiento del negocio de cliente, los conceptos contables y fiscales, así como las casuísticas que se presentan en el proceso de ventas de boletos, y finalmente estudio y entendimiento de la legislación fiscal y de protección de datos personales de cada país. Permitiendo crear una solución multi: país, moneda, direcciones y cálculo de impuestos ampliamente configurables | Proyecto Arquitectura Empresarial con Énfasis en Negocio de Facturación Internacional
+Funciones: 
+Definición de la arquitectura de negocio y apoyo en la arquitectura tecnológica
+Dar forma a historias de usuario
+Diseñar el proceso de facturación
+Trato directo con usuarios de negocio
+Permitir que sea aplicable a nivel mundial
+Considerar la menor tropicalización para cada país que se considere
+
+Logros:
+Entendimiento del negocio de cliente, los conceptos contables y fiscales, así como las casuísticas que se presentan en el proceso de ventas de boletos, y finalmente estudio y entendimiento de la legislación fiscal y de protección de datos personales de cada país. Permitiendo crear una solución multi: país, moneda, direcciones y cálculo de impuestos ampliamente configurables | Proyecto Arquitectura Empresarial con Énfasis en Negocio de Facturación Internacional
+Funciones: 
+Definición de la arquitectura de negocio y apoyo en la arquitectura tecnológica
+Dar forma a historias de usuario
+Diseñar el proceso de facturación
+Trato directo con usuarios de negocio
+Permitir que sea aplicable a nivel mundial
+Considerar la menor tropicalización para cada país que se considere
+
+Logros:
+Entendimiento del negocio de cliente, los conceptos contables y fiscales, así como las casuísticas que se presentan en el proceso de ventas de boletos, y finalmente estudio y entendimiento de la legislación fiscal y de protección de datos personales de cada país. Permitiendo crear una solución multi: país, moneda, direcciones y cálculo de impuestos ampliamente configurables | Proyecto Arquitectura Empresarial con Énfasis en Negocio de Facturación Internacional
+Funciones: 
+Definición de la arquitectura de negocio y apoyo en la arquitectura tecnológica
+Dar forma a historias de usuario
+Diseñar el proceso de facturación
+Trato directo con usuarios de negocio
+Permitir que sea aplicable a nivel mundial
+Considerar la menor tropicalización para cada país que se considere
+
+Logros:
+Entendimiento del negocio de cliente, los conceptos contables y fiscales, así como las casuísticas que se presentan en el proceso de ventas de boletos, y finalmente estudio y entendimiento de la legislación fiscal y de protección de datos personales de cada país. Permitiendo crear una solución multi: país, moneda, direcciones y cálculo de impuestos ampliamente configurables
+Herramientas: | Manejo de herramienta de Arquitectura Empresarial TOGAF, Agile y desarrollo en plataforma AWS
+Seguimiento pleno a SCRUM, y utilización de Jira con IA | Manejo de herramienta de Arquitectura Empresarial TOGAF, Agile y desarrollo en plataforma AWS
+Seguimiento pleno a SCRUM, y utilización de Jira con IA | Manejo de herramienta de Arquitectura Empresarial TOGAF, Agile y desarrollo en plataforma AWS
+Seguimiento pleno a SCRUM, y utilización de Jira con IA | Manejo de herramienta de Arquitectura Empresarial TOGAF, Agile y desarrollo en plataforma AWS
+Seguimiento pleno a SCRUM, y utilización de Jira con IA | Manejo de herramienta de Arquitectura Empresarial TOGAF, Agile y desarrollo en plataforma AWS
+Seguimiento pleno a SCRUM, y utilización de Jira con IA
+Nombre de la empresa:
+Laureate Internacional
+Educación | Nombre de la empresa:
+Laureate Internacional
+Educación | Lugar:
+CDMEX | Puesto:
+Arquitecto Empresarial | Desde: 
+Mayo 2025 | A: 
+Junio
+2025
+Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Dar forma a su requerimiento
+Análisis de su situación actual
+Misión y Visión
+Arquitectura de Negocio Corporativa
+Arquitectura Tecnológica
+Capacidades del personal
+Arquitectura Aplicativa
+Retos actuales del sector educativo vs tecnología
+Coyuntura de migración constante de aplicativos
+Se incluyó la presencia mundial de la corporación
+Se evaluaron los modelos de educación en línea y presencial
+Análisis de Riesgos y Dolores operativos
+Logros:
+Con un enfoque en arquitectura empresarial, y además con los Modelo de Madurez y el Modelo HIP ambos de Gartner se midió la situación actual y se plasmó la situación deseada y como llegar a ella a través de quick wins, iniciativas y proyectos, el cliente quedó muy satisfecho con los resultados logrados que incluyeron la incorporación de tecnologías de punta de manera gradual mediante un roadmap | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Dar forma a su requerimiento
+Análisis de su situación actual
+Misión y Visión
+Arquitectura de Negocio Corporativa
+Arquitectura Tecnológica
+Capacidades del personal
+Arquitectura Aplicativa
+Retos actuales del sector educativo vs tecnología
+Coyuntura de migración constante de aplicativos
+Se incluyó la presencia mundial de la corporación
+Se evaluaron los modelos de educación en línea y presencial
+Análisis de Riesgos y Dolores operativos
+Logros:
+Con un enfoque en arquitectura empresarial, y además con los Modelo de Madurez y el Modelo HIP ambos de Gartner se midió la situación actual y se plasmó la situación deseada y como llegar a ella a través de quick wins, iniciativas y proyectos, el cliente quedó muy satisfecho con los resultados logrados que incluyeron la incorporación de tecnologías de punta de manera gradual mediante un roadmap | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Dar forma a su requerimiento
+Análisis de su situación actual
+Misión y Visión
+Arquitectura de Negocio Corporativa
+Arquitectura Tecnológica
+Capacidades del personal
+Arquitectura Aplicativa
+Retos actuales del sector educativo vs tecnología
+Coyuntura de migración constante de aplicativos
+Se incluyó la presencia mundial de la corporación
+Se evaluaron los modelos de educación en línea y presencial
+Análisis de Riesgos y Dolores operativos
+Logros:
+Con un enfoque en arquitectura empresarial, y además con los Modelo de Madurez y el Modelo HIP ambos de Gartner se midió la situación actual y se plasmó la situación deseada y como llegar a ella a través de quick wins, iniciativas y proyectos, el cliente quedó muy satisfecho con los resultados logrados que incluyeron la incorporación de tecnologías de punta de manera gradual mediante un roadmap | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Dar forma a su requerimiento
+Análisis de su situación actual
+Misión y Visión
+Arquitectura de Negocio Corporativa
+Arquitectura Tecnológica
+Capacidades del personal
+Arquitectura Aplicativa
+Retos actuales del sector educativo vs tecnología
+Coyuntura de migración constante de aplicativos
+Se incluyó la presencia mundial de la corporación
+Se evaluaron los modelos de educación en línea y presencial
+Análisis de Riesgos y Dolores operativos
+Logros:
+Con un enfoque en arquitectura empresarial, y además con los Modelo de Madurez y el Modelo HIP ambos de Gartner se midió la situación actual y se plasmó la situación deseada y como llegar a ella a través de quick wins, iniciativas y proyectos, el cliente quedó muy satisfecho con los resultados logrados que incluyeron la incorporación de tecnologías de punta de manera gradual mediante un roadmap | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Dar forma a su requerimiento
+Análisis de su situación actual
+Misión y Visión
+Arquitectura de Negocio Corporativa
+Arquitectura Tecnológica
+Capacidades del personal
+Arquitectura Aplicativa
+Retos actuales del sector educativo vs tecnología
+Coyuntura de migración constante de aplicativos
+Se incluyó la presencia mundial de la corporación
+Se evaluaron los modelos de educación en línea y presencial
+Análisis de Riesgos y Dolores operativos
+Logros:
+Con un enfoque en arquitectura empresarial, y además con los Modelo de Madurez y el Modelo HIP ambos de Gartner se midió la situación actual y se plasmó la situación deseada y como llegar a ella a través de quick wins, iniciativas y proyectos, el cliente quedó muy satisfecho con los resultados logrados que incluyeron la incorporación de tecnologías de punta de manera gradual mediante un roadmap | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Dar forma a su requerimiento
+Análisis de su situación actual
+Misión y Visión
+Arquitectura de Negocio Corporativa
+Arquitectura Tecnológica
+Capacidades del personal
+Arquitectura Aplicativa
+Retos actuales del sector educativo vs tecnología
+Coyuntura de migración constante de aplicativos
+Se incluyó la presencia mundial de la corporación
+Se evaluaron los modelos de educación en línea y presencial
+Análisis de Riesgos y Dolores operativos
+Logros:
+Con un enfoque en arquitectura empresarial, y además con los Modelo de Madurez y el Modelo HIP ambos de Gartner se midió la situación actual y se plasmó la situación deseada y como llegar a ella a través de quick wins, iniciativas y proyectos, el cliente quedó muy satisfecho con los resultados logrados que incluyeron la incorporación de tecnologías de punta de manera gradual mediante un roadmap
+Herramientas: | Manejo de herramienta de Arquitectura Empresarial TOGAF y
+Modelo de Softtek Client Value Assessment CVA | Manejo de herramienta de Arquitectura Empresarial TOGAF y
+Modelo de Softtek Client Value Assessment CVA | Manejo de herramienta de Arquitectura Empresarial TOGAF y
+Modelo de Softtek Client Value Assessment CVA | Manejo de herramienta de Arquitectura Empresarial TOGAF y
+Modelo de Softtek Client Value Assessment CVA | Manejo de herramienta de Arquitectura Empresarial TOGAF y
+Modelo de Softtek Client Value Assessment CVA
+Nombre de la empresa:
+Seguros Confianza | Nombre de la empresa:
+Seguros Confianza | Lugar:
+CDMEX | Puesto:
+Arquitecto Empresarial | Desde: 
+Febrero 2025 | A: 
+Abril 2025
+Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL respecto a sus sistemas de seguros para permitir la incorporación de un core de Seguros y otro para Reaseguros en modalidad SaaS 
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS 
+Plataforma en la nube y on-premises
+Monitoreo
+Identificar brechas, hallazgos 
+Emitir recomendaciones, proyectos de solución y pruebas de concepto
+Logros:
+El cliente expresó su satisfacción, con los productos y las soluciones recomendadas | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL respecto a sus sistemas de seguros para permitir la incorporación de un core de Seguros y otro para Reaseguros en modalidad SaaS 
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS 
+Plataforma en la nube y on-premises
+Monitoreo
+Identificar brechas, hallazgos 
+Emitir recomendaciones, proyectos de solución y pruebas de concepto
+Logros:
+El cliente expresó su satisfacción, con los productos y las soluciones recomendadas | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL respecto a sus sistemas de seguros para permitir la incorporación de un core de Seguros y otro para Reaseguros en modalidad SaaS 
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS 
+Plataforma en la nube y on-premises
+Monitoreo
+Identificar brechas, hallazgos 
+Emitir recomendaciones, proyectos de solución y pruebas de concepto
+Logros:
+El cliente expresó su satisfacción, con los productos y las soluciones recomendadas | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL respecto a sus sistemas de seguros para permitir la incorporación de un core de Seguros y otro para Reaseguros en modalidad SaaS 
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS 
+Plataforma en la nube y on-premises
+Monitoreo
+Identificar brechas, hallazgos 
+Emitir recomendaciones, proyectos de solución y pruebas de concepto
+Logros:
+El cliente expresó su satisfacción, con los productos y las soluciones recomendadas | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL respecto a sus sistemas de seguros para permitir la incorporación de un core de Seguros y otro para Reaseguros en modalidad SaaS 
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS 
+Plataforma en la nube y on-premises
+Monitoreo
+Identificar brechas, hallazgos 
+Emitir recomendaciones, proyectos de solución y pruebas de concepto
+Logros:
+El cliente expresó su satisfacción, con los productos y las soluciones recomendadas | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL respecto a sus sistemas de seguros para permitir la incorporación de un core de Seguros y otro para Reaseguros en modalidad SaaS 
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS 
+Plataforma en la nube y on-premises
+Monitoreo
+Identificar brechas, hallazgos 
+Emitir recomendaciones, proyectos de solución y pruebas de concepto
+Logros:
+El cliente expresó su satisfacción, con los productos y las soluciones recomendadas
+Herramientas: | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF
+Nombre de la empresa:
+NISSAN México | Nombre de la empresa:
+NISSAN México | Lugar:
+CDMEX | Puesto:
+Arquitecto Empresarial | Desde: 
+Noviembre 2024 | A: 
+Enero 
+2025
+Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL de su stack aplicativo para implementar mejoras en su seguridad
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+Infraestructura
+Seguridad
+Generar una solución estándar para aplicar SSO y MFA a parte de su stack aplicativo
+Desarrollar y probar soluciones
+Logros:
+Se armaron células para aplicar la solución estándar y remediar las aplicaciones, identificando y solucionando oportunamente impactos colaterales | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL de su stack aplicativo para implementar mejoras en su seguridad
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+Infraestructura
+Seguridad
+Generar una solución estándar para aplicar SSO y MFA a parte de su stack aplicativo
+Desarrollar y probar soluciones
+Logros:
+Se armaron células para aplicar la solución estándar y remediar las aplicaciones, identificando y solucionando oportunamente impactos colaterales | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL de su stack aplicativo para implementar mejoras en su seguridad
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+Infraestructura
+Seguridad
+Generar una solución estándar para aplicar SSO y MFA a parte de su stack aplicativo
+Desarrollar y probar soluciones
+Logros:
+Se armaron células para aplicar la solución estándar y remediar las aplicaciones, identificando y solucionando oportunamente impactos colaterales | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL de su stack aplicativo para implementar mejoras en su seguridad
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+Infraestructura
+Seguridad
+Generar una solución estándar para aplicar SSO y MFA a parte de su stack aplicativo
+Desarrollar y probar soluciones
+Logros:
+Se armaron células para aplicar la solución estándar y remediar las aplicaciones, identificando y solucionando oportunamente impactos colaterales | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL de su stack aplicativo para implementar mejoras en su seguridad
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+Infraestructura
+Seguridad
+Generar una solución estándar para aplicar SSO y MFA a parte de su stack aplicativo
+Desarrollar y probar soluciones
+Logros:
+Se armaron células para aplicar la solución estándar y remediar las aplicaciones, identificando y solucionando oportunamente impactos colaterales | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL de su stack aplicativo para implementar mejoras en su seguridad
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+Infraestructura
+Seguridad
+Generar una solución estándar para aplicar SSO y MFA a parte de su stack aplicativo
+Desarrollar y probar soluciones
+Logros:
+Se armaron células para aplicar la solución estándar y remediar las aplicaciones, identificando y solucionando oportunamente impactos colaterales
+Herramientas: | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF
+Nombre de la empresa:
+Mobility ADO | Nombre de la empresa:
+Mobility ADO | Lugar:
+CDMEX | Puesto:
+Arquitecto Empresarial | Desde: 
+Julio 2024 | A: 
+Octubre 2024
+Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS y on-premises
+Infraestructura
+Seguridad
+Plataforma en la nube y on-premises
+Monitoreo
+Tecnología y gobierno de datos
+Identificar brechas, hallazgos 
+Emitir recomendaciones y proyectos de solución
+Logros:
+El cliente expresó su satisfacción, ya que la arquitectura diagramada y la documentación entregada responde a los requerimientos de las diferentes áreas tecnológicas, nuestro esfuerzo se consolidó en seis meses, para un proyecto que ya tiene dos años | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS y on-premises
+Infraestructura
+Seguridad
+Plataforma en la nube y on-premises
+Monitoreo
+Tecnología y gobierno de datos
+Identificar brechas, hallazgos 
+Emitir recomendaciones y proyectos de solución
+Logros:
+El cliente expresó su satisfacción, ya que la arquitectura diagramada y la documentación entregada responde a los requerimientos de las diferentes áreas tecnológicas, nuestro esfuerzo se consolidó en seis meses, para un proyecto que ya tiene dos años | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS y on-premises
+Infraestructura
+Seguridad
+Plataforma en la nube y on-premises
+Monitoreo
+Tecnología y gobierno de datos
+Identificar brechas, hallazgos 
+Emitir recomendaciones y proyectos de solución
+Logros:
+El cliente expresó su satisfacción, ya que la arquitectura diagramada y la documentación entregada responde a los requerimientos de las diferentes áreas tecnológicas, nuestro esfuerzo se consolidó en seis meses, para un proyecto que ya tiene dos años | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS y on-premises
+Infraestructura
+Seguridad
+Plataforma en la nube y on-premises
+Monitoreo
+Tecnología y gobierno de datos
+Identificar brechas, hallazgos 
+Emitir recomendaciones y proyectos de solución
+Logros:
+El cliente expresó su satisfacción, ya que la arquitectura diagramada y la documentación entregada responde a los requerimientos de las diferentes áreas tecnológicas, nuestro esfuerzo se consolidó en seis meses, para un proyecto que ya tiene dos años | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS y on-premises
+Infraestructura
+Seguridad
+Plataforma en la nube y on-premises
+Monitoreo
+Tecnología y gobierno de datos
+Identificar brechas, hallazgos 
+Emitir recomendaciones y proyectos de solución
+Logros:
+El cliente expresó su satisfacción, ya que la arquitectura diagramada y la documentación entregada responde a los requerimientos de las diferentes áreas tecnológicas, nuestro esfuerzo se consolidó en seis meses, para un proyecto que ya tiene dos años | Proyecto Arquitectura Empresarial con Énfasis en Tecnología
+Funciones: 
+Comprender la situación ACTUAL
+Las arquitecturas consideras fueron las siguientes: 
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura tecnológica
+Identificar la solución deseada, incluyendo:
+Gobernanza
+iPaaS como capa de integración para soluciones SaaS y on-premises
+Infraestructura
+Seguridad
+Plataforma en la nube y on-premises
+Monitoreo
+Tecnología y gobierno de datos
+Identificar brechas, hallazgos 
+Emitir recomendaciones y proyectos de solución
+Logros:
+El cliente expresó su satisfacción, ya que la arquitectura diagramada y la documentación entregada responde a los requerimientos de las diferentes áreas tecnológicas, nuestro esfuerzo se consolidó en seis meses, para un proyecto que ya tiene dos años
+Herramientas: | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF
+Nombre de la empresa:
+Grupo Axo | Nombre de la empresa:
+Grupo Axo | Lugar:
+CDMEX | Puesto:
+Arquitecto Empresarial | Desde: 
+Mayo 2024 | A: 
+Junio 2024
+Proyecto Arquitectura Empresarial a alto nivel
+Funciones:
+Entendimiento de la situación “TO BE”, con la incorporación de:
+SAP S/4HANA Fashion & Vertical Business
+XSTORE como sistema para el punto de venta
+Cloudera como bus de integración
+Incorporación de una nueva marca con tecnología de vanguardia
+Se consideraron las siguientes arquitecturas:
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas, hallazgos y recomendaciones
+Generación de un mapa arquitectónico de integración a alto nivel para comunicación en foros ejecutivos
+Logros: Se entrego un diagramado de la arquitectura empresarial, en los dominios de negocio y aplicativo, este mapa permitirá visualizar y dar seguimiento al proyecto de transformación que se tiene en curso | Proyecto Arquitectura Empresarial a alto nivel
+Funciones:
+Entendimiento de la situación “TO BE”, con la incorporación de:
+SAP S/4HANA Fashion & Vertical Business
+XSTORE como sistema para el punto de venta
+Cloudera como bus de integración
+Incorporación de una nueva marca con tecnología de vanguardia
+Se consideraron las siguientes arquitecturas:
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas, hallazgos y recomendaciones
+Generación de un mapa arquitectónico de integración a alto nivel para comunicación en foros ejecutivos
+Logros: Se entrego un diagramado de la arquitectura empresarial, en los dominios de negocio y aplicativo, este mapa permitirá visualizar y dar seguimiento al proyecto de transformación que se tiene en curso | Proyecto Arquitectura Empresarial a alto nivel
+Funciones:
+Entendimiento de la situación “TO BE”, con la incorporación de:
+SAP S/4HANA Fashion & Vertical Business
+XSTORE como sistema para el punto de venta
+Cloudera como bus de integración
+Incorporación de una nueva marca con tecnología de vanguardia
+Se consideraron las siguientes arquitecturas:
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas, hallazgos y recomendaciones
+Generación de un mapa arquitectónico de integración a alto nivel para comunicación en foros ejecutivos
+Logros: Se entrego un diagramado de la arquitectura empresarial, en los dominios de negocio y aplicativo, este mapa permitirá visualizar y dar seguimiento al proyecto de transformación que se tiene en curso | Proyecto Arquitectura Empresarial a alto nivel
+Funciones:
+Entendimiento de la situación “TO BE”, con la incorporación de:
+SAP S/4HANA Fashion & Vertical Business
+XSTORE como sistema para el punto de venta
+Cloudera como bus de integración
+Incorporación de una nueva marca con tecnología de vanguardia
+Se consideraron las siguientes arquitecturas:
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas, hallazgos y recomendaciones
+Generación de un mapa arquitectónico de integración a alto nivel para comunicación en foros ejecutivos
+Logros: Se entrego un diagramado de la arquitectura empresarial, en los dominios de negocio y aplicativo, este mapa permitirá visualizar y dar seguimiento al proyecto de transformación que se tiene en curso | Proyecto Arquitectura Empresarial a alto nivel
+Funciones:
+Entendimiento de la situación “TO BE”, con la incorporación de:
+SAP S/4HANA Fashion & Vertical Business
+XSTORE como sistema para el punto de venta
+Cloudera como bus de integración
+Incorporación de una nueva marca con tecnología de vanguardia
+Se consideraron las siguientes arquitecturas:
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas, hallazgos y recomendaciones
+Generación de un mapa arquitectónico de integración a alto nivel para comunicación en foros ejecutivos
+Logros: Se entrego un diagramado de la arquitectura empresarial, en los dominios de negocio y aplicativo, este mapa permitirá visualizar y dar seguimiento al proyecto de transformación que se tiene en curso | Proyecto Arquitectura Empresarial a alto nivel
+Funciones:
+Entendimiento de la situación “TO BE”, con la incorporación de:
+SAP S/4HANA Fashion & Vertical Business
+XSTORE como sistema para el punto de venta
+Cloudera como bus de integración
+Incorporación de una nueva marca con tecnología de vanguardia
+Se consideraron las siguientes arquitecturas:
+Arquitectura de negocio (dominios de negocio)
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas, hallazgos y recomendaciones
+Generación de un mapa arquitectónico de integración a alto nivel para comunicación en foros ejecutivos
+Logros: Se entrego un diagramado de la arquitectura empresarial, en los dominios de negocio y aplicativo, este mapa permitirá visualizar y dar seguimiento al proyecto de transformación que se tiene en curso
+Herramientas: | Manejo de herramientas de modelado Archimate y conocimiento de Arquitectura Empresarial TOGAF | Manejo de herramientas de modelado Archimate y conocimiento de Arquitectura Empresarial TOGAF | Manejo de herramientas de modelado Archimate y conocimiento de Arquitectura Empresarial TOGAF | Manejo de herramientas de modelado Archimate y conocimiento de Arquitectura Empresarial TOGAF | Manejo de herramientas de modelado Archimate y conocimiento de Arquitectura Empresarial TOGAF
+Nombre de la empresa:
+CHUBB Seguros CHILE | Nombre de la empresa:
+CHUBB Seguros CHILE | Lugar:
+Santiago de Chile | Puesto:
+Arquitecto Empresarial | Desde: 
+Marzo 2024 | A: 
+Abril 2024
+Proyecto Assessment de la operación Seguros de vida con Ahorro
+Funciones:
+Estudio y certificación en la plataforma de seguros
+Participación en sesiones de trabajo desarrolladas totalmente en idioma inglés, con participación de un proveedor de Singapur
+El objetivo fue implantar una solución core asiática para este tipo de seguros
+Entendimiento de la situación actual “AS IS”:
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE” con el nuevo aplicativo.
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades.
+Generación de requerimientos consensuados
+Estimación del cambio de core
+Logros:
+Se lograron los objetivos de obtener los requerimientos y gaps que la plataforma asiática tenía para poder entonces elaborar la propuesta para cubrir con las expectativas del cliente | Proyecto Assessment de la operación Seguros de vida con Ahorro
+Funciones:
+Estudio y certificación en la plataforma de seguros
+Participación en sesiones de trabajo desarrolladas totalmente en idioma inglés, con participación de un proveedor de Singapur
+El objetivo fue implantar una solución core asiática para este tipo de seguros
+Entendimiento de la situación actual “AS IS”:
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE” con el nuevo aplicativo.
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades.
+Generación de requerimientos consensuados
+Estimación del cambio de core
+Logros:
+Se lograron los objetivos de obtener los requerimientos y gaps que la plataforma asiática tenía para poder entonces elaborar la propuesta para cubrir con las expectativas del cliente | Proyecto Assessment de la operación Seguros de vida con Ahorro
+Funciones:
+Estudio y certificación en la plataforma de seguros
+Participación en sesiones de trabajo desarrolladas totalmente en idioma inglés, con participación de un proveedor de Singapur
+El objetivo fue implantar una solución core asiática para este tipo de seguros
+Entendimiento de la situación actual “AS IS”:
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE” con el nuevo aplicativo.
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades.
+Generación de requerimientos consensuados
+Estimación del cambio de core
+Logros:
+Se lograron los objetivos de obtener los requerimientos y gaps que la plataforma asiática tenía para poder entonces elaborar la propuesta para cubrir con las expectativas del cliente | Proyecto Assessment de la operación Seguros de vida con Ahorro
+Funciones:
+Estudio y certificación en la plataforma de seguros
+Participación en sesiones de trabajo desarrolladas totalmente en idioma inglés, con participación de un proveedor de Singapur
+El objetivo fue implantar una solución core asiática para este tipo de seguros
+Entendimiento de la situación actual “AS IS”:
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE” con el nuevo aplicativo.
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades.
+Generación de requerimientos consensuados
+Estimación del cambio de core
+Logros:
+Se lograron los objetivos de obtener los requerimientos y gaps que la plataforma asiática tenía para poder entonces elaborar la propuesta para cubrir con las expectativas del cliente | Proyecto Assessment de la operación Seguros de vida con Ahorro
+Funciones:
+Estudio y certificación en la plataforma de seguros
+Participación en sesiones de trabajo desarrolladas totalmente en idioma inglés, con participación de un proveedor de Singapur
+El objetivo fue implantar una solución core asiática para este tipo de seguros
+Entendimiento de la situación actual “AS IS”:
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE” con el nuevo aplicativo.
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades.
+Generación de requerimientos consensuados
+Estimación del cambio de core
+Logros:
+Se lograron los objetivos de obtener los requerimientos y gaps que la plataforma asiática tenía para poder entonces elaborar la propuesta para cubrir con las expectativas del cliente | Proyecto Assessment de la operación Seguros de vida con Ahorro
+Funciones:
+Estudio y certificación en la plataforma de seguros
+Participación en sesiones de trabajo desarrolladas totalmente en idioma inglés, con participación de un proveedor de Singapur
+El objetivo fue implantar una solución core asiática para este tipo de seguros
+Entendimiento de la situación actual “AS IS”:
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE” con el nuevo aplicativo.
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades.
+Generación de requerimientos consensuados
+Estimación del cambio de core
+Logros:
+Se lograron los objetivos de obtener los requerimientos y gaps que la plataforma asiática tenía para poder entonces elaborar la propuesta para cubrir con las expectativas del cliente
+Herramientas: | Manejo de herramientas de modelado Archimate y conocimiento de Arquitectura Empresarial TOGAF | Manejo de herramientas de modelado Archimate y conocimiento de Arquitectura Empresarial TOGAF | Manejo de herramientas de modelado Archimate y conocimiento de Arquitectura Empresarial TOGAF | Manejo de herramientas de modelado Archimate y conocimiento de Arquitectura Empresarial TOGAF | Manejo de herramientas de modelado Archimate y conocimiento de Arquitectura Empresarial TOGAF
+Nombre de la empresa:
+Banco Santander | Nombre de la empresa:
+Banco Santander | Lugar:
+CDMEX | Puesto:
+Scrum Master de célula PCI | Desde: 
+Noviembre 2023 | A: 
+Enero 2024
+Desempeño del rol SCRUM Master, de la célula PCI
+Funciones:
+Identificación de almacenamiento de datos sensibles, exposición real o potenciales de información confidencial del cliente
+Remediación de hallazgos en código
+Seguimiento del proceso DEVSECOPS para componentes
+Promoción a ambientes previos y productivos
+Gestión del proceso de desarrollo para permitir la liberación a producción
+Seguimiento en Jira
+Gestión de avance con Santander y logro del reconocimiento del valor ganado
+Logros:
+La entrega de los proyectos se realizó en tiempo y forma, se asimiló de manera rápida la metodología y procesos que envuelven el control de la configuración, ello fue el mayor de los retos | Desempeño del rol SCRUM Master, de la célula PCI
+Funciones:
+Identificación de almacenamiento de datos sensibles, exposición real o potenciales de información confidencial del cliente
+Remediación de hallazgos en código
+Seguimiento del proceso DEVSECOPS para componentes
+Promoción a ambientes previos y productivos
+Gestión del proceso de desarrollo para permitir la liberación a producción
+Seguimiento en Jira
+Gestión de avance con Santander y logro del reconocimiento del valor ganado
+Logros:
+La entrega de los proyectos se realizó en tiempo y forma, se asimiló de manera rápida la metodología y procesos que envuelven el control de la configuración, ello fue el mayor de los retos | Desempeño del rol SCRUM Master, de la célula PCI
+Funciones:
+Identificación de almacenamiento de datos sensibles, exposición real o potenciales de información confidencial del cliente
+Remediación de hallazgos en código
+Seguimiento del proceso DEVSECOPS para componentes
+Promoción a ambientes previos y productivos
+Gestión del proceso de desarrollo para permitir la liberación a producción
+Seguimiento en Jira
+Gestión de avance con Santander y logro del reconocimiento del valor ganado
+Logros:
+La entrega de los proyectos se realizó en tiempo y forma, se asimiló de manera rápida la metodología y procesos que envuelven el control de la configuración, ello fue el mayor de los retos | Desempeño del rol SCRUM Master, de la célula PCI
+Funciones:
+Identificación de almacenamiento de datos sensibles, exposición real o potenciales de información confidencial del cliente
+Remediación de hallazgos en código
+Seguimiento del proceso DEVSECOPS para componentes
+Promoción a ambientes previos y productivos
+Gestión del proceso de desarrollo para permitir la liberación a producción
+Seguimiento en Jira
+Gestión de avance con Santander y logro del reconocimiento del valor ganado
+Logros:
+La entrega de los proyectos se realizó en tiempo y forma, se asimiló de manera rápida la metodología y procesos que envuelven el control de la configuración, ello fue el mayor de los retos | Desempeño del rol SCRUM Master, de la célula PCI
+Funciones:
+Identificación de almacenamiento de datos sensibles, exposición real o potenciales de información confidencial del cliente
+Remediación de hallazgos en código
+Seguimiento del proceso DEVSECOPS para componentes
+Promoción a ambientes previos y productivos
+Gestión del proceso de desarrollo para permitir la liberación a producción
+Seguimiento en Jira
+Gestión de avance con Santander y logro del reconocimiento del valor ganado
+Logros:
+La entrega de los proyectos se realizó en tiempo y forma, se asimiló de manera rápida la metodología y procesos que envuelven el control de la configuración, ello fue el mayor de los retos | Desempeño del rol SCRUM Master, de la célula PCI
+Funciones:
+Identificación de almacenamiento de datos sensibles, exposición real o potenciales de información confidencial del cliente
+Remediación de hallazgos en código
+Seguimiento del proceso DEVSECOPS para componentes
+Promoción a ambientes previos y productivos
+Gestión del proceso de desarrollo para permitir la liberación a producción
+Seguimiento en Jira
+Gestión de avance con Santander y logro del reconocimiento del valor ganado
+Logros:
+La entrega de los proyectos se realizó en tiempo y forma, se asimiló de manera rápida la metodología y procesos que envuelven el control de la configuración, ello fue el mayor de los retos
+Herramientas: | Manejo de metodología ágil y metodología de trabajo del cliente | Manejo de metodología ágil y metodología de trabajo del cliente | Manejo de metodología ágil y metodología de trabajo del cliente | Manejo de metodología ágil y metodología de trabajo del cliente | Manejo de metodología ágil y metodología de trabajo del cliente
+Nombre de la empresa:
+CHUBB Seguros | Nombre de la empresa:
+CHUBB Seguros | Lugar:
+CDMEX | Puesto:
+Arquitecto Empresarial | Desde: 
+Mayo 2023 | A: 
+Octubre 2023
+Proyecto Assessment para la elección del mejor aplicativo de Cobranza en seguros
+Funciones:
+Entendimiento de la situación actual “AS IS”
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades
+Generación de requerimientos consensuados
+Identificar soluciones candidatas
+Evaluar cada solución
+Proponer la mejor solución
+Logros:
+El cliente felicitó a Softtek y entregó una alta evaluación por el trabajo desarrollado | Proyecto Assessment para la elección del mejor aplicativo de Cobranza en seguros
+Funciones:
+Entendimiento de la situación actual “AS IS”
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades
+Generación de requerimientos consensuados
+Identificar soluciones candidatas
+Evaluar cada solución
+Proponer la mejor solución
+Logros:
+El cliente felicitó a Softtek y entregó una alta evaluación por el trabajo desarrollado | Proyecto Assessment para la elección del mejor aplicativo de Cobranza en seguros
+Funciones:
+Entendimiento de la situación actual “AS IS”
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades
+Generación de requerimientos consensuados
+Identificar soluciones candidatas
+Evaluar cada solución
+Proponer la mejor solución
+Logros:
+El cliente felicitó a Softtek y entregó una alta evaluación por el trabajo desarrollado | Proyecto Assessment para la elección del mejor aplicativo de Cobranza en seguros
+Funciones:
+Entendimiento de la situación actual “AS IS”
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades
+Generación de requerimientos consensuados
+Identificar soluciones candidatas
+Evaluar cada solución
+Proponer la mejor solución
+Logros:
+El cliente felicitó a Softtek y entregó una alta evaluación por el trabajo desarrollado | Proyecto Assessment para la elección del mejor aplicativo de Cobranza en seguros
+Funciones:
+Entendimiento de la situación actual “AS IS”
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades
+Generación de requerimientos consensuados
+Identificar soluciones candidatas
+Evaluar cada solución
+Proponer la mejor solución
+Logros:
+El cliente felicitó a Softtek y entregó una alta evaluación por el trabajo desarrollado | Proyecto Assessment para la elección del mejor aplicativo de Cobranza en seguros
+Funciones:
+Entendimiento de la situación actual “AS IS”
+Arquitectura de negocio 
+Arquitectura aplicativa
+Arquitectura de tecnológica
+Identificar la solución deseada “TO BE”
+Identificar brechas “AS IS” vs “TO BE”, puntos de dolor y oportunidades
+Generación de requerimientos consensuados
+Identificar soluciones candidatas
+Evaluar cada solución
+Proponer la mejor solución
+Logros:
+El cliente felicitó a Softtek y entregó una alta evaluación por el trabajo desarrollado
+Herramientas: | Manejo de herramientas de Arquitectura Empresarial TOGAF | Manejo de herramientas de Arquitectura Empresarial TOGAF | Manejo de herramientas de Arquitectura Empresarial TOGAF | Manejo de herramientas de Arquitectura Empresarial TOGAF | Manejo de herramientas de Arquitectura Empresarial TOGAF
+Nombre de la empresa:
+Financiera Monte de Piedad | Nombre de la empresa:
+Financiera Monte de Piedad | Lugar:
+CDMEX | Puesto:
+Arquitecto Empresarial | Desde: 
+Diciembre 2022 | A: 
+Abril 14 2023
+Proyecto para la incorporación del core de crédito Mambu
+Funciones:
+Entendimiento de la problemática del proyecto en curso
+Se estudian las especificaciones funcionales:
+Se identifican brechas
+Se negocia con analistas su modificación
+Se entiende el objetivo de las especificaciones en conjunto con analistas y negocio
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Se especifican y diagraman flujos para presentar a los involucrados
+Apoyar a que el negocio plasme su necesidad
+Generación de iniciativas de solución ante problemas
+Documentación de las funcionalidades aún no desarrolladas para aumentar la certeza
+Identificar funcionalidad faltante para lograr entregas de valor al cliente
+Logros:
+Contribuir al titánico esfuerzo por reemplazar el core bancario de SAP a Mambu, con recursos muy limitados del cliente | Proyecto para la incorporación del core de crédito Mambu
+Funciones:
+Entendimiento de la problemática del proyecto en curso
+Se estudian las especificaciones funcionales:
+Se identifican brechas
+Se negocia con analistas su modificación
+Se entiende el objetivo de las especificaciones en conjunto con analistas y negocio
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Se especifican y diagraman flujos para presentar a los involucrados
+Apoyar a que el negocio plasme su necesidad
+Generación de iniciativas de solución ante problemas
+Documentación de las funcionalidades aún no desarrolladas para aumentar la certeza
+Identificar funcionalidad faltante para lograr entregas de valor al cliente
+Logros:
+Contribuir al titánico esfuerzo por reemplazar el core bancario de SAP a Mambu, con recursos muy limitados del cliente | Proyecto para la incorporación del core de crédito Mambu
+Funciones:
+Entendimiento de la problemática del proyecto en curso
+Se estudian las especificaciones funcionales:
+Se identifican brechas
+Se negocia con analistas su modificación
+Se entiende el objetivo de las especificaciones en conjunto con analistas y negocio
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Se especifican y diagraman flujos para presentar a los involucrados
+Apoyar a que el negocio plasme su necesidad
+Generación de iniciativas de solución ante problemas
+Documentación de las funcionalidades aún no desarrolladas para aumentar la certeza
+Identificar funcionalidad faltante para lograr entregas de valor al cliente
+Logros:
+Contribuir al titánico esfuerzo por reemplazar el core bancario de SAP a Mambu, con recursos muy limitados del cliente | Proyecto para la incorporación del core de crédito Mambu
+Funciones:
+Entendimiento de la problemática del proyecto en curso
+Se estudian las especificaciones funcionales:
+Se identifican brechas
+Se negocia con analistas su modificación
+Se entiende el objetivo de las especificaciones en conjunto con analistas y negocio
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Se especifican y diagraman flujos para presentar a los involucrados
+Apoyar a que el negocio plasme su necesidad
+Generación de iniciativas de solución ante problemas
+Documentación de las funcionalidades aún no desarrolladas para aumentar la certeza
+Identificar funcionalidad faltante para lograr entregas de valor al cliente
+Logros:
+Contribuir al titánico esfuerzo por reemplazar el core bancario de SAP a Mambu, con recursos muy limitados del cliente | Proyecto para la incorporación del core de crédito Mambu
+Funciones:
+Entendimiento de la problemática del proyecto en curso
+Se estudian las especificaciones funcionales:
+Se identifican brechas
+Se negocia con analistas su modificación
+Se entiende el objetivo de las especificaciones en conjunto con analistas y negocio
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Se especifican y diagraman flujos para presentar a los involucrados
+Apoyar a que el negocio plasme su necesidad
+Generación de iniciativas de solución ante problemas
+Documentación de las funcionalidades aún no desarrolladas para aumentar la certeza
+Identificar funcionalidad faltante para lograr entregas de valor al cliente
+Logros:
+Contribuir al titánico esfuerzo por reemplazar el core bancario de SAP a Mambu, con recursos muy limitados del cliente | Proyecto para la incorporación del core de crédito Mambu
+Funciones:
+Entendimiento de la problemática del proyecto en curso
+Se estudian las especificaciones funcionales:
+Se identifican brechas
+Se negocia con analistas su modificación
+Se entiende el objetivo de las especificaciones en conjunto con analistas y negocio
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Se especifican y diagraman flujos para presentar a los involucrados
+Apoyar a que el negocio plasme su necesidad
+Generación de iniciativas de solución ante problemas
+Documentación de las funcionalidades aún no desarrolladas para aumentar la certeza
+Identificar funcionalidad faltante para lograr entregas de valor al cliente
+Logros:
+Contribuir al titánico esfuerzo por reemplazar el core bancario de SAP a Mambu, con recursos muy limitados del cliente
+Herramientas: | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF
+Nombre de la empresa:
+Coppel | Nombre de la empresa:
+Coppel | Lugar:
+CDMEX | Puesto:
+Arquitecto Empresarial | Desde: 
+Julio 2020 | A: 
+Octubre 2022
+Proyecto atendido con framework/metodología de Arquitectura Empresarial
+Funciones:
+Discovery al proyecto de Cartera Omnicanal en curso (iniciado dos años antes):
+Se identifican hallazgos en los dominios/arquitecturas:
+Negocio
+Aplicativo
+Tecnología
+Gestión del proyecto
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Generación de iniciativas de solución
+Generación de roadmap y timeline para implementar las iniciativas de solución
+Gobierno y gestión de iniciativas de solución
+Logros:
+Transformación del proyecto para enfocarlo al logro de los objetivos:
+Organización de participantes para incrementar la productividad de acuerdo con sus capacidades y conocimiento del proyecto
+Incorporación de nuevas fábricas para apoyare en los temas no atendidos
+Devolver el control al director del proyecto (cliente) a través de transparentar la gestión | Proyecto atendido con framework/metodología de Arquitectura Empresarial
+Funciones:
+Discovery al proyecto de Cartera Omnicanal en curso (iniciado dos años antes):
+Se identifican hallazgos en los dominios/arquitecturas:
+Negocio
+Aplicativo
+Tecnología
+Gestión del proyecto
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Generación de iniciativas de solución
+Generación de roadmap y timeline para implementar las iniciativas de solución
+Gobierno y gestión de iniciativas de solución
+Logros:
+Transformación del proyecto para enfocarlo al logro de los objetivos:
+Organización de participantes para incrementar la productividad de acuerdo con sus capacidades y conocimiento del proyecto
+Incorporación de nuevas fábricas para apoyare en los temas no atendidos
+Devolver el control al director del proyecto (cliente) a través de transparentar la gestión | Proyecto atendido con framework/metodología de Arquitectura Empresarial
+Funciones:
+Discovery al proyecto de Cartera Omnicanal en curso (iniciado dos años antes):
+Se identifican hallazgos en los dominios/arquitecturas:
+Negocio
+Aplicativo
+Tecnología
+Gestión del proyecto
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Generación de iniciativas de solución
+Generación de roadmap y timeline para implementar las iniciativas de solución
+Gobierno y gestión de iniciativas de solución
+Logros:
+Transformación del proyecto para enfocarlo al logro de los objetivos:
+Organización de participantes para incrementar la productividad de acuerdo con sus capacidades y conocimiento del proyecto
+Incorporación de nuevas fábricas para apoyare en los temas no atendidos
+Devolver el control al director del proyecto (cliente) a través de transparentar la gestión | Proyecto atendido con framework/metodología de Arquitectura Empresarial
+Funciones:
+Discovery al proyecto de Cartera Omnicanal en curso (iniciado dos años antes):
+Se identifican hallazgos en los dominios/arquitecturas:
+Negocio
+Aplicativo
+Tecnología
+Gestión del proyecto
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Generación de iniciativas de solución
+Generación de roadmap y timeline para implementar las iniciativas de solución
+Gobierno y gestión de iniciativas de solución
+Logros:
+Transformación del proyecto para enfocarlo al logro de los objetivos:
+Organización de participantes para incrementar la productividad de acuerdo con sus capacidades y conocimiento del proyecto
+Incorporación de nuevas fábricas para apoyare en los temas no atendidos
+Devolver el control al director del proyecto (cliente) a través de transparentar la gestión | Proyecto atendido con framework/metodología de Arquitectura Empresarial
+Funciones:
+Discovery al proyecto de Cartera Omnicanal en curso (iniciado dos años antes):
+Se identifican hallazgos en los dominios/arquitecturas:
+Negocio
+Aplicativo
+Tecnología
+Gestión del proyecto
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Generación de iniciativas de solución
+Generación de roadmap y timeline para implementar las iniciativas de solución
+Gobierno y gestión de iniciativas de solución
+Logros:
+Transformación del proyecto para enfocarlo al logro de los objetivos:
+Organización de participantes para incrementar la productividad de acuerdo con sus capacidades y conocimiento del proyecto
+Incorporación de nuevas fábricas para apoyare en los temas no atendidos
+Devolver el control al director del proyecto (cliente) a través de transparentar la gestión | Proyecto atendido con framework/metodología de Arquitectura Empresarial
+Funciones:
+Discovery al proyecto de Cartera Omnicanal en curso (iniciado dos años antes):
+Se identifican hallazgos en los dominios/arquitecturas:
+Negocio
+Aplicativo
+Tecnología
+Gestión del proyecto
+Identificación de brechas entre lo esperado y lo que se estaba desarrollando
+Generación de iniciativas de solución
+Generación de roadmap y timeline para implementar las iniciativas de solución
+Gobierno y gestión de iniciativas de solución
+Logros:
+Transformación del proyecto para enfocarlo al logro de los objetivos:
+Organización de participantes para incrementar la productividad de acuerdo con sus capacidades y conocimiento del proyecto
+Incorporación de nuevas fábricas para apoyare en los temas no atendidos
+Devolver el control al director del proyecto (cliente) a través de transparentar la gestión
+Herramientas: | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF | Manejo de herramienta de Arquitectura Empresarial TOGAF
+Nombre de la empresa:
+Walmart - Softtek | Nombre de la empresa:
+Walmart - Softtek | Lugar:
+CDMEX | Puesto:
+Arquitecto Empresarial | Desde: 
+Nov 2019 | A: 
+Junio 2020
+Proyecto de Arquitectura Empresarial (solo se contempló la arquitectura de negocio)
+Funciones:
+Desarrollo del Dominio Merchandise:
+Entendimiento del Global Domain Definition
+Estrategia definida para el cliente
+Plasmado de procesos de Merchandise con base en ARTS
+Plasmado general de procesos de acuerdo con la operación de Walmart México
+Entrevistas con stakeholders presentando el proyecto de Arquitectura Empresarial y el objetivo que este perseguía, para luego recibir la información de sus procesos
+Diagramación de procesos de negocio relevantes en BPMN
+Incorporación de vistas de capacidades y procesos con sus servicios, aplicativos e infraestructura de soporte para tres subdominios de Merchandise
+Identificación de hallazgos
+Preparación de propuestas para resolver hallazgos
+Preparación del inicio del proyecto de Resurtido que permitió migrar la operación automatizada de la herramienta BAW a la herramienta Camunda, con una mejora extrema en la parametrización del nuevo producto
+Logros:
+En el corto tiempo de mi participación, entendí mucho de Walmart, sus motivaciones, forma de trabajo y la manera en que manejan el negocio de retail, del cual ya tenía conocimiento | Proyecto de Arquitectura Empresarial (solo se contempló la arquitectura de negocio)
+Funciones:
+Desarrollo del Dominio Merchandise:
+Entendimiento del Global Domain Definition
+Estrategia definida para el cliente
+Plasmado de procesos de Merchandise con base en ARTS
+Plasmado general de procesos de acuerdo con la operación de Walmart México
+Entrevistas con stakeholders presentando el proyecto de Arquitectura Empresarial y el objetivo que este perseguía, para luego recibir la información de sus procesos
+Diagramación de procesos de negocio relevantes en BPMN
+Incorporación de vistas de capacidades y procesos con sus servicios, aplicativos e infraestructura de soporte para tres subdominios de Merchandise
+Identificación de hallazgos
+Preparación de propuestas para resolver hallazgos
+Preparación del inicio del proyecto de Resurtido que permitió migrar la operación automatizada de la herramienta BAW a la herramienta Camunda, con una mejora extrema en la parametrización del nuevo producto
+Logros:
+En el corto tiempo de mi participación, entendí mucho de Walmart, sus motivaciones, forma de trabajo y la manera en que manejan el negocio de retail, del cual ya tenía conocimiento | Proyecto de Arquitectura Empresarial (solo se contempló la arquitectura de negocio)
+Funciones:
+Desarrollo del Dominio Merchandise:
+Entendimiento del Global Domain Definition
+Estrategia definida para el cliente
+Plasmado de procesos de Merchandise con base en ARTS
+Plasmado general de procesos de acuerdo con la operación de Walmart México
+Entrevistas con stakeholders presentando el proyecto de Arquitectura Empresarial y el objetivo que este perseguía, para luego recibir la información de sus procesos
+Diagramación de procesos de negocio relevantes en BPMN
+Incorporación de vistas de capacidades y procesos con sus servicios, aplicativos e infraestructura de soporte para tres subdominios de Merchandise
+Identificación de hallazgos
+Preparación de propuestas para resolver hallazgos
+Preparación del inicio del proyecto de Resurtido que permitió migrar la operación automatizada de la herramienta BAW a la herramienta Camunda, con una mejora extrema en la parametrización del nuevo producto
+Logros:
+En el corto tiempo de mi participación, entendí mucho de Walmart, sus motivaciones, forma de trabajo y la manera en que manejan el negocio de retail, del cual ya tenía conocimiento | Proyecto de Arquitectura Empresarial (solo se contempló la arquitectura de negocio)
+Funciones:
+Desarrollo del Dominio Merchandise:
+Entendimiento del Global Domain Definition
+Estrategia definida para el cliente
+Plasmado de procesos de Merchandise con base en ARTS
+Plasmado general de procesos de acuerdo con la operación de Walmart México
+Entrevistas con stakeholders presentando el proyecto de Arquitectura Empresarial y el objetivo que este perseguía, para luego recibir la información de sus procesos
+Diagramación de procesos de negocio relevantes en BPMN
+Incorporación de vistas de capacidades y procesos con sus servicios, aplicativos e infraestructura de soporte para tres subdominios de Merchandise
+Identificación de hallazgos
+Preparación de propuestas para resolver hallazgos
+Preparación del inicio del proyecto de Resurtido que permitió migrar la operación automatizada de la herramienta BAW a la herramienta Camunda, con una mejora extrema en la parametrización del nuevo producto
+Logros:
+En el corto tiempo de mi participación, entendí mucho de Walmart, sus motivaciones, forma de trabajo y la manera en que manejan el negocio de retail, del cual ya tenía conocimiento | Proyecto de Arquitectura Empresarial (solo se contempló la arquitectura de negocio)
+Funciones:
+Desarrollo del Dominio Merchandise:
+Entendimiento del Global Domain Definition
+Estrategia definida para el cliente
+Plasmado de procesos de Merchandise con base en ARTS
+Plasmado general de procesos de acuerdo con la operación de Walmart México
+Entrevistas con stakeholders presentando el proyecto de Arquitectura Empresarial y el objetivo que este perseguía, para luego recibir la información de sus procesos
+Diagramación de procesos de negocio relevantes en BPMN
+Incorporación de vistas de capacidades y procesos con sus servicios, aplicativos e infraestructura de soporte para tres subdominios de Merchandise
+Identificación de hallazgos
+Preparación de propuestas para resolver hallazgos
+Preparación del inicio del proyecto de Resurtido que permitió migrar la operación automatizada de la herramienta BAW a la herramienta Camunda, con una mejora extrema en la parametrización del nuevo producto
+Logros:
+En el corto tiempo de mi participación, entendí mucho de Walmart, sus motivaciones, forma de trabajo y la manera en que manejan el negocio de retail, del cual ya tenía conocimiento | Proyecto de Arquitectura Empresarial (solo se contempló la arquitectura de negocio)
+Funciones:
+Desarrollo del Dominio Merchandise:
+Entendimiento del Global Domain Definition
+Estrategia definida para el cliente
+Plasmado de procesos de Merchandise con base en ARTS
+Plasmado general de procesos de acuerdo con la operación de Walmart México
+Entrevistas con stakeholders presentando el proyecto de Arquitectura Empresarial y el objetivo que este perseguía, para luego recibir la información de sus procesos
+Diagramación de procesos de negocio relevantes en BPMN
+Incorporación de vistas de capacidades y procesos con sus servicios, aplicativos e infraestructura de soporte para tres subdominios de Merchandise
+Identificación de hallazgos
+Preparación de propuestas para resolver hallazgos
+Preparación del inicio del proyecto de Resurtido que permitió migrar la operación automatizada de la herramienta BAW a la herramienta Camunda, con una mejora extrema en la parametrización del nuevo producto
+Logros:
+En el corto tiempo de mi participación, entendí mucho de Walmart, sus motivaciones, forma de trabajo y la manera en que manejan el negocio de retail, del cual ya tenía conocimiento
+Herramientas: | Manejo de herramienta de Arquitectura Empresarial SPARX y Viso – BPMN para modelar procesos | Manejo de herramienta de Arquitectura Empresarial SPARX y Viso – BPMN para modelar procesos | Manejo de herramienta de Arquitectura Empresarial SPARX y Viso – BPMN para modelar procesos | Manejo de herramienta de Arquitectura Empresarial SPARX y Viso – BPMN para modelar procesos | Manejo de herramienta de Arquitectura Empresarial SPARX y Viso – BPMN para modelar procesos
+Nombre de la empresa:
+Banobras - Softtek | Nombre de la empresa:
+Banobras - Softtek | Lugar:
+Santa Fe | Puesto:
+SME Banking / Arquitecto Empresarial | Desde: 
+Feb 2019 | A: 
+Nov 2019
+Arquitectura Empresarial Área de Pagos y Valores
+Funciones:
+Diagnóstico de las áreas de pagos SPEI y Operación de Valores INDEVAL con base en el modelo de Arquitectura Empresarial para identificar brechas de seguridad:
+Preparación
+Levantamiento de información para plasmar el “AS IS” empleando herramientas de diagramado con base en el marco de trabajo TOGAF, incluyendo cuatro dominios y BPMN para detallar la operación de negocio, entre otras
+Diagnóstico de la situación actual, generación de soluciones a hallazgos
+Desarrollo del “TO BE” con medidas a corto, mediano y largo plazo, con base en las mejores prácticas de la industria, considerando los marcos normativos de referencia CUB y MAAGTICSI
+Desarrollo de Roadmap
+Desarrollo del programa para el desarrollo de las soluciones planteadas
+Creación de una arquitectura disruptiva innovadora basada en Open Source para ser implementada a largo plazo
+Nuevo BUS Banobras:
+Diseño de servicios bajo una nueva arquitectura basada en BUS, para convivencia con el nuevo GRP SAP, así como con los principales legados de la institución
+Logros:
+El proyecto de Pagos y Valores tuvo gran acogida. El director de sistemas solicitó que se le presentara el resultado personalmente, quedando satisfecho con el trabajo | Arquitectura Empresarial Área de Pagos y Valores
+Funciones:
+Diagnóstico de las áreas de pagos SPEI y Operación de Valores INDEVAL con base en el modelo de Arquitectura Empresarial para identificar brechas de seguridad:
+Preparación
+Levantamiento de información para plasmar el “AS IS” empleando herramientas de diagramado con base en el marco de trabajo TOGAF, incluyendo cuatro dominios y BPMN para detallar la operación de negocio, entre otras
+Diagnóstico de la situación actual, generación de soluciones a hallazgos
+Desarrollo del “TO BE” con medidas a corto, mediano y largo plazo, con base en las mejores prácticas de la industria, considerando los marcos normativos de referencia CUB y MAAGTICSI
+Desarrollo de Roadmap
+Desarrollo del programa para el desarrollo de las soluciones planteadas
+Creación de una arquitectura disruptiva innovadora basada en Open Source para ser implementada a largo plazo
+Nuevo BUS Banobras:
+Diseño de servicios bajo una nueva arquitectura basada en BUS, para convivencia con el nuevo GRP SAP, así como con los principales legados de la institución
+Logros:
+El proyecto de Pagos y Valores tuvo gran acogida. El director de sistemas solicitó que se le presentara el resultado personalmente, quedando satisfecho con el trabajo | Arquitectura Empresarial Área de Pagos y Valores
+Funciones:
+Diagnóstico de las áreas de pagos SPEI y Operación de Valores INDEVAL con base en el modelo de Arquitectura Empresarial para identificar brechas de seguridad:
+Preparación
+Levantamiento de información para plasmar el “AS IS” empleando herramientas de diagramado con base en el marco de trabajo TOGAF, incluyendo cuatro dominios y BPMN para detallar la operación de negocio, entre otras
+Diagnóstico de la situación actual, generación de soluciones a hallazgos
+Desarrollo del “TO BE” con medidas a corto, mediano y largo plazo, con base en las mejores prácticas de la industria, considerando los marcos normativos de referencia CUB y MAAGTICSI
+Desarrollo de Roadmap
+Desarrollo del programa para el desarrollo de las soluciones planteadas
+Creación de una arquitectura disruptiva innovadora basada en Open Source para ser implementada a largo plazo
+Nuevo BUS Banobras:
+Diseño de servicios bajo una nueva arquitectura basada en BUS, para convivencia con el nuevo GRP SAP, así como con los principales legados de la institución
+Logros:
+El proyecto de Pagos y Valores tuvo gran acogida. El director de sistemas solicitó que se le presentara el resultado personalmente, quedando satisfecho con el trabajo | Arquitectura Empresarial Área de Pagos y Valores
+Funciones:
+Diagnóstico de las áreas de pagos SPEI y Operación de Valores INDEVAL con base en el modelo de Arquitectura Empresarial para identificar brechas de seguridad:
+Preparación
+Levantamiento de información para plasmar el “AS IS” empleando herramientas de diagramado con base en el marco de trabajo TOGAF, incluyendo cuatro dominios y BPMN para detallar la operación de negocio, entre otras
+Diagnóstico de la situación actual, generación de soluciones a hallazgos
+Desarrollo del “TO BE” con medidas a corto, mediano y largo plazo, con base en las mejores prácticas de la industria, considerando los marcos normativos de referencia CUB y MAAGTICSI
+Desarrollo de Roadmap
+Desarrollo del programa para el desarrollo de las soluciones planteadas
+Creación de una arquitectura disruptiva innovadora basada en Open Source para ser implementada a largo plazo
+Nuevo BUS Banobras:
+Diseño de servicios bajo una nueva arquitectura basada en BUS, para convivencia con el nuevo GRP SAP, así como con los principales legados de la institución
+Logros:
+El proyecto de Pagos y Valores tuvo gran acogida. El director de sistemas solicitó que se le presentara el resultado personalmente, quedando satisfecho con el trabajo | Arquitectura Empresarial Área de Pagos y Valores
+Funciones:
+Diagnóstico de las áreas de pagos SPEI y Operación de Valores INDEVAL con base en el modelo de Arquitectura Empresarial para identificar brechas de seguridad:
+Preparación
+Levantamiento de información para plasmar el “AS IS” empleando herramientas de diagramado con base en el marco de trabajo TOGAF, incluyendo cuatro dominios y BPMN para detallar la operación de negocio, entre otras
+Diagnóstico de la situación actual, generación de soluciones a hallazgos
+Desarrollo del “TO BE” con medidas a corto, mediano y largo plazo, con base en las mejores prácticas de la industria, considerando los marcos normativos de referencia CUB y MAAGTICSI
+Desarrollo de Roadmap
+Desarrollo del programa para el desarrollo de las soluciones planteadas
+Creación de una arquitectura disruptiva innovadora basada en Open Source para ser implementada a largo plazo
+Nuevo BUS Banobras:
+Diseño de servicios bajo una nueva arquitectura basada en BUS, para convivencia con el nuevo GRP SAP, así como con los principales legados de la institución
+Logros:
+El proyecto de Pagos y Valores tuvo gran acogida. El director de sistemas solicitó que se le presentara el resultado personalmente, quedando satisfecho con el trabajo | Arquitectura Empresarial Área de Pagos y Valores
+Funciones:
+Diagnóstico de las áreas de pagos SPEI y Operación de Valores INDEVAL con base en el modelo de Arquitectura Empresarial para identificar brechas de seguridad:
+Preparación
+Levantamiento de información para plasmar el “AS IS” empleando herramientas de diagramado con base en el marco de trabajo TOGAF, incluyendo cuatro dominios y BPMN para detallar la operación de negocio, entre otras
+Diagnóstico de la situación actual, generación de soluciones a hallazgos
+Desarrollo del “TO BE” con medidas a corto, mediano y largo plazo, con base en las mejores prácticas de la industria, considerando los marcos normativos de referencia CUB y MAAGTICSI
+Desarrollo de Roadmap
+Desarrollo del programa para el desarrollo de las soluciones planteadas
+Creación de una arquitectura disruptiva innovadora basada en Open Source para ser implementada a largo plazo
+Nuevo BUS Banobras:
+Diseño de servicios bajo una nueva arquitectura basada en BUS, para convivencia con el nuevo GRP SAP, así como con los principales legados de la institución
+Logros:
+El proyecto de Pagos y Valores tuvo gran acogida. El director de sistemas solicitó que se le presentara el resultado personalmente, quedando satisfecho con el trabajo
+Herramientas: | ArchiMate TOGAF, Bizagi Modeler BPMN | ArchiMate TOGAF, Bizagi Modeler BPMN | ArchiMate TOGAF, Bizagi Modeler BPMN | ArchiMate TOGAF, Bizagi Modeler BPMN | ArchiMate TOGAF, Bizagi Modeler BPMN
+Nombre de la empresa:
+Banorte -  Softtek | Nombre de la empresa:
+Banorte -  Softtek | Lugar: 
+CDMEX - MTY | Puesto:
+Analista de Negocio Arquitecto | Desde: 
+Jul 2017 | A: 
+Feb 2019
+Transformación tecnológica de Medios de Pagos para adaptarse a las necesidades actuales y futuras
+Funciones:
+Entendimiento de la situación actual del Banco Adquirente en términos del dominio de negocio, aplicativo, datos e infraestructura
+Apoyo al área usuaria en la definición de requerimientos
+Líder del equipo de análisis y de diseño técnico para plasmar soluciones de negocio con fundamento arquitectónico
+Comunicación continua con el negocio en todas las fases de acuerdo con la metodología CRISOL V
+Aseguramiento del éxito durante las pruebas de usuario
+Creación del proceso de conciliación con resultados disponibles al cliente desde el portal
+Logros:
+Transformación del Banco Adquirente a través de la mejora sustancial de sus portales para hacerlos accesibles a empresas Fintech y clientes, así como una evolución en el canal transaccional que utilizan los comercios tradicionales y de eCommerce, a través del uso de APIs y microservicios | Transformación tecnológica de Medios de Pagos para adaptarse a las necesidades actuales y futuras
+Funciones:
+Entendimiento de la situación actual del Banco Adquirente en términos del dominio de negocio, aplicativo, datos e infraestructura
+Apoyo al área usuaria en la definición de requerimientos
+Líder del equipo de análisis y de diseño técnico para plasmar soluciones de negocio con fundamento arquitectónico
+Comunicación continua con el negocio en todas las fases de acuerdo con la metodología CRISOL V
+Aseguramiento del éxito durante las pruebas de usuario
+Creación del proceso de conciliación con resultados disponibles al cliente desde el portal
+Logros:
+Transformación del Banco Adquirente a través de la mejora sustancial de sus portales para hacerlos accesibles a empresas Fintech y clientes, así como una evolución en el canal transaccional que utilizan los comercios tradicionales y de eCommerce, a través del uso de APIs y microservicios | Transformación tecnológica de Medios de Pagos para adaptarse a las necesidades actuales y futuras
+Funciones:
+Entendimiento de la situación actual del Banco Adquirente en términos del dominio de negocio, aplicativo, datos e infraestructura
+Apoyo al área usuaria en la definición de requerimientos
+Líder del equipo de análisis y de diseño técnico para plasmar soluciones de negocio con fundamento arquitectónico
+Comunicación continua con el negocio en todas las fases de acuerdo con la metodología CRISOL V
+Aseguramiento del éxito durante las pruebas de usuario
+Creación del proceso de conciliación con resultados disponibles al cliente desde el portal
+Logros:
+Transformación del Banco Adquirente a través de la mejora sustancial de sus portales para hacerlos accesibles a empresas Fintech y clientes, así como una evolución en el canal transaccional que utilizan los comercios tradicionales y de eCommerce, a través del uso de APIs y microservicios | Transformación tecnológica de Medios de Pagos para adaptarse a las necesidades actuales y futuras
+Funciones:
+Entendimiento de la situación actual del Banco Adquirente en términos del dominio de negocio, aplicativo, datos e infraestructura
+Apoyo al área usuaria en la definición de requerimientos
+Líder del equipo de análisis y de diseño técnico para plasmar soluciones de negocio con fundamento arquitectónico
+Comunicación continua con el negocio en todas las fases de acuerdo con la metodología CRISOL V
+Aseguramiento del éxito durante las pruebas de usuario
+Creación del proceso de conciliación con resultados disponibles al cliente desde el portal
+Logros:
+Transformación del Banco Adquirente a través de la mejora sustancial de sus portales para hacerlos accesibles a empresas Fintech y clientes, así como una evolución en el canal transaccional que utilizan los comercios tradicionales y de eCommerce, a través del uso de APIs y microservicios | Transformación tecnológica de Medios de Pagos para adaptarse a las necesidades actuales y futuras
+Funciones:
+Entendimiento de la situación actual del Banco Adquirente en términos del dominio de negocio, aplicativo, datos e infraestructura
+Apoyo al área usuaria en la definición de requerimientos
+Líder del equipo de análisis y de diseño técnico para plasmar soluciones de negocio con fundamento arquitectónico
+Comunicación continua con el negocio en todas las fases de acuerdo con la metodología CRISOL V
+Aseguramiento del éxito durante las pruebas de usuario
+Creación del proceso de conciliación con resultados disponibles al cliente desde el portal
+Logros:
+Transformación del Banco Adquirente a través de la mejora sustancial de sus portales para hacerlos accesibles a empresas Fintech y clientes, así como una evolución en el canal transaccional que utilizan los comercios tradicionales y de eCommerce, a través del uso de APIs y microservicios | Transformación tecnológica de Medios de Pagos para adaptarse a las necesidades actuales y futuras
+Funciones:
+Entendimiento de la situación actual del Banco Adquirente en términos del dominio de negocio, aplicativo, datos e infraestructura
+Apoyo al área usuaria en la definición de requerimientos
+Líder del equipo de análisis y de diseño técnico para plasmar soluciones de negocio con fundamento arquitectónico
+Comunicación continua con el negocio en todas las fases de acuerdo con la metodología CRISOL V
+Aseguramiento del éxito durante las pruebas de usuario
+Creación del proceso de conciliación con resultados disponibles al cliente desde el portal
+Logros:
+Transformación del Banco Adquirente a través de la mejora sustancial de sus portales para hacerlos accesibles a empresas Fintech y clientes, así como una evolución en el canal transaccional que utilizan los comercios tradicionales y de eCommerce, a través del uso de APIs y microservicios
+Herramientas: | Project, toda la suite de IBM para seguimiento de la metodología CRISOL V, control del proceso de calidad, así como control de versiones productivas, Arquitectura siguiendo el marco de trabajo TOGAF. | Project, toda la suite de IBM para seguimiento de la metodología CRISOL V, control del proceso de calidad, así como control de versiones productivas, Arquitectura siguiendo el marco de trabajo TOGAF. | Project, toda la suite de IBM para seguimiento de la metodología CRISOL V, control del proceso de calidad, así como control de versiones productivas, Arquitectura siguiendo el marco de trabajo TOGAF. | Project, toda la suite de IBM para seguimiento de la metodología CRISOL V, control del proceso de calidad, así como control de versiones productivas, Arquitectura siguiendo el marco de trabajo TOGAF. | Project, toda la suite de IBM para seguimiento de la metodología CRISOL V, control del proceso de calidad, así como control de versiones productivas, Arquitectura siguiendo el marco de trabajo TOGAF.
+Nombre de la empresa:
+Bancomer - Softtek | Nombre de la empresa:
+Bancomer - Softtek | Lugar: 
+CDMEX | Puesto:
+Líder de Analistas | Desde: 
+May 2016 | A: 
+Jun 2017
+Transformación tecnológica del sistema Fiduciario
+Funciones:
+Entendimiento del aplicativo actual a través del análisis del código existente
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Traducción del entendimiento a casos de uso e historias de usuario para ser consumidas por el equipo de desarrollo
+Certificación del aplicativo y promoción a ambientes de calidad y productivo
+Acompañamiento al usuario para desarrollar sus pruebas de aceptación
+Logros:
+Transformación del sistema Fiduciario a pesar del poco conocimiento de las áreas usuarias debido a temas de rotación. El éxito se basó en el talento del equipo de trabajo en todas sus disciplinas y fases del proyecto. El proyecto tuvo una duración total de 260 mil horas hombre | Transformación tecnológica del sistema Fiduciario
+Funciones:
+Entendimiento del aplicativo actual a través del análisis del código existente
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Traducción del entendimiento a casos de uso e historias de usuario para ser consumidas por el equipo de desarrollo
+Certificación del aplicativo y promoción a ambientes de calidad y productivo
+Acompañamiento al usuario para desarrollar sus pruebas de aceptación
+Logros:
+Transformación del sistema Fiduciario a pesar del poco conocimiento de las áreas usuarias debido a temas de rotación. El éxito se basó en el talento del equipo de trabajo en todas sus disciplinas y fases del proyecto. El proyecto tuvo una duración total de 260 mil horas hombre | Transformación tecnológica del sistema Fiduciario
+Funciones:
+Entendimiento del aplicativo actual a través del análisis del código existente
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Traducción del entendimiento a casos de uso e historias de usuario para ser consumidas por el equipo de desarrollo
+Certificación del aplicativo y promoción a ambientes de calidad y productivo
+Acompañamiento al usuario para desarrollar sus pruebas de aceptación
+Logros:
+Transformación del sistema Fiduciario a pesar del poco conocimiento de las áreas usuarias debido a temas de rotación. El éxito se basó en el talento del equipo de trabajo en todas sus disciplinas y fases del proyecto. El proyecto tuvo una duración total de 260 mil horas hombre | Transformación tecnológica del sistema Fiduciario
+Funciones:
+Entendimiento del aplicativo actual a través del análisis del código existente
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Traducción del entendimiento a casos de uso e historias de usuario para ser consumidas por el equipo de desarrollo
+Certificación del aplicativo y promoción a ambientes de calidad y productivo
+Acompañamiento al usuario para desarrollar sus pruebas de aceptación
+Logros:
+Transformación del sistema Fiduciario a pesar del poco conocimiento de las áreas usuarias debido a temas de rotación. El éxito se basó en el talento del equipo de trabajo en todas sus disciplinas y fases del proyecto. El proyecto tuvo una duración total de 260 mil horas hombre | Transformación tecnológica del sistema Fiduciario
+Funciones:
+Entendimiento del aplicativo actual a través del análisis del código existente
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Traducción del entendimiento a casos de uso e historias de usuario para ser consumidas por el equipo de desarrollo
+Certificación del aplicativo y promoción a ambientes de calidad y productivo
+Acompañamiento al usuario para desarrollar sus pruebas de aceptación
+Logros:
+Transformación del sistema Fiduciario a pesar del poco conocimiento de las áreas usuarias debido a temas de rotación. El éxito se basó en el talento del equipo de trabajo en todas sus disciplinas y fases del proyecto. El proyecto tuvo una duración total de 260 mil horas hombre | Transformación tecnológica del sistema Fiduciario
+Funciones:
+Entendimiento del aplicativo actual a través del análisis del código existente
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Traducción del entendimiento a casos de uso e historias de usuario para ser consumidas por el equipo de desarrollo
+Certificación del aplicativo y promoción a ambientes de calidad y productivo
+Acompañamiento al usuario para desarrollar sus pruebas de aceptación
+Logros:
+Transformación del sistema Fiduciario a pesar del poco conocimiento de las áreas usuarias debido a temas de rotación. El éxito se basó en el talento del equipo de trabajo en todas sus disciplinas y fases del proyecto. El proyecto tuvo una duración total de 260 mil horas hombre
+Herramientas: | Metodologías Bancomer y Softtek | Metodologías Bancomer y Softtek | Metodologías Bancomer y Softtek | Metodologías Bancomer y Softtek | Metodologías Bancomer y Softtek
+Experiencia en el SAT Sistema de Atención Tributaria y Aduanas de México
+Nombre de la empresa:
+Softtek – SAT Sistema de Administración Tributaria | Nombre de la empresa:
+Softtek – SAT Sistema de Administración Tributaria | Lugar: 
+CDMEX | Puesto:
+Consultor de BI | Desde: 
+Ene 2009 | A: 
+Feb 2010
+Desarrollo de soluciones para la apropiada recaudación Cartera
+Funciones:
+Entendimiento de requerimientos
+Desarrollo del análisis y diseño con base en la metodología Softtek para ETL - BI
+Desarrollo y pruebas de los productos desarrollados en DataStage
+Logros:
+Desarrollo de todas las aplicaciones solicitadas en tiempo y forma | Desarrollo de soluciones para la apropiada recaudación Cartera
+Funciones:
+Entendimiento de requerimientos
+Desarrollo del análisis y diseño con base en la metodología Softtek para ETL - BI
+Desarrollo y pruebas de los productos desarrollados en DataStage
+Logros:
+Desarrollo de todas las aplicaciones solicitadas en tiempo y forma | Desarrollo de soluciones para la apropiada recaudación Cartera
+Funciones:
+Entendimiento de requerimientos
+Desarrollo del análisis y diseño con base en la metodología Softtek para ETL - BI
+Desarrollo y pruebas de los productos desarrollados en DataStage
+Logros:
+Desarrollo de todas las aplicaciones solicitadas en tiempo y forma | Desarrollo de soluciones para la apropiada recaudación Cartera
+Funciones:
+Entendimiento de requerimientos
+Desarrollo del análisis y diseño con base en la metodología Softtek para ETL - BI
+Desarrollo y pruebas de los productos desarrollados en DataStage
+Logros:
+Desarrollo de todas las aplicaciones solicitadas en tiempo y forma | Desarrollo de soluciones para la apropiada recaudación Cartera
+Funciones:
+Entendimiento de requerimientos
+Desarrollo del análisis y diseño con base en la metodología Softtek para ETL - BI
+Desarrollo y pruebas de los productos desarrollados en DataStage
+Logros:
+Desarrollo de todas las aplicaciones solicitadas en tiempo y forma | Desarrollo de soluciones para la apropiada recaudación Cartera
+Funciones:
+Entendimiento de requerimientos
+Desarrollo del análisis y diseño con base en la metodología Softtek para ETL - BI
+Desarrollo y pruebas de los productos desarrollados en DataStage
+Logros:
+Desarrollo de todas las aplicaciones solicitadas en tiempo y forma
+Herramientas: | Metodología Softtek para desarrollo de ETL - BI | Metodología Softtek para desarrollo de ETL - BI | Metodología Softtek para desarrollo de ETL - BI | Metodología Softtek para desarrollo de ETL - BI | Metodología Softtek para desarrollo de ETL - BI
+Nombre de la empresa:
+Softtek – SAT Sistema de Administración Tributaria | Nombre de la empresa:
+Softtek – SAT Sistema de Administración Tributaria | Lugar: 
+CDMEX | Puesto:
+Líder de Analistas | Desde: 
+Mar 2010 | A: 
+Dic 2010
+Desarrollo del proyecto nacional para facturación electrónica
+Funciones:
+Entendimiento funcional del requerimiento
+Análisis de la solución global
+Orquestación de las áreas de negocio para Obligaciones Personas Morales y Físicas para obtener información requerida para las entidades PAC
+Minería de datos para identificar la información de Obligaciones
+Supervisión al desarrollo y pruebas para obtener diariamente las obligaciones de Personas Morales y Personas Físicas
+Logros:
+Desarrollo de ETLs complejos en DataStage, entregados en tiempo y forma, contando con un plazo extremadamente corto, cumpliendo con las fechas establecidas por el Gobierno Federal | Desarrollo del proyecto nacional para facturación electrónica
+Funciones:
+Entendimiento funcional del requerimiento
+Análisis de la solución global
+Orquestación de las áreas de negocio para Obligaciones Personas Morales y Físicas para obtener información requerida para las entidades PAC
+Minería de datos para identificar la información de Obligaciones
+Supervisión al desarrollo y pruebas para obtener diariamente las obligaciones de Personas Morales y Personas Físicas
+Logros:
+Desarrollo de ETLs complejos en DataStage, entregados en tiempo y forma, contando con un plazo extremadamente corto, cumpliendo con las fechas establecidas por el Gobierno Federal | Desarrollo del proyecto nacional para facturación electrónica
+Funciones:
+Entendimiento funcional del requerimiento
+Análisis de la solución global
+Orquestación de las áreas de negocio para Obligaciones Personas Morales y Físicas para obtener información requerida para las entidades PAC
+Minería de datos para identificar la información de Obligaciones
+Supervisión al desarrollo y pruebas para obtener diariamente las obligaciones de Personas Morales y Personas Físicas
+Logros:
+Desarrollo de ETLs complejos en DataStage, entregados en tiempo y forma, contando con un plazo extremadamente corto, cumpliendo con las fechas establecidas por el Gobierno Federal | Desarrollo del proyecto nacional para facturación electrónica
+Funciones:
+Entendimiento funcional del requerimiento
+Análisis de la solución global
+Orquestación de las áreas de negocio para Obligaciones Personas Morales y Físicas para obtener información requerida para las entidades PAC
+Minería de datos para identificar la información de Obligaciones
+Supervisión al desarrollo y pruebas para obtener diariamente las obligaciones de Personas Morales y Personas Físicas
+Logros:
+Desarrollo de ETLs complejos en DataStage, entregados en tiempo y forma, contando con un plazo extremadamente corto, cumpliendo con las fechas establecidas por el Gobierno Federal | Desarrollo del proyecto nacional para facturación electrónica
+Funciones:
+Entendimiento funcional del requerimiento
+Análisis de la solución global
+Orquestación de las áreas de negocio para Obligaciones Personas Morales y Físicas para obtener información requerida para las entidades PAC
+Minería de datos para identificar la información de Obligaciones
+Supervisión al desarrollo y pruebas para obtener diariamente las obligaciones de Personas Morales y Personas Físicas
+Logros:
+Desarrollo de ETLs complejos en DataStage, entregados en tiempo y forma, contando con un plazo extremadamente corto, cumpliendo con las fechas establecidas por el Gobierno Federal | Desarrollo del proyecto nacional para facturación electrónica
+Funciones:
+Entendimiento funcional del requerimiento
+Análisis de la solución global
+Orquestación de las áreas de negocio para Obligaciones Personas Morales y Físicas para obtener información requerida para las entidades PAC
+Minería de datos para identificar la información de Obligaciones
+Supervisión al desarrollo y pruebas para obtener diariamente las obligaciones de Personas Morales y Personas Físicas
+Logros:
+Desarrollo de ETLs complejos en DataStage, entregados en tiempo y forma, contando con un plazo extremadamente corto, cumpliendo con las fechas establecidas por el Gobierno Federal
+Herramientas: | Metodologías Softtek para desarrollo de ETLS | Metodologías Softtek para desarrollo de ETLS | Metodologías Softtek para desarrollo de ETLS | Metodologías Softtek para desarrollo de ETLS | Metodologías Softtek para desarrollo de ETLS
+Nombre de la empresa:
+Softtek – Aduanas de México | Nombre de la empresa:
+Softtek – Aduanas de México | Lugar: 
+CDMEX | Puesto:
+Líder de Analistas | Desde: 
+Ene 2011 | A: 
+Mayo 2011
+Desarrollo de la Ventanilla Única de Comercio Exterior Mexicano
+Funciones:
+Entendimiento de los requerimientos del proyecto
+Revisión y desarrollo de diagramado BPNM de los procesos involucrados en la Secretaría de Economía
+El diagramado en Bizagi permitió la automatización e integración de procesos
+Logros:
+La ventanilla única permitió tener un punto de control único para realizar importaciones y exportaciones con Aduanas de México | Desarrollo de la Ventanilla Única de Comercio Exterior Mexicano
+Funciones:
+Entendimiento de los requerimientos del proyecto
+Revisión y desarrollo de diagramado BPNM de los procesos involucrados en la Secretaría de Economía
+El diagramado en Bizagi permitió la automatización e integración de procesos
+Logros:
+La ventanilla única permitió tener un punto de control único para realizar importaciones y exportaciones con Aduanas de México | Desarrollo de la Ventanilla Única de Comercio Exterior Mexicano
+Funciones:
+Entendimiento de los requerimientos del proyecto
+Revisión y desarrollo de diagramado BPNM de los procesos involucrados en la Secretaría de Economía
+El diagramado en Bizagi permitió la automatización e integración de procesos
+Logros:
+La ventanilla única permitió tener un punto de control único para realizar importaciones y exportaciones con Aduanas de México | Desarrollo de la Ventanilla Única de Comercio Exterior Mexicano
+Funciones:
+Entendimiento de los requerimientos del proyecto
+Revisión y desarrollo de diagramado BPNM de los procesos involucrados en la Secretaría de Economía
+El diagramado en Bizagi permitió la automatización e integración de procesos
+Logros:
+La ventanilla única permitió tener un punto de control único para realizar importaciones y exportaciones con Aduanas de México | Desarrollo de la Ventanilla Única de Comercio Exterior Mexicano
+Funciones:
+Entendimiento de los requerimientos del proyecto
+Revisión y desarrollo de diagramado BPNM de los procesos involucrados en la Secretaría de Economía
+El diagramado en Bizagi permitió la automatización e integración de procesos
+Logros:
+La ventanilla única permitió tener un punto de control único para realizar importaciones y exportaciones con Aduanas de México | Desarrollo de la Ventanilla Única de Comercio Exterior Mexicano
+Funciones:
+Entendimiento de los requerimientos del proyecto
+Revisión y desarrollo de diagramado BPNM de los procesos involucrados en la Secretaría de Economía
+El diagramado en Bizagi permitió la automatización e integración de procesos
+Logros:
+La ventanilla única permitió tener un punto de control único para realizar importaciones y exportaciones con Aduanas de México
+Herramientas: | Desarrollo de BPM, diagramado en BPMN en ARIS y BIZAGI | Desarrollo de BPM, diagramado en BPMN en ARIS y BIZAGI | Desarrollo de BPM, diagramado en BPMN en ARIS y BIZAGI | Desarrollo de BPM, diagramado en BPMN en ARIS y BIZAGI | Desarrollo de BPM, diagramado en BPMN en ARIS y BIZAGI
+Nombre de la empresa:
+Softtek – SAT Sistema de Administración Tributaria | Nombre de la empresa:
+Softtek – SAT Sistema de Administración Tributaria | Lugar: 
+CDMEX | Puesto:
+Líder de Analistas | Desde: 
+May 2015 | A: 
+Dic 2015
+Mantenimiento y desarrollo de sistemas WEB para recaudación
+Funciones:
+Entendimiento del aplicativo existentes y desarrollo de documentación a través de casos de uso
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Desarrollo de soluciones en aplicaciones preexistentes
+Desarrollo de nuevos sistemas con base en los requerimientos del área usuaria
+Cumplimiento con todos los procesos documentales en tiempo y forma, mismos que fueron certificados por el área de cumplimiento
+Logros:
+Los sistemas se mantuvieron bajo control
+Los nuevos sistemas no presentaron problemas en producción | Mantenimiento y desarrollo de sistemas WEB para recaudación
+Funciones:
+Entendimiento del aplicativo existentes y desarrollo de documentación a través de casos de uso
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Desarrollo de soluciones en aplicaciones preexistentes
+Desarrollo de nuevos sistemas con base en los requerimientos del área usuaria
+Cumplimiento con todos los procesos documentales en tiempo y forma, mismos que fueron certificados por el área de cumplimiento
+Logros:
+Los sistemas se mantuvieron bajo control
+Los nuevos sistemas no presentaron problemas en producción | Mantenimiento y desarrollo de sistemas WEB para recaudación
+Funciones:
+Entendimiento del aplicativo existentes y desarrollo de documentación a través de casos de uso
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Desarrollo de soluciones en aplicaciones preexistentes
+Desarrollo de nuevos sistemas con base en los requerimientos del área usuaria
+Cumplimiento con todos los procesos documentales en tiempo y forma, mismos que fueron certificados por el área de cumplimiento
+Logros:
+Los sistemas se mantuvieron bajo control
+Los nuevos sistemas no presentaron problemas en producción | Mantenimiento y desarrollo de sistemas WEB para recaudación
+Funciones:
+Entendimiento del aplicativo existentes y desarrollo de documentación a través de casos de uso
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Desarrollo de soluciones en aplicaciones preexistentes
+Desarrollo de nuevos sistemas con base en los requerimientos del área usuaria
+Cumplimiento con todos los procesos documentales en tiempo y forma, mismos que fueron certificados por el área de cumplimiento
+Logros:
+Los sistemas se mantuvieron bajo control
+Los nuevos sistemas no presentaron problemas en producción | Mantenimiento y desarrollo de sistemas WEB para recaudación
+Funciones:
+Entendimiento del aplicativo existentes y desarrollo de documentación a través de casos de uso
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Desarrollo de soluciones en aplicaciones preexistentes
+Desarrollo de nuevos sistemas con base en los requerimientos del área usuaria
+Cumplimiento con todos los procesos documentales en tiempo y forma, mismos que fueron certificados por el área de cumplimiento
+Logros:
+Los sistemas se mantuvieron bajo control
+Los nuevos sistemas no presentaron problemas en producción | Mantenimiento y desarrollo de sistemas WEB para recaudación
+Funciones:
+Entendimiento del aplicativo existentes y desarrollo de documentación a través de casos de uso
+Entrevistas con los principales stakeholders con la finalidad de corroborar el entendimiento
+Desarrollo de soluciones en aplicaciones preexistentes
+Desarrollo de nuevos sistemas con base en los requerimientos del área usuaria
+Cumplimiento con todos los procesos documentales en tiempo y forma, mismos que fueron certificados por el área de cumplimiento
+Logros:
+Los sistemas se mantuvieron bajo control
+Los nuevos sistemas no presentaron problemas en producción
+Herramientas: | Metodologías SAT para desarrollo de aplicativos | Metodologías SAT para desarrollo de aplicativos | Metodologías SAT para desarrollo de aplicativos | Metodologías SAT para desarrollo de aplicativos | Metodologías SAT para desarrollo de aplicativos
+Nombre de la empresa:
+IMSS -  Softtek | Nombre de la empresa:
+IMSS -  Softtek | Lugar: 
+CDMEX | Puesto:
+Líder Analista de Negocio | Desde: 
+May 2004 | A: 
+Jun 2006
+Transformación tecnológica del sistema Subsidios y Ayudas del IMSS (Pago de incapacidades a nivel nacional)
+Funciones:
+Entendimiento de los sistemas existentes para recuperar reglas de negocio e identificar brechas contra las mejores prácticas tecnológicas y de negocio
+Especificación de todo el negocio de subsidios, cálculo de capitales constitutivos y ayudas para matrimonio y funerarias
+Participación en absolutamente todas las fases del proyecto, desde el análisis de los sistemas previos hasta la capacitación y soporte operativo de negocio, así como la capacitación a usuarios en el interior de la república
+Desarrollo de interfaces con todos los sistemas del Instituto, así como con bancos
+Logros:
+El proyecto de 130 mil horas fue un gran éxito con un nivel de incidencias menores al 0.04%. Actualmente, sigue operando con estabilidad a casi 20 años de haberse liberado | Transformación tecnológica del sistema Subsidios y Ayudas del IMSS (Pago de incapacidades a nivel nacional)
+Funciones:
+Entendimiento de los sistemas existentes para recuperar reglas de negocio e identificar brechas contra las mejores prácticas tecnológicas y de negocio
+Especificación de todo el negocio de subsidios, cálculo de capitales constitutivos y ayudas para matrimonio y funerarias
+Participación en absolutamente todas las fases del proyecto, desde el análisis de los sistemas previos hasta la capacitación y soporte operativo de negocio, así como la capacitación a usuarios en el interior de la república
+Desarrollo de interfaces con todos los sistemas del Instituto, así como con bancos
+Logros:
+El proyecto de 130 mil horas fue un gran éxito con un nivel de incidencias menores al 0.04%. Actualmente, sigue operando con estabilidad a casi 20 años de haberse liberado | Transformación tecnológica del sistema Subsidios y Ayudas del IMSS (Pago de incapacidades a nivel nacional)
+Funciones:
+Entendimiento de los sistemas existentes para recuperar reglas de negocio e identificar brechas contra las mejores prácticas tecnológicas y de negocio
+Especificación de todo el negocio de subsidios, cálculo de capitales constitutivos y ayudas para matrimonio y funerarias
+Participación en absolutamente todas las fases del proyecto, desde el análisis de los sistemas previos hasta la capacitación y soporte operativo de negocio, así como la capacitación a usuarios en el interior de la república
+Desarrollo de interfaces con todos los sistemas del Instituto, así como con bancos
+Logros:
+El proyecto de 130 mil horas fue un gran éxito con un nivel de incidencias menores al 0.04%. Actualmente, sigue operando con estabilidad a casi 20 años de haberse liberado | Transformación tecnológica del sistema Subsidios y Ayudas del IMSS (Pago de incapacidades a nivel nacional)
+Funciones:
+Entendimiento de los sistemas existentes para recuperar reglas de negocio e identificar brechas contra las mejores prácticas tecnológicas y de negocio
+Especificación de todo el negocio de subsidios, cálculo de capitales constitutivos y ayudas para matrimonio y funerarias
+Participación en absolutamente todas las fases del proyecto, desde el análisis de los sistemas previos hasta la capacitación y soporte operativo de negocio, así como la capacitación a usuarios en el interior de la república
+Desarrollo de interfaces con todos los sistemas del Instituto, así como con bancos
+Logros:
+El proyecto de 130 mil horas fue un gran éxito con un nivel de incidencias menores al 0.04%. Actualmente, sigue operando con estabilidad a casi 20 años de haberse liberado | Transformación tecnológica del sistema Subsidios y Ayudas del IMSS (Pago de incapacidades a nivel nacional)
+Funciones:
+Entendimiento de los sistemas existentes para recuperar reglas de negocio e identificar brechas contra las mejores prácticas tecnológicas y de negocio
+Especificación de todo el negocio de subsidios, cálculo de capitales constitutivos y ayudas para matrimonio y funerarias
+Participación en absolutamente todas las fases del proyecto, desde el análisis de los sistemas previos hasta la capacitación y soporte operativo de negocio, así como la capacitación a usuarios en el interior de la república
+Desarrollo de interfaces con todos los sistemas del Instituto, así como con bancos
+Logros:
+El proyecto de 130 mil horas fue un gran éxito con un nivel de incidencias menores al 0.04%. Actualmente, sigue operando con estabilidad a casi 20 años de haberse liberado | Transformación tecnológica del sistema Subsidios y Ayudas del IMSS (Pago de incapacidades a nivel nacional)
+Funciones:
+Entendimiento de los sistemas existentes para recuperar reglas de negocio e identificar brechas contra las mejores prácticas tecnológicas y de negocio
+Especificación de todo el negocio de subsidios, cálculo de capitales constitutivos y ayudas para matrimonio y funerarias
+Participación en absolutamente todas las fases del proyecto, desde el análisis de los sistemas previos hasta la capacitación y soporte operativo de negocio, así como la capacitación a usuarios en el interior de la república
+Desarrollo de interfaces con todos los sistemas del Instituto, así como con bancos
+Logros:
+El proyecto de 130 mil horas fue un gran éxito con un nivel de incidencias menores al 0.04%. Actualmente, sigue operando con estabilidad a casi 20 años de haberse liberado
+Herramientas: | RUP, J2EE, EAI, SOA, Oracle, Unix, Hibernate | RUP, J2EE, EAI, SOA, Oracle, Unix, Hibernate | RUP, J2EE, EAI, SOA, Oracle, Unix, Hibernate | RUP, J2EE, EAI, SOA, Oracle, Unix, Hibernate | RUP, J2EE, EAI, SOA, Oracle, Unix, Hibernate
+Se omite la experiencia previa a 2004, considerar que yo inicio mi carrera profesional de sistemas en 1990.
+ESTUDIOS:
+Escuela:   
+Instituto Tecnológico y de Estudios Superiores de Monterrey | Lugar:  
+Escuela de Negocios Santa Fe, CDMEX
+Carrera: 
+MBA Maestro en Administración Empresarial (título con reconocimiento mundial)
+Cédula:  11649623 | Fecha de duración: 
+2014 – 2018
+Escuela:   
+Universidad Autónoma Metropolitana | Lugar:  
+División de Ingeniería, CDMEX
+Carrera: 
+Licenciatura en Ciencias de la Computación
+Cédula:  1641183 | Fecha de duración: 
+1986 – 1990
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Enterprise Architecture TOGAF
+Date certified: 13 July 2023 Certification Number: 171280 | England Knolwdge Academy | Oct 2022 – Jul 2023
+International Graduate Certificade: Maximizing Global Business Performance | Boston University USA
+Audencia France | Sep 2015 - Jul 2016
+Diplomados en Pensiones y Seguros | Universidad Panamericana | Jul 2000 - Dec  2001
+Diplomado Trainee de Liverpool | Liverpool Polanco | Mayo 1991 - Oct 1991
+Desarrollo constante en Softtek University | Softtek University | Todo el tiempo
+IDIOMAS:
+Español: | Nativo
+Inglés: | +85%, Tengo magnífico nivel de inglés conversacional para Negocios, puedo ser entrevistado sin problema
+CONOCIMIENTOS TÉCNICOS:
+Perfil principal: | SME IN BANKING
+Perfil secundario: | Arquitecto Empresarial, 
+Analista de Negocio, Arquitecto Líder
+Sistemas operativos: | Windows, Linux
+Lenguajes de programación: | C, Oracle Developer, Cobol
+Bases de datos: | Oracle, SQLSERVER, DBII, DMSII.
+Otros: | Project, CRM Dynamics, ERP Dynamics, ERP SAP, Viso, Power Point, Excel, Bizagi

@@ -1,0 +1,86 @@
+Giovanni Barragan Garcia
+Tester
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 2 años de experiencia en pruebas de software. Me responsabilizo del diseño y la ejecución de pruebas funcionales e integrales, así como de la evaluación de sus resultados.
+
+He liderado la planeación, diseño y ejecución de pruebas en entornos críticos, desarrollando matrices de trazabilidad y asegurando la conformidad de los entregables. Aplico metodologías de pruebas estructuradas para garantizar continuidad de servicio y mitigación de riesgos, favoreciendo la comunicación con equipos técnicos y usuarios.
+
+Trabajo en colaboración con equipos multidisciplinarios para validar requerimientos, generar evidencia de pruebas y gestionar defectos, manteniendo atención al detalle, pensamiento lógico y adaptabilidad en entornos ágiles y tradicionales.
+EXPERIENCIA LABORAL
+Empresa
+Softtek – IFT | Puesto
+Líder de pruebas | Desde:
+2 septiembre 2024 | Hasta: 
+Actualmente
+Actividades Principales | • Superviso el cumplimiento de los requerimientos funcionales del producto y verifico que esté libre de fallas, mediante la planificación y ejecución de pruebas apoyadas en una matriz que valida de forma específica el software desarrollado. Dispongo de habilidades en metodologías de pruebas, pensamiento lógico, comunicación efectiva, atención al detalle y adaptabilidad.
+• Brindo soporte al usuario y cliente durante las pruebas de aceptación.
+• Participo en la elaboración del plan de pruebas.
+• Analizo los insumos para obtener la cobertura y los casos de prueba (diagramas de casos de uso, especificaciones técnicas, prototipos, modelos de base de datos, entre otros).
+• Utilizo técnicas como partición equivalente, análisis de límites y árboles de decisión para identificar casos de prueba.
+• Diseño los casos de prueba, generando u obteniendo datos de prueba y definiendo los resultados esperados.
+• Ejecuto los casos de prueba y valido el resultado real contra el resultado esperado.
+• Documento los defectos identificados en la herramienta correspondiente.
+• Al diseñar las pruebas, aplico los controles definidos por el Líder de Pruebas para la validación de datos de entrada y la protección de datos de prueba.
+• Cuento con fuertes habilidades de análisis y un sólido dominio en el diseño de casos de prueba y matrices de prueba. Tengo experiencia en pruebas funcionales y de regresión, donde desarrollo, implemento y analizo los resultados, además de generar y administrar los datos de prueba. También gestiono los ambientes de prueba y su configuración, asegurando que las entregas sean completas y correctas. Poseo conocimientos en bases de datos como SQL (Lenguaje para gestión y consulta de bases de datos relacionales) y Oracle (Motor de base de datos empresarial), así como la capacidad de anticipar posibles soluciones ante situaciones complejas. Me distingo por mi alta productividad, precisión en la estimación de tareas y excelentes habilidades de comunicación tanto escrita como verbal.
+• He usado la certificación ISTQB Certified Tester Advanced Level - Test Manager- Junta Internacional de Calificaciones de Pruebas de Software (ISTQB) para gestión avanzada de pruebas y liderazgo.
+• He usado la certificación Scrum Foundation Professional Certificate para aplicar marcos ágiles basados en Scrum, considerando roles, eventos y artefactos.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CTR: Diseño y preparo testware, además de ejecutar pruebas independientes.
+STD: Diseño y preparo testware, así como generar scripts de pruebas de desempeño.
+STE: Ejecuto escenarios de prueba.
+INT: Diseño y preparo testware.
+• Pruebas de Aceptación de Usuario (UAT): Apoyo en las actividades de pruebas del usuario.
+• Creo el plan de pruebas y la estrategia de pruebas para IFT.
+• Implemento un template para la carga de casos de prueba a Testlink (Herramienta para gestión de casos de prueba)..
+• Analizo documentación para generar matrices de casos de prueba.
+• Diseño casos de prueba en Testlink (Herramienta para gestión de casos de prueba).
+• Realizo seguimiento y control de pruebas manuales y de regresión.
+• Hago seguimiento y levanto defectos en Mantis (Sistema de gestión de incidencias).
+• Analizo y diseño documentación para generación de matrices de casos de prueba.
+• Genero casos de prueba aplicando técnicas de diseño de casos de prueba.
+• Hago seguimiento y control de pruebas manuales y de regresión.
+• Creo scripts para consulta de datos en BDD.
+• Genero peer reviews para garantizar la calidad de entregables de diseño.
+• Genero diagramas para entendimiento y revisión con usuarios.
+• Genero matrices de datos y trazabilidad.
+• Hago seguimiento y asigno tareas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).
+• Creo FMEA para identificación y mitigación de riesgos.
+• Planifico y organizo pruebas desde la etapa de análisis hasta el cierre.
+Empresa
+Softtek – Digital office | Puesto
+Líder de pruebas | Desde:
+2 agosto 2022 | Hasta: 
+31 agosto 2024
+Actividades Principales | • Analizo y diseño documentación para generación de matrices de casos de prueba.
+• Genero casos de prueba aplicando técnicas de diseño de casos de prueba.
+• Hago seguimiento y control de pruebas manuales y de regresión.
+• Creo scripts para consulta de datos en BDD.
+• Genero peer reviews para garantizar la calidad de entregables de diseño.
+• Genero diagramas para entendimiento y revisión con usuarios.
+• Genero matrices de datos y trazabilidad.
+• Hago seguimiento y asigno tareas en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).
+• Creo FMEA para identificación y mitigación de riesgos.
+• Planifico y organizo pruebas desde la etapa de análisis hasta el cierre.
+HERRAMIENTAS CONOCIDAS
+- Testlink
+- Mantis
+- Jira
+- SQL
+- Oracle
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 junio de 2017 hasta 01 agosto de 2022
+Durante este período asumí responsabilidades orientadas a la calidad del software y la coordinación de equipos de pruebas. Me desempeñé como Líder de pruebas, Tester Sr. y gestor de proyectos TI, donde planifiqué, diseñé y supervisé la ejecución de pruebas funcionales, de regresión y de aceptación, además de liderar la generación de matrices, trazabilidad y reportes de estatus. Fomenté la colaboración con Partes interesadas (Stakeholders), apoyé la validación de requisitos y gestioné la resolución de incidencias.
+FORMACIÓN ACADÉMICA:
+Ingeniería en Sistemas de Información - 2015 | CDMX | Cédula Profesional
+10508108
+18/092017
+CERTIFICACIONES
+- Scrum Foundation Professional Certificate (SFPC) | 2020
+CURSOS
+- ISTQB Certified Tester Advanced Level - Test Manager - Junta Internacional de Calificaciones de Pruebas de Software (ISTQB)
+______________________________________
+Giovanni Barragan Garcia
+Tester | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

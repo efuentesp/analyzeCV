@@ -1,0 +1,73 @@
+Francisco Emanuel Herrera Bautista
+System Engineer
+PERFIL:
+Ingeniero en tecnologías de la información y Comunicación egresado de la Universidad Tecnológica de Tecámac. Especializado en Asp.Net y .Net Framework de Microsoft. 
+Con cinco años de experiencia en desarrollo y mantenimiento de software en distintos lenguajes de programación como lo son C#, PHP, NodeJS y Java.
+EXPERIENCIA PROFESIONAL:
+Nombre de la empresa:
+Softtek | Nombre de la empresa:
+Softtek | Lugar:
+Benito Juárez, CDMX | Puesto:
+ Ingeniero Fullstack | Desde: 
+Noviembre 2021 | A: 
+Actual
+Remediación de vulnerabilidades altas y críticas para garantizar la continuidad del servicio en sistemas de grupo Coppel. Apoyo en liberación de componentes modificados.
+
+Desarrollo de nuevas APIs como parte de la migración a Java Spring del Sistema Administrativo Jurídico de Coppel.
+
+Technical Leader, encargado de dar el seguimiento diario a célula identificando riesgos y obstáculos para asegurar el alcance de objetivos. Reportar avances a niveles superiores. | Remediación de vulnerabilidades altas y críticas para garantizar la continuidad del servicio en sistemas de grupo Coppel. Apoyo en liberación de componentes modificados.
+
+Desarrollo de nuevas APIs como parte de la migración a Java Spring del Sistema Administrativo Jurídico de Coppel.
+
+Technical Leader, encargado de dar el seguimiento diario a célula identificando riesgos y obstáculos para asegurar el alcance de objetivos. Reportar avances a niveles superiores. | Remediación de vulnerabilidades altas y críticas para garantizar la continuidad del servicio en sistemas de grupo Coppel. Apoyo en liberación de componentes modificados.
+
+Desarrollo de nuevas APIs como parte de la migración a Java Spring del Sistema Administrativo Jurídico de Coppel.
+
+Technical Leader, encargado de dar el seguimiento diario a célula identificando riesgos y obstáculos para asegurar el alcance de objetivos. Reportar avances a niveles superiores. | Remediación de vulnerabilidades altas y críticas para garantizar la continuidad del servicio en sistemas de grupo Coppel. Apoyo en liberación de componentes modificados.
+
+Desarrollo de nuevas APIs como parte de la migración a Java Spring del Sistema Administrativo Jurídico de Coppel.
+
+Technical Leader, encargado de dar el seguimiento diario a célula identificando riesgos y obstáculos para asegurar el alcance de objetivos. Reportar avances a niveles superiores. | Remediación de vulnerabilidades altas y críticas para garantizar la continuidad del servicio en sistemas de grupo Coppel. Apoyo en liberación de componentes modificados.
+
+Desarrollo de nuevas APIs como parte de la migración a Java Spring del Sistema Administrativo Jurídico de Coppel.
+
+Technical Leader, encargado de dar el seguimiento diario a célula identificando riesgos y obstáculos para asegurar el alcance de objetivos. Reportar avances a niveles superiores. | Remediación de vulnerabilidades altas y críticas para garantizar la continuidad del servicio en sistemas de grupo Coppel. Apoyo en liberación de componentes modificados.
+
+Desarrollo de nuevas APIs como parte de la migración a Java Spring del Sistema Administrativo Jurídico de Coppel.
+
+Technical Leader, encargado de dar el seguimiento diario a célula identificando riesgos y obstáculos para asegurar el alcance de objetivos. Reportar avances a niveles superiores.
+Herramientas: | Coldfusion, PHP, JavaScript, jQuery, CheckMarx, PostgreSQL, SQL Server, Git, GitLab, AzureRepos, HTML, CSS, Apache HTTP Server, Java Spring Boot, Apache Tomcat, Docker. | Coldfusion, PHP, JavaScript, jQuery, CheckMarx, PostgreSQL, SQL Server, Git, GitLab, AzureRepos, HTML, CSS, Apache HTTP Server, Java Spring Boot, Apache Tomcat, Docker. | Coldfusion, PHP, JavaScript, jQuery, CheckMarx, PostgreSQL, SQL Server, Git, GitLab, AzureRepos, HTML, CSS, Apache HTTP Server, Java Spring Boot, Apache Tomcat, Docker. | Coldfusion, PHP, JavaScript, jQuery, CheckMarx, PostgreSQL, SQL Server, Git, GitLab, AzureRepos, HTML, CSS, Apache HTTP Server, Java Spring Boot, Apache Tomcat, Docker. | Coldfusion, PHP, JavaScript, jQuery, CheckMarx, PostgreSQL, SQL Server, Git, GitLab, AzureRepos, HTML, CSS, Apache HTTP Server, Java Spring Boot, Apache Tomcat, Docker.
+Nombre de la empresa:
+UTTEC | Nombre de la empresa:
+UTTEC | Lugar:
+Tecámac, EdoMéx | Puesto:
+Desarrollador .Net | Desde: 
+Abril 2018 | A: 
+Noviembre 2021
+Desarrollo de nuevos módulos y mantenimiento de plataforma de control escolar. Colaboración en proyectos de la Secretaría de Educación del Estado de México. | Desarrollo de nuevos módulos y mantenimiento de plataforma de control escolar. Colaboración en proyectos de la Secretaría de Educación del Estado de México. | Desarrollo de nuevos módulos y mantenimiento de plataforma de control escolar. Colaboración en proyectos de la Secretaría de Educación del Estado de México. | Desarrollo de nuevos módulos y mantenimiento de plataforma de control escolar. Colaboración en proyectos de la Secretaría de Educación del Estado de México. | Desarrollo de nuevos módulos y mantenimiento de plataforma de control escolar. Colaboración en proyectos de la Secretaría de Educación del Estado de México. | Desarrollo de nuevos módulos y mantenimiento de plataforma de control escolar. Colaboración en proyectos de la Secretaría de Educación del Estado de México.
+Herramientas: | C#, .Net, .Net Core,  JavaScript, jQuery, iTextSharp, Bootstrap UI, Semantic UI, Git, GitLab, PostgreSQL, ChartJS, HTML, CSS, Docker, NodeJS, Visual Studio Enterprise. | C#, .Net, .Net Core,  JavaScript, jQuery, iTextSharp, Bootstrap UI, Semantic UI, Git, GitLab, PostgreSQL, ChartJS, HTML, CSS, Docker, NodeJS, Visual Studio Enterprise. | C#, .Net, .Net Core,  JavaScript, jQuery, iTextSharp, Bootstrap UI, Semantic UI, Git, GitLab, PostgreSQL, ChartJS, HTML, CSS, Docker, NodeJS, Visual Studio Enterprise. | C#, .Net, .Net Core,  JavaScript, jQuery, iTextSharp, Bootstrap UI, Semantic UI, Git, GitLab, PostgreSQL, ChartJS, HTML, CSS, Docker, NodeJS, Visual Studio Enterprise. | C#, .Net, .Net Core,  JavaScript, jQuery, iTextSharp, Bootstrap UI, Semantic UI, Git, GitLab, PostgreSQL, ChartJS, HTML, CSS, Docker, NodeJS, Visual Studio Enterprise.
+ESTUDIOS:
+Escuela:   
+Universidad Tecnológica de Tecámac | Lugar:  
+Tecámac, Estado de México
+Carrera: 
+Tecnologías de Información y Comunicación | Fecha de duración: 
+2015-2019
+DESARROLLO PROFESIONAL:
+Nombre del Curso, Diplomados, Certificaciones: | Lugar: | Fecha:
+Foundational C# with Microsoft Certification | Microsoft | 30/01/2024
+Certified PHP Developer: Professional | W3 Schools | 05/09/2025
+Node JS de cero a Experto | Udemy | 15/01/2024
+Docker de cero a experto | Udemy | 21/06/2023
+Curso completo de hacking ético y ciberseguridad | Udemy | 28/02/2023
+SCRUM Fundamentals | SCRUM Study | 12/02/2022
+IDIOMAS:
+Español: | Nativo
+Inglés: | B1
+.
+Perfil principal: | Desarrollador Backend
+Perfil secundario: | Desarrollador Frontend
+Sistemas operativos: | Windows 10, Debian 12
+Lenguajes de programación: | C#, JS, NodeJS, PHP, Java
+Bases de datos: | PostgreSQL, SQL Server, MySQL, MariaDB, MongoDB
+Otros:

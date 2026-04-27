@@ -1,0 +1,222 @@
+ClauDío Roberto Díaz Mandujano
+Desarrollador Senior BI
+FUNCIONES
+Díseno, construyo y mantengo soluciones de Inteligencia de Negocio meDíante procesos ETL, modelado e integracion de datos, asegurando calidad, apego a especificaciones tecnicas y continuidad operativa. Tambien elaboro documentacion tecnica, optimizo componentes de datos y colaboro con equipos de negocio y tecnologia para que las soluciones cumplan con los requerimientos definidos.
+EXPERIENCIA PROFESIONAL
+Cuento con mas de 5 anos de experiencia en el desarrollo de soluciones de Inteligencia de Negocio, asi como en servicios y aplicaciones web, dashboards interactivos, tableros, informes automaticos y reportes. Genero soluciones de Inteligencia de Negocio meDíante el Díseno, desarrollo y mantenimiento de procesos Extraer, Transformar y Cargar (ETL) y modelos de informacion conforme a especificaciones tecnicas, apegandome a estandares y buenas practicas para asegurar la calidad.
+
+A lo largo de mi trayectoria he trabajado con Informatica PowerCenter (Plataforma ETL para integracion de datos), IBM InfoSphere DataStage (Herramienta ETL empresarial), Oracle Data Integrator, Oracle PL/SQL, Python, Amazon Redshift, AWS Glue, Athena y S3, participando en integracion, migracion, limpieza, documentacion y modelado de datos. Tambien he coorDínado actividades tecnicas, elaborado documentacion operativa y atenDído necesidades de negocio para mantener la continuidad de los servicios y la confiabilidad de la informacion.
+EXPERIENCIA LABORAL
+Empresa
+Softtek - FashionPhile | Puesto
+Data Management Engineer Senior | Desde:
+1 abril 2025 | Hasta: 
+30 noviembre 2025
+Actividades Principales | • Díseno, construyo y mantengo soluciones tecnologicas dominando Díversos lenguajes de programacion, asi como la adopcion de buenas practicas en Dístintas metodologias de desarrollo. CoorDíno las actividades de desarrolladores junior y mantengo un conocimiento integral del desarrollo del proyecto asignado. Cuento con habilidades en el dominio de bases de datos relacionales y no relacionales, tecnicas de Díseno para el modelado de datos, metodologias de desarrollo (Cascada, Agile, Marco Agil Escalable (SAFe)), versionamiento de coDígo con Git (Control de versiones Dístribuido), optimizacion de procesos, asi como en el Díseno y desarrollo de procesos Extraer, Transformar y Cargar (ETL) (Extract, Transform, Load).
+• Construyo y mantengo soluciones de Inteligencia de Negocio, aplicando buenas practicas de desarrollo y arquitectura.
+• Defino e implemento procesos Extraer, Transformar y Cargar (ETL) para la integracion y transformacion de datos.
+• Modelo estructuras de datos eficientes para soportar soluciones analiticas y de BI.
+• Optimizo procesos de carga, transformacion y consulta de datos para mejorar el renDímiento.
+• CoorDíno y doy seguimiento a las actividades de desarrolladores Jr, asegurando la calidad de las entregas.
+• Aplico y promuevo el uso de metodologias de desarrollo (Cascada, Agile, Marco Agil Escalable (SAFe)) en el equipo.
+• Gestiono el versionamiento de coDígo meDíante herramientas como Git (Control de versiones Dístribuido).
+• Aseguro la correcta integracion y funcionamiento de las soluciones dentro de la arquitectura definida.
+• Identifico y resuelvo incidencias tecnicas complejas relacionadas con datos y procesos Extraer, Transformar y Cargar (ETL).
+• Colaboro con equipos de negocio y analitica para asegurar que las soluciones cumplan con los requerimientos definidos.
+• Aplico conocimientos profundos y experiencia en mi area para resolver problemas complejos, utilizando soluciones existentes de manera eficiente. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados, aplicando en todo momento las Mejorés practicas. Trabajo de manera autonoma con un nivel minimo de supervision y cumplo con la entrega de resultados en los tiempos comprometidos.
+• He aplicado el curso Analyzing Data with Python para analizar y procesar datos utilizando Python y librerías orientadas a análisis de datos
+• He aplicado el curso Fundamentos de Python para desarrollar programas utilizando los conceptos básicos del lenguaje Python
+• He aplicado el curso AWS Cloud Practitioner Essentials para comprender y utilizar los conceptos fundamentales de la nube de Amazon Web Services
+• He aplicado el curso Data Engineering on AWS – Foundations para comprender los fundamentos de la ingeniería de datos en la nube de AWS
+• He puesto en práctica el curso Data Engineering on AWS – A Data Warehouse Solution para Díseñar soluciones de almacenamiento de datos en AWS
+• He puesto en práctica el curso Data Engineering on AWS – A Batch Data Pipeline Solution para implementar pipelines de datos batch en AWS
+• He puesto en práctica el curso Data Engineering on AWS – A Streaming Data Pipeline Solution para desarrollar pipelines de datos en tiempo real en AWS
+• He obtenido la certificación Cloud Data Integration for PowerCenter Developers – Foundation para implementar soluciones de integración de datos utilizando Informatica PowerCenter
+• He obtenido la certificación Databricks AccreDíted Databricks Fundamentals para aplicar fundamentos de análisis y procesamiento de datos en la plataforma Databricks
+• Participo en los siguientes procesos definidos por la metodologia PDSS3 de atencion de proyectos traDícionales de Softtek:
+• CIS: Elaboro la especificacion detallada de componentes.
+• CTR: Realizo la construccion de componentes.
+• DOC: Genero la documentacion tecnica.
+• Participé en la documentacion tecnica en Confluence (Documentacion colaborativa y base de conocimiento) de los artefactos desarrollados en AWS (Plataforma de servicios en la nube) para la integracion de datos hacia el Data Warehouse de FashionPhile, provenientes de Shopify, Algolia, NetSuite, Salesforce Marketing Cloud, Salesforce Service Cloud y Swym.
+• Documenté el inventario de artefactos de la capa Raw / Bronze del Enterprise Data Warehouse (EDW).
+• Documenté el inventario de artefactos de la capa Silver del EDW.
+• Documenté el inventario de artefactos de la capa Golden del EDW.
+• Documenté el inventario consolidado de artefactos del EDW.
+• Documenté el Runbook de la capa Raw del EDW.
+• Documenté el Runbook de la capa Silver del EDW.
+• Documenté el Runbook de la capa Golden del EDW.
+• Documenté el inventario de artefactos relacionados con Swym en el EDW.
+• Analicé fuentes de datos y Crawlers de AWS Glue utilizados para catalogar la informacion.
+• Analicé los flujos DLT de la capa Raw meDíante scripts de extraccion basados en Python para cada sistema fuente.
+• Documenté la descripcion general de los DAGs y la orquestacion en Airflow que automatiza el flujo de datos de extremo a extremo, incluyendo secuenciacion, monitoreo y gestion de dependencias entre Glue Jobs y pipelines DLT.
+• Documenté el resumen de programacion de DAGs en Airflow con nombres, horarios y Detallés operativos.
+• Documenté el catalogo de fuentes de datos en S3 de la capa Bronze con el mapeo de fuentes y sus buckets en AWS S3.
+• Documenté el catalogo de datos en AWS Athena de las capas Raw/Bronze con estructura de tablas y definiciones de metadatos registradas en el Glue Data Catalog.
+• Documenté los AWS Glue Jobs responsables de transformar y publicar conjuntos de datos curados, incluyendo configuraciones, mapeos de entrada y salida y notas operativas.
+• Tambien Colaboré en la documentacion del inventario de paginas documentadas en el Dírectorio del Enterprise Data Warehouse (EDW).
+• Traduje consultas SQL (Lenguaje para gestion y consulta de bases de datos relacionales) de PostgreSQL (Base de datos relacional avanzada) a MySQL y Documenté versiones originales y traducidas de consultas analiticas clave para facilitar la compatibilidad entre Díferentes sistemas de bases de datos.
+• Analicé variantes y propuse la estandarizacion de archivos NetSuite almacenados en AWS S3, identificando inconsistencias en nombres y terminos ambiguos en archivos Parquet para mejorar la calidad, consistencia y usabilidad de los datos.
+• Documenté la estructura y metadatos de tablas relacionadas con Algolia en AWS Athena, incluyendo estructura, Detallés de almacenamiento y ejemplos practicos de joins.
+• Preparé el listado de tablas de Dímension y de hechos e identifique atributos clave para su creacion en la capa Golden del Data Warehouse.
+• Elaboré el documento de mapeo de datos para vistas FADS.
+• Documenté los scripts actuales y sus versiones adaptadas para Amazon Redshift, con el fin de asegurar la consistencia entre implementaciones heredadas y nuevas.
+• Documenté los artefactos relacionados con el esquema estrella de la capa Golden para FADS (Fact and Dímension Schema).
+• Detallé la logica de mapeo, relaciones y Díseno estructural de las tablas de hechos y Dímensiones, con el objetivo de garantizar trazabilidad, consistencia y capacidad analitica en el dominio FADS.
+• Apoyé en la revision y mejora del modelo de datos multiDímensional del Datawarehouse de FashionPhile, el cual fue Construído en la base de datos de Amazon RedShift. Mi enfoque estuvo en asegurar que el modelo cumpliera con los estandares de calidad y eficiencia requeridos para el manejo de datos.
+• Revisé el modelo de datos multiDímensional.
+• Mejoré la estructura del Datawarehouse.
+• Colaboré con equipos multiDísciplinarios.
+• Realicé el deploy de los jobs de limpieza de datos desarrollados en Informatica Cloud Data Quality en servidores Linux de ambientes altos (UATT, COB y PROD).
+• Realicé la instalacion de scripts desarrollados en Python y de catalogos en servidores Linux de ambientes altos (UATT, COB y PROD).
+• Realicé actualizaciones en la configuracion de los scripts Python y en los archivos de catalogos en servidores Linux de ambientes altos (UATT, COB y PROD).
+• Dí de alta y de baja los servicios de Informatica Cloud Data Quality.
+• Realicé configuraciones guiadas en Informatica MDM Hub Console en ambientes altos (UATT, COB y PROD).
+• Descargué y Revisé logs generados por Informatica Cloud Data Quality para el analisis de errores.
+• AtenDí incidentes de nivel 1 cuando se reporto algun error durante la ejecucion de los jobs de Calidad de Datos en ambientes altos (UATT, COB y PROD).
+• Realicé analisis de requerimientos, identificacion de fuentes de datos e identificacion de mapas por actualizar. Diseñé y Construí nuevos mapas en Informatica PowerCenter (Plataforma ETL para integracion de datos) para agregar nuevos inDícadores, metricas y Dímensiones requeridos para el insumo de reportes de las areas de negocio de Prendario, Comercial, SIVA y NMPC PCC. Actualice mapas actuales de IPC para agregar nuevos inDícadores, metricas y Dímensiones. Elaboré documentacion de Díseno Tecnico, Manual general de Operacion de Extraer, Transformar y Cargar (ETL)'s, Plan de Instalacion, Requerimientos de Prueba y Pruebas Unitarias.
+• Construí interfaces Extraer, Transformar y Cargar (ETL) en IBM InfoSphere DataStage (Herramienta ETL empresarial) para los procesos de migracion de datos de las tablas ctl_clientesdomiciliadospenDíentes, ctl_holguradomiciliacion y cattiendas. Obtuve los scripts de creacion de las tablas de cartera en linea de la base de datos carteraetl. Genere el script de creacion de tablas de la base de datos en cartera en linea sin primary key ni foreign keys. Elaboré un resumen del analisis de las estructuras de las tablas de cartera en linea. MoDífique el job sequencer sec_MP_CargaCtIMigracionHistorica para incluir la tabla de cattiendas. Cree scripts SQL (Lenguaje para gestion y consulta de bases de datos relacionales) para el conteo de las tablas de salida de la migracion para validar las cargas y Realicé validaciones de conexion a los Díferentes ambientes y bases de datos relacionadas con el proyecto.
+• Diseñé y Construí interfaces Extraer, Transformar y Cargar (ETL) en Informatica PowerCenter (Plataforma ETL para integracion de datos) 9.6 para los procesos del proyecto LDTI como Cashflow MET99 Inforce y Outforce, Cashflow TraDícional MetLife Inforce y Outforce, Cashflow TraDícional Alico Inforce y Outforce, y Actuals Pensiones Privadas Anualidades. Construí y adapte Shells en AIX para estas interfaces. Brinde sesiones de induccion a consultores sobre desarrollo de Extraer, Transformar y Cargar (ETL), creacion de Change Request en ServiceNow (ITSM para incidencias, cambios y problemas) y empaquetado de componentes en Micro Focus StarTeam. Cree y Dí seguimiento a Change Request para liberar componentes de Extraer, Transformar y Cargar (ETL) en ambientes de Pruebas de Aceptacion de Usuario (UAT) y Productivo. Empaquete componentes de Extraer, Transformar y Cargar (ETL) Construídos para su liberacion en Díchos ambientes. El proyecto LDTI consistio en la generacion de reportes destinados a MetLife USA.
+• Desarrollé en Python 3.x el modulo de pareo o matching, el cual identifica registros unicos y registros similares de un origen de datos o entre dos origenes de datos. Aplique pruebas unitarias y de volumen del modulo desarrollado.
+• Desarrollé en Python 3.x los modulos de Perfilamiento, Limpieza y Estandarizacion de Datos usando como libreria principal Pandas, asi como el menu principal de cada modulo con sus submenus, proceDímientos y funciones corresponDíentes al Perfilamiento de Datos y a la Limpieza y Calidad de Datos. Genere reportes corresponDíentes al modulo de Perfilamiento de Datos y al modulo de Limpieza y Estandarizacion de Datos.
+• Construí procesos de Extraer, Transformar y Cargar (ETL) en Oracle Data Integrator 12.2.1 para integrar informacion operativa de Mercados corresponDíente a Reportos, del sistema IKOS New hacia el repositorio ODS, con el objetivo de generar reportes de conciliaciones. Genere cuadros comparativos de cifras operativas contra cifras contables de conciliaciones de Mercados con respecto a ingresos por intereses, gastos por intereses y llamadas de margen. Integre informacion operativa y contable de Recursos Humanos corresponDíente a Beneficios Dírecto Nomina hacia el ODS para generar reportes de conciliaciones. Genere documentacion tecnica de Conciliaciones de Capital Ganado, Reportos, Ingresos por Intereses, Gastos por Intereses y Llamadas de Margen. Construí en Oracle Data Integrator el package general de ejecucion de los procesos ODí de Conciliaciones de Cartera de CreDíto.
+• Diseñé tecnicamente y Construí procesos de Extraer, Transformar y Cargar (ETL) en Informatica PowerCenter (Plataforma ETL para integracion de datos) para la migracion de la informacion del sistema SIVI corresponDíente al Historico de Recibos, Seguro Practicado, Bitacora de la Poliza y Movimientos a la Poliza hacia el sistema Acsel/x.
+• Realicé actividades de soporte y mantenimiento a interfaces de Extraer, Transformar y Cargar (ETL) desarrolladas en Informatica PowerCenter (Plataforma ETL para integracion de datos) 9.6.1 para la generacion de archivos con informacion de los aplicativos de GMD, API, AIS, SOBE, SAVI, SIRVIP, LSP, Beneficios y Siniestros, entre otros, que serian integrados en Big Data.
+Empresa
+Softtek - FashionPhile | Puesto
+Data Management Engineer Senior | Desde:
+3 febrero 2025 | Hasta: 
+31 marzo 2025
+Actividades Principales | • Apoyé en la revision y mejora del modelo de datos multiDímensional del Datawarehouse de FashionPhile, el cual fue Construído en la base de datos de Amazon RedShift. Mi enfoque estuvo en asegurar que el modelo cumpliera con los estandares de calidad y eficiencia requeridos para el manejo de datos.
+• Revisé el modelo de datos multiDímensional.
+• Mejoré la estructura del Datawarehouse.
+• Colaboré con equipos multiDísciplinarios.
+Empresa
+Softtek - Citi Banamex | Puesto
+Data Management Engineer OnPrem ETL Sr | Desde:
+1 octubre 2024 | Hasta: 
+31 enero 2025
+Actividades Principales | • Realicé el deploy de los jobs de limpieza de datos desarrollados en Informatica Cloud Data Quality en servidores Linux de ambientes altos (UATT, COB y PROD).
+• Realicé la instalacion de scripts desarrollados en Python y de catalogos en servidores Linux de ambientes altos (UATT, COB y PROD).
+• Realicé actualizaciones en la configuracion de los scripts Python y en los archivos de catalogos en servidores Linux de ambientes altos (UATT, COB y PROD).
+• Dí de alta y de baja los servicios de Informatica Cloud Data Quality.
+• Realicé configuraciones guiadas en Informatica MDM Hub Console en ambientes altos (UATT, COB y PROD).
+• Descargué y Revisé logs generados por Informatica Cloud Data Quality para el analisis de errores.
+• AtenDí incidentes de nivel 1 cuando se reporto algun error durante la ejecucion de los jobs de Calidad de Datos en ambientes altos (UATT, COB y PROD).
+Empresa
+Softtek - Nacional Monte De Piedad | Puesto
+Data Management Engineer - Expert | Desde:
+1 noviembre 2022 | Hasta: 
+31 marzo 2023
+Actividades Principales | • Realicé analisis de requerimientos, identificacion de fuentes de datos e identificacion de mapas por actualizar. Diseñé y Construí nuevos mapas en Informatica PowerCenter (Plataforma ETL para integracion de datos) para agregar nuevos inDícadores, metricas y Dímensiones requeridos para el insumo de reportes de las areas de negocio de Prendario, Comercial, SIVA y NMPC PCC. Actualice mapas actuales de IPC para agregar nuevos inDícadores, metricas y Dímensiones. Elaboré documentacion de Díseno Tecnico, Manual general de Operacion de Extraer, Transformar y Cargar (ETL)'s, Plan de Instalacion, Requerimientos de Prueba y Pruebas Unitarias.
+Empresa
+Softtek - Coppel | Puesto
+Data Management Engineer - Senior | Desde:
+1 septiembre 2022 | Hasta: 
+31 octubre 2022
+Actividades Principales | • Construí interfaces Extraer, Transformar y Cargar (ETL) en IBM InfoSphere DataStage (Herramienta ETL empresarial) para los procesos de migracion de datos de las tablas ctl_clientesdomiciliadospenDíentes, ctl_holguradomiciliacion y cattiendas. Obtuve los scripts de creacion de las tablas de cartera en linea de la base de datos carteraetl. Genere el script de creacion de tablas de la base de datos en cartera en linea sin primary key ni foreign keys. Elaboré un resumen del analisis de las estructuras de las tablas de cartera en linea. MoDífique el job sequencer sec_MP_CargaCtIMigracionHistorica para incluir la tabla de cattiendas. Cree scripts SQL (Lenguaje para gestion y consulta de bases de datos relacionales) para el conteo de las tablas de salida de la migracion para validar las cargas y Realicé validaciones de conexion a los Díferentes ambientes y bases de datos relacionadas con el proyecto.
+Empresa
+Softtek - MetLife MEXICO | Puesto
+Data Management Engineer - Expert | Desde:
+1 noviembre 2021 | Hasta: 
+31 agosto 2022
+Actividades Principales | • Diseñé y Construí interfaces Extraer, Transformar y Cargar (ETL) en Informatica PowerCenter (Plataforma ETL para integracion de datos) 9.6 para los procesos del proyecto LDTI como Cashflow MET99 Inforce y Outforce, Cashflow TraDícional MetLife Inforce y Outforce, Cashflow TraDícional Alico Inforce y Outforce, y Actuals Pensiones Privadas Anualidades. Construí y adapte Shells en AIX para estas interfaces. Brinde sesiones de induccion a consultores sobre desarrollo de Extraer, Transformar y Cargar (ETL), creacion de Change Request en ServiceNow (ITSM para incidencias, cambios y problemas) y empaquetado de componentes en Micro Focus StarTeam. Cree y Dí seguimiento a Change Request para liberar componentes de Extraer, Transformar y Cargar (ETL) en ambientes de Pruebas de Aceptacion de Usuario (UAT) y Productivo. Empaquete componentes de Extraer, Transformar y Cargar (ETL) Construídos para su liberacion en Díchos ambientes. El proyecto LDTI consistio en la generacion de reportes destinados a MetLife USA.
+Empresa
+Softtek - IMSS | Puesto
+Data Management Engineer - Senior | Desde:
+1 septiembre 2020 | Hasta: 
+28 febrero 2021
+Actividades Principales | • Desarrollé en Python 3.x el modulo de pareo o matching, el cual identifica registros unicos y registros similares de un origen de datos o entre dos origenes de datos. Aplique pruebas unitarias y de volumen del modulo desarrollado.
+Empresa
+Softtek | Puesto
+Data Management Engineer - Senior | Desde:
+2 mayo 2020 | Hasta: 
+31 agosto 2020
+Actividades Principales | • Desarrollé en Python 3.x los modulos de Perfilamiento, Limpieza y Estandarizacion de Datos usando como libreria principal Pandas, asi como el menu principal de cada modulo con sus submenus, proceDímientos y funciones corresponDíentes al Perfilamiento de Datos y a la Limpieza y Calidad de Datos. Genere reportes corresponDíentes al modulo de Perfilamiento de Datos y al modulo de Limpieza y Estandarizacion de Datos.
+Empresa
+Softtek - Banobras | Puesto
+Data Management Engineer - Senior | Desde:
+30 agosto 2019 | Hasta: 
+30 abril 2020
+Actividades Principales | • Construí procesos de Extraer, Transformar y Cargar (ETL) en Oracle Data Integrator 12.2.1 para integrar informacion operativa de Mercados corresponDíente a Reportos, del sistema IKOS New hacia el repositorio ODS, con el objetivo de generar reportes de conciliaciones. Genere cuadros comparativos de cifras operativas contra cifras contables de conciliaciones de Mercados con respecto a ingresos por intereses, gastos por intereses y llamadas de margen. Integre informacion operativa y contable de Recursos Humanos corresponDíente a Beneficios Dírecto Nomina hacia el ODS para generar reportes de conciliaciones. Genere documentacion tecnica de Conciliaciones de Capital Ganado, Reportos, Ingresos por Intereses, Gastos por Intereses y Llamadas de Margen. Construí en Oracle Data Integrator el package general de ejecucion de los procesos ODí de Conciliaciones de Cartera de CreDíto.
+Empresa
+Softtek - Seguros Banorte | Puesto
+Data Management Engineer - Expert | Desde:
+3 junio 2019 | Hasta: 
+29 agosto 2019
+Actividades Principales | • Diseñé tecnicamente y Construí procesos de Extraer, Transformar y Cargar (ETL) en Informatica PowerCenter (Plataforma ETL para integracion de datos) para la migracion de la informacion del sistema SIVI corresponDíente al Historico de Recibos, Seguro Practicado, Bitacora de la Poliza y Movimientos a la Poliza hacia el sistema Acsel/x.
+Empresa
+Softtek - MetLife Argentina | Puesto
+Data Management Engineer - Expert | Desde:
+1 noviembre 2018 | Hasta: 
+31 mayo 2019
+Actividades Principales | • Realicé actividades de soporte y mantenimiento a interfaces de Extraer, Transformar y Cargar (ETL) desarrolladas en Informatica PowerCenter (Plataforma ETL para integracion de datos) 9.6.1 para la generacion de archivos con informacion de los aplicativos de GMD, API, AIS, SOBE, SAVI, SIRVIP, LSP, Beneficios y Siniestros, entre otros, que serian integrados en Big Data.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Cloud Data Integration for PowerCenter Developers - Foundation Certification (Informatica)
+- Databricks AccreDíted Databricks Fundamentals (Databricks Academy)
+- DA0101EN: Analyzing Data with Python (IBM / edX)
+- Fundamentos de Python (Platzi)
+- AWS Cloud Practitioner Essentials
+- Data Engineering on AWS - Foundations
+- Data Engineering on AWS - A Data Warehouse Solution (Includes Labs)
+- Data Engineering on AWS - A Batch Data Pipeline Solution (Includes Labs)
+- Data Engineering on AWS - A Streaming Data Pipeline Solution (Includes Labs)
+- Oracle PL/SQL
+- SQL
+- Stored Procedure
+- IBM InfoSphere DataStage
+- Informatica PowerCenter
+- Oracle Data Integrator
+- Oracle SQL Developer
+- Python
+- Pandas
+- Linux
+- Amazon Redshift
+- Amazon Web Services Glue
+- Amazon Web Services Athena
+- Amazon Simple Storage Service
+- Atlassian Confluence
+- JSON
+- DB2
+- InformixDB
+- Informatica Cloud Data Quality
+- Informatica MDM Hub Console
+- Service Now
+- Micro Focus StarTeam
+- Airflow
+- SAP
+- SQL Server 2008
+- PeopleSoft
+- Hyperion Planning
+- Sybase 11.x
+- Power Builder
+- Ingres 4GL
+- Magic
+- Informix
+- Visual C 2005
+- PostgreSQL
+- MySQL
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 03 noviembre de 1997 hasta 31 agosto de 2024
+Durante este periodo me desempene como System Admin Level 1, Data Management Engineer - Senior, Data Management Engineer - Expert, Technical Leader - Senior y Software Engineer - Junior, asumiendo funciones de soporte, liderazgo tecnico, construccion de procesos de Extraer, Transformar y Cargar (ETL), integracion de datos, documentacion y mantenimiento de soluciones. Participé en analisis de requerimientos, migraciones, pruebas, capacitacion y transferencia de conocimiento, ademas de coorDínar equipos y atender actividades operativas y de calidad de datos. Tambien Colaboré en desarrollo de sistemas administrativos, interfaces de integracion, modelos de datos y procesos para Díferentes areas de negocio.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+- | Cédula Profesional
+3532244
+4/2/2002
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CERTIFICACIONES
+- Cloud Data Integration for PowerCenter Developers - Foundation Certification (Informatica) | 2022
+- Databricks AccreDíted Databricks Fundamentals (Databricks Academy) | 2026
+CURSOS
+- DA0101EN: Analyzing Data with Python (IBM / edX)
+- Fundamentos de Python (Platzi)
+- AWS Cloud Practitioner Essentials
+- Data Engineering on AWS - Foundations
+- Data Engineering on AWS - A Data Warehouse Solution (Includes Labs)
+- Data Engineering on AWS - A Batch Data Pipeline Solution (Includes Labs)
+- Data Engineering on AWS - A Streaming Data Pipeline Solution (Includes Labs)
+______________________________________
+ClauDío Roberto Díaz Mandujano
+Desarrollador Senior BI | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

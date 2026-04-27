@@ -1,0 +1,115 @@
+Gustavo Alexis Guevara Montellano
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Dispongo de al menos 3 años de experiencia en centros de desarrollo de software. Manejo tecnologías de la Arquitectura de Referencia (AR) y herramientas open source. Desarrollo y mantengo el código necesario, realizando mantenimiento correctivo y evolutivo para cumplir la especificación técnica, siguiendo estándares, la arquitectura y los frameworks definidos, asegurando la calidad y el cumplimiento de los plazos establecidos.
+
+Me especializo en soporte y mantenimiento de aplicaciones móviles y backend, con experiencia como ingeniero L3 en la atención y resolución de incidencias en producción. Trabajo con Kotlin, Swift, Google Cloud (Plataforma cloud para desarrollo e infraestructura), Firebase y SonarQube, participo en migraciones a la nube y mejoras de rendimiento, colaborando con equipos multidisciplinarios para entregar soluciones estables y trazables.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Application Maintenance Engineer | Desde:
+26 septiembre 2023 | Hasta: 
+A la fecha
+Actividades Principales | • Mantengo y brindo soporte a los aplicativos dominando varios lenguajes de programación. Tengo habilidades en resolución de problemas, versionamiento de código (Git (Control de versiones distribuido)) y en el desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.
+• Utilizo e implemento de forma adecuada el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.
+• Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).
+• He usado el curso Java Programming for Complete Beginners para aprender los fundamentos de la programación en Java, incluyendo sintaxis, estructuras básicas y lógica de programación.
+• He usado el curso Microservicios con Spring Boot, Cloud y Docker para desarrollar y desplegar arquitecturas de microservicios utilizando Spring Boot y contenedores Docker.
+• He usado el curso Oracle WebLogic 12c for Administrators para administrar y configurar el servidor de aplicaciones Oracle WebLogic en entornos empresariales.
+• He usado el curso Python and Flask Bootcamp para crear aplicaciones web utilizando Python y el framework Flask.
+• He usado el curso Python Programming: The Complete Python Bootcamp 2023 para aprender Python desde nivel básico hasta avanzado y desarrollar aplicaciones prácticas.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Analizo exhaustivamente incidencias en iOS y Android utilizando Swift y Kotlin respectivamente.
+• Realizo análisis desde la raíz hasta la identificación de microservicios involucrados.
+• Gestiono la información y su tratamiento en los lenguajes de programación mencionados.
+• Investigo la causa raíz para proporcionar la mejor solución posible a los problemas.
+• Documento de forma detallada cada paso del proceso, desde la llegada de la incidencia hasta su lanzamiento a producción, usando Google Cloud (Plataforma cloud para desarrollo e infraestructura) para logs y Firebase para pruebas.
+• Valido procesos mediante checkmarks y SonarQube.
+• Gestiono tableros en Microsoft Azure (Plataforma cloud para desarrollo e infraestructura) y repositorios de ramas en Microsoft Azure (Plataforma cloud para desarrollo e infraestructura).
+• Lideré procesos de migración tecnológica: microservicios a Java (Lenguaje de programación para desarrollo de aplicaciones) Spring Boot, portales de Node.js a Angular (Framework frontend para aplicaciones SPA) y aplicaciones móviles de Java (Lenguaje de programación para desarrollo de aplicaciones) a Kotlin (Android) y de C++ a Swift (iOS).
+• Lideré la migración de servicios y microservicios de entornos físicos a la nube (Google Cloud (Plataforma cloud para desarrollo e infraestructura)).
+• Implementé arquitectura hexagonal y desarrollé servicios en Go.
+• Realicé optimizaciones en base de datos, reduciendo tiempos de consulta y mejorando el rendimiento.
+• Refactoricé código para reducir complejidad cognitiva y deuda técnica, y definí estándares y documentación técnica para asegurar trazabilidad.
+• Mantenimiento, optimización y adaptación de aplicaciones Android para diversas versiones, incluyendo la actualización para Android 13.
+• Mejoré visualmente interfaces para ofrecer una experiencia de usuario más atractiva y efectiva.
+• Integré con Firebase (Realtime Database, Storage) para fortalecer la funcionalidad de las aplicaciones.
+• Implementé un chatbot para facilitar compras y mejorar la interacción con usuarios.
+• Diseñé y ejecuté un onboarding dinámico para aumentar la adopción de nuevas funcionalidades.
+• Realicé seguimiento y reporte de avances en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).
+• Consumí APIs externas para enriquecer funcionalidades de la aplicación.
+• Estructuré y mapeé datos para un flujo de información fluido.
+• Implementé funciones de consumo dinámico y control remoto para aumentar la flexibilidad de las aplicaciones.
+• Lideré la actualización de aplicaciones para Android 13 asegurando compatibilidad y funcionalidad.
+• Mejoré interfaces resultando en mayor retención de usuarios y satisfacción.
+• Implementé integración con Firebase aprovechando Realtime Database y Storage.
+• Diseñé e implementé un chatbot que facilitó compras y aumentó la interacción con usuarios.
+• Diseñé e implementé onboarding dinámico que aumentó la adopción de funcionalidades.
+Empresa
+Grupo Xcaret | Puesto
+Software Engineer | Desde:
+1 marzo 2023 | Hasta: 
+25 septiembre 2023
+Actividades Principales | • Mantenimiento, optimización y adaptación de aplicaciones Android para diversas versiones, incluyendo la actualización para Android 13.
+• Mejoré visualmente interfaces para ofrecer una experiencia de usuario más atractiva y efectiva.
+• Integré con Firebase (Realtime Database, Storage) para fortalecer la funcionalidad de las aplicaciones.
+• Implementé un chatbot para facilitar compras y mejorar la interacción con usuarios.
+• Diseñé y ejecuté un onboarding dinámico para aumentar la adopción de nuevas funcionalidades.
+• Realicé seguimiento y reporte de avances en Jira (Herramienta de gestión ágil y seguimiento de issues/sprints).
+• Consumí APIs externas para enriquecer funcionalidades de la aplicación.
+• Estructuré y mapeé datos para un flujo de información fluido.
+• Implementé funciones de consumo dinámico y control remoto para aumentar la flexibilidad de las aplicaciones.
+• Lideré la actualización de aplicaciones para Android 13 asegurando compatibilidad y funcionalidad.
+• Mejoré interfaces resultando en mayor retención de usuarios y satisfacción.
+• Implementé integración con Firebase aprovechando Realtime Database y Storage.
+• Diseñé e implementé un chatbot que facilitó compras y aumentó la interacción con usuarios.
+• Diseñé e implementé onboarding dinámico que aumentó la adopción de funcionalidades.
+HERRAMIENTAS CONOCIDAS
+- Android Kotlin
+- Android
+- iOS Swift
+- PostgreSQL
+- PostMan
+- SonarQube
+- GCP SysOps
+- FireBase
+- Google Cloud
+- Spring BOOT
+- Node.js
+- Angular JS
+- GO/Golang
+- Azure DevOps
+- Docker
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 septiembre de 2019 hasta 28 febrero de 2023
+Durante este período asumí responsabilidades como Application Maintenance Engineer, Application Maintenance Engineer (L3) y Engineer (L3). Me encargué del mantenimiento y soporte de aplicaciones móviles y sistemas de retail, análisis y resolución de incidencias en entornos productivos, implementación de actualizaciones y pruebas, integración con servicios en la nube y soporte a usuarios y sucursales. Trabajé con metodologías ágiles y herramientas de gestión para asegurar la continuidad operativa y la entrega de soluciones estables.
+FORMACIÓN ACADÉMICA:
+Ingeniería - 1 septiembre 2015 a 31 julio 2019 | Universidad Tecnológica de Izúcar de Matamoros, Puebla | Cédula Profesional
+CURSOS
+- Java Programming for Complete Beginners
+- Microservicios con Spring Boot, Cloud y Docker
+- Oracle WebLogic 12c for Administrators
+- Python and Flask Bootcamp: Create Websites using Flask!
+- Python Programming: The Complete Python Bootcamp 2023
+______________________________________
+Gustavo Alexis Guevara Montellano
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

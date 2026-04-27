@@ -1,0 +1,316 @@
+Miguel Angel Oros Hernández
+PERFIL
+Conocimientos avanzados en bases de datos, desarrollo de software, almacén de datos (data warehouse), modelado dimensional relacional.
+Ha fungido como ingeniero, analista, modelador y arquitecto de datos.
+Profesional con certificaciones con más de 25 años de experiencia en la gestión y desarrollo de aplicaciones.
+Líder de proyectos y desarrollador de aplicaciones de Inteligencia de Negocio, así como en procesos ETL.
+Experiencia y desarrollo con Power Automate, Python y Streamlit para automatizar la administración de Tableau y de Power BI.
+Certificaciones: Neo4j Certified Professional with different Neo4j courses, Microsoft Certified (Azure AI Fundamentals and Azure Fundamentals), Certified Data Management Profesional.
+Más de 20 años trabajando con equipo de desarrollo de bases de datos utilizando MS SQL Server, Sybase, Informix y Oracle.
+Más de 9 años trabajando con Power BI y QlikView, SQL Server Integration Services, SQL Server, Data Stage.
+Experiencia con: Aprendizaje automático, BigQuery, Azure SQL Database, Azure Blob Storage, Azure Synapse Analytics, Data Factory, Streamlit, AWS Secret Manager, AWS Lambda Function, MongoDB, Tableau Administration, DataStage, and QlikSense entre otras herramientas.
+Maestría y Doctorado en Informática obtenidos en Francia.
+Idiomas: Francés (Fluído), Español (Nativo) e Inglés (Intermedio Alto).
+EXPERIENCIA PROFESIONAL
+Softtek	Ciudad de México ­ Miembro del Equipo de Soporte/Consultor BI Sr	Desde: Mar 2020 – A la fecha actual
+Descripción:
+Asignado a clientes en USA y en modalidad remota.
+El cliente actual requiere la utilización de Qlik Sense, Qlik Management Console, SQL Server.
+Con otro de los clientes fui encargado de la implementación, mejora y mantenimiento de tableros y reportes realizados con Power BI.
+Participación en la administración de los sitios Power BI and Tableau utilizando Python, Power Automate y Streamlit.
+También con fueron optimizadas expresiones SQL, así como las operaciones de refrescado de aplicaciones Power BI.
+Con un tercer cliente, se trabajó con la solución de incidentes de tableros QlikView. Con este cliente se utilizó la técnica de linked tabla para QlikView.
+De acuerdo a las necesidades del cliente, se participó en la elaboración de propuestas, diseño, implementación utilizando Qlik View, Power BI.
+Herramientas/Habilidades:
+Microsoft SQL Server, Microsoft SQL Server Integration Services (SSIS), Microsoft SQL Server Analysis Sevices, Microsoft SQL (T­SQL), JIRA, Confluence, QlikView, Oracle Database, MS Excel, MS Word, Microsoft Power BI, MS Teams, MS PowerPoint, MS Power Automation, Scrum, .NET Core Framework
+Equal ­ Plus	Guadalajara ­ Consultor BI Sr	Desde: Nov 2019 – A: Dic 2019
+Descripción:
+Atención a los requerimientos a ser implementados, publicados. Los tableros y reportes generados fueron incluidos en interfaces Web para el Grupo Polesa (https://www.grupopolesa.com.mx/) y Tappinc (https://www.tappinc.com/).
+Desarrollo de algunas tareas ETL utilizando SQL Server Integration Servces.
+Herramientas/Habilidades:
+Microsoft SQL (T­SQL), Microsoft SQL Server Integration Services (SSIS), Microsoft SQL Management Studio (SSMS), MS PowerPoint, Microsoft Power BI, MS Excel, MS Word
+Nubaj IT & Consultant	Ciudad de México ­ Consultor BI Sr / Arquitecto BI	Desde: Dic 2015 – A: Nov 2019
+Descripción:
+En los diferentes proyectos en los cuales participé fueron asumidos los roles:
+Administración de Proyecto de Inteligencia de Negocios.
+Arquitecto de Inteligencia de Negocios / Líder de Gobierno de Datos.
+Evaluador de herramientas de Inteligencia de Negocio.
+Modelador de datos.
+Diseñador de la Arquitectura.
+Perfilador de Datos y tareas de mapeo.
+Diseñador e implementador de los procesos ETL.
+Herramientas/Habilidades:
+QlikView, Microsoft Integration Services, Microsoft Power BI, Microsoft SQL Management Studio (SSMS), Microsoft SQL (T­SQL), Informix, MS Word, MS Excel, MS PowerPoint, MS Project, VBScript, Erwin
+Latbc	Ciudad de México ­ Consultor BI Sr	De: Ene 2015 – A: Mar 2016
+Descripción:
+Administración de Proyecto de Inteligencia de Negocios.
+Arquitecto de Inteligencia de Negocios / Líder de Gobierno de Datos.
+Evaluador de herramientas de Inteligencia de Negocio.
+Modelador de datos.
+Diseñador de la Arquitectura.
+Perfilador de Datos y tareas de mapeo.
+Diseñador e implementador de los procesos ETL.
+Herramientas/Habilidades
+QlikView, VBScript, MS Word, MS PowerPoint, MS Excel, FI for SAP S/4 HANA, CO for SAP S/4 HANA
+ITESM Campus Guadalajara	Guadalajara ­ Profesor de Cátedra	De: Ago 2014 – A: Dic 2014
+Descripción:
+Cursos a estudiantes de maestría.
+Jurado de tesis de maestría.
+Herramientas/Habilidades
+Microsoft SQL Server, Microsoft SQL (T­SQL), Microsoft SQL Management Studio (SSMS), QlikView, CouchDB
+Knowtion, S. A. de C. V.	Ciudad de México ­ DBA e Ingeniero de Desarrollo	De: Oct 2012 – A: Oct 2014
+Descripción:
+DBA.
+Modelado Relacional y Dimensional.
+Participación en el desarrollo para la aplicación basada en el expediente clínico electrónico.
+Herramientas/Habilidades
+Microsoft Integration Services, Microsoft SQL Server Analysis Sevices, Microsoft SQL Server Reporting Services, QlikView, Microsoft SQL
+Management Studio (SSMS), Microsoft SQL (T­SQL), Microsoft SQL Server, MS Word, MS Excel, MS PowerPoint, JIRA, .NET Framework 3.5
+(and above), C#, Scrum, GitHub
+UNITEC Campus Iztapalapa	Ciudad de México ­ Profesor de Cátedra	De: Oct 2012 – A: Oct 2013
+Descripción:
+Cursos dirigidos a estudiantes de maestría. Estos cursos estaban asociados a la Migración de Sistemas, así como a la Auditoría de Sistemas.
+Herramientas/Habilidades:
+Microsoft SQL (T­SQL), Microsoft SQL Management Studio (SSMS), MS PowerPoint, Microsoft Power BI, MS Excel, MS Word.
+Grupo Logos	Ciudad de México ­ Arquitecto de Sistemas	De: Ene 2012 – A: Oct 2012
+Descripción:
+Administración y desarrollo de proyectos informáticos.
+Modelado Relacional.
+Impartición de cursos de capacitación a equipos de desarrollo.
+Herramientas/Habilidades:
+MS Word, MS Excel, MS PowerPoint, MS Project, Genexus, Microsoft SQL Server, Microsoft SQL Management Studio (SSMS), Erwin.
+UNITEC Campus Marina	Ciudad de México ­ Profesor de Cátedra	De: Ago 2006 – A: Oct 2011
+Descripción:
+Cursos dirigidos a estudiantes de maestría.
+Jurado de tesis de maestría.
+Herramientas/Habilidades:
+QlikView, IBM InfoSphere Datastage, WhiteLight, MS Word, MS Excel, MS PowerPoint.
+ITESM CCM	Ciudad de México ­ Profesor de Cátedra	De: Ago 1999 – A: Oct 2017
+Descripción:
+Cursos dirigidos a estudiantes de maestría e ingeniería asociados a bases de datos, bases de datos analíticas, bases de datos distribuidas, arquitectura de software, inteligencia de negocio.
+Herramientas/Habilidades
+MS Word, MS Excel, MS PowerPoint, QlikView, Microsoft SQL Server, Microsoft SQL Management Studio (SSMS), CouchDB.
+Banco de México (Banxico)	Ciudad de México ­ Líder de Proyectos / Investigador de Sistemas	De: Jun 1998 – A: Dic 2011
+Descripción:
+Administración y desarrolllo de aplicaciones OLAP y OLTP para proyectos estadísticos, finanzas y económicos.
+Investigación de Sistemas.
+Análisis, diseño, desarrollo, implantación y mantenimiento del nuevo sistema para el cálculo del índice de precios al consumidor (INPC). Los índices derivados son utilizados para la inflación, así como otros indicadores económicos.
+Transferencia del Sistema al INEGI
+Análisis, diseño, desarrollo, implantación y mantenimiento de dos datamarts relacionados con el comercio exterior y la actividad económica.
+Encargado de la administración del proyecto Año 2000 (Y2K) para la Dirección General de Investigación Económica.
+Herramientas/Habilidades
+Delphi, Java 8, IBM InfoSphere Datastage, Oracle Database, SYBASE, Oracle Discoverer, WhiteLight, Erwin, MS Word, MS Excel, MS PowerPoint, Microsoft Analysis Services, Rational Unified Process (RUP), MS Project, Pascal
+Universidad de las Américas ­ Puebla	Cholula, Puebla ­ Profesor e Investigador	De: Ene 1996 –: Jun 1998
+Descripción:
+Impartición de diferentes cursos para estudiantes de ingeniería y maestría.
+Investigación en Sistemas.
+Director y Jurado de Tesis a nivel ingeniería y maestría.
+Promociones basadas en el desempeño académico y de investigación: Profesor Asistente Nivel III, Profesor Asociado Nivel I y Profesor Asociados Nivel II.
+Miembro del Sistema Nacional de Investigador (nivel candidato).
+Herramientas/Habilidades
+Assembler, Oracle Discoverer, Lisp, Prolog, MS PowerPoint, MS Excel, MS Word, MS Project, DBase, Fox. PCs y Equipos VAX.
+Université de Bordeaux - 1	Talence, Gironde, France ­ Profesor e Investigador Asistente (ATER)	De: Sep 1994 – A: Ago 1995
+Descripción:
+Cursos diirigidos a estudiantes de maestría.
+Investigación en informática.
+Herramientas/Habilidades
+MS Word, MS PowerPoint, MS Excel, Lisp, C/C++, Prolog, DataLog
+Université de Bordeaux - 1	Talence, Gironde, France ­ Profesor Asistente (Moniteur)	De: Sep 1992 – A: Ago 1994
+Descripción:
+Cursos dirigidos a estudiantes de maestría.
+Herramientas/Habilidades
+MS Word, MS PowerPoint, MS Excel, Lisp, Prolog, DataLog
+Periódico Ovaciones	Ciudad de México ­ Analista de Sistemas	De: Feb 1989 – A: Sep 1989
+Descripción:
+Análisis, diseño y Desarrollo de aplicaciones para la Dirección.
+Soporte Técnico.
+Este trabajo me permitió perfeccionar mi nivel en Francés en el IFAL y proseguir mis estudios de posgrado en Francia.
+Herramientas/Habilidades
+MS Word, MS PowerPoint, MS Excel, Lisp, Prolog, DataLog
+This work allowed me to study French before leaving for France to do my postgraduate studies.
+Herramientas/Habilidades
+Basic, Dbase, MS Excel, MS Word, Clipper
+Volkswagen de México	Puebla ­ System Programmer
+Descripción: | De: Ene, 1988 – A: Ene, 1989
+Soporte Técnico
+Selección y Evaluación de Software.
+Desarrollo de Software.
+Actividades de capacitación a empleados.
+Herramientas/Habilidades
+MS Word, MS Excel, DOS, Dbase, Clipper, MS Visual Basic 3, Assembler, Framework.
+Universidad de las Américas – Puebla	Cholula, Puebla – Coordinador de Servicios Académicos	De: Ene 1987 – A: Dic 1987
+Descripción
+Soporte Técnico a profesores y empleados de la UDLAP.
+Herramientas/Habilidades
+MS Word, MS Excel, MS PowerPoint, MS Project, Dbase, Clipper, Assembler, Prolog, Pascal, Lisp. PCs y Equipos VAX.
+Universidad de las Américas – Puebla	Cholula, Puebla – Coordinador de Servicios Académicos	De: Ene 1987 – A: Dic 1988
+Descripción:
+Cursos de computación a estudiantes de ingeniería.
+Herramientas/Habilidades
+MS Word, MS Excel, MS PowerPoint, Lotus, Framework, Assembler, Pascal.
+EXPERIENCIA PROFESIONAL
+ßConsultec	Ciudad de México
+Diploma de Administración de Proyectos | De: Sep 2004 – A: Dic 2004
+University of Bordeaux ­ 1	Talence, France | De: Sep 1991 – A: Dic 1995
+Doctorat en Informatique
+Tesis Doctoral: “Conception, Implantation et optimisation d’un langage à objets logiques” (Design, Implementation and Optimization of a Logical Objects Language). (in CAT.INIST del CNRS [Centre National de la Recherche Scientifique]), LaBRI, Université de Bordeaux­1, Talence, France.
+Mención: Très Honorable.
+Université de Technologie de Compiègne	Compiègne, France	De: Sep, 1990 – A: Sep, 1991
+DEA en Contrôle des Systèmes ­
+Equivalencia a una Maestría en Ciencias
+Tesis: “Les extensions de la programmation logique vers les contraintes, la negation et les objets” (Extensions to the Logic Programming based on constraints, negation and objects).
+Universidad de las Américas ­ Puebla
+Ingeniería en Sistemas Computacionales | Cholula, Puebla | De: Ago 1986 – A: Dic 1986
+Mención Honorífica.
+Estudios gracias a la Fundación Mary Street Jenkins.
+DESARROLLO PROFESIONAL
+Certification: Neo4j Certified Professional Course: Importing CSV data into Neo4j
+Course: Cypher Indexes and Constraints Course: Cypher Aggregations
+Course: Intermediate Cypher Queries
+Course: Graph Data Modeling Fundamentals
+Course: Cypher Fundamentals
+Course: Neo4j Fundamentals
+Certification: Microsoft Certified: Azure Data Fundamentals
+Certification: Microsoft Certified: Azure AI Fundamentals
+Certification: Certified Data Management Professional
+Certification: QlikView Business Analyst
+Certification: Scrum Master Certified Credential
+IDIOMAS
+Inglés
+Español
+Francés
+HABILIDADES TÉCNICAS Y DE GESTIÓN | Neo4j
+Neo4j
+Neo4j
+Neo4j
+Neo4j
+Neo4j
+Neo4j
+Neo4j GraphAcademy | Neo4j
+Neo4j
+Neo4j
+Neo4j
+Neo4j
+Neo4j
+Neo4j
+Neo4j GraphAcademy | Nov, 2023
+Nov, 2023 Oct, 2023
+Oct, 2023
+Oct, 2023
+Sep, 2023
+Sep, 2023
+Sep, 2023
+Feb, 2023
+Nov, 2022
+Feb, 2019
+Oct, 2017
+Sep, 2016
+Intermedio Alto: 51­79%
+Nativo
+Fluido: 96–100%
+Certification: Neo4j Certified Professional Course: Importing CSV data into Neo4j
+Course: Cypher Indexes and Constraints Course: Cypher Aggregations
+Course: Intermediate Cypher Queries
+Course: Graph Data Modeling Fundamentals
+Course: Cypher Fundamentals
+Course: Neo4j Fundamentals
+Certification: Microsoft Certified: Azure Data Fundamentals
+Certification: Microsoft Certified: Azure AI Fundamentals
+Certification: Certified Data Management Professional
+Certification: QlikView Business Analyst
+Certification: Scrum Master Certified Credential
+IDIOMAS
+Inglés
+Español
+Francés
+HABILIDADES TÉCNICAS Y DE GESTIÓN | Microsoft
+Microsoft
+DAMA International
+Qlik
+SCRUMstudy | Nov, 2023
+Nov, 2023 Oct, 2023
+Oct, 2023
+Oct, 2023
+Sep, 2023
+Sep, 2023
+Sep, 2023
+Feb, 2023
+Nov, 2022
+Feb, 2019
+Oct, 2017
+Sep, 2016
+Intermedio Alto: 51­79%
+Nativo
+Fluido: 96–100%
+WhiteLight | Master (+8 Años)
+VSCode | Proficient (2­4 Años)
+VBScript | Senior (4­6 Años)
+SYBASE | Expert (6­8 Años)
+Streamlit | Junior (1­2 Años)
+Scrum | Senior (4­6 Años)
+Rational Unified Process (RUP) | Proficient (2­4 Años)
+QlikView | Expert (6­8 Años)
+QlikSense | Proficient (2­4 Años)
+Prolog | Expert (6­8 Años)
+Pascal | Senior (4­6 Años)
+Oracle Discoverer | Trainee (0­1 Años)
+Oracle Database | Senior (4­6 Años)
+Neo4j | Junior (1­2 Años)
+MS Word | Expert (6­8 Años)
+MS Visual Basic 3	 	Proficient (2­4 Años)
+MS Teams	 	Senior (4­6 Años)
+MS Project	 	Senior (4­6 Años)
+MS PowerPoint	 	Master (+8 Años)
+MS Power Automation	 	Proficient (2­4 Años)
+MS Excel	 	Expert (6­8 Años)
+MS Azure Cosmos DB	 	Trainee (0­1 Años)
+MongoDB	 	Junior (1­2 Años)
+Microsoft SQL Server Reporting Services	 	Proficient (2­4 Años)
+Microsoft SQL Server Integration Services (SSIS)	 	Senior (4­6 Años)
+Microsoft SQL Server Analysis Services	 	Senior (4­6 Años)
+Microsoft SQL Server	 	Master (+8 Años)
+Microsoft SQL Management Studio (SSMS)	 	Master (+8 Años)
+Microsoft SQL (T­SQL)	 	Master (+8 Años)
+Microsoft Power BI	 	Expert (6­8 Años)
+Microsoft Integration Services	 	Expert (6­8 Años)
+Microsoft Analysis Services	 	Proficient (2­4 Años)
+Lotus	 	Junior (1­2 Años)
+Looker	 	Junior (1­2 Años)
+Lisp	 	Senior (4­6 Años)
+JIRA	 	Proficient (2­4 Años)
+Java 8	 	Proficient (2­4 Años)
+Informix	 	Junior (1­2 Años)
+IBM InfoSphere Datastage	 	Senior (4­6 Años)
+GraphQL	 	Junior (1­2 Años)
+Google Machine Learning Fundamentals	 	Junior (1­2 Años)
+Google Cloud	 	Junior (1­2 Años)
+Google	 	Junior (1­2 Años)
+GitHub	 	Proficient (2­4 Años)
+Genexus	 	Proficient (2­4 Años)
+Framework	 	Proficient (2­4 Años)
+Fox	 	Senior (4­6 Años)
+FI for SAP S/4 HANA	 	Junior (1­2 Años)
+Erwin	 	Master (+8 Años)
+DOS	 	Senior (4­6 Años)
+Delphi	 	Senior (4­6 Años)
+Dbase	 	Senior (4­6 Años)
+DataLog	 	Senior (4­6 Años)
+Data Factory	 	Junior (1­2 Años)
+CouchDB	 	Junior (1­2 Años)
+Confluence	 	Proficient (2­4 Años)
+CO for SAP S/4 HANA	 	Junior (1­2 Años)
+Clipper	 	Senior (4­6 Años)
+C/C++	 	Junior (1­2 Años)
+C#	 	Junior (1­2 Años)
+Basic	 	Expert (6­8 Años)
+Azure Synapse Analytics	 									           Junior (1­2 Años)
+Azure Storage	 	                                                                                                                                                          Junior (1­2 Años)
+Azure Machine Learning	 	Junior (1­2 Años)
+Azure Active Directory	 	Junior (1­2 Años)
+AWS Secrets Manager	 	Junior (1­2 Años)
+AWS S3	 	Junior (1­2 Años)
+AWS Lambda	 	Junior (1­2 Años)
+Assembler	                                                                                                                                                                          Junior (1­2 Años)
+Airflow	                                                                                                                                                                                        Trainee (0­1 Años)
+.NET Framework 3.5 (and above)	 	Junior (1­2 Años)
+.NET Core Framework	 	Junior (1­2 Años)

@@ -1,0 +1,211 @@
+{
+  "capacidadRecursosHumanos": {
+    "experiencia": [
+      {
+        "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 2 años de experiencia en pruebas de software de preferencia en proyectos/servicios grandes o críticos?",
+        "detalle": "Para el rol del Tester\nAl menos 2 años de experiencia en pruebas de software",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV evidencia que el candidato planifica, diseña y ejecuta pruebas para verificar el cumplimiento de los requerimientos funcionales y la liberación “sin fallas”, utilizando una matriz de pruebas/resultado (RDP- Matriz de trazabilidad) que asegure la trazabilidad (requisito → caso → resultado → evidencia) del software construido?",
+        "detalle": "Supervisar que se cumplan los requerimientos funcionales establecidos para el producto y que el mismo esté libre de fallas, por medio de la planeación y ejecución de las pruebas a través de una matriz que permita de manera particular probar el software construido (RDP).\nHabilidades en:\nHabilidades técnicas en metodologías de pruebas\nPensamiento Lógico\nHabilidades de comunicación\nAtención al detalle\nAdaptabilidad y flexibilidad",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha construido Plan de Pruebas y Matriz de Trazabilidad (requisito→caso→resultado)?",
+        "detalle": "Plan + Matriz",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha elaborado Casos de prueba detallados con pasos, datos, precondiciones, postcondiciones y criterios de aceptación?",
+        "detalle": "Casos de prueba",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha ejecutado funcionales/integ./regresión/desempeño con reportes y métricas?",
+        "detalle": "Reportes + KPIs",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha preparado evidencias (capturas, logs, actas) para carpetas y dictamen?",
+        "detalle": "Evidencias + check",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Ha soportado UAT con usuarios y registrado resultados/VoBo?",
+        "detalle": "Actas/VoBo",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La experiencia suma ≥2 años en pruebas de software?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La cronología de periodos laborales suma al menos los 2 años requeridos?",
+        "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+        "detalle": "Fechas correctas en el periodo de experiencia:\nLa fecha \"Desde\", debe ser un mes posterior a la última fecha \"Hasta\", los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+        "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV documenta muestra experiencia en habilidades en:\nHabilidades técnicas en metodologías de pruebas\nPensamiento Lógico\nHabilidades de comunicación\nAtención al detalle\nAdaptabilidad y flexibilidad?",
+        "detalle": "",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV presenta numeralia (número de casos de prueba diseñados/ejecutados, tipos de pruebas realizadas, ciclos o iteraciones completadas, cantidad de defectos detectados/corregidos, severidades manejadas, porcentaje de cobertura, herramientas de pruebas utilizadas, ambientes validados y participación en UAT) que permita contextualizar el alcance y complejidad de las actividades de pruebas que ha realizado?",
+        "detalle": "• Nº casos de prueba diseñados/ejecutados • Tipos de prueba: funcional, integración, regresión, UAT, desempeño • Nº de ciclos/iteraciones validados • Nº de defectos detectados y cerrados, incluyendo severidades (B/C/A/M/B) • % de cobertura de pruebas • Herramientas usadas (GitLab issues, matrices, SonarQube para SAST, DAST, etc.) • Ambientes validados (INT/UAT/Pre-PROD)",
+        "resultado": ""
+      }
+    ],
+    "competencia": [
+      {
+        "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+        "detalle": "Acreditar la competencia señalada\nEstudios nivel superior acreditable de nivel licenciatura o ingeniería",
+        "resultado": ""
+      }
+    ],
+    "herramientas": [
+      {
+        "concepto": "¿El candidato cuenta con certificaciones requeridas?",
+        "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+        "resultado": ""
+      }
+    ]
+  },
+ "certificaciones": [
+      {
+        "concepto": "¿El candidato cuenta con los documentos que acrediten la o las certificaciones?",
+        "detalle": "Evidencias escaneadas digitalizadas.\nCoincidencia en nombre entre CV y documentos\nSAT cotejará validez con las instituciones certificadoras\nCopia simple, digitalizada preferentemente a color, con información clara y legible de los documentos que acrediten la(s) certificación(es) vigente(s)\nCertificaciones deben permanecer vigentes durante toda la vigencia del contrato",
+        "resultado": ""
+      },
+      {
+        "concepto": "La certificación 1 es legible y vigente",
+        "detalle": "El documento oficial de cada certificado está en el repositorio\nEspecificar ¿cuál es?",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Las fechas de emisión y expiración está claramente indicadas?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El nombre coincide exactamente con el CV y la identificación?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La certificación fue verificada en el registro oficial de la entidad emisora (cuando aplique)?",
+        "detalle": "Se hizo la consulta en la entidad oficial",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La certificación tendrá vigencia durante toda la vida del contrato (o existe plan de renovación documentado)?",
+        "detalle": "A partir de que inicie son 24 meses = 731 días naturales",
+        "resultado": ""
+      }
+    ],
+     "cursos": [
+      {
+        "concepto": "¿Las constancias de cursos están digitalizadas, con nombre coincidente y listas para cotejo?",
+        "detalle": "Evidencias escaneadas digitalizadas.\nCoincidencia en nombre entre CV y documentos\nSAT podra cotejar validez con las instituciones que imparten los cursos ",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El candidato adjunta constancia de OTROS cursos ?",
+        "detalle": "Especificar cuál",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La fecha de emisión del curso está registrada?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El nombre en la constancia del curso coincide con el CV?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Se adjunta la constancia digitalizada del curso?",
+        "detalle": "Preferentemente a color",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿La constancia está en español o incluye traducción simple?",
+        "detalle": "En caso de que no, incluir la traducción simple",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV o la constancia especifican el nivel del curso (básico/intermedio/avanzado)?",
+        "detalle": "",
+        "resultado": ""
+      }
+    ],
+    "dominioHerramientas": [
+      {
+        "concepto": "¿El CV evidencia dominio de herramientas para elaborar el Plan de Pruebas (plantilla institucional, criterios de entrada/salida, riesgos, alcance)?",
+        "detalle": "Plan de Pruebas real; plantilla institucional; criterios definidos",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Utiliza herramientas para construir casos de prueba detallados (pasos, datos, precondiciones, criterios de aceptación)?",
+        "detalle": "Casos de prueba documentados; plantillas oficiales",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Utiliza una Matriz de Trazabilidad (requisito→caso→resultado→evidencia) o RDP para seguimiento integral de pruebas?",
+        "detalle": "Matriz completa; vínculos a requisitos y resultados",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Utiliza herramientas para la ejecución y registro de resultados de pruebas (RPFU, planillas, sistemas de defectos)?",
+        "detalle": "Evidencia de ejecución; planilla RPFU o sistema equivalente",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Registra y da seguimiento a defectos en herramientas institucionales (GitLab issues, MSSAT, o equivalente)?",
+        "detalle": "Issues, estados, severidades, historial de correcciones",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Utiliza herramientas para la clasificación de defectos por severidad (Bloqueante, Crítica, Alta, etc.) y cierre con evidencia?",
+        "detalle": "Lista de defectos; clasificación; capturas de cierre",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Emplea herramientas para soportar UAT (listas, matrices, registro de hallazgos, VoBo del usuario)?",
+        "detalle": "Actas UAT; resultados; VoBo usuario",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Utiliza tableros o reportes (Excel, BI, QA dashboards) para consolidar KPIs de pruebas (casos ejecutados, defectos, cobertura)?",
+        "detalle": "Dashboard/Excel con KPIs; reportes mensuales",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿Integra todas las evidencias de pruebas en la Carpeta mensual para dictamen (Plan, Matriz, RPFU, defectos, VoBo, SAST/DAST)?",
+        "detalle": "Carpeta del mes; checklist; acuse de entrega",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      },
+      {
+        "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+        "detalle": "Esta clara en el CV",
+        "resultado": ""
+      }
+    ]
+}

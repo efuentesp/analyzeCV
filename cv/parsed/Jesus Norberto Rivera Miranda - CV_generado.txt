@@ -1,0 +1,87 @@
+Jesus Norberto Rivera Miranda
+Desarrollador de atención de incidentes
+EXPERIENCIA PROFESIONAL
+Poseo más de 3 años de experiencia en centros de desarrollo de software. Manejo tecnologías de referencia de arquitectura y herramientas de codigo abierto. Produzco y mantengo el codigo necesario para cumplir las especificaciones tecnicas, ejecutando el proceso de desarrollo conforme a lo acordado y ajustandome a los estandares, la arquitectura y los frameworks establecidos, garantizando calidad y cumplimiento de tiempos.
+
+Tengo experiencia en desarrollo y mantenimiento de aplicaciones web, atencion y resolucion de incidencias en entornos productivos y soporte de segundo y tercer nivel. He trabajado con PHP (Lenguaje de desarrollo web), Java (Lenguaje de programación para desarrollo de aplicaciones) y Coldfusion, gestionando bases de datos como Informix, SQL Server (Motor de base de datos para consultas y validaciones) y MySQL, y realizando pruebas con usuarios, migraciones y actualizaciones de entornos.
+EXPERIENCIA LABORAL
+Empresa
+SOFTTEK S.A. de C.V. (Mitika) | Puesto
+Ingeniero de sistemas | Desde:
+1 diciembre 2021 | Hasta: 
+A la fecha
+Actividades Principales | • Mantengo y doy soporte a los aplicativos, dominando diversos lenguajes de programación; tengo habilidades en resolución de problemas, versionamiento de código (Git) y en el desarrollo de servicios y aplicaciones web (frontend y backend).
+• Diseño, codifico y realizo pruebas unitarias de componentes a partir de las especificaciones técnicas.
+• Utilizo e implemento adecuadamente el framework, subsistemas de soporte y componentes reutilizables establecidos por la arquitectura, incluyendo aspectos de seguridad de la información.
+• Valido que las especificaciones técnicas estén completas y correctas antes de su implementación.
+• Cumplo con los tiempos, esfuerzo y calidad de acuerdo con los compromisos del proyecto, recolectando las métricas correspondientes.
+• Identifico y escalo issues y riesgos detectados durante el desarrollo.
+• Acato los lineamientos y acuerdos del proyecto y de la organización (acuerdos de negocio, políticas, horarios, registro de horas, estándares y cumplimiento de planes).
+• Cuento con experiencia en la atención de incidentes técnicos en entornos productivos.
+• Analizo técnicamente y corrijo incidencias mediante bugfix, hotfix y parches en aplicaciones productivas.
+• Reproduzco incidentes en ambientes controlados para su diagnóstico y solución.
+• Participo directamente en la resolución de incidentes clasificados por severidad o prioridad.
+• Realizo validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente.
+• Participo en despliegues correctivos o liberaciones urgentes derivadas de incidentes, como hotfix y parches.
+• Colaboro con equipos de soporte, Aseguramiento de la Calidad (QA) y usuarios técnicos durante la atención de incidentes.
+• Documento la solución técnica aplicada y contribuyo a la mejora continua mediante lecciones aprendidas y bases de conocimiento.
+• Cuento con profundos conocimientos y experiencia que me permiten resolver problemas complejos mediante el uso de soluciones existentes, aplicando mejores prácticas en todo momento. Identifico, notifico y prevengo riesgos potenciales que puedan afectar los resultados esperados; además, pruebo soluciones y genero evidencias en la gestión de incidentes. Trabajo de manera autónoma con un nivel mínimo de supervisión y soy capaz de cumplir con los tiempos comprometidos, manteniendo un alto nivel de especialización (80%).
+• He usado la certificación Scrum Foundation Professional Certification (SFPC™) – CertiProf como marco ágil para la gestión de proyectos.
+• He obtenido la certificación Lean Six Sigma White Belt, que valida conocimientos básicos sobre mejora continua, eficiencia de procesos y reducción de desperdicios.
+• He usado la certificación Foundational C# with Microsoft para reforzar y aplicar conocimientos en C# (Lenguaje de programación para desarrollo backend).
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+CIS: Elaboro la especificación detallada de componentes.
+CTR: Realizo la construcción de componentes.
+DOC: Genero la documentación técnica.
+• Desarrollo y mantengo código PHP.
+• Dirijo y opero soporte técnico de aplicaciones web.
+• Utilizo herramientas Checkmarx para identificar vulnerabilidades en el código.
+• Migro aplicaciones entre diferentes lenguajes de programación.
+• Ejecuto pruebas en ambiente de test y de calidad con el usuario.
+• Brindo soporte de segundo y tercer nivel.
+• Realizo desarrollo, mantenimiento y soporte de código en PHP, Java y Coldfusion.
+• Realizo desarrollo, mantenimiento y soporte de bases de datos Informix y SQL Server.
+• Desarrollo y mantenimiento de código Java.
+• Actualizo aplicaciones en servidores WAS de la versión 8 a la 9.
+• Utilizo la herramienta SONAR para promover buenas prácticas de código.
+• Actualizo versiones de código CSS cuando es requerido.
+• Analizo bases de datos MySQL: configuro accesos y analizo la estructura de datos.
+• Analizo y actualizo Store Procedures para adecuarlos a la estructura de datos.
+Empresa
+TOWA SOFTWARE S.A. de C.V. | Puesto
+Ingeniero de desarrollo java | Desde:
+2 mayo 2021 | Hasta: 
+30 noviembre 2021
+Actividades Principales | • Desarrollo y mantenimiento de código Java.
+• Actualizo aplicaciones en servidores WAS de la versión 8 a la 9.
+• Utilizo la herramienta SONAR para promover buenas prácticas de código.
+• Actualizo versiones de código CSS cuando es requerido.
+• Analizo bases de datos MySQL: configuro accesos y analizo la estructura de datos.
+• Analizo y actualizo Store Procedures para adecuarlos a la estructura de datos.
+HERRAMIENTAS CONOCIDAS
+- PHP (Lenguaje de desarrollo web)
+- Java (Lenguaje de programación para desarrollo de aplicaciones)
+- Coldfusion
+- CSS
+- HTML
+- Informix
+- SQL Server (Motor de base de datos para consultas y validaciones)
+- MySQL
+- Checkmarx
+- SONAR
+- WAS
+- Liberty
+- Tomcat
+- Windows
+FORMACIÓN ACADÉMICA:
+Ingenieria en Software - septiembre 2014 – diciembre 2017 | Universidad Politecnica de Tecamac | Cédula Profesional
+CERTIFICACIONES
+- Scrum Foundation Professional Certification (SFPC) – CertiProf | 2024
+- Lean Six Sigma White Belt Professional Certification (LSSWBPC) – CertiProf | 2024
+- Foundational C# with Microsoft | 2024
+______________________________________
+Jesus Norberto Rivera Miranda
+Desarrollador de atención de incidentes | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.

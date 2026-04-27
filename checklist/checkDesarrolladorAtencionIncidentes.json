@@ -1,0 +1,223 @@
+{
+    "capacidadRecursosHumanos": {
+        "experiencia": [
+            {
+                "concepto": "¿La primera sección de experiencia declara explícitamente: Al menos 3 años de experiencia comprobada en un centro de desarrollo de software. Dominio de Tecnologías del AR y/o tecnologías open source?",
+                "detalle": "Para el rol del Desarrollador de atención de incidentes Al menos 3 años de experiencia centro de desarrollo de software. Dominio de Tecnologías del AR y/o tecnologías open source",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita experiencia en mantenimiento de aplicaciones en Sterling (soluciones de IBM)?",
+                "detalle": "Adicional: Al menos 1 recurso con experiencia en mantenimiento de aplicaciones en Sterling (soluciones de IBM)",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV acredita funciones de mantenimiento y soporte a los aplicativos dominando varios lenguajes de programación?",
+                "detalle": "Mantener y dar soporte a los aplicativos dominando varios lenguajes de programación Habilidades en: Resolución de problemas Versionamiento del código (Git) Dominio en el desarrollo de servicios y aplicaciones web (frontend y backend)",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV declara explícitamente experiencia mínima requerida como desarrollador en atención de incidentes técnicos en entornos productivos?",
+                "detalle": "---",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Acredita experiencia en el análisis técnico y corrección de incidencias (bugfix, hotfix, parches) en aplicaciones productivas?",
+                "detalle": "---",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Demuestra experiencia reproduciendo incidentes en ambientes controlados para su diagnóstico y solución?",
+                "detalle": "---",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Evidencia participación directa en la resolución de incidentes clasificados por severidad/prioridad?",
+                "detalle": "---",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Cuenta con experiencia realizando validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente?",
+                "detalle": "---",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Ha participado en despliegues correctivos o liberaciones urgentes derivadas de incidentes (hotfix/parches)?",
+                "detalle": "---",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Describe experiencia colaborando con equipos de soporte, QA o usuarios técnicos durante la atención del incidente?",
+                "detalle": "---",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Documenta la solución técnica aplicada y contribuye a la mejora continua mediante lecciones aprendidas o bases de conocimiento?",
+                "detalle": "---",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La experiencia acumulada y la cronología laboral suman al menos el tiempo mínimo requerido para el rol de atención de incidentes?",
+                "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La experiencia suma ≥3 años en un centro de desarrollo de software?",
+                "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿La cronología de periodos laborales suma al menos los 3 años requeridos?",
+                "detalle": "Los periodos de trabajo descritos en el CV suman la experiencia solicitada",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿Las fechas desde/hasta son congruentes (sin traslapes y con formato uniforme)?",
+                "detalle": "Fechas correctas en el periodo de experiencia: La fecha Desde, debe ser un mes posterior a la última fecha Hasta, los meses deben ir escritos sin abreviación e iniciando con mayúscula",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV está redactado en primera persona (cuando así lo establece la guía)?",
+                "detalle": "El CV debe ser redactado como si el candidato/recurso humano lo estuviera presentando",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV documenta proyectos (grandes/críticos) resaltando habilidades en: Resolución de problemas Versionamiento del código (Git) Dominio en el desarrollo de servicios y aplicaciones web (frontend y backend)?",
+                "detalle": "Mantener y dar soporte a los aplicativos dominando varios lenguajes de programación Habilidades en: Resolución de problemas Versionamiento del código (Git) Dominio en el desarrollo de servicios y aplicaciones web (frontend y backend)",
+                "resultado": ""
+            },
+            {
+                "concepto": "¿El CV presenta numeralia que acredite la experiencia del candidato como Desarrollador de atención de incidentes, incluyendo número de incidencias técnicas atendidas, correcciones implementadas, tipos de fallas resueltas, tiempos de solución, ambientes impactados y participación en despliegues correctivos (hotfix/parches)?",
+                "detalle": "Nº de incidentes técnicos atendidos (mensual/anual). Nº de bugfix/hotfix/parches implementados. Tipología de fallas corregidas (aplicación, base de datos, configuración, integración). Tiempo promedio de resolución técnica. Nº de despliegues correctivos apoyados o ejecutados. Ambientes intervenidos (INT/UAT/PROD). Nº de incidentes cerrados vs. reabiertos (calidad del fix).",
+                "resultado": ""
+            }
+        ],
+         "competenciaHabilidadTrabajo": [
+            {
+                "concepto": "¿El candidato cuenta con estudios de nivel superior en alguna de las áreas válidas señaladas para el rol?",
+                "detalle": "Acreditar la competencia señalada Estudios nivel superior acreditable de nivel licenciatura o ingeniería",
+                "resultado": ""
+            }
+        ],
+         "dominioHerramientas": [
+            {
+                "concepto": "¿El candidato cuenta con certificaciones?",
+                "detalle": "¿Todas las certificaciones son legibles, con nombre coincidente, vigentes y verificables ante la entidad emisora?",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar el dominio de herramientas señaladas - con Certificaciones",
+                "detalle": "Adicional es deseable alguna de las siguientes certificaciones vigente: En los lenguajes de programación indicados.",
+                "resultado": ""
+            },
+            {
+                "concepto": "Acreditar conocimiento comprobable en las tecnologías descritas - Cursos Lenguajes de Programación Cómputo en la nube Bases de Datos Sistemas Operativos Servicios integrales de autenticación",
+                "detalle": "Conocimiento comprobable en las tecnologías descritas en la introducción del documento Anexo Staff Lenguajes de Programación: Java (open jdk), Ansi, C#, C, C++, DataStage, Basic, 4GL, SPL, Transact SQL, Python, Scala, R, Rust. Cómputo en la nube: AWS, Azure, Data Factory, Databricks, Dockers Kubernetes, ARO (Azure Redhat OpenShift), Data Pipelines. Bases de Datos: PostgreSQL, Oracle, MariaDB, IBM, Informix, SQL Server, QVD, Azure SQL, Cassandra, DataLake, DB2. Sistemas Operativos: Linux, Unix, Windows Server, z/OS, Spice. Servicios integrales de autenticación: E-firma, OAuth 2.0, OWIN, SAML2, Omniguard.",
+                "resultado": ""
+            }
+        ]
+    },
+        "dominioHerramientas": [
+        {
+            "concepto": "¿Utiliza herramientas de gestión de incidentes/tickets para registrar, atender y dar seguimiento a incidencias técnicas (Service Desk, Jira, Azure DevOps, MSSAT o equivalente)?",
+            "detalle": "Tickets atendidos, estados, comentarios técnicos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Clasifica y atiende incidentes conforme a prioridad/severidad definidos por el servicio (P1–P4 o equivalente)?",
+            "detalle": "Tickets con prioridad y tiempos de atención.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas de diagnóstico técnico (logs de aplicación, trazas, monitoreo) para identificar causas de fallas?",
+            "detalle": "Capturas de logs, referencias a análisis realizados.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Aplica correcciones técnicas directas al código o configuración para resolver incidentes (bugfix, hotfix, ajustes de configuración)?",
+            "detalle": "Cambios realizados, descripción del fix aplicado.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Reproduce incidentes en ambientes controlados para su análisis y corrección?",
+            "detalle": "Descripción de pruebas de reproducción.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Versiona cambios correctivos en herramientas de control de versiones (Git/GitLab/GitHub) siguiendo el proceso definido por el equipo?",
+            "detalle": "Commits asociados a incidentes, ramas hotfix.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Participa en el ensamblado y despliegue de correcciones (hotfix/parches) en ambientes autorizados?",
+            "detalle": "Despliegues documentados, validación post-fix.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Ejecuta validaciones técnicas posteriores a la corrección para confirmar la resolución del incidente?",
+            "detalle": "Evidencia de pruebas post-fix, resultados documentados.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Coordina la validación funcional mínima con QA o usuarios técnicos cuando el incidente lo requiere?",
+            "detalle": "Registro de validación, confirmación de cierre.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Trabaja en ambientes productivos y pre-productivos siguiendo procedimientos operativos definidos (DEV/INT/UAT/PROD)?",
+            "detalle": "Participación en actividades de operación.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas de acceso seguro y operación controlada para ambientes productivos?",
+            "detalle": "Mención de accesos controlados, procedimientos.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Documenta la atención del incidente (causa, solución, pasos) utilizando plantillas o bitácoras operativas?",
+            "detalle": "Reportes de incidente, notas técnicas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Actualiza bases de conocimiento o registros de lecciones aprendidas tras la resolución de incidentes?",
+            "detalle": "KBs, documentación de soluciones recurrentes.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Utiliza herramientas colaborativas para comunicación y coordinación técnica (Teams, correo, reuniones de incidente)?",
+            "detalle": "Minutas, mensajes, convocatorias.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Consulta o actualiza documentación técnica en repositorios colaborativos (Confluence, SharePoint, repos Git)?",
+            "detalle": "Versiones, consultas realizadas.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Registra el cierre de incidentes con evidencia técnica y administrativa en la herramienta correspondiente?",
+            "detalle": "Ticket cerrado con detalle y evidencias.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿Apoya la generación de reportes operativos de incidentes (volumen, tiempos, recurrencia)?",
+            "detalle": "Reportes, datos entregados al Líder Técnico.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye ejemplos donde aplicó conocimientos adquiridos en cursos técnicos o capacitaciones para resolver incidentes reales?",
+            "detalle": "Caso concreto: problema, herramienta, resultado.",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de sus certificaciones (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        },
+        {
+            "concepto": "¿El CV incluye casos concretos donde aplicó conocimientos de cursos (qué, cómo, resultado)?",
+            "detalle": "Esta clara en el CV",
+            "resultado": ""
+        }
+    ]
+    
+}

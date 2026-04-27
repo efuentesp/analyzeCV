@@ -1,0 +1,82 @@
+Daniel Rendon Velazquez
+Desarrollador Junior BI
+FUNCIONES
+Desarrollo e implemento sistemas mediante el uso de lenguajes de programación, realizando su puesta a punto para asegurar su correcto funcionamiento. Cuento con experiencia en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, participo en el desarrollo, mantenimiento y soporte de procesos ETL (Extract, Transform, Load) y utilizo herramientas de Business Intelligence como Databricks y Fabric.
+Participo en la creación y mejora de pipelines ETL, en el modelado de datos y en la generación de informes para apoyar la toma de decisiones, colaborando con equipos técnicos y con stakeholders para convertir requerimientos en soluciones funcionales y confiables.
+EXPERIENCIA PROFESIONAL
+Cuento con al menos 2 años de experiencia en el desarrollo de servicios y aplicaciones web (frontend y backend), dashboards, tableros e informes automáticos. Genero soluciones de Inteligencia de Negocio mediante el desarrollo y mantenimiento de procesos y componentes de datos, implementando flujos Extraer, Transformar y Cargar (ETL) y modelos de información conforme a especificaciones técnicas y buenas prácticas, apoyando en la calidad y correcta ejecución de las soluciones bajo supervisión.
+
+Tengo experiencia en análisis y desarrollo de procesos Extraer, Transformar y Cargar (ETL), manejo de herramientas de integración y bases de datos relacionales. Trabajo en colaboración con partes interesadas para convertir requisitos en soluciones técnicas, participo en la implementación y mantenimiento de procesos de datos y entrego componentes que facilitan el análisis y la continuidad operacional.
+EXPERIENCIA LABORAL
+Empresa
+Softtek | Puesto
+Data Management Engineer OnPrem ETL PR | Desde:
+01 noviembre 2023 | Hasta: 
+Actual
+Actividades Principales | • Creo sistemas (paquetes de software), los implemento y realizo su puesta a punto para que sean funcionales, utilizando diversos lenguajes de programación. Cuento con habilidades en bases de datos relacionales y no relacionales, así como en técnicas de diseño para el modelado de datos. Además, desarrollo, doy mantenimiento y brindo soporte a procesos Extraer, Transformar y Cargar (ETL), y manejo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric.
+• Desarrollo e implemento sistemas y componentes de software para soluciones de Inteligencia de Negocio.
+• Apoyo en la puesta a punto y correcto funcionamiento de las soluciones desarrolladas.
+• Desarrollo, mantengo y doy soporte a procesos Extraer, Transformar y Cargar (ETL) para la integración y transformación de datos.
+• Colaboro en el modelado de datos utilizando bases de datos relacionales y no relacionales.
+• Apoyo en la construcción de estructuras de datos para soluciones analíticas y de BI.
+• Utilizo herramientas de BI como Databricks (Plataforma de analítica basada en Apache Spark) y Fabric para el procesamiento y análisis de información.
+• Atiendo incidencias básicas y doy soporte a los procesos y soluciones implementadas.
+• Aplico buenas prácticas de desarrollo y lineamientos definidos por el equipo.
+• Colaboro con equipos de trabajo para asegurar la correcta ejecución de las soluciones.
+• Documento procesos, desarrollos y configuraciones para asegurar su entendimiento y mantenimiento.
+• Resuelvo problemas relacionados con el desarrollo, integración y procesamiento de datos en soluciones de Inteligencia de Negocio, analizando posibles soluciones mediante el uso de procedimientos y buenas prácticas estandarizadas. Trabajo bajo un nivel de supervisión frecuente y reconozco que los tiempos de entrega pueden presentar cierta variabilidad mientras consolido experiencia en el desarrollo de soluciones BI.
+• He aplicado el Curso de Python para desarrollar scripts y soluciones básicas utilizando los fundamentos del lenguaje Python.
+• He puesto en práctica el curso Diseño de Bases de Datos Relacionales para modelar y estructurar bases de datos relacionales aplicando buenas prácticas de normalización.
+• He aplicado el curso JavaScript TOTAL – De Cero a Programador Web en 18 Días para desarrollar funcionalidades dinámicas en aplicaciones web utilizando JavaScript.
+• He puesto en práctica el curso Oracle SQL Performance Tuning Masterclass (2025) para optimizar consultas y mejorar el rendimiento de bases de datos Oracle mediante técnicas de tuning SQL.
+• Participo en los siguientes procesos definidos por la metodología PDSS3 de atención de proyectos tradicionales de Softtek:
+• CIS: Elaboro la especificación detallada de componentes.
+• CTR: Realizo la construcción de componentes.
+• DOC: Genero la documentación técnica.
+• Realizo análisis de procesos para aplicaciones de negocio.
+• Actualizo y optimizo código existente para asegurar el cumplimiento de las reglas de negocio.
+• Utilizo Forms 12c y Reports 12c para el desarrollo y mantenimiento de aplicaciones Oracle.
+• Desarrollé soluciones y componentes usando Forms 12c y Reports 12c.
+• Trabajé con MySQL para tareas relacionadas con consultas y soporte de datos.
+• Participé en el análisis y ajustes de reportes y formularios para aplicaciones empresariales.
+Empresa
+General Electric | Puesto
+Oracle Developer | Desde:
+01 marzo 2024 | Hasta: 
+31 diciembre 2024
+Actividades Principales | • Desarrollé soluciones y componentes usando Forms 12c y Reports 12c.
+• Trabajé con MySQL para tareas relacionadas con consultas y soporte de datos.
+• Participé en el análisis y ajustes de reportes y formularios para aplicaciones empresariales.
+HERRAMIENTAS UTILIZADAS EN EL DESEMPEÑO DE SUS FUNCIONES
+- Curso de Python - Platzi
+- Diseño de Bases de Datos Relacionales
+- JavaScript TOTAL – De Cero a Programador Web en 18 Días
+- Oracle SQL Performance Tuning Masterclass (2025)
+- Informatica PowerCenter
+- Informatica Developer 10.5.4
+- Oracle Forms/Reports
+- Oracle PL/SQL
+- SQL Developer
+- MySQL
+- Forms 12c
+- Reports 12c
+- Python
+- Power BI
+- ABAP
+HISTORIAL PROFESIONAL ADICIONAL
+La experiencia abarca desde 01 octubre de 2013 hasta 30 noviembre de 2023
+Durante este período asumí responsabilidades en desarrollo y mantenimiento de aplicaciones, administración de entornos y liderazgo de proyectos. Me desempeñé en puestos como Líder de Proyecto, Software Engineer y Oracle Developer, realizando actividades de desarrollo de Extraer, Transformar y Cargar (ETL), análisis de reglas de negocio, generación de reportes ejecutivos y soporte de módulos ERP. Participé en la mejora de procesos, gestión de equipos y documentación técnica para asegurar la continuidad operativa y la calidad de las soluciones.
+FORMACIÓN ACADÉMICA (COMPETENCIA):
+Ingeniería en Computación - febrero 2005 - julio 2010 | Centro Universitario Valle de México UAEM, Estado de México | Cédula Profesional
+DOMINIO DE HERRAMIENTAS (CERTIFICACIONES Y CURSOS):
+CURSOS
+- Curso de Python - Platzi
+- Diseño de Bases de Datos Relacionales
+- JavaScript TOTAL – De Cero a Programador Web en 18 Días
+- Oracle SQL Performance Tuning Masterclass (2025)
+______________________________________
+Daniel Rendon Velazquez
+Desarrollador Junior BI | ______________________________________
+Ángel Eduardo Guerrero García
+Representante legal
+BFS Ingeniería Aplicada S. A. de C. V.
